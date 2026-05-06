@@ -1,0 +1,188 @@
+{
+ "2410.01282": {
+  "abstract": "This computational study introduces a theoretical framework for practical, electrochemical fuel generation displaying exponential product yields as functions of time. Exponential reaction scaling is simulated through an autocatalytic cycle that emulates the process of DNA replication facilitated by the well-known polymerase chain reaction (PCR). Here, an initial buildup of formate into a two-carbon chain through CO2 carboxylation forms oxalate. A subsequent, two-electron reduction yields glyoxylate, with base-mediated hydrolysis driving C-C bond fission of glyoxylate into two molecules of formate. These products are then recycled to serve as reactants. This recursive process chemistry drives formate evolution that scales as 2^n, where n is the cycle number. Each step of the proposed fuel cycle is analogized to the steps of DNA annealing, nucleotide polymerization and hybridized strand fission that are responsible for the exponential product yields observed in PCR-mediated DNA synthesis. As a consequence of this replication behavior, rapid rates of fuel production become accessible, even when the individual rate constants for the cycle's constituent processes are slow. Practical barriers to realizing this system are discussed, particularly the difficulty of formate carboxylation and the energy demands of chemical amplification.",
+  "authors": [
+   "Peter Agbo"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Peter Agbo",
+  "pdf_url": "http://arxiv.org/pdf/2410.01282",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-10-02",
+  "tags": [
+   "autocatalysis",
+   "formate"
+  ],
+  "title": "Self-replicating fuels via autocatalytic molecular bond fission",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-02-02"
+ },
+ "2602.04280": {
+  "abstract": "Zinc-based electrochromic devices offer a sustainable route for dynamic optical management but are plagued by poor cycling stability due to irreversible zinc plating/stripping and side reactions. Herein, we report a robust, high-contrast, and recyclable zinc-based dynamic window enabled by a synergistic electrolyte and interfacial engineering strategy. Molecular dynamics simulations and electrochemical analyses reveal a dual-ion cooperative mechanism that governs the reversibility: anions with the strongest binding affinity guide uniform Zn deposition by stabilizing the inner solvation shell, while formate anions co-enriched at the interface facilitate smooth stripping via protonation during the oxidation process. This orchestrated interplay effectively eliminates \"dead Zn\" accumulation and dendrite growth. Consequently, the device demonstrates a record-high lifespan of 15,000 cycles with negligible degradation and maintains a large optical modulation of >50%, along with multiple optical states (transparent, gray, black, and mirror). Furthermore, it achieves a large reflectance modulation (>50%) stable for over 2,000 cycles. This work establishes the recyclable zinc-based dynamic window as a scalable, high-performance alternative to conventional electrochromic systems, advancing the feasibility of solution-processed energy-saving windows in sustainable buildings.",
+  "authors": [
+   "Fei Peng",
+   "Zhichao Liang",
+   "Zhoutao Yang",
+   "Yijia Chen",
+   "Wenjie Mai",
+   "Chuanxi Zhao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Fei Peng",
+  "pdf_url": "http://arxiv.org/pdf/2602.04280",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-04",
+  "tags": [
+   "formate",
+   "molecular-dynamics"
+  ],
+  "title": "Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-02-04"
+ },
+ "2602.08183": {
+  "abstract": "The transition to a green hydrogen economy demands robust, scalable, and sustainable anodes for alkaline water electrolysis operating at industrial current densities (>1 A/cm2). However, achieving high activity and long-term stability under such conditions remains a formidable challenge with conventional catalysts. Here, we report a novel trimetallic CuNiFe anode fabricated through a rapid, single-step electrodeposition process at room temperature without organic additives. The catalyst exhibits an exceptionally low overpotential of <270 mV at 100 mA cm(-2) and operates stably for over 500 hours at 1 A cm(-2) in 30 wt% KOH. In a practical anion exchange membrane water electrolyzer (AEM-WE), the CuNiFe anode enables a current density of 2.5 A cm(-2) at only 2.5 V, with a voltage efficiency of 66.8%. Beyond water splitting, this anode also significantly enhances CO2 electrolysis, tripling the CO2 reduction current density and steering selectivity toward valuable multi-carbon products when paired with commercial copper cathodes. A cradle-to-gate life cycle assessment confirms that the CuNiFe anode reduces the carbon footprint by an order of magnitude and decreases environmental impacts by 40-60% across multiple categories compared to benchmark IrRuO2. Our work establishes a scalable, high-performance, and environmentally benign anode technology, paving the way for cost-effective electrochemical production of green hydrogen and carbon-neutral chemicals.",
+  "authors": [
+   "Nusrat Rashid",
+   "Shurui Yang",
+   "Galyam Sanfo",
+   "Isabelle Ewing",
+   "Zahra Ibrahim Albu",
+   "Xinjuan Li",
+   "Tianhao Wu",
+   "Prajna Bhatt",
+   "Mathieu Prevot",
+   "Laurent Piccolo",
+   "Mahmoud Zendehdel",
+   "Robert G. Palgrave",
+   "Caterina Ducati",
+   "Mojtaba Abdi-Jalebi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Nusrat Rashid",
+  "pdf_url": "http://arxiv.org/pdf/2602.08183",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-09",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "Boosting high-current alkaline water electrolysis and carbon dioxide reduction with novel CuNiFe-based anodes",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-02-09"
+ },
+ "2602.17953": {
+  "abstract": "The photochemical CO2 reduction reaction represents a zero-carbon pathway for converting CO2 into value-added chemicals, yet its industrial implementation has been constrained by low selectivity and product diversity. Dirac nodal arc semimetals characterized by ultrahigh carrier mobility with over 25000 cm2 V-1 s-1 offer a promising platform to search for efficient catalysts for CO2 conversion. Herein, we demonstrate that strategic Pt incorporation into PdSn4 optimizes the electronic structure and carrier dynamics of this Dirac semimetal. Experimental and theoretical analyses reveal that the resulting Pd-Sn-Pt local electronic structure redistributes charge density around Pd and Pt atoms, which facilitates C-C coupling via *OC-COH and *OC-CHOH intermediates and enhances carrier mobility by 40% versus the pristine PdSn4 single crystal. The optimized Pd0.4Pt0.6Sn4 single crystal achieves C2H4 with formation rate of 0.000328 mol g-1 h-1, product selectivity of 73.1% and electron-based selectivity of 89%. This work establishes electronic-structure-tunable Dirac semimetals as a new paradigm for multi-carbon photochemical CO2 reduction, providing a design strategy for next-generation photocatalysts.",
+  "authors": [
+   "Kangwang Wang",
+   "Jie Zhan",
+   "Jun Liu",
+   "Zaichen Xiang",
+   "Wanyi Zhang",
+   "Lingyong Zeng",
+   "Kai Yan",
+   "Yan Sun",
+   "Huixia Luo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": "26 pages, 6 figures",
+  "first_author": "Kangwang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2602.17953",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-20",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "Efficient photocatalytic CO2 Reduction to C2+ Products with Pt1-xPdxSn4 Dirac Nodal Arc Semimetal",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-02-20"
+ },
+ "2602.22869": {
+  "abstract": "Molybdenum disulfide (MoS2) has emerged as a promising, cost-effective catalyst for hydrogen production via water splitting. We investigate the structural and electrocatalytic properties of MoS2 thin films deposited on different substrates (Al2O3, SiC, STO) to study their hydrogen evolution reaction (HER) activity. In particular, in order to study the substrate influence on the stabilization of different polymorphic MoS2 phases, the films are synthesised using pulsed laser deposition on substrates with different crystal symmetries and lattice parameters. All the deposited samples are characterized by X-Ray Diffraction, Raman Spectroscopy, Linear Sweep Voltammetry and Electrochemical Impedance Spectroscopy analyses. The films grown on Al2O3 substrates exhibit the best HER performance, likely due to the stabilization of the metastable 1T phase through the interfacial interactions between film and substrate. Presence of the 1T phase in the samples grown on Al2O3 improves the charge transfer efficiency and the electrochemically active surface with a better response to the applied potential, demonstrating their enhanced catalytic behaviour for hydrogen evolution.",
+  "authors": [
+   "Hafiz Sami-Ur-Rehman",
+   "Arpana Singh",
+   "Nunzia Coppola",
+   "Pierpaolo Polverino",
+   "Sandeep Kumar Chaluvadi",
+   "Shyni Punathum-Chalil",
+   "Heinrich-Christoph Neitzert",
+   "Diana Sannino",
+   "Pasquale Orgiani",
+   "Alice Galdi",
+   "Cesare Pianese",
+   "Paolo Barone",
+   "Carmela Aruta",
+   "Luigi Maritato"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages, 8 figures",
+  "first_author": "Hafiz Sami-Ur-Rehman",
+  "pdf_url": "http://arxiv.org/pdf/2602.22869",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-26",
+  "tags": [
+   "electrocatalysis",
+   "hydrogen-evolution",
+   "impedance-spectroscopy"
+  ],
+  "title": "Substrate induced optimization of the Electrocatalytic Hydrogen Evolution Reaction (HER) performances of MoS2 thin film",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-02-26"
+ },
+ "2602.22931": {
+  "abstract": "Atomistic simulations of electrochemical interfaces remain challenging due to the long time scales required to adequately sample the structure of the electric double layer. The emergence of efficient, short-range machine learning interatomic potentials (MLIPs) offers a promising alternative to computationally expensive density functional theory-based molecular dynamics (DFT-MD) simulations in this regard. However, in standard periodic DFT calculations of metal surfaces, the surface charge is implicitly set by the number of counterions in the simulation cell, making it a global property that is difficult to represent with strictly local MLIPs. Here, we benchmark common MLIP architectures (DP, ACE, MACE) for charged Au/water interfaces containing solvated sodium ions. We find that MLIPs trained on datasets spanning multiple surface charge states yield inconsistent predictions of interfacial water orientation and ion distributions, although message-passing models with a larger receptive field exhibit greater robustness to training on mixed-charge datasets. In contrast, models trained on a single charge state produce consistent equilibrium interfacial properties. Finally, we assess the performance of the eSEN model trained on the recently released Open Catalyst 2025 dataset, which includes solid/liquid interfaces that span a wide range of surface charge densities. Overall, our results characterize the limitations of short-range MLIPs for simulations of electrochemical interfaces and provide practical guidance for constructing training datasets for simulations of charged metal/electrolyte interfaces.",
+  "authors": [
+   "Lucas B. T. de Kam",
+   "Jia-Xin Zhu",
+   "Ankit Mathanker",
+   "Katharina Doblhoff-Dier",
+   "Nitish Govindarajan"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "30 pages, 19 figures",
+  "first_author": "Lucas B. T. de Kam",
+  "pdf_url": "http://arxiv.org/pdf/2602.22931",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-02-26",
+  "tags": [
+   "density-functional-theory",
+   "electric-double-layer",
+   "electrochemical-interfaces",
+   "molecular-dynamics"
+  ],
+  "title": "Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-02-26"
+ }
+}

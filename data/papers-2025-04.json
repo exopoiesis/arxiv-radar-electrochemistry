@@ -1,0 +1,198 @@
+{
+ "2504.00350": {
+  "abstract": "The conversion of CO2 into high-value chemicals through a photoreduction reaction in water is a promising route to reduce the dependence on fossil fuels. Ag nanoparticles can drive this reaction via localized surface plasmon resonance, but their low selectivity limits usage in industry. Enhancing selectivity toward hydrocarbons or alcohols requires addition of a co-catalyst such as Cu. However, the stabilized surface state created by Ag-Cu interactions is still poorly understood. In this work, soft x-ray Ambient-Pressure X-ray Photoelectron Spectroscopy (AP-XPS) and Grazing-Incidence X-ray Scattering (AP-GIXS) were used to investigate the evolution of Ag-Cu nanoparticles under CO2RR-like conditions. AP-XPS revealed Ag and Cu surface and sub-surface diffusion, while AP-GIXS tracked change of shape and size of nanoparticles induced by diffusion mechanics. Under 532 nm laser irradiation, further oxidation of Cu and Ag sub-surface diffusion were observed, providing invaluable insights into the dynamic restructuring of the catalyst under reaction conditions.",
+  "authors": [
+   "Gustavo Zottis Girotto",
+   "Maximilian Jaugstetter",
+   "Dongwoo Kim",
+   "Ruan M. Martins",
+   "André R. Muniz",
+   "Miquel Salmeron",
+   "Slavomir Nemsak",
+   "Fabiano Bernardi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Gustavo Zottis Girotto",
+  "pdf_url": "http://arxiv.org/pdf/2504.00350",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-01",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "Chemical and Morphological Transformations of a Ag-Cu Nanocatalyst During CO2 Reduction Reaction",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-04-01"
+ },
+ "2504.02954": {
+  "abstract": "Surface specific vibrational spectroscopies revolutionized the study of charged interfaces, by sensitively probing water's response in the electric double layer (EDL) and correlating it with surface charge via models like Gouy Chapmann Stern. The assumed one to one relationship between water's spectroscopic response and surface charge has been widely accepted without question. We hereby propose a theoretical experiment to evaluate this assumption. Interestingly, our findings reveal a non one to one relationship between surface charge and spectroscopic response, exhibiting a fascinating dependence on surface topology.",
+  "authors": [
+   "Wanlin Chen",
+   "Marie-Pierre Gaigeot",
+   "Simone Pezzotti"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Wanlin Chen",
+  "pdf_url": "http://arxiv.org/pdf/2504.02954",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-04-03",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Surface charge pattern: impact on vibrational spectroscopy and physics of charged interfaces",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-04-03"
+ },
+ "2504.08998": {
+  "abstract": "A twin surface dielectric barrier discharge on the microsecond scale was used in combination with a two-component coating to oxidize 300 ppm n-butane as a model volatile organic compound to CO2 and H2O in synthetic air at room temperature and at 160 °C. The integration of BaTiO3 as a base material for the coating allowed the successful use of otherwise discharge-ignition-inhibiting materials such as MnO2-CuO applied as a full coating. Application of pure BaTiO3 led to highly porous coatings that do not hinder the discharge ignition and show a negligible influence on n-butane conversion while reducing byproduct formation. Thus, BaTiO3 was identified as a suitable structure-directing agent in two-component coatings, using 1:1 and 1:2 ratios of BaTiO3:catalyst coatings. Coated electrode configurations were compared to their respective uncoated state to highlight the coating-induced changes. The two-component coatings strongly increased the CO2 selectivity, reaching a maximum of 91.6 % at an energy density of 450 J/L and 160 °C for the 1:2 ratio, corresponding to an increase of 51.0 % relative to the uncoated electrode.",
+  "authors": [
+   "Timothy Oppotsch",
+   "Christian Oberste-Beulmann",
+   "Alexander Böddecker",
+   "Gerrit Hübner",
+   "Ihor Korolov",
+   "Peter Awakowicz",
+   "Martin Muhler"
+  ],
+  "categories": [
+   "physics.plasm-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Submission to Plasma Processes and Polymers pending, 12 pages, 13 figures",
+  "first_author": "Timothy Oppotsch",
+  "pdf_url": "http://arxiv.org/pdf/2504.08998",
+  "primary_category": "physics.plasm-ph",
+  "published": "2025-04-11",
+  "tags": [],
+  "title": "Overcoming Discharge Inhibition in n-Butane Oxidation: Two-Component BaTiO3 and Mn-Cu Mixed Oxide Coatings",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-04-11"
+ },
+ "2504.13634": {
+  "abstract": "Electrochemical CO2 reduction (eCO2R) represents a pivotal strategy for mitigating global carbon emissions while simultaneously converting renewable energy into storable chemical fuels. Copper-based catalysts have been extensively explored in this field due to their unique capability to catalyze multi-carbon products. However, the intrinsic complexity of eCO2R pathways on Cu surfaces often leads to mixed product distributions, posing a significant challenge for achieving high selectivity toward a single desired hydrocarbon. Herein, we report a breakthrough in methane selectivity using laser-synthesized, ligand-free Cu nanomaterials. Unlike conventional Cu catalysts that produce diverse products, these ligand-free nanoparticles exhibit unprecedented selectivity for methane (CH4) with a Faradaic efficiency (FE) exceeding 70% at superior overpotentials. The absence of surface ligands, a direct consequence of the ultrafast laser ablation synthesis, ensures abundant exposed active sites with tailored electronic and geometric configurations. We attribute the exceptional methane selectivity to the synergistic effects of active sites-rich surfaces and optimized *CO intermediate binding energetics, which favor the protonation pathway toward CH4 rather than C-C coupling. This work not only resolves the long-standing selectivity dilemma in Cu-catalyzed eCO2R but also establishes laser-synthesized ligand-free nanomaterials as a versatile platform for designing high-performance electrocatalysts.",
+  "authors": [
+   "Taiping Ye",
+   "Artyom Lactionov",
+   "Islam Sozaev",
+   "Anton Popov",
+   "Sergei Klimentov",
+   "Andrei V. Kabashin",
+   "Ya Liu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 5 figures",
+  "first_author": "Taiping Ye",
+  "pdf_url": "http://arxiv.org/pdf/2504.13634",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-04-18",
+  "tags": [
+   "co2-reduction",
+   "electrocatalysis"
+  ],
+  "title": "Laser-Synthesized Ligand-Free Cu Nanocatalysts in Electrochemical CO2 Reduction to Methane",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-04-21"
+ },
+ "2504.15710": {
+  "abstract": "The electrocatalytic CO2 reduction reaction (CO2RR) is a complex multi-proton-electron transfer process that generates a vast network of reaction intermediates. Accurate prediction of free energy changes (G) of these intermediates and products is essential for evaluating catalytic performance. We combined density functional theory (DFT) and machine learning (ML) to screen 25 single-atom catalysts (SACs) on defective r-GeSe monolayers for CO2 reduction to methanol, methane, and formic acid. Among nine ML models evaluated with 14 intrinsic and DFT-based features, the XGBoost performed best (R2 = 0.92 and MAE = 0.24 eV), aligning closely with DFT calculations and identifying Ni, Ru, and Rh@GeSe as prospective catalysts. Feature importance analysis in free energy and product predictions highlighted the significance of CO2 activation with O-C-O and IPC-O1 as the key attributes. Furthermore, by incorporating non-DFT-based features, rapid predictions became possible, and the XGBoost model retained its predictive performance with R2 = 0.89 and MAE = 0.29 eV. This accuracy was further validated using Ir@GeSe. Our work highlights effective SACs for CO2RR, and provides valuable insights for efficient catalyst design.",
+  "authors": [
+   "Xuxin Kang",
+   "Wenjing Zhou",
+   "Ziyuan Li",
+   "Zhaoqin Chu",
+   "Hanqin Yin",
+   "Shan Gao",
+   "Aijun Du",
+   "Xiangmei Duan"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Xuxin Kang",
+  "pdf_url": "http://arxiv.org/pdf/2504.15710",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-04-22",
+  "tags": [
+   "co2-reduction",
+   "density-functional-theory",
+   "electrocatalysis",
+   "formate"
+  ],
+  "title": "Prediction of CO2 reduction reaction intermediates and products on transition metal-doped r-GeSe monolayers:A combined DFT and machine learning approach",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-04-22"
+ },
+ "2504.16493": {
+  "abstract": "The conversion of $\\mathrm{CO_2}$ into useful products such as methanol is a key strategy for abating climate change and our dependence on fossil fuels. Developing new catalysts for this process is costly and time-consuming and can thus benefit from computational exploration of possible active sites. However, this is complicated by the complexity of the materials and reaction networks. Here, we present a workflow for exploring transition states of elementary reaction steps at inverse catalysts, which is based on the training of a neural network-based machine learning interatomic potential. We focus on the crucial formate intermediate and its formation over nanoclusters of indium oxide supported on Cu(111). The speedup compared to an approach purely based on density functional theory allows us to probe a wide variety of active sites found at nanoclusters of different sizes and stoichiometries. Analysis of the obtained set of transition state geometries reveals different structure--activity trends at the edge or interior of the nanoclusters. Furthermore, the identified geometries allow for the breaking of linear scaling relations, which could be a key underlying reason for the excellent catalytic performance of inverse catalysts observed in experiments.",
+  "authors": [
+   "Luuk H. E. Kempen",
+   "Marius Juul Nielsen",
+   "Mie Andersen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "10 pages, 6 figures + supporting information (5 pages, 7 figures, 2 tables)",
+  "first_author": "Luuk H. E. Kempen",
+  "pdf_url": "http://arxiv.org/pdf/2504.16493",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-23",
+  "tags": [
+   "density-functional-theory",
+   "formate",
+   "reaction-networks"
+  ],
+  "title": "Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\\mathrm{CO_2}$ hydrogenation energy barriers",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-04-23"
+ },
+ "2504.20836": {
+  "abstract": "In this article, a previously published amplifier-less potentiostat architecture is further examined. Starting with a linearized model, the impact of the most important parameters is studied taking in account the electrodes-solution electrochemical interface. A detailed model is obtained and thoroughly verified, and recommended operating conditions are given for certain limit load conditions. Then, a more complete non-linear model is developed to take in account the measurement uncertainty introduced by the circuit non-linear components. This non-linear model is compared to a time domain description of the circuit and it is verified that it can predict the non-linear behavior with a precision better than 20%. This result enables the circuit designers to compensate for these effects and ultimately reduce the overall measurement uncertainty.",
+  "authors": [
+   "Andrea Sannino",
+   "David-Peter Wiens",
+   "Maurits Ortmanns",
+   "José I. Artigas",
+   "Aránzazu Otín"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "Article submitted to an IEEE conference. This work has been submitted to the IEEE for possible publication",
+  "first_author": "Andrea Sannino",
+  "pdf_url": "http://arxiv.org/pdf/2504.20836",
+  "primary_category": "eess.SY",
+  "published": "2025-04-29",
+  "tags": [
+   "electrochemical-interfaces"
+  ],
+  "title": "Non-Linear Modeling and Analysis of Amplifier-Less Potentiostat Architectures",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-04-29"
+ }
+}

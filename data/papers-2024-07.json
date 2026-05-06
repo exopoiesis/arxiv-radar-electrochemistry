@@ -1,0 +1,57 @@
+{
+ "2405.18957": {
+  "abstract": "Ion partitioning between different compartments (\\emph{e.g.} a porous material and a bulk solution reservoir), known as Donnan equilibrium, plays a fundamental role in various contexts such as energy, environment, or water treatment. The linearized Poisson-Boltzmann (PB) equation, capturing the thermal motion of the ions with mean-field electrostatic interactions, is practically useful to understand and predict ion partitioning, despite its limited applicability to conditions of low salt concentrations and surface charge densities. Here, we investigate the Donnan equilibrium of coarse-grained dilute electrolytes confined in charged slit-pores in equilibrium with a reservoir of ions and solvent. We introduce and use an extension to confined systems of a recently developed hybrid nonequilibrium molecular dynamics / grand canonical Monte Carlo simulation method (\"H4D\"), which enhances the efficiency of solvent and ion-pair exchange via a fourth spatial dimension. We show that the validity range of linearized PB theory to predict the Donnan equilibrium of dilute electrolytes can be extended to highly charged pores, by simply considering \\textit{renormalized} surface charge densities. We compare with simulations of implicit solvent models of electrolytes and show that in the low salt concentrations and thin electric double layer limit considered here, an explicit solvent has a limited effect on the Donnan equilibrium and that the main limitations of the analytical predictions are not due to the breakdown of the mean-field description, but rather to the charge renormalization approximation, because it only focuses on the behavior far from the surfaces.",
+  "authors": [
+   "Jeongmin Kim",
+   "Benjamin Rotenberg"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "16 pages, 8 figures",
+  "first_author": "Jeongmin Kim",
+  "pdf_url": "http://arxiv.org/pdf/2405.18957",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-29",
+  "tags": [
+   "electric-double-layer",
+   "explicit-solvation",
+   "molecular-dynamics"
+  ],
+  "title": "Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2024-07-15"
+ },
+ "2407.13472": {
+  "abstract": "Aqueous metal corrosion is a major economic concern in modern society. A phenomenon that has puzzled generations of scientists in this field is the so-called anomalous hydrogen evolution: the violent dissolution of magnesium under electron-rich (anodic) conditions, accompanied by strong hydrogen evolution, and a key mechanism hampering Mg technology. Experimental studies have indicated the presence of univalent Mg$^+$ in solution, but these findings have been largely ignored because they defy our common chemical understanding and evaded direct experimental observation. Using recent advances in the \\emph{ab initio} description of solid-liquid electrochemical interfaces under controlled potential conditions, we described the full reaction path of Mg atom dissolution from a kinked Mg surface under anodic conditions. Our study reveals the formation of a solvated [Mg$^{2+}$(OH)$^-$]$^+$ ion complex, challenging the conventional assumption of Mg$^{2+}$ ion. This insight provides an intuitive explanation for the postulated presence of (coulombically) univalent Mg$^+$ ions and the absence of protective oxide/hydroxide layers normally formed under anodic/oxidizing conditions. The discovery of this unexpected and unconventional reaction mechanism is crucial for identifying new strategies for corrosion prevention and can be transferred to other metals.",
+  "authors": [
+   "Florian Deißenbeck",
+   "Sudarsan Surendralal",
+   "Mira Todorova",
+   "Stefan Wippermann",
+   "Jörg Neugebauer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Florian Deißenbeck",
+  "pdf_url": "http://arxiv.org/pdf/2407.13472",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-07-18",
+  "tags": [
+   "ab-initio",
+   "electrochemical-interfaces",
+   "hydrogen-evolution"
+  ],
+  "title": "On the origin of univalent Mg$^+$ ions in solution and their role in anomalous anodic hydrogen evolution",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2024-07-18"
+ }
+}

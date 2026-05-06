@@ -1,0 +1,237 @@
+{
+ "2510.10996": {
+  "abstract": "The Marcus theory expression for the rate of non-adiabatic electron transfer is widely used across a range of physical conditions. Although Marcus theory defines the reorganization energy classically, here we show that the reorganization parameter governing the activation barrier for normal-region electron transfer is most generally a quantum mechanical object that depends on the electronic coupling, coinciding with the Marcus picture only in the limit of vanishing electronic coupling. This result unifies the physical description of electron-transfer activation barriers across the adiabatic and non-adiabatic regimes and formally predicts that Marcus-like rate expressions remain accurate beyond their traditional non-adiabatic domain of validity. These insights allow us to derive a closed-form expression for the curvature of the current-overpotential relation for electron-transfer-limited reactions at the electrochemical interface, now formally applicable to both inner-sphere and outer-sphere processes.",
+  "authors": [
+   "Ethan Abraham",
+   "Junghyun Yoon",
+   "Troy Van Voorhis",
+   "Martin Z. Bazant"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Ethan Abraham",
+  "pdf_url": "http://arxiv.org/pdf/2510.10996",
+  "primary_category": "quant-ph",
+  "published": "2025-10-13",
+  "tags": [
+   "electrochemical-interfaces"
+  ],
+  "title": "Effective quantum reorganization energy for electron transfer",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-04-01"
+ },
+ "2510.22182": {
+  "abstract": "This study explores how the distribution of surface charge along corrugated nanochannels affects flow rates, ionic currents, and charge selectivity under electric field- or pressure gradient-driven flow. We numerically solve the coupled Poisson-Nernst-Planck-Stokes equations for periodic aperture profiles and examine how the Debye screening length, the degree of symmetry between surface charge and geometry, and the magnitude of an applied driving force affect the velocity profile. We resolve two flow regimes. In Regime I, at low driving force, the flow rate is proportional to the applied field or pressure gradient but is significantly diminished relative to channels without surface charge inhomogeneity. Throughput is inhibited by a localised streaming potential that opposes the displacement of ions from the diffuse part of the electric double layer. In Regime II, at high pressure gradients, we demonstrate a transition between electrostatically and mechanically controlled flow regimes in which a marginal increase in applied pressure triggers an abrupt, orders-of-magnitude increase in mean velocity. By comparison, electroosmotically driven advection under sinusoidal wall charge produces a smooth flow transition. Exploiting the pressure-gradient-driven flow transition, we demonstrate that the phase angle between surface charge oscillations and geometric undulations exerts a controlling influence on ionic current and its selectivity. By incorporating the computed velocity and electric field profiles into a random walk particle tracking algorithm, we provide a quantitative characterization of ion transport dynamics, demonstrating the ability to selectively rectify charge flux and moderate the rate of ion dispersion.",
+  "authors": [
+   "Thomas Petersen",
+   "Pouya Golchin",
+   "Jinwoo Im",
+   "Felipe P. J. de Barros"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Thomas Petersen",
+  "pdf_url": "http://arxiv.org/pdf/2510.22182",
+  "primary_category": "physics.flu-dyn",
+  "published": "2025-10-25",
+  "tags": [
+   "electric-double-layer",
+   "ion-transport"
+  ],
+  "title": "Electrokinetic Effects on Flow and Ion Transport in Charge-Patterned Corrugated Nanochannels",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-04-22"
+ },
+ "2602.09981": {
+  "abstract": "Thin-film self-assembly of three-dimensional (3D) microsystems presents a compelling route to integrate complex functionalities into ultra-compact volumes, yet strategies for incorporating tunable ion-conducting elements remain limited. Here, we introduce a strain-induced self assembly platform that transforms lithographically patterned multilayer thin films into functional 3D coaxial Swiss-roll microtubes with total active volumes below 1 uL. A key innovation is the monolithic integration of a chemically tunable polyimide proton-exchange membrane, enabling post-fabrication optimization of ionic transport that balances proton transport with mediator blocking. We further implement a dual-mode operational scheme that decouples microbial metabolism from electrochemical power generation, revealing biofouling, not chemical fouling or membrane degradation, as the dominant failure mechanism in conventional architectures. Critically, optimally treated polyimide membranes exhibit excellent recoverability after fouling, while cell-free mode operation maintains stable performance by physically excluding microorganisms from the microelectronic environment. This integrated bio-electronic microsystem achieves a volumetric power density of ~3.1 mW cm-3 within an ultra-compact footprint of 4.16 mm2. Our work establishes a scalable thin-film engineering approach to create tunable, 3D bioelectronic power sources for autonomous microsystems.",
+  "authors": [
+   "Aleksandr I. Egunov",
+   "Hongmei Tang",
+   "Pablo E. Saenz",
+   "Dmitriy D. Karnaushenko",
+   "Yumin Luo",
+   "Chao Zhong",
+   "Xinyu Wang",
+   "Yang Huang",
+   "Pavel Fedorov",
+   "Leandro Merces",
+   "Minshen Zhu",
+   "Daniil Karnaushenko",
+   "Oliver",
+   "G. Schmidt"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Aleksandr I. Egunov",
+  "pdf_url": "http://arxiv.org/pdf/2602.09981",
+  "primary_category": "physics.app-ph",
+  "published": "2026-02-10",
+  "tags": [
+   "ion-transport",
+   "proton-transport"
+  ],
+  "title": "Thin-Film-Engineered Self-Assembly of 3D Coaxial Microfluidics with a Tunable Polyimide Membrane for Bioelectronic Power",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-04-23"
+ },
+ "2604.04718": {
+  "abstract": "With the increase in the complexity of the materials used in various sophisticated electronic devices, recycling of E-waste is becoming challenging. In the present study, we have converted thermoelectric (TE) waste into functional HER electrocatalyst by considering circular-economy and low-carbon approach. The as received TE waste was processed through ball milling (TE waste-BM) and melting casting (TE waste-M) routes. Morphological and structural evaluations revealed that the formation of BiSbTe3/ZnTe heterostructure in TE-waste-M promote HE efficiency when compared to the presence of Bi2Te3/BiSbTe3 heterostructure (TE-waste-BM). TE waste-M exhibited lower overpotential (641 mV at 10 mA/sq.cm), smaller Tafel slope (233 mV/dec) and stable operation for 5.5 h with negligible current decay than that of TE waste-BM, attributed to the accelerated charge transfer, fast water dissociation steps and rapid hydrogen adsorption in TE waste-M, originated from the presence of BiSbTe3/ZnTe heterostructure, defect enriched interfaces. Density functional theory calculations supported the experimental findings, revealing that heterostructures strengthens the bonding states near the Fermi level, thereby enhancing the HER activity of BiSbTe3/ZnTe heterostructure. This work simultaneously integrates waste management with green hydrogen production by offering an economically viable, scalable and low-carbon approach for HER catalysts.",
+  "authors": [
+   "Gemeda Jemal Usa",
+   "Caique C. Oliveira",
+   "Varinder Pal",
+   "Suman Sarkar",
+   "Gebisa Bekele Feyisa",
+   "Moumita Kotal",
+   "Emmanuel Femiolu",
+   "Pedro A. S. Autreto",
+   "Temesgen Debelo Desissa",
+   "Chandra Sekhar Tiwary"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Gemeda Jemal Usa",
+  "pdf_url": "http://arxiv.org/pdf/2604.04718",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-06",
+  "tags": [
+   "density-functional-theory",
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Transforming Discarded Thermoelectrics into High-Performance HER Catalysts",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-04-06"
+ },
+ "2604.18417": {
+  "abstract": "Methane (CH4) and nitrous oxide (N2O) are potent greenhouse gases that represent substantial chemical energy. Conversion of these abundant waste gases to high-value chemicals typically requires high temperatures up to 1000 C, producing substantial CO2 emissions and limited selectivity toward desirable multi-carbon products. Here we demonstrate a plasmonic photocatalyst that enables CH4 and N2O conversion under ambient conditions to form C2 and C3 hydrocarbons. By systematically tuning AuPd alloys on TiO2, we identify an optimal composition (AuPd0.05) where Au enhances light harvesting and Pd enables selective C-H activation and C-C coupling. Under visible-light illumination, this catalyst produces C2H4, C2H6, C3H6, and C3H8 with ~80% selectivity while suppressing CO2 formation. In-situ spectroscopy and hot-carrier calculations show that plasmon-generated carriers redistribute interfacial hydroxyl intermediates, shifting the hydrophilic center to suppress overoxidation. Ab-initio calculations further reveal the reduction in C-C coupling barriers from 2.7 eV to 0.7 eV under illumination. Our work illustrates how engineering interfacial electronic and adsorbate dynamics enables selective multicarbon formation.",
+  "authors": [
+   "Serin Lee",
+   "Lin Yuan",
+   "Elijah Begin",
+   "Dali Yang",
+   "Cedric Lim",
+   "Yirui Arlene Zhang",
+   "Lu Ma",
+   "Colin Ophus",
+   "Yi Cui",
+   "Junwei Lucas Bao",
+   "Jennifer A. Dionne"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Serin Lee",
+  "pdf_url": "http://arxiv.org/pdf/2604.18417",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-20",
+  "tags": [],
+  "title": "Plasmonic Photocatalysis Enables Selective Oxidative Coupling of Methane with Nitrous Oxide under Ambient Conditions",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-04-20"
+ },
+ "2604.20379": {
+  "abstract": "Gate-modulated nanopores have emerged as a promising platform for achieving ion selectivity and ionic current rectification (ICR) with the advantage of active field-based control. However, the mechanistic origin of these experimentally reported phenomena, arising from electrostatic coupling between the prescribed radial pore surface potential and the axial transmembrane electric field, remains insufficiently understood. Here, using coupled Poisson--Nernst--Planck and Navier--Stokes simulations supported by asymptotic analysis, we show that a uniform surface potential inherently interacts with the axial driving field to generate a three-dimensional, axially nonuniform electric double layer (EDL). This field-induced EDL heterogeneity effectively mimics a linear axial variation in zeta potential, breaking translational symmetry within an otherwise uniform pore. As a result, the system exhibits coupled electrokinetic responses, including ion selectivity, ionic current rectification, and non-canonical electroosmotic flow, all governed by a single asymmetry parameter $α$ derived from the EDL structure. Critical transitions occur at specific values of $α$; in particular, at $α=0$, the EDL becomes axially antisymmetric, leading to reversal of ion selectivity, significant ICR and the emergence of a peculiar negative electroosmotic flow rectification accompanied by internal vortical structures. These findings establish the electrostatic mechanism for axial symmetry breaking as the underlying principle for transport in voltage-gated nanopores, enabling a unified framework for designing tunable electrokinetic functionalities beyond geometry- and chemistry-based strategies.",
+  "authors": [
+   "Pramodt Srinivasula",
+   "Doyel Pandey"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "9 figures",
+  "first_author": "Pramodt Srinivasula",
+  "pdf_url": "http://arxiv.org/pdf/2604.20379",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-04-22",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Emergence of Transport Regimes from the Axial Field-Induced Interfacial Gradients in Uniform Surface Potential Nanopores",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-04-22"
+ },
+ "2604.21768": {
+  "abstract": "The Sabatier reaction, the catalytic hydrogenation of CO2 into CH4, offers a cornerstone for carbon capture and utilization, and in-situ resource utilization during space exploration; however, it faces a fundamental thermodynamic-kinetic paradox: although highly exothermic, conventional catalysts still require continuous external heating to activate CO2 and maintain stable operation. Here we report an amorphous silica-embedded ruthenium catalyst that enables a long-term self-sustaining autothermal Sabatier reaction dispensing with external energy supply. Operating under ambient conditions, this system achieves a record-high CH4 yield of 0.50 mol gcat-1 h-1 with 100% selectivity, stable operation for over 2,000 hours, and a record-low catalyst bed temperature down to 100 oC. This exceptional self-sustaining behavior stems from the synergistic effect of the catalyst's ultralow effective thermal conductivity (0.27 W m-1 K-1), induced by amorphous nanoconfinement, and its superior intrinsic activity. This synergy generates localized hot spots at Ru sites while suppressing macroscopic heat loss. In situ measurements further reveal CH4 formation even at 54 oC and identify a *CO-mediated pathway for CO2 methanation. The reaction ignites readily with a lighter or focused sunlight and persists even under forced convection from an electric fan, demonstrating strong environmental tolerance. By removing the need for constant energy input, this \"ignite-and-forget\" system paves the way for decentralized Power-to-Gas systems and autonomous fuel production in resource-constrained environments like Mars.",
+  "authors": [
+   "Zhiyong Qiu",
+   "Cheng Li",
+   "Jinzhen Yang",
+   "Fangkun Sun",
+   "Zheng Zhang",
+   "Canwen Yu",
+   "Weizheng Cai",
+   "Liang Guo",
+   "Yutong Gong",
+   "Junjie Wang",
+   "Meng Danny Gu",
+   "Jiazhen Wu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 5 figures",
+  "first_author": "Zhiyong Qiu",
+  "pdf_url": "http://arxiv.org/pdf/2604.21768",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-23",
+  "tags": [],
+  "title": "Amorphous Nanoconfinement Enables Self-sustaining Sabatier Reaction at Ambient Conditions",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-04-23"
+ },
+ "2604.27266": {
+  "abstract": "This paper introduces AutoREC, an open-source Python package for developing reinforcement learning (RL) agents to automatically generate equivalent circuit models (ECMs) from electrochemical impedance spectroscopy (EIS) data. While ECMs are a standard framework for interpreting EIS data, traditional identification is typically based on manual trial-and-error, which requires domain experts and limits scalability, particularly in autonomous experimental pipelines such as self-driving laboratories. AutoREC addresses this challenge by formulating ECM construction as a sequential decision-making problem within a Markov Decision Process framework. It implements a Double Deep Q-Network with prioritized experience replay, along with a dedicated dead-loop mitigation strategy, to efficiently explore a complex action space for circuit generation. To demonstrate the capabilities of the platform, we trained an RL agent using AutoREC and evaluated its strengths and limitations across diverse datasets, while also discussing possible strategies to mitigate these limitations in future agent designs. The trained agent achieved a success rate exceeding $99.6\\%$ on synthetic datasets and demonstrated strong generalization to unseen experimental EIS data from batteries, corrosion, oxygen evolution reaction, and CO$_2$ reduction systems. These results position AutoREC as a promising platform for adaptive and data-driven ECM generation, with potential for integration into automated electrochemical workflows.",
+  "authors": [
+   "Ali Jaberi",
+   "Yonatan Kurniawan",
+   "Robert Black",
+   "Shayan Mousavi M.",
+   "Kabir Verma",
+   "Zoya Sadighi",
+   "Santiago Miret",
+   "Jason Hattrick-Simpers"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ali Jaberi",
+  "pdf_url": "http://arxiv.org/pdf/2604.27266",
+  "primary_category": "cs.LG",
+  "published": "2026-04-29",
+  "tags": [
+   "impedance-spectroscopy",
+   "oxygen-evolution"
+  ],
+  "title": "AutoREC: A software platform for developing reinforcement learning agents for equivalent circuit model generation from electrochemical impedance spectroscopy data",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-04-29"
+ }
+}

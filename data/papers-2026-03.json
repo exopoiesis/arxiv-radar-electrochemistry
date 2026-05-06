@@ -1,0 +1,242 @@
+{
+ "2410.11983": {
+  "abstract": "Water confined to channels one nanometer thick exhibits electrochemical behavior distinct from bulk water, including enhanced protonic conductivity and large dielectric anisotropy. Here, we exploit these characteristics to design a scalable electrochemical energy-storage system (\"blue capacitor\") constructed entirely from naturally abundant materials. By assembling layered clays and conductive graphene, we produce 1-nm-thick channels in which confined water acts as the sole electrolyte. We systematically study different clay types, the electrode composition, and separator thickness using complementary physicochemical and electrochemical techniques. The device operates stably up to 1.6 V, achieves specific capacitances of up to 40 F/g, nearly 100% coulombic efficiency, and stable performance over more than 60,000 charge-discharge cycles. Structural and dynamic analyses validate the device architecture, water purity, and proton transport in the nanopores. These results demonstrate that nanoconfined water can function as an electrolyte in a macroscopic electrochemical device, providing a platform for exploring sustainable aqueous energy-storage systems.",
+  "authors": [
+   "Vasily Artemov",
+   "Svetlana Babiy",
+   "Yunfei Teng",
+   "Jiaming Ma",
+   "Alexander Ryzhov",
+   "Tzu-Heng Chen",
+   "Lucie Navratilova",
+   "Victor Boureau",
+   "Pascal Schouwink",
+   "Mariia Liseanskaia",
+   "Patrick Huber",
+   "Fikile Brushett",
+   "Lyesse Laloui",
+   "Giulia Tagliabue",
+   "Aleksandra Radenovic"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "Main text: 16 pages, 6 figures, 40 references. Supplementary: 32 pages, 36 figures, 3 tables, 13 references",
+  "first_author": "Vasily Artemov",
+  "pdf_url": "http://arxiv.org/pdf/2410.11983",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-10-15",
+  "tags": [
+   "proton-transport"
+  ],
+  "title": "All-water supercapacitor enabled by 1-nm clay channels",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-03-06"
+ },
+ "2602.23399": {
+  "abstract": "The development of efficient and stable intermediate-temperature solid oxide fuel cells (SOFCs) necessitates high-performance cathode materials that are cobalt-free, cost-effective, and compatible with proton-conducting electrolytes. While Sr2Fe2O6 (SFO)-based ferrites offer a promising cobalt-free alternative, their electrochemical performance requires further enhancement to compete with state-of-the-art cathodes. This study proposes and validates a multi-element doping strategy as a superior approach to tailor the properties of SFO. The specific oxide Sr2Fe1.5Mo0.125Sn0.125Sc0.125Zr0.125O6 (SFO-ZSSM) is designed, synthesized via a solid-state reaction method, and systematically evaluated as a cathode for proton-conducting SOFCs (H-SOFCs). Its performance is benchmarked against a series of SFO cathodes modified with single dopants (Mo, Sn, Sc, Zr). Structural characterization confirms the successful formation of a phase-pure perovskite structure with homogeneous elemental distribution. Electrical conductivity relaxation (ECR) measurements reveal that SFO-ZSSM exhibits dramatically enhanced oxygen and proton transport kinetics compared to all singly-doped counterparts, demonstrating a significant synergistic effect. Consequently, fuel cells employing the SFO-ZSSM cathode deliver exceptional peak power densities of 1580, 1137, and 854 mW cm-2 at 700, 650, and 600 °C, respectively, significantly outperforming cells with single-doped cathodes. Electrochemical impedance spectroscopy further corroborates its superior catalytic activity, showing the lowest polarization resistance. Moreover, the SFO-ZSSM cell demonstrates excellent operational stability over 100 hours, attributed to its robust microstructure and Ba-free composition.",
+  "authors": [
+   "Le Zhou",
+   "Yanru Yin",
+   "Dilshod Nematov",
+   "Hailu Dai",
+   "Yuyuan Gu",
+   "Shoufu Yu",
+   "Lei Bi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Le Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2602.23399",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-26",
+  "tags": [
+   "impedance-spectroscopy",
+   "proton-transport"
+  ],
+  "title": "A high-performance cobalt-free cathode for proton-conducting solid oxide fuel cells via multi-element doping in Sr2Fe2O6",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-03-02"
+ },
+ "2603.01311": {
+  "abstract": "The discovery of novel catalysts tailored for particular applications is a major challenge for the twenty-first century. Traditional methods for this include time-consuming and expensive experimental trial-and-error approaches in labs based on chemical theory or heavily computational first-principles approaches based on density functional theory. Recent studies show that deep learning models like graph neural networks (GNNs) can significantly speed up the screening and discovery of catalyst materials by many orders of magnitude, with very high accuracy and fidelity.   In this work, we introduce Catalyst-Agent, a Model Context Protocol (MCP) server-based, LLM-powered AI agent. It can explore vast material databases using the OPTIMADE API, make structural modifications, calculate adsorption energies using Meta FAIRchem's UMA (GNN) model via FAIRchem's AdsorbML workflow and slab construction, and make useful material suggestions to the researcher in a closed-loop manner, including surface-level modifications to refine near-miss candidates.   It is tested on three pivotal reactions: the oxygen reduction reaction (ORR), the nitrogen reduction reaction (NRR), and the CO2 reduction reaction (CO2RR). Catalyst-Agent achieves a success rate of 23-34 percent among all the materials it chooses and evaluates, and manages to converge in 1-2 trials per successful material on average. This work demonstrates the potential of AI agents to exercise their planning capabilities and tool use to operationalize the catalyst screening workflow, provide useful, testable hypotheses, and accelerate future scientific discoveries for humanity with minimal human intervention.",
+  "authors": [
+   "Achuth Chandrasekhar",
+   "Janghoon Ock",
+   "Amir Barati Farimani"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Achuth Chandrasekhar",
+  "pdf_url": "http://arxiv.org/pdf/2603.01311",
+  "primary_category": "cs.CL",
+  "published": "2026-03-01",
+  "tags": [
+   "ab-initio",
+   "adsorption-energy",
+   "co2-reduction",
+   "density-functional-theory"
+  ],
+  "title": "Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-03-01"
+ },
+ "2603.06446": {
+  "abstract": "The optical response of two-dimensional materials is often significantly impacted by excitonic effects due to the reduced screening of attractive Coulomb interactions in low-dimensional systems. Accurate modeling of exciton formation and real-time dynamics is essential to understanding their ultrafast optical properties. In this study, we theoretically investigate the exciton dynamics in a two-dimensional hexagonal boron nitride (h-BN) and a germanium sulfide (GeS) monolayers exposed to an ultrashort laser pulse. We analyze the system's response to the external field in one- and two-photon excitation regimes. For our calculations, we combine a state-of-the-art ab initio approach to study exciton dynamics with a highly precise numerical scheme. We incorporate electron-hole interactions through a non-local self-energy operator derived from the many-body perturbation theory (MBPT) within the time-dependent adiabatic $GW$ (TD-a$GW$) approximation. We implement this approach using the full-electron LAPW+lo method in the all-electron exciting package. Our results elucidate the role of many-body effects in shaping ultrafast excitonic processes in two-dimensional materials, contributing to the fundamental understanding necessary for optoelectronic and photonic applications.",
+  "authors": [
+   "Dmitry Tumakov",
+   "Daria Popova-Gorelova"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Dmitry Tumakov",
+  "pdf_url": "http://arxiv.org/pdf/2603.06446",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-06",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Real-time exciton dynamics in two-dimensional materials under ultrashort laser pulses",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-03-06"
+ },
+ "2603.13021": {
+  "abstract": "Electrohydrodynamic flows of weak electrolytes at the nanoscale are significantly influenced by the molecular structure of water-like polar solvents within the electric double layer (EDL). Moreover, unlike in microfluidics, at these length scales the time scale of evolution of EDL often becomes comparable to the consequent fluidic phenomena of interest. While continuum descriptions to model such phenomena typically assume a constant dielectric and viscous solvent background, this study incorporates dipolar solvent physics, specifically both dielectric saturation and the viscoelectric effect together, into a Poisson-Nernst-Planck-Stokes (PNP-S) framework, using the Langevin-Bikerman solvent permittivity distribution and empirical viscoelectric coefficients, respectively. Numerical simulations in a one-dimensional geometry reveal substantial modifications to the electrohydrodynamic body force density and transient electroosmotic mobility during EDL evolution. The magnitude and temporal evolution of these corrections are characterized across parametric regimes, revealing systematic departures from standard constant-permittivity and constant-viscosity models, with electroosmotic mobility reductions of up to 50% governed by a characteristic dimensionless parameter. The results provide a solvent-consistent continuum framework for transient nanoscale electroosmotic flows and quantify the impact of molecular solvent structure on electrohydrodynamic transport relevant to modern nanofluidic applications.",
+  "authors": [
+   "Pramodt Srinivasula"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": "13 pages, 7 figures",
+  "first_author": "Pramodt Srinivasula",
+  "pdf_url": "http://arxiv.org/pdf/2603.13021",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-03-13",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Dipolar solvent contributions for transient nanoscale electroosmotic flow",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-03-13"
+ },
+ "2603.15712": {
+  "abstract": "CO2 reduction requires efficient catalysts, yet materials discovery remains bottlenecked by 10-20 year development cycles requiring deep domain expertise. This paper demonstrates how large language models can assist the catalyst discovery process by helping researchers explore chemical spaces and interpret results when augmented with retrieval-based grounding. We introduce a retrieval-augmented generation framework that enables GPT-4 to navigate chemical space by accessing a database of 50,000+ known materials, adapting general-purpose language understanding for high-throughput materials design. Our approach generated over 250 catalyst candidates with an 82% thermodynamic stability rate while addressing multi-objective constraints: 68% achieved <$100/kg cost with metallic conductivity (band gap<0.1eV) and mechanical stability (B/G>1.75). The best-performing Fe0.2Co0.2Ni0.2Ir0.1Ru0.3 achieves 0.285V limiting potential (25% improvement over IrO2), while Cr0.2Fe0.2Co0.3Ni0.2Mo0.1 optimally balances performance-cost trade-offs at $18/kg. Volcano plot analysis confirms that 78% of LLM-generated catalysts cluster near the theoretical activity optimum, while our system achieves 200x computational efficiency compared to traditional high-throughput screening. By demonstrating that retrieval-augmented generation can ground AI creativity in physical constraints without sacrificing exploration, this work demonstrates an approach where natural language interfaces can streamline materials discovery workflows, enabling researchers to explore chemical spaces more efficiently while the LLM assists in result interpretation and hypothesis generation.",
+  "authors": [
+   "AI Scientists",
+   "Xinyi Lin",
+   "Danqing Yin",
+   "Ying Guo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "AI Scientists",
+  "pdf_url": "http://arxiv.org/pdf/2603.15712",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-16",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "LLM-Driven Discovery of High-Entropy Catalysts via Retrieval-Augmented Generation",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-03-16"
+ },
+ "2603.21827": {
+  "abstract": "Ion channels regulate many essential properties of biological cells, especially the membrane potential. Despite decades of efforts on artificial channels, it remains a great challenge to mimic the dipole potential-an indispensable constituent of the membrane potential, due to its angstrom-scale characteristic length. Here, we explore nanopores in monolayer molybdenum sulfide selenide (MoSSe) considering its intrinsic dipole and atomic thickness. Remarkably, an invariant ionic conductance was observed over salt concentrations spanning six orders of magnitude, distinct from all known conductance-concentration scaling laws and reminiscent of the current saturation in cell membranes at high concentrations. Molecular dynamics simulations revealed the fundamental role of the dipole-modulated dielectric properties of nanoconfined water. Our findings highlight an exotic conductance scaling law and open up a novel avenue for controlling ion transport in unprecedented ways.",
+  "authors": [
+   "Shengping Zhang",
+   "Haiou Zeng",
+   "Ningran Wu",
+   "Guodong Xue",
+   "Xiao Li",
+   "Anshul Saxena",
+   "Junhe Tong",
+   "Nianjie Liang",
+   "Ying Wang",
+   "Zeyu Zhuang",
+   "Jing Yang",
+   "Narayana R. Aluru",
+   "Kaihui Liu",
+   "Bai Song",
+   "Luda Wang"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Shengping Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2603.21827",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-03-23",
+  "tags": [
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Invariant ionic conductance in an atomically thin polar nanopore",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-03-23"
+ },
+ "2603.29342": {
+  "abstract": "Recent work investigated graphene's hydrogenation with independent control of the electric field, E, and charge density, n, in the crystal and showed that the process is controlled by n. Here, we demonstrate layer-selective conductor-insulator transitions in twisted bilayer graphene, driven by hydrogenation at fixed n under strong E. This process is accompanied by proton transport through the bilayer, enabling several parallel and configurable logic gates in the devices. Selectivity arises because the large twist angle decouples the two layers' electronic systems, enabling independent control of their charge densities. Polarisation by the field then induces a charge imbalance at fixed total n, triggering hydrogenation when one of the layers' charge densities reaches the threshold for monolayer hydrogenation. Our results introduce a new type of electrode-electrolyte interface in which electrochemical processes are controlled with two decoupled 2D electron gases, opening new design opportunities for energy and information processing devices.",
+  "authors": [
+   "J. Tong",
+   "G. Chen",
+   "H. Li",
+   "E. Hoenig",
+   "M. Alhashmi",
+   "X. Zhang",
+   "D. Bahamon",
+   "G. R. Tainton",
+   "S. Sullivan-Allsop",
+   "Y. Mayamei",
+   "D. R. da Costa",
+   "L. F. Vega",
+   "S. J. Haigh",
+   "D. Domaretskiy",
+   "F. M. Peeters",
+   "M. Lozada-Hidalgo"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "J. Tong",
+  "pdf_url": "http://arxiv.org/pdf/2603.29342",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-03-31",
+  "tags": [
+   "proton-transport"
+  ],
+  "title": "Layer-selective hydrogenation and proton transport in twisted bilayer graphene",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-03-31"
+ }
+}

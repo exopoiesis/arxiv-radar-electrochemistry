@@ -1,0 +1,119 @@
+{
+ "2507.23031": {
+  "abstract": "Understanding ion adsorption at electrified metal-electrolyte interfaces is essential for accurate modeling of electrochemical systems. Here, we systematically investigate the free energy profiles of Na$^+$, Cl$^-$, and F$^-$ ions at the Au(111)-water interface using enhanced sampling molecular dynamics with both classical force fields and machine-learned interatomic potentials (MLIPs). Our classical metadynamics results reveal a strong dependence of predicted ion adsorption on the Lennard-Jones parameters, highlighting that -- without due care -- standard mixing rules can lead to qualitatively incorrect descriptions of ion-metal interactions. We present a systematic methodology for tuning the cross-term LJ parameters to control adsorption energetics in agreement with more accurate models. As a surrogate for an ab initio model, we employed the recently released Universal Models for Atoms (UMA) MLIP, which validates classical trends and displays strong specific adsorption for chloride, weak adsorption for fluoride, and no specific adsorption for sodium, in agreement with experimental and theoretical expectations. By integrating molecular-level adsorption free energies into continuum models of the electric double layer, we show that specific ion adsorption substantially alters the interfacial ion population, the potential of zero charge, and the differential capacitance of the system. Our results underscore the critical importance of force field parameterization and advanced interatomic potentials for the predictive modeling of ion-specific effects at electrified interfaces and provide a robust framework for bridging molecular simulations and continuum electrochemical models.",
+  "authors": [
+   "Fabrice Roncoroni",
+   "Abrar Faiyad",
+   "Yichen Li",
+   "Tao Ye",
+   "Ashlie Martini",
+   "David Prendergast"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "21 pages, 13 figures, Supplementary Information available",
+  "first_author": "Fabrice Roncoroni",
+  "pdf_url": "http://arxiv.org/pdf/2507.23031",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-07-30",
+  "tags": [
+   "ab-initio",
+   "electric-double-layer",
+   "explicit-solvation",
+   "molecular-dynamics"
+  ],
+  "title": "Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-01-30"
+ },
+ "2601.08385": {
+  "abstract": "Accurate identification of chemical species and reaction pathways from molecular dynamics (MD) trajectories is a prerequisite for deriving predictive chemical-kinetic models and for mechanistic discovery in reactive systems. However, state-of-the-art trajectory analysis methods infer bonding from instantaneous distance thresholds, which can misclassify transient, nonreactive encounters as bonds and thereby introduce spurious intermediates, distorted reaction networks, and biased rate estimates. Here, we introduce ChemXDyn, a dynamics-aware computational methodology that leverages time-resolved interatomic distance signatures as a core principle to robustly identify chemically consistent bonded interactions and, consequently, extract meaningful reaction pathways. In particular, ChemXDyn propagates molecular connectivity through time while enforcing atomic valence and coordination constraints to distinguish genuine bond-breaking and bond-forming events from transient, nonreactive encounters. We evaluate ChemXDyn on ReaxFF MD simulations of hydrogen and ammonia oxidation and on neural-network potential MD simulations of methane oxidation, and benchmark its performance against widely used trajectory analysis methods. Across these cases, ChemXDyn suppresses unphysical species prevalent in static analyses, recovers experimentally consistent reaction pathways, and improves the fidelity of rate constant estimation. In ammonia oxidation, ChemXDyn removes unphysical intermediates and resolves key NOx- and N2O-forming and -consuming routes. In methane oxidation, it reconstructs the canonical progression from CH4 to CO2. By linking atomistic dynamics to chemically consistent reaction identification, ChemXDyn provides a transferable foundation for MD-derived reaction networks and kinetics, with potential utility spanning combustion, catalysis, plasma chemistry, and electrochemical environments.",
+  "authors": [
+   "Raj Maddipati",
+   "Dhruthi Boddapati",
+   "Elangannan Arunan",
+   "Phani Motamarri",
+   "Konduri Aditya"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Raj Maddipati",
+  "pdf_url": "http://arxiv.org/pdf/2601.08385",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-01-13",
+  "tags": [
+   "molecular-dynamics",
+   "reaction-networks"
+  ],
+  "title": "ChemXDyn: Dynamics-informed species and reaction detection methodology from atomistic simulations",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-01-13"
+ },
+ "2601.13803": {
+  "abstract": "Compositionally complex solid solutions (CCSSs) consist of a randomly mixed single phase with the potential to enhance electrocatalytic activity through their polyelemental surface atom arrangements. However, microstructural complexity originating from multiple principal elements influences local structure, chemistry, and lattice strain, which might also affect electrocatalytic activity. Here, we investigate the effect of Ru content on electrochemistry and defect formation in Au-Pd-Pt-Ru CCSS thin films. Such defects could provide active sites when terminating at the CCSS surface or modify surface composition through preferential segregation. A thin-film material library covering a wide composition range was fabricated by room-temperature combinatorial co-sputtering. High-throughput compositional, structural and functional characterization, including electron microscopy equipped with energy dispersive X-ray spectroscopy, X-ray diffraction, and electrochemical screening, were used to correlate composition and microstructural features with catalytic activity. Three representative compositions selected from the library - Au68Pd13Pt15Ru4, Au27Pd24Pt23Ru26, and Au9Pd21Pt18Ru52 - were examined in detail. The three samples exhibit face-centered cubic structures, with lattice contraction occurring with increasing Ru content. In addition, with increasing Ru content, a transition from a high density of nanotwins to high-density, atomic-layer stacking faults was observed. Moreover, the hydrogen evolution reaction activity improves with higher Ru content. Atom probe tomography reveals local compositional fluctuations, including element-specific enrichment and depletion at grain boundaries. The findings provide a new insight into surface atom arrangement design in the CCSS electrocatalysts with enhanced performance.",
+  "authors": [
+   "Miran Joo",
+   "Huixin Xiu",
+   "Sabrina Baha",
+   "Ridha Zerdoumi",
+   "Ningyan Cheng",
+   "Christoph Somsen",
+   "Yujiao Li",
+   "Aleksander Kostka",
+   "Wolfgang Schuhmann",
+   "Alfred Ludwig",
+   "Christina Scheu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Miran Joo",
+  "pdf_url": "http://arxiv.org/pdf/2601.13803",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-01-20",
+  "tags": [
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Influence of Ru content on electrocatalytic activity and defect formation of Au-Pd-Pt-Ru compositionally complex solid solution thin films",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-01-20"
+ },
+ "2601.16459": {
+  "abstract": "Metal-organic framework (MOF) derived materials formed through high temperature processes show great potential as catalysts. However, understanding of structure-property relationships between the initial MOF and the resulting MOF-derived catalyst is limited because the amorphous nature of the catalyst challenges standard structural characterization methods. Neural network approaches that learn interatomic potentials from density functional theory offer a promising solution. We simulated the pyrolysis of UiO-66, UiO-67 and MIP-206 using both foundational and fine-tuned machine learned interatomic potentials (MLIPs). To mimic experimental conditions, an atmosphere of CO2 and H2 was introduced and the structures were doped with 20 wt% copper to probe the effect of copper on the structural evolution of MOFs. These simulations provide atomistic insights into gas evolution, metal nanoparticle formation, and linker decomposition that were compared to available experimental data. Overall, this work demonstrates the potential of MLIPs to accurately model high temperature MOF dynamics under experimentally relevant conditions and guide the design of new catalytic materials.",
+  "authors": [
+   "Connor W. Edwards",
+   "Oliver M. Linder-Patton",
+   "Jack D. Evans"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "18 pages, 4 figures",
+  "first_author": "Connor W. Edwards",
+  "pdf_url": "http://arxiv.org/pdf/2601.16459",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-01-23",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Simulations of High Temperature Decomposition of Metal-Organic Frameworks to form Amorphous Catalysts",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-01-23"
+ }
+}

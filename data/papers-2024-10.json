@@ -1,0 +1,56 @@
+{
+ "2410.04109": {
+  "abstract": "By passively dissipating thermal emission into the ultracold deep space, radiative cooling (RC) is an environment-friendly means for gaining cooling capacity, paving a bright future for global energy saving and carbon dioxide reduction. However, assessing the global RC capacity at the day-to-annual scale remains challenging as the RC capacity significantly depends on geographic and environmental conditions. To our knowledge, no analysis of global RC capacity has been reported. Herein, we show the distribution of RC capacity on Earth by establishing a precise assessment model for evaluating the performance of a radiative cooler. Our assessment is comprehensively validated against experimental data and extended to elucidate the capacity of representative broadband and selective cooler. We also categorize the global RC capacity into five representative regions based on the year-round cooling power. Our assessment can inform trade-offs between design and practical application for the RC systems, alongside promoting RC-based technologies to tackle worldwide energy and environment challenges.",
+  "authors": [
+   "Cunhai Wang",
+   "Hao Chen",
+   "Yanyan Feng",
+   "Ziming Cheng",
+   "Jingchong Liu",
+   "Fuqiang Wang"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "physics.ao-ph"
+  ],
+  "comment": "Four figures",
+  "first_author": "Cunhai Wang",
+  "pdf_url": "http://arxiv.org/pdf/2410.04109",
+  "primary_category": "physics.app-ph",
+  "published": "2024-10-05",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "Radiative cooling capacity on Earth",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2024-10-05"
+ },
+ "2410.08978": {
+  "abstract": "Neuromorphic computing offers a low-power, parallel alternative to traditional von Neumann architectures by addressing the sequential data processing bottlenecks. Electric double layer-gated transistors (EDLTs) resemble biological synapses with their ionic response and offer low power operations, making them suitable for neuromorphic applications. A critical consideration for artificial neural networks (ANNs) is achieving linear and symmetric plasticity (weight updates) during training, as this directly affects accuracy and efficiency. This study uses finite element modeling to explore EDLTs as artificial synapses in ANNs and investigates the underlying mechanisms behind the nonlinear plasticity observed experimentally in previous studies. By solving modified Poisson-Nernst-Planck (mPNP) equations, we examined ion dynamics within an EDL capacitor & their effects on plasticity, revealing that the rates of EDL formation and dissipation are concentration-dependent. Fixed-magnitude pulse inputs result in decreased formation & increased dissipation rates, leading to nonlinear weight updates and limits the number of accessible states and operating range of devices. To address this, we developed a predictive linear ionic weight update solver (LIWUS) in Python to predict voltage pulse inputs that achieve linear plasticity. We then evaluated an ANN with linear and nonlinear weight updates on the MNIST classification task. The LIWUS-provided linear weight updates required 19% fewer epochs in training and validation than the network with nonlinear weight updates to reach optimal performance. It achieved a 97.6% recognition accuracy, 1.5-4.2% higher than with nonlinear updates and a low standard deviation of 0.02%. The network model is amenable to future spiking neural network applications and the performance improvements with linear weight update is expected to increase for complex networks.",
+  "authors": [
+   "Nithil Harris Manimaran",
+   "Cori Sutton",
+   "Jake Streamer",
+   "Cory Merkel",
+   "Ke Xu"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": "Main text - 36 pages, 7 figures. SI - 6 pages, 5 figures. Under review at Journal of Physics: Materials",
+  "first_author": "Nithil Harris Manimaran",
+  "pdf_url": "http://arxiv.org/pdf/2410.08978",
+  "primary_category": "physics.app-ph",
+  "published": "2024-10-11",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2024-10-11"
+ }
+}

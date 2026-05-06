@@ -1,0 +1,87 @@
+{
+ "2501.02813": {
+  "abstract": "The rising energy demands of conventional AI systems underscore the need for efficient computing technologies like brain-inspired computing. Physical reservoir computing (PRC), leveraging the nonlinear dynamics of physical systems for information processing, has emerged as a promising approach for neuromorphic computing. However, current PRC systems are constrained by narrow operating timescales and limited performance. To address these challenges, an ion-gel/graphene electric double layer transistor-based ion-gating reservoir (IGR) was developed, offering adaptability across multi-time scales with an exceptionally wide operating range from 1 MHz to 20 Hz and high information processing capacity. The IGR achieved deep learning (DL)-level accuracy in chaotic time series prediction tasks while reducing computational resource requirements to 1/100 of those needed by DL. Principal component analysis reveals the IGR's superior performance stems from its high-dimensionality, driven by the ambipolar behavior of graphene and multiple relaxation processes. The proposed IGR represents a significant step forward in providing low-power, high-performance computing solutions, particularly for resource-constrained edge environments.",
+  "authors": [
+   "Daiki Nishioka",
+   "Hina Kitano",
+   "Wataru Namiki",
+   "Kazuya Terabe",
+   "Takashi Tsuchiya"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": "27 pages, 6 figures",
+  "first_author": "Daiki Nishioka",
+  "pdf_url": "http://arxiv.org/pdf/2501.02813",
+  "primary_category": "physics.app-ph",
+  "published": "2025-01-06",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-01-06"
+ },
+ "2501.03541": {
+  "abstract": "Vertical field effect transistors (VFETs) show many advantages such as high switching speed, low operating voltage, low power consumption, and miniaturization over lateral FETs. However, VFET still faces the main challenges of high off-state current. Graphene (Gr) and transition metal di-chalcogenides (TMDs) are attractive materials for the next generation electronics. In this simulation work, the bulk molybdenum disulfide (MoS2) is sandwiched between perforated monolayer Gr which acts as the source electrode, and aluminum (Al) as the top drain electrode. In addition to this, the minimization of the off-state current is carried out by modifications in the source contact geometry by insulating some part of the source electrode and introducing the extra MoS2 layer between the source and gate dielectric named as buried layer. After the modification, the results show an improvement in OFF current, hence the ON/OFF ratio. The highest ON/OFF ratio of 109 is achieved with top side insulated source contact and thinnest buried layer of 02 nm with top and sidewall insulation. These results would support low voltage operation with high switching speed in complete 2D material based VFETs and further miniaturize its geometry.",
+  "authors": [
+   "Sirsendu Ghosh",
+   "Anamika Devi Laishram",
+   "Pramod Kumar"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages",
+  "first_author": "Sirsendu Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2501.03541",
+  "primary_category": "physics.comp-ph",
+  "published": "2025-01-07",
+  "tags": [
+   "chalcogenides"
+  ],
+  "title": "Simulation on the Miniaturization and Performance Improvement Study of Gr/MoS2 Based Vertical Field Effect Transistor",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2025-01-07"
+ },
+ "2501.18651": {
+  "abstract": "This study presents the direct measurement of proton transport along filamentous Desulfobulbaceae, or cable bacteria. Cable bacteria are filamentous multicellular microorganisms that have garnered much interest due to their ability to serve as electrical conduits, transferring electrons over several millimeters. Our results indicate that cable bacteria can also function as protonic conduits because they contain proton wires that transport protons at distances greater than 100 um. We find that protonic conductivity (σP) along cable bacteria varies between samples and is measured as high as 114 +/- 28 uS cm^-1 at 25-degrees C and 70-percent relative humidity (RH). For cable bacteria, the protonic conductance (GP) and σP are dependent upon the RH, increasing by as much as 26-fold between 60-percent and 80-percent RH. This observation implies that proton transport occurs via the Grotthuss mechanism along water associated with cable bacteria, forming proton wires. In order to determine σP and GP along cable bacteria, we implemented a protocol using a modified transfer-printing technique to deposit either palladium interdigitated protodes (IDP), palladium transfer length method (TLM) protodes, or gold interdigitated electrodes(IDE) on top of cable bacteria. Due to the relatively mild nature of the transfer-printing technique, this method should be applicable to a broad array of biological samples and curved materials. The observation of protonic conductivity in cable bacteria presents possibilities for investigating the importance of long-distance proton transport in microbial ecosystems and to potentially build biotic or biomimetic scaffolds to interface with materials via proton-mediated gateways or channels.",
+  "authors": [
+   "Bradley G. Lusk",
+   "Sheba Morgan",
+   "Shawn P. Mulvaney",
+   "Brandon Blue",
+   "Samuel W. LaGasse",
+   "Cory D. Cress",
+   "Jesper T. Bjerg",
+   "Woo K. Lee",
+   "Brian J. Eddie",
+   "Jeremy T. Robinson"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "q-bio.BM"
+  ],
+  "comment": "31 Pages, 4 Figures",
+  "first_author": "Bradley G. Lusk",
+  "pdf_url": "http://arxiv.org/pdf/2501.18651",
+  "primary_category": "physics.bio-ph",
+  "published": "2025-01-30",
+  "tags": [
+   "proton-transport"
+  ],
+  "title": "Hydrated Cable Bacteria Exhibit Protonic Conductivity Over Long Distances",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2025-01-30"
+ }
+}

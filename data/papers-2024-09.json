@@ -1,0 +1,69 @@
+{
+ "2409.11648": {
+  "abstract": "Metallic bismuth is both non-toxic and cost-effective. Bi-based catalysts have demonstrated the ability to efficiently produce HCOOH through CO2RR while effectively inhibiting the HER. Although many experiments have been reported concerning its performance towards CO2 reduction, the impact its valence states and crystal faces on CO2RR selectivity (e.g. HCOOH versus CO) it still under debate. Here, we performed a comprehensive study via density functional theory, by including three typical valence states of Bi, such as 0 (Bi), +3 (Bi2O3) and +5 (Bi2O5), as well as their often-studied crystal facets. The results show that metallic Bi demonstrates a poor selectivity for HCOOH, but boasts a higher conversion rate for CO2. While Bi2O3 exhibits a good selectivity for HCOOH production, yet it displays a lower conversion rate for CO2. For Bi2O5, all studied surfaces show high energy barriers in both cases of HCOOH and CO production, and lower energy barriers for HER reactions, indicating that Bi at +5 valence state is not the good choice for 2e transfer reactions. Subsequently, we further examined the effects of oxygen contents on the selectivity of HCOOH and the conversion rate for CO2. Interestingly, we found that partial oxidization of Bi benefits both the selectivity and the conversion rate. With these observations, we suggest that a mixture of Bi (0) and Bi2O3 (+3) phases would be a better choice than single crystals for future experiments.",
+  "authors": [
+   "Mengting Zhou",
+   "Hongxia Liu",
+   "Juntao Yan",
+   "Qingjun Chen",
+   "Rong Chen",
+   "Lei Liu"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mengting Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2409.11648",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-09-18",
+  "tags": [
+   "co2-reduction",
+   "density-functional-theory",
+   "formate",
+   "hydrogen-evolution"
+  ],
+  "title": "On the electrochemical CO2 reduction by Bi-based catalysts: single crystals or mixture phases",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2024-09-18"
+ },
+ "2409.14116": {
+  "abstract": "A long-standing puzzle for methanol electrooxidation is how to achieve a CO-free pathway and accurately understand the origin of electrocatalytic selectivity. Herein, we unequivocally demonstrate that the Bi-modified Pt/C follows a CO-free dominated pathway during alkaline methanol electrooxidation, and unveil the formaldehyde (HCHO) intermediate as a critical factor influencing pathway selectivity. These findings are substantiated by kinetic isotope effects, formate Faradaic efficiency, in situ spectroscopy, ab initio molecular dynamic simulations, and density functional theory calculations. Bi modification significantly increases the HCHO dehydrogenation barrier, which facilitates its desorption and subsequent conversion to the H2COOH- anion at the alkaline interface, intrinsically avoiding CO formation. More specifically, the formation of ensemble sites featuring V-shaped Bi-Pt-Bi configuration inhibits the cleavage of C-H bond, and the weak OH binding energy at Bi adatoms effectively prevents blockage of oxygenated species, allowing such ensemble sites to fulfill their functional role. Our study opens up a novel dimension for designing advanced CO-free catalysts.",
+  "authors": [
+   "Lecheng Liang",
+   "Hengyu Li",
+   "Peng Li",
+   "Jinhui Liang",
+   "Shao Ye",
+   "Binwen Zeng",
+   "Yanhong Xie",
+   "Yucheng Wang",
+   "Taisuke Ozaki",
+   "Shengli Chen",
+   "Zhiming Cui"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "16 pages, 6 figures for main text. 54 pages, 47 figures for supplementary material",
+  "first_author": "Lecheng Liang",
+  "pdf_url": "http://arxiv.org/pdf/2409.14116",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-09-21",
+  "tags": [
+   "ab-initio",
+   "adsorption-energy",
+   "density-functional-theory",
+   "electrocatalysis",
+   "formate"
+  ],
+  "title": "Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2024-09-21"
+ }
+}

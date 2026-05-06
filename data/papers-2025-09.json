@@ -1,0 +1,250 @@
+{
+ "2407.10658": {
+  "abstract": "We employ molecular dynamics simulations to investigate ion and water transport driven by an electric field through quasi-two-dimensional nanoslits with a tapered geometry. Despite the absence of surface charge on the channel walls and the associated electric double layer, we do observe a robust ion selectivity. This selectivity favors the transport of cations from base to tip when the electric field is directed from base to tip, and anions from base to tip when the field direction is reversed. Additionally, we observe a corresponding electro-osmotic water flow from base to tip, regardless of the electric field direction. Intriguingly, ion selectivity and electro-osmotic flow are conventionally associated with surface charge and electric double layers. However, in uncharged tapered nanoslits, we uncover a novel mechanism for these phenomena, where ion selectivity arises from the divergence of the heterogeneous water polarization.",
+  "authors": [
+   "Tim Veenstra",
+   "Gerardo Campos-Villalobos",
+   "Giuliana Giunta",
+   "René van Roij",
+   "Marjolein Dijkstra"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "6 pages, 5 figures + supplementary material (8 pages, 11 figures)",
+  "first_author": "Tim Veenstra",
+  "pdf_url": "http://arxiv.org/pdf/2407.10658",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-07-15",
+  "tags": [
+   "electric-double-layer",
+   "molecular-dynamics"
+  ],
+  "title": "Ion Selectivity in Uncharged Tapered Nanoslits through Heterogeneous Water Polarization",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-09-15"
+ },
+ "2503.15171": {
+  "abstract": "Electric double layer (EDL) formation underlies the functioning of supercapacitors and several other electrochemical technologies. Here, we study how the EDL formation near two flat blocking electrodes separated by $2L$ is affected by beyond-mean-field Coulombic interactions, which can be substantial for electrolytes of high salt concentration or with multivalent ions. Our model combines the Nernst-Planck and Bazant-Storey-Kornyshev (BSK) equations; the latter is a modified Poisson equation with a correlation length $\\ell_c$. In response to a voltage step, the system charges exponentially with a characteristic timescale $τ$ that depends nonmonotonically on $\\ell_c$. For small $\\ell_c$, $τ$ is given by the BSK capacitance times a dilute electrolyte's resistance, in line with [Zhao, Phys. Rev. E 84, 051504 (2011)]; here, $τ$ decreases with increasing $\\ell_c$. Increasing the correlation length beyond $\\ell_c\\approx L^{2/3}λ_D^{1/3}$, with $λ_D$ the Debye length, $τ$ reaches a minimum, rises as $τ\\propto λ_D\\ell_c/D$, and plateaus at $τ=4L^2/(π^2 D)$. Our results imply that strongly correlated, strongly confined electrolytes - ionic liquids in the surface force balance apparatus, say - move slower than predicted so far.",
+  "authors": [
+   "David Fertig",
+   "Mathijs Janssen"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "12 pages, 9 figures",
+  "first_author": "David Fertig",
+  "pdf_url": "http://arxiv.org/pdf/2503.15171",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-03-19",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Charging dynamics of electric double layer capacitors including beyond-mean-field electrostatic correlations",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-09-22"
+ },
+ "2509.01771": {
+  "abstract": "Membrane-electrode-assembly (MEA) cells with copper (Cu) cathodes show strong potential for electrochemical CO2 reduction to ethylene (C2H4), but achieving high C2H4 selectivity remains a challenge due to competing hydrogen evolution. This selectivity is highly sensitive to the local microenvironment near the Cu catalyst surface. In this study, a 1-D, multiphysics continuum model is utilized to investigate how MEA cell performance and faradaic efficiency (FE) to C2H4 are affected by both component properties and operating conditions, with particular focus on coupled transport and reaction phenomena. Key parameters include cathode electrochemically active surface area (ECSA) and catalyst layer thickness. Halving catalyst layer thickness increases FE to C2H4 by 2% and lowers the cell voltage by 40 mV. In contrast, a tenfold decrease in ECSA results increases the FE to C2H4 by 7% but leads increase cell voltage at a given current density by 150 mV. This tradeoff occurs because the potential distribution within the cathode catalyst layer is the primary driving force for C2H4 formation. Increased cell voltage also raises the energy cost of C2H4 production. This model framework enables techno-economic assessments and identifies key factors that must be optimized to enable economically viable production of C2H4 via electrochemical reduction of CO2.",
+  "authors": [
+   "Tugrul Y. Ertugrul",
+   "Woong Choi",
+   "Adam Z. Weber",
+   "Alexis T. Bell"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Tugrul Y. Ertugrul",
+  "pdf_url": "http://arxiv.org/pdf/2509.01771",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-09-01",
+  "tags": [
+   "co2-reduction",
+   "hydrogen-evolution"
+  ],
+  "title": "Membrane-Electrode Assemblies for Electrochemical Reduction of CO2 to Ethylene: Design for Minimal Energy Consumption",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-09-01"
+ },
+ "2509.09357": {
+  "abstract": "Electrochemical energy and substance conversion devices involve complex electrode processes, characterized by multiple charge transfer steps, competing pathways, and various intermediates. Such complexity makes it challenging to enhance electrocatalytic activity. The prevailing strategy typically focuses on optimizing the geometric and electronic structures of the electrocatalysts to align the adsorption energies of reaction intermediates with the peak of the activity Volcano curve. In this study, we demonstrate that surface decoration can effectively shape the micro reaction environment for the model system of oxygen reduction reaction (ORR) on Pt electrodes. By applying a partial hydrophobic I* adlayer on the Pt surface, we can shift the equilibrium of OH* reduction and weaken H2O* adsorption, which significantly enhances ORR kinetics. With in situ scan tunneling microscopy (STM) and theoretical calculations, our study reveals the formation of isolated Pt2 surface units situated in a hydrophobic valley surrounded by adsorbed iodine atoms. This minimalist Pt2 active unit exhibits significantly greater activity for ORR compared to an extended Pt surface. This strategy could pave the way for developing highly efficient catalysts with potential applications in fuel cell technology and metal air batteries and extension to other electrochemical conversion reactions such as ammonia synthesis and CO2 reduction.",
+  "authors": [
+   "Yu-Jun Xu",
+   "Chiao-An Hsieh",
+   "Chen-Yu Zhang",
+   "Li-Dan Zhang",
+   "Han Tang",
+   "Lu-Lu Zhang",
+   "Jun Cai",
+   "Yan-Xia Chen",
+   "Shuehlin Yau",
+   "Zhi-Feng Liu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yu-Jun Xu",
+  "pdf_url": "http://arxiv.org/pdf/2509.09357",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-09-11",
+  "tags": [
+   "adsorption-energy",
+   "co2-reduction",
+   "electrocatalysis"
+  ],
+  "title": "Enhancing Oxygen Reduction Reaction on Pt-Based Electrocatalysts through Surface Decoration for Improved OH Reduction Equilibrium and Reduced H2O Adsorption",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-09-11"
+ },
+ "2509.11325": {
+  "abstract": "Electrochemical CO2 reduction reaction (CO2RR) using 2D nanomaterials has emerged as a sophisticated approach to mitigate industrial CO2 emissions. In this work, the potential application of pristine as well as strategically Fe, Co, Ni-doped 2D AlSb was examined as a CO2RR electrocatalyst. The recation pathways of CO2RR intermediate complexes, overpotential, stability, efficiency, and selectivity were studied using density functional theory (DFT). Outstanding overpotentials were achieved with pristine and doped 2D AlSb: Ni-doped 2D AlSb was selective for HCOOH (0.12eV) and CH4 (0.28eV), and Fe-doped 2D AlSb for HCHO (0.31eV) and CH3OH (0.31eV). The opposing effects of hydrogen evolution reaction (HER) was mitigated with the application of electric potential and solution pH. The main reasons for the enhancement of catalytic effect due to doping with Fe, Co, and Ni are bandgap reduction and creation of states at the edge of the valence band due to the 3d orbitals of these dopants. Interestingly, the Fe-doped 2D AlSb catalyst exhibited the highest catalytic activity. Excellent electrocatalytic properties of pristine and doped 2D AlSb make them suitable as CO2RR catalysts contributing towards a green and sustainable energy ecosystem.",
+  "authors": [
+   "Md. Mostaqul Islam",
+   "Ahmed Zubair"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Md. Mostaqul Islam",
+  "pdf_url": "http://arxiv.org/pdf/2509.11325",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-09-14",
+  "tags": [
+   "co2-reduction",
+   "density-functional-theory",
+   "electrocatalysis",
+   "formate",
+   "hydrogen-evolution"
+  ],
+  "title": "Pristine and transition metal doped 2D AlSb as high performance electrocatalyst for selective CO2 reduction: A first-principles study",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-09-21"
+ },
+ "2509.13529": {
+  "abstract": "The term pristine interface was introduced by Beattie and Djerdjev 20 years ago for emulsions that consist of only water and oil with no surfactant. They are different from Pickering emulsions, which are also surfactant-free but stabilized with colloidal particles. In contrast to previous studies, we monitor the kinetics of the initial stages of emulsion formation. We conducted such tests in an open setup when samples are open to air and CO2 content in the water varies, and in closed setup when samples are isolated with fixed CO2 content. For the open setup, sonication and initial pH > 9 leads to emulsions with high zeta potential and sub-micron droplet size. There are two evolution patterns: short- and long-terms. The short term lasts about 1 day and has changing pH and zeta potential, but almost constant droplet size. The long term is is over several days or even weeks, with droplet size increase toward saturation value (rate dependent on mixing conditions), with pH and zeta potential remaining constant. Emulsification at the closed setup is much less pronounced and pH remains constant. This difference points to the importance of adsorbed CO2 and related carbonate ions in the formation of pristine emulsions and charging droplets interfaces. We hypothesize the existence of structured water molecule layer at the interface, following Eastoe and Ellis. The Electric Double Layer exerts a (dielectrostatic) force on the water dipole moments in this layer that compensates the Kelvins pressure. The droplet size from this model is close to our measurements. Also, there is a repulsion of the water dipole moments, which compensates for the surface tension parallel to the interface. After ruling out alternative hypotheses with our data, we conclude that the model suggested for explaining the stability of nano-bubbles is also consistent with our results for these pristine emulsions.",
+  "authors": [
+   "Andrei Dukhin",
+   "Renliang Xu",
+   "Darrell Velegol"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "38 pages, 10 figures",
+  "first_author": "Andrei Dukhin",
+  "pdf_url": "http://arxiv.org/pdf/2509.13529",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-09-16",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Evolution of surfactant-free 'pristine' emulsions",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-09-16"
+ },
+ "2509.13727": {
+  "abstract": "The electric double layer (EDL) governs electrocatalysis, energy conversion, and storage, yet its atomic structure, capacitance, and reactivity remain elusive. Here we introduce a machine learning interatomic potential framework that incorporates long-range electrostatics, enabling nanosecond simulations of metal-electrolyte interfaces under applied electric bias with near-quantum-mechanical accuracy. At the benchmark Pt(111)/water and Pt(111)/aqueous KF electrolyte interfaces, we resolve the molecular structure of the EDL, reveal proton-transfer mechanisms underlying anodic water dissociation and the diffusion of ionic water species, and compute differential capacitance. We find that the nominally inert K+ and F- ions, while leaving interfacial water structure largely unchanged, screen bulk fields, slow proton transfer, and generate a prominent capacitance peak near the potential of zero charge. These results show that ion-specific interactions, which are ignored in mean-field models, are central to capacitance and reactivity, providing a molecular basis for interpreting experiments and designing electrolytes.",
+  "authors": [
+   "Xiaoyu Wang",
+   "Junmin Chen",
+   "Zezhu Zeng",
+   "Frederick Stein",
+   "Junho Lim",
+   "Bingqing Cheng"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiaoyu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2509.13727",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-09-17",
+  "tags": [
+   "electric-double-layer",
+   "electrocatalysis"
+  ],
+  "title": "Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-09-17"
+ },
+ "2509.17833": {
+  "abstract": "Copper is a highly promising catalyst for the electrochemical CO$_2$ reduction reaction (CO2RR) since it is the only pure metal that can form highly added-value products such as ethylene and ethanol. Since the CO2RR takes place in aqueous solution, the detailed atomic structure of the water-copper interface is essential for unraveling the key reaction mechanisms. In this study, we investigate copper-water interfaces exhibiting nanometer-scale roughnesses. We introduce two molecular dynamics protocols to create rough copper surfaces, which are subsequently brought into contact with water. From these interfaces, we sample additional training configurations from machine-learning-interatomic-potential-driven molecular dynamics simulations containing hundreds of thousands of atoms. An active learning workflow is developed to identify regions with high spatially resolved uncertainty and convert them into DFT-feasible cells through a modified amorphous matrix embedding approach. Finally, we analyze the local environments at the interface using unsupervised machine-learning techniques. Unique environments emerge on the rough copper surfaces absent from model systems, including stacking-fault-induced configurations and undercoordinated corner atoms. Notably, corner atoms consistently feature chemisorbed water molecules in our simulations, indicating their potential importance in catalytic processes.",
+  "authors": [
+   "Linus C. Erhard",
+   "Johannes Schörghuber",
+   "Aleix Comas-Vives",
+   "Georg K. H. Madsen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Linus C. Erhard",
+  "pdf_url": "http://arxiv.org/pdf/2509.17833",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-09-22",
+  "tags": [
+   "co2-reduction",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "How Realistic are Idealized Copper Surfaces? A Machine Learning Study of Rough Copper-Water Interfaces",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-09-22"
+ },
+ "2509.24742": {
+  "abstract": "Constant potential molecular dynamics simulation plays important role for applications of electrochemical systems, yet the calculation of charge fluctuation on electrodes remains a computational bottleneck. We propose a highly scalable, symmetry-preserving random batch Ewald (SRBE) algorithm to address this challenge. The SRBE algorithm deterministically computes the low-frequency components along the direction perpendicular to electrodes, while efficiently approximating the remaining components using random batch sampling. This approach simultaneously reduces charge and force fluctuations while satisfying the symmetry-preserving mean field condition in anisotropic systems with large aspect ratios. Numerical experiments on electrode/ionic liquid systems validate the high accuracy of the SRBE method in capturing dynamic charging processes and equilibrium electric double layer structures. The SRBE method achieves parallel efficiency improvements of up to two orders of magnitude compared with conventional FFT-based algorithms. These findings highlight its strong potential for enabling large-scale electrochemical simulations and its broad applicability to practical problems in the field.",
+  "authors": [
+   "Weihang Gao",
+   "Qi Zhou",
+   "Qianru Zhang",
+   "Zhenli Xu"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "math.NA"
+  ],
+  "comment": "25 pages, 6 figures",
+  "first_author": "Weihang Gao",
+  "pdf_url": "http://arxiv.org/pdf/2509.24742",
+  "primary_category": "physics.comp-ph",
+  "published": "2025-09-29",
+  "tags": [
+   "constant-potential",
+   "electric-double-layer",
+   "molecular-dynamics"
+  ],
+  "title": "Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-09-29"
+ }
+}

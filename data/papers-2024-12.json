@@ -1,0 +1,32 @@
+{
+ "2412.05658": {
+  "abstract": "Sulfide-based photocatalysts (PC) are promising materials for efficiently producing hydrogen (H2). This chapter aims to provide a detailed survey of the recent advancements in sulfide-based photocatalysts and emphasize their enhanced performance and pathways to efficient H2 production. A detailed summary has been given, including several metal sulfides, such as cadmium sulfide (CdS), zinc sulfide (ZnS), molybdenum disulfide (MoS2), tungsten disulfide (WS2), lead sulfide (PbS), nickel sulfides (NiS/NiS2), iron disulfide (FeS2), copper sulfides (CuS/Cu2S), cobalt sulfides (CoS/CoS2), tin disulfide (SnS2), indium sulfide (In2S3), bismuth sulfide (Bi2S3), zinc cadmium sulfide (ZnxCd1-xS), manganese cadmium sulfide (MnxCd1-xS), zinc indium sulfide (ZnIn2S4), and cadmium indium sulfide (CdIn2S4). This chapter will focus on the latest advancements in metal-sulfide-based materials for photocatalytic hydrogen evolution reactions (HER), taking its accelerated growth and excellent research into account. After briefly outlining the basic properties, the chapter will showcase the cutting-edge strategies and recent research progress, including the construction of heterojunctions, defect engineering, co-catalyst loading, elemental doping, and single-atom engineering, which improve the electronic structure and charge separation capabilities of metal sulfides for photocatalytic hydrogen production. A future perspective and outlook have been proposed, focusing on some key points and a standard protocol. With this knowledge, we hope sulfide-based photocatalysts can be modified and engineered to improve their efficiency and stability in future research.",
+  "authors": [
+   "Suresh Chandra Baral",
+   "Dilip Sasmal",
+   "Mitali Hupele",
+   "Sradhanjali Lenka",
+   "Somaditya Sen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Suresh Chandra Baral",
+  "pdf_url": "http://arxiv.org/pdf/2412.05658",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-12-07",
+  "tags": [
+   "hydrogen-evolution",
+   "iron-sulfides",
+   "nickel-sulfides",
+   "pyrite",
+   "transition-metal-sulfides"
+  ],
+  "title": "Recent advances in hydrogen production using sulfide-based photocatalysts",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2024-12-07"
+ }
+}

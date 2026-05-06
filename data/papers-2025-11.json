@@ -1,0 +1,89 @@
+{
+ "2504.07786": {
+  "abstract": "Vanadium redox flow batteries (VRFBs) are a promising technology to capture and store energy from renewable sources, reducing the reliance on fossil fuels for energy generation. However, during the charging process, the parasitic hydrogen evolution reaction at the negative electrode affects the performance and durability of VFRBs. The evolution of hydrogen bubbles causes the loss of effective reaction area and blocks the transport of reactants. We employ the lattice Boltzmann method to investigate the two-phase flow transport in the negative electrode of VRFBs. Systematic parametric analyses reveal that increased gas production leads to uneven gas removal from the electrode, while an optimal flow rate can effectively remove bubbles and reduce external pumping energy. Additionally, increasing the compression ratio hinders gas removal but enhances electrode electrical conductivity. Overall, the present study provides valuable mechanistic insights into bubble generation at the negative electrode of VRFBs and offers a theoretical reference for designing and optimizing VRFBs.",
+  "authors": [
+   "K. Duan",
+   "T. H. Vu",
+   "T. Kadyk",
+   "Q. Xie",
+   "J. Harting",
+   "M. Eikerling"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "27 pages, 11 figures, 1 table",
+  "first_author": "K. Duan",
+  "pdf_url": "http://arxiv.org/pdf/2504.07786",
+  "primary_category": "physics.flu-dyn",
+  "published": "2025-04-10",
+  "tags": [
+   "hydrogen-evolution"
+  ],
+  "title": "Parasitic hydrogen bubble evolution in vanadium redox flow batteries: A lattice Boltzmann study",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2025-11-24"
+ },
+ "2510.19106": {
+  "abstract": "The Marcus theory of electron transfer assumes that diabatic energy gaps are sampled from a single ensemble. This assumption can break down in spatially anisotropic environments, such as Faradaic reactions at electrochemical interfaces, where distinct solvent ensembles arise along a collective variable describing the anisotropy. Treating this collective variable as an additional reaction coordinate linearly independent from the Marcus reaction coordinate, we develop a formalism that enables calculation of the resulting Coupled Ion-Electron Transfer (CIET) free-energy surface directly from constrained ab initio trajectories. Applied to CO2 redox on a gold electrode, this method reveals strong coupling to the anisotropy, predicting significantly different activation barriers compared to either coordinate alone.",
+  "authors": [
+   "Ethan Abraham",
+   "Martin Z. Bazant",
+   "Troy Van Voorhis"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Ethan Abraham",
+  "pdf_url": "http://arxiv.org/pdf/2510.19106",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-10-21",
+  "tags": [
+   "ab-initio",
+   "electrochemical-interfaces"
+  ],
+  "title": "Ab Initio Free Energy Surfaces for Coupled Ion-Electron Transfer",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2025-11-04"
+ },
+ "2511.15042": {
+  "abstract": "Electrochemical CO2 reduction (CO2R) offers a promising approach to decarbonize chemical manufacturing through production of carbon-neutral fuels. However, insufficient performance and instability of membrane electrode assembly (MEA) reactors limit commercial viability, with both metrics directly impacted by the CO2R catalysts. Here we develop an atomically dispersed nickel-nitrogen-carbon (Ni-NC) catalyst through a scalable synthesis approach using two different carbon supports. When using carbon nanotubes as the support, the resulting Ni-NCNT electrode achieves a partial current density toward CO of 558 mA cm-2 with 92 percent Faradaic efficiency toward CO at a cell voltage of 3.2 V and an energy efficiency of 39 percent toward CO at a total current density of 607 mA cm-2. The MEA demonstrates stable operation at 100 mA cm-2 over 210 hours, outperforming previously reported Ni-NC catalysts. Focused ion beam scanning electron microscopy (FIB-SEM) tomography illustrates the key role of catalyst support on the performance of the electrode. COMSOL Multiphysics simulations using 3D reconstructed images of the catalyst layers from FIB-SEM tomography demonstrate that the higher CO2R performance of the Ni-NCNT electrode is due to improved CO2 diffusion and a more uniform current-density distribution compared to the Ni-NCB electrode prepared with carbon black as the support. The stability and performance of the Ni-NCNT compare favorably to state-of-the-art Ag-based catalysts, while bottom-up cost analysis estimates the purchase cost of the Ni-NCNT catalyst to be about 589 USD per kg, substantially lower than the 1900 USD per kg estimated for Ag-based catalysts.",
+  "authors": [
+   "Zahra Teimouri",
+   "Mahtab Masouminia",
+   "Ashkan Irannezhad",
+   "Reza Eslami",
+   "Joseph Deering",
+   "Navid Noor",
+   "Shunquan Tan",
+   "Amirhossein Foroozan",
+   "Shayan Angizi",
+   "Sung-Fu Hun",
+   "Drew Higgins"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "32 pages, 7 figures",
+  "first_author": "Zahra Teimouri",
+  "pdf_url": "http://arxiv.org/pdf/2511.15042",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-11-19",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "Integrating Atomic Scale Catalyst Design with Transport Engineering for Stable and Efficient CO2 Electrolysis to CO in a Membrane Electrode Assembly",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-11-19"
+ }
+}

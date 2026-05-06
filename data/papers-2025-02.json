@@ -1,0 +1,128 @@
+{
+ "2502.01028": {
+  "abstract": "Capture of anthropogenic CO2 is critical for mitigating climate change, and reducing the energy cost is essential for wide-scale deployment. Solubility of inorganic carbon in aqueous solutions depends on the pH, and electrochemical modulation of the pH has been investigated as a means of CO2 capture and release. However, reported methods incur unavoidable energy costs due to thermodynamic penalties. In this study, we introduce a pH-independent redox chemistry that greatly lowers the thermodynamic energy costs by changing the pH without directly changing the [H+]. We show that the redox reaction of TEMPO molecules modulates the pH for capture and release of CO2 in a flow cell with an energy cost as low as 2.6 kJ/mol of CO2 corresponding to 0.027 eV/molecule. A molecular model, supported by MD and DFT simulations, is proposed of how the pH is decreased by 7.6 while largely avoiding the entropic energy cost associated with increasing the [H+]. We believe that this work showcases the potential of pH-independent redox chemistries for practical and cost-effective CO2 capture.",
+  "authors": [
+   "Sang Cheol Kim",
+   "Marco Gigantino",
+   "John Holoubek",
+   "Jesse E. Matthews",
+   "Junjie Chen",
+   "Yaereen Dho",
+   "Thomas F. Jaramillo",
+   "Yi Cui",
+   "Arun Majumdar",
+   "Yan-Kai Tzeng",
+   "Steven Chu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Sang Cheol Kim",
+  "pdf_url": "http://arxiv.org/pdf/2502.01028",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-02-03",
+  "tags": [
+   "density-functional-theory",
+   "flow-cells",
+   "molecular-dynamics"
+  ],
+  "title": "Electrochemical CO2 capture with pH-independent redox chemistry",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2025-02-03"
+ },
+ "2502.12705": {
+  "abstract": "Two-dimensional (2D) layered nanomaterials heterostructures, arising from the combination of 2D materials with other low-dimensional species, feature large surface area to volume ratio, which provides a high density of active sites for catalytic ap-plications and in particular for (photo)electrocatalysis (PEC). Meanwhile, their unique electronic band structure and high electrical conductivity enable efficient charge transfer (CT) between the active material and the substrate, which is essential for catalytic activity. In recent years, researchers have demonstrated the potential of a range of 2D material interfaces, such as graphene, graphitic carbon nitride (g-C3N4), metal chalcogenides (MCs), and MXenes, for (photo)electrocatalytic applica-tions. For instance, MCs such as MoS2 and WS2 have shown excellent catalytic activity for hydrogen evolution, while gra-phene and MXenes have been used for the reduction of carbon dioxide to higher value chemicals. However, despite their great potential, there are still major challenges that need to be addressed in order to fully realize the potential of 2D materials for PEC. For example, their stability under harsh reaction conditions, as well as their scalability for large-scale production are important factors to be considered. Generating heterojunctions (HJs) by combining 2D layered structures with other na-nomaterials is a promising method to improve the photoelectrocatalytic properties of the former. In this review, we inspect thoroughly the recent literature, to demonstrate the significant potential that arises from utilizing 2D layered heterostructures in PEC processes across a broad spectrum of applications, from energy conversion and storage to environmental remediation. With the ongoing research and development, it is likely that the potential of these materials will be fully expressed in the near future.",
+  "authors": [
+   "Mengjiao Wang",
+   "Michal Langer",
+   "Roberto Altieri",
+   "Matteo Crisci",
+   "Silvio Osella",
+   "Teresa Gatti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mengjiao Wang",
+  "pdf_url": "http://arxiv.org/pdf/2502.12705",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-02-18",
+  "tags": [
+   "chalcogenides",
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "2D Layered Heterojunctions for Photoelectrocatalysis",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2025-02-18"
+ },
+ "2502.13512": {
+  "abstract": "Cu-based electrocatalysts exhibits enormous potential for electrochemical CO2 conversion to added-value products. However, high selectivity, specially towards C2+ products, remains a critical challenge for its implementation in commercial applications. Herein, we report the preparation of a series of electrocatalysts based on octadecyl amine (ODA) coated Cu2O nanoparticles. HRTEM images show ODA coatings with thickness from 1.2 to 4 nm. DFT calculations predict that at low surface coverage, ODA tends to lay on the Cu2O surface, leaving hydrophilic regions. Oppositely, at high surface coverage, the ODA molecules are densely packed, being detrimental for both mass and charge transfer. These changes in ODA molecular arrangement explain differences in product selectivity. In situ Raman spectroscopy has revealed that the optimum ODA thickness contributes to the stabilization of key intermediates in the formation of C2+ products, especially ethanol. Electrochemical impedance spectroscopy and pulse voltammetry measurements confirm that the thicker ODA shells increase charge transfer resistance, while the lowest ODA content promotes faster intermediate desorption rates. At the optimum thickness, the intermediates desorption rates are the slowest, in agreement with the maximum concentration of intermediates observed by in situ Raman spectroscopy, thereby resulting in a Faradaic efficiency to ethanol and ethylene over 73 %.",
+  "authors": [
+   "Jiajun Hu",
+   "Silvio Osella",
+   "Josep Albero",
+   "Hermenegildo García"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiajun Hu",
+  "pdf_url": "http://arxiv.org/pdf/2502.13512",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-02-19",
+  "tags": [
+   "density-functional-theory",
+   "electrocatalysis",
+   "impedance-spectroscopy"
+  ],
+  "title": "Unravelling the influence of shell thickness in organic functionalized Cu2O nanoparticles on C2+ products distribution in electrocatalytic CO2 reduction",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2025-02-19"
+ },
+ "2502.16138": {
+  "abstract": "The production of multicarbon (C2+) products through electrocatalytic CO2 reduction reaction (CO2RR) is crucial to addressing global environmental challenges and advancing sustainable energy solutions. However, efficiently producing these high-value chemicals via C-C coupling reactions is a significant challenge. This requires catalysts with optimized surface configurations and electronic properties capable of breaking the scaling relations among various intermediates. In this report, we introduce the fundamentals of electrocatalytic CO2RR and the mechanism of C-C coupling. We examine the effects of catalytic surface interactions with key intermediates and reaction pathways, and discuss emerging strategies for enhancing C-C coupling reactions toward C2+ products. Despite varieties of these strategies, we summarize direct clues for the proper design of the catalyst for the electrocatalytic CO2RR towards C2+ products, aiming to provide valuable insights to broad readers in the field.",
+  "authors": [
+   "Guangyuan Liang",
+   "Sheng Yang",
+   "Chao Wu",
+   "Yang Liu",
+   "Yi Zhao",
+   "Liang Huang",
+   "Shaowei Zhang",
+   "Shixue Dou",
+   "Hongfang Du",
+   "Dandan Cui",
+   "Liangxu Lin"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "39 pages, 9 figures",
+  "first_author": "Guangyuan Liang",
+  "pdf_url": "http://arxiv.org/pdf/2502.16138",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-02-22",
+  "tags": [
+   "co2-reduction",
+   "electrocatalysis"
+  ],
+  "title": "Advancing C-C Coupling of Electrocatalytic CO2 Reduction Reaction for C2+ Products",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-02-22"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "2411.13747": {
+  "abstract": "Water molecules are traditionally regarded as passive dielectric media in electrochemical systems. In this work, we challenge this conventional perspective using molecular dynamics simulations and theoretical analysis. We show that interfacial water is polarized differently from bulk water and effectively screens the electrostatic potential between ions and the surface. This goes beyond the classic electric double layer (EDL) model, which treated water as merely a passive dielectric. The observed overscreening occurs because a significant portion of water polarization directly responds to the graphene surface, in addition to screening the electrostatic interactions between ions and charged surfaces. Furthermore, we reveal that this surface-induced polarization of interfacial water governs the electric potential distribution and EDL capacitance, and can even invert the electrode surface potential polarity, overriding the contribution of ions. These molecular-level insights lead to a revised EDL model that more accurately describes the electric and chemical potential distributions in the interfacial EDL regions.",
+  "authors": [
+   "Peiyao Wang",
+   "Gengping Jiang",
+   "Yuan Yan",
+   "Longbing Qu",
+   "Xiaoyang Du",
+   "Dan Li",
+   "Jefferson Zhe Liu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Peiyao Wang",
+  "pdf_url": "http://arxiv.org/pdf/2411.13747",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-11-20",
+  "tags": [
+   "electric-double-layer",
+   "molecular-dynamics"
+  ],
+  "title": "Beyond Dielectrics: Interfacial Water Polarization Governs Graphene-Based Electrochemical Interfaces",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-05-19"
+ },
+ "2505.06026": {
+  "abstract": "Self-assemblies, structured via nanoparticles, show promise as materials for advanced applications, like photonic devices, electrochemical energy storage units and catalysis support. Despite observing diverse morphologies, a comprehensive understanding of the formation mechanism remains elusive. In this work, we show that the coordination interaction between metal-based sulfide nanoparticles (MS NPs) and the fluorosurfactants at the droplet interface influences the morphology during the evaporation-induced self-assembly facilitated by droplet microfluidics. Further investigation into fluorosurfactants with various chemical groups and MS NPs reveals that the strength of coordination interactions significantly influences assembly morphology. The interfacial interactions can be eliminated through coating a SiO2 layer on the metal-based colloid (M@SiO2 NPs). In addition, we demonstrate that the morphologies of the self-assemblies can be engineered via the coordination interactions between the MS NPs and fluorosurfactants, and by varying the concentrations of MS NPs. Utilizing these interfacial interactions, assemblies with core-shell and homogeneous distribution of binary nanoparticles were constructed. Our findings offer novel insights into the interfacial jamming of nanoparticles at the droplet interface through evaporation-induced self-assembly, and into the design of metal-based colloidal assemblies with diverse morphologies, crucial for developing novel functional assemblies for catalysis, plasmonic, and porous materials in a controlled manner.",
+  "authors": [
+   "Jiyuan Yao",
+   "Shuting Xie",
+   "Shijian Huang",
+   "Weilong Xu",
+   "Jiaqin Li",
+   "Zhenping Liu",
+   "Mingliang Jin",
+   "Loes I. Segerink",
+   "Lingling Shui",
+   "Sergii Pud"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Jiyuan Yao",
+  "pdf_url": "http://arxiv.org/pdf/2505.06026",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-05-09",
+  "tags": [],
+  "title": "Engineering Morphologies of Metal-Based Colloidal Assemblies via Colloid Jamming at Liquid-Liquid Interfaces",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-05-13"
+ },
+ "2505.08208": {
+  "abstract": "This work presents experimental and theoretical analyses of electrokinetic flow in microchannels with glass and silica surfaces across a broad range of electrolyte concentrations (0.01 to 100 mM). We demonstrate simple but effective strategies for controlling electrical conduction by engineering nanoscale and microscale topographic features that directly modify the structure and extent of the electric double layer (EDL) and the interfacial ion conduction pathway. These tailored surface topographies modulate the overall electrical conductivity in slit microchannels through similar phenomena documented for nanochannels and nanopores due to the presence of liquid-filled nanoscale topographic features with high concentration of highly mobile protons. The findings of this work reveal that the interaction between tailored surface features and the EDL can substantially enhance energy conversion efficiency in microscale systems. These insights along with simple analytical models provide guidance for the rational design and optimization of scalable electrokinetic devices and are broadly relevant to numerous energy harvesting and charge-separation technologies.",
+  "authors": [
+   "Austin Dick",
+   "Kushal Iyyapareddy",
+   "Aktaruzzaman Al Hossain",
+   "Carlos E. Colosqui"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "15 pages, 5 figures",
+  "first_author": "Austin Dick",
+  "pdf_url": "http://arxiv.org/pdf/2505.08208",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-05-13",
+  "tags": [
+   "electric-double-layer",
+   "ion-transport"
+  ],
+  "title": "Toward Efficient Electrokinetic Energy Conversion with Topographic Modulation of Electrical Conduction",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-05-14"
+ },
+ "2505.10363": {
+  "abstract": "Lithium-oxygen batteries are among the most promising energy storage systems due to their high theoretical energy density, but their practical implementation is hindered by poor reversibility and parasitic reactions. Redox mediators such as LiBr have emerged as a strategy to enhance reaction kinetics and reduce overpotentials. In this study, we explore the impact of three different solvents, dimethoxyethane (DME), tetraethylene glycol dimethyl ether (TEGDME), and dimethyl sulfoxide (DMSO), on the electrochemical performance and reaction pathways of LiBr-mediated Li-O2 cells. Our results reveal that a 1O2 evolution channel that leads to singlet oxygen-induced cell degradation is active only in the TEGDME-based electrolyte. Both DME and DMSO allow singlet oxygen-free Oxygen Evolution Reaction, but only DME is found chemically stable in the LiBr-mediated Li-O2 cell working conditions. These findings highlight the critical role of solvent-mediator interactions in determining the performance of Li-O2 cells.",
+  "authors": [
+   "Angelica Petrongari",
+   "Lucrezia Desiderio",
+   "Adriano Pierini",
+   "Enrico Bodo",
+   "Mauro Giustini",
+   "Sergio Brutti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Angelica Petrongari",
+  "pdf_url": "http://arxiv.org/pdf/2505.10363",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-15",
+  "tags": [
+   "oxygen-evolution"
+  ],
+  "title": "Deciphering the role of LiBr as redox mediator in Li-O2 Aprotic Batteries",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2025-05-15"
+ }
+}

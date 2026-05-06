@@ -1,0 +1,80 @@
+{
+ "2507.06488": {
+  "abstract": "Hydrogen tungsten bronzes (HxWO3), known for their mixed protonic-electronic conduction near room temperature, are extensively studied for electrochromic and gasochromic applications. However, their proton transport properties at elevated temperatures, particularly in the intermediate-temperature range (200-500 °C), remain unexplored. This study revealed the proton transport behavior of HxWO3, focusing on its potential as a proton-conducting mixed ionic-electronic conductor (MIEC) for intermediate-temperature electrochemical applications. By employing a proton-conducting phosphate glass as an electron-blocking electrode, we selectively measured the partial proton conductivity of sintered HxWO3. Hydrogen incorporation into the sintered WO3 pellet was found to occur preferentially near the surface, forming an approximately 500-micrometer-thick hydrogen-rich region. This region reached a composition of x = 0.24 and exhibited proton conductivity exceeding 10^-1 S/cm at 275 °C, well above those of state-of-the-art perovskite proton conductors. Impedance spectroscopy revealed distinct features of proton transport, including an isotope effect. The proton diffusion coefficient was 100-1000 times greater than that of H0.0001TiO2, which exhibits mixed protonic-electronic conduction via hydrogen dissolution. The larger proton diffusion coefficient of H0.24WO3 suggests that large polaron formation enhances proton mobility.These findings unlock new functionality of HxWO3 as a MIEC in the intermediate-temperature range, paving the way for the development of next-generation hydrogen energy conversion systems.",
+  "authors": [
+   "Rantaro Matsuo",
+   "Tomoyuki Yamasaki",
+   "Takahisa Omata"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Rantaro Matsuo",
+  "pdf_url": "http://arxiv.org/pdf/2507.06488",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-07-09",
+  "tags": [
+   "impedance-spectroscopy",
+   "proton-transport"
+  ],
+  "title": "High Proton Conductivity of HxWO3 at Intermediate Temperatures: Unlocking Its Application as a Mixed Ionic-Electronic Conductor",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2025-07-09"
+ },
+ "2507.14158": {
+  "abstract": "Quick clay is a highly sensitive soil that transforms rapidly from solid to liquid under minor stress, as a result of long-term salt leaching that drastically reduces shear strength. Stabilizing it is both costly and carbon-intensive, significantly impacting construction emissions in regions like Norway. Developing greener stabilization methods is challenging due to limited understanding of the weakening mechanisms and the specific roles of different salts. In this study, we use molecular dynamics (MD) simulations to investigate the sliding behavior of illite platelets, the key component in Norwegian quick clay, and how it is affected by the different ions in the solution surrounding the surface. We examine the impact of monovalent (NaCl, KCl, CsCl) and divalent (MgCl2 and CaCl2) salts on platelet-surface interactions, focusing on the friction enhancement brought by divalent salts and how the electric double layer (EDL) structure mediates frictional behavior. We find that divalent cations sit higher on top of the surface, and lead to an increase in friction, while monovalent cations sit closer to the surface. By providing a detailed analysis of these interactions, the study offers a novel framework for understanding the role of salts in clay mechanics and highlights opportunities to design environmentally friendly stabilizers as alternatives to traditional lime and cement.",
+  "authors": [
+   "Ge Li",
+   "Astrid S. de Wijn"
+  ],
+  "categories": [
+   "physics.geo-ph",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Ge Li",
+  "pdf_url": "http://arxiv.org/pdf/2507.14158",
+  "primary_category": "physics.geo-ph",
+  "published": "2025-07-04",
+  "tags": [
+   "electric-double-layer",
+   "molecular-dynamics"
+  ],
+  "title": "Molecular Dynamics Simulations of Nanoscale Friction on Illite Clay: Effects of Solvent Salt Ions and Electric Double Layer",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-07-04"
+ },
+ "2507.14751": {
+  "abstract": "The electric double layer (EDL) that forms at the interface between metals and ionic solutions is at the heart of various energy technologies. Recent experimental data have challenged our traditional understanding of the EDL charging behavior, which is based on mean-field Gouy-Chapman-Stern-type (GCS) models. In this article, we present a classical theory for the EDL, derived from first-principles statistical mechanics, that accounts for electron-ion correlation effects using the method of image charges and systematically extends beyond the mean-field level. Such electron-ion correlations introduce an additional interaction between the metal surface and electrolyte ions, significantly altering the EDL structure. Our theory, valid in the limit of dilute electrolyte solutions and weakly charged metal surfaces, achieves quantitative agreement with experimental capacitance data across a wide range of electrode materials and electrolyte solvents, and thus resolves long-standing questions on the origin of discrepancies to GCS predictions. Thereby, the framework conceptually unifies the processes of double-layer charging and ion adsorption (electrosorption), which are typically considered as distinct phenomena, but are shown to be manifestations of the same fundamental electrostatic principles.",
+  "authors": [
+   "Nils Bruch",
+   "Michael Eikerling",
+   "Tobias Binninger"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Nils Bruch",
+  "pdf_url": "http://arxiv.org/pdf/2507.14751",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2025-07-19",
+  "tags": [
+   "ab-initio",
+   "electric-double-layer"
+  ],
+  "title": "Classical theory of electron-ion correlations at electrochemical interfaces: Closing the circuit from double-layer charging to ion adsorption",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-07-19"
+ }
+}

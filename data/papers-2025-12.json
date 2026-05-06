@@ -1,0 +1,162 @@
+{
+ "2408.15124": {
+  "abstract": "Electrochemical reduction is a promising way to make use of CO$_2$ as feedstock for generating renewable fuel and valuable chemicals. Several metals can be used in the electrocatalyst to generate CO and formic acid but hydrogen formation is an unwanted side reaction that can even be dominant. The lack of selectivity is in general a significant problem, but silver-based electrocatalysts have been shown to be highly selective for CO with over over 90% faradaic efficiency when the applied voltage is below -1 V vs. RHE. Hydrogen formation is then insignificant and little formate is formed even though it is thermodynamically favored. We present calculations of the activation free energy for the various elementary steps as a function of applied voltage at the three low index facets, Ag(111), Ag(100) and Ag(110), as well as experimental measurements on polycrystalline electrodes, to identify the reason for this high selectivity. The formation of formic acid is suppressed because of the low coverage of adsorbed hydrogen and kinetic hindrance to the formation of the HCOO* intermediate, while *COOH, a key intermediate in CO formation, is thermodynamically unstable until the applied voltage reaches -1 V vs. RHE, at which point the kinetics for its formation are more favorable than for hydrogen. The calculated results are consistent with experimental measurements carried out for acidic conditions and provide an atomic scale insight into the high CO selectivity of silver-based electrocatalysts.",
+  "authors": [
+   "Michele Re Fiorentin",
+   "Francesca Risplendi",
+   "Clara Salvini",
+   "Juqin Zeng",
+   "Giancarlo Cicero",
+   "Hannes Jónsson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Michele Re Fiorentin",
+  "pdf_url": "http://arxiv.org/pdf/2408.15124",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-08-27",
+  "tags": [
+   "electrocatalysis",
+   "formate"
+  ],
+  "title": "Silver electrodes are highly selective for CO in CO$_2$ electroreduction due to interplay between voltage dependent kinetics and thermodynamics",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-12-17"
+ },
+ "2512.05363": {
+  "abstract": "The dynamic reconstruction of surfaces during electrochemical reactions plays a crucial role in determining the performance of electrocatalysts. However, because reconstructions occur at the atomic level, direct observation and elucidation of the underlying mechanism are challenging for conventional powder type catalysts with ill defined lattices. In this study, the catalytically active surface of 3C BaRuO3 (BRO) epitaxial thin films emerges upon the dynamic introduction of surface Ru clusters, for the alkaline hydrogen evolution reaction (HER). Based on the mass activity at overpotential 100 mV, the intrinsic HER performance increases dramatically from 0.11 to 7.72 A/mg immediately after the initial HER cycle and eventually saturates at 1.05 A/mg after continuous operation. The formation of Ru clusters on the catalyst surface, driven by selective Ba leaching under alkaline HER conditions, is observed experimentally. Density functional theory calculations demonstrate that HER activity increased with enhanced H* adsorption owing to the dynamic Ru6 cluster formation. A strategy for stabilizing the 'awakened' active surface of BRO is further proposed by validating that the atomic-scale control of the film thickness can effectively maintain the highly active state. This study offers fundamental insights into the design and stabilization of the highly active Ru-based electrocatalysts for the alkaline HER.",
+  "authors": [
+   "Jegon Lee",
+   "Dohyun Kim",
+   "Seulgi Ji",
+   "Sangmoon Yoon",
+   "Seung Hyun Nam",
+   "Jucheol Park",
+   "Jin Young Oh",
+   "Seung Gyo Jeong",
+   "Jong-Seong Bae",
+   "Sang A Lee",
+   "Heechae Choi",
+   "Woo Seok Choi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "24 pages, 5 figures. This work has been accepted for publication in Chinese journal of catalysis in October 2025. Jegon Lee, Dohyun Kim and Seulgi Ji contributed equally to this work. Woo Seok Choi, Heechae Choi and Sang A Lee are corresponding authors",
+  "first_author": "Jegon Lee",
+  "pdf_url": "http://arxiv.org/pdf/2512.05363",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-12-05",
+  "tags": [
+   "density-functional-theory",
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Awakening catalytically active surface of BaRuO3 thin film for alkaline hydrogen evolution",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-12-05"
+ },
+ "2512.08781": {
+  "abstract": "Two-dimensional (2D) molybdenum disulfide (MoS2) nanosheets have attracted attention as a promising and cost-effective alternative catalyst for the hydrogen evolution reaction (HER). However, their aggregation and poor conductivity limit their catalytic activity. Consequently, researchers are exploring ways to improve the conductivity and density of electroactive edges of MoS2 through hybridization with akin advanced 2D materials. Here, reduced graphene oxide (rGO) nanosheets are added to a liquid-phase-exfoliated MoS2 dispersion to create drop-casting hybrid MoS2@rGO electrodes for HER. The findings reveal the formation of ~1.1 nm-thick MoS2 bilayers, with the catalytic performance of MoS2@rGO dependent on the degree of graphene oxide reduction. The rGO moderate reduction prevents the MoS2 bilayers from restacking, improves conductivity, retains oxygenated groups that enhance interlayer spacing, and exposes more electroactive edges. When hybridized with rGO crafted at optimal reduction time, the hybrid system eclipses the efficiency of pristine MoS2 bilayers by attaining the lowest overpotential (~70 mV) and the lowest Tafel slope (~46 mV dec-1). This shows that MoS2 bilayers hybridized with rGO offer a promising method to outperform the electrocatalytic efficiency of MoS2-based electrodes. These findings expand opportunities for future strain engineering, defect engineering, and high-end twist-angle assemblies for hybrid systems combining MoS2 bilayers and rGO.",
+  "authors": [
+   "Bruno Ferreira Brischi",
+   "Gabriela Frajtag",
+   "João Pedro da Silva Mariano",
+   "Laís Fernanda Medeiros Ruela",
+   "Gustavo Duarte Verçosa",
+   "Camila Desiderio Fernandes",
+   "Murilo Santhiago",
+   "Letícia Mariê Minatogau Ferro",
+   "Leandro Merces"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "Bruno Ferreira Brischi, Gabriela Frajtag, João Pedro da Silva Mariano, and Laís Fernanda Medeiros Ruela contributed equally to this work",
+  "first_author": "Bruno Ferreira Brischi",
+  "pdf_url": "http://arxiv.org/pdf/2512.08781",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-12-09",
+  "tags": [
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Molybdenum Disulfide Bilayers Hybridized with Reduced Graphene Oxide Nanosheets for Enhanced Hydrogen Evolution Reaction",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-12-09"
+ },
+ "2512.12712": {
+  "abstract": "Controlling lattice oxygen reactivity in earth abundant OER catalysts requires precise tuning of defect chemistry in the oxide lattice. Here, we combine DFT+U calculations with plasma assisted synthesis to show how O2 and H2O in the discharge govern vacancy formation, electronic structure, and catalytic predisposition in NiO thin films. Oxygen rich plasmas generate isolated and clustered Ni vacancies that stabilize oxygen ligand hole states and produce shallow O 2p Ni 3d hybrid levels, enhancing Ni O covalency. In contrast, introducing H2O during growth drives local hydroxylation that compensates vacancy induced Ni3+ centers, restoring Ni2+ like coordination, suppressing deep divacancy derived in gap states, and introducing shallow Ni O H derived valence-band tails. EXAFS confirms that hydroxylation perturbs only the local environment while preserving the medium-range NiO lattice, and Ni L-edge spectroscopy shows a persistent but redistributed ligand-hole population. These complementary vacancy and hydroxylation driven pathways provide a plasma controlled route to pre define electronic defect landscapes in NiO and to tune its activation toward OER relevant NiOOH formation.",
+  "authors": [
+   "Harol Moreno Fernandez",
+   "Mohammad Amirabbasi",
+   "Crizaldo Jr. Mempin",
+   "Andrea Trapletti",
+   "Garlef Wartner",
+   "Marc F. Tesh",
+   "Esmaeil Adabifiroozjaei",
+   "Thokozile A. Kathyola",
+   "Carlo Castellano",
+   "Leopoldo Molina Luna",
+   "Jan P. Hofmann"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Harol Moreno Fernandez",
+  "pdf_url": "http://arxiv.org/pdf/2512.12712",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-12-14",
+  "tags": [
+   "density-functional-theory",
+   "oxygen-evolution"
+  ],
+  "title": "Plasma engineered Hydroxyl Defects in NiO a DFTSupported-Spectroscopic Analysis of Oxygen Hole States and Implications for Water Oxidation",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-12-14"
+ },
+ "2512.14305": {
+  "abstract": "The efficiency of water electrolysis in a photoelectrochemical cell is largely limited by the oxygen evolution reaction (OER) at its semiconductor photoanode. Reaction rate constants are key to investigating the slow kinetics of the multistep OER, as they indicate the rate-determining step. While these rate constants are usually calculated based on first-principles simulations, this research aims to estimate them from experimental electrochemical impedance spectroscopy (EIS) data. Starting from a microkinetic model for charge transfer at the semiconductor-electrolyte interface, an expression for the impedance as a function of the rate constants is derived. At lower potentials, the order of this impedance model is reduced, thus eliminating the rate constants corresponding to the last reaction steps. Moreover, it is shown that EIS data from at least two potentials needs to be combined in order to uniquely identify the rate constants of a particular reduced order model. Therefore, this work details a sample maximum likelihood estimator that integrates not only multiple frequencies, but also multiple potentials simultaneously. Measuring multiple periods of the current density and potential signals, allows this frequency domain estimator to take measurement uncertainty into account. In addition, due to the large numerical range of the rate constants, various scaling methods are implemented to achieve numerical stability. To find suitable initial values for the highly nonlinear optimization problem, different global estimation methods are compared. The complete estimation procedure of the rate constants is illustrated on simulated EIS data of a hematite photoanode.",
+  "authors": [
+   "Freja Vandeputte",
+   "Bart van den Boorn",
+   "Matthijs van Berkel",
+   "Anja Bieberle-Hütter",
+   "Gerd Vandersteen",
+   "John Lataire"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "eess.SY"
+  ],
+  "comment": "18 pages, 8 figures",
+  "first_author": "Freja Vandeputte",
+  "pdf_url": "http://arxiv.org/pdf/2512.14305",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-12-16",
+  "tags": [
+   "ab-initio",
+   "impedance-spectroscopy",
+   "microkinetics",
+   "oxygen-evolution"
+  ],
+  "title": "Estimating Reaction Rate Constants from Impedance Spectra: Simulating the Multistep Oxygen Evolution Reaction",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2025-12-16"
+ }
+}

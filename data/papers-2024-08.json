@@ -1,0 +1,126 @@
+{
+ "2407.12458": {
+  "abstract": "Proton-coupled electron transfer (PCET) is the key step for energy conversion in electrocatalysis. Atomic-scale simulation acts as an indispensable tool to provide a microscopic understanding of PCET. However, consideration of the quantum nature of transferring protons under an exact grand canonical (GC) constant potential condition is a great challenge for theoretical electrocatalysis. Here, we develop a unified computational framework to explicitly treat nuclear quantum effects (NQEs) by a sufficient GC sampling, further assisted by a machine learning force field adapted for electrochemical conditions. Our work demonstrates a non-negligible impact of NQEs on PCET simulations for hydrogen evolution reaction at room temperature, and provides a physical picture that wave-like quantum characteristic of the transferring protons facilitates the particles to tunnel through classical barriers in PCET paths, leading to a remarkable activation energy reduction compared to classical simulations. Moreover, the physical insight of NQEs may reshape our fundamental understanding of other types of PCET reactions in broader scenarios of energy conversion processes.",
+  "authors": [
+   "Menglin Sun",
+   "Bin Jin",
+   "Xiaolong Yang",
+   "Shenzhen Xu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Menglin Sun",
+  "pdf_url": "http://arxiv.org/pdf/2407.12458",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-07-17",
+  "tags": [
+   "constant-potential",
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "A Machine-Learning Accelerated Grand Canonical Sampling Framework for Nuclear Quantum Effects in Constant Potential Electrochemistry",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2024-08-26"
+ },
+ "2408.11373": {
+  "abstract": "Topological semimetals with protected surface states mark a new paradigm of research beyond the early landmarks of band-structure engineering, allowing fabrication of efficient catalyst to harness the rich metallic surface states to activate specific chemical processes. Herein, we demonstrate a facile solid-phase method for in-situ doping of Ir at the Os sites in the Os3Sn7, an alloy with topological states, which significantly improves the photocatalytic performance for the reduction of CO2 to CO and CH4. Experimental evidence combined with theoretical calculations reveal that the nontrivial topological surface states greatly accelerate charge-separation/electron-enrichment and adsorption/activation of CO2 molecules, rendering highly efficient reaction channels to stimulate the formation of *COOH and *CO, as well CHO*. This work shows the promise of achieving high photocatalytic performances with synthesizing topological catalysts and provides hints on the design of novel topological catalysts with superior photoactivity towards the CO2 reduction reaction.",
+  "authors": [
+   "Kangwang Wang",
+   "Longfu Li",
+   "Peifeng Yu",
+   "Nannan Tang",
+   "Lingyong Zeng",
+   "Kuan Li",
+   "Chao Zhang",
+   "Rui Chen",
+   "Zaichen Xiang",
+   "Huichao Wang",
+   "Yongqing Cai",
+   "Kai Yan",
+   "Huixia Luo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": "33 Pages, 6 Figures, 1 Table",
+  "first_author": "Kangwang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2408.11373",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-08-21",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2024-08-21"
+ },
+ "2408.14905": {
+  "abstract": "A nonlinear phase-field model is developed to simulate corrosion damage. The motion of the electrode$-$ electrolyte interface follows the usual kinetic rate theory for chemical reactions based on the Butler-Volmer equation. The model links the surface polarization variation associated with the charging kinetics of an electric double layer (EDL) to the mesoscale transport. The effects of the EDL are integrated as a boundary condition on the solution potential equation. The boundary condition controls the magnitude of the solution potential at the electrode-electrolyte interface. The ion concentration field outside the EDL is obtained by solving the electro-diffusion equation and Ohm's law for the solution potential. The model is validated against the classic benchmark pencil electrode test. The framework developed reproduces experimental measurements of both pit kinetics and transient current density response. The model enables more accurate information on corrosion damage, current density, and environmental response in terms of the distribution of electric potential and charged species. The sensitivity analysis for different properties of the EDL is performed to investigate their role in the electrochemical response of the system. Simulation results show that the properties of the EDL significantly influence the transport of ionic species in the electrolyte.",
+  "authors": [
+   "M. Makuch",
+   "S. Kovacevic",
+   "M. R. Wenman",
+   "E. Martínez-Pañeda"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.CE",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "M. Makuch",
+  "pdf_url": "http://arxiv.org/pdf/2408.14905",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-08-27",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "A nonlinear phase-field model of corrosion with charging kinetics of electric double layer",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2024-08-27"
+ },
+ "2409.00515": {
+  "abstract": "Electrolytically generated gas bubbles can significantly hamper the overall electrolysis efficiency. Therefore it is crucial to understand their dynamics in order to optimise water electrolyzer systems. Here we demonstrate a distinct transport mechanism where coalescence with microbubbles drives electrolyte droplets, resulting from the fragmentation of the Worthington jet, into the gas phase during hydrogen evolution reaction, both in normal and microgravity environments. This indicates that the H$_2$ bubble is not only composed of hydrogen gas and vapor but also includes electrolyte fractions. Reminiscent of bursting bubbles on a liquid-gas interface, this behavior results in a flow inside the bubble, which is further affected by Marangoni convection at the gas-electrolyte interface, highlighting interface mobility. In the case of electrode-attached bubbles, the sprayed droplets form electrolyte puddles at the bubble-electrode contact area, affecting the dynamics near the three-phase contact line and favoring bubble detachment from the electrode. The results of this work unravel important insights into the physicochemical aspects of electrolytic gas bubbles, integral for optimizing gas-evolving electrochemical systems. Besides, our findings are essential for studying the limits of jet formation and rupture relevant to acid mist formation in electrowinning, generation of sea spray aerosols, impact of droplets on liquid surfaces, etc.",
+  "authors": [
+   "Aleksandr Bashkatov",
+   "Florian Bürkle",
+   "Çayan Demirkır",
+   "Wei Ding",
+   "Vatsal Sanjay",
+   "Alexander Babich",
+   "Xuegeng Yang",
+   "Gerd Mutschke",
+   "Jürgen Czarske",
+   "Detlef Lohse",
+   "Dominik Krug",
+   "Lars Büttner",
+   "Kerstin Eckert"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.chem-ph"
+  ],
+  "comment": "manuscript: 25 pages, 6 figures; SI: 12 pages, 5 figures, 1 table",
+  "first_author": "Aleksandr Bashkatov",
+  "pdf_url": "http://arxiv.org/pdf/2409.00515",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-08-31",
+  "tags": [
+   "hydrogen-evolution"
+  ],
+  "title": "Electrolyte spraying within H$_2$ bubbles during water electrolysis",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2024-08-31"
+ }
+}

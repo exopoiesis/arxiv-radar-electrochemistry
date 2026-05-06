@@ -1,0 +1,27 @@
+{
+ "2406.06981": {
+  "abstract": "Despite significant advancements in electrocatalysis for clean hydrogen fuel generation, the transition from concept to commercialization faces challenges due to the instability of electrocatalysts. This study delves into the exploration of a structurally and mechanically robust half-Heusler alloy, CoVSn, as an efficient electrocatalyst for hydrogen production. The synthesis of CoVSn was achieved using the arc-melting technique and optimized successfully into a cubic structure - a previously unattained and highly challenging feat. The resulting electrode, cut from the obtained CoVSn pellet, served as a self-supported electrocatalyst and initially generates a current density of 10 mA cm-2 at an overpotential of 244 mV. Remarkably, this overpotential decreased uniquely over time, reaches 202 mV after a durability testing of 12 hours, while maintaining its crystal structure integrity after the electrocatalysis process. This progressive enhancement in catalytic activity and structural stability underscores the significance of this research. The synergistic effect between Co and V atoms as pivotal active centers for hydrogen generation was evident, further enhanced by formation of high valance metal sites Co2O3 and V2O3 during the hydrogen evolution reaction. In essence, this study confirms the stability and promise of CoVSn in hydrogen generation, paving the way for exploring additional self-supported ternary intermetallics to enhance water-splitting efficiency.",
+  "authors": [
+   "Deepak Gujjar",
+   "Hem C. Kandpal"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 4 figures",
+  "first_author": "Deepak Gujjar",
+  "pdf_url": "http://arxiv.org/pdf/2406.06981",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-11",
+  "tags": [
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Half Heusler alloy CoVSn as self-supported electrocatalyst for hydrogen evolution reaction",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2024-06-11"
+ }
+}

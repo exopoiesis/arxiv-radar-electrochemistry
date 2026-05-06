@@ -1,0 +1,72 @@
+---
+layout: page
+title: "formate (all)"
+current_tag: formate
+current_window: all
+---
+
+<header class="tag-header">
+  <h1>formate — all</h1>
+  <span class="paper-count">9 papers</span>
+  <nav class="window-nav"><a href="formate-7d.html">7d</a> <a href="formate-30d.html">30d</a> <a href="formate-90d.html">90d</a> <a href="formate-360d.html">360d</a> <strong>all</strong></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-02-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04280.html">Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Fei Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2602.04280">2602.04280</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01282.html">Self-replicating fuels via autocatalytic molecular bond fission</a></div><div class="paper-tags"><a href="autocatalysis-all.html">autocatalysis</a></div></td>
+<td>Peter Agbo</td>
+<td><a href="http://arxiv.org/abs/2410.01282">2410.01282</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15124.html">Silver electrodes are highly selective for CO in CO$_2$ electroreduction due to interplay between voltage dependent kinetics and thermodynamics</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td>Michele Re Fiorentin et al.</td>
+<td><a href="http://arxiv.org/abs/2408.15124">2408.15124</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11325.html">Pristine and transition metal doped 2D AlSb as high performance electrocatalyst for selective CO2 reduction: A first-principles study</a></div><div class="paper-tags"><a href="co2-reduction-all.html">co2-reduction</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
+<td>Md. Mostaqul Islam et al.</td>
+<td><a href="http://arxiv.org/abs/2509.11325">2509.11325</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>Ali Bagci et al.</td>
+<td><a href="http://arxiv.org/abs/2504.12475">2504.12475</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16493.html">Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\mathrm{CO_2}$ hydrogenation energy barriers</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="reaction-networks-all.html">reaction-networks</a></div></td>
+<td>Luuk H. E. Kempen et al.</td>
+<td><a href="http://arxiv.org/abs/2504.16493">2504.16493</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15710.html">Prediction of CO2 reduction reaction intermediates and products on transition metal-doped r-GeSe monolayers:A combined DFT and machine learning approach</a></div><div class="paper-tags"><a href="co2-reduction-all.html">co2-reduction</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td>Xuxin Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2504.15710">2504.15710</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14116.html">Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td>Lecheng Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2409.14116">2409.14116</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11648.html">On the electrochemical CO2 reduction by Bi-based catalysts: single crystals or mixture phases</a></div><div class="paper-tags"><a href="co2-reduction-all.html">co2-reduction</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
+<td>Mengting Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2409.11648">2409.11648</a></td>
+</tr>
+</tbody></table>

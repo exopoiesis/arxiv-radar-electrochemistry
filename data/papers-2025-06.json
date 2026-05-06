@@ -1,0 +1,188 @@
+{
+ "2504.12475": {
+  "abstract": "Hydrogen production as a clean, sustainable replacement for fossil fuels is gathering pace. Research work and prototyping various aspects of hydrogen power is now a priority. Over 90 \\% of all chemical manufacture uses a solid catalyst. This work describes catalytic selective hydrogen production optimising reactant structure on a model catalyst. Focus is on O-H bond dissociation in format radicals formed after carbon-monoxide is co-adsorbed with water at Pt(111). Finally, hydrogen gas is given off. Many chemical reactions involve bond-dissociation. This process is often the key to rate-limiting reaction steps at solid surfaces. %This is also true for reactions at solid surfaces, in which the dissociation step is often limiting but facilitated in comparison to gas phase reaction channels. Since bond-breaking is poorly described by Hartree-Fock and DFT methods, our embedded active site approach is used. This work demonstrates Quantum Monte Carlo (QMC) methodology using a very simple four primitive-cell layer model, oriented to expose Pt (111). QMC is a stochastic approach to solving the Schr{ö}dinger equation recently came of age for heterogeneous systems involving solids. During hydrolysis of carbon monoxide, initial O-H bond stretch is rate-limiting. This dissociation energy is offset by Pt-H bond formation at the surface. The reactive formate (H-O-C=O) species formed, by initial hydrolysis of CO, also interact with a vicinal Pt. These are subsequently desorbed. They then produce carbon dioxide and hydrogen, with a H-atom dissociated from the formate species and another desorbed at the Pt(111) face.   Our approach allows a high-level configuration interaction (CI) wave-function to be used, expanded in plane-waves and embedded in the metal lattice exposing its close-packed face. The resulting periodic function is used to guide the QMC calculation.",
+  "authors": [
+   "Ali Bagci",
+   "Philip E Hoggan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "22 pages,2 figures. arXiv admin note: substantial text overlap with arXiv:2212.01823; text overlap with arXiv:2004.10565, arXiv:2202.00542",
+  "first_author": "Ali Bagci",
+  "pdf_url": "http://arxiv.org/pdf/2504.12475",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-16",
+  "tags": [
+   "density-functional-theory",
+   "formate"
+  ],
+  "title": "Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-06-11"
+ },
+ "2505.23850": {
+  "abstract": "This study introduces a catalyst-free, ambient-temperature method for synthesizing nitrogen-based compounds critical to fertilizer production, including ammonia, urea, ammonium salts, and amino acids. The process relies on bubble-burst-induced microenvironments, where gas bubbles undergo rapid growth and collapse, releasing intense localized energy sufficient to dissociate nitrogen and water molecules. These high-energy zones produce reactive species, including atomic hydrogen (H*) that facilitate nitrogen fixation and drive subsequent chemical transformations without needing catalysts or elevated conditions. Experimental validation using colorimetric assays, Raman spectroscopy, and microscopy confirms the in situ formation of ammonia and its downstream conversion into structurally relevant compounds, including peptide-like assemblies. The system supports reaction tuning through dissolved carbon dioxide (CO2) or organic acids and can be enhanced by low-energy inputs such as UV or ultrasound. Its simplicity, modularity, and ability to operate without external infrastructure offer a practical and scalable platform for decentralized fertilizer generation and sustainable biochemical production.",
+  "authors": [
+   "Jerome J. Cuomo",
+   "Ian Goodall",
+   "C. Richard Guarnieri",
+   "Gennaro",
+   "Cuomo",
+   "Stephen Hudak"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 5 figures. Includes Raman spectroscopy, microscopy analysis, and experimental results. Related U.S. Patent Application No. 19/183,880 pending",
+  "first_author": "Jerome J. Cuomo",
+  "pdf_url": "http://arxiv.org/pdf/2505.23850",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-05-28",
+  "tags": [],
+  "title": "Bubble-Burst Synthesis of Ammonia, Amino Acids, and Urea Under Ambient, Catalyst-Free Conditions",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-06-02"
+ },
+ "2506.07544": {
+  "abstract": "From raindrops to planets, the scattering of electromagnetic fields introduces exciting phenomena that can be utilized for display devices. Here, we designed an electrochromic nanoparticle on mirror (eNPoM) structure with core-shell geometries for low-power nanoscale pixels with rapid coloration abilities based on four electrochromic organic conducting polymers utilizing the first-principles calculations based on density functional theory (DFT) and the finite-difference time-domain (FDTD) simulations. Au nanoparticles are coated with electrochromic conductive polymers (such as PANI, PEDOT, PPy, and PTh) and positioned on the metal mirror. The electric field enhancement and the impact of shell thickness are analyzed. Dielectric properties of all polymers resulting from atomistic calculation were utilized for FDTD simulation, which helps to correlate the direct relationship between polymer structure and optical properties. Notably, the study reveals significant wavelength tunability of 100nm, 40nm, 70nm, and over 40nm using PANI, PEDOT, PPy, and PTh shells, respectively. Additionally, the potential for RGB color production using a TiN layer on the mirror is explored. For the first time, complex structures such as bow tie and gear were utilized to model the nanopixels studied and a significant absorption peak shift was observed. Chromaticity coordinates in the CIE 1931 color space and CIELAB2000 color difference quantify color change capabilities during the redox cycle, and a comparative analysis of organic and inorganic materials highlights the prospects of the proposed plasmonic nanopixels.",
+  "authors": [
+   "Md. Shariful Islam",
+   "Ahmed Zubair"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.app-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Md. Shariful Islam",
+  "pdf_url": "http://arxiv.org/pdf/2506.07544",
+  "primary_category": "physics.optics",
+  "published": "2025-06-09",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "redox-cycles"
+  ],
+  "title": "Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2025-06-09"
+ },
+ "2506.11199": {
+  "abstract": "Mixed ionic-electronic conductors (MIECs) exhibit both high ionic and electronic conductivity to improve the battery performance. In this work, we investigate the mechanism and stability of transport channels in our recently developed MIEC material, amorphous Ti-doped lithium phosphorus sulfide (LPS), using molecular dynamics (MD) simulations with a 99\\% accurate machine-learning force field (MLFF) trained on \\textit{ab-initio} MD data. The achieved MLFF helps efficient large-scale MD simulations on LPS with three Ti concentrations (10\\%, 20\\%, and 30\\%) and six temperatures (25$^\\mathrm{o}$C to 225$^\\mathrm{o}$C) to calculate ionic conductivity, activation energy, Li-ion transport mechanism, and configurational entropy. Results show that ionic conductivities and activation energies are consistent with our recent experimental values. Moreover, Li-ion transport occurs via free-volume diffusion facilitated by the formation of disordered Li-S polyhedra. The enhanced stability of transport channels at 10\\% and 20\\% Ti doping, compared to 0\\% and 30\\%, is observed by analyzing the vibrational and configurational entropy of these disordered Li-S polyhedra. Overall, this study highlights the utility of MLFF-based large-scale MD simulations in explaining the transport mechanism and the stability of Li-ion in Ti-doped LPS electrolyte with significant computational efficiency.",
+  "authors": [
+   "Selva Chandrasekaran Selvaraj",
+   "Daiwei Wang",
+   "Donghai Wang",
+   "Anh T. Ngo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "7 figures and 14 pages",
+  "first_author": "Selva Chandrasekaran Selvaraj",
+  "pdf_url": "http://arxiv.org/pdf/2506.11199",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-06-12",
+  "tags": [
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2025-06-30"
+ },
+ "2506.14616": {
+  "abstract": "Applications of 3D-RISM-KH molecular solvation theory range from solvation energy of small molecules to phase behavior of polymers and biomolecules. It predicts the molecular mechanisms of chemical and biomolecular systems. Replica RISM-KH-VM molecular solvation theory predicts and explains the structure, thermodynamics, and electrochemistry of electrolyte solutions sorbed in a nanoporous material. It was tested on nanoporous carbon supercapacitors with aqueous electrolyte and nanoporous electrosorption cells. The mechanisms in these systems are steered by the electric double layer potential drop across the Stern layer at the nanopores surface and the Gouy-Chapman layer averaged over the nanoporous material, the osmotic term due to the ionic concentrations difference in the two nanoporous electrodes and in the electrolyte solution outside, and the solvation chemical potentials of sorbed ions averaged over the nanoporous material. The latter strongly depends on chemical specificity of ions, solvent, surface functional groups, and steric effects for solvated ions confined in nanopores.",
+  "authors": [
+   "A. Kovalenko"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "20 pages, 11 figures",
+  "first_author": "A. Kovalenko",
+  "pdf_url": "http://arxiv.org/pdf/2506.14616",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-06-17",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Replica RISM molecular solvation theory for electric double layer in nanoporous materials",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-06-25"
+ },
+ "2506.14819": {
+  "abstract": "The development of efficient and cost-effective bifunctional electrocatalysts for hydrogen-related technologies is crucial for the transition to sustainable energy. In this work, we present Pt@ZrO2 as a high-performance ceramic-based electrocatalyst for the hydrogen evolution reaction (HER) and hydrogen oxidation reaction (HOR), demonstrating superior activity and stability in alkaline conditions. Compared to Pd@ZrO2, previously investigated in our earlier work, Pt@ZrO2 exhibits significantly lower charge transfer resistance and enhanced HER/HOR kinetics, as confirmed by electrochemical impedance spectroscopy. The synergistic interaction between platinum and ZrO2 stabilizes Pt in a partially oxidized state, facilitating the Volmer step and improving charge transfer kinetics. Cyclic voltammetry further confirms the remarkable electrochemical stability of Pt@ZrO2 under stress conditions. Importantly, Pt@ZrO2 offers a cost-effective alternative to pure platinum by reducing noble metal loading while maintaining excellent catalytic performance. These findings establish Pt@ZrO2 as a better alternative to Pd@ZrO2 and a promising candidate for next-generation hydrogen energy applications.",
+  "authors": [
+   "Simone Minelli",
+   "Manuel Iozzia",
+   "Claudio Piazzoni",
+   "Alberto Vertova",
+   "Cristina Lenardi",
+   "Alessandro Minguzzi"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Manuscript: 18 pages, 6 figures, 5 tables; Supplementary info: 2 pages, 2 figures",
+  "first_author": "Simone Minelli",
+  "pdf_url": "http://arxiv.org/pdf/2506.14819",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-06-09",
+  "tags": [
+   "electrocatalysis",
+   "hydrogen-evolution",
+   "impedance-spectroscopy"
+  ],
+  "title": "Mixed platinum and zirconia powder as electrocatalyst for hydrogen evolution and oxidation reaction",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2025-06-09"
+ },
+ "2506.16807": {
+  "abstract": "Proton-coupled electron transfers (PCET) are elementary steps in electrocatalysis. However, accurate calculations of PCET rates remain challenging, especially considering nuclear quantum effects (NQEs) under a constant potential condition. Statistical sampling of reaction paths is an ideal approach for rate calculations, however, is always limited by the rare-event issue. Here we develop an electrochemistry-driven quantum dynamics approach enabling realistic enhanced paths sampling under constant potentials without a priori defined reaction coordinates. We apply the method in modeling the Volmer step of the hydrogen evolution reaction, and demonstrate that the NQEs exhibit more than one order of magnitude impact on the computed rate constant, indicating an essential role of NQEs in electrochemistry.",
+  "authors": [
+   "Li Fu",
+   "Yifan Li",
+   "Menglin Sun",
+   "Xiaolong Yang",
+   "Bin Jin",
+   "Shenzhen Xu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Li Fu",
+  "pdf_url": "http://arxiv.org/pdf/2506.16807",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-06-20",
+  "tags": [
+   "constant-potential",
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Electrochemistry-Enhanced Dynamic Paths Sampling Unveiling Nuclear Quantum Effects in Electrocatalysis",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-06-20"
+ }
+}
