@@ -1,0 +1,33 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Backfill / runtime state (regenerable)
+data/backfill.log
+data/backfill_checkpoint.json
+data/*.json.tmp
+tmp/*
+!tmp/.gitkeep
+
+# Editors
+.vscode/
+.idea/
+
+# Local agent/settings files
+.claude/
+
+# Tag analysis intermediate outputs
+tags_filtered/
+tags/candidates_*.json
+tags/comparison.md
+
+# Test cache
+.pytest_cache/
+pytest-cache-files-*/
+
+# Jekyll build artifacts
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/_site/

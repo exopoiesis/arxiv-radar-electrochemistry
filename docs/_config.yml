@@ -1,0 +1,20 @@
+title: arxiv-radar-electrochemistry
+description: Third Matter electrochemistry arXiv radar.
+show_downloads: true
+
+github:
+  zip_url: https://github.com/exopoiesis/arxiv-radar-electrochemistry
+  another_url: https://github.com/exopoiesis/arxiv-radar-electrochemistry
+
+remote_theme: jekyll/minima@v2.5.1
+
+header_pages: []
+
+skin: dark
+social_links:
+  github: exopoiesis
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag

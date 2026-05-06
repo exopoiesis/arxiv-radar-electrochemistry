@@ -1,0 +1,45 @@
+# Template only. GitHub Actions will not run this file while it has the
+# `.template` suffix. To enable it, copy or rename to:
+#   .github/workflows/monthly-archive.yml
+
+name: Archive old README abstracts monthly
+
+on:
+  workflow_dispatch:
+  # Uncomment schedule after validating your retention policy.
+  # schedule:
+  #   - cron: "20 1 1 * *"
+
+env:
+  GITHUB_USER_NAME: exopoiesis
+  GITHUB_USER_EMAIL: lab@exopoiesis.space
+
+jobs:
+  archive:
+    name: prune old README markdown abstracts
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Prune old abstract markdown files
+        run: python tools/prune_old_abstract_md.py
+
+      - name: Commit archive update
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "GitHub Action monthly archive: arxiv-radar-electrochemistry"
+          files: abstracts/
+          rebase: "true"
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}

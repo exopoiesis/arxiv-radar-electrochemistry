@@ -1,0 +1,141 @@
+# Canonical tags for arxiv-radar-electrochemistry.
+
+co2-reduction:
+  group: domain
+  synonyms: [CO2 reduction, carbon dioxide reduction, carbon dioxide electroreduction, CO2 electroreduction, CO2RR]
+
+formate:
+  group: products
+  synonyms: [formate, formic acid, HCOO, HCOOH]
+
+electrocatalysis:
+  group: domain
+  synonyms: [electrocatalysis, electrocatalytic, electrocatalyst, electrocatalysts]
+
+hydrogen-evolution:
+  group: reactions
+  synonyms: [hydrogen evolution, HER]
+
+oxygen-evolution:
+  group: reactions
+  synonyms: [oxygen evolution, OER]
+
+transition-metal-sulfides:
+  group: materials
+  synonyms: [transition metal sulfide, transition metal sulfides, metal sulfide, metal sulfides]
+
+iron-sulfides:
+  group: materials
+  synonyms: [iron sulfide, iron sulfides, FeS, FeS2]
+
+nickel-sulfides:
+  group: materials
+  synonyms: [nickel sulfide, nickel sulfides, NiS]
+
+mackinawite:
+  group: minerals
+  synonyms: [mackinawite, tetragonal FeS]
+
+pentlandite:
+  group: minerals
+  synonyms: [pentlandite, Fe Ni sulfide, Fe-Ni sulfide, Fe-Ni-S]
+
+greigite:
+  group: minerals
+  synonyms: [greigite, Fe3S4]
+
+violarite:
+  group: minerals
+  synonyms: [violarite, FeNi2S4]
+
+pyrite:
+  group: minerals
+  synonyms: [pyrite, FeS2]
+
+chalcogenides:
+  group: materials
+  synonyms: [chalcogenide, chalcogenides]
+
+electrochemical-interfaces:
+  group: interfaces
+  synonyms: [electrochemical interface, electrochemical interfaces, electrode interface, electrode interfaces]
+
+electric-double-layer:
+  group: interfaces
+  synonyms: [electric double layer, electrical double layer, double layer, EDL]
+
+constant-potential:
+  group: methods
+  synonyms: [constant potential, grand canonical DFT, grand-canonical DFT]
+
+implicit-solvation:
+  group: methods
+  synonyms: [implicit solvation, continuum solvation, solvation model]
+
+explicit-solvation:
+  group: methods
+  synonyms: [explicit solvation, explicit solvent, water interface]
+
+density-functional-theory:
+  group: methods
+  synonyms: [density functional theory, DFT]
+
+ab-initio:
+  group: methods
+  synonyms: [ab initio, first principles, first-principles]
+
+molecular-dynamics:
+  group: methods
+  synonyms: [molecular dynamics, MD, AIMD, ab initio molecular dynamics]
+
+microkinetics:
+  group: modeling
+  synonyms: [microkinetic, microkinetics, microkinetic model, kinetic model]
+
+adsorption-energy:
+  group: descriptors
+  synonyms: [adsorption energy, adsorption energies, binding energy]
+
+proton-transport:
+  group: transport
+  synonyms: [proton transport, proton conduction, proton diffusion]
+
+hydroxide-transport:
+  group: transport
+  synonyms: [hydroxide transport, hydroxide conduction, hydroxide diffusion, OH transport]
+
+ph-gradient:
+  group: transport
+  synonyms: [pH gradient, pH gradients, proton gradient]
+
+ion-transport:
+  group: transport
+  synonyms: [ion transport, ionic transport, ion conduction, ionic conduction]
+
+membrane-reactors:
+  group: devices
+  synonyms: [membrane reactor, membrane reactors, electrochemical membrane]
+
+flow-cells:
+  group: devices
+  synonyms: [flow cell, flow cells, electrochemical flow cell]
+
+impedance-spectroscopy:
+  group: characterization
+  synonyms: [electrochemical impedance spectroscopy, impedance spectroscopy, EIS]
+
+redox-cycles:
+  group: networks
+  synonyms: [redox cycle, redox cycles, redox cycling]
+
+autocatalysis:
+  group: networks
+  synonyms: [autocatalysis, autocatalytic, autocatalytic network]
+
+reaction-networks:
+  group: networks
+  synonyms: [reaction network, reaction networks, chemical reaction network, CRN]
+
+dissipative-systems:
+  group: networks
+  synonyms: [dissipative system, dissipative systems, dissipative self-assembly]

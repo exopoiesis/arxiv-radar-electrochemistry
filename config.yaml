@@ -1,0 +1,102 @@
+# arxiv-radar-electrochemistry configuration.
+#
+# Project-specific radar for Third Matter electrochemistry. Queries are narrow
+# enough to avoid generic battery/electrochemistry noise, while still covering
+# CO2 reduction, sulfide electrocatalysts, electrochemical interfaces, pH
+# gradients, membranes, and redox-network papers.
+
+project:
+  name: arxiv-radar-electrochemistry
+  title: Third Matter Electrochemistry arXiv Radar
+  description: Curated arXiv papers on project-relevant electrochemistry, CO2 reduction, sulfide electrocatalysis, interfaces, gradients, and membranes.
+  github_owner: exopoiesis
+  github_repo: arxiv-radar-electrochemistry
+  pages_url: https://exopoiesis.github.io/arxiv-radar-electrochemistry/
+
+relevance_filter:
+  enabled: true
+  direct_patterns:
+    - CO2\s+electroreduction
+    - carbon\s+dioxide\s+reduction
+    - CO2RR
+    - formate\s+electrocatal
+    - transition\s+metal\s+sulfide
+    - iron\s+sulfide
+    - nickel\s+sulfide
+    - mackinawite
+    - pentlandite
+    - greigite
+    - violarite
+    - electrochemical\s+interface
+    - electric\s+double\s+layer
+    - pH\s+gradient
+    - electrochemical\s+membrane
+    - redox\s+network
+  method_patterns:
+    - electrochem\w*
+    - electrocatal\w*
+    - electrode\w*
+    - catalyst\w*
+    - density\s+functional\s+theory
+    - \bDFT\b
+    - ab\s+initio
+    - molecular\s+dynamics
+    - microkinetic\w*
+    - impedance
+    - EIS
+    - flow\s+cell\w*
+    - membrane\s+reactor\w*
+  domain_patterns:
+    - CO2
+    - carbon\s+dioxide
+    - formate
+    - hydrogen\s+evolution
+    - oxygen\s+evolution
+    - \bHER\b
+    - \bOER\b
+    - sulfide\w*
+    - chalcogenide\w*
+    - Fe[-\s]?Ni[-\s]?S
+    - proton\s+transport
+    - hydroxide\s+transport
+    - pH\s+gradient
+    - redox\s+cycle
+
+keywords:
+  "CO2 Reduction and Formate":
+    filters:
+      - "CO2 electroreduction"
+      - "carbon dioxide reduction"
+      - "formate electrocatalysis"
+      - 'RAW:("CO2 reduction" OR "carbon dioxide reduction" OR CO2RR OR formate) AND (electrochemical OR electrocatalysis OR electrode OR catalyst OR "metal sulfide" OR sulfide)'
+
+  "Sulfide Electrocatalysts":
+    filters:
+      - "transition metal sulfide electrocatalyst"
+      - "iron sulfide electrocatalysis"
+      - "nickel sulfide electrocatalysis"
+      - "pentlandite hydrogen evolution"
+      - 'RAW:(mackinawite OR pentlandite OR greigite OR violarite OR pyrite OR "iron sulfide" OR "nickel sulfide" OR chalcogenide) AND (electrocatalysis OR electrode OR "hydrogen evolution" OR HER OR "oxygen evolution" OR OER OR "CO2 reduction")'
+
+  "Electrochemical Interfaces and Solvation":
+    filters:
+      - "electrochemical interface"
+      - "electric double layer"
+      - "constant potential DFT"
+      - "implicit solvation electrocatalysis"
+      - 'RAW:("electrochemical interface" OR "electric double layer" OR "implicit solvation" OR "constant potential" OR "grand canonical DFT") AND (electrode OR electrocatalysis OR catalyst OR "CO2 reduction" OR sulfide)'
+
+  "Ion Transport, Gradients, and Membranes":
+    filters:
+      - "pH gradient electrochemistry"
+      - "proton transport membrane"
+      - "hydroxide transport membrane"
+      - "electrochemical membrane reactor"
+      - 'RAW:("pH gradient" OR "proton transport" OR "hydroxide transport" OR "ion transport" OR "membrane reactor" OR "flow cell" OR EIS OR impedance) AND (electrochemical OR electrode OR electrocatalysis OR "CO2 reduction" OR sulfide)'
+
+  "Redox and Autocatalytic Electrochemical Networks":
+    filters:
+      - "redox reaction network"
+      - "autocatalytic electrochemistry"
+      - "dissipative electrochemical system"
+      - 'RAW:(redox OR autocatalytic OR "reaction network" OR "chemical reaction network" OR dissipative) AND (electrochemical OR electrode OR faradaic OR "redox cycle")'
