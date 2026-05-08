@@ -1,0 +1,212 @@
+{
+ "2401.00977": {
+  "abstract": "We analyse $\\textit{XMM-Newton}$ RGS spectra of Wolf-Rayet (WR) 140, an archetype long-period eccentric WR+O colliding wind binary. We evaluate the spectra of O and Fe emission lines and find that the plasmas emitting these lines have the largest approaching velocities with the largest velocity dispersions between phases 0.935 and 0.968 where the inferior conjunction of the O star occurs. This behaviour is the same as that of the Ne line-emission plasma presented in our previous paper. We perform diagnosis of electron number density $n_{\\rm e}$ using He-like triplet lines of O and Ne-like Fe-L lines. The former results in a conservative upper limit of $n_{\\rm e} \\lesssim 10^{10}$-10$^{12}$ cm$^{-3}$ on the O line-emission site, while the latter can not impose any constraint on the Fe line-emission site because of statistical limitations. We calculate the line-of-sight velocity and its dispersion separately along the shock cone. By comparing the observed and calculated line-of-sight velocities, we update the distance of the Ne line-emission site from the stagnation point. By assuming radiative cooling of the Ne line-emission plasma using the observed temperature and the local stellar wind density, we estimate the line-emission site extends along the shock cone by at most $\\pm$58 per cent (phase 0.816) of the distance from the stagnation point. In this framework, excess of the observed velocity dispersion over the calculated one is ascribed to turbulence in the hot-shocked plasma at earlier orbital phases of 0.816, 0.912, and 0.935, with the largest velocity dispersion of 340-630 km s$^{-1}$ at phase 0.912.",
+  "authors": [
+   "Asca Miyamoto",
+   "Yasuharu Sugawara",
+   "Yoshitomo Maeda",
+   "Manabu Ishida",
+   "Kenji Hamaguchi",
+   "Christopher M. P. Russell",
+   "Anthony F. J. Moffat"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "astro-ph.SR"
+  ],
+  "comment": "16 pages, 9 figures, Accepted for publication in MNRAS",
+  "first_author": "Asca Miyamoto",
+  "pdf_url": "http://arxiv.org/pdf/2401.00977",
+  "primary_category": "astro-ph.HE",
+  "published": "2024-01-02",
+  "tags": [],
+  "title": "X-ray plasma flow and turbulence in the colliding winds of WR140",
+  "topics": [
+   "via:author-whitelist:alkaline hydrothermal vent theory"
+  ],
+  "updated": "2024-01-02"
+ },
+ "2401.04573": {
+  "abstract": "Knowledge generated in a given scientific domain may spill over into other close scientific disciplines, thereby improving performance. Using bibliometric data from the SCImago database drawn from a sample of 174 countries, we implement a measure of proximity based on revealed comparative advantage (RCA). Our estimates show that proximity between disciplines positively and significantly affects the RCA growth rate. This impact is larger on disciplines that currently do not have RCA.",
+  "authors": [
+   "Nestor Gandelman",
+   "Osiris Jorge Parcero",
+   "Flavia Roldan"
+  ],
+  "categories": [
+   "econ.GN"
+  ],
+  "comment": "Pages 32, 11 tables, 3 figure",
+  "first_author": "Nestor Gandelman",
+  "pdf_url": "http://arxiv.org/pdf/2401.04573",
+  "primary_category": "econ.GN",
+  "published": "2024-01-09",
+  "tags": [],
+  "title": "Opportunities to upgrade the scientific disciplines space",
+  "topics": [
+   "via:author-whitelist:iron sulfide, mineral surfaces"
+  ],
+  "updated": "2024-01-09"
+ },
+ "2401.04708": {
+  "abstract": "Long-standing unexplained Venus atmosphere observations and chemical anomalies point to unknown chemistry but also leave room for the possibility of life. The unexplained observations include several gases out of thermodynamic equilibrium (e.g. tens of ppm O2, the possible presence of PH3 and NH3, SO2 and H2O vertical abundance profiles), an unknown composition of large, lower cloud particles, and the \"unknown absorber(s)\". Here we first review relevant properties of the Venus atmosphere and then describe the atmospheric chemical anomalies and how they motivate future astrobiology missions to Venus.",
+  "authors": [
+   "Janusz J. Petkowski",
+   "Sara Seager",
+   "David H. Grinspoon",
+   "William Bains",
+   "Sukrit Ranjan",
+   "Paul B. Rimmer",
+   "Weston P. Buchanan",
+   "Rachana Agrawal",
+   "Rakesh Mogul",
+   "Christopher E. Carr"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Published in Astrobiology (in press); Partially based on the text of the Venus Life Finder Mission Study report (arXiv:2112.05153)",
+  "first_author": "Janusz J. Petkowski",
+  "pdf_url": "http://arxiv.org/pdf/2401.04708",
+  "primary_category": "astro-ph.EP",
+  "published": "2024-01-09",
+  "tags": [],
+  "title": "Astrobiological Potential of Venus Atmosphere Chemical Anomalies and Other Unexplained Cloud Properties",
+  "topics": [
+   "via:author-whitelist:prebiotic photochemistry, atmospheric chem"
+  ],
+  "updated": "2024-01-09"
+ },
+ "2401.04752": {
+  "abstract": "Based on bibliometric information from Scopus for the period 1996-2019, this document characterizes the evolution of Uruguayan scientific production and establishes the areas in which the country has a revealed comparative advantage (RCA). Methodologically, it is proposed that there is a RCA in an area if this area has a greater share in national scientific production than the share of the area in world scientific production. The evidence presented considers two measurements of scientific production (published articles and citations) and three levels of aggregation in the areas (a minor one with 5 large areas, a more detailed one with 27 disciplines and another even more granular with more than 300 disaggregations). Within Health Sciences there is a RCA in Veterinary, Nursing and Medicine. Within Life Sciences there is a RCA in Agricultural and Biological Sciences, Immunology and Microbiology and Biochemistry, Genetics and Molecular Biology. In Physical Sciences there is only a RCA in Environmental Science and in Social Sciences only in Economics, Econometrics and Finance.",
+  "authors": [
+   "Nestor Gandelman",
+   "Osiris Jorge Parcero",
+   "Matilde Pereira",
+   "Flavia Roldan"
+  ],
+  "categories": [
+   "econ.GN"
+  ],
+  "comment": "Pages 48, in Spanish language, 2 tables, 20 figure",
+  "first_author": "Nestor Gandelman",
+  "pdf_url": "http://arxiv.org/pdf/2401.04752",
+  "primary_category": "econ.GN",
+  "published": "2024-01-09",
+  "tags": [],
+  "title": "Revealed comparative advantages in scientific and technological disciplines in Uruguay",
+  "topics": [
+   "via:author-whitelist:iron sulfide, mineral surfaces"
+  ],
+  "updated": "2024-01-09"
+ },
+ "2401.06745": {
+  "abstract": "We investigate the impact of quantum vibronic coupling on the electronic properties of solid-state spin defects using stochastic methods and first principles molecular dynamics with a quantum thermostat. Focusing on the negatively charged nitrogen-vacancy center in diamond as an exemplary case, we found a significant dynamic Jahn-Teller splitting of the doubly degenerate single-particle levels within the diamond's band gap, even at 0 K, with a magnitude exceeding 180 meV. This pronounced splitting leads to substantial renormalizations of these levels and subsequently, of the vertical excitation energies of the doubly degenerate singlet and triplet excited states. Our findings underscore the pressing need to incorporate quantum vibronic effects in first-principles calculations, particularly when comparing computed vertical excitation energies with experimental data. Our study also reveals the efficiency of stochastic thermal line sampling for studying phonon renormalizations of solid-state spin defects.",
+  "authors": [
+   "Arpan Kundu",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": "41 pages and 14 figures in total. To be published in J. Phys. Chem. Lett",
+  "first_author": "Arpan Kundu",
+  "pdf_url": "http://arxiv.org/pdf/2401.06745",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-01-12",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond",
+  "topics": [
+   "via:author-whitelist:DFT water, defects"
+  ],
+  "updated": "2024-01-12"
+ },
+ "2401.15524": {
+  "abstract": "Spintronic logic devices require efficient spin-charge interconversion: converting charge current to spin current and spin current to charge current. In spin-orbit materials that are regarded as the most promising candidate for spintronic logic devices, one mechanism that is responsible for spin-charge interconversion is Edelstein and inverse Edelstein effects based on spin-momentum locking in materials with Rashba-type spin-orbit coupling. Over last decade, there has been rapid progresses for increasing interconversion efficiencies due to the Edelstein effect in a few Rashba-Dresselhaus materials and topological insulators, making Rashba spin-momentum locking a promising technological solution for spin-orbit logic devices. However, despite the rapid progress that leads to high spin-charge interconversion efficiency at cryogenic temperatures, the room-temperature efficiency needed for technological applications is still low. This paper presents our understanding on the challenges and opportunities in searching for Rashba-Dresselhaus materials for efficient spin-charge interconversion at room temperature by focusing on materials properties such as Rashba coefficients, momentum relaxation times, spin-momentum locking relations and electrical conductivities.",
+  "authors": [
+   "Zixu Wang",
+   "Zhizhong Chen",
+   "Rui Xu",
+   "Hanyu Zhu",
+   "Ravishankar Sundararaman",
+   "Jian Shi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "5 figures",
+  "first_author": "Zixu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2401.15524",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-01-27",
+  "tags": [],
+  "title": "Challenges and Opportunities in Searching for Rashba-Dresselhaus Materials for Efficient Spin-Charge Interconversion at Room Temperature",
+  "topics": [
+   "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
+  ],
+  "updated": "2024-01-27"
+ },
+ "2401.17122": {
+  "abstract": "In recent years the need for DC distribution buses has increased considerably. As it can be noticed in the transport for example the distribution systems of the more electric aircrafts, ships, or electric cars. Given the complexities of the systems presented above, the need to use more and more switched power converters has arisen. The main problem of the connection of multiple controlled switched converters acting as source and load is the degradation of stability that occurs on the DC distribution bus due to the converter interactions. To study the stability in the distribution bus there are some wellestablished criteria. These criteria require knowledge of the input impedance of the converters that act as load and the output impedance of the equipment that acts as source. In order to reduce the complexity of obtaining the input impedance a model based on a controlled converter acting as a constant power load (CPL) is commonly used. This article studies the accuracy of this model for a commonly used topology in distribution systems nowadays, Two Level Voltage Source Converter (2L-VSC), studying different scenarios that make the model become inaccurate.",
+  "authors": [
+   "Daniel Santamargarita",
+   "Francisco Huerta",
+   "Marina Sanz",
+   "Antonio Lazaro",
+   "Salvatore DArco",
+   "Santiago Sanchez",
+   "Elisabetta Tedeschi",
+   "Javier Roldan"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Daniel Santamargarita",
+  "pdf_url": "http://arxiv.org/pdf/2401.17122",
+  "primary_category": "eess.SY",
+  "published": "2024-01-30",
+  "tags": [],
+  "title": "Study of Applicability of Simple Closed Loop Input Impedance Model for Grid-Tie Inverters",
+  "topics": [
+   "via:author-whitelist:iron sulfide, mineral surfaces"
+  ],
+  "updated": "2024-01-30"
+ },
+ "2401.17875": {
+  "abstract": "As the most important solvent, water has been at the center of interest since the advent of computer simulations. While early molecular dynamics and Monte Carlo simulations had to make use of simple model potentials to describe the atomic interactions, accurate ab initio molecular dynamics simulations relying on the first-principles calculation of the energies and forces have opened the way to predictive simulations of aqueous systems. Still, these simulations are very demanding, which prevents the study of complex systems and their properties. Modern machine learning potentials (MLPs) have now reached a mature state, allowing to overcome these limitations by combining the high accuracy of electronic structure calculations with the efficiency of empirical force fields. In this Perspective we give a concise overview about the progress made in the simulation of water and aqueous systems employing MLPs, starting from early work on free molecules and clusters via bulk liquid water to electrolyte solutions and solid-liquid interfaces.",
+  "authors": [
+   "Amir Omranpour",
+   "Pablo Montero De Hijes",
+   "Jörg Behler",
+   "Christoph Dellago"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Amir Omranpour",
+  "pdf_url": "http://arxiv.org/pdf/2401.17875",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-01-31",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials",
+  "topics": [
+   "via:author-whitelist:neural network potentials"
+  ],
+  "updated": "2024-01-31"
+ }
+}

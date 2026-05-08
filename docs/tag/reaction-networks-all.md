@@ -23,7 +23,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16493.html">Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\mathrm{CO_2}$ hydrogenation energy barriers</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="formate-all.html">formate</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16493.html">Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\mathrm{CO_2}$ hydrogenation energy barriers</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="formate-all.html">formate</a> · <a href="mlip-all.html">mlip</a> · <a href="neb-all.html">neb</a></div></td>
 <td>Luuk H. E. Kempen et al.</td>
 <td><a href="http://arxiv.org/abs/2504.16493">2504.16493</a></td>
 </tr>

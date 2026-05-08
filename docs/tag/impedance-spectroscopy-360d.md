@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <a href="impedance-spectroscopy-30d.html">30d</a> <a href="impedance-spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="impedance-spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,7 +17,7 @@ current_window: 360d
 <tbody>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27266.html">AutoREC: A software platform for developing reinforcement learning agents for equivalent circuit model generation from electrochemical impedance spectroscopy data</a></div><div class="paper-tags"><a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27266.html">AutoREC: A software platform for developing reinforcement learning agents for equivalent circuit model generation from electrochemical impedance spectroscopy data</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Ali Jaberi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27266">2604.27266</a></td>
 </tr>
@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2602.22869">2602.22869</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16444.html">Demonstrating Electrochemical CO$_2$ Capture on Redox-Active Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Iuliia Vetik et al.</td>
+<td><a href="http://arxiv.org/abs/2411.16444">2411.16444</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14305.html">Estimating Reaction Rate Constants from Impedance Spectra: Simulating the Multistep Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="microkinetics-360d.html">microkinetics</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Freja Vandeputte et al.</td>
@@ -47,7 +53,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06488.html">High Proton Conductivity of HxWO3 at Intermediate Temperatures: Unlocking Its Application as a Mixed Ionic-Electronic Conductor</a></div><div class="paper-tags"><a href="proton-transport-360d.html">proton-transport</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06488.html">High Proton Conductivity of HxWO3 at Intermediate Temperatures: Unlocking Its Application as a Mixed Ionic-Electronic Conductor</a></div><div class="paper-tags"><a href="proton-diffusion-360d.html">proton-diffusion</a> · <a href="proton-transport-360d.html">proton-transport</a></div></td>
 <td>Rantaro Matsuo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06488">2507.06488</a></td>
 </tr>

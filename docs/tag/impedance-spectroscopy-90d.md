@@ -17,7 +17,7 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27266.html">AutoREC: A software platform for developing reinforcement learning agents for equivalent circuit model generation from electrochemical impedance spectroscopy data</a></div><div class="paper-tags"><a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27266.html">AutoREC: A software platform for developing reinforcement learning agents for equivalent circuit model generation from electrochemical impedance spectroscopy data</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
 <td>Ali Jaberi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27266">2604.27266</a></td>
 </tr>

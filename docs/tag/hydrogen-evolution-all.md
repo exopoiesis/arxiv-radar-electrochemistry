@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogen-evolution — all</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="hydrogen-evolution-7d.html">7d</a> <a href="hydrogen-evolution-30d.html">30d</a> <a href="hydrogen-evolution-90d.html">90d</a> <a href="hydrogen-evolution-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,13 +17,13 @@ current_window: all
 <tbody>
 <tr class="paper">
 <td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Jiahang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00609">2605.00609</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04718.html">Transforming Discarded Thermoelectrics into High-Performance HER Catalysts</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04718.html">Transforming Discarded Thermoelectrics into High-Performance HER Catalysts</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Gemeda Jemal Usa et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04718">2604.04718</a></td>
 </tr>
@@ -47,7 +47,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05363.html">Awakening catalytically active surface of BaRuO3 thin film for alkaline hydrogen evolution</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05363.html">Awakening catalytically active surface of BaRuO3 thin film for alkaline hydrogen evolution</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Jegon Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05363">2512.05363</a></td>
 </tr>
@@ -59,7 +59,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
 </tr>
@@ -94,6 +94,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.14819">2506.14819</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18338.html">Strain Modulated Catalytic Activity of Pt2XSe3 (X = Hg, Zn) for Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a></div></td>
+<td>Caique C. Oliveira et al.</td>
+<td><a href="http://arxiv.org/abs/2505.18338">2505.18338</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19040.html">Kinetics and direct imaging of electrochemically formed palladium hydride for efficient hydrogen evolution reaction</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Luca Camuti et al.</td>
@@ -107,13 +113,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05658.html">Recent advances in hydrogen production using sulfide-based photocatalysts</a></div><div class="paper-tags"><a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="nickel-sulfides-all.html">nickel-sulfides</a> · <a href="pyrite-all.html">pyrite</a> · <a href="transition-metal-sulfides-all.html">transition-metal-sulfides</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05658.html">Recent advances in hydrogen production using sulfide-based photocatalysts</a></div><div class="paper-tags"><a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="millerite-all.html">millerite</a> · <a href="nickel-sulfides-all.html">nickel-sulfides</a> · <a href="pyrite-all.html">pyrite</a> · <a href="transition-metal-sulfides-all.html">transition-metal-sulfides</a></div></td>
 <td>Suresh Chandra Baral et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05658">2412.05658</a></td>
 </tr>
 <tr class="paper">
 <td>2024-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.11783.html">Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="co2-reduction-all.html">co2-reduction</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.11783.html">Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="co2-reduction-all.html">co2-reduction</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Jehad Abed et al.</td>
 <td><a href="http://arxiv.org/abs/2411.11783">2411.11783</a></td>
 </tr>
@@ -137,7 +143,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13472.html">On the origin of univalent Mg$^+$ ions in solution and their role in anomalous anodic hydrogen evolution</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13472.html">On the origin of univalent Mg$^+$ ions in solution and their role in anomalous anodic hydrogen evolution</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="corrosion-all.html">corrosion</a> · <a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a></div></td>
 <td>Florian Deißenbeck et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13472">2407.13472</a></td>
 </tr>

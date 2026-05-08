@@ -17,7 +17,7 @@ current_window: all
 <tbody>
 <tr class="paper">
 <td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04280.html">Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04280.html">Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering</a></div><div class="paper-tags"><a href="hydration-shell-all.html">hydration-shell</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Fei Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04280">2602.04280</a></td>
 </tr>
@@ -29,7 +29,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-12-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15124.html">Silver electrodes are highly selective for CO in CO$_2$ electroreduction due to interplay between voltage dependent kinetics and thermodynamics</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15124.html">Silver electrodes are highly selective for CO in CO$_2$ electroreduction due to interplay between voltage dependent kinetics and thermodynamics</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Michele Re Fiorentin et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15124">2408.15124</a></td>
 </tr>
@@ -41,13 +41,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Ali Bagci et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12475">2504.12475</a></td>
 </tr>
 <tr class="paper">
 <td>2025-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16493.html">Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\mathrm{CO_2}$ hydrogenation energy barriers</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="reaction-networks-all.html">reaction-networks</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16493.html">Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\mathrm{CO_2}$ hydrogenation energy barriers</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mlip-all.html">mlip</a> · <a href="neb-all.html">neb</a> · <a href="reaction-networks-all.html">reaction-networks</a></div></td>
 <td>Luuk H. E. Kempen et al.</td>
 <td><a href="http://arxiv.org/abs/2504.16493">2504.16493</a></td>
 </tr>
@@ -59,7 +59,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14116.html">Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14116.html">Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="isotope-geochemistry-all.html">isotope-geochemistry</a></div></td>
 <td>Lecheng Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.14116">2409.14116</a></td>
 </tr>

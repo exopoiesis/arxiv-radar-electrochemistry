@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electric-double-layer — all</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <a href="electric-double-layer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -35,13 +35,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a> · <a href="mace-all.html">mace</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Lucas B. T. de Kam et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Fabrice Roncoroni et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23031">2507.23031</a></td>
 </tr>
@@ -53,7 +53,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12176.html">Nanoscale surface morphology controls charge storage at stepped Pt-water interfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12176.html">Nanoscale surface morphology controls charge storage at stepped Pt-water interfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Matthew T. Darby et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12176">2510.12176</a></td>
 </tr>
@@ -77,13 +77,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13727.html">Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13727.html">Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="grotthuss-all.html">grotthuss</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Xiaoyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13727">2509.13727</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13529.html">Evolution of surfactant-free &#x27;pristine&#x27; emulsions</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13529.html">Evolution of surfactant-free &#x27;pristine&#x27; emulsions</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="co2-adsorption-all.html">co2-adsorption</a></div></td>
 <td>Andrei Dukhin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13529">2509.13529</a></td>
 </tr>
@@ -113,7 +113,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14751.html">Classical theory of electron-ion correlations at electrochemical interfaces: Closing the circuit from double-layer charging to ion adsorption</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14751.html">Classical theory of electron-ion correlations at electrochemical interfaces: Closing the circuit from double-layer charging to ion adsorption</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a></div></td>
 <td>Nils Bruch et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14751">2507.14751</a></td>
 </tr>
@@ -125,7 +125,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14616.html">Replica RISM molecular solvation theory for electric double layer in nanoporous materials</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14616.html">Replica RISM molecular solvation theory for electric double layer in nanoporous materials</a></div><div class="paper-tags"><a href="electrolyte-structure-all.html">electrolyte-structure</a></div></td>
 <td>A. Kovalenko</td>
 <td><a href="http://arxiv.org/abs/2506.14616">2506.14616</a></td>
 </tr>
@@ -160,6 +160,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.14555">2502.14555</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10578.html">Ionic Associations and Hydration in the Electrical Double Layer of Water-in-Salt Electrolytes</a></div><div class="paper-tags"><a href="electrolyte-structure-all.html">electrolyte-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Daniel M. Markiewitz et al.</td>
+<td><a href="http://arxiv.org/abs/2501.10578">2501.10578</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02813.html">Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir</a></div></td>
 <td>Daiki Nishioka et al.</td>
@@ -173,7 +179,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14905.html">A nonlinear phase-field model of corrosion with charging kinetics of electric double layer</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14905.html">A nonlinear phase-field model of corrosion with charging kinetics of electric double layer</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a></div></td>
 <td>M. Makuch et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14905">2408.14905</a></td>
 </tr>

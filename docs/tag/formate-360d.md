@@ -17,7 +17,7 @@ current_window: 360d
 <tbody>
 <tr class="paper">
 <td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04280.html">Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04280.html">Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering</a></div><div class="paper-tags"><a href="hydration-shell-360d.html">hydration-shell</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fei Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04280">2602.04280</a></td>
 </tr>
@@ -29,7 +29,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-12-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15124.html">Silver electrodes are highly selective for CO in CO$_2$ electroreduction due to interplay between voltage dependent kinetics and thermodynamics</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15124.html">Silver electrodes are highly selective for CO in CO$_2$ electroreduction due to interplay between voltage dependent kinetics and thermodynamics</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Michele Re Fiorentin et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15124">2408.15124</a></td>
 </tr>
@@ -41,7 +41,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Ali Bagci et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12475">2504.12475</a></td>
 </tr>

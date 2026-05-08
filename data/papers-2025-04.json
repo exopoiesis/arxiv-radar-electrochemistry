@@ -1,4 +1,360 @@
 {
+ "2407.16584": {
+  "abstract": "This letter illustrates the opinion of the molecular dynamics (MD) community on the need to adopt a new FAIR paradigm for the use of molecular simulations. It highlights the necessity of a collaborative effort to create, establish, and sustain a database that allows findability, accessibility, interoperability, and reusability of molecular dynamics simulation data. Such a development would democratize the field and significantly improve the impact of MD simulations on life science research. This will transform our working paradigm, pushing the field to a new frontier. We invite you to support our initiative at the MDDB community (https://mddbr.eu/community/) Now published as: Amaro, R.E., et al. The need to implement FAIR principles in biomolecular simulations. Nat Methods (2025) https://doi.org/10.1038/s41592-025-02635-0",
+  "authors": [
+   "Rommie Amaro",
+   "Johan Åqvist",
+   "Ivet Bahar",
+   "Federica Battistini",
+   "Adam Bellaiche",
+   "Daniel Beltran",
+   "Philip C. Biggin",
+   "Massimiliano Bonomi",
+   "Gregory R. Bowman",
+   "Richard Bryce",
+   "Giovanni Bussi",
+   "Paolo Carloni",
+   "David Case",
+   "Andrea Cavalli",
+   "Chie-En A. Chang",
+   "Thomas E. Cheatham",
+   "Margaret S. Cheung",
+   "Cris Chipot",
+   "Lillian T. Chong",
+   "Preeti Choudhary",
+   "Gerardo Andres Cisneros",
+   "Cecilia Clementi",
+   "Rosana Collepardo-Guevara",
+   "Peter Coveney",
+   "Roberto Covino",
+   "T. Daniel Crawford",
+   "Matteo Dal Peraro",
+   "Bert de Groot",
+   "Lucie Delemotte",
+   "Marco De Vivo",
+   "Jonathan Essex",
+   "Franca Fraternali",
+   "Jiali Gao",
+   "Josep Lluís Gelpí",
+   "Francesco Luigi Gervasio",
+   "Fernando Danilo Gonzalez-Nilo",
+   "Helmut Grubmüller",
+   "Marina Guenza",
+   "Horacio V. Guzman",
+   "Sarah Harris",
+   "Teresa Head-Gordon",
+   "Rigoberto Hernandez",
+   "Adam Hospital",
+   "Niu Huang",
+   "Xuhui Huang",
+   "Gerhard Hummer",
+   "Javier Iglesias-Fernández",
+   "Jan H. Jensen",
+   "Shantenu Jha",
+   "Wanting Jiao",
+   "William L. Jorgensen",
+   "Shina Caroline Lynn Kamerlin",
+   "Syma Khalid",
+   "Charles Laughton",
+   "Michael Levitt",
+   "Vittorio Limongelli",
+   "Erik Lindahl",
+   "Kresten Lindorff-Larsen",
+   "Sharon Loverde",
+   "Magnus Lundborg",
+   "Yun Lyna Luo",
+   "Francisco Javier Luque",
+   "Charlotte I. Lynch",
+   "Alexander MacKerell",
+   "Alessandra Magistrato",
+   "Siewert J. Marrink",
+   "Hugh Martin",
+   "J. Andrew McCammon",
+   "Kenneth Merz",
+   "Vicent Moliner",
+   "Adrian Mulholland",
+   "Sohail Murad",
+   "Athi N. Naganathan",
+   "Shikha Nangia",
+   "Frank Noe",
+   "Agnes Noy",
+   "Julianna Oláh",
+   "Megan O'Mara",
+   "Mary Jo Ondrechen",
+   "José N. Onuchic",
+   "Alexey Onufriev",
+   "Silvia Osuna",
+   "Anna R. Panchenko",
+   "Sergio Pantano",
+   "Carol Parish",
+   "Michele Parrinello",
+   "Alberto Perez",
+   "Tomas Perez-Acle",
+   "Juan R. Perilla",
+   "B. Montgomery Pettitt",
+   "Adriana Pietropalo",
+   "Jean-Philip Piquemal",
+   "Adolfo Poma",
+   "Matej Praprotnik",
+   "Maria J. Ramos",
+   "Pengyu Ren",
+   "Nathalie Reuter",
+   "Adrian Roitberg",
+   "Edina Rosta",
+   "Carme Rovira",
+   "Benoit Roux",
+   "Ursula Röthlisberger",
+   "Karissa Y. Sanbonmatsu",
+   "Tamar Schlick",
+   "Alexey K. Shaytan",
+   "Carlos Simmerling",
+   "Jeremy C. Smith",
+   "Yuji Sugita",
+   "Katarzyna Świderek",
+   "Makoto Taiji",
+   "Peng Tao",
+   "D. Peter Tieleman",
+   "Irina G. Tikhonova",
+   "Julian Tirado-Rives",
+   "Inaki Tunón",
+   "Marc W. Van Der Kamp",
+   "David Van der Spoel",
+   "Sameer Velankar",
+   "Gregory A. Voth",
+   "Rebecca Wade",
+   "Ariel Warshel",
+   "Valerie Vaissier Welborn",
+   "Stacey Wetmore",
+   "Travis J. Wheeler",
+   "Chung F. Wong",
+   "Lee-Wei Yang",
+   "Martin Zacharias",
+   "Modesto Orozco"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Rommie Amaro",
+  "pdf_url": "http://arxiv.org/pdf/2407.16584",
+  "primary_category": "q-bio.BM",
+  "published": "2024-07-23",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "The need to implement FAIR principles in biomolecular simulations",
+  "topics": [
+   "via:author-whitelist:metadynamics, AIMD",
+   "via:author-whitelist:proton transport, MS-EVB"
+  ],
+  "updated": "2025-04-03"
+ },
+ "2411.03280": {
+  "abstract": "Neutrino-nucleus cross section measurements are needed to improve interaction modeling to meet the precision needs of neutrino experiments in efforts to measure oscillation parameters and search for physics beyond the Standard Model. We review the difficulties associated with modeling neutrino-nucleus interactions that lead to a dependence on event generators in oscillation analyses and cross section measurements alike. We then describe data-driven model validation techniques intended to address this model dependence. The method relies on utilizing various goodness-of-fit tests and the correlations between different observables and channels to probe the model for defects in the phase space relevant for the desired analysis. These techniques shed light on relevant mis-modeling, allowing it to be detected before it begins to bias the cross section results. We compare more commonly used model validation methods which directly validate the model against alternative ones to these data-driven techniques and show their efficacy with fake data studies. These studies demonstrate that employing data-driven model validation in cross section measurements represents a reliable strategy to produce robust results that will stimulate the desired improvements to interaction modeling.",
+  "authors": [
+   "MicroBooNE collaboration",
+   "P. Abratenko",
+   "O. Alterkait",
+   "D. Andrade Aldana",
+   "L. Arellano",
+   "J. Asaadi",
+   "A. Ashkenazi",
+   "S. Balasubramanian",
+   "B. Baller",
+   "A. Barnard",
+   "G. Barr",
+   "D. Barrow",
+   "J. Barrow",
+   "V. Basque",
+   "J. Bateman",
+   "O. Benevides Rodrigues",
+   "S. Berkman",
+   "A. Bhanderi",
+   "A. Bhat",
+   "M. Bhattacharya",
+   "M. Bishai",
+   "A. Blake",
+   "B. Bogart",
+   "T. Bolton",
+   "M. B. Brunetti",
+   "L. Camilleri",
+   "Y. Cao",
+   "D. Caratelli",
+   "F. Cavanna",
+   "G. Cerati",
+   "A. Chappell",
+   "Y. Chen",
+   "J. M. Conrad",
+   "M. Convery",
+   "L. Cooper-Troendle",
+   "J. I. Crespo-Anadon",
+   "R. Cross",
+   "M. Del Tutto",
+   "S. R. Dennis",
+   "P. Detje",
+   "R. Diurba",
+   "Z. Djurcic",
+   "K. Duffy",
+   "S. Dytman",
+   "B. Eberly",
+   "P. Englezos",
+   "A. Ereditato",
+   "J. J. Evans",
+   "C. Fang",
+   "B. T. Fleming",
+   "W. Foreman",
+   "D. Franco",
+   "A. P. Furmanski",
+   "F. Gao",
+   "D. Garcia-Gamez",
+   "S. Gardiner",
+   "G. Ge",
+   "S. Gollapinni",
+   "E. Gramellini",
+   "P. Green",
+   "H. Greenlee",
+   "L. Gu",
+   "W. Gu",
+   "R. Guenette",
+   "P. Guzowski",
+   "L. Hagaman",
+   "M. D. Handley",
+   "O. Hen",
+   "C. Hilgenberg",
+   "G. A. Horton-Smith",
+   "Z. Imani",
+   "B. Irwin",
+   "M. S. Ismail",
+   "C. James",
+   "X. Ji",
+   "J. H. Jo",
+   "R. A. Johnson",
+   "Y. J. Jwa",
+   "D. Kalra",
+   "G. Karagiorgi",
+   "W. Ketchum",
+   "M. Kirby",
+   "T. Kobilarcik",
+   "N. Lane",
+   "J. -Y. Li",
+   "Y. Li",
+   "K. Lin",
+   "B. R. Littlejohn",
+   "L. Liu",
+   "W. C. Louis",
+   "X. Luo",
+   "T. Mahmud",
+   "C. Mariani",
+   "D. Marsden",
+   "J. Marshall",
+   "N. Martinez",
+   "D. A. Martinez Caicedo",
+   "S. Martynenko",
+   "A. Mastbaum",
+   "I. Mawby",
+   "N. McConkey",
+   "V. Meddage",
+   "L. Mellet",
+   "J. Mendez",
+   "J. Micallef",
+   "K. Miller",
+   "K. Mistry",
+   "T. Mohayai",
+   "A. Mogan",
+   "M. Mooney",
+   "A. F. Moor",
+   "C. D. Moore",
+   "L. Mora Lepin",
+   "M. M. Moudgalya",
+   "S. Mulleria Babu",
+   "D. Naples",
+   "A. Navrer-Agasson",
+   "N. Nayak",
+   "M. Nebot-Guinot",
+   "C. Nguyen",
+   "J. Nowak",
+   "N. Oza",
+   "O. Palamara",
+   "N. Pallat",
+   "V. Paolone",
+   "A. Papadopoulou",
+   "V. Papavassiliou",
+   "H. Parkinson",
+   "S. F. Pate",
+   "N. Patel",
+   "Z. Pavlovic",
+   "E. Piasetzky",
+   "K. Pletcher",
+   "I. Pophale",
+   "X. Qian",
+   "J. L. Raaf",
+   "V. Radeka",
+   "A. Rafique",
+   "M. Reggiani-Guzzo",
+   "L. Ren",
+   "L. Rochester",
+   "J. Rodriguez Rondon",
+   "M. Rosenberg",
+   "M. Ross-Lonergan",
+   "I. Safa",
+   "D. W. Schmitz",
+   "A. Schukraft",
+   "W. Seligman",
+   "M. H. Shaevitz",
+   "R. Sharankova",
+   "J. Shi",
+   "E. L. Snider",
+   "M. Soderberg",
+   "S. Soldner-Rembold",
+   "J. Spitz",
+   "M. Stancari",
+   "J. St. John",
+   "T. Strauss",
+   "A. M. Szelc",
+   "N. Taniuchi",
+   "K. Terao",
+   "C. Thorpe",
+   "D. Torbunov",
+   "D. Totani",
+   "M. Toups",
+   "A. Trettin",
+   "Y. -T. Tsai",
+   "J. Tyler",
+   "M. A. Uchida",
+   "T. Usher",
+   "B. Viren",
+   "J. Wang",
+   "M. Weber",
+   "H. Wei",
+   "A. J. White",
+   "S. Wolbers",
+   "T. Wongjirad",
+   "M. Wospakrik",
+   "K. Wresilo",
+   "W. Wu",
+   "E. Yandel",
+   "T. Yang",
+   "L. E. Yates",
+   "H. W. Yu",
+   "G. P. Zeller",
+   "J. Zennamo",
+   "C. Zhang"
+  ],
+  "categories": [
+   "hep-ex"
+  ],
+  "comment": null,
+  "first_author": "MicroBooNE collaboration",
+  "pdf_url": "http://arxiv.org/pdf/2411.03280",
+  "primary_category": "hep-ex",
+  "published": "2024-11-05",
+  "tags": [],
+  "title": "Data-driven model validation for neutrino-nucleus cross section measurements",
+  "topics": [
+   "via:author-whitelist:vent theory, bioenergetics"
+  ],
+  "updated": "2025-04-30"
+ },
  "2501.16561": {
   "abstract": "BaZrS3 is a chalcogenide perovskite that has shown promise as a photovoltaic absorber, but its performance is limited because of defects and impurities that have a direct influence on carrier concentrations. Functional dopants that show lower donor-type or acceptor-type formation energies than naturally occurring defects can help tune the optoelectronic properties of BaZrS3. In this work, we applied first principles computations to comprehensively investigate the defect landscape of BaZrS3, including all intrinsic defects and a set of selected impurities and dopants. BaZrS3 intrinsically exhibits n-type equilibrium conductivity under both S-poor and S-rich conditions, which remains largely unchanged in the presence of O and H impurities. La and Nb dopants created stable donor-type defects, which made BaZrS3 even more n-type, whereas As and P dopants formed amphoteric defects with relatively high formation energies. This work highlights the difficulty of creating p-type BaZrS3 owing to the low formation energies of donor defects, both intrinsic and extrinsic. Defect formation energies were also used to compute expected defect concentrations and make comparisons with experimentally reported values. Our dataset of defects in BaZrS3 paves the path for training machine learning models to subsequently perform larger-scale prediction and screening of defects and dopants across many chalcogenide perovskites, including cation-site or anion-site alloys.",
   "authors": [
@@ -27,6 +383,319 @@
    "Sulfidation and Phase Stability"
   ],
   "updated": "2025-04-07"
+ },
+ "2503.03073": {
+  "abstract": "High angular resolution radio observations of relativistic jets are necessary to understand the causal connection between accretion and jet ejection in low mass X-ray binaries. Images from these observations can be difficult to reconstruct due to the rapid intra-observational motion and variability of transient jets. We have developed a time-dependent visibility model fitting and self-calibration procedure and applied it to a single four-hour VLBA observation of the low-mass X-ray binary Swift J1727.8-1613 during the bright flaring period of its 2023 outburst. This allowed us to detect and model a slightly resolved self-absorbed compact core, as well as three downstream transient jet knots. We were able to precisely measure the proper motion and flux density variability of these three jet knots, as well as (for the first time) their intra-observational expansion. Using simultaneous multi-frequency data, we were also able to measure the spectral index of the furthest downstream jet knot, and the core, as well as the frequency-dependent core shift between 2.3 and 8.3 GHz. Using these measurements, we inferred the ejection dates of the three jet knots, including one to within $\\pm40$ minutes, which is one of the most precise ever measured. The ejection of the transient jet knots coincided with a bright X-ray flare and a drastic change in the X-ray spectral and timing properties as seen by HXMT, which is the clearest association ever seen between the launching of transient relativistic jets in an X-ray binary and a sudden change in the X-ray properties of the accretion inflow.",
+  "authors": [
+   "Callan M. Wood",
+   "James C. A. Miller-Jones",
+   "Arash Bahramian",
+   "Steven J. Tingay",
+   "He-Xin Liu",
+   "Diego Altamirano",
+   "Rob Fender",
+   "Elmar Körding",
+   "Dipankar Maitra",
+   "Sera Markoff",
+   "David M. Russell",
+   "Thomas D. Russell",
+   "Craig L. Sarazin",
+   "Gregory R. Sivakoff",
+   "Roberto Soria",
+   "Alexandra J. Tetarenko",
+   "Valeriu Tudose"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": "11 pages, 5 figures, accepted in ApJL",
+  "first_author": "Callan M. Wood",
+  "pdf_url": "http://arxiv.org/pdf/2503.03073",
+  "primary_category": "astro-ph.HE",
+  "published": "2025-03-05",
+  "tags": [],
+  "title": "The Ejection of Transient Jets in Swift J1727.8-1613 Revealed by Time-Dependent Visibility Modelling",
+  "topics": [
+   "via:author-whitelist:alkaline hydrothermal vent theory"
+  ],
+  "updated": "2025-04-02"
+ },
+ "2503.21994": {
+  "abstract": "Double-peaked emission lines are observed in a small percentage of active galactic nuclei (AGN). These lines allow the determination of properties of the line-emitting region, known as the broad-line region (BLR). We investigated the structure and kinematics of the BLR in the Seyfert galaxy NGC 4593 through an analysis of the NIR line blend of Ca II 8498, 8542, 8662, and O I 8446 observed in a 2019 VLT/MUSE spectrum. We performed a detailed decomposition of the near-infrared Ca II triplet and O I 8446 blend, extracting clean profiles of Ca II 8498, 8542, 8662 and O I 8446. We then fitted Ca 8662 with a relativistic elliptical line-emitting disk model. The line profiles are double-peaked with a FWHM of approx. 3700 km/s and exhibit a redward asymmetry with a red-to-blue peak ratio of 4:3. The Ca II triplet lines have an intensity ratio of 1:1:1 and show no evidence of a central narrow or intermediate-width component. The profiles of Ca II and O I are remarkably similar, suggesting a common region of origin. Given the 1:1:1 ratio of the Ca II triplet, this region is likely a high-density emission zone, and the Ca II 8662 profile is well described by a mildly eccentric, low-inclination relativistic disk with minimal internal turbulence. The profile represents one of the clearest kinematic signatures of a relativistic disk observed in BLR emission lines to date. The double-peaked profiles of the NIR Ca II triplet and O I 8446 in NGC 4593 represent the first detection of double-peaked Ca II and O I 8446 in a non-transient AGN spectrum. The minimal intrinsic turbulence (the lowest value reported for an AGN emission line to date) and absence of narrow or intermediate-width components in Ca II 8662 make it a powerful diagnostic tool of BLR structure and kinematics. Further investigations of the profiles of Ca II and O I in other AGN are recommended to better constrain BLR properties.",
+  "authors": [
+   "M. W. Ochmann",
+   "P. M. Weilbacher",
+   "M. A. Probst",
+   "W. Kollatschny",
+   "D. Chelouche",
+   "R. Chini",
+   "D. Grupe",
+   "M. Haas",
+   "S. Kaspi",
+   "S. Komossa"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "9 pages, 7 figures; accepted for publication in A&A",
+  "first_author": "M. W. Ochmann",
+  "pdf_url": "http://arxiv.org/pdf/2503.21994",
+  "primary_category": "astro-ph.GA",
+  "published": "2025-03-27",
+  "tags": [],
+  "title": "Double-peaked Ca II traces a relativistic broad-line region disk in NGC 4593",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2025-04-23"
+ },
+ "2503.23974": {
+  "abstract": "FAPbI$_3$ is a material of interest for its potential in solar cell applications, driven by its remarkable optoelectronic properties. However, the low-temperature phase of FAPbI$_3$ remains poorly understood, with open questions surrounding its crystal structure, octahedral tilting, and the arrangement of formamidinium (FA) cations. Using our trained machine-learned potential in combination with large-scale molecular dynamics simulations, we provide a detailed investigation of this phase, uncovering its structural characteristics and dynamical behavior. Our analysis reveals the octahedral tilt pattern and sheds light on the rotational dynamics of FA cations in the low temperature phase. Strikingly, we find that the FA cations become frozen in a metastable configuration, unable to reach the thermodynamic ground state. By comparing our simulated results with experimental nuclear magnetic resonance (NMR) and inelastic neutron scattering (INS) spectra, we demonstrate good agreement, further validating our findings. This phenomenon mirrors experimental observations and offers a compelling explanation for the experimental challenges in accessing the true ground state. These findings provide critical insights into the fundamental physics of FAPbI$_3$ and its low-temperature behavior, advancing our understanding of this technologically important material.",
+  "authors": [
+   "Sangita Dutta",
+   "Erik Fransson",
+   "Tobias Hainer",
+   "Benjamin M. Gallant",
+   "Dominik J. Kubicki",
+   "Paul Erhart",
+   "Julia Wiktor"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sangita Dutta",
+  "pdf_url": "http://arxiv.org/pdf/2503.23974",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-03-31",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Revealing the Low Temperature Phase of FAPbI$_3$ using A Machine-Learned Potential",
+  "topics": [
+   "via:author-whitelist:mineral-water interface DFT"
+  ],
+  "updated": "2025-04-02"
+ },
+ "2504.00245": {
+  "abstract": "SBND is a 112 ton liquid argon time projection chamber (LArTPC) neutrino detector located 110 meters from the Booster Neutrino Beam (BNB) target at Fermilab. Its main goals include searches for eV-scale sterile neutrinos as part of the Short-Baseline Neutrino (SBN) program, other searches for physics beyond the Standard Model, and precision studies of neutrino-argon interactions. In addition, SBND is providing a platform for LArTPC neutrino detector technology development and is an excellent training ground for the international group of scientists and engineers working towards the upcoming flagship Deep Underground Neutrino Experiment (DUNE). SBND began operation in July 2024, and started collecting stable neutrino beam data in December 2024 with an unprecedented rate of ~7,000 neutrino events per day. During its currently approved operation plans (2024-2027), SBND is expected to accumulate nearly 10 million neutrino interactions. The near detector dataset will be instrumental in testing the sterile neutrino hypothesis with unprecedented sensitivity in SBN and in probing signals of beyond the Standard Model physics. It will also be used to significantly advance our understanding of the physics of neutrino-argon interactions ahead of DUNE. After the planned accelerator restart at Fermilab (2029+), opportunities are being explored to operate SBND in antineutrino mode in order to address the scarcity of antineutrino-argon scattering data, or in a dedicated beam-dump mode to significantly enhance sensitivity to searches for new physics. SBND is an international effort, with approximately 40% of institutions from Europe, contributing to detector construction, commissioning, software development, and data analysis. Continued European involvement and leadership are essential during SBND's operations and analysis phase for both the success of SBND, SBN and its role leading up to DUNE.",
+  "authors": [
+   "SBND Collaboration",
+   "R. Acciarri",
+   "L. Aliaga-Soplin",
+   "O. Alterkait",
+   "R. Alvarez-Garrote",
+   "D. Andrade Aldana",
+   "C. Andreopoulos",
+   "A. Antonakis",
+   "L. Arellano",
+   "W. Badgett",
+   "S. Balasubramanian",
+   "A. Barnard",
+   "V. Basque",
+   "J. Bateman",
+   "A. Beever",
+   "E. Belchior",
+   "M. Betancourt",
+   "A. Bhat",
+   "M. Bishai",
+   "A. Blake",
+   "B. Bogart",
+   "J. Bogenschuetz",
+   "D. Brailsford",
+   "A. Brandt",
+   "S. Brickner",
+   "M. B. Brunetti",
+   "A. Bueno",
+   "L. Camilleri",
+   "A. Campos",
+   "D. Caratelli",
+   "D. Carber",
+   "B. Carlson",
+   "M. Carneiro",
+   "R. Castillo",
+   "F. Cavanna",
+   "A. Chappell",
+   "H. Chen",
+   "S. Chung",
+   "R. Coackley",
+   "J. I. Crespo-Anadón",
+   "C. Cuesta",
+   "Y. Dabburi",
+   "O. Dalager",
+   "M. Dall'Olio",
+   "R. Darby",
+   "M. Del Tutto",
+   "V. Di Benedetto",
+   "Z. Djurcic",
+   "V. do Lago Pimentel",
+   "S. Dominguez-Vidales",
+   "K. Duffy",
+   "S. Dytman",
+   "A. Ereditato",
+   "J. J. Evans",
+   "A. Ezeribe",
+   "C. Fan",
+   "A. Filkins",
+   "B. Fleming",
+   "W. Foreman",
+   "D. Franco",
+   "G. Fricano",
+   "I. Furic",
+   "A. Furmanski",
+   "S. Gao",
+   "D. Garcia-Gamez",
+   "S. Gardiner",
+   "G. Ge",
+   "I. Gil-Botella",
+   "S. Gollapinni",
+   "P. Green",
+   "W. C. Griffith",
+   "R. Guenette",
+   "P. Guzowski",
+   "L. Hagaman",
+   "A. Hamer",
+   "P. Hamilton",
+   "M. Hernandez-Morquecho",
+   "B. Howard",
+   "Z. Imani",
+   "C. James",
+   "R. S. Jones",
+   "M. Jung",
+   "T. Junk",
+   "D. Kalra",
+   "G. Karagiorgi",
+   "L. Kashur",
+   "K. Kelly",
+   "W. Ketchum",
+   "M. King",
+   "J. Klein",
+   "L. Kotsiopoulou",
+   "S. Kr Das",
+   "T. Kroupova",
+   "V. A. Kudryavtsev",
+   "N. Lane",
+   "H. Lay",
+   "R. LaZur",
+   "J. -Y. Li",
+   "K. Lin",
+   "B. Littlejohn",
+   "L. Liu",
+   "W. C. Louis",
+   "E. Lourenco",
+   "X. Lu",
+   "X. Luo",
+   "A. Machado",
+   "P. Machado",
+   "C. Mariani",
+   "F. Marinho",
+   "J. Marshall",
+   "A. Mastbaum",
+   "K. Mavrokoridis",
+   "N. McConkey",
+   "B. McCusker",
+   "M. Mooney",
+   "A. F. Moor",
+   "G. Moreno Granados",
+   "C. A. Moura",
+   "J. Mueller",
+   "S. Mulleriababu",
+   "A. Navrer-Agasson",
+   "M. Nebot-Guinot",
+   "V. C. L. Nguyen",
+   "F. J. Nicolas-Arnaldos",
+   "J. Nowak",
+   "S. Oh",
+   "N. Oza",
+   "O. Palamara",
+   "N. Pallat",
+   "V. Pandey",
+   "A. Papadopoulou",
+   "H. B. Parkinson",
+   "J. L. Paton",
+   "L. Paudel",
+   "L. Paulucci",
+   "Z. Pavlovic",
+   "D. Payne",
+   "L. Pelegrina Gutiérrez",
+   "J. Plows",
+   "F. Psihas",
+   "G. Putnam",
+   "X. Qian",
+   "R. Rajagopalan",
+   "P. Ratoff",
+   "H. Ray",
+   "M. Reggiani-Guzzo",
+   "M. Roda",
+   "J. Romeo-Araujo",
+   "M. Ross-Lonergan",
+   "N. Rowe",
+   "P. Roy",
+   "I. Safa",
+   "A. Sanchez-Castillo",
+   "P. Sanchez-Lucas",
+   "D. W. Schmitz",
+   "A. Schneider",
+   "A. Schukraft",
+   "H. Scott",
+   "E. Segreto",
+   "J. Sensenig",
+   "M. Shaevitz",
+   "B. Slater",
+   "J. Smith",
+   "M. Soares-Nunes",
+   "M. Soderberg",
+   "S. Söldner-Rembold",
+   "J. Spitz",
+   "M. Stancari",
+   "T. Strauss",
+   "A. M. Szelc",
+   "C. Thorpe",
+   "D. Totani",
+   "M. Toups",
+   "C. Touramanis",
+   "L. Tung",
+   "G. A. Valdiviesso",
+   "R. G. Van de Water",
+   "A. Vázquez Ramos",
+   "L. Wan",
+   "M. Weber",
+   "H. Wei",
+   "T. Wester",
+   "A. White",
+   "A. Wilkinson",
+   "P. Wilson",
+   "T. Wongjirad",
+   "E. Worcester",
+   "M. Worcester",
+   "S. Yadav",
+   "E. Yandel",
+   "T. Yang",
+   "L. Yates",
+   "B. Yu",
+   "H. Yu",
+   "J. Yu",
+   "B. Zamorano",
+   "J. Zennamo",
+   "C. Zhang"
+  ],
+  "categories": [
+   "hep-ex",
+   "hep-ph",
+   "nucl-th"
+  ],
+  "comment": "Input to the European Strategy for Particle Physics 2026 Update",
+  "first_author": "SBND Collaboration",
+  "pdf_url": "http://arxiv.org/pdf/2504.00245",
+  "primary_category": "hep-ex",
+  "published": "2025-03-31",
+  "tags": [],
+  "title": "The Short-Baseline Near Detector at Fermilab",
+  "topics": [
+   "via:author-whitelist:vent theory, bioenergetics"
+  ],
+  "updated": "2025-04-04"
  },
  "2504.00350": {
   "abstract": "The conversion of CO2 into high-value chemicals through a photoreduction reaction in water is a promising route to reduce the dependence on fossil fuels. Ag nanoparticles can drive this reaction via localized surface plasmon resonance, but their low selectivity limits usage in industry. Enhancing selectivity toward hydrocarbons or alcohols requires addition of a co-catalyst such as Cu. However, the stabilized surface state created by Ag-Cu interactions is still poorly understood. In this work, soft x-ray Ambient-Pressure X-ray Photoelectron Spectroscopy (AP-XPS) and Grazing-Incidence X-ray Scattering (AP-GIXS) were used to investigate the evolution of Ag-Cu nanoparticles under CO2RR-like conditions. AP-XPS revealed Ag and Cu surface and sub-surface diffusion, while AP-GIXS tracked change of shape and size of nanoparticles induced by diffusion mechanics. Under 532 nm laser irradiation, further oxidation of Cu and Ag sub-surface diffusion were observed, providing invaluable insights into the dynamic restructuring of the catalyst under reaction conditions.",
@@ -58,6 +727,82 @@
   ],
   "updated": "2025-04-01"
  },
+ "2504.00519": {
+  "abstract": "In this work, we investigate how exploiting symmetry when creating and modifying structural models may speed up global atomistic structure optimization. We propose a search strategy in which models start from high symmetry configurations and then gradually evolve into lower symmetry models. The algorithm is named cascading symmetry search and is shown to be highly efficient for a number of known surface reconstructions. We use our method for the sulfur induced Cu (111) $(\\sqrt{43}\\times\\sqrt{43})$ surface reconstruction for which we identify a new highly stable structure which conforms with experimental evidence.",
+  "authors": [
+   "Florian Brix",
+   "Mads-Peter Verner Christiansen",
+   "Bjørk Hammer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Florian Brix",
+  "pdf_url": "http://arxiv.org/pdf/2504.00519",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-01",
+  "tags": [
+   "surface-reconstruction"
+  ],
+  "title": "Cascading symmetry constraint during machine learning-enabled structural search for sulfur induced Cu(111)-$(\\sqrt{43}\\times\\sqrt{43})$ surface reconstruction",
+  "topics": [
+   "via:author-whitelist:DFT catalysis, GPAW"
+  ],
+  "updated": "2025-04-01"
+ },
+ "2504.00748": {
+  "abstract": "Immunohistochemistry (IHC) is essential in diagnostic pathology and biomedical research, offering critical insights into protein expression and tumour biology. This study presents an automated pipeline, IHC-LLMiner, for extracting IHC-tumour profiles from PubMed abstracts, leveraging advanced biomedical text mining. There are two subtasks: abstract classification (include/exclude as relevant) and IHC-tumour profile extraction on relevant included abstracts. The best-performing model, \"Gemma-2 finetuned\", achieved 91.5% accuracy and an F1 score of 91.4, outperforming GPT4-O by 9.5% accuracy with 5.9 times faster inference time. From an initial dataset of 107,759 abstracts identified for 50 immunohistochemical markers, the classification task identified 30,481 relevant abstracts (Include) using the Gemma-2 finetuned model. For IHC-tumour profile extraction, the Gemma-2 finetuned model achieved the best performance with 63.3% Correct outputs. Extracted IHC-tumour profiles (tumour types and markers) were normalised to Unified Medical Language System (UMLS) concepts to ensure consistency and facilitate IHC-tumour profile landscape analysis. The extracted IHC-tumour profiles demonstrated excellent concordance with available online summary data and provided considerable added value in terms of both missing IHC-tumour profiles and quantitative assessments. Our proposed LLM based pipeline provides a practical solution for large-scale IHC-tumour profile data mining, enhancing the accessibility and utility of such data for research and clinical applications as well as enabling the generation of quantitative and structured data to support cancer-specific knowledge base development. Models and training datasets are available at https://github.com/knowlab/IHC-LLMiner.",
+  "authors": [
+   "Yunsoo Kim",
+   "Michal W. S. Ong",
+   "Daniel W. Rogalsky",
+   "Manuel Rodriguez-Justo",
+   "Honghan Wu",
+   "Adam P. Levine"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "currently under review",
+  "first_author": "Yunsoo Kim",
+  "pdf_url": "http://arxiv.org/pdf/2504.00748",
+  "primary_category": "cs.CL",
+  "published": "2025-04-01",
+  "tags": [],
+  "title": "IHC-LLMiner: Automated extraction of tumour immunohistochemical profiles from PubMed abstracts using large language models",
+  "topics": [
+   "via:author-whitelist:M3GNet, CHGNet"
+  ],
+  "updated": "2025-04-01"
+ },
+ "2504.01187": {
+  "abstract": "Traditional atomistic machine learning (ML) models serve as surrogates for quantum mechanical (QM) properties, predicting quantities such as dipole moments and polarizabilities, directly from compositions and geometries of atomic configurations. With the emergence of ML approaches to predict the \"ingredients\" of a QM calculation, such as the ground state charge density or the effective single-particle Hamiltonian, it has become possible to obtain multiple properties through analytical physics-based operations on these intermediate ML predictions. We present a framework to seamlessly integrate the prediction of an effective electronic Hamiltonian, for both molecular and condensed-phase systems, with PySCFAD, a differentiable QM workflow that facilitates its indirect training against functions of the Hamiltonian, such as electronic energy levels, dipole moments, polarizability, etc. We then use this framework to explore various possible choices within the design space of hybrid ML/QM models, examining the influence of incorporating multiple targets on model performance and learning a reduced-basis ML Hamiltonian that can reproduce targets computed from a much larger basis. Our benchmarks evaluate the accuracy and transferability of these hybrid models, compare them against predictions of atomic properties from their surrogate models, and provide indications to guide the design of the interface between the ML and QM components of the model.",
+  "authors": [
+   "Divya Suman",
+   "Jigyasa Nigam",
+   "Sandra Saade",
+   "Paolo Pegolo",
+   "Hanna Tuerk",
+   "Xing Zhang",
+   "Garnet Kin-Lic Chan",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Divya Suman",
+  "pdf_url": "http://arxiv.org/pdf/2504.01187",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-04-01",
+  "tags": [],
+  "title": "Exploring the design space of machine-learning models for quantum chemistry with a fully differentiable framework",
+  "topics": [
+   "via:author-whitelist:PIMD, MLIPs, water"
+  ],
+  "updated": "2025-04-01"
+ },
  "2504.02063": {
   "abstract": "NiS2, a compound characterized by its pyrite structure, uniquely bridges the realms of strong correlation physics and topology. While bulk NiS2 is known to be a Mott or charge-transfer insulator, its surface displays anomalous metallic behavior and finite conductivity. Using high-resolution neutron scattering data and symmetry analysis, we propose a refined description of NiS2's magnetic phases by introducing a novel model for its ground state. Combined with high-resolution scanning tunneling microscopy and spectroscopy (STM/STS), we unveil the presence of edge states in both Ni- and S-terminated surfaces, which exhibit remarkable resilience to external magnetic fields. Although both types of edge states exhibit similar properties, only the edge states at the Ni termination populate the vicinity of the Fermi level and, therefore contribute to the surface conductivity. Utilizing ab initio methods combined with a topological quantum chemistry analysis, we attribute these edge states to obstructed atomic charges originating from bulk topology. Overall, this work not only deepens our understanding of NiS2 but also lays a robust experimental and theoretical foundation for further exploration of the interplay between one-dimensional step-edge states and the Wannier obstruction in correlated materials.",
   "authors": [
@@ -84,12 +829,12 @@
   "published": "2025-04-02",
   "tags": [
    "ab-initio",
-   "pyrite",
-   "surface-science"
+   "pyrite"
   ],
   "title": "One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges",
   "topics": [
    "Atomistic Modeling of Sulfides",
+   "Atomistic Modeling of Sulfides and Minerals",
    "Fe-Ni-S Mineral Surfaces"
   ],
   "updated": "2025-04-02"
@@ -118,6 +863,179 @@
   ],
   "updated": "2025-04-03"
  },
+ "2504.04261": {
+  "abstract": "A wide variety of scenarios for the origin of life have been proposed, with many influencing the prevalence and distribution of biosignatures across exoplanet populations. This relationship suggests these scenarios can be tested by predicting biosignature distributions and comparing them with empirical data. Here, we demonstrate this approach by focusing on the cyanosulfidic origins-of-life scenario and investigating the hypothesis that a minimum near-ultraviolet (NUV) flux is necessary for abiogenesis. Using Bayesian modeling and the \\bioverse\\ survey simulator, we constrain the probability of obtaining strong evidence for or against this ``UV Threshold Hypothesis'' with future biosignature surveys.   Our results indicate that a correlation between past NUV flux and current biosignature occurrence is testable for sample sizes of $\\gtrsim$50 planets. The diagnostic power of such tests is critically sensitive to the intrinsic abiogenesis rate and host star properties, particularly maximum past NUV fluxes. Surveys targeting a wide range of fluxes, and planets orbiting M dwarfs enhance the chances of conclusive results, with sample sizes $\\gtrsim$100 providing $\\gtrsim$80\\% likelihood of strong evidence if abiogenesis rates are high and the required NUV fluxes are moderate. For required fluxes exceeding a few hundred erg/s/cm$^2$, both the fraction of inhabited planets and the diagnostic power sharply decrease.   Our findings demonstrate the potential of exoplanet surveys to test origins-of-life hypotheses. Beyond specific scenarios, this work underscores the broader value of realistic survey simulations for future observatories (e.g., HWO, LIFE, ELTs, Nautilus) in identifying testable science questions, optimizing mission strategies, and advancing theoretical and experimental studies of abiogenesis.",
+  "authors": [
+   "Martin Schlecker",
+   "Dániel Apai",
+   "Antonin Affholder",
+   "Sukrit Ranjan",
+   "Régis Ferrière",
+   "Kevin K. Hardegree-Ullman",
+   "Tim Lichtenberg",
+   "Stéphane Mazevet"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "23 pages, 14 figures. Accepted for publication in The Astrophysical Journal. All source code is available at https://zenodo.org/records/15022723",
+  "first_author": "Martin Schlecker",
+  "pdf_url": "http://arxiv.org/pdf/2504.04261",
+  "primary_category": "astro-ph.EP",
+  "published": "2025-04-05",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life",
+  "topics": [
+   "via:author-whitelist:prebiotic photochemistry, atmospheric chem"
+  ],
+  "updated": "2025-04-05"
+ },
+ "2504.05169": {
+  "abstract": "Modeling the response of material and chemical systems to electric fields remains a longstanding challenge. Machine learning interatomic potentials (MLIPs) offer an efficient and scalable alternative to quantum mechanical methods but do not by themselves incorporate electrical response. Here, we show that polarization and Born effective charge (BEC) tensors can be directly extracted from long-range MLIPs within the Latent Ewald Summation (LES) framework, solely by learning from energy and force data. Using this approach, we predict the infrared spectra of bulk water under zero or finite external electric fields, ionic conductivities of high-pressure superionic ice, and the phase transition and hysteresis in ferroelectric PbTiO$_3$ perovskite. This work thus extends the capability of MLIPs to predict electrical response--without training on charges or polarization or BECs--and enables accurate modeling of electric-field-driven processes in diverse systems at scale.",
+  "authors": [
+   "Peichen Zhong",
+   "Dongjin Kim",
+   "Daniel S. King",
+   "Bingqing Cheng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Peichen Zhong",
+  "pdf_url": "http://arxiv.org/pdf/2504.05169",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-07",
+  "tags": [
+   "phase-transitions"
+  ],
+  "title": "Machine learning interatomic potential can infer electrical response",
+  "topics": [
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2025-04-07"
+ },
+ "2504.05417": {
+  "abstract": "Graphene has been suggested as an ultimately thin functional coating for metallurgical alloys such as steels. However, even on pure iron (Fe), the parent phase of steels, growth of high quality graphene films remains largely elusive to date. We here report scalable chemical vapour deposition (CVD) of high quality monolayer graphene films on Fe substrates. To achieve this, we here elucidate the mechanisms of graphene growth on Fe using complementary in situ X-ray diffractometry (XRD) and in situ near ambient pressure X-ray photoelectron spectroscopy (NAP XPS) during our scalable CVD conditions. As key factors that set Fe apart from other common graphene CVD catalyst supports such as Ni or Cu, we identify that for Fe (i) carbothermal reduction of persistent Fe-oxides and (ii) kinetic balancing of carbon uptake into the Fe during CVD near the Fe-C eutectoid because of the complex multi-phased Fe-C phase diagram are critical. Additionally, we establish that the carbon uptake into the Fe during graphene CVD is not only important in terms of growth mechanism but can also be advantageously utilized for concurrent surface hardening of the Fe during the graphene CVD process akin to carburization/case hardening. Our work thereby forms a framework for controlled and scalable high-quality monolayer graphene film CVD on Fe incl. the introduction of concurrent surface hardening during graphene CVD.",
+  "authors": [
+   "Bernhard Fickl",
+   "Werner Artner",
+   "Daniel Matulka",
+   "Jakob Rath",
+   "Martin Nastran",
+   "Markus Hofer",
+   "Raoul Blume",
+   "Michael Hävecker",
+   "Alexander Kirnbauer",
+   "Florian Fahrnberger",
+   "Herbert Hutter",
+   "Dengsong Zhang",
+   "Paul H. Mayrhofer",
+   "Axel Knop-Gericke",
+   "Beatriz Roldan Cuenya",
+   "Robert Schlögl",
+   "Christian Dipolt",
+   "Dominik Eder",
+   "Bernhard C. Bayer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Bernhard Fickl",
+  "pdf_url": "http://arxiv.org/pdf/2504.05417",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-07",
+  "tags": [],
+  "title": "Realizing Scalable Chemical Vapour Deposition of Monolayer Graphene Films on Iron with Concurrent Surface Hardening by in situ Observations",
+  "topics": [
+   "via:author-whitelist:iron sulfide, mineral surfaces"
+  ],
+  "updated": "2025-04-07"
+ },
+ "2504.06505": {
+  "abstract": "Molecular dynamics (MD) simulations are essential for studying complex molecular systems, but their high computational cost limits scalability. Coarse-grained (CG) models reduce this cost by simplifying the system, yet traditional approaches often fail to maintain dynamic consistency, compromising their reliability in kinetics-driven processes. Here, we introduce an adversarial training framework that aligns CG trajectory ensembles with all-atom (AA) reference dynamics, ensuring both thermodynamic and kinetic fidelity. Our method adapts the adversarial learning paradigm, combining a physics-based generator with a neural network discriminator that differentiates between AA and CG trajectories. By adversarially optimizing CG parameters, our approach eliminates the need for predefined kinetic features. Applied to liquid water, it accurately reproduces radial and angular distribution functions as well as dynamical mean squared displacement, even extrapolating long-timescale dynamics from short training trajectories. This framework offers a new approach for bottom-up CG modeling, offering a systematic and principled way to preserve dynamic consistency in complex coarse-grained molecular systems.",
+  "authors": [
+   "Yihang Wang",
+   "Gregory A. Voth"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yihang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2504.06505",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-04-09",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Adversarial Training for Dynamics Matching in Coarse-Grained Models",
+  "topics": [
+   "via:author-whitelist:proton transport, MS-EVB"
+  ],
+  "updated": "2025-04-09"
+ },
+ "2504.07007": {
+  "abstract": "Quantitative understanding of rare earth element (REE) mineralization mechanisms, crucial for improving industrial separation, remains limited. This study leverages 1239 hydrothermal synthesis datapoints from material science as a surrogate for natural REE mineralization. We trained machine learning models (KNN, RF, XGBoost) using precursor, additive, and reaction data to predict product elements and phases, validating predictions with new experiments. XGBoost exhibited the highest accuracy, with feature importance analysis indicating thermodynamic properties were critical for predictions. Observed correlations among reaction parameters aligned with classical crystallization theory. Further XGBoost models successfully predicted reaction temperature and pH from precursor/product data. Our findings demonstrate the cross-disciplinary utility of material science data for geochemical understanding, underscore the need for research on less-studied REE minerals (e.g., carbonates, heavy REEs), and suggest potential to accelerate REE resource development.",
+  "authors": [
+   "Juejing Liu",
+   "Xiaoxu Li",
+   "Yifu Feng",
+   "Zheming Wang",
+   "Kevin M. Rosso",
+   "Xiaofeng Guo",
+   "Xin Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Juejing Liu",
+  "pdf_url": "http://arxiv.org/pdf/2504.07007",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-09",
+  "tags": [],
+  "title": "Data-Driven Insights into Rare Earth Mineralization: Machine Learning Applications Using Functional Material Synthesis Data",
+  "topics": [
+   "via:author-whitelist:iron oxide / sulfide geochemistry"
+  ],
+  "updated": "2025-04-09"
+ },
+ "2504.08790": {
+  "abstract": "Fluid imbibition into porous media featuring nanopores is ubiquitous in applications such as oil recovery from unconventional reservoirs and material processing. While the imbibition of pure fluids has been extensively studied, the imbibition of fluid mixture is little explored. Here we report the molecular dynamics study of the imbibition of model crude oil into nanometer-wide mineral pores, both when pore walls are dry and prewetted by a residual water film. Results show the fastest imbibition and quickest propagation of molecularly thin precursor films ahead of the oil meniscus in the dry pore system. The presence of a thin water film on pore walls corresponding to an environmental relative humidity of 30% slows down but still allows the spontaneous imbibition of single-component oil. Introducing polar components into the oil slows down the imbibition into dry nanopores, due partly to the clogging of the pore entrance. Strong selectivity toward nonpolar oil is evident. The slowdown of imbibition by polar oil is less significant in the prewetted pores than in dry pores, but the selectivity toward nonpolar oil remains strong.",
+  "authors": [
+   "Ejaz Ahmed",
+   "Huajie Zhang",
+   "Mert Aybar",
+   "Bikai Jin",
+   "Shihao Wang",
+   "Rui Qiao"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.atom-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": "24 pages, 8 figures, Submitted to Physics of Fluids, Rui Qiao: To whom correspondence should be addressed. Email: ruiqiao@vt.edu",
+  "first_author": "Ejaz Ahmed",
+  "pdf_url": "http://arxiv.org/pdf/2504.08790",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-04-07",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Imbibition of Oil in Dry and Prewetted Calcite Nanopores",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2025-04-07"
+ },
  "2504.08998": {
   "abstract": "A twin surface dielectric barrier discharge on the microsecond scale was used in combination with a two-component coating to oxidize 300 ppm n-butane as a model volatile organic compound to CO2 and H2O in synthetic air at room temperature and at 160 °C. The integration of BaTiO3 as a base material for the coating allowed the successful use of otherwise discharge-ignition-inhibiting materials such as MnO2-CuO applied as a full coating. Application of pure BaTiO3 led to highly porous coatings that do not hinder the discharge ignition and show a negligible influence on n-butane conversion while reducing byproduct formation. Thus, BaTiO3 was identified as a suitable structure-directing agent in two-component coatings, using 1:1 and 1:2 ratios of BaTiO3:catalyst coatings. Coated electrode configurations were compared to their respective uncoated state to highlight the coating-induced changes. The two-component coatings strongly increased the CO2 selectivity, reaching a maximum of 91.6 % at an energy density of 450 J/L and 160 °C for the 1:2 ratio, corresponding to an increase of 51.0 % relative to the uncoated electrode.",
   "authors": [
@@ -145,6 +1063,105 @@
   ],
   "updated": "2025-04-11"
  },
+ "2504.10700": {
+  "abstract": "Chemistry Foundation Models (CFMs) that leverage Graph Neural Networks (GNNs) operating on 3D molecular graph structures are becoming indispensable tools for computational chemists and materials scientists. These models facilitate the understanding of matter and the discovery of new molecules and materials. In contrast to GNNs operating on a large homogeneous graphs, GNNs used by CFMs process a large number of geometric graphs of varying sizes, requiring different optimization strategies than those developed for large homogeneous GNNs. This paper presents optimizations for two critical phases of CFM training: data distribution and model training, targeting MACE - a state-of-the-art CFM. We address the challenge of load balancing in data distribution by formulating it as a multi-objective bin packing problem. We propose an iterative algorithm that provides a highly effective, fast, and practical solution, ensuring efficient data distribution. For the training phase, we identify symmetric tensor contraction as the key computational kernel in MACE and optimize this kernel to improve the overall performance. Our combined approach of balanced data distribution and kernel optimization significantly enhances the training process of MACE. Experimental results demonstrate a substantial speedup, reducing per-epoch execution time for training from 12 to 2 minutes on 740 GPUs with a 2.6M sample dataset.",
+  "authors": [
+   "Jesun Firoz",
+   "Franco Pellegrini",
+   "Mario Geiger",
+   "Darren Hsu",
+   "Jenna A. Bilbrey",
+   "Han-Yi Chou",
+   "Maximilian Stadler",
+   "Markus Hoehnerbach",
+   "Tingyu Wang",
+   "Dejun Lin",
+   "Emine Kucukbenli",
+   "Henry W. Sprueill",
+   "Ilyes Batatia",
+   "Sotiris S. Xantheas",
+   "MalSoon Lee",
+   "Chris Mundy",
+   "Gabor Csanyi",
+   "Justin S. Smith",
+   "Ponnuswamy Sadayappan",
+   "Sutanay Choudhury"
+  ],
+  "categories": [
+   "cs.DC",
+   "cs.AI"
+  ],
+  "comment": "Accepted at The 34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025)",
+  "first_author": "Jesun Firoz",
+  "pdf_url": "http://arxiv.org/pdf/2504.10700",
+  "primary_category": "cs.DC",
+  "published": "2025-04-14",
+  "tags": [
+   "mace"
+  ],
+  "title": "Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE",
+   "via:author-whitelist:MACE author"
+  ],
+  "updated": "2025-04-14"
+ },
+ "2504.11553": {
+  "abstract": "Lithium thiophosphate (LPS) is a promising solid electrolyte for next-generation lithium-ion batteries due to its superior energy storage, high ionic conductivity, and low-flammability components. Despite its potential, the high reactivity of LPS with common contaminants such as atmospheric water, preparation solvents, and electrode materials poses significant challenges for commercialization. The lack of understanding regarding the structure, morphology, and chemical behavior of LPS's surface slows down the search for solutions to these issues. Here, we utilize a machine learning interatomic potential to achieve a fundamental, atomistic understanding of the mechanical and chemical properties of the $β$-Li$_3$PS$_4$ surfaces. Employing molecular dynamics simulations, we identify relevant surface complexions formed by surface reconstructions, determine their surface energies and compute the Wulff shape of $β$-LPS. The most stable complexions exhibit properties distinctly different from the bulk, including amorphization, increased density, decreased conductivity and large deformation of the structure building blocks. We demonstrate that these surfaces are not static, but undergo significant dynamical activity which is clearly identified by an analysis featuring a time-averaged structural descriptor. Finally, we examine the changes of the electronic structure induced by the surface complexions, which provides us with details on changes in surface reactivity and active sites, underlining the importance to investigate surface complexions under realistic conditions.",
+  "authors": [
+   "Hanna Türk",
+   "Davide Tisi",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Hanna Türk",
+  "pdf_url": "http://arxiv.org/pdf/2504.11553",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-15",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Reconstructions and Dynamics of $β$-Lithium Thiophosphate Surfaces",
+  "topics": [
+   "via:author-whitelist:PIMD, MLIPs, water"
+  ],
+  "updated": "2025-04-15"
+ },
+ "2504.11898": {
+  "abstract": "Studying the anharmonicity in the infrared (IR) spectra of polycyclic aromatic hydrocarbons (PAHs) at elevated temperatures is important to understand vibrational features and chemical properties of interstellar dust, especially in the James Webb Space Telescope (JWST) era. We take pyrene as an example PAH and investigate how different degrees of superhydrogenation affects the applicability of the harmonic approximation and the role of temperature in IR spectra of PAHs. This is achieved by comparing theoretical IR spectra generated by classical molecular dynamics (MD) simulations and experimental IR spectra obtained via gas-phase action spectroscopy which utilizes the Infrared Multiple Photon Dissociation (IRMPD). All simulations are accelerated by a machine learning interatomic potential, in order to reach first principle accuracies while keeping low computational costs. We have found that the harmonic approximation with empirical scaling factors is able to reproduce experimental band profile of pristine and partially superhydrogenated pyrene cations. However, a MD-based anharmonic treatment is mandatory in the case of fully superhydrogenated pyrene cation for matching theory and experiment. In addition, band shifts and broadenings as the temperature increases are investigated in detail. Those findings may aid in the interpretation of JWST observations on the variations in band positions and widths of interstellar dust.",
+  "authors": [
+   "Zeyuan Tang",
+   "Frederik G. Doktor",
+   "Rijutha Jaganathan",
+   "Julianna Palotás",
+   "Jos Oomens",
+   "Liv Hornekær",
+   "Bjørk Hammer"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "astro-ph.GA"
+  ],
+  "comment": "9 pages, 6 figures",
+  "first_author": "Zeyuan Tang",
+  "pdf_url": "http://arxiv.org/pdf/2504.11898",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-04-16",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Anharmonic infrared spectra of cationic pyrene and superhydrogenated derivatives",
+  "topics": [
+   "via:author-whitelist:DFT catalysis, GPAW"
+  ],
+  "updated": "2025-04-16"
+ },
  "2504.12043": {
   "abstract": "We present a Density Functional Theory (DFT) based first-principles study on iron chalcogenides superconductor FeSe, systematically investigating pressure and doping induced modifications to its electronic, magnetic, and lattice dynamical properties. Our constrained-DFT calculations in striped antiferromagnetic and staggered dimer phase reveal a non-trivial dependence of the electronic structure on the local magnetic moment at all pressures. Sulpher (S) and tellurium (Te) doping exert opposing effects on the electronic structure, attributable to their contrasting chemical pressure effects (negative for S, positive for Te). Lattice dynamics calculations divulge distinct dependence of different phonon modes on local magnetic moment in different magnetic phases. We identify pressure and magnetic moment-dependent dynamical instability in certain magnetic phases, underscoring the intricate interplay of structural, electronic, and magnetic properties in this system. Investigation of spin-phonon coupling for different phonon modes shows the presence of strong magneto-elastic coupling in FeSe with pressure distinctly affecting prominent optical phonon modes -- pure iron derived $B_{1g}$ and pure selenium derived $A_{1g}$. A clear indication of the change in spin-phonon coupling with pressure is visible, especially for the $B_{1g}$ mode.",
   "authors": [
@@ -167,9 +1184,71 @@
   ],
   "title": "Effect of pressure, doping and magnetism on electronic structure and phonon dispersion of FeSe",
   "topics": [
-   "Atomistic Modeling of Sulfides"
+   "Atomistic Modeling of Sulfides",
+   "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2025-04-16"
+ },
+ "2504.12374": {
+  "abstract": "In high dimensions, reflective Hamiltonian Monte Carlo with inexact reflections exhibits slow mixing when the particle ensemble is initialised from a Dirac delta distribution and the uniform distribution is targeted. By quantifying the instantaneous non-uniformity of the distribution with the Sinkhorn divergence, we elucidate the principal mechanisms underlying the mixing problems. In spheres and cubes, we show that the collective motion transitions between fluid-like and discretisation-dominated behaviour, with the critical step size scaling as a power law in the dimension. In both regimes, the particles can spontaneously unmix, leading to resonances in the particle density and the aforementioned problems. Additionally, low-dimensional toy models of the dynamics are constructed which reproduce the dominant features of the high-dimensional problem. Finally, the dynamics is contrasted with the exact Hamiltonian particle flow and tuning practices are discussed.",
+  "authors": [
+   "Namu Kroupa",
+   "Gábor Csányi",
+   "Will Handley"
+  ],
+  "categories": [
+   "stat.ML",
+   "cond-mat.stat-mech",
+   "cs.LG",
+   "math.DS"
+  ],
+  "comment": null,
+  "first_author": "Namu Kroupa",
+  "pdf_url": "http://arxiv.org/pdf/2504.12374",
+  "primary_category": "stat.ML",
+  "published": "2025-04-16",
+  "tags": [],
+  "title": "Resonances in reflective Hamiltonian Monte Carlo",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
+  ],
+  "updated": "2025-04-16"
+ },
+ "2504.13164": {
+  "abstract": "Integrating solid-state spin defects into classical electronic devices can enable new opportunities for quantum information processing that benefit from existing semiconductor technology. We show, through bias control of an isotopically purified silicon carbide (SiC) p-i-n diode, the depletion of not only electrical noise sources but also magnetic noise sources, resulting in record coherences for SiC electron spin qubits. We also uncover complementary improvements to the relaxation times of nuclear spin registers controllable by the defect, and measure diode-enhanced coherences. These improvements lead to record-long nuclear spin Hahn-echo times on the scale of minutes. These results demonstrate the power of materials control and electronic device integration to create highly coherent solid-state quantum network nodes and processors.",
+  "authors": [
+   "Cyrus Zeledon",
+   "Benjamin Pingault",
+   "Jonathan C. Marcks",
+   "Mykyta Onizhuk",
+   "Yeghishe Tsaturyan",
+   "Yu-xin Wang",
+   "Benjamin S. Soloway",
+   "Hiroshi Abe",
+   "Misagh Ghezellou",
+   "Jawad Ul-Hassan",
+   "Takeshi Ohshima",
+   "Nguyen T. Son",
+   "F. Joseph Heremans",
+   "Giulia Galli",
+   "Christopher P. Anderson",
+   "David D. Awschalom"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 4 figures",
+  "first_author": "Cyrus Zeledon",
+  "pdf_url": "http://arxiv.org/pdf/2504.13164",
+  "primary_category": "quant-ph",
+  "published": "2025-04-17",
+  "tags": [],
+  "title": "Minute-long quantum coherence enabled by electrical depletion of magnetic noise",
+  "topics": [
+   "via:author-whitelist:DFT water, defects"
+  ],
+  "updated": "2025-04-17"
  },
  "2504.13634": {
   "abstract": "Electrochemical CO2 reduction (eCO2R) represents a pivotal strategy for mitigating global carbon emissions while simultaneously converting renewable energy into storable chemical fuels. Copper-based catalysts have been extensively explored in this field due to their unique capability to catalyze multi-carbon products. However, the intrinsic complexity of eCO2R pathways on Cu surfaces often leads to mixed product distributions, posing a significant challenge for achieving high selectivity toward a single desired hydrocarbon. Herein, we report a breakthrough in methane selectivity using laser-synthesized, ligand-free Cu nanomaterials. Unlike conventional Cu catalysts that produce diverse products, these ligand-free nanoparticles exhibit unprecedented selectivity for methane (CH4) with a Faradaic efficiency (FE) exceeding 70% at superior overpotentials. The absence of surface ligands, a direct consequence of the ultrafast laser ablation synthesis, ensures abundant exposed active sites with tailored electronic and geometric configurations. We attribute the exceptional methane selectivity to the synergistic effects of active sites-rich surfaces and optimized *CO intermediate binding energetics, which favor the protonation pathway toward CH4 rather than C-C coupling. This work not only resolves the long-standing selectivity dilemma in Cu-catalyzed eCO2R but also establishes laser-synthesized ligand-free nanomaterials as a versatile platform for designing high-performance electrocatalysts.",
@@ -199,6 +1278,32 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-04-21"
+ },
+ "2504.13830": {
+  "abstract": "The optical responses of solids are typically understood to be local in space. Whether locality holds for the optical response of a macroscopic quantum system has, however, been largely unexplored. Here, we use multidimensional coherent spectroscopy at the optical diffraction limit to demonstrate nonlocal optical nonlinearities in a semiconductor microcavity. These nonlocal optical responses are both coherent and quantum in nature, deriving from the macroscopic length scale of confined exciton-polariton wavefunctions.",
+  "authors": [
+   "Albert Liu",
+   "Eric W. Martin",
+   "Jiaqi Hu",
+   "Zhaorong Wang",
+   "Hui Deng",
+   "Steven T. Cundiff"
+  ],
+  "categories": [
+   "physics.optics",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Albert Liu",
+  "pdf_url": "http://arxiv.org/pdf/2504.13830",
+  "primary_category": "physics.optics",
+  "published": "2025-04-18",
+  "tags": [],
+  "title": "Nonlocal Coherent Optical Nonlinearities of a Macroscopic Quantum System",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2025-04-18"
  },
  "2504.15710": {
   "abstract": "The electrocatalytic CO2 reduction reaction (CO2RR) is a complex multi-proton-electron transfer process that generates a vast network of reaction intermediates. Accurate prediction of free energy changes (G) of these intermediates and products is essential for evaluating catalytic performance. We combined density functional theory (DFT) and machine learning (ML) to screen 25 single-atom catalysts (SACs) on defective r-GeSe monolayers for CO2 reduction to methanol, methane, and formic acid. Among nine ML models evaluated with 14 intrinsic and DFT-based features, the XGBoost performed best (R2 = 0.92 and MAE = 0.24 eV), aligning closely with DFT calculations and identifying Ni, Ru, and Rh@GeSe as prospective catalysts. Feature importance analysis in free energy and product predictions highlighted the significance of CO2 activation with O-C-O and IPC-O1 as the key attributes. Furthermore, by incorporating non-DFT-based features, rapid predictions became possible, and the XGBoost model retained its predictive performance with R2 = 0.89 and MAE = 0.29 eV. This accuracy was further validated using Ir@GeSe. Our work highlights effective SACs for CO2RR, and provides valuable insights for efficient catalyst design.",
@@ -231,6 +1336,43 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-04-22"
+ },
+ "2504.15939": {
+  "abstract": "Hexagonal boron nitride (hBN) is an important 2D material for van der Waals heterostructures, single photon emitters, and infrared nanophotonics. The optical characterization of mono- and few-layer samples of hBN however remains a challenge as the material is almost invisible optically. Here we introduce phase-resolved sum-frequency microscopy as a technique for imaging monolayers of hBN grown by chemical vapor deposition (CVD) and visualize their crystal orientation. A combination of femtosecond mid-infrared (IR) and visible laser pulses is used for sum-frequency generation (SFG), which is imaged in a wide-field optical microscope. The IR laser resonantly excites a phonon of hBN that leads to an ~800-fold enhancement of the SFG intensity, making it possible to image large 100x100 μm2 sample areas in less than 1 s. Implementing heterodyne detection in combination with azimuthal rotation of the sample further provides full crystallographic information. Through combined knowledge of topography and crystal orientation, we find that triangular domains of CVD-grown monolayer hBN have nitrogen-terminated zigzag edges. Overall, SFG microscopy can be used as an ultra-sensitive tool to image crystal structure, strain, stacking sequences, and twist angles, and is applicable to the wide range of van der Waals structures, where location and identification of monolayer regions and interfaces with broken inversion symmetry is of paramount importance.",
+  "authors": [
+   "Niclas S. Mueller",
+   "Alexander P. Fellows",
+   "Ben John",
+   "Andrew E. Naclerio",
+   "Christian Carbogno",
+   "Katayoun Gharagozloo-Hubmann",
+   "Damián Baláž",
+   "Ryan A. Kowalski",
+   "Hendrik H. Heenen",
+   "Christoph Scheurer",
+   "Karsten Reuter",
+   "Joshua D. Caldwell",
+   "Martin Wolf",
+   "Piran R. Kidambi",
+   "Martin Thämer",
+   "Alexander Paarmann"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Niclas S. Mueller",
+  "pdf_url": "http://arxiv.org/pdf/2504.15939",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-22",
+  "tags": [],
+  "title": "Full Crystallographic Imaging of Hexagonal Boron Nitride Monolayers with Phonon-Enhanced Sum-Frequency Microscopy",
+  "topics": [
+   "via:author-whitelist:catalysis DFT, kinetic Monte Carlo"
+  ],
+  "updated": "2025-04-23"
  },
  "2504.15982": {
   "abstract": "The CHNOS elemental budgets of rocky planets are crucial for their structure, evolution and potential chemical habitability. It is unclear how the nonlocal disk processes affecting dust in planet-forming disks affect the CHNOS elemental budgets of nascent planets both inside and outside the Solar System. We aim to quantify the coupled effect of dynamical and collisional processes on the initial refractory CHNOS budgets of planetesimals, forming interior to the water ice line for a Solar and non-Solar composition consistent with the star HIP 43393. Methods. We utilize the SHAMPOO code to track the effects of dynamical and collisional processes on 16000 individual dust monomers. Each monomer is here assigned a refractory chemical composition and mineralogy informed by the equilibrium condensation code GGCHEM given the P-T conditions at the initial position of the monomer. Monomers travel embedded in aggregates through a young class I disk, whose structure is calculated with the ProDiMo code. Furthermore, monomers are allowed to undergo dehydration and desulfurization. We find that solid material becomes well-mixed both radially and vertically. For both the Solar and HIP43393 compositions, the solid phase in the disk midplane regions interior to r~0.7AU can become enriched in hydrogen and sulfur by up to 10at% relative to predictions from purely local calculations. This originates from the inward radial transport of hydrated and sulfur-bearing minerals such as lizardite and iron sulfide. Nonlocal disk processing in a young turbulent, massive disk can lead to significant compositional homogenization of the midplane dust and by extension of the initial composition of planetesimals. Planetesimals forming at r<0.7AU may become enriched in hydrated minerals and sulfur, which could result in more widespread aqueous alteration interior to the water iceline compared to planetesimals that emerge...",
@@ -277,13 +1419,218 @@
   "tags": [
    "density-functional-theory",
    "formate",
+   "mlip",
+   "neb",
    "reaction-networks"
   ],
   "title": "Breaking scaling relations with inverse catalysts: a machine learning exploration of trends in $\\mathrm{CO_2}$ hydrogenation energy barriers",
   "topics": [
-   "CO2 Reduction and Formate"
+   "CO2 Reduction and Formate",
+   "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2025-04-23"
+ },
+ "2504.17038": {
+  "abstract": "The paper presents the Source Code Analysis and Lexical Annotation Runtime (SCALAR), a tool specialized for mapping (annotating) source code identifier names to their corresponding part-of-speech tag sequence (grammar pattern). SCALAR's internal model is trained using scikit-learn's GradientBoostingClassifier in conjunction with a manually-curated oracle of identifier names and their grammar patterns. This specializes the tagger to recognize the unique structure of the natural language used by developers to create all types of identifiers (e.g., function names, variable names etc.). SCALAR's output is compared with a previous version of the tagger, as well as a modern off-the-shelf part-of-speech tagger to show how it improves upon other taggers' output for annotating identifiers. The code is available on Github",
+  "authors": [
+   "Christian D. Newman",
+   "Brandon Scholten",
+   "Sophia Testa",
+   "Joshua A. C. Behler",
+   "Syreen Banabilah",
+   "Michael L. Collard",
+   "Michael J. Decker",
+   "Mohamed Wiem Mkaouer",
+   "Marcos Zampieri",
+   "Eman Abdullah AlOmar",
+   "Reem Alsuhaibani",
+   "Anthony Peruma",
+   "Jonathan I. Maletic"
+  ],
+  "categories": [
+   "cs.SE",
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Christian D. Newman",
+  "pdf_url": "http://arxiv.org/pdf/2504.17038",
+  "primary_category": "cs.SE",
+  "published": "2025-04-23",
+  "tags": [],
+  "title": "SCALAR: A Part-of-speech Tagger for Identifiers",
+  "topics": [
+   "via:author-whitelist:neural network potentials"
+  ],
+  "updated": "2025-04-23"
+ },
+ "2504.17452": {
+  "abstract": "The development of statistical physics in Africa is in its nascent stages, yet its application holds immense promise for advancing emerging research trends on the continent. This perspective paper, a product of a two-week workshop on biophysics in Morogoro (Tanzania), aims to illuminate the potential of statistical physics in regional scientific research. We employ in-silico atomistic molecular dynamics simulations to investigate the loading and delivery capabilities of lecithin nanolipids for niclosamide, a poorly water-soluble drug. Our simulations reveal that the loading capacity and interaction strength between lecithin nanolipids and niclosamide improve with increased lecithin concentrations. We perform a free-energy landscape analysis which uncovers two distinct metastable conformations of niclosamide within both the aqueous phase and the lecithin nanolipids. Over a simulation period of half a microsecond, lecithin nanolipids self-assemble into a spherical monolayer structure, providing detailed atomic-level insights into their interactions with niclosamide. These findings underscore the potential of lecithin nanolipids as efficient drug delivery systems.",
+  "authors": [
+   "Mtabazi G. Sahini",
+   "Isaac Onoka",
+   "Said A. H. Vuai",
+   "Édgar Roldán",
+   "Hulda S. Swai",
+   "Daniel M. Shadrack"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.bio-ph",
+   "physics.chem-ph",
+   "physics.soc-ph"
+  ],
+  "comment": "8 pages, 7 figures, submitted to EPL as perspective article",
+  "first_author": "Mtabazi G. Sahini",
+  "pdf_url": "http://arxiv.org/pdf/2504.17452",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2025-04-24",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "The need for statistical physics in Africa: perspective and an illustration in drug delivery problems",
+  "topics": [
+   "via:author-whitelist:iron sulfide, mineral surfaces"
+  ],
+  "updated": "2025-04-24"
+ },
+ "2504.17604": {
+  "abstract": "We report the measurement of the parity-violating asymmetry in the N to $Δ$ transition via the $e^- + p \\rightarrow e^- + Δ^+$ reaction at two different kinematic points with low four-momentum transfer Q$^2$. Measurements were made with incident electron beam energies of 0.877 and 1.16 GeV, corresponding to $Q^2$ values of 0.0111 and 0.0208 (GeV/c)$^2$, respectively. These measurements put constraints on a low-energy constant in the weak Lagrangian, $d_Δ$, corresponding to a parity-violating electric-dipole transition matrix element. This matrix element has been shown to be large in the strangeness-changing channel, via weak hyperon decays such as $Σ^+ \\rightarrow pγ$. The measurements reported here constrain $d_Δ$ in the strangeness-conserving channel. The final asymmetries were -0.65 +- 1.00 (stat.) +- 1.02 (syst) ppm (parts per million) for 0.877 GeV and -3.59 +- 0.82 (stat.) +- 1.33 (syst.} ppm for 1.16 GeV. With these results we deduce a small value for $d_Δ$, consistent with zero, in the strangeness-conserving channel, in contrast to the large value for $d_Δ$ previously reported in the strangeness-changing channel.",
+  "authors": [
+   "D. Adhikari",
+   "T. Alshayeb",
+   "D. Androic",
+   "D. S. Armstrong",
+   "A. Asaturyan",
+   "K. Bartlett",
+   "R. S. Beminiwattha",
+   "J. Benesch",
+   "F. Benmokhtar",
+   "R. D. Carlini",
+   "J. C. Cornejo",
+   "S. Covrig Dusa",
+   "M. M. Dalton",
+   "C. A. Davis",
+   "W. Deconinck",
+   "J. A. Dunne",
+   "D. Dutta",
+   "W. S. Duvall",
+   "M. Elaasar",
+   "W. R. Falk",
+   "J. M. Finn",
+   "C. Gal",
+   "D. Gaskell",
+   "M. T. W. Gericke",
+   "J. R. Hoskins",
+   "D. C. Jones",
+   "P. M. King",
+   "E. Korkmaz",
+   "S. Kowalski",
+   "J. Leacock",
+   "J. P. Leckey",
+   "A. R. Lee",
+   "J. H. Lee",
+   "L. Lee",
+   "S. MacEwan",
+   "D. Mack",
+   "J. A. Magee",
+   "R. Mahurin",
+   "J. Mammei",
+   "J. W. Martin",
+   "M. J. McHugh",
+   "K. E. Mesick",
+   "R. Michaels",
+   "A. Micherdzinska",
+   "A. Mkrtchyan",
+   "H. Mkrtchyan",
+   "L. Z. Ndukum",
+   "H. Nuhait",
+   "Nuruzzaman",
+   "W. T. H van Oers",
+   "S. A. Page",
+   "J. Pan",
+   "K. D. Paschke",
+   "S. K. Phillips",
+   "M. L. Pitt",
+   "R. W. Radloff",
+   "J. F. Rajotte",
+   "W. D. Ramsay",
+   "J. Roche",
+   "B. Sawatzky",
+   "N. Simicevic",
+   "G. R. Smith",
+   "P. Solvignon",
+   "D. T. Spayde",
+   "A. Subedi",
+   "W. A. Tobias",
+   "V. Tvaskis",
+   "B. Waidyawansa",
+   "P. Wang",
+   "S. P. Wells",
+   "S. A. Wood",
+   "P. Zang",
+   "S. Zhamkochyan"
+  ],
+  "categories": [
+   "nucl-ex"
+  ],
+  "comment": "6 pages, 1 figure",
+  "first_author": "D. Adhikari",
+  "pdf_url": "http://arxiv.org/pdf/2504.17604",
+  "primary_category": "nucl-ex",
+  "published": "2025-04-24",
+  "tags": [],
+  "title": "Measurement of the Parity-Violating Asymmetry in the N to $Δ$ Transition at Low $Q^2$",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2025-04-24"
+ },
+ "2504.19713": {
+  "abstract": "It is important to evaluate the total spin angular momentum of alkali-metal atoms if the atoms serve as a reservoir of angular momenta. We use an absorption-monitoring technique to measure <Fz>, i.e., the expectation values of the quantization (z) axis components of the total angular momentum of cesium (Cs) atoms in the electronic ground state in both uncoated and anti-relaxation-coated vacuum cells at room temperature. Cs atoms are polarized via optical pumping and probed using their D2 transitions. The probe laser frequency is varied across the Doppler-broadened D2 transition; the <Fz> values are derived using the integrated absorption coefficients. The largest <Fz> is 2.5 for the coated cell. We then use a simple model of spin flow through vapor cells to estimate the atomic spin relaxation probabilities after a single surface collision.",
+  "authors": [
+   "Runa Yasuda",
+   "Kei Ishii",
+   "Wolfgang Klassen",
+   "Jeffery W. Martin",
+   "Atsushi Hatakeyama"
+  ],
+  "categories": [
+   "physics.atom-ph"
+  ],
+  "comment": "24 pages, 11 figures, 2 tables. Author prepared version",
+  "first_author": "Runa Yasuda",
+  "pdf_url": "http://arxiv.org/pdf/2504.19713",
+  "primary_category": "physics.atom-ph",
+  "published": "2025-04-28",
+  "tags": [],
+  "title": "Measurement of the total spin angular momentum <Fz> of alkali-metal atoms",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2025-04-28"
+ },
+ "2504.20766": {
+  "abstract": "The specific heat anomaly (SHA) is broadly observed in statistical mechanics, appearing as a smooth, system-size-independent peak in the specific heat, in contrast to the singular behavior typical of second-order phase transitions (PTs). Its origin remains heavily debated: some attribute it to finite-size effects, others to unidentified phase transitions. Here we investigate SHA using the two-dimensional sine-Gordon (2D-sG) model and microcanonical inflection point analysis (MIPA), uncovering two key results. First, we show that the roughening transition in the 2D-sG model is a genuine third-order PT under MIPA, where the standard thermodynamic quantities remain continuous. This clarifies the ambiguity in the literature, where this transition was often, though inconclusively, attributed to a Berezinskii-Kosterlitz-Thouless (BKT) transition. Through the use of MIPA and a comprehensive analysis of standard thermodynamic observables, we provide a coherent thermodynamic characterization that redefines the nature of this transition. Second, we find that the SHA is not itself a PT but rather the thermodynamic fingerprint of this third-order transition. These findings clarify the nature of SHA within the 2D-sG model and suggest that similar anomalies in other systems, such as the XY model, may likewise originate from third-order PTs, rather than mere crossovers. Our results provide a consistent thermodynamic interpretation of the SHA and highlight the broader relevance of third-order transitions in systems previously thought to exhibit only low-order or crossover transition.",
+  "authors": [
+   "Loris Di Cairano",
+   "Alexandre Tkatchenko"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Loris Di Cairano",
+  "pdf_url": "http://arxiv.org/pdf/2504.20766",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2025-04-29",
+  "tags": [
+   "phase-transitions"
+  ],
+  "title": "The specific heat anomaly stems from a third-order phase transition in the 2D lattice sine-Gordon model",
+  "topics": [
+   "via:author-whitelist:vdW, ML force fields"
+  ],
+  "updated": "2025-04-29"
  },
  "2504.20836": {
   "abstract": "In this article, a previously published amplifier-less potentiostat architecture is further examined. Starting with a linearized model, the impact of the most important parameters is studied taking in account the electrodes-solution electrochemical interface. A detailed model is obtained and thoroughly verified, and recommended operating conditions are given for certain limit load conditions. Then, a more complete non-linear model is developed to take in account the measurement uncertainty introduced by the circuit non-linear components. This non-linear model is compared to a time domain description of the circuit and it is verified that it can predict the non-linear behavior with a precision better than 20%. This result enables the circuit designers to compensate for these effects and ultimately reduce the overall measurement uncertainty.",

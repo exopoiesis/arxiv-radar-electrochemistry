@@ -17,13 +17,13 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15712.html">LLM-Driven Discovery of High-Entropy Catalysts via Retrieval-Augmented Generation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15712.html">LLM-Driven Discovery of High-Entropy Catalysts via Retrieval-Augmented Generation</a></div><div class="paper-tags"><a href="phase-stability-90d.html">phase-stability</a></div></td>
 <td>AI Scientists et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15712">2603.15712</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01311.html">Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01311.html">Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Achuth Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.01311">2603.01311</a></td>
 </tr>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ion-transport — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <strong>90d</strong> <a href="ion-transport-360d.html">360d</a> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,9 +28,21 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2510.22182">2510.22182</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17380.html">Modern Solid Electrolytes for All-Solid-State Batteries: Materials Chemistry, Structure, and Transport</a></div></td>
+<td>Denys Butenko et al.</td>
+<td><a href="http://arxiv.org/abs/2604.17380">2604.17380</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21827.html">Invariant ionic conductance in an atomically thin polar nanopore</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Shengping Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21827">2603.21827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16171.html">Self-Organized Bioelectricity via Collective Pump Alignment: Physical Origin of Chemiosmosis</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
+<td>Ryosuke Nishide et al.</td>
+<td><a href="http://arxiv.org/abs/2602.16171">2602.16171</a></td>
 </tr>
 </tbody></table>

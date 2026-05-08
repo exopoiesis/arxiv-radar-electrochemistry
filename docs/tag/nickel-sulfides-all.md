@@ -17,7 +17,7 @@ current_window: all
 <tbody>
 <tr class="paper">
 <td>2024-12-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05658.html">Recent advances in hydrogen production using sulfide-based photocatalysts</a></div><div class="paper-tags"><a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="pyrite-all.html">pyrite</a> · <a href="transition-metal-sulfides-all.html">transition-metal-sulfides</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05658.html">Recent advances in hydrogen production using sulfide-based photocatalysts</a></div><div class="paper-tags"><a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="millerite-all.html">millerite</a> · <a href="pyrite-all.html">pyrite</a> · <a href="transition-metal-sulfides-all.html">transition-metal-sulfides</a></div></td>
 <td>Suresh Chandra Baral et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05658">2412.05658</a></td>
 </tr>

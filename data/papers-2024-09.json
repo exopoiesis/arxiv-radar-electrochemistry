@@ -1,4 +1,105 @@
 {
+ "2403.18563": {
+  "abstract": "Vertical thermal convection is a non-equilibrium system in which both buoyancy and shear forces play a role in driving the convective flow. Beyond the onset of convection, the driven dissipative system exhibits chaotic dynamics and turbulence. In a three-dimensional domain extended in both the vertical and the transverse dimensions, Gao et al. (2018) have observed a variety of convection patterns which are not described by linear stability analysis. We investigate the fully non-linear dynamics of vertical convection using a dynamical-systems approach based on the Oberbeck-Boussinesq equations. We compute the invariant solutions of these equations and the bifurcations that are responsible for the creation and termination of various branches. We map out a sequence of local bifurcations from the laminar base state, including simultaneous bifurcations involving patterned steady states with different symmetries. This atypical phenomenon of multiple branches simultaneously bifurcating from a single parent branch is explained by the role of D4 symmetry. In addition, two global bifurcations are identified: first, a homoclinic cycle from modulated transverse rolls and second, a heteroclinic cycle linking two symmetry-related diamond-roll patterns. These are confirmed by phase space projections as well as the functional form of the divergence of the period close to the bifurcation points. The heteroclinic orbit is shown to be robust and to result from a 1:2 mode interaction. The intricacy of this bifurcation diagram highlights the essential role played by dynamical systems theory and computation in hydrodynamic configurations.",
+  "authors": [
+   "Zheng Zheng",
+   "Laurette S. Tuckerman",
+   "Tobias M. Schneider"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "nlin.CD",
+   "nlin.PS"
+  ],
+  "comment": null,
+  "first_author": "Zheng Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2403.18563",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-03-27",
+  "tags": [
+   "dissipative-systems"
+  ],
+  "title": "Natural convection in a vertical channel. Part 2. Oblique solutions and global bifurcations in a spanwise-extended domain",
+  "topics": [
+   "via:author-whitelist:Grotthuss mechanism, AIMD"
+  ],
+  "updated": "2024-09-04"
+ },
+ "2403.19493": {
+  "abstract": "In a vertical channel driven by an imposed horizontal temperature gradient, numerical simulations have previously shown steady, time-periodic and chaotic dynamics. We explore the observed dynamics by constructing invariant solutions of the three-dimensional Oberbeck-Boussinesq equations, characterizing the stability of these equilibria and periodic orbits, and following the bifurcation structure of the solution branches under parametric continuation in Rayleigh number. We find that in a narrow vertically-periodic domain of aspect ratio ten, the flow is dominated by the competition between three and four co-rotating rolls. We demonstrate that branches of three and four-roll equilibria are connected and can be understood in terms of their discrete symmetries. Specifically, the D4 symmetry of the four-roll branch dictates the existence of qualitatively different intermediate branches that themselves connect to the three-roll branch in a transcritical bifurcation due to D3 symmetry. The physical appearance, disappearance, merging and splitting of rolls along the connecting branch provide a physical and phenomenological illustration of the equivariant theory of D3-D4 mode interaction. We observe other manifestations of the competition between three and four rolls, in which the symmetry in time or in the transverse direction is broken, leading to limit cycles or wavy rolls, respectively. Our work highlights the interest of combining numerical simulations, bifurcation theory, and group theory, in order to understand the transitions between and origin of flow patterns.",
+  "authors": [
+   "Zheng Zheng",
+   "Laurette S. Tuckerman",
+   "Tobias M. Schneider"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "nlin.CD",
+   "nlin.PS"
+  ],
+  "comment": null,
+  "first_author": "Zheng Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2403.19493",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-03-28",
+  "tags": [],
+  "title": "Natural convection in a vertical channel. Part 1. Wavenumber interaction and Eckhaus instability in a narrow domain",
+  "topics": [
+   "via:author-whitelist:Grotthuss mechanism, AIMD"
+  ],
+  "updated": "2024-09-04"
+ },
+ "2404.07156": {
+  "abstract": "Applying an excess entropy scaling formalism to the coarse-grained (CG) dynamics of liquids, we discovered that missing rotational motions during the CG process are responsible for artificially accelerated CG dynamics. In the context of the dynamic representability between the fine-grained (FG) and CG dynamics, this work introduces the well-known Stokes-Einstein and Stokes-Einstein-Debye relations to unravel the rotational dynamics underlying FG trajectories, thereby allowing for an indirect evaluation of the effective rotations based only on the translational information at the reduced CG resolution. Since the representability issue in CG modeling limits a direct evaluation of the shear stress appearing in the Stokes-Einstein and Stokes-Einstein-Debye relations, we introduce a translational relaxation time as a proxy to employ these relations, and we demonstrate that these relations hold for the ambient conditions studied in our series of work. Additional theoretical links to our previous work are also established. First, we demonstrate that the effective hard sphere radius determined by the classical perturbation theory can approximate the complex hydrodynamic radius value reasonably well. Also, we present a simple derivation of an excess entropy scaling relationship for viscosity by estimating the elliptical integral of molecules. In turn, since the translational and rotational motions at the FG level are correlated to each other, we conclude that the \"entropy-free\" CG diffusion only depends on the shape of the reference molecule. Our results and analyses impart an alternative way of recovering the FG diffusion from the CG description by coupling the translational and rotational motions at the hydrodynamic level.",
+  "authors": [
+   "Jaehyeok Jin",
+   "Gregory A. Voth"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "comment": "42 pages, 8 figures",
+  "first_author": "Jaehyeok Jin",
+  "pdf_url": "http://arxiv.org/pdf/2404.07156",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-04-10",
+  "tags": [],
+  "title": "Understanding Dynamics in Coarse-Grained Models: IV. Connection of Fine-Grained and Coarse-Grained Dynamics with the Stokes-Einstein and Stokes-Einstein-Debye Relations",
+  "topics": [
+   "via:author-whitelist:proton transport, MS-EVB"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2404.18303": {
+  "abstract": "Solving the electronic structure problem of molecules and solids to high accuracy is a major challenge in quantum chemistry and condensed matter physics. The rapid emergence and development of quantum computers offer a promising route to systematically tackle this problem. Recent work by Huggins et al.[1] proposed a hybrid quantum-classical quantum Monte Carlo (QC-QMC) algorithm using Clifford shadows to determine the ground state of a Fermionic Hamiltonian. This approach displayed inherent noise resilience and the potential for improved accuracy compared to its purely classical counterpart. Nevertheless, the use of Clifford shadows introduces an exponentially scaling post-processing cost. In this work, we investigate an improved QC-QMC scheme utilizing the recently developed Matchgate shadows technique [2], which removes the aforementioned exponential bottleneck. We observe from experiments on quantum hardware that the use of Matchgate shadows in QC-QMC is inherently noise robust. We show that this noise resilience has a more subtle origin than in the case of Clifford shadows. Nevertheless, we find that classical post-processing, while asymptotically efficient, requires hours of runtime on thousands of classical CPUs for even the smallest chemical systems, presenting a major challenge to the scalability of the algorithm.",
+  "authors": [
+   "Benchen Huang",
+   "Yi-Ting Chen",
+   "Brajesh Gupt",
+   "Martin Suchara",
+   "Anh Tran",
+   "Sam McArdle",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Benchen Huang",
+  "pdf_url": "http://arxiv.org/pdf/2404.18303",
+  "primary_category": "quant-ph",
+  "published": "2024-04-28",
+  "tags": [],
+  "title": "Evaluating a quantum-classical quantum Monte Carlo algorithm with Matchgate shadows",
+  "topics": [
+   "via:author-whitelist:DFT water, defects"
+  ],
+  "updated": "2024-09-10"
+ },
  "2405.09793": {
   "abstract": "The chalcogenide perovskite BaZrS$_3$ has attracted much attention as a promising solar absorber for thin-film photovoltaics. Here, we use first-principles calculations to evaluate its carrier transport and defect properties. We find that BaZrS$_3$ has a phonon-limited electron mobility of 37 cm$^2$/Vs comparable to that in halide perovskites but lower hole mobility of 11 cm$^2$/Vs. The defect computations indicate that BaZrS$_3$ is intrinsically n-type due to shallow sulfur vacancies, but that strong compensation by sulfur vacancies will prevent attempts to make it p-type. We also establish that BaZrS$_3$ shows some degree of defect tolerance, presenting only few low formation energy, deep intrinsic defects. Among the deep defects, sulfur interstitials are the dominant nonradiative recombination centers but exhibit a moderate capture coefficient. Our work highlights the material's intrinsic limitations in carrier mobility and p-type doping and suggests focusing on suppressing the formation of sulfur interstitials to reach longer carrier lifetime.",
   "authors": [
@@ -30,6 +131,166 @@
   ],
   "updated": "2024-09-12"
  },
+ "2406.13112": {
+  "abstract": "We describe version 2 of the SPICE dataset, a collection of quantum chemistry calculations for training machine learning potentials. It expands on the original dataset by adding much more sampling of chemical space and more data on non-covalent interactions. We train a set of potential energy functions called Nutmeg on it. They are based on the TensorNet architecture. They use a novel mechanism to improve performance on charged and polar molecules, injecting precomputed partial charges into the model to provide a reference for the large scale charge distribution. Evaluation of the new models shows they do an excellent job of reproducing energy differences between conformations, even on highly charged molecules or ones that are significantly larger than the molecules in the training set. They also produce stable molecular dynamics trajectories, and are fast enough to be useful for routine simulation of small molecules.",
+  "authors": [
+   "Peter Eastman",
+   "Benjamin P. Pritchard",
+   "John D. Chodera",
+   "Thomas E. Markland"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG"
+  ],
+  "comment": "26 pages, 9 figures, 7 tables",
+  "first_author": "Peter Eastman",
+  "pdf_url": "http://arxiv.org/pdf/2406.13112",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-06-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Nutmeg and SPICE: Models and Data for Biomolecular Machine Learning",
+  "topics": [
+   "via:author-whitelist:AIMD, proton transfer in water"
+  ],
+  "updated": "2024-09-14"
+ },
+ "2408.08174": {
+  "abstract": "Vibrational spectroscopy is a cornerstone technique for molecular characterization and offers an ideal target for the computational investigation of molecular materials. Building on previous comprehensive assessments of efficient methods for infrared (IR) spectroscopy, this study investigates the predictive accuracy and computational efficiency of gas-phase IR spectra calculations, accessible through a combination of modern semiempirical quantum mechanical and transferable machine learning potentials. A composite approach for IR spectra prediction based on the doubly-harmonic approximation, utilizing harmonic vibrational frequencies in combination squared derivatives of the molecular dipole moment, is employed. This approach allows for methodical flexibility in the calculation of IR intensities from molecular dipoles and the corresponding vibrational modes. Various methods are systematically tested to suggest a suitable protocol with an emphasis on computational efficiency. Among these methods, semiempirical extended tight-binding (xTB) models, classical charge equilibrium models, and machine learning potentials trained for dipole moment prediction are assessed across a diverse dataset of organic molecules. We particularly focus on the recently reported machine learning potential MACE-OFF23 to address the accuracy limitations of conventional low-cost quantum mechanical and force-field methods. This study aims to establish a standard for the efficient computational prediction of IR spectra, facilitating the rapid and reliable identification of unknown compounds and advancing automated analytical workflows in chemistry.",
+  "authors": [
+   "Philipp Pracht",
+   "Yuthika Pillai",
+   "Venkat Kapil",
+   "Gábor Csányi",
+   "Nils Gönnheimer",
+   "Martin Vondrák",
+   "Johannes T. Margraf",
+   "David J. Wales"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Philipp Pracht",
+  "pdf_url": "http://arxiv.org/pdf/2408.08174",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-08-15",
+  "tags": [
+   "mace",
+   "mlip"
+  ],
+  "title": "Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
+  ],
+  "updated": "2024-09-06"
+ },
+ "2409.00957": {
+  "abstract": "Machine learning potentials (MLPs) have become an indispensable tool in large-scale atomistic simulations because of their ability to reproduce ab initio potential energy surfaces (PESs) very accurately at a fraction of computational cost. For computational efficiency, the training data for most MLPs today are computed using relatively cheap density functional theory (DFT) methods such as the Perdew-Burke-Ernzerhof (PBE) generalized gradient approximation (GGA) functional. Meta-GGAs such as the recently developed strongly constrained and appropriately normed (SCAN) functional have been shown to yield significantly improved descriptions of atomic interactions for diversely bonded systems, but their higher computational cost remains an impediment to their use in MLP development. In this work, we outline a data-efficient multi-fidelity approach to constructing Materials 3-body Graph Network (M3GNet) interatomic potentials that integrate different levels of theory within a single model. Using silicon and water as examples, we show that a multi-fidelity M3GNet model trained on a combined dataset of low-fidelity GGA calculations with 10% of high-fidelity SCAN calculations can achieve accuracies comparable to a single-fidelity M3GNet model trained on a dataset comprising 8x the number of SCAN calculations. This work paves the way for the development of high-fidelity MLPs in a cost-effective manner by leveraging existing low-fidelity datasets.",
+  "authors": [
+   "Tsz Wai Ko",
+   "Shyue Ping Ong"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "32 pages, 13 figures",
+  "first_author": "Tsz Wai Ko",
+  "pdf_url": "http://arxiv.org/pdf/2409.00957",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-09-02",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "m3gnet"
+  ],
+  "title": "Data-Efficient Construction of High-Fidelity Graph Deep Learning Interatomic Potentials",
+  "topics": [
+   "via:author-whitelist:M3GNet, CHGNet"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.01307": {
+  "abstract": "Ethanolamine (NH2CH2CH2OH) has recently been identified in the molecular cloud G+0.693-0.027, situated in the SgrB2 complex in the Galactic center. However, its presence in other regions, and in particular in star-forming sites, is still elusive. Given its likely role as a precursor to simple amino acids, understanding its presence in the star-forming region is required. Here, we present the experimentally obtained temperature-dependent spectral features and morphological behavior of pure ethanolamine ices under astrochemical conditions in the 2 - 12 micro meter (MIR) and 120 - 230 nm (VUV) regions for the first time. These features would help in understanding its photochemical behavior. In addition, we present the first chemical models specifically dedicated to ethanolamine. These models include all the discussed chemical routes from the literature, along with the estimated binding energies and activation energies from quantum chemical calculations reported in this work. We have found that surface reactions: CH2OH + NH2CH2 --> NH2CH2CH2OH and NH2 + C2H4OH --> NH2CH2CH2OH in warmer regions (60-90 K) could play a significant role in the formation of ethanolamine. Our modeled abundance of ethanolamine complements the upper limit of ethanolamine column density estimated in earlier observations in hot core/corino regions. Furthermore, we provide a theoretical estimation of the rotational and distortional constants for various species (such as HNCCO, NH2CHCO, and NH2CH2CO) related to ethanolamine that have not been studied in existing literature. This study could be valuable for identifying these species in the future.",
+  "authors": [
+   "R Ramachandran",
+   "Milan Sil",
+   "Prasanta Gorai",
+   "J K Meka",
+   "S Pavithraa",
+   "J -I Lo",
+   "S -L Chou",
+   "Y -J Wu",
+   "P Janardhan",
+   "B -M Cheng",
+   "Anil Bhardwaj",
+   "Vıctor M. Rivilla",
+   "N J Mason",
+   "B Sivaraman",
+   "Ankan Das"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.SR"
+  ],
+  "comment": "18 pages, 6 figures. Accepted for the publication in The Astrophysical Journal",
+  "first_author": "R Ramachandran",
+  "pdf_url": "http://arxiv.org/pdf/2409.01307",
+  "primary_category": "astro-ph.GA",
+  "published": "2024-09-02",
+  "tags": [],
+  "title": "Experimental and computational study of ethanolamine ices at astrochemical conditions",
+  "topics": [
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.01931": {
+  "abstract": "A force field as accurate as quantum mechanics (QM) and as fast as molecular mechanics (MM), with which one can simulate a biomolecular system efficiently enough and meaningfully enough to get quantitative insights, is among the most ardent dreams of biophysicists -- a dream, nevertheless, not to be fulfilled any time soon. Machine learning force fields (MLFFs) represent a meaningful endeavor towards this direction, where differentiable neural functions are parametrized to fit ab initio energies, and furthermore forces through automatic differentiation. We argue that, as of now, the utility of the MLFF models is no longer bottlenecked by accuracy but primarily by their speed (as well as stability and generalizability), as many recent variants, on limited chemical spaces, have long surpassed the chemical accuracy of $1$ kcal/mol -- the empirical threshold beyond which realistic chemical predictions are possible -- though still magnitudes slower than MM. Hoping to kindle explorations and designs of faster, albeit perhaps slightly less accurate MLFFs, in this review, we focus our attention on the design space (the speed-accuracy tradeoff) between MM and ML force fields. After a brief review of the building blocks of force fields of either kind, we discuss the desired properties and challenges now faced by the force field development community, survey the efforts to make MM force fields more accurate and ML force fields faster, envision what the next generation of MLFF might look like.",
+  "authors": [
+   "Yuanqing Wang",
+   "Kenichiro Takaba",
+   "Michael S. Chen",
+   "Marcus Wieder",
+   "Yuzhi Xu",
+   "Tong Zhu",
+   "John Z. H. Zhang",
+   "Arnav Nagle",
+   "Kuang Yu",
+   "Xinyan Wang",
+   "Daniel J. Cole",
+   "Joshua A. Rackers",
+   "Kyunghyun Cho",
+   "Joe G. Greener",
+   "Peter Eastman",
+   "Stefano Martiniani",
+   "Mark E. Tuckerman"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI",
+   "cs.LG",
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuanqing Wang",
+  "pdf_url": "http://arxiv.org/pdf/2409.01931",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-09-03",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "On the design space between molecular mechanics and machine learning force fields",
+  "topics": [
+   "via:author-whitelist:Grotthuss mechanism, AIMD"
+  ],
+  "updated": "2024-09-05"
+ },
  "2409.03409": {
   "abstract": "The exploration of superconductors in metastable phases by manipulating crystal structures through high-pressure techniques has attracted significant interest in materials science to achieve a high critical temperature ($T_c$). In this study, we report an emergence of novel superconductivity in a metastable phase of Th$_3$P$_4$-type cubic In$_{3-x}$S$_4$ with remarkably high $T_c$ at 20 K under 45 GPa by using an originally designed diamond anvil cell equipped with boron-doped diamond electrodes, which can perform a high-pressure synthesis and an in-situ electrical transport measurement simultaneously. In-situ structural analysis indicates that the In$_{3-x}$S$_4$ appears partially above 40 GPa without heating. The high-pressure annealing treatment induces complete transformation to the Th$_3$P$_4$-type structure, and the defected concentration of x in In$_{3-x}$S$_4$ decreases with increasing annealing temperature. The $T_c$ in In$_{3-x}$S$_4$ is maximized at x = 0 and approaches 20 K. Electronic band calculations show that the high density of states composed of sulfur and indium bands are located at the conduction band bottom near Fermi energy. The record high $T_c$ in In$_{3-x}$S$_4$ among superconducting sulfides accelerates the further exploration of high $T_c$ materials within the Th$_3$P$_4$-type cubic family by using flexibility in crystal structure.",
   "authors": [
@@ -53,9 +314,145 @@
   "tags": [],
   "title": "Emergence of Superconductivity at 20 K in Th$_3$P$_4$-type In$_{3-x}$S$_4$ Synthesized by Diamond Anvil Cell with Boron-doped Diamond Electrodes",
   "topics": [
-   "Sulfidation and Phase Stability"
+   "Sulfidation and Phase Stability",
+   "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2024-09-05"
+ },
+ "2409.05590": {
+  "abstract": "With the emergence of Foundational Machine Learning Interatomic Potential (FMLIP) models trained on extensive datasets, transferring data between different ML architectures has become increasingly important. In this work, we examine the extent to which training data optimised for one machine-learning forcefield algorithm may be re-used to train different models, aiming to accelerate FMLIP fine-tuning and to reduce the need for costly iterative training. As a test case, we train models of an organic liquid mixture that is commonly used as a solvent in rechargeable battery electrolytes, making it an important target for reactive MLIP development. We assess model performance by analysing the properties of molecular dynamics trajectories, showing that this is a more stringent test than comparing prediction errors for fixed datasets. We consider several types of training data, and several popular MLIPs - notably the recent MACE architecture, a message-passing neural network designed for high efficiency and smoothness. We demonstrate that simple training sets constructed without any ab initio dynamics are sufficient to produce stable models of molecular liquids. For simple neural-network architectures, further iterative training is required to capture thermodynamic and kinetic properties correctly, but MACE performs well with extremely limited datsets. We find that configurations designed by human intuition to correct systematic model deficiencies transfer effectively between algorithms, but active-learned data that are generated by one MLIP do not typically benefit a different algorithm. Finally, we show that any training data which improve model performance also improve its ability to generalise to similar unseen molecules. This suggests that trajectory failure modes are connected with chemical structure rather than being entirely system-specific.",
+  "authors": [
+   "Samuel P. Niblett",
+   "Panagiotis Kourtis",
+   "Ioan-Bogdan Magdău",
+   "Clare P. Grey",
+   "Gábor Csányi"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "23 pages, 7 figures",
+  "first_author": "Samuel P. Niblett",
+  "pdf_url": "http://arxiv.org/pdf/2409.05590",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-09-09",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Transferability of datasets between Machine-Learning Interaction Potentials",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.06597": {
+  "abstract": "Vibrational spectroscopy is an indispensable analytical tool that provides structural fingerprints for molecules, solids, and interfaces thereof. This study introduces THeSeuSS (THz Spectra Simulations Software) - an automated computational platform that efficiently simulates IR and Raman spectra for both periodic and non-periodic systems. Utilizing DFT and DFTB, THeSeuSS offers robust capabilities for detailed vibrational spectra simulations. Our extensive evaluations and benchmarks demonstrate that THeSeuSS accurately reproduces both previously calculated and experimental spectra, enabling precise comparisons and interpretations of vibrational features across various test cases, including H2O and glycine molecules in the gas phase, as well as solid ammonia and solid ibuprofen. Designed with a user-friendly interface and seamless integration with existing computational chemistry tools, THeSeuSS enhances the accessibility and applicability of advanced spectroscopic simulations, supporting research and development in chemical, pharmaceutical, and material sciences. Future updates aim to expand its methodological diversity by incorporating machine learning techniques to analyze larger and more complex systems, solidifying THeSeuSS's role as an essential tool in the computational chemist's arsenal.",
+  "authors": [
+   "Ariadni Boziki",
+   "Frédéric Ngono Mebenga",
+   "Philippe Fernandes",
+   "Alexandre Tkatchenko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Ariadni Boziki",
+  "pdf_url": "http://arxiv.org/pdf/2409.06597",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-10",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "A Journey with THeSeuSS: Automated Python Tool for Modeling IR and Raman Vibrational Spectra of Molecules and Solids",
+  "topics": [
+   "via:author-whitelist:vdW, ML force fields"
+  ],
+  "updated": "2024-09-10"
+ },
+ "2409.08074": {
+  "abstract": "Understanding the interaction between hydrogen cyanide (HCN) and silicate surfaces is crucial for elucidating the prebiotic processes occurring on interstellar grain cores, as well as in cometary and meteoritic matrices. In this study, we characterized the adsorption features of HCN on crystalline forsterite (Mg2SiO4) surfaces, one of the most abundant cosmic silicates, by combining experimental infrared spectra at low temperatures (100-150 K) with periodic DFT simulations. Results showed the coexistence of both molecular and dissociative HCN adsorption complexes as a function of the considered forsterite crystalline face. Molecular adsorptions dominate on the most stable surfaces, while dissociative adsorptions occur predominantly on surfaces of lower stability, catalyzed by the enhanced Lewis acid-base behavior of surface-exposed Mg2+-O2- ion pairs. On the whole set of adsorption cases, harmonic frequency calculations were carried out and compared with the experimental infrared bands. To disentangle each vibrational mode contributing to the experimental broad bands, we run a best non-linear fit between the predicted set of frequencies and the experimental bands. The outcome of this procedure allowed us to: i) deconvolute the experimental IR spectrum by assigning computed normal modes of vibrations to the main features of each band; ii) reveal which crystal faces are responsible of the largest contribution to the adsorbate vibrational bands, giving information about the morphology of the samples. The present straigthforward procedure is quite general and of broad interest in the fine characterization of the infrared spectra of adsorbates on complex inorganic material surfaces.",
+  "authors": [
+   "Niccolò Bancone",
+   "Rosangela Santalucia",
+   "Stefano Pantaleone",
+   "Piero Ugliengo",
+   "Lorenzo Mino",
+   "Albert Rimola",
+   "Marta Corno"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "astro-ph.GA"
+  ],
+  "comment": "23 pages, 5 figures. The Journal of Physical Chemistry C (2024)",
+  "first_author": "Niccolò Bancone",
+  "pdf_url": "http://arxiv.org/pdf/2409.08074",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-12",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "origin-of-life"
+  ],
+  "title": "Unraveling the Interface Chemistry between HCN and Cosmic Silicates by the Interplay of Infrared Spectroscopy and Quantum Chemical Modeling",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2409.09626": {
+  "abstract": "Obtaining compositional mappings is important for the model to generalize well compositionally. To better understand when and how to encourage the model to learn such mappings, we study their uniqueness through different perspectives. Specifically, we first show that the compositional mappings are the simplest bijections through the lens of coding length (i.e., an upper bound of their Kolmogorov complexity). This property explains why models having such mappings can generalize well. We further show that the simplicity bias is usually an intrinsic property of neural network training via gradient descent. That partially explains why some models spontaneously generalize well when they are trained appropriately.",
+  "authors": [
+   "Yi Ren",
+   "Danica J. Sutherland"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "stat.ML"
+  ],
+  "comment": "4 pages",
+  "first_author": "Yi Ren",
+  "pdf_url": "http://arxiv.org/pdf/2409.09626",
+  "primary_category": "cs.LG",
+  "published": "2024-09-15",
+  "tags": [],
+  "title": "Understanding Simplicity Bias towards Compositional Mappings via Learning Dynamics",
+  "topics": [
+   "via:author-whitelist:prebiotic synthesis, RNA world"
+  ],
+  "updated": "2024-09-15"
+ },
+ "2409.11037": {
+  "abstract": "The Co$_3$O$_4$ spinel is an important material in oxidation catalysis. Its properties under catalytic conditions, i.e., at finite temperatures, can be studied by molecular dynamics simulations, which critically depend on an accurate description of the atomic interactions. Due to the high complexity of Co$_3$O$_4$, which is related to the presence of multiple oxidation states of the cobalt ions, to date \\textit{ab initio} methods have been essentially the only way to reliably capture the underlying potential energy surface, while more efficient atomistic potentials are very challenging to construct. Consequently, the accessible length and time scales of computer simulations of systems containing Co$_3$O$_4$ are still severely limited. Rapid advances in the development of modern machine learning potentials (MLPs) trained on electronic structure data now make it possible to bridge this gap. In this work, we employ a high-dimensional neural network potential (HDNNP) to construct a MLP for bulk Co$_3$O$_4$ spinel based on density functional theory calculations. After a careful validation of the potential, we compute various structural, vibrational, and dynamical properties of the Co$_3$O$_4$ spinel with a particular focus on its temperature-dependent behavior, including the thermal expansion coefficient.",
+  "authors": [
+   "Amir Omranpour",
+   "Jörg Behler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Amir Omranpour",
+  "pdf_url": "http://arxiv.org/pdf/2409.11037",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-17",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "A High-Dimensional Neural Network Potential for Co$_3$O$_4$",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "via:author-whitelist:neural network potentials"
+  ],
+  "updated": "2024-09-17"
  },
  "2409.11648": {
   "abstract": "Metallic bismuth is both non-toxic and cost-effective. Bi-based catalysts have demonstrated the ability to efficiently produce HCOOH through CO2RR while effectively inhibiting the HER. Although many experiments have been reported concerning its performance towards CO2 reduction, the impact its valence states and crystal faces on CO2RR selectivity (e.g. HCOOH versus CO) it still under debate. Here, we performed a comprehensive study via density functional theory, by including three typical valence states of Bi, such as 0 (Bi), +3 (Bi2O3) and +5 (Bi2O5), as well as their often-studied crystal facets. The results show that metallic Bi demonstrates a poor selectivity for HCOOH, but boasts a higher conversion rate for CO2. While Bi2O3 exhibits a good selectivity for HCOOH production, yet it displays a lower conversion rate for CO2. For Bi2O5, all studied surfaces show high energy barriers in both cases of HCOOH and CO production, and lower energy barriers for HER reactions, indicating that Bi at +5 valence state is not the good choice for 2e transfer reactions. Subsequently, we further examined the effects of oxygen contents on the selectivity of HCOOH and the conversion rate for CO2. Interestingly, we found that partial oxidization of Bi benefits both the selectivity and the conversion rate. With these observations, we suggest that a mixture of Bi (0) and Bi2O3 (+3) phases would be a better choice than single crystals for future experiments.",
@@ -88,6 +485,37 @@
   ],
   "updated": "2024-09-18"
  },
+ "2409.13200": {
+  "abstract": "The hybrid organic-inorganic halide perovskite (HOIP), for example MAPbBr3, exhibits extended spin lifetime and apparent spin lifetime anisotropy in experiments. The underlying mechanisms of these phenomena remain illusive. By utilizing our first-principles densitymatrix dynamics approach with quantum scatterings including electron-phonon and electronelectron interactions and self-consistent spinorbit coupling, we present temperature- and magnetic field-dependent spin lifetimes in hybrid perovskites, in agreement with experimental observations. For centrosymmetric hybrid perovskite MAPbBr3, the experimentally observed spin lifetime anisotropy is mainly attributed to the dynamical Rashba effect arising from the interaction between organic and inorganic components and the rotation of the organic cation. For noncentrosymmetric perovskite, such as MPSnBr3, we found persistent spin helix texture at the conduction band minimum, which significantly enhances the spin lifetime anisotropy. Our study provides theoretical insight to spin dynamics in HOIP and strategies for controlling and optimizing spin transport.",
+  "authors": [
+   "Kejun Li",
+   "Junqing Xu",
+   "Uyen N. Huynh",
+   "Rikard Bodin",
+   "Mayank Gupta",
+   "Christian Multunas",
+   "Jacopo Simoni",
+   "Ravishankar Sundararaman",
+   "Zeev Valy Verdany",
+   "Yuan Ping"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Kejun Li",
+  "pdf_url": "http://arxiv.org/pdf/2409.13200",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-20",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Spin Dynamics in Hybrid Halide Perovskites -- Effect of Dynamical and Permanent Symmetry Breaking",
+  "topics": [
+   "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
+  ],
+  "updated": "2024-09-20"
+ },
  "2409.14116": {
   "abstract": "A long-standing puzzle for methanol electrooxidation is how to achieve a CO-free pathway and accurately understand the origin of electrocatalytic selectivity. Herein, we unequivocally demonstrate that the Bi-modified Pt/C follows a CO-free dominated pathway during alkaline methanol electrooxidation, and unveil the formaldehyde (HCHO) intermediate as a critical factor influencing pathway selectivity. These findings are substantiated by kinetic isotope effects, formate Faradaic efficiency, in situ spectroscopy, ab initio molecular dynamic simulations, and density functional theory calculations. Bi modification significantly increases the HCHO dehydrogenation barrier, which facilitates its desorption and subsequent conversion to the H2COOH- anion at the alkaline interface, intrinsically avoiding CO formation. More specifically, the formation of ensemble sites featuring V-shaped Bi-Pt-Bi configuration inhibits the cleavage of C-H bond, and the weak OH binding energy at Bi adatoms effectively prevents blockage of oxygenated species, allowing such ensemble sites to fulfill their functional role. Our study opens up a novel dimension for designing advanced CO-free catalysts.",
   "authors": [
@@ -116,13 +544,145 @@
    "adsorption-energy",
    "density-functional-theory",
    "electrocatalysis",
-   "formate"
+   "formate",
+   "isotope-geochemistry"
   ],
   "title": "Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway",
   "topics": [
    "CO2 Reduction and Formate"
   ],
   "updated": "2024-09-21"
+ },
+ "2409.14558": {
+  "abstract": "Magnetotaxis is a well known phenomenon in swimming microorganisms which sense magnetic fields e.g. by incorporating crystalline magnetosomes. In designing artificial active matter with tunable dynamics, external magnetic fields can provide a versatile method for guidance. Here, it is the question what material properties are necessary to elicit a significant response. In this working paper, we document in experiments on self-propelling nematic microdroplets that the weak diamagnetic torques exerted by a sub-Tesla magnetic field are already sufficient to significantly affect the dynamics of these swimmers. We find a rich and nontrivial variety of dynamic modes by varying droplet size, state of confinement and magnetic field strength.",
+  "authors": [
+   "Martin W. Wagner",
+   "Freek Domburg",
+   "Carsten Krüger",
+   "Jens Meyer",
+   "Jiaqi Zhang",
+   "Prashanth Ramesh",
+   "Corinna C. Maass"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Martin W. Wagner",
+  "pdf_url": "http://arxiv.org/pdf/2409.14558",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-22",
+  "tags": [],
+  "title": "Magnetotaxis in droplet microswimmers",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2024-09-22"
+ },
+ "2409.14883": {
+  "abstract": "We use the rms and lag spectra of the type-C quasi-periodic oscillation (QPO) to study the properties of the Comptonisation region (aka corona) during the low/hard and hard-intermediate states of the main outburst and reflare of MAXI J1348$-$630. We simultaneously fit the time-averaged energy spectrum of the source and the fractional rms and phase-lag spectra of the QPO with the time-dependent Comptonization model vKompth. The data can be explained by two physically connected coronae interacting with the accretion disc via a feedback loop of X-ray photons. The best-fitting model consists of a corona of $\\sim$10$^3$ km located at the inner edge of the disc and a second corona of $\\sim$10$^4$ km horizontally extended and covering the inner parts of the accretion disc. The properties of both coronae during the reflare are similar to those during the low/hard state of the main outburst, reinforcing the idea that both the outburst and the reflare are driven by the same physical mechanisms. We combine our results for the type-C QPO with those from previous work focused on the study of type-A and type-B QPOs with the same model to study the evolution of the geometry of the corona through the whole outburst, including the reflare of MAXI J1348$-$630. Finally, we show that the sudden increase in the phase-lag frequency spectrum and the sharp drop in the coherence function previously observed in MAXI J1348$-$630 are due to the type-C QPO during the decay of the outburst and can be explained in terms of the geometry of the coronae.",
+  "authors": [
+   "Kevin Alabarta",
+   "Mariano Méndez",
+   "Federico García",
+   "Diego Altamirano",
+   "Yuexin Zhang",
+   "Liang Zhang",
+   "David M. Russell",
+   "Ole König"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": "18 pages, 8 figures, 1 table. Submitted to ApJ",
+  "first_author": "Kevin Alabarta",
+  "pdf_url": "http://arxiv.org/pdf/2409.14883",
+  "primary_category": "astro-ph.HE",
+  "published": "2024-09-23",
+  "tags": [],
+  "title": "Geometry of the comptonization region of MAXI J1348$-$630 through type-C quasi-periodic oscillations with NICER",
+  "topics": [
+   "via:author-whitelist:alkaline hydrothermal vent theory"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2409.15217": {
+  "abstract": "In the superionic phase of silver iodide, we observe a distorted tetragonal structure characterized by symmetry breaking in the cation distribution. This phase competes with the well known bcc phase, with a symmetric cation distribution at an energetic cost of only a few meV/atom. The small energy difference suggests that these competing structures may both be thermally accessible near the superionic transition temperature. We also find that the distribution of silver ions depends on the low-temperature parent polymorph, with memory persisting in the superionic phase on the nanosecond time scales accessible in our simulations. Furthermore, simulations on the order 100ns reveal that even at temperatures where the bcc phase is stable, significant fluctuations toward the tetragonal lattice structure remain. Our results are consistent with many \"anomalous\" experimental observations and offer a molecular mechanism for the \"memory effect\" in silver iodide.",
+  "authors": [
+   "Amir Hajibabaei",
+   "William J. Baldwin",
+   "Gábor Csányi",
+   "Stephen J. Cox"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Amir Hajibabaei",
+  "pdf_url": "http://arxiv.org/pdf/2409.15217",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-23",
+  "tags": [],
+  "title": "Symmetry Breaking in the Superionic Phase of Silver-Iodide",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2409.15546": {
+  "abstract": "This study introduces a new framework for the artificial intelligence-assisted characterization of Gram-stained whole-slide images (WSIs). As a test for the diagnosis of bloodstream infections, Gram stains provide critical early data to inform patient treatment. Rapid and reliable analysis of Gram stains has been shown to be positively associated with better clinical outcomes, underscoring the need for improved tools to automate Gram stain analysis. In this work, we developed a novel transformer-based model for Gram-stained WSI classification, which is more scalable to large datasets than previous convolutional neural network (CNN) -based methods as it does not require patch-level manual annotations. We also introduce a large Gram stain dataset from Dartmouth-Hitchcock Medical Center (Lebanon, New Hampshire, USA) to evaluate our model, exploring the classification of five major categories of Gram-stained WSIs: Gram-positive cocci in clusters, Gram-positive cocci in pairs/chains, Gram-positive rods, Gram-negative rods, and slides with no bacteria. Our model achieves a classification accuracy of 0.858 (95% CI: 0.805, 0.905) and an AUC of 0.952 (95% CI: 0.922, 0.976) using five-fold nested cross-validation on our 475-slide dataset, demonstrating the potential of large-scale transformer models for Gram stain classification. We further demonstrate the generalizability of our trained model, which achieves strong performance on external datasets without additional fine-tuning.",
+  "authors": [
+   "Jack McMahon",
+   "Naofumi Tomita",
+   "Elizabeth S. Tatishev",
+   "Adrienne A. Workman",
+   "Cristina R Costales",
+   "Niaz Banaei",
+   "Isabella W. Martin",
+   "Saeed Hassanpour"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Jack McMahon",
+  "pdf_url": "http://arxiv.org/pdf/2409.15546",
+  "primary_category": "eess.IV",
+  "published": "2024-09-23",
+  "tags": [],
+  "title": "A Novel Framework for the Automated Characterization of Gram-Stained Blood Culture Slides Using a Large-Scale Vision Transformer",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2409.17212": {
+  "abstract": "We propose a theoretical model for a colloidal heat engine driven by a feedback protocol that is able to fully convert the net heat absorbed by the hot bath into extracted work. The feedback protocol, inspired by gambling strategies, executes a sudden quench at zero work cost when the particle position satisfies a specific first-passage condition. As a result, the engine enhances both power and efficiency with respect to a standard Carnot cycle, surpassing Carnot's efficiency at maximum power. Using first-passage and martingale theory, we derive analytical expressions for the power and efficiency far beyond the quasistatic limit and provide scaling arguments for their dependency with the cycle duration. Numerical simulations are in perfect agreement with our theoretical findings, and illustrate the impact of the data acquisition rate on the engine's performance.",
+  "authors": [
+   "Tarek Tohme",
+   "Valentina Bedoya",
+   "Costantino di Bello",
+   "Léa Bresque",
+   "Gonzalo Manzano",
+   "Édgar Roldán"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "20 pages (including supplemental material), 8 figures (including supplemental figures)",
+  "first_author": "Tarek Tohme",
+  "pdf_url": "http://arxiv.org/pdf/2409.17212",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-25",
+  "tags": [],
+  "title": "Gambling Carnot Engine",
+  "topics": [
+   "via:author-whitelist:iron sulfide, mineral surfaces"
+  ],
+  "updated": "2024-09-25"
  },
  "2409.17796": {
   "abstract": "Here we show that, in contrast to the observed surface states in well studied pnictogen chalcogenide van der Waals (vdW) topological insulators (TIs) with quintuple layer (QL) or septuple layer~(SL) structure, in superlattices, comprising the alternating QL and SL vdW blocks, the Dirac state becomes accompanied by emergent spin-polarized states of the Rashba type. This specific feature is caused by an inequivalence of the surface and subsurface structural blocks and an electrostatic potential bending near the surface. Within density functional theory~(DFT) and $\\emph{ab-initio}$ tight-binding~(TB) calculations we analyze peculiarities of these states depending on the surface termination, structural parameters and chemical composition. It is found that their possible hybridization with the Dirac state significantly affects its dispersion and spatial localization. We analyze the influence of intrinsic magnetism on behavior of the termination-dependent surface states for magnetic QL/SL superlattices. These findings provide a better understanding of the existing experimental observations of such QL/SL alternating superlattices.",
@@ -141,12 +701,12 @@
   "published": "2024-09-26",
   "tags": [
    "chalcogenides",
-   "density-functional-theory",
-   "surface-science"
+   "density-functional-theory"
   ],
   "title": "Interplay between surface Dirac and Rashba states specific for topologically nontrivial van der Waals superlattices",
   "topics": [
-   "Atomistic Modeling of Sulfides"
+   "Atomistic Modeling of Sulfides",
+   "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2024-09-26"
  },
@@ -170,13 +730,67 @@
   "primary_category": "cond-mat.mtrl-sci",
   "published": "2024-09-26",
   "tags": [
-   "density-functional-theory",
-   "surface-science"
+   "density-functional-theory"
   ],
   "title": "Kekulé distortions in graphene on cadmium sulfide",
   "topics": [
    "Atomistic Modeling of Sulfides",
-   "Sulfidation and Phase Stability"
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation and Phase Stability",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2409.18933": {
+  "abstract": "Naturally occurring van der Waals (vdW) materials are currently attracting significant interest due to their potential as low-cost sources of two-dimensional materials. Valuable information on vdW materials' interlayer interactions is present in their low-frequency rigid-layer phonon spectra, which are experimentally accessible by terahertz spectroscopy techniques. In this work, we have used polarization-sensitive terahertz time-domain spectroscopy to investigate a bulk sample of the naturally abundant, large bandgap vdW mineral clinochlore. We observed a strong and sharp anisotropic resonance in the complex refractive index spectrum near 1.13 THz, consistent with our density functional theory predictions for shear modes. Polarimetry analysis revealed that the shear phonon anisotropy reshapes the polarization state of transmitted THz waves, inducing Faraday rotation and ellipticity. Furthermore, we used Jones formalism to discuss clinochlore phononic symmetries and describe our observations in terms of its eigenstates of polarization. These results highlight the potential of exploring vdW minerals as central building blocks for vdW heterostructures with compelling technological applications.",
+  "authors": [
+   "Nicolas M. Kawahala",
+   "Daniel A. Matos",
+   "Raphaela de Oliveira",
+   "Raphael Longuinhos",
+   "Jenaina Ribeiro-Soares",
+   "Ingrid D. Barcelos",
+   "Felix G. G. Hernandez"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nicolas M. Kawahala",
+  "pdf_url": "http://arxiv.org/pdf/2409.18933",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2024-09-27",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Shaping terahertz waves using anisotropic shear modes in a van der Waals mineral",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2410.08225": {
+  "abstract": "We introduce a novel data-driven approach aimed at designing high-quality shape deformations based on a coarse localized input signal. Unlike previous data-driven methods that require a global shape encoding, we observe that detail-preserving deformations can be estimated reliably without any global context in certain scenarios. Building on this intuition, we leverage Jacobians defined in a one-ring neighborhood as a coarse representation of the deformation. Using this as the input to our neural network, we apply a series of MLPs combined with feature smoothing to learn the Jacobian corresponding to the detail-preserving deformation, from which the embedding is recovered by the standard Poisson solve. Crucially, by removing the dependence on a global encoding, every \\textit{point} becomes a training example, making the supervision particularly lightweight. Moreover, when trained on a class of shapes, our approach demonstrates remarkable generalization across different object categories. Equipped with this novel network, we explore three main tasks: refining an approximate shape correspondence, unsupervised deformation and mapping, and shape editing. Our code is made available at https://github.com/sentient07/LJN",
+  "authors": [
+   "Ramana Sundararaman",
+   "Nicolas Donati",
+   "Simone Melzi",
+   "Etienne Corman",
+   "Maks Ovsjanikov"
+  ],
+  "categories": [
+   "cs.GR"
+  ],
+  "comment": null,
+  "first_author": "Ramana Sundararaman",
+  "pdf_url": "http://arxiv.org/pdf/2410.08225",
+  "primary_category": "cs.GR",
+  "published": "2024-09-26",
+  "tags": [],
+  "title": "Deformation Recovery: Localized Learning for Detail-Preserving Deformations",
+  "topics": [
+   "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
   ],
   "updated": "2024-09-26"
  }

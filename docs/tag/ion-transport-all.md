@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ion-transport — all</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,10 +28,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.22182">2510.22182</a></td>
 </tr>
 <tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17380.html">Modern Solid Electrolytes for All-Solid-State Batteries: Materials Chemistry, Structure, and Transport</a></div></td>
+<td>Denys Butenko et al.</td>
+<td><a href="http://arxiv.org/abs/2604.17380">2604.17380</a></td>
+</tr>
+<tr class="paper">
 <td>2026-03-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21827.html">Invariant ionic conductance in an atomically thin polar nanopore</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Shengping Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21827">2603.21827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16171.html">Self-Organized Bioelectricity via Collective Pump Alignment: Physical Origin of Chemiosmosis</a></div><div class="paper-tags"><a href="origin-of-life-all.html">origin-of-life</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
+<td>Ryosuke Nishide et al.</td>
+<td><a href="http://arxiv.org/abs/2602.16171">2602.16171</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-01</td>
@@ -50,5 +62,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08208.html">Toward Efficient Electrokinetic Energy Conversion with Topographic Modulation of Electrical Conduction</a></div><div class="paper-tags"><a href="electric-double-layer-all.html">electric-double-layer</a></div></td>
 <td>Austin Dick et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08208">2505.08208</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12369.html">Variability in Resistive Memories</a></div></td>
+<td>Juan B. Roldán et al.</td>
+<td><a href="http://arxiv.org/abs/2411.12369">2411.12369</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16835.html">Superionic surface Li-ion transport in carbonaceous materials</a></div></td>
+<td>Jianbin Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16835">2405.16835</a></td>
 </tr>
 </tbody></table>

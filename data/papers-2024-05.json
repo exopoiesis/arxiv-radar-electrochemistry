@@ -1,4 +1,289 @@
 {
+ "2401.09245": {
+  "abstract": "Deep neural network models for image segmentation can be a powerful tool for the automation of motor claims handling processes in the insurance industry. A crucial aspect is the reliability of the model outputs when facing adverse conditions, such as low quality photos taken by claimants to document damages. We explore the use of a meta-classification model to empirically assess the precision of segments predicted by a model trained for the semantic segmentation of car body parts. Different sets of features correlated with the quality of a segment are compared, and an AUROC score of 0.915 is achieved for distinguishing between high- and low-quality segments. By removing low-quality segments, the average mIoU of the segmentation output is improved by 16 percentage points and the number of wrongly predicted segments is reduced by 77%.",
+  "authors": [
+   "Jan Küchler",
+   "Daniel Kröll",
+   "Sebastian Schoenen",
+   "Andreas Witte"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "11 pages, 10 figures, 3 tables",
+  "first_author": "Jan Küchler",
+  "pdf_url": "http://arxiv.org/pdf/2401.09245",
+  "primary_category": "cs.CV",
+  "published": "2024-01-17",
+  "tags": [],
+  "title": "Uncertainty estimates for semantic segmentation: providing enhanced reliability for automated motor claims handling",
+  "topics": [
+   "via:author-whitelist:pyrite geochemistry, prebiotic"
+  ],
+  "updated": "2024-05-17"
+ },
+ "2402.16621": {
+  "abstract": "Statistical learning algorithms provide a generally-applicable framework to sidestep time-consuming experiments, or accurate physics-based modeling, but they introduce a further source of error on top of the intrinsic limitations of the experimental or theoretical setup. Uncertainty estimation is essential to quantify this error, and make application of data-centric approaches more trustworthy. To ensure that uncertainty quantification is used widely, one should aim for algorithms that are reasonably accurate, but also easy to implement and apply. In particular, including uncertainty quantification on top of an existing architecture should be straightforward, and add minimal computational overhead. Furthermore, it should be easy to manipulate or combine multiple machine-learning predictions, propagating uncertainty over further modeling steps. We compare several well-established uncertainty quantification frameworks against these requirements, and propose a practical approach, which we dub direct propagation of shallow ensembles, that provides a good compromise between ease of use and accuracy. We present benchmarks for generic datasets, and an in-depth study of applications to the field of atomistic machine learning for chemistry and materials. These examples underscore the importance of using a formulation that allows propagating errors without making strong assumptions on the correlations between different predictions of the model.",
+  "authors": [
+   "Matthias Kellner",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Matthias Kellner",
+  "pdf_url": "http://arxiv.org/pdf/2402.16621",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-02-26",
+  "tags": [],
+  "title": "Uncertainty quantification by direct propagation of shallow ensembles",
+  "topics": [
+   "via:author-whitelist:PIMD, MLIPs, water"
+  ],
+  "updated": "2024-05-16"
+ },
+ "2402.17660": {
+  "abstract": "Achieving a balance between computational speed, prediction accuracy, and universal applicability in molecular simulations has been a persistent challenge. This paper presents substantial advancements in the TorchMD-Net software, a pivotal step forward in the shift from conventional force fields to neural network-based potentials. The evolution of TorchMD-Net into a more comprehensive and versatile framework is highlighted, incorporating cutting-edge architectures such as TensorNet. This transformation is achieved through a modular design approach, encouraging customized applications within the scientific community. The most notable enhancement is a significant improvement in computational efficiency, achieving a very remarkable acceleration in the computation of energy and forces for TensorNet models, with performance gains ranging from 2-fold to 10-fold over previous iterations. Other enhancements include highly optimized neighbor search algorithms that support periodic boundary conditions and the smooth integration with existing molecular dynamics frameworks. Additionally, the updated version introduces the capability to integrate physical priors, further enriching its application spectrum and utility in research. The software is available at https://github.com/torchmd/torchmd-net.",
+  "authors": [
+   "Raul P. Pelaez",
+   "Guillem Simeon",
+   "Raimondas Galvelis",
+   "Antonio Mirarchi",
+   "Peter Eastman",
+   "Stefan Doerr",
+   "Philipp Thölke",
+   "Thomas E. Markland",
+   "Gianni De Fabritiis"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.bio-ph",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "Version accepted in Journal of Chemical Theory and Computation",
+  "first_author": "Raul P. Pelaez",
+  "pdf_url": "http://arxiv.org/pdf/2402.17660",
+  "primary_category": "cs.LG",
+  "published": "2024-02-27",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "TorchMD-Net 2.0: Fast Neural Network Potentials for Molecular Simulations",
+  "topics": [
+   "via:author-whitelist:AIMD, proton transfer in water"
+  ],
+  "updated": "2024-05-23"
+ },
+ "2404.09949": {
+  "abstract": "We present a measurement of neutral pion production in charged-current interactions using data recorded with the MicroBooNE detector exposed to Fermilab's booster neutrino beam. The signal comprises one muon, one neutral pion, any number of nucleons, and no charged pions. Studying neutral pion production in the MicroBooNE detector provides an opportunity to better understand neutrino-argon interactions, and is crucial for future accelerator-based neutrino oscillation experiments. Using a dataset corresponding to $6.86 \\times 10^{20}$ protons on target, we present single-differential cross sections in muon and neutral pion momenta, scattering angles with respect to the beam for the outgoing muon and neutral pion, as well as the opening angle between the muon and neutral pion. Data extracted cross sections are compared to generator predictions. We report good agreement between the data and the models for scattering angles, except for an over-prediction by generators at muon forward angles. Similarly, the agreement between data and the models as a function of momentum is good, except for an underprediction by generators in the medium momentum ranges, $200-400$ MeV for muons and $100-200$ MeV for pions.",
+  "authors": [
+   "MicroBooNE collaboration",
+   "P. Abratenko",
+   "O. Alterkait",
+   "D. Andrade Aldana",
+   "L. Arellano",
+   "J. Asaadi",
+   "A. Ashkenazi",
+   "S. Balasubramanian",
+   "B. Baller",
+   "G. Barr",
+   "D. Barrow",
+   "J. Barrow",
+   "V. Basque",
+   "O. Benevides Rodrigues",
+   "S. Berkman",
+   "A. Bhanderi",
+   "A. Bhat",
+   "M. Bhattacharya",
+   "M. Bishai",
+   "A. Blake",
+   "B. Bogart",
+   "T. Bolton",
+   "J. Y. Book",
+   "M. B. Brunetti",
+   "L. Camilleri",
+   "Y. Cao",
+   "D. Caratelli",
+   "F. Cavanna",
+   "G. Cerati",
+   "A. Chappell",
+   "Y. Chen",
+   "J. M. Conrad",
+   "M. Convery",
+   "L. Cooper-Troendle",
+   "J. I. Crespo-Anadon",
+   "R. Cross",
+   "M. Del Tutto",
+   "S. R. Dennis",
+   "P. Detje",
+   "A. Devitt",
+   "R. Diurba",
+   "Z. Djurcic",
+   "R. Dorrill",
+   "K. Duffy",
+   "S. Dytman",
+   "B. Eberly",
+   "P. Englezos",
+   "A. Ereditato",
+   "J. J. Evans",
+   "R. Fine",
+   "B. T. Fleming",
+   "W. Foreman",
+   "D. Franco",
+   "A. P. Furmanski",
+   "F. Gao",
+   "D. Garcia-Gamez",
+   "S. Gardiner",
+   "G. Ge",
+   "S. Gollapinni",
+   "E. Gramellini",
+   "P. Green",
+   "H. Greenlee",
+   "L. Gu",
+   "W. Gu",
+   "R. Guenette",
+   "P. Guzowski",
+   "L. Hagaman",
+   "O. Hen",
+   "C. Hilgenberg",
+   "G. A. Horton-Smith",
+   "Z. Imani",
+   "B. Irwin",
+   "M. S. Ismail",
+   "C. James",
+   "X. Ji",
+   "J. H. Jo",
+   "R. A. Johnson",
+   "Y. J. Jwa",
+   "D. Kalra",
+   "N. Kamp",
+   "G. Karagiorgi",
+   "W. Ketchum",
+   "M. Kirby",
+   "T. Kobilarcik",
+   "I. Kreslo",
+   "N. Lane",
+   "I. Lepetic",
+   "J. -Y. Li",
+   "Y. Li",
+   "K. Lin",
+   "B. R. Littlejohn",
+   "H. Liu",
+   "W. C. Louis",
+   "X. Luo",
+   "C. Mariani",
+   "D. Marsden",
+   "J. Marshall",
+   "N. Martinez",
+   "D. A. Martinez Caicedo",
+   "S. Martynenko",
+   "A. Mastbaum",
+   "I. Mawby",
+   "N. McConkey",
+   "V. Meddage",
+   "J. Mendez",
+   "J. Micallef",
+   "K. Miller",
+   "K. Mistry",
+   "T. Mohayai",
+   "A. Mogan",
+   "M. Mooney",
+   "A. F. Moor",
+   "C. D. Moore",
+   "L. Mora Lepin",
+   "M. M. Moudgalya",
+   "S. Mulleria Babu",
+   "D. Naples",
+   "A. Navrer-Agasson",
+   "N. Nayak",
+   "M. Nebot-Guinot",
+   "J. Nowak",
+   "N. Oza",
+   "O. Palamara",
+   "N. Pallat",
+   "V. Paolone",
+   "A. Papadopoulou",
+   "V. Papavassiliou",
+   "H. Parkinson",
+   "S. F. Pate",
+   "N. Patel",
+   "Z. Pavlovic",
+   "E. Piasetzky",
+   "K. Pletcher",
+   "I. Pophale",
+   "X. Qian",
+   "J. L. Raaf",
+   "V. Radeka",
+   "A. Rafique",
+   "M. Reggiani-Guzzo",
+   "L. Ren",
+   "L. Rochester",
+   "J. Rodriguez Rondon",
+   "M. Rosenberg",
+   "M. Ross-Lonergan",
+   "I. Safa",
+   "G. Scanavini",
+   "D. W. Schmitz",
+   "A. Schukraft",
+   "W. Seligman",
+   "M. H. Shaevitz",
+   "R. Sharankova",
+   "J. Shi",
+   "E. L. Snider",
+   "M. Soderberg",
+   "S. Soldner-Rembold",
+   "J. Spitz",
+   "M. Stancari",
+   "J. St. John",
+   "T. Strauss",
+   "A. M. Szelc",
+   "W. Tang",
+   "N. Taniuchi",
+   "K. Terao",
+   "C. Thorpe",
+   "D. Torbunov",
+   "D. Totani",
+   "M. Toups",
+   "A. Trettin",
+   "Y. -T. Tsai",
+   "J. Tyler",
+   "M. A. Uchida",
+   "T. Usher",
+   "B. Viren",
+   "M. Weber",
+   "H. Wei",
+   "A. J. White",
+   "S. Wolbers",
+   "T. Wongjirad",
+   "M. Wospakrik",
+   "K. Wresilo",
+   "W. Wu",
+   "E. Yandel",
+   "T. Yang",
+   "L. E. Yates",
+   "H. W. Yu",
+   "G. P. Zeller",
+   "J. Zennamo",
+   "C. Zhang"
+  ],
+  "categories": [
+   "hep-ex",
+   "physics.ins-det"
+  ],
+  "comment": null,
+  "first_author": "MicroBooNE collaboration",
+  "pdf_url": "http://arxiv.org/pdf/2404.09949",
+  "primary_category": "hep-ex",
+  "published": "2024-04-15",
+  "tags": [],
+  "title": "Measurement of the differential cross section for neutral pion production in charged-current muon neutrino interactions on argon with the MicroBooNE detector",
+  "topics": [
+   "via:author-whitelist:vent theory, bioenergetics"
+  ],
+  "updated": "2024-05-06"
+ },
  "2405.00851": {
   "abstract": "Understanding the dynamic nature of the semiconductor-water interface is crucial for developing efficient photoelectrochemical water splitting catalysts, as it governs reactivity through charge and mass transport. In this study, we employ ab initio molecular dynamics simulations to investigate the structural and dynamical properties of water at the $β$-TaON (100) surface. We observed that a well-defined interface is established through the spontaneous dissociation of water and the reorganization of surface chemical bonds. This leads to the formation of a partially hydroxylated surface, accompanied by a strong network of hydrogen bonds at the TaON-water interface. Consequently, various proton transport routes, including the proton transfer through \"low-barrier hydrogen bond\" path, become active across the interface, dramatically increasing the overall rate of the proton hopping at the interface. Based on our findings, we propose that the observed high photocatalytic activity of TaON-based semiconductors could be attributed to the spontaneous water dissociation and the resulting high proton transfer rate at the interface.",
   "authors": [
@@ -15,7 +300,9 @@
   "published": "2024-05-01",
   "tags": [
    "ab-initio",
+   "aimd",
    "explicit-solvation",
+   "grotthuss",
    "molecular-dynamics",
    "proton-transport"
   ],
@@ -24,6 +311,54 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2024-05-01"
+ },
+ "2405.01302": {
+  "abstract": "We study the set $\\operatorname{MA}(X,Y)$ of operators between Banach spaces $X$ and $Y$ that attain their minimum norm, and the set $\\operatorname{QMA}(X,Y)$ of operators that quasi attain their minimum norm. We characterize the Radon-Nikodym property in terms of operators that attain their minimum norm and obtain some related results about the density of the sets $\\operatorname{MA}(X,Y)$ and $\\operatorname{QMA}(X,Y)$. We show that every infinite-dimensional Banach space $X$ has an isomorphic space $Y$ such that not every operator from $X$ to $Y$ quasi attains its minimum norm. We introduce and study Bishop-Phelps-Bollobás type properties for the minimum norm, including the ones already considered in the literature, and we exhibit a wide variety of results and examples, as well as exploring the relations between them.",
+  "authors": [
+   "Domingo García",
+   "Manuel Maestre",
+   "Miguel Martín",
+   "Óscar Roldán",
+   "."
+  ],
+  "categories": [
+   "math.FA"
+  ],
+  "comment": "22 pages including references. 1 figure",
+  "first_author": "Domingo García",
+  "pdf_url": "http://arxiv.org/pdf/2405.01302",
+  "primary_category": "math.FA",
+  "published": "2024-05-02",
+  "tags": [],
+  "title": "On density and Bishop-Phelps-Bollobás type properties for the minimum norm",
+  "topics": [
+   "via:author-whitelist:iron sulfide, mineral surfaces"
+  ],
+  "updated": "2024-05-02"
+ },
+ "2405.02216": {
+  "abstract": "An azeotrope is a constant boiling point mixture, and its behavior is important for fluid separation processes. Predicting azeotropes from atomistic simulations is difficult, due to the complexities and convergence problems in Monte Carlo and free-energy perturbation techniques. Here, we present a methodology for predicting the azeotropes of binary mixtures, which computes the compositional dependence of chemical potentials from molecular dynamics simulations using the S0 method, and employs experimental boiling point and vaporization enthalpy data. Using this methodology, we reproduce the azeotropes or the lack of in five case studies, including ethanol/water, ethanol/isooctane, methanol/water, hydrazine/water, and acetone/chloroform mixtures. We find that it is crucial to use the experimental boiling point and vaporization enthalpy for reliable azeotrope predictions, as empirical force fields are not accurate enough for these quantities. Finally, we use regular solution models to rationalize the azeotropes, and reveal that they tend to form when the mixture components have similar boiling points and strong interactions.",
+  "authors": [
+   "Xiaoyu Wang",
+   "Bingqing Cheng"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Xiaoyu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2405.02216",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-03",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Integrating Molecular Dynamics Simulations and Experimental Data for Azeotrope Predictions in Binary Mixtures",
+  "topics": [
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2024-05-03"
  },
  "2405.02618": {
   "abstract": "Thermoelectric materials can achieve direct energy conversion between electricity and heat, thus can be applied to waste heat harvesting and solid-state cooling. The discovery of new thermoelectric materials is mainly based on experiments and first-principles calculations. However, these methods are usually expensive and time-consuming. Recently, the prediction of properties via machine learning has emerged as a popular method in materials science. Herein, we firstly did first-principles high-throughput calculations for a large number of chalcogenides and built a thermoelectric database containing 796 compounds. Many novel and promising thermoelectric materials were discovered. Then, we trained four ensemble learning models and two deep learning models to distinguish the promising thermoelectric materials from the others for n type and p type doping, respectively. All the presented models achieve classification accuracy higher than 85% and area under the curve (AUC) higher than 0.9. Especially, the M3GNet model for n type data achieve accuracy, precision and recall all higher than 90%. Our works demonstrate a very efficient way of combining machine learning prediction and first-principles high-throughput calculations together to accelerate the discovery of advanced thermoelectric materials.",
@@ -46,7 +381,8 @@
   ],
   "title": "Combining Machine Learning Models with First-Principles High-Throughput Calculation to Accelerate the Search of Promising Thermoelectric Materials",
   "topics": [
-   "Machine-Learned Potentials for Sulfides"
+   "Machine-Learned Potentials for Sulfides",
+   "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2024-05-04"
  },
@@ -83,10 +419,115 @@
   "title": "A family of air-stable chalcogenide solid electrolytes in Li$_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems",
   "topics": [
    "Atomistic Modeling of Sulfides",
+   "Atomistic Modeling of Sulfides and Minerals",
    "Ion Transport, Gradients, and Membranes",
-   "Sulfidation and Phase Stability"
+   "Sulfidation and Phase Stability",
+   "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2024-05-06"
+ },
+ "2405.05396": {
+  "abstract": "Implicit in the definition of the classical circumstellar habitable zone (HZ) is the hypothesis that the carbonate-silicate cycle can maintain clement climates on exoplanets with land and surface water across a range of instellations by adjusting atmospheric $\\mathrm{CO_2}$ partial pressure ($p\\mathrm{CO_2}$). This hypothesis is made by analogy to the Earth system, but it is an open question whether silicate weathering can stabilize climate on planets in the outer reaches of the HZ, where instellations are lower than those received by even the Archean Earth and $\\mathrm{CO_2}$ is thought likely to dominate atmospheres. Since weathering products are carried from land to ocean by the action of water, silicate weathering is intimately coupled to the hydrologic cycle, which intensifies with hotter temperatures under Earth-like conditions. Here, we use global climate model (GCM) simulations to demonstrate that the hydrologic cycle responds counterintuitively to changes in climate on planets with $\\mathrm{CO_2}$-$\\mathrm{H_2O}$ atmospheres at low instellations and high $p\\mathrm{CO_2}$, with global evaporation and precipitation decreasing as $p\\mathrm{CO_2}$ and temperatures increase at a given instellation. Within the MAC weathering formulation, weathering then decreases with increasing $p\\mathrm{CO_2}$ for a range of instellations and $p\\mathrm{CO_2}$ typical of the outer reaches of the HZ, resulting in an unstable carbon cycle that may lead to either runaway $\\mathrm{CO_2}$ accumulation or depletion of $\\mathrm{CO_2}$ to colder (possibly Snowball) conditions. While the behavior of the system has not been completely mapped out, the results suggest that silicate weathering could fail to maintain habitable conditions in the outer reaches of the nominal HZ.",
+  "authors": [
+   "R. J. Graham",
+   "R. T. Pierrehumbert"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted for publication in ApJ",
+  "first_author": "R. J. Graham",
+  "pdf_url": "http://arxiv.org/pdf/2405.05396",
+  "primary_category": "astro-ph.EP",
+  "published": "2024-05-08",
+  "tags": [
+   "carbonate-silicate-cycle",
+   "weathering"
+  ],
+  "title": "Carbon cycle instability for high-$\\mathrm{CO_2}$ exoplanets: Implications for habitability",
+  "topics": [
+   "Mineral Surfaces and Geochemistry"
+  ],
+  "updated": "2024-05-08"
+ },
+ "2405.05632": {
+  "abstract": "Oxidation of two-dimensional (2D) layered materials has proven advantageous in creating oxide/2D material heterostructures, opening the door for a new paradigm of low-power electronic devices. Gallium (II) sulfide ($β$-GaS), a hexagonal phase group III monochalcogenide, is a wide bandgap semiconductor with a bandgap exceeding 3 eV in single and few layer form. Its oxide, gallium oxide (Ga$_2$O$_3$), combines large bandgap (4.4-5.3 eV) with high dielectric constant (~10). Despite the technological potential of both materials, controlled oxidation of atomically-thin $β$-GaS remains under-explored. This study focuses into the controlled oxidation of $β$-GaS using oxygen plasma treatment, achieving ultrathin native oxide (GaS$_x$O$_y$, ~4 nm) and GaS$_x$O$_y$/GaS heterostructures where the GaS layer beneath remains intact. By integrating such structures between metal electrodes and applying electric stresses as voltage ramps or pulses, we investigate their use for resistive random-access memory (ReRAM). The ultrathin nature of the produced oxide enables low operation power with energy use as low as 0.22 nJ per operation while maintaining endurance and retention of 350 cycles and 10$^4$ s, respectively. These results show the significant potential of the oxidation-based GaS$_x$O$_y$/GaS heterostructure for electronic applications and, in particular, low-power memory devices.",
+  "authors": [
+   "AbdulAziz AlMutairi",
+   "Aferdita Xhameni",
+   "Xuyun Guo",
+   "Irina Chircă",
+   "Valeria Nicolosi",
+   "Stephan Hofmann",
+   "Antonio Lombardo"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "AbdulAziz AlMutairi",
+  "pdf_url": "http://arxiv.org/pdf/2405.05632",
+  "primary_category": "physics.app-ph",
+  "published": "2024-05-09",
+  "tags": [],
+  "title": "Controlled Fabrication of Native Ultra-Thin Amorphous Gallium Oxide from 2D Gallium Sulfide for Emerging Electronic Applications",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2024-05-09"
+ },
+ "2405.06079": {
+  "abstract": "People now regularly interface with Large Language Models (LLMs) via speech and text (e.g., Bard) interfaces. However, little is known about the relationship between how users anthropomorphize an LLM system (i.e., ascribe human-like characteristics to a system) and how they trust the information the system provides. Participants (n=2,165; ranging in age from 18-90 from the United States) completed an online experiment, where they interacted with a pseudo-LLM that varied in modality (text only, speech + text) and grammatical person (\"I\" vs. \"the system\") in its responses. Results showed that the \"speech + text\" condition led to higher anthropomorphism of the system overall, as well as higher ratings of accuracy of the information the system provides. Additionally, the first-person pronoun (\"I\") led to higher information accuracy and reduced risk ratings, but only in one context. We discuss these findings for their implications for the design of responsible, human-generative AI experiences.",
+  "authors": [
+   "Michelle Cohn",
+   "Mahima Pushkarna",
+   "Gbolahan O. Olanubi",
+   "Joseph M. Moran",
+   "Daniel Padgett",
+   "Zion Mengesha",
+   "Courtney Heldreth"
+  ],
+  "categories": [
+   "cs.HC"
+  ],
+  "comment": null,
+  "first_author": "Michelle Cohn",
+  "pdf_url": "http://arxiv.org/pdf/2405.06079",
+  "primary_category": "cs.HC",
+  "published": "2024-05-09",
+  "tags": [],
+  "title": "Believing Anthropomorphism: Examining the Role of Anthropomorphic Cues on Trust in Large Language Models",
+  "topics": [
+   "via:author-whitelist:prebiotic CO2 fixation, autocatalysis"
+  ],
+  "updated": "2024-05-09"
+ },
+ "2405.06207": {
+  "abstract": "The electronic properties and optical response of ice and water are intricately shaped by their molecular structure, including the quantum mechanical nature of hydrogen atoms. In spite of numerous studies appeared over decades, a comprehensive understanding of the effect of the nuclear quantum motion on the electronic structure of water and ice at finite temperatures remains elusive. Here, we utilize molecular simulations that harness the efficiency of machine-learning potentials and many-body perturbation theory to assess the impact of nuclear quantum effects on the electronic structure of water and hexagonal ice. By comparing the results of path-integral and classical simulations, we find that including nuclear quantum effects leads to a larger renormalization of the fundamental gap of ice, compared to that of water, eventually leading to a comparable gap in the two systems, consistent with experimental estimates. Our calculations suggest that the quantum fluctuations responsible for an increased delocalization of protons in ice, relative to water, are a key factor leading to the enhancement of nuclear quantum effects on the electronic structure of ice.",
+  "authors": [
+   "Margaret Berrens",
+   "Arpan Kundu",
+   "Marcos F. Calegari Andrade",
+   "Tuan Anh Pham",
+   "Giulia Galli",
+   "Davide Donadio"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "16 pages, 4 figures",
+  "first_author": "Margaret Berrens",
+  "pdf_url": "http://arxiv.org/pdf/2405.06207",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-10",
+  "tags": [],
+  "title": "Nuclear Quantum Effects on the Electronic Structure of Water and Ice",
+  "topics": [
+   "via:author-whitelist:DFT water, defects"
+  ],
+  "updated": "2024-05-10"
  },
  "2405.06274": {
   "abstract": "Highly efficient acousto-optic modulation plays a vital role in the microwave-to-optical conversion. Herein, we demonstrate a hybrid thin-film lithium niobate (TFLN) racetrack micro-ring acousto-optic modulator (AOM) implemented with low-loss chalcogenide (ChG) waveguide. By engineering the electrode configuration of the interdigital transducer, the double-arm micro-ring acousto-optic modulation is experimentally confirmed in nonsuspended ChG loaded TFLN waveguide platform. Varying the position of blue-detuned bias point, the half-wave-voltage-length product VpaiL of the hybrid TFLN micro-ring AOM is as small as 9 mVcm. Accordingly, the acousto-optic coupling strength is estimated to be 0.48 Hz s1/2 at acoustic frequency of 0.84 GHz. By analyzing the generation of phonon number from the piezoelectric transducer, the microwave-to-optical conversion efficiency is calculated to be 0.05%, approximately one order of magnitude larger than that of the state-of-the-art suspended counterpart. Efficient microwave-to-optical conversion thus provides new opportunities for low-power-consumption quantum information transduction using the TFLN-ChG hybrid piezo-optomechanical devices.",
@@ -123,6 +564,30 @@
   ],
   "updated": "2024-05-10"
  },
+ "2405.09057": {
+  "abstract": "Machine learning has recently emerged as a powerful tool for generating new molecular and material structures. The success of state-of-the-art models stems from their ability to incorporate physical symmetries, such as translation, rotation, and periodicity. Here, we present a novel generative method called Response Matching (RM), which leverages the fact that each stable material or molecule exists at the minimum of its potential energy surface. Consequently, any perturbation induces a response in energy and stress, driving the structure back to equilibrium. Matching to such response is closely related to score matching in diffusion models. By employing the combination of a machine learning interatomic potential and random structure search as the denoising model, RM exploits the locality of atomic interactions, and inherently respects permutation, translation, rotation, and periodic invariances. RM is the first model to handle both molecules and bulk materials under the same framework. We demonstrate the efficiency and generalization of RM across three systems: a small organic molecular dataset, stable crystals from the Materials Project, and one-shot learning on a single diamond configuration.",
+  "authors": [
+   "Bingqing Cheng"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Bingqing Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2405.09057",
+  "primary_category": "cs.LG",
+  "published": "2024-05-15",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Response Matching for generating materials and molecules",
+  "topics": [
+   "via:author-whitelist:MLIPs, water, free energy"
+  ],
+  "updated": "2024-05-15"
+ },
  "2405.10222": {
   "abstract": "Recent studies have focused on the relationship between charge density wave (CDW) collective electronic ground states and nontrivial topological states. Using angle-resolved photoemission and density functional theory, we establish that YTe$_3$ is a CDW-induced Kramers nodal line (KNL) metal, a newly proposed topological state of matter. YTe$_3$ is a non-magnetic quasi-2D chalcogenide with a CDW wave vector ($q_{\\rm cdw}$) of 0.2907c$^*$. Scanning tunneling microscopy and low energy electron diffraction revealed two orthogonal CDW domains, each with a unidirectional CDW and similar YTe$_3$. The effective band structure (EBS) computations, using DFT-calculated folded bands, show excellent agreement with ARPES because a realistic x-ray crystal structure and twin domains are considered in the calculations. The Fermi surface and ARPES intensity plots show weak shadow bands displaced by $q_{\\rm cdw}$ from the main bands. These are linked to CDW modulation, as the EBS calculation confirms. Bilayer split main and shadow bands suggest the existence of crossings, according to theory and experiment. DFT bands, including spin-orbit coupling, indicate a nodal line along the $Σ$ line from multiple band crossings perpendicular to the KNL. Additionally, doubly degenerate bands are only found along the KNL at all energies, with some bands dispersing through the Fermi level.",
   "authors": [
@@ -153,12 +618,12 @@
   "published": "2024-05-16",
   "tags": [
    "chalcogenides",
-   "density-functional-theory",
-   "surface-science"
+   "density-functional-theory"
   ],
   "title": "Kramers nodal line in the charge density wave state of YTe$_3$ and the influence of twin domains",
   "topics": [
-   "Atomistic Modeling of Sulfides"
+   "Atomistic Modeling of Sulfides",
+   "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2024-05-16"
  },
@@ -195,6 +660,28 @@
   ],
   "updated": "2024-05-23"
  },
+ "2405.14287": {
+  "abstract": "We determine all factorisations $X=AB$, where $X$ is a finite almost simple group and $A,B$ are core-free subgroups such that $A\\cap B$ is cyclic or dihedral. As a main application, we classify the graphs $Γ$ admitting an almost simple arc-transitive group $X$ of automorphisms, such that $Γ$ has a 2-cell embedding as a map on a closed surface admitting a core-free arc-transitive subgroup $G$ of $X$. We prove that apart from the case where $X$ and $G$ have socles $A_n$ and $A_{n-1}$ respectively, the only such graphs are the complete graphs $K_n$ with $n$ a prime power, the Johnson graphs $J(n,2)$ with $n-1$ a prime power, and 14 further graphs. In the exceptional case, we construct infinitely many graph embeddings.",
+  "authors": [
+   "Martin W. Liebeck",
+   "Cheryl E. Praeger"
+  ],
+  "categories": [
+   "math.GR",
+   "math.CO"
+  ],
+  "comment": "48 pages (including 6 pages of results tables at the end)",
+  "first_author": "Martin W. Liebeck",
+  "pdf_url": "http://arxiv.org/pdf/2405.14287",
+  "primary_category": "math.GR",
+  "published": "2024-05-23",
+  "tags": [],
+  "title": "Maps, simple groups, and arc-transitive graphs",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2024-05-23"
+ },
  "2405.14817": {
   "abstract": "Two-dimensional (2D) van der Waals (vdW) materials with lower symmetry (triclinic, monoclinic or orthorhombic) exhibit intrinsic anisotropic in-plane structure desirable for future optoelectronic surface operating devices. Herein, we report one such material, 2D $p$-type semiconductor germanium sulfide (GeS), a group IV monochalcogenide with puckered orthorhombic morphology, in which in-plane optical and transport properties can be correlated with its electronic structure. We systematically investigate the electronic band structure of the bulk GeS with micro-focused angle-resolved photoemission spectroscopy ($μ$-ARPES) and correspond the charge transport properties using the field-effect transistor (FET) device architecture, and optical anisotropy $via$ angle-resolved polarization dependent Raman spectroscopy (ARPRS) on a micron-sized rectangle-shaped exfoliated bulk flake. The experimental valence band dispersion along the two high symmetry directions indicate highly anisotropic in-plane behavior of the charge carrier that agrees well with the density functional theory (DFT) calculations. In addition, we demonstrate the variation of the in-plane hole mobility (ratio $\\sim$ 3.4) from the electrical conductivity with gate-sweep in a GeS-on-SiO$_2$ FET. Moreover, we use the angle-resolved fluctuation of the Raman intensity of the characteristic phonon modes to precisely determine the armchair and zigzag edges of the particular flake. The unique structural motif of GeS with correlated electronic and optical properties are of great interest both for the physical understanding of the all-optical switch and their applications in memory devices.",
   "authors": [
@@ -217,15 +704,253 @@
   "primary_category": "cond-mat.mes-hall",
   "published": "2024-05-23",
   "tags": [
-   "density-functional-theory",
-   "surface-science"
+   "density-functional-theory"
   ],
   "title": "Unraveling electronic structure of GeS through ARPES and its correlation with anisotropic optical and transport behavior",
   "topics": [
    "Atomistic Modeling of Sulfides",
-   "Sulfidation and Phase Stability"
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation and Phase Stability",
+   "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2024-05-23"
+ },
+ "2405.16835": {
+  "abstract": "Unlike Li-ion transport in the bulk of carbonaceous materials, little is known about Li-ion diffusion on their surface. In this study, we have discovered an ultra-fast Li-ion transport phenomenon on the surface of carbonaceous materials, particularly when they have limited Li insertion capacity along with a high surface area. This is exemplified by a carbon black, Ketjen Black (KB). An ionic conductivity of 18.1 mS cm-1 at room temperature is observed, far exceeding most solid-state ion conductors. Theoretical calculations reveal a low diffusion barrier for the surface Li species. The species is also identified as Li*, which features a partial positive charge. As a result, lithiated KB functions effectively as an interlayer between Li and solid-state electrolytes (SSE) to mitigate dendrite growth and cell shorting. This function is found to be electrolyte agnostic, effective for both sulfide and halide SSEs. Further, lithiated KB can act as a high-performance mixed ion/electron conductor that is thermodynamically stable at potentials near Li metal. A graphite anode mixed with KB instead of a solid electrolyte demonstrates full utilization with a capacity retention of ~85% over 300 cycles. The discovery of this surface-mediated ultra-fast Li-ion transport mechanism provides new directions for the design of solid-state ion conductors and solid-state batteries.",
+  "authors": [
+   "Jianbin Zhou",
+   "Shen Wang",
+   "Chaoshan Wu",
+   "Ji Qi",
+   "Hongli Wan",
+   "Shen Lai",
+   "Shijie Feng",
+   "Tsz Wai Ko",
+   "Zhaohui Liang",
+   "Ke Zhou",
+   "Nimrod Harpak",
+   "Nick Solan",
+   "Mengchen Liu",
+   "Zeyu Hui",
+   "Paulina J. Ai",
+   "Kent Griffith",
+   "Chunsheng Wang",
+   "Shyue Ping Ong",
+   "Yan Yao",
+   "Ping Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "21 pages, 6 figures",
+  "first_author": "Jianbin Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2405.16835",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-27",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Superionic surface Li-ion transport in carbonaceous materials",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Sulfidation, Phase Stability, and Corrosion",
+   "via:author-whitelist:M3GNet, CHGNet"
+  ],
+  "updated": "2024-05-27"
+ },
+ "2405.17593": {
+  "abstract": "Feit and Tits (1978) proved that a nontrivial projective representation of minimal dimension of a finite extension of a finite nonabelian simple group $G$ factors through a projective representation of $G$, except for some groups of Lie type in characteristic 2; the exact exceptions for $G$ were determined by Kleidman and Liebeck (1989). We generalise this result in two ways. First we consider all low-dimensional projective representations, not just those of minimal dimension. Second we consider all characteristically simple groups, not just simple groups.",
+  "authors": [
+   "Scott Harper",
+   "Martin W. Liebeck"
+  ],
+  "categories": [
+   "math.GR",
+   "math.RT"
+  ],
+  "comment": "8 pages",
+  "first_author": "Scott Harper",
+  "pdf_url": "http://arxiv.org/pdf/2405.17593",
+  "primary_category": "math.GR",
+  "published": "2024-05-27",
+  "tags": [],
+  "title": "Representations of extensions of simple groups",
+  "topics": [
+   "via:author-whitelist:origin of life biochemistry, autotrophy"
+  ],
+  "updated": "2024-05-27"
+ },
+ "2405.17751": {
+  "abstract": "The surface of Saturn's moon Titan is coated with small molecule organic solids termed cryominerals. Cryominerals play an analogous role to minerals on Earth in Titan's surface geology and geochemistry. To develop a predictive understanding of Titan's surface geochemistry, we need to characterize the structure and dynamics of cryominerals at the molecular scale. We use ab initio molecular dynamics simulations to quantify the structure and dynamics of the acetonitrile:acetylene (1:2) co-crystal at Titan surface conditions. We suggest that acetonitrile:acetylene is in a plastic phase, in which acetonitrile molecules are dynamically disordered about the N-C-C axis on sub-picosecond timescales, and that this rotational, plastic disorder persists at least to temperatures of 30 K. We anticipate that many cryominerals may have plastic phases at or near Titan surface conditions, and understanding this disorder will be crucial to predicting chemistry on Titan's surface.",
+  "authors": [
+   "Atul C. Thakur",
+   "Richard C. Remsing"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "7 pages, 5 figures",
+  "first_author": "Atul C. Thakur",
+  "pdf_url": "http://arxiv.org/pdf/2405.17751",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-28",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Molecular Structure and Rotational Dynamics in the Acetonitrile:Acetylene (1:2) Plastic Co-Crystal at Titan Conditions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2024-05-28"
+ },
+ "2405.18131": {
+  "abstract": "Learning-based isosurface extraction methods have recently emerged as a robust and efficient alternative to axiomatic techniques. However, the vast majority of such approaches rely on supervised training with axiomatically computed ground truths, thus potentially inheriting biases and data artifacts of the corresponding axiomatic methods. Steering away from such dependencies, we propose a self-supervised training scheme for the Neural Dual Contouring meshing framework, resulting in our method: Self-Supervised Dual Contouring (SDC). Instead of optimizing predicted mesh vertices with supervised training, we use two novel self-supervised loss functions that encourage the consistency between distances to the generated mesh up to the first order. Meshes reconstructed by SDC surpass existing data-driven methods in capturing intricate details while being more robust to possible irregularities in the input. Furthermore, we use the same self-supervised training objective linking inferred mesh and input SDF, to regularize the training process of Deep Implicit Networks (DINs). We demonstrate that the resulting DINs produce higher-quality implicit functions, ultimately leading to more accurate and detail-preserving surfaces compared to prior baselines for different input modalities. Finally, we demonstrate that our self-supervised losses improve meshing performance in the single-view reconstruction task by enabling joint training of predicted SDF and resulting output mesh. We open-source our code at https://github.com/Sentient07/SDC",
+  "authors": [
+   "Ramana Sundararaman",
+   "Roman Klokov",
+   "Maks Ovsjanikov"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Ramana Sundararaman",
+  "pdf_url": "http://arxiv.org/pdf/2405.18131",
+  "primary_category": "cs.CV",
+  "published": "2024-05-28",
+  "tags": [],
+  "title": "Self-Supervised Dual Contouring",
+  "topics": [
+   "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
+  ],
+  "updated": "2024-05-28"
+ },
+ "2405.19801": {
+  "abstract": "Nitric Oxide (NO) significantly impacts energy distribution and chemical processes in the mesosphere and lower thermosphere (MLT). During geomagnetic storms, a substantial influx of energy in the thermosphere leads to an increase in NO infrared emissions. Accurately predicting the radiative flux of Nitric Oxide is crucial for understanding the thermospheric energy budget, particularly during extreme space weather events. With advancements in computational techniques, machine learning (ML) has become a highly effective tool for space weather forecasting. This effort becomes even more worthwhile considering the availability of two decades of continuous NO infrared emissions measurement by TIMED/SABER along with several other key thermospheric variables. We present the scheme of development of an ML-based predictive model for Nitric Oxide Infrared Radiative Flux (NOIRF). Various ML algorithms have been tested for better predictive ability, and an optimized model (NOEMLM) has been developed for the study of NOIRF. This model is able to extract the underlying relationships between the input features and effectively predict the NOIRF. The NOEMLM predictions have very good agreements with SABER observation during quiet time as well as geomagnetic storms. In comparison with the existing TIEGCM model, NOEMLM has very good performance, especially during extreme space weather conditions. The results of this study suggest that utilizing geomagnetic and space weather indices with ML/AI can serve as superior parameters for studying the upper atmosphere, as compared to focusing on specific species having complex chemical processes and associated uncertainties in constituents. ML techniques can effectively carry out the analysis with greater ease than traditional chemical studies.",
+  "authors": [
+   "Dayakrishna Nailwal",
+   "MV Sunil Krishna",
+   "Alok Kumar Ranjan",
+   "Jia Yue"
+  ],
+  "categories": [
+   "physics.space-ph"
+  ],
+  "comment": "18 pages, 7 figures",
+  "first_author": "Dayakrishna Nailwal",
+  "pdf_url": "http://arxiv.org/pdf/2405.19801",
+  "primary_category": "physics.space-ph",
+  "published": "2024-05-30",
+  "tags": [],
+  "title": "Modeling of Nitric Oxide Infrared radiative flux in lower thermosphere: a machine learning perspective",
+  "topics": [
+   "Mineral Surfaces and Geochemistry",
+   "via:author-whitelist:prebiotic photochemistry, atmospheric chem"
+  ],
+  "updated": "2024-05-30"
+ },
+ "2405.20217": {
+  "abstract": "Calculating sublimation enthalpies of molecular crystal polymorphs is relevant to a wide range of technological applications. However, predicting these quantities at first-principles accuracy -- even with the aid of machine learning potentials -- is a challenge that requires sub-kJ/mol accuracy in the potential energy surface and finite-temperature sampling. We present an accurate and data-efficient protocol based on fine-tuning of the foundational MACE-MP-0 model and showcase its capabilities on sublimation enthalpies and physical properties of ice polymorphs. Our approach requires only a few tens of training structures to achieve sub-kJ/mol accuracy in the sublimation enthalpies and sub 1 % error in densities for polymorphs at finite temperature and pressure. Exploiting this data efficiency, we explore simulations of hexagonal ice at the random phase approximation level of theory at experimental temperatures and pressures, calculating its physical properties, like pair correlation function and density, with good agreement with experiments. Our approach provides a way forward for predicting the stability of molecular crystals at finite thermodynamic conditions with the accuracy of correlated electronic structure theory.",
+  "authors": [
+   "Harveen Kaur",
+   "Flaviano Della Pia",
+   "Ilyes Batatia",
+   "Xavier R. Advincula",
+   "Benjamin X. Shi",
+   "Jinggang Lan",
+   "Gábor Csányi",
+   "Angelos Michaelides",
+   "Venkat Kapil"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "9 pages; 4 figures",
+  "first_author": "Harveen Kaur",
+  "pdf_url": "http://arxiv.org/pdf/2405.20217",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-30",
+  "tags": [
+   "ab-initio",
+   "mace"
+  ],
+  "title": "Data-efficient fine-tuning of foundational models for first-principles quality sublimation enthalpies",
+  "topics": [
+   "via:author-whitelist:GAP, MACE, ACE",
+   "via:author-whitelist:MACE author"
+  ],
+  "updated": "2024-05-30"
+ },
+ "2405.20239": {
+  "abstract": "We present BEAST DB, an open-source database comprised of ab initio electrochemical data computed using grand-canonical density functional theory in implicit solvent at consistent calculation parameters. The database contains over 20,000 surface calculations and covers a broad set of heterogeneous catalyst materials and electrochemical reactions. Calculations were performed at self-consistent fixed potential as well as constant charge to facilitate comparisons to the computational hydrogen electrode. This article presents common use cases of the database to rationalize trends in catalyst activity, screen catalyst material spaces, understand elementary mechanistic steps, analyze electronic structure, and train machine learning models to predict higher fidelity properties. Users can interact graphically with the database by querying for individual calculations to gain granular understanding of reaction steps or by querying for an entire reaction pathway on a given material using an interactive reaction pathway tool. BEAST DB will be periodically updated, with planned future updates to include advanced electronic structure data, surface speciation studies, and greater reaction coverage.",
+  "authors": [
+   "Cooper Tezak",
+   "Jacob Clary",
+   "Sophie Gerits",
+   "Joshua Quinton",
+   "Benjamin Rich",
+   "Nicholas Singstock",
+   "Abdulaziz Alherz",
+   "Taylor Aubry",
+   "Struan Clark",
+   "Rachel Hurst",
+   "Mauro Del Ben",
+   "Christopher Sutton",
+   "Ravishankar Sundararaman",
+   "Charles Musgrave",
+   "Derek Vigil-Fowler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "24 pages, 8 figures",
+  "first_author": "Cooper Tezak",
+  "pdf_url": "http://arxiv.org/pdf/2405.20239",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-30",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "BEAST DB: Grand-Canonical Database of Electrocatalyst Properties",
+  "topics": [
+   "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
+  ],
+  "updated": "2024-05-30"
+ },
+ "2405.20258": {
+  "abstract": "Developing theoretical understanding of complex reactions and processes at interfaces requires using methods that go beyond semilocal density functional theory to accurately describe the interactions between solvent, reactants and substrates. Methods based on many-body perturbation theory, such as the random phase approximation (RPA), have previously been limited due to their computational complexity. However, this is now a surmountable barrier due to the advances in computational power available, in particular through modern GPU-based supercomputers. In this work, we describe the implementation of RPA calculations within BerkeleyGW and show its favorable computational performance on large complex systems relevant for catalysis and electrochemistry applications. Our implementation builds off of the static subspace approximation which, by employing a compressed representation of the frequency dependent polarizability, enables the evaluation of the RPA correlation energy with significant acceleration and systematically controllable accuracy. We find that the computational cost of calculating the RPA correlation energy scales only linearly with system size for systems containing up to 50 thousand bands, and is expected to scale quadratically thereafter. We also show excellent strong scaling results across several supercomputers, demonstrating the performance and portability of this implementation.",
+  "authors": [
+   "Daniel Weinberg",
+   "Olivia A. Hull",
+   "Jacob M. Clary",
+   "Ravishankar Sundararaman",
+   "Derek Vigil-Fowler",
+   "Mauro Del Ben"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 5 figures",
+  "first_author": "Daniel Weinberg",
+  "pdf_url": "http://arxiv.org/pdf/2405.20258",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-30",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Static Subspace Approximation for Random Phase Approximation Correlation Energies: Implementation and Performance",
+  "topics": [
+   "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
+  ],
+  "updated": "2024-05-30"
  },
  "2405.20739": {
   "abstract": "Thermoelectric materials are of great interest for heat energy harvesting applications. One such promising material is TlGaSe$_{2}$, a p-type semiconducting ternary chalcogenide. Recent reports show it can be processed as a thin film, opening the door for large-scale commercialization. However, TlGaSe$_{2}$ is prone to stacking faults along the [001] stacking direction and their role in its thermoelectric properties has not been understood to date. Herein, TlGaSe$_{2}$ is investigated via (scanning) transmission electron microscopy and first-principles calculations. Stacking faults are found to be present throughout the material, as density functional theory calculations reveal a lack of preferential stacking order. Electron transport calculations show an enhancement of thermoelectric power factors when stacking faults are present. This implies the presence of stacking faults is key to the material's excellent thermoelectric properties along the [001] stacking direction, which can be further enhanced by doping the material to hole carrier concentrations to approx. 10$^{19}$ cm$^{-3}$.",
@@ -254,8 +979,35 @@
   ],
   "title": "Elucidating the Role of Stacking Faults in TlGaSe$_{2}$ on its Thermoelectric Properties",
   "topics": [
-   "Atomistic Modeling of Sulfides"
+   "Atomistic Modeling of Sulfides",
+   "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2024-05-31"
+ },
+ "2407.01569": {
+  "abstract": "The Voltage-Dependent Anion Channel (VDAC) protein is the primary conduit for the regulated passage of ions and metabolites into and out of mitochondria. Calculating its solvation free energy is crucial for understanding its stability, function, and interactions within the cellular environment. In this paper, we introduce a total solvation free energy, $E$, which is the sum of electrostatic, ideal gas, and excess free energies, along with a non-polar energy to yield a zero of $E$ in the absence of charges. We develop numerical schemes for computing $E$ and update the current mesh generation package to accelerate the generation of tetrahedral meshes and improve the quality of meshes for computing $E$. By integrating these schemes and the updated mesh package with our non-uniform size modified Poisson-Boltzmann ion channel (nuSMPBIC), SMPBIC, and PBIC finite element packages, the PDB2PQR package, and the OPM database, we create the VDAC Solvation Free Energy Calculation (VSFEC) package. Using the VSFEC package, we perform comparison tests on the nuSMPBIC, SMPBIC, and PBIC models by using six VDAC proteins and various ionic solutions containing up to four ionic species, including ATP$^{4-}$ and Ca$^{2+}$. We also conduct tests with different neutral voltages and permittivity constants to explore the varying patterns of $E$. Our test results underscore the importance of considering non-uniform ionic size effects and demonstrate the high performance of the VSFEC package in calculating the solvation free energy of VDAC proteins.",
+  "authors": [
+   "Liam Jemison",
+   "Matthew Stahl",
+   "Ranjan K. Dash",
+   "Dexuan Xie"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "q-bio.QM"
+  ],
+  "comment": "22 pages, 7 figures, 3 tables",
+  "first_author": "Liam Jemison",
+  "pdf_url": "http://arxiv.org/pdf/2407.01569",
+  "primary_category": "q-bio.BM",
+  "published": "2024-05-25",
+  "tags": [
+   "solvation-thermodynamics"
+  ],
+  "title": "VDAC Solvation Free Energy Calculation by a Nonuniform Size Modified Poisson-Boltzmann Ion Channel Model",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2024-05-25"
  }
 }
