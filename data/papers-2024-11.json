@@ -1,4 +1,58 @@
 {
+ "2410.21735": {
+  "abstract": "Single crystalline materials, different from polycrystalline and twinning structures, are desired for investigating the intrinsic physical properties, as grain and twin boundaries often work as a source of artifacts. Bismuth chalcogenides, which are van der Waals materials notable as topological insulators, have attracted significant interest due to their rich physical properties. However, the formation of 60° twin domains is common in these materials. Here, we demonstrate single-domain bismuth chalcogenides. Using atomic force microscopy, we investigated the morphology of Bi2Se3 and Bi2Te3 grown on Al2O3. Despite lattice constants of Bi2Se3 and Al2O3 substrates being well matched with hybrid symmetry epitaxy, Bi2Se3 exhibited 60° twin boundaries across the surface. Interestingly, Bi2Te3 showed a single-domain feature across the 10 mm by 10 mm sample even with lattice mismatch. While further in-depth studies are required to understand this difference in the morphology between Bi2Se3/Al2O3 and Bi2Te3/Al2O3, we suggest that the formation of twin boundaries in bismuth chalcogenides is related to the interaction between quintuple layers across the van der Waals gap rather than strain or defects.",
+  "authors": [
+   "David H. Yi",
+   "Deepti Jain"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "David H. Yi",
+  "pdf_url": "http://arxiv.org/pdf/2410.21735",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-10-29",
+  "tags": [
+   "chalcogenides",
+   "surface-science"
+  ],
+  "title": "Single-domain imaging in topological insulator Bi2Te3 thin films",
+  "topics": [
+   "Adsorption and Ion Transport"
+  ],
+  "updated": "2024-11-06"
+ },
+ "2411.06668": {
+  "abstract": "Chalcogenide phase-change materials (PCMs) are one of the most mature candidates for next-generation memory technology. Recently, CrGeTe3 (CrGT) emerged as a promising PCM due to its enhanced amorphous stability and fast crystallization for embedded memory applications. The amorphous stability of CrGT was attributed to the complex layered structure of the crystalline motifs needed to initiate crystallization. A subsequent computational screening work identified several similar compounds with good thermal stability, such as InGeTe3, CrSiTe3 and BiSiTe3. Here, we explore substitution of Cr in CrGT with other 3d metals, and predict four additional layered alloys to be dynamically stable, namely, ScGeTe3, TiGeTe3, ZnGeTe3 and MnGeTe3. Thorough ab initio simulations performed on both crystalline and amorphous models of these materials indicate the former three alloys to be potential PCMs with sizable resistance contrast. Furthermore, we find that crystalline MnGeTe3 exhibits ferromagnetic behavior, whereas the amorphous state probably forms a spin-glass phase. This makes MnGeTe3 a promising candidate for magnetic phase-change applications.",
+  "authors": [
+   "Yihui Jiang",
+   "Suyang Sun",
+   "Hanyi Zhang",
+   "Xiaozhe Wang",
+   "Yibo Lei",
+   "Riccardo Mazzarello",
+   "Wei Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Yihui Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2411.06668",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-11-11",
+  "tags": [
+   "ab-initio",
+   "chalcogenides"
+  ],
+  "title": "Ab initio investigation of layered TMGeTe3 alloys for phase-change applications",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2024-11-11"
+ },
  "2411.11783": {
   "abstract": "The search for low-cost, durable, and effective catalysts is essential for green hydrogen production and carbon dioxide upcycling to help in the mitigation of climate change. Discovery of new catalysts is currently limited by the gap between what AI-accelerated computational models predict and what experimental studies produce. To make progress, large and diverse experimental datasets are needed that are reproducible and tested at industrially-relevant conditions. We address these needs by utilizing a comprehensive high-throughput characterization and experimental pipeline to create the Open Catalyst Experiments 2024 (OCX24) dataset. The dataset contains 572 samples synthesized using both wet and dry methods with X-ray fluorescence and X-ray diffraction characterization. We prepared 441 gas diffusion electrodes, including replicates, and evaluated them using zero-gap electrolysis for carbon dioxide reduction (CO$_2$RR) and hydrogen evolution reactions (HER) at current densities up to $300$ mA/cm$^2$. To find correlations with experimental outcomes and to perform computational screens, DFT-verified adsorption energies for six adsorbates were calculated on $\\sim$20,000 inorganic materials requiring 685 million AI-accelerated relaxations. Remarkably from this large set of materials, a data driven Sabatier volcano independently identified Pt as being a top candidate for HER without having any experimental measurements on Pt or Pt-alloy samples. We anticipate the availability of experimental data generated specifically for AI training, such as OCX24, will significantly improve the utility of computational models in selecting materials for experimental screening.",
   "authors": [
@@ -43,6 +97,36 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2024-11-18"
+ },
+ "2411.14045": {
+  "abstract": "We conducted a comprehensive analysis of the magnetic and electronic transport properties of the layered chalcogenide Cr$_{1+δ}$Te$_2$ in its single crystalline form. This material exhibits a ferromagnetic transition at a critical temperature of $T_C = 191$ K, characterized by significant thermal hysteresis in the magnetization data below this temperature. Measurements of isothermal magnetization, magnetocaloric effect, and magnetoresistance indicate that the system exhibits strong magnetocrystalline anisotropy, with the $c$-axis serving as the easy axis of magnetization. The Cr$_{1+δ}$Te$_2$ compound shows pronounced anomalous Hall effect (AHE); however, existing experimental and theoretical data do not provide a clear understanding of the nature and origin of this phenomenon. Our experimental findings suggest that the skew scattering mechanism primarily accounts for the observed AHE. In contrast, our theoretical study reveals the presence of gapped nodal points accompanied by non-zero Berry Curvature, which are expected to contribute towards intrinsic AHE. A detailed analysis of the electronic band structure, obtained through density functional theory calculations, reveals that the Berry Curvature at different nodal points exhibit both positive and negative signs. These opposing contributions largely cancel each other out, thereby significantly diminishing the intrinsic contribution to the AHE.",
+  "authors": [
+   "Prasanta Chowdhury",
+   "Jyotirmay Sau",
+   "Mohamad Numan",
+   "Jhuma Sannigrahi",
+   "Matthias Gutmann",
+   "Saurav Giri",
+   "Manoranjan Kumar",
+   "Subham Majumdar"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 7 figures",
+  "first_author": "Prasanta Chowdhury",
+  "pdf_url": "http://arxiv.org/pdf/2411.14045",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-11-21",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Suppression of Intrinsic Hall Effect through Competing Berry Curvature in Cr$_{1+δ}$Te$_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2024-11-21"
  },
  "2411.15162": {
   "abstract": "MnxOy coated over TiO2 nanotube array substrate was doped with Mo and polyaniline (PANI) and applied for electrochemical desulfurization of concentrated sulfide (HS) solutions at basic pH, typical of biogas scrubbing solutions and industrial wastewater. Mo and PANI co-dopants significantly enhanced the anode activity towards sulfide oxidation and ensured its complete stability even in highly corrosive sulfide solutions (e.g., 200 mM HS). This was due to the increased electrochemically active surface area, improved coating conductivity and reduced charge transfer resistance. The (electro)catalytic oxidation of HS- demonstrated robust performance with very limited impact of different operational parameters (e.g., dissolved oxygen, anode potential, HS concentration). Due to the formation of elemental sulfur (S0) layer at the anode surface at basic pH, longer term anode usage requires its periodic removal. Chemical dissolution of S0 with toluene allows its rapid removal without affecting the anode activity, and easy recrystallization and recovery of pure sulfur.",

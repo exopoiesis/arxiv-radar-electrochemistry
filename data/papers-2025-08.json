@@ -1,4 +1,32 @@
 {
+ "2505.01772": {
+  "abstract": "Molybdenum sulfide clusters, [Mo3S4]4+ and [Mo3S13]2-, have emerged as key molecular models for understanding active sites in Mo-S-based catalysts and as promising candidates for energy conversion applications. Despite their importance, comprehensive vibrational characterization of these clusters remains limited. Here, we present a detailed Raman and infrared spectroscopic analysis of both clusters, supported by density functional theory (DFT) calculations. High-quality crystalline samples were synthesized and characterized using scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDX) to confirm morphology and stoichiometry. Raman spectra, acquired using 488 nm and 532 nm laser excitation, were deconvoluted using Lorentzian fitting. Vibrational mode assignments were made through direct comparison with DFT predictions. For [Mo3S4]4+, major Raman bands appear near 200 cm^-1, 350 cm^-1, and 450 cm^-1, corresponding to Mo-S-Mo bending, Mo-S stretching, and terminal sulfur vibrations. [Mo3S13]2- shows two distinct spectral regions: 100-400 cm^-1 for Mo-S and S-S bending and stretching, and 450-550 cm^-1 for terminal disulfide (S-S) stretching. Complementary IR spectra calculations reveal additional vibrational features, yielding a more complete fingerprint for each cluster. Finally, we demonstrate that Raman spectroscopy offers greater sensitivity than X-ray diffraction (XRD) in detecting these clusters on supporting materials. This work provides a detailed vibrational reference for [Mo3S4]4+ and [Mo3S13]2-, establishing Raman and IR spectroscopy as powerful tools for characterizing Mo-S molecular clusters in both fundamental and applied contexts.",
+  "authors": [
+   "Pardis Adams",
+   "Jan Bühler",
+   "Angel Labordet Alvarez",
+   "David Tilley",
+   "Mirjana Dimitrievska"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pardis Adams",
+  "pdf_url": "http://arxiv.org/pdf/2505.01772",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-03",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Raman and IR Signatures of Mo3S4 and Mo3S13 Molybdenum Sulphide Molecular Catalysts for Solar Hydrogen Evolution",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-08-13"
+ },
  "2506.02915": {
   "abstract": "The electro-hydrodynamics near conducting walls is revisited. Attention is focused on the impact of an explicit diffuse Stern layer, which permittivity and viscosity differ from the bulk values, on the velocity of an electro-osmotic plug flow. To solve this problem we propose an approach of mapping the flow in the Stern layer to the surface dividing the Stern and diffuse layer, where an effective electro-hydrodynamic slip boundary condition is imposed. The latter implies that an effective surface charge is responding to the applied field and characterized by a mobility parameter $μ\\geq 1$. We derive analytic equations for $μ$ and demonstrate that it is determined only by electrostatic properties of the electric double layer. These equations are then used to calculate electrokinetic (zeta) potentials of surfaces. We show that the zeta potential generally exceeds the surface one, which implies an amplification of the electro-osmotic flow. This effect is most pronounced if the hydrodynamic slip length is large and/or in concentrated solutions.",
   "authors": [
@@ -24,6 +52,66 @@
   ],
   "updated": "2025-08-11"
  },
+ "2506.05621": {
+  "abstract": "In this study, coherent phonon motion is observed in bandgap excited CuIn$_{x}$Ga$_{(1-x)}$Se$_2$ (CIGS) utilizing extreme ultraviolet (XUV) attosecond transient absorption spectroscopy across the Se M$_{4,5}$ absorption edge. Two frequencies of coherent phonon motion are resolved, a low frequency mode attributed through Raman measurements to the $A_{1g}$ phonon motion of a Cu-deficient ordered vacancy compound (OVC), while the high frequency mode originates from the $A_{1g}$ phonon motion in the chalcopyrite phase. The two oscillations lead to modulations in the XUV differential absorption $ΔA(ε,τ)$ due to energy shifts of the Se M$_{4,5}$ edge, with a minima occuring approximately 1 ps after the band gap excitation. The hot carrier cooling time of holes and electrons are disentangled and the observed slower cooling of holes is attributed to the higher density of hole states in the valence band. We also observe fast oscillations (18.6(3) fs period) across the Se absorption edge, which are interpreted to originate from quantum path interference between the electronic conduction bands of the chalcopyrite CIGS and OVC phases, opening the possibility towards quantum coherent metrology in photovoltaics on the femtosecond timescale. The complex interplay between the chalcopyrite and OVC phases are revealed in this investigation through both coherent vibrational and electronic motions.",
+  "authors": [
+   "Hugo Laurell",
+   "Jonah R. Adelman",
+   "Elizaveta Yakovleva",
+   "Carl Hägglund",
+   "Kostiantyn Sopiha",
+   "Axel Stenquist",
+   "Han K. D. Le",
+   "Peidong Yang",
+   "Marika Edoff",
+   "Stephen R. Leone"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Hugo Laurell",
+  "pdf_url": "http://arxiv.org/pdf/2506.05621",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-06-05",
+  "tags": [
+   "chalcopyrite",
+   "vacancies"
+  ],
+  "title": "Coherent phonon motions and ordered vacancy compound mediated quantum path interference in Cu-poor CuIn$_{x}$Ga$_{(1-x)}$Se$_2$ (CIGS) with attosecond transient absorption",
+  "topics": [
+   "Fe-Ni-S Mineral Surfaces"
+  ],
+  "updated": "2025-08-18"
+ },
+ "2506.11224": {
+  "abstract": "Chalcogenide perovskites, particularly II-IV ABS3 compounds, are a promising class of materials for optoelectronic applications. However, these materials frequently exhibit instability in two respects: 1) a preference for structures containing one-dimensional edge- or face-sharing octahedral networks instead of the three-dimensional corner-sharing perovskite framework (polymorphic instability), and (2) a tendency to decompose into competing compositions (hull instability). We evaluate the stability of 81 ABS3 compounds using Density Functional Theory, finding that only BaZrS3 and BaHfS3 are both polymorphically and hull stable, with the NH4CdCl3-type structure being the preferred polymorph for 77% of these compounds. Comparison with existing tolerance factor models demonstrates that these approaches work well for known perovskites but overpredict stability for compositions without published experimental results. Polymorphic stability analysis reveals that perovskite structures are stabilized by strong B-S bonding interactions, while needle structures exhibit minimal B-S covalency, suggesting that electrostatic rather than covalent interactions drive the preference for edge-sharing motifs. Hull stability analysis comparing ABS3 to ABO3 analogues reveals a weaker inductive effect in sulfides as a possible explanation for the scarcity of sulfides compared with oxides. The relative instability of ABS3 compounds is further supported by experimental synthesis attempts. These findings provide fundamental insights into the origins of instability in chalcogenide perovskites and highlight the challenges in expanding this promising materials class beyond the few materials that have been reported to date.",
+  "authors": [
+   "Adelina Carr",
+   "Talia Glinberg",
+   "Nathan Stull",
+   "James R. Neilson",
+   "Christopher J. Bartel"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Adelina Carr",
+  "pdf_url": "http://arxiv.org/pdf/2506.11224",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-06-12",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Origins of chalcogenide perovskite instability",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-08-29"
+ },
  "2508.01963": {
   "abstract": "The formation of green energy carriers such as hydrogen (H2) and methane (CH4) via photocatalytic processes provides a clean method for addressing environmental and energy issues. To achieve highly efficient photocatalysts for H2 and CH4 generation, the present work introduces the P/N heterojunctions in a high-entropy oxide (HEO) with d0/d10 electronic junctions. The study uses CuO as a P-type semiconductor and the HEO containing d0 (Ti, Zr, Nb, Ta) and d10 (Zn) cations as an N-type semiconductor. The material exhibits improvements in optical properties, such as light absorption, charge mobility and reduced electron-hole recombination. The integration of two concepts, atomic-scale d0/d10 electronic junctions and micro-scale P/N heterojunctions, leads to enhanced H2 and CH4 production. Particularly after the partial removal of vacancies in the heterojunction, H2 production from photocatalytic water splitting reaches 0.71 mmol/g.h, and CH4 evolution from CO2 conversion reaches 2.40 umol/g.h with 72% selectivity for methanation. The integrated strategy of this study has a high potential in developing active heterostructured catalysts for clean fuel production.",
   "authors": [
@@ -46,6 +134,45 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-08-04"
+ },
+ "2508.06464": {
+  "abstract": "The occurrence of charge density wave (CDW) phenomena, particularly in low dimensional rare-earth chalcogenides, has attracted substantial research interest. Among these materials, EuTe4, which features multiple Te layers and a single Eu-Te layer, serves as a promising platform to study the interplay between CDW order and 4f electron configurations, including magnetism. In this study, First principles based density functional theory (DFT) calculations were carried out to investigate the electronic band structure modifications arising from CDW modulation. Angle resolved photoemission spectroscopy (ARPES) revealed the emergence of a CDW gap at the Fermi level, as well as hybridization induced gap features at lower binding energies. The low lying CDW gap reaches its maximum along the Gamma-Y high-symmetry direction and a minimum along GX reflecting the anisotropic nature of the electronic structure. We also performed low temperature heat capacity measurements in applied magnetic fields near the Neel temperature (TN ~ 6.9 K) to construct the magnetic phase diagram of EuTe4. This study provides valuable insight into the directional dependent evolution of the Fermi surface nesting induced CDW ordering, along with other observed gap openings within this system.",
+  "authors": [
+   "Iftakhar Bin Elius",
+   "Nathan Valadez",
+   "Gyanendra Dhakal",
+   "Volodymyr Buturlim",
+   "Sabin Regmi",
+   "Dante James",
+   "Peter Radanovich",
+   "Matthew Yankowitz",
+   "Tetiana Romanova",
+   "Andrzej Ptok",
+   "Krzysztof Gofryk",
+   "Dariusz Kaczorowski",
+   "Madhab Neupane"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 4 figures",
+  "first_author": "Iftakhar Bin Elius",
+  "pdf_url": "http://arxiv.org/pdf/2508.06464",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2025-08-08",
+  "tags": [
+   "ab-initio",
+   "adsorption-energy",
+   "chalcogenides",
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Observation of momentum dependent charge density wave gap in EuTe4",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-08-08"
  },
  "2508.07800": {
   "abstract": "The hydrogen evolution reaction (HER) in alkaline media suffers from sluggish kinetics but the origin of the pH-dependent activity remains debated. This study investigates the role of hydroxide ions (OH) in enhancing the alkaline HER at Au(111) by systematically varying the pH and the NaOH concentration both with and without fixing the total Na concentration.Contrary to conventional cation-centric models of alkaline HER, we demonstrate a notable anion effect by showing that the HER activity increases monotonically with pH and OH concentration, even at extremely high NaOH concentrations(up to 9 M).Tafel slopes decrease from 181 mV/dec at pH=10 to 124 mV/dec at pH=13 and to 111 mV/dec for the case with 9 M NaOH, indicating accelerated kinetics.Infrared spectroscopy reveals that interfacial OH strengthens the hydrogen-bond network, which is expected to lower the activation energy for the Volmer step,the rate-determining step of HER on Au(111). Hence,OH enhances alkaline HER kinetics by strengthening the hydrogen bond network and its connectivity at the electrochemical interface;this allows us to propose a unified mechanism for the electrolyte effects on alkaline HER where structure-making ions (Li,K,and OH) improve the reaction kinetics by optimizing the interfacial hydrogen bond network.",
@@ -155,6 +282,72 @@
   ],
   "updated": "2025-08-12"
  },
+ "2508.09317": {
+  "abstract": "With the growing demand for sustainable and decentralized energy solutions, thermoelectric energy harvesting has emerged as a promising technology for directly converting waste heat into electricity through solid state, environmentally friendly means. Among copper chalcogenides, Cu2Te is a notable p-type material due to its degenerate semiconducting nature and low thermal conductivity. In this study, we present a sustainable synthesis strategy for Sn-doped Cu2Te referred to as bronze telluride (BT) via a chemical vapor deposition (CVD) assisted tellurization process using pre-alloyed Cu Sn (bronze) powder. The resulting BT exhibited an enhanced thermoelectric figure of merit (ZT) of 1 at 500 K. To assess practical applicability, BT was integrated with n type galena (PbS) in a cascaded p n thermoelectric module, which generated 2.8 mV across a temperature gradient of 35 K, demonstrating its potential for medium- to high-temperature waste heat recovery. Furthermore, thermodynamic calculations and density functional theory (DFT) simulations provided insights into the formation mechanism of Cu2Te and the thermoelectric behaviour of BT. This work introduces an efficient, scalable, and environmentally responsible pathway for developing copper-based thermoelectric materials using industrially relevant precursors.",
+  "authors": [
+   "Karthik R",
+   "Abhijith MB",
+   "Juan Gomez Quispe",
+   "Varinder Pal",
+   "Manas Paliwal",
+   "Ajit K Roy",
+   "Pedro Alves Da Silva Autreto",
+   "Sreeram Punathil Raman",
+   "Pulickel M. Ajayan",
+   "Chandra Sekhar Tiwary"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 6 figures",
+  "first_author": "Karthik R",
+  "pdf_url": "http://arxiv.org/pdf/2508.09317",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-08-12",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-08-12"
+ },
+ "2508.12118": {
+  "abstract": "Ovonic threshold switching is the key process for several applications of chalcogenide alloys including phase change memories and selector elements in cross-points arrays. Very recently, it has been shown that the threshold switching voltage VT depends on the polarity of the applied field. This feature has been already exploited in the realization of the Single Chalcogenide X-point Memory (SXM) in which a single film of a chalcogenide alloy can serve as both a memory and selector unit. In this work, we provide a microscopic understanding of the polarity-dependent VT by leveraging electrical and physical measurements, numerical simulations based on technology computer aided design (TCAD) and electronic structure calculations based on density functional theory (DFT). We developed a Graded Band Gap (GBG) model in which an inhomogeneous distribution of localized electronic states in the gap is established by the opposite effect of a strong electric field at the cathode and a high density of electrons in the conduction band at the anode. The model is suitable to reproduce several features of the programming window, including its dependence on temperature, thickness and composition of the chalcogenide alloy. The microscopic understanding that we gained on the SXM operation lays the foundation for important improvements in the memory design and in the selection of better performing alloys for applications in enabling memory technologies.",
+  "authors": [
+   "P. Fantini",
+   "A. Ghetti",
+   "E. Varesi",
+   "A. Pirovano",
+   "F. Pellizzer",
+   "D. Baratella",
+   "C. Ribaldone",
+   "S. Caravati",
+   "D. Campi",
+   "M. Bernasconi",
+   "R. Bez"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages + 6 pages of Supplementary Information",
+  "first_author": "P. Fantini",
+  "pdf_url": "http://arxiv.org/pdf/2508.12118",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-08-16",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Microscopic model of the operation of the Single-chalcogenide X-point Memory",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-08-16"
+ },
  "2508.12262": {
   "abstract": "Photocatalytic CO2 reduction is limited by inefficient CO2 activation and poor solar spectrum utilization. Here, we discovered and revealed the vibration coupling mechanism among photons, phonons, and molecules, which remarkably enhances photocatalytic catalysis of CO2 into fuels. We designed the nitrogen-doped Cu2O-based catalyst loaded onto the quartz optical substrate. The N-doping Cu2O converts linearly geometry of adsorbed CO2 molecules, which efficiently lowers the activation barrier and facilitates CO2 dissociation. Once the Cu-based catalyst is combined with a micro-pillar quartz film, the system induces vibrational strong coupling (VSC) between the asymmetric CO2 stretching mode and surface phonon polariton resonances. These resonances arise from the photothermal conversion of incident solar photons on the micro-pillars. The resonant coupling phenomena were further verified by Fourier-transform infrared spectroscopy using Synchrotron Radiation Source (SRS), which directly confirmed the interactions between molecular vibrations and photonic-phononic modes. The synergetic functions originated from this hybrid architecture achieve a CO yield of 167.7 umol h-1 g-1 under pure water conditions, which is the highest reported yield for Cu2O-based photocatalysts with 46% enhancement over non-VSC systems. This work uncovers a novel photo-thermal mechanism. It further provides a new strategy to control bond activation in photocatalytic CO2 conversion through light-vibration-matter coupling.",
   "authors": [
@@ -201,5 +394,34 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2025-08-19"
+ },
+ "2508.15401": {
+  "abstract": "Montmorillonite, a ubiquitous clay mineral, plays a vital role in geochemical and environmental processes due to its chemically complex edge surfaces. However, the molecular-scale acid-base reactivity of these interfaces remains poorly understood due to the limitations of both experimental resolution and conventional simulations. Here, we employ machine learning potentials with first-principles accuracy to perform nanosecond-scale molecular dynamics simulations of montmorillonite nanoparticles across a range of pH. Our results reveal clear amphoteric behavior: edge sites undergo protonation in acidic environments and deprotonation in basic conditions. Even at neutral pH, spontaneous and directional proton transfer events are common, proceeding via both direct and solvent-mediated pathways. These findings demonstrate that montmorillonite edges are not static arrays of hydroxyl groups but dynamic, proton-conducting networks whose reactivity is modulated by local structure and solution conditions. This work offers a molecular-level framework for understanding proton transport and buffering in clay-water systems, with broad implications for catalysis, ion exchange, and environmental remediation.",
+  "authors": [
+   "Yixuan Feng",
+   "Xavier R. Advincula",
+   "Hongwei Fang",
+   "Christoph Schran"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yixuan Feng",
+  "pdf_url": "http://arxiv.org/pdf/2508.15401",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-08-21",
+  "tags": [
+   "ab-initio",
+   "grotthuss",
+   "molecular-dynamics",
+   "proton-diffusion",
+   "surface-science"
+  ],
+  "title": "Clay Edges Are Dynamic Proton-conducting Networks Modulated by Structure and pH",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides"
+  ],
+  "updated": "2025-08-21"
  }
 }

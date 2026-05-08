@@ -92,6 +92,74 @@
   ],
   "updated": "2026-03-01"
  },
+ "2603.02121": {
+  "abstract": "In this work we provide an in-depth analysis of the sensing mechanisms of $NO_{2}$ by lead-sulfide nanocrystals (PbS-NCs). A detailed model for the sorption mechanism is proposed, and the correlation is established between experimental sensing characteristics and the surface composition, based on both experimental characterization and ab initio (DFT) simulations. We demonstrated how the sensitivity and the sensing dynamic response can be tuned by a post-deposition multistep dry-thermal process at mild temperature, that alternates vacuum-assisted annealing and heating in open-air. Sensors with different surface compositions were fabricated, and their dynamic response was characterized at low concentration of $NO_{2}$ (0.5 ppm) in air, at ambient temperature. DFT simulations indicate that both surface stoichiometry and oxidation critically govern $NO_{2}$ interaction on PbS, with sulfur-rich terminations favoring weaker binding and faster desorption, while intermediate oxidation enhances interaction and overoxidation leads to surface passivation, in agreement with the measured experimental sensing dynamics. By linking surface composition, adsorption chemistry, and resistance transduction within a single framework, this work provides clear indications to design room-temperature, low-ppm $NO_{2}$ microsensors fabricated through a simple and scalable processes.",
+  "authors": [
+   "Fernando M. Fernandes",
+   "Fouad El Haj Hassan",
+   "Sophie Hermans",
+   "Benoît Hackens"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "12 pages, 4 figures",
+  "first_author": "Fernando M. Fernandes",
+  "pdf_url": "http://arxiv.org/pdf/2603.02121",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-02",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "corrosion",
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-03-02"
+ },
+ "2603.05420": {
+  "abstract": "Manganese sulfide (MnS) is a p-type magnetic semiconductor whose physicochemical properties are sensitive to nanocrystal (NC) morphology, yet the thermodynamic driving forces governing morphology across MnS polymorphs remain poorly understood. Here, we use density functional theory (DFT) to predict the equilibrium morphologies of rock salt (RS), zinc blende (ZB), and wurtzite (WZ) MnS NCs as a function of the relative chemical potential of sulfur, $Δμ_{S}$. Benchmarking against Heyd$\\unicode{x2013}$Scuseria$\\unicode{x2013}$Ernzerhof (HSE06) hybrid functional calculations reveals that the r$^2$SCAN meta-generalized gradient approximation reproduces experimental lattice constants and thermochemical reaction energies but underestimates S-terminated polar surface energies by up to a factor of five; applying a Hubbard $U$ correction (r$^2$SCAN+$U$, $U = 2.7$ eV) to the Mn 3d states brings the results into close agreement with HSE06. Using the validated r$^2$SCAN+$U$ framework with the Gibbs$\\unicode{x2013}$Wulff theorem, we predict that RS-MnS NCs favor nanocubes across nearly the entire stability window, ZB-MnS NCs transform from rhombic dodecahedra (Mn-rich) to polyhedra with 16 triangular faces (S-rich), and WZ-MnS NCs adopt rod-like morphologies with $Δμ_{S}$-sensitive base truncation. Synthesized RS-MnS NCs confirm the predicted cubic morphology, and high-temperature oxidative solution calorimetry yields an apparent surface energy of 1.15 $\\pm$ 0.38 J$\\cdot$m$^{-2}$, higher than the theoretical equilibrium value (0.42$\\unicode{x2013}$0.43 J$\\cdot$m$^{-2}$) due to high-index facet exposure, surface area uncertainty, and non-ideal surface configurations in real samples. This work establishes a framework for predicting the equilibrium morphologies of metal chalcogenide NCs.",
+  "authors": [
+   "Junchi Chen",
+   "Tamilarasan Subramani",
+   "Deep Mekan",
+   "Danielle Gendler",
+   "Ray Yang",
+   "Manish Kumar",
+   "Megan Householder",
+   "Alexis Rosado Ortiz",
+   "Emil A. Hernandez-Pagan",
+   "Kristina Lilova",
+   "Robert B. Wexler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.chem-ph"
+  ],
+  "comment": "The abstract was truncated at the end to meet the length requirement for submission; 36 pages with 10 figures in the main text; 38 pages with 12 figures in the supplementary information",
+  "first_author": "Junchi Chen",
+  "pdf_url": "http://arxiv.org/pdf/2603.05420",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-05",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-03-05"
+ },
  "2603.06446": {
   "abstract": "The optical response of two-dimensional materials is often significantly impacted by excitonic effects due to the reduced screening of attractive Coulomb interactions in low-dimensional systems. Accurate modeling of exciton formation and real-time dynamics is essential to understanding their ultrafast optical properties. In this study, we theoretically investigate the exciton dynamics in a two-dimensional hexagonal boron nitride (h-BN) and a germanium sulfide (GeS) monolayers exposed to an ultrashort laser pulse. We analyze the system's response to the external field in one- and two-photon excitation regimes. For our calculations, we combine a state-of-the-art ab initio approach to study exciton dynamics with a highly precise numerical scheme. We incorporate electron-hole interactions through a non-local self-energy operator derived from the many-body perturbation theory (MBPT) within the time-dependent adiabatic $GW$ (TD-a$GW$) approximation. We implement this approach using the full-electron LAPW+lo method in the all-electron exciting package. Our results elucidate the role of many-body effects in shaping ultrafast excitonic processes in two-dimensional materials, contributing to the fundamental understanding necessary for optoelectronic and photonic applications.",
   "authors": [
@@ -111,9 +179,68 @@
   ],
   "title": "Real-time exciton dynamics in two-dimensional materials under ultrashort laser pulses",
   "topics": [
-   "CO2 Reduction and Formate"
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides",
+   "CO2 Reduction and Formate",
+   "Sulfidation and Phase Stability"
   ],
   "updated": "2026-03-06"
+ },
+ "2603.11733": {
+  "abstract": "The structural, electronic, optical and transport properties of X3NbY4(X= Cu, Ag, Au; Y=S, Se, Te) sulvanite chalcogenides materials have been investigated using the Full Potential Linear Augmented Plane wave (FP-LAPW) within the density functional theory (DFT). The calculated structural information of X3NbY4 compounds is consistent with reported results of the same family compounds. The electronic band diagram exhibit indirect type band structures with bandgap value in the range of Eg 1.65- 0.50 eV using PBE-GGA functional and 1.80 eV-1.18 eV using TB-mBJ functional which indicates that these are semiconductor materials. The density of states (DOS) shows that the amount of bandgap decreases owing to move of valence band maximum (VBM) to the high energy level whereas the conduction band minimum (CBM) to the low energy level owing to the replacement of S-S-Te and Cu-Ag-Au atoms. The hybridized orbital by X-d, Nb-d and Y-p atomic orbitals dominate the VBM while hybridized by Nb-d and Y-p atomic orbitals mainly contribute the CBM. The elastic calculations exhibit that Cu-based materials have brittleness nature whereas Ag- and Au-based compounds are ductile nature. Furthermore, the phonon dispersion curves probes that these X3NbY4 compounds are dynamically stable. However, the calculated optical properties: dielectric function, absorption coefficient, refractive index, and energy loss function; specifically, the higher value of absorption coefficient (105 cm-1) indicates that these materials are attractive candidates in optoelectronics applications. Finally, thermoelectric parameters such as Seebeck coefficient, thermal conductivity, electrical conductivity, power factor (P.F) and ZT value of these compounds have also been investigated. Overall, the finding explores that these materials are potential candidates for the applications in optoelectronic and thermoelectric devices.",
+  "authors": [
+   "Sadeya Sabnam Emo",
+   "Md. Sharear Aman",
+   "Md. Abdur Rashid",
+   "Jaker Hossain"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "34 Pages, 11 Figures, 4 Tables",
+  "first_author": "Sadeya Sabnam Emo",
+  "pdf_url": "http://arxiv.org/pdf/2603.11733",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-12",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "First-principles insights into the optoelectronic and thermoelectric properties of X3NbY4(X= Cu, Ag, Au; Y=S, Se, Te) sulvanite compounds for energy applications",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2026-03-12"
+ },
+ "2603.11878": {
+  "abstract": "Coherent interactions between time-periodic electromagnetic fields and materials offer a powerful platform for engineering light-matter hybrid Floquet states with tailored functionalities. In particular, the ability to manipulate the wavefunction symmetry of such Floquet states has recently emerged as a new frontier in the field of nonequilibrium control of quantum materials. Here, we investigate symmetry-driven Floquet engineering in bulk multivalley semiconductor tin sulfide (SnS) using time-, polarization-, and angle-resolved extreme ultraviolet photoemission spectroscopy, group-theory analysis, and time-dependent density functional theory. We demonstrate that the material's inherent symmetry gives rise to pronounced symmetry-driven photoemission selection rules for both equilibrium bands and light-induced Floquet states, which we probed through nonequilibrium linear dichroism in extreme ultraviolet photoemission. By leveraging the interplay between crystal and driving-light symmetry, we establish deterministic control over the parity of Floquet--Bloch states. Indeed, we show that the symmetry of Floquet--Bloch states can be fully controlled by the relative alignment between the drive polarization and the crystal axes, enabling selective parity inversion with respect to the equilibrium valence and conduction bands. Furthermore, we show that symmetry-driven parity engineering allows for polarization- and valley-selective band renormalization. These findings advance the understanding of guiding principles for wavefunction symmetry engineering, providing pathways for selectively controlling both the parity and renormalization of electronic states in quantum materials using tailored electromagnetic fields.",
+  "authors": [
+   "Sotirios Fragkos",
+   "Benshu Fan",
+   "Umberto De Giovannini",
+   "Dominique Descamps",
+   "Stéphane Petit",
+   "Hannes Hübener",
+   "Angel Rubio",
+   "Samuel Beaulieu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sotirios Fragkos",
+  "pdf_url": "http://arxiv.org/pdf/2603.11878",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-12",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Symmetry-Driven Floquet Engineering in Multivalley SnS",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-03-12"
  },
  "2603.13021": {
   "abstract": "Electrohydrodynamic flows of weak electrolytes at the nanoscale are significantly influenced by the molecular structure of water-like polar solvents within the electric double layer (EDL). Moreover, unlike in microfluidics, at these length scales the time scale of evolution of EDL often becomes comparable to the consequent fluidic phenomena of interest. While continuum descriptions to model such phenomena typically assume a constant dielectric and viscous solvent background, this study incorporates dipolar solvent physics, specifically both dielectric saturation and the viscoelectric effect together, into a Poisson-Nernst-Planck-Stokes (PNP-S) framework, using the Langevin-Bikerman solvent permittivity distribution and empirical viscoelectric coefficients, respectively. Numerical simulations in a one-dimensional geometry reveal substantial modifications to the electrohydrodynamic body force density and transient electroosmotic mobility during EDL evolution. The magnitude and temporal evolution of these corrections are characterized across parametric regimes, revealing systematic departures from standard constant-permittivity and constant-viscosity models, with electroosmotic mobility reductions of up to 50% governed by a characteristic dimensionless parameter. The results provide a solvent-consistent continuum framework for transient nanoscale electroosmotic flows and quantify the impact of molecular solvent structure on electrohydrodynamic transport relevant to modern nanofluidic applications.",
@@ -164,6 +291,60 @@
   ],
   "updated": "2026-03-16"
  },
+ "2603.15846": {
+  "abstract": "Achieving chemical accuracy for molecular simulations remains a central challenge in computational chemistry. Here, we present an embedded correlated wavefunction transfer learning (ECW-TL) framework for accurately simulating molecular dynamics in the condensed phase. ECW-TL incorporates high-level electron exchange and correlation effects in ECW theory while preserving training and computational efficiency of machine learned interatomic potentials. We demonstrate the framework on Ca2+-CO32- ion pairing in aqueous solution, a key process underlying CO2 mineralization in seawater. As proof of principle, we first show that finetuning a DFT-revPBE-D3(BJ) baseline model with embedded-DFT-SCAN data reproduces the DFT-SCAN free-energy surface within 1 kcal/mol across all solvation states. Extending the framework to embedded MP2 and localized natural-orbital CCSD(T) further refines the free-energy profile, revealing the crucial role of exact electron exchange and correlation in determining ion-pair stability and structure. ECW-TL thus provides a general, data-efficient route for transferring CW accuracy to large-scale simulations of complex aqueous and interfacial chemical processes.",
+  "authors": [
+   "Xuezhi Bian",
+   "Emily A. Carter"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "Submitted to Journal of Chemical Theory and Computation on March 3, 2026",
+  "first_author": "Xuezhi Bian",
+  "pdf_url": "http://arxiv.org/pdf/2603.15846",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-03-16",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "surface-science"
+  ],
+  "title": "Transfer Learning Meets Embedded Correlated Wavefunction Theory for Chemically Accurate Molecular Simulations: Application to Calcium Carbonate Ion-Pairing",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides"
+  ],
+  "updated": "2026-03-16"
+ },
+ "2603.17868": {
+  "abstract": "Metal chalcogenides are promising layered topological materials, yet their electronic performance is often limited by parasitic bulk conduction arising from defects that introduce excess carriers and shift the Fermi level out of the topological regime. Controlling early-stage growth and defect formation is therefore essential for suppressing bulk transport and enhancing surface-state conduction. Here we investigate ultrathin Bi2Te3 films grown by pulsed laser deposition on substrates spanning van der Waals, lattice-matched, and amorphous regimes to determine how substrate-dependent nucleation pathways influence defect formation and electronic transport.   Phase-pure, c-axis-oriented Bi2Te3 forms on all substrates, but the growth morphology varies strongly. Layered growth with well-defined quintuple-layer terraces is governed primarily by substrate roughness rather than lattice match: atomically smooth mica and step-terraced SrTiO3 yield continuous terraces, whereas rougher BaF2 and amorphous Si3N4 produce island-structured films. Between the two smooth substrates, the higher surface energy of SrTiO3 enhances adatom adsorption and nucleation density, promoting rapid vertical growth and early Te depletion.   Transport measurements reveal n-type conduction with carrier densities of 10e19-10e20 cm-3. The highest carrier density occurs for films on SrTiO3, consistent with defect formation during high-density nucleation, whereas mobility correlates with structural coherence and terrace formation. Weak anti-localization signatures confirm phase-coherent transport in films on mica and SrTiO3. These results show that substrate roughness and nucleation density provide key levers for controlling defect formation and strengthening topological surface transport in Bi2Te3 thin films.",
+  "authors": [
+   "Damian Brzozowski",
+   "Sander R. Hønnås",
+   "Egil Y. Tokle",
+   "Jørgen A. Arnesen",
+   "Ingrid G. Hallsteinsen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Damian Brzozowski",
+  "pdf_url": "http://arxiv.org/pdf/2603.17868",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-18",
+  "tags": [
+   "adsorption",
+   "chalcogenides",
+   "surface-science"
+  ],
+  "title": "Substrate-controlled nucleation and growth kinetics in ultrathin Bi$_2$Te$_3$ films",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-03-18"
+ },
  "2603.21827": {
   "abstract": "Ion channels regulate many essential properties of biological cells, especially the membrane potential. Despite decades of efforts on artificial channels, it remains a great challenge to mimic the dipole potential-an indispensable constituent of the membrane potential, due to its angstrom-scale characteristic length. Here, we explore nanopores in monolayer molybdenum sulfide selenide (MoSSe) considering its intrinsic dipole and atomic thickness. Remarkably, an invariant ionic conductance was observed over salt concentrations spanning six orders of magnitude, distinct from all known conductance-concentration scaling laws and reminiscent of the current saturation in cell membranes at high concentrations. Molecular dynamics simulations revealed the fundamental role of the dipole-modulated dielectric properties of nanoconfined water. Our findings highlight an exotic conductance scaling law and open up a novel avenue for controlling ion transport in unprecedented ways.",
   "authors": [
@@ -197,9 +378,40 @@
   ],
   "title": "Invariant ionic conductance in an atomically thin polar nanopore",
   "topics": [
-   "Ion Transport, Gradients, and Membranes"
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides",
+   "Ion Transport, Gradients, and Membranes",
+   "Sulfidation and Phase Stability"
   ],
   "updated": "2026-03-23"
+ },
+ "2603.23029": {
+  "abstract": "High-entropy alloys (HEAs) and their two-dimensional counterparts (2D-HEAs) have recently attracted attention due to their tunable properties and catalytic potential, yet their chemical complexity makes direct density functional theory (DFT) calculations computationally prohibitive. The complexity also makes training of machine-learning interatomic potentials (MLIPs) challenging, but this could possibly be overcome by employing universal MLIPs as starting point. In this work, we investigate the applicability of universal MLIP models for 2D transition metal sulfide HEAs and develop effective fine-tuning strategies. Training structures are systematically generated and selected, and the performance of universal and fine-tuned models are benchmarked against DFT. We find that all universal MLIPs employed in this work yield unsatisfactory mixing energies without fine-tuning. Applied to the experimentally synthesized (Mo,Ta,Nb,W,V)S$_2$ system, fine-tuned models based on enumerated structures can achieve near-DFT accuracy in predicting mixing energies while enabling Monte-Carlo simulations and random structure sampling at scales inaccessible to DFT.",
+  "authors": [
+   "Chun Zhou",
+   "Hannu-Pekka Komsa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Chun Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2603.23029",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-24",
+  "tags": [
+   "density-functional-theory",
+   "mlip",
+   "transition-metal-sulfides"
+  ],
+  "title": "Fine-tuning of universal machine-learning interatomic potentials for 2D high-entropy alloys",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-03-24"
  },
  "2603.29342": {
   "abstract": "Recent work investigated graphene's hydrogenation with independent control of the electric field, E, and charge density, n, in the crystal and showed that the process is controlled by n. Here, we demonstrate layer-selective conductor-insulator transitions in twisted bilayer graphene, driven by hydrogenation at fixed n under strong E. This process is accompanied by proton transport through the bilayer, enabling several parallel and configurable logic gates in the devices. Selectivity arises because the large twist angle decouples the two layers' electronic systems, enabling independent control of their charge densities. Polarisation by the field then induces a charge imbalance at fixed total n, triggering hydrogenation when one of the layers' charge densities reaches the threshold for monolayer hydrogenation. Our results introduce a new type of electrode-electrolyte interface in which electrochemical processes are controlled with two decoupled 2D electron gases, opening new design opportunities for energy and information processing devices.",

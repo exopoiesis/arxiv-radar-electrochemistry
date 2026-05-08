@@ -52,5 +52,55 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2024-10-11"
+ },
+ "2410.10560": {
+  "abstract": "Antimony sulfide (Sb2S3) is a promising candidate as an absorber layer for single-junction solar cells and the top subcell in tandem solar cells. However, the power conversion efficiency of Sb2S3-based solar cells has remained stagnant over the past decade, largely due to trap-assisted non-radiative recombination. Here we assess the trap-limited conversion efficiency of Sb2S3 by investigating non-radiative carrier capture rates for intrinsic point defects using first-principles calculations and Sah-Shockley statistics. Our results show that sulfur vacancies act as effective recombination centers, limiting the maximum efficiency of Sb2S3 to 16% light to electricity. The equilibrium concentrations of sulfur vacancies remain relatively high regardless of growth conditions, indicating the intrinsic limitations imposed by these vacancies on the performance of Sb2S3.",
+  "authors": [
+   "Xinwei Wang",
+   "Seán R. Kavanagh",
+   "Aron Walsh"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Xinwei Wang",
+  "pdf_url": "http://arxiv.org/pdf/2410.10560",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-10-14",
+  "tags": [
+   "ab-initio",
+   "vacancies"
+  ],
+  "title": "Sulfur Vacancies Limit the Open-circuit Voltage of Sb2S3 Solar Cells",
+  "topics": [
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2024-10-14"
+ },
+ "2410.11138": {
+  "abstract": "We review sulfur chemistry of the gas giant planets and their moons where sulfur compounds are observed. The major S-bearing gas in the upper atmospheres of the giant planets is H2S and is removed from their observable atmospheres by condensation into cloud layers (NH4SH on all four planets and additionally H2S ice on Uranus and Neptune). Any remaining H2S at higher altitudes is destroyed photochemically. Among the moons Io is the world dominated by sulfur. We summarize the sulfur cycle on Io and how pyrovolcanism is spreading sulfur across the Jovian system. Implantation of sulfur into icy surfaces of the other Galilean moons via magnetospheric transfer and radiolysis are major processes affecting the sulfur chemistry on their icy surfaces. On the icy worlds, we are literally looking at the top of the icebergs. Subsurface liquid salty bodies reveal themselves through cryovolcanism on Europa, Ganymede, and Enceladus, where salt deposits are indicated. Subsurface oceans are suspected on several other moons. We summarize the sulfur cycle for the icy Galilean moons. The occurrence of sulfates can be explained by salt exchange reactions of radiolytically produced H2SO4 with brine salts (carbonates and halides), or from a subsurface ocean that has become acidified by uptake of H2SO4 leaked from ice. In the primordial oceans of the moons that accreted with high ice rock ratios, sulfur is expected as sulfide and bisulfide anions and H2S in aqueous solution. Cosmochemical constraints suggest that pyrrhotite, tochilinite and green rusts could be important sulfide bearing compounds found with hydrous silicates such as serpentine, and magnetite on the sea floors. In N-C-rich worlds such as Titan, sulfides such as NH4SH and possibly thiazyl compounds could be important, and sulfates are unstable. Nothing is known about the sulfur chemistry on the Uranian and Neptunian moons.",
+  "authors": [
+   "Katharina Lodders",
+   "Bruce Fegley"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Preprint of chapter for \"The Role of Sulfur in Planetary Processes: from Atmospheres to Cores\", D. Harlov and G. Pokrovsky (Eds.), Springer Geochemistry. 64 pages, including 4 tables and 3 figures",
+  "first_author": "Katharina Lodders",
+  "pdf_url": "http://arxiv.org/pdf/2410.11138",
+  "primary_category": "astro-ph.EP",
+  "published": "2024-10-14",
+  "tags": [
+   "pyrrhotite",
+   "surface-science"
+  ],
+  "title": "Sulfur in the Giant Planets, their Moons, and Extrasolar Gas Giant Planets",
+  "topics": [
+   "Fe-Ni-S Mineral Surfaces",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2024-10-14"
  }
 }

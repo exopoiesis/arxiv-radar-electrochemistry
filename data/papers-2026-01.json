@@ -30,6 +30,69 @@
   ],
   "updated": "2026-01-30"
  },
+ "2509.13477": {
+  "abstract": "Understanding the moisture stability of oxide Li-ion conductors is important for their practical applications in solid-state batteries. Unlike sulfide or halide conductors, oxide conductors generally better resist degradation when in contact with water, but can still undergo topotactic \\ch{Li+}/\\ch{H+} exchange (LHX). Here, we combine density functional theory (DFT) calculations with a machine-learning interatomic potential model to investigate the thermodynamic driving force of the LHX reaction for two representative oxide Li-ion conductor families: garnets and NASICONs. Li-stuffed garnets exhibit a strong driving force for proton exchange due to their high Li chemical potential. In contrast, NASICONs demonstrate a higher resistance against proton exchange due to the lower Li chemical potential and the lower O-H bond covalency for polyanion-bonded oxygens. Our findings reveal a critical trade-off: Li stuffing enhances conductivity but increases moisture susceptibility. This study underscores the importance of designing Li-ion conductors that possess both high conductivity and high stability in practical environments.",
+  "authors": [
+   "Zhuohan Li",
+   "Benjamin X. Lam",
+   "Shilong Wang",
+   "Gerbrand Ceder"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhuohan Li",
+  "pdf_url": "http://arxiv.org/pdf/2509.13477",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-09-16",
+  "tags": [
+   "density-functional-theory",
+   "mlip"
+  ],
+  "title": "Li+/H+ exchange in solid-state oxide Li-ion conductors",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides",
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-01-07"
+ },
+ "2601.04952": {
+  "abstract": "We use first-principles density functional theory to investigate how lithium sulfide and polysulfide clusters (Li2S, Li2S2, Li2S4, Li2S6, Li2S8, and S8) bind to Goldene, a new two-dimensional gold allotrope. All Li-S species exhibit robust binding to Goldene. The adsorption energies range from -4.29 to -1.90 eV. S8 that is alone interacts much less strongly. Charge density difference and Bader analyses indicate that substantial charge is transferred to the substrate, with a maximum 0.92 e for Li-rich clusters. This transfer induces polarization at the interface and shifts the work function to 5.30-5.52 eV. Projected density-of-states calculations indicate that Au-d and S-p states strongly mix near the Fermi level. This hybridization indicates that the electronic coupling is strong. Based on these results, the reaction free-energy profile for the stepwise conversion of S8 to Li2S on Goldene is thermodynamically favorable. The overall stabilization is -3.64 eV, and the rate-determining barrier for the Li2S2 -> Li2S step is 0.47 eV. This shows that Goldene is an effective surface for anchoring and mediating lithium polysulfide reactions.",
+  "authors": [
+   "Nicolas F. Martins",
+   "José A. dos S. Laranjeira",
+   "Bill D. A. Huacarpuma",
+   "Kleuton A. L. Lima",
+   "Luiz A. Ribeiro",
+   "Julio R. Sambrano"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "14 pages, 8 figures",
+  "first_author": "Nicolas F. Martins",
+  "pdf_url": "http://arxiv.org/pdf/2601.04952",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-01-08",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Goldene monolayer as a highly effective catalyst for polysulfide anchoring and conversion: A theoretical study",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-01-08"
+ },
  "2601.08385": {
   "abstract": "Accurate identification of chemical species and reaction pathways from molecular dynamics (MD) trajectories is a prerequisite for deriving predictive chemical-kinetic models and for mechanistic discovery in reactive systems. However, state-of-the-art trajectory analysis methods infer bonding from instantaneous distance thresholds, which can misclassify transient, nonreactive encounters as bonds and thereby introduce spurious intermediates, distorted reaction networks, and biased rate estimates. Here, we introduce ChemXDyn, a dynamics-aware computational methodology that leverages time-resolved interatomic distance signatures as a core principle to robustly identify chemically consistent bonded interactions and, consequently, extract meaningful reaction pathways. In particular, ChemXDyn propagates molecular connectivity through time while enforcing atomic valence and coordination constraints to distinguish genuine bond-breaking and bond-forming events from transient, nonreactive encounters. We evaluate ChemXDyn on ReaxFF MD simulations of hydrogen and ammonia oxidation and on neural-network potential MD simulations of methane oxidation, and benchmark its performance against widely used trajectory analysis methods. Across these cases, ChemXDyn suppresses unphysical species prevalent in static analyses, recovers experimentally consistent reaction pathways, and improves the fidelity of rate constant estimation. In ammonia oxidation, ChemXDyn removes unphysical intermediates and resolves key NOx- and N2O-forming and -consuming routes. In methane oxidation, it reconstructs the canonical progression from CH4 to CO2. By linking atomistic dynamics to chemically consistent reaction identification, ChemXDyn provides a transferable foundation for MD-derived reaction networks and kinetics, with potential utility spanning combustion, catalysis, plasma chemistry, and electrochemical environments.",
   "authors": [
@@ -57,6 +120,38 @@
    "Redox and Autocatalytic Electrochemical Networks"
   ],
   "updated": "2026-01-13"
+ },
+ "2601.12588": {
+  "abstract": "Indium selenide (In$_2$Se$_3$) has garnered significant attention for its intriguing properties and applications in batteries, solar cells, photodetectors and ferroelectric devices. However, the controlled synthesis of single phase $α$-In$_2$Se$_3$ remains challenging owing to its complex phase diagram, presence of multiple polymorphs and the high volatility of selenium that induces non-stoichiometry and unintentional carrier doping. For ferroelectric α-In2Se3, minimizing the carrier density is essential because leakage current can obscure polarization switching. Here, we report the growth of $α$-In$_2$Se$_3$ single crystals using a unique approach, the Se-flux assisted modified vertical Bridgman technique combined with liquid encapsulation under high pressure. This approach creates a high-pressure, Se-rich environment that effectively minimizes Se-vaporization. Structural and compositional analysis using X-ray diffraction, transmission electron microscopy and energy-dispersive X-ray spectroscopy confirm the formation of pure $α$-In$_2$Se$_3$ single crystals with 3R stacking. Furthermore, the crystals exhibit remarkably low carrier density of 1.5-3.2 $\\times$ 10$^{16}$ cm$^{-3}$ at 300K$-$the lowest reported to date, reflecting a significant suppression of Se-vacancies relative to the conventional Bridgman or melt-grown crystals. Through transport and ARPES measurements on different batches of crystals, we also demonstrate that the amount of Se-flux plays a crucial role in controlling Se-vacancies. Our results thus establish this modified Bridgman method as an effective strategy for synthesizing large $α$-In$_2$Se$_3$ single crystals with reduced intrinsic defects. This technique can be broadly applied to grow other volatile chalcogenides with reduced defects and controlled stoichiometry.",
+  "authors": [
+   "Soumi Mondal",
+   "Sreekant Anil",
+   "Saurav Islam",
+   "Yingdong Guan",
+   "Sai Venkata Gayathri Ayyagari",
+   "Aaron Pearre",
+   "Sandra Santhosh",
+   "Nasim Alem",
+   "Nitin Samarth",
+   "Zhiqiang Mao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Soumi Mondal",
+  "pdf_url": "http://arxiv.org/pdf/2601.12588",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-01-18",
+  "tags": [
+   "chalcogenides",
+   "vacancies"
+  ],
+  "title": "Successful growth of low carrier density $α$-In$_2$Se$_3$ single crystals using Se-flux in a modified Bridgman furnace",
+  "topics": [
+   "Adsorption and Ion Transport"
+  ],
+  "updated": "2026-01-18"
  },
  "2601.13803": {
   "abstract": "Compositionally complex solid solutions (CCSSs) consist of a randomly mixed single phase with the potential to enhance electrocatalytic activity through their polyelemental surface atom arrangements. However, microstructural complexity originating from multiple principal elements influences local structure, chemistry, and lattice strain, which might also affect electrocatalytic activity. Here, we investigate the effect of Ru content on electrochemistry and defect formation in Au-Pd-Pt-Ru CCSS thin films. Such defects could provide active sites when terminating at the CCSS surface or modify surface composition through preferential segregation. A thin-film material library covering a wide composition range was fabricated by room-temperature combinatorial co-sputtering. High-throughput compositional, structural and functional characterization, including electron microscopy equipped with energy dispersive X-ray spectroscopy, X-ray diffraction, and electrochemical screening, were used to correlate composition and microstructural features with catalytic activity. Three representative compositions selected from the library - Au68Pd13Pt15Ru4, Au27Pd24Pt23Ru26, and Au9Pd21Pt18Ru52 - were examined in detail. The three samples exhibit face-centered cubic structures, with lattice contraction occurring with increasing Ru content. In addition, with increasing Ru content, a transition from a high density of nanotwins to high-density, atomic-layer stacking faults was observed. Moreover, the hydrogen evolution reaction activity improves with higher Ru content. Atom probe tomography reveals local compositional fluctuations, including element-specific enrichment and depletion at grain boundaries. The findings provide a new insight into surface atom arrangement design in the CCSS electrocatalysts with enhanced performance.",
@@ -115,5 +210,38 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2026-01-23"
+ },
+ "2601.21790": {
+  "abstract": "Transition-metal dichalcogenides of the pyrite-marcasite family are model systems of crystal chemistry. A few of these show polymorphism. The theoretical ground state of CoSe2 is marcasite, but the material is typically synthesized in the pyrite structure. Polymorphism has been observed in nanoparticles and synthetic control of the polymorphs of CoSe2 has not been achieved. We have synthesized material libraries of the Fe1-xCoxSe2 series by combining combinatorial deposition and ex-situ selenization. The approach allows to efficiently explore substitution ranges and crystal structures that form for different synthesis conditions. We find that higher levels of Co content x within the marcasite structure are possible when synthesizing at low temperatures. At a synthesis temperature of only 250° C, we have successfully synthesized marcasite CoSe2 as the majority phase. Density functional theory simulations reveal that the two isomorphs of CoSe2 are extremely close in energy and that the orthorhombic phase is the energetic ground state. Our experimental and theoretical data show that the marcasite structure is the equilibrium phase of Fe1-xCoxSe2 in the entire composition range.",
+  "authors": [
+   "Luqman Mustafa",
+   "Susanne Kunzmann",
+   "Martin Kostka",
+   "Jill Fortmann",
+   "Aurelija Mockute",
+   "Alan Savan",
+   "Alfred Ludwig",
+   "Anna Grünebohm",
+   "Andreas Kreyssig",
+   "Anna E. Böhmer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 7 figures",
+  "first_author": "Luqman Mustafa",
+  "pdf_url": "http://arxiv.org/pdf/2601.21790",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-01-29",
+  "tags": [
+   "density-functional-theory",
+   "marcasite",
+   "pyrite"
+  ],
+  "title": "Synthetic control over marcasite-pyrite polymorph formation in the Fe1-xCoxSe2 series",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2026-01-29"
  }
 }

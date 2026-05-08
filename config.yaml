@@ -1,14 +1,19 @@
 # arxiv-radar-electrochemistry configuration.
 #
-# Project-specific radar for Third Matter electrochemistry. Queries are narrow
-# enough to avoid generic battery/electrochemistry noise, while still covering
-# CO2 reduction, sulfide electrocatalysts, electrochemical interfaces, pH
-# gradients, membranes, and redox-network papers.
+# Curated arXiv radar covering electrochemistry, mineral / sulfide surface
+# chemistry, geochemistry, aqueous interfaces, and prebiotic mineral
+# catalysis. Originally narrow-electrochemistry; expanded 2026-05-08 to
+# absorb the (now-deprecated) arxiv-radar-sulfide-materials feed and
+# add geochemistry + aqueous chem-physics coverage.
+#
+# Queries are narrow enough to avoid generic battery / generic-chemistry
+# noise — RAW: AND-conditions are used wherever a greedy keyword could
+# pull non-relevant ML/chem papers.
 
 project:
   name: arxiv-radar-electrochemistry
-  title: Third Matter Electrochemistry arXiv Radar
-  description: Curated arXiv papers on project-relevant electrochemistry, CO2 reduction, sulfide electrocatalysis, interfaces, gradients, and membranes.
+  title: Electrochemistry & Mineral Surfaces arXiv Radar
+  description: Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
   github_owner: exopoiesis
   github_repo: arxiv-radar-electrochemistry
   pages_url: https://exopoiesis.github.io/arxiv-radar-electrochemistry/
@@ -16,6 +21,7 @@ project:
 relevance_filter:
   enabled: true
   direct_patterns:
+    # Original electrochem core
     - CO2\s+electroreduction
     - carbon\s+dioxide\s+reduction
     - CO2RR
@@ -32,6 +38,40 @@ relevance_filter:
     - pH\s+gradient
     - electrochemical\s+membrane
     - redox\s+network
+    # Extended 2026-05-08 — minerals (merged from sulfide-materials)
+    - pyrrhotite
+    - millerite
+    - marcasite
+    - chalcopyrite
+    - Fe[-\s]?Ni[-\s]?S
+    - chalcogenide\s+surface
+    - mineral\s+surface\w*
+    # Extended 2026-05-08 — geochemistry
+    - hydrothermal\s+vent
+    - hydrothermal\s+alteration
+    - alkaline\s+vent
+    - serpentinization
+    - serpentinisation
+    - ore\s+deposit
+    - mineral[-\s]?water\s+interface
+    - silicate\s+weathering
+    # Extended 2026-05-08 — prebiotic / origin-of-life
+    - prebiotic\s+chemistry
+    - origin\s+of\s+life
+    - origins\s+of\s+life
+    - mineral\s+catalysis
+    - "\\[4Fe-4S\\]"
+    - "\\[2Fe-2S\\]"
+    - FeMoco
+    - Wood-Ljungdahl
+    - reductive\s+acetyl-CoA
+    - rTCA
+    - reverse\s+TCA
+    # Extended 2026-05-08 — aqueous chem-physics interface
+    - solvation\s+free\s+energy
+    - hydration\s+free\s+energy
+    - electrolyte\s+structure
+    - polarizable\s+water
   method_patterns:
     - electrochem\w*
     - electrocatal\w*
@@ -39,13 +79,25 @@ relevance_filter:
     - catalyst\w*
     - density\s+functional\s+theory
     - \bDFT\b
+    - DFT\+U
     - ab\s+initio
     - molecular\s+dynamics
+    - \bAIMD\b
     - microkinetic\w*
     - impedance
     - EIS
     - flow\s+cell\w*
     - membrane\s+reactor\w*
+    # Extended 2026-05-08 — atomistic methods
+    - nudged\s+elastic\s+band
+    - \bNEB\b
+    - machine\s+learning\s+potential\w*
+    - interatomic\s+potential\w*
+    - \bMLIP\b
+    - \bMACE\b
+    - CHGNet
+    - M3GNet
+    - active\s+learning
   domain_patterns:
     - CO2
     - carbon\s+dioxide
@@ -58,9 +110,19 @@ relevance_filter:
     - chalcogenide\w*
     - Fe[-\s]?Ni[-\s]?S
     - proton\s+transport
+    - proton\s+diffusion
     - hydroxide\s+transport
     - pH\s+gradient
     - redox\s+cycle
+    # Extended 2026-05-08
+    - mineral\w*
+    - hydrothermal\w*
+    - prebiotic\w*
+    - geochemistry
+    - geochemical
+    - origin\s+of\s+life
+    - autocatalytic
+    - autocatalysis
 
 keywords:
   "CO2 Reduction and Formate":
@@ -100,3 +162,57 @@ keywords:
       - "autocatalytic electrochemistry"
       - "dissipative electrochemical system"
       - 'RAW:(redox OR autocatalytic OR "reaction network" OR "chemical reaction network" OR dissipative) AND (electrochemical OR electrode OR faradaic OR "redox cycle")'
+
+  # === Topical buckets added 2026-05-08 (merged from sulfide-materials + geochem expansion) ===
+
+  "Mineral Surfaces and Geochemistry":
+    filters:
+      - "mineral surface"
+      - "mineral-water interface"
+      - "hydrothermal alteration"
+      - "silicate weathering"
+      - "serpentinization"
+      - 'RAW:(mackinawite OR pentlandite OR greigite OR violarite OR pyrite OR pyrrhotite OR millerite OR marcasite OR chalcopyrite OR "iron sulfide" OR "nickel sulfide" OR "Fe-Ni-S") AND (surface OR adsorption OR defect OR vacancy OR reconstruction OR "mineral surface")'
+      - 'RAW:(weathering OR "mineral dissolution" OR "dissolution kinetics" OR hydrothermal OR serpentinization OR "ore deposit" OR biogeochemistry OR "marine chemistry" OR "ocean acidification") AND (mineral OR rock OR sulfide OR silicate OR carbonate OR oxide)'
+
+  "Atomistic Modeling of Sulfides and Minerals":
+    filters:
+      - "DFT sulfide surface"
+      - "DFT+U sulfide"
+      - "ab initio sulfide"
+      - "AIMD sulfide"
+      - "nudged elastic band sulfide"
+      - 'RAW:("density functional theory" OR DFT OR "DFT+U" OR "ab initio" OR AIMD OR "molecular dynamics" OR "nudged elastic band" OR NEB OR "transition state") AND (sulfide OR chalcogenide OR mineral OR mackinawite OR pentlandite OR greigite OR pyrite OR pyrrhotite OR "iron sulfide" OR "nickel sulfide")'
+
+  "Machine-Learned Potentials for Sulfides and Minerals":
+    filters:
+      - "machine learning potential sulfide"
+      - "interatomic potential mineral"
+      - "MACE sulfide"
+      - "CHGNet mineral"
+      - 'RAW:("machine learning potential" OR "machine-learned potential" OR "interatomic potential" OR MLIP OR MACE OR CHGNet OR M3GNet OR "active learning") AND (sulfide OR chalcogenide OR mineral OR "iron sulfide" OR "nickel sulfide" OR oxide)'
+
+  "Sulfidation, Phase Stability, and Corrosion":
+    filters:
+      - "sulfidation phase stability"
+      - "sulfide phase transition"
+      - "sulfide defect formation"
+      - "surface oxidation sulfide"
+      - 'RAW:(sulfidation OR corrosion OR passivation OR "phase stability" OR "phase transition" OR "surface oxidation" OR "defect formation") AND (sulfide OR chalcogenide OR pentlandite OR mackinawite OR pyrite OR "Fe-Ni-S")'
+
+  "Aqueous Chemistry and Solvation":
+    filters:
+      - "solvation free energy"
+      - "hydration free energy"
+      - "explicit solvation interface"
+      - "polarizable water model"
+      - 'RAW:("solvation free energy" OR "hydration shell" OR "ion-water interaction" OR "ion pairing" OR "electrolyte structure" OR "polarizable water" OR "hydration free energy") AND (electrochemical OR electrode OR "metal surface" OR sulfide OR mineral OR catalyst OR interface)'
+
+  "Origin of Life and Prebiotic Mineral Catalysis":
+    filters:
+      - "iron sulfide origin of life"
+      - "metal sulfide prebiotic chemistry"
+      - "alkaline hydrothermal vent"
+      - "Lost City"
+      - "FeMoco"
+      - 'RAW:("origin of life" OR "origins of life" OR prebiotic OR "hydrothermal vent" OR "alkaline vent" OR serpentinization OR "Lost City" OR "Wood-Ljungdahl" OR rTCA OR "reverse TCA" OR FeMoco OR "[4Fe-4S]" OR "[2Fe-2S]" OR "iron-sulfur cluster" OR "mineral catalysis" OR autocatalytic) AND ("iron sulfide" OR "metal sulfide" OR sulfide OR mineral OR mackinawite OR greigite OR pyrite OR pentlandite OR catalyst)'

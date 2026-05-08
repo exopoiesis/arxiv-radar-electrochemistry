@@ -86,6 +86,71 @@
   ],
   "updated": "2026-04-23"
  },
+ "2603.18468": {
+  "abstract": "Photonic computing using chalcogenide phase-change materials (PCMs) is under active development for energy-efficient artificial intelligence (AI) applications. A key requirement is to enable as many optically programmable levels per device as possible, while maintaining relatively low optical loss. In this work, we carry out multiscale simulations using density functional theory and finite-difference time-domain methods, proposing a \"the shorter the better\" strategy to optimize the performance of Sb2Te photonic waveguide devices. Our subsequent experimental characterizations of Sb2Te thin films and optical device measurements fully verify our theoretical predictions. In particular, we reveal the unconventional optical properties of metastable crystalline Sb2Te, and utilize these features for device design, yielding a simultaneous improvement in both the programming window and the optical loss. Overall, an optical programming precision exceeding 7-bit is achieved using a single waveguide cell, setting a new record for all-optical phase-change memory devices. Our work serves as a compelling example of computational material design, which demonstrates the predictive power of multiscale simulations in guiding the design of phase-change photonic devices for enhanced performance.",
+  "authors": [
+   "Hanyi Zhang",
+   "Wanting Ma",
+   "Wen Zhou",
+   "Xueqi Xing",
+   "Junying Zhang",
+   "Tiankuo Huang",
+   "Ding Xu",
+   "Xiaozhe Wang",
+   "Riccardo Mazzarello",
+   "En Ma",
+   "Jiang-Jing Wang",
+   "Wei Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages, 8 figures",
+  "first_author": "Hanyi Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2603.18468",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-03-19",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Multiscale simulations guided advances for all-optical phase-change waveguides",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2026-04-10"
+ },
+ "2604.03375": {
+  "abstract": "High-resolution X-ray spectroscopy provides a powerful probe of the interstellar medium (ISM), giving direct access to the composition and physical state of dust grains and atomic species in dense environments. We present a study of the gas and dust along the line of sight to the bright low-mass X-ray binary GX 340+0, which samples higher-density gases in the ISM. Using deep Chandra/HETG spectra, we characterize X-ray absorption fine structure from dust, gas absorption lines, and the optical depths of the Si, S, and Fe K-edges. By fitting these three edges simultaneously, we reduce degeneracies in the dust composition and find that amorphous olivine dominates the fractional contribution among the dust columns ($\\sim$65%), followed by metallic iron ($\\sim$19%), iron sulfides (pyrrhotite and troilite; $\\sim$10%), and fayalite ($\\sim$5%), with the remaining species contributing only a few percent in total. From the inferred stoichiometry, we estimate that $\\sim$74% of Fe is associated with silicates, $\\sim$8% with sulfides, and $\\sim$18% with metallic iron, suggesting that Fe is predominantly incorporated in iron rich silicate grains along this sightline. We detect S ii absorption and infer a sulfur dust fraction of $\\sim$35%. We also detect absorption structure near the Ca and Ar K edges, highlighting the need for improved atomic photoabsorption data. The Chandra/HETG spectral resolution remains essential to disentangle dust and gas contributions at the Si and S K edges, providing a benchmark for dust characterization in high-density regions in the ISM.",
+  "authors": [
+   "Daniele Rogantini",
+   "Claude Canizares",
+   "Elisa Costantini",
+   "Liyi Gu",
+   "Missagh Mehdipour",
+   "Ioanna Psaradaki",
+   "Norbert S. Schulz",
+   "Sascha T. Zeegers"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.HE"
+  ],
+  "comment": "13 pages, 5 Figures, Accepted for publication in ApJ",
+  "first_author": "Daniele Rogantini",
+  "pdf_url": "http://arxiv.org/pdf/2604.03375",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-04-03",
+  "tags": [
+   "iron-sulfides",
+   "pyrrhotite"
+  ],
+  "title": "Silicon, sulfur and iron in the interstellar medium: a high-resolution X-ray spectral study of GX 340+0",
+  "topics": [
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-04-03"
+ },
  "2604.04718": {
   "abstract": "With the increase in the complexity of the materials used in various sophisticated electronic devices, recycling of E-waste is becoming challenging. In the present study, we have converted thermoelectric (TE) waste into functional HER electrocatalyst by considering circular-economy and low-carbon approach. The as received TE waste was processed through ball milling (TE waste-BM) and melting casting (TE waste-M) routes. Morphological and structural evaluations revealed that the formation of BiSbTe3/ZnTe heterostructure in TE-waste-M promote HE efficiency when compared to the presence of Bi2Te3/BiSbTe3 heterostructure (TE-waste-BM). TE waste-M exhibited lower overpotential (641 mV at 10 mA/sq.cm), smaller Tafel slope (233 mV/dec) and stable operation for 5.5 h with negligible current decay than that of TE waste-BM, attributed to the accelerated charge transfer, fast water dissociation steps and rapid hydrogen adsorption in TE waste-M, originated from the presence of BiSbTe3/ZnTe heterostructure, defect enriched interfaces. Density functional theory calculations supported the experimental findings, revealing that heterostructures strengthens the bonding states near the Fermi level, thereby enhancing the HER activity of BiSbTe3/ZnTe heterostructure. This work simultaneously integrates waste management with green hydrogen production by offering an economically viable, scalable and low-carbon approach for HER catalysts.",
   "authors": [
@@ -118,6 +183,117 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2026-04-06"
+ },
+ "2604.05891": {
+  "abstract": "Sulfide chalcopyrite, Cu(In,Ga)S2, having wide bandgap (larger than 1.5 eV), favorable optoelectronic properties, and high stability, is a promising top-cell absorber for tandem applications. Adapting device structures optimized for 1.0 - 1.2 eV absorbers to wide bandgap absorbers requires modification of the buffer layer. This work investigates atomic layer deposition of ZnSnO as an alternative buffer layer to conventional CdS. A critical parameter for bufferperformance is the conduction band offsets on both sides of the buffer. To investigate these buffers we electrically characterize solar cells utilizing different compositions of ZnSnO. The Sn/(Sn+Zn) atomic ratio is controlled by the ratio of ZnO to SnO cycles during atomic layer deposition. Solar cells were fabricated utilizing CuInSe2, Cu(In,Ga)Se2, and Cu(In,Ga)S2 absorbers, allowing cross-comparison with a variety of conduction band minimum energies. Buffer variation has two primary effects on cell performance: 1. Low tin buffers decrease the activation energy of interface recombination, reducing open circuit voltage. These observations indicates a cliff, a decrease of the conduction band minimum from absorber to buffer. 2. High tin buffers reduce the fill factor for all measured cells, and reduce the short circuit current under certain conditions. This observation indicates an electron transport barrier, conduction band offsets which limit the transport of electrons across the buffer, in either direction. We conclude that tin content correlates positively with the conduction band minimum of these buffers. Comparing different absorbers, cliffs occurs at lower Sn contents and the effects of barriers are more dramatic for absorbers with lower conduction band minima.",
+  "authors": [
+   "Boaz Koren",
+   "Francesco Lodola",
+   "Zhuangyi Zhou",
+   "Trong Tien Le",
+   "Kulwinder Kaur",
+   "Simon Backes",
+   "Michele Melchiorre",
+   "Susanne Siebentritt"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Boaz Koren",
+  "pdf_url": "http://arxiv.org/pdf/2604.05891",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-07",
+  "tags": [
+   "chalcopyrite"
+  ],
+  "title": "ALD Zinc Tin Oxide Buffers for Chalcopyrite Solar Cells: Electrical Barriers and Conduction Band Cliffs",
+  "topics": [
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-04-07"
+ },
+ "2604.09864": {
+  "abstract": "Hybrid organic-inorganic materials enable systematic structural tuning through chemical modification of organic ligands. Predictive control, however, requires mechanistic understanding of how ligand chemistry and inorganic frameworks jointly determine structural motif selection. Metal-organic chalcogenides (MOCs), where metal-chalcogenide units are covalently bonded to organic ligands, offer an ideal platform in which ligand substitution directly alters crystal structure. Here, we investigate silver selenide-based MOCs with fluorinated phenyl ligands to elucidate governing interactions. Density functional theory with fragment-based energy analysis identifies ligand-ligand interactions as the primary energetic driver of motif selection. Symmetry-adapted perturbation theory further decomposes ligand-ligand interactions and shows that electrostatic interactions are decisive in selecting the preferred motif by selectively stabilizing specific packing arrangements. The results further show that ligand orientation controls the effectiveness of long-range electrostatic interactions, establishing a physically grounded design principle for directing structural motifs in MOCs through targeted control of ligand packing and electrostatics.",
+  "authors": [
+   "Md. Saiful Islam",
+   "Tomoaki Sakurada",
+   "Yeongsu Cho"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Md. Saiful Islam",
+  "pdf_url": "http://arxiv.org/pdf/2604.09864",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-10",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Structural Motif Selection in Fluorinated Metal-Organic Chalcogenides Driven by Ligand Electrostatics",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2026-04-10"
+ },
+ "2604.13768": {
+  "abstract": "Chalcogenide perovskites have emerged as promising lead free materials for photovoltaic and thermoelectric applications. Among them, BaZrS3 has attracted particular attention due to its thermal and chemical stability, favorable optoelectronic properties, and low thermal conductivity. Here, we combine molecular dynamics and Monte Carlo simulations based on machine learned interatomic potentials with scanning transmission electron microscopy to investigate mixing thermodynamics and phase stability in the BaZr(S,Se)3 system. We identify an unusual ordered structure that persists at room temperature, most prominently at 33% S, where S and Se atoms form alternating layers within the crystal. Free energy calculations yield the temperature composition phase diagram, including a nonperovskite delta phase in the Se rich limit and a perovskite phase in the S rich limit, separated by a broad two phase region. Analysis of the dielectric function and the absorption coefficient demonstrates that composition, crystal structure, and anion ordering jointly control the optical band gap. Selenium alloying enables tuning between approximately 1.6 and 1.9eV, while anion ordering within a given composition reduces the gap by about 0.12eV. Lastly, variations between structural polymorphs give rise to band gap differences of up to 0.4eV.",
+  "authors": [
+   "Erik Fransson",
+   "Michael Xu",
+   "Prakriti Kayastha",
+   "Kevin Ye",
+   "Ida Sadeghi",
+   "Rafael Jaramillo",
+   "James M. LeBeau",
+   "Lucy Whalley",
+   "Paul Erhart"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Erik Fransson",
+  "pdf_url": "http://arxiv.org/pdf/2604.13768",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-15",
+  "tags": [
+   "chalcogenides",
+   "molecular-dynamics",
+   "phase-stability"
+  ],
+  "title": "Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-04-15"
+ },
+ "2604.17380": {
+  "abstract": "In this review, from crystallographic symmetry to amorphous local polyhedra arrangement and combinations, we examine inorganic solid state electrolytes through the lens of structure property relationships, with oxides, sulfides, and halides representing three major framework chemistries. Halide solid electrolytes and their derivatives, including mixed anion halides and antiperovskite related materials, have expanded this landscape further by introducing new ways to regulate local coordination chemistry, defect populations, and transport active frameworks. Across these families, fast ion conduction depends not simply on composition or crystallographic diffusion pathways, but on the coupled effects of framework topology, site energy distribution, defect chemistry, bottleneck response, and local anion flexibility. Oxides illustrate transport within chemically robust but geometrically constrained frameworks. Sulfides demonstrate that a soft, easily polarizable lattice can broaden the array of low energy migration pathways. Halides occupy an intermediate state, in which the closely packed anion sublattices, an approximately degenerate lithium environment, and mixed anion coordination enable effective transport while simultaneously enhancing oxidation stability and compatibility with cathodes. Building on these comparisons, we argue that long range ion transport is increasingly understood not as motion along a single idealized pathway, but as the macroscopic outcome of statistically connected low barrier local migration events distributed across the structure. We further discuss the experimental and computational approaches required to establish such multiscale structure property relationships and outline future strategies for designing transport active frameworks in which conductivity, stability, and processability are optimized together.",
+  "authors": [
+   "Denys Butenko",
+   "Mustafa Khan",
+   "Liusuo Wu",
+   "Jinlong Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "46 pages, 6 figures reviews on solid electrolytes in amorphous and crystal forms",
+  "first_author": "Denys Butenko",
+  "pdf_url": "http://arxiv.org/pdf/2604.17380",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-04-19",
+  "tags": [],
+  "title": "Modern Solid Electrolytes for All-Solid-State Batteries: Materials Chemistry, Structure, and Transport",
+  "topics": [
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-04-19"
  },
  "2604.18417": {
   "abstract": "Methane (CH4) and nitrous oxide (N2O) are potent greenhouse gases that represent substantial chemical energy. Conversion of these abundant waste gases to high-value chemicals typically requires high temperatures up to 1000 C, producing substantial CO2 emissions and limited selectivity toward desirable multi-carbon products. Here we demonstrate a plasmonic photocatalyst that enables CH4 and N2O conversion under ambient conditions to form C2 and C3 hydrocarbons. By systematically tuning AuPd alloys on TiO2, we identify an optimal composition (AuPd0.05) where Au enhances light harvesting and Pd enables selective C-H activation and C-C coupling. Under visible-light illumination, this catalyst produces C2H4, C2H6, C3H6, and C3H8 with ~80% selectivity while suppressing CO2 formation. In-situ spectroscopy and hot-carrier calculations show that plasmon-generated carriers redistribute interfacial hydroxyl intermediates, shifting the hydrophilic center to suppress overoxidation. Ab-initio calculations further reveal the reduction in C-C coupling barriers from 2.7 eV to 0.7 eV under illumination. Our work illustrates how engineering interfacial electronic and adsorbate dynamics enables selective multicarbon formation.",

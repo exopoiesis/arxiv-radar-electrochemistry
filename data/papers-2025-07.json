@@ -1,4 +1,94 @@
 {
+ "2501.09510": {
+  "abstract": "Two-dimensional (2D) chromium-sulfides are synthesized by molecular beam epitaxy using graphene as a substrate. Structure characterization by employing scanning tunneling microscopy and low energy electron diffraction indicates that there are two 2D phases, Cr$_2$S$_3$-2D and Cr$_{2\\frac{2}{3}}$S$_4$-2D, which have not been reported before. Cr$_{2\\frac{2}{3}}$S$_4$-2D is related to bulk Cr$_5$S$_6$, but thinner than a bulk unit cell. For Cr$_2$S$_3$-2D, an even thinner material, no bulk counterpart exists. Both 2D materials are found to be structurally stable under ambient conditions and exhibit interesting electronic properties. Extensive first-principles calculations provide further insight into the electronic structure of these systems and indicate that they should be magnetic. Although single layers of CrS$_2$ were predicted to be stable by density functional theory calculations and reported in previous experimental studies, we were unable to synthesize CrS$_2$ under our range of experimental conditions.",
+  "authors": [
+   "Affan Safeer",
+   "Mahdi Ghorbani-Asl",
+   "Wouter Jolie",
+   "Arkady V. Krasheninnikov",
+   "Thomas Michely",
+   "Jeison Fischer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Affan Safeer",
+  "pdf_url": "http://arxiv.org/pdf/2501.09510",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-01-16",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Which chromium-sulfur compounds exist as 2D material?",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-07-15"
+ },
+ "2503.16180": {
+  "abstract": "Chalcogenide perovskites have emerged as a promising class of materials for the next generation of optoelectronic applications, with BaZrS$_\\text{3}$ attracting significant attention due to its wide bandgap, earth-abundant composition, and thermal and chemical stability. However, previous studies have consistently reported weak and ambiguous photoluminescence (PL), regardless of synthesis method, raising questions about the intrinsic optoelectronic quality of this compound. In this work, we demonstrate strong, band-to-band-dominated PL at room temperature in high-quality BaZrS$_\\text{3}$ single crystals, with a PL quantum yield of $\\sim$0.005\\%. Despite the narrow, single-component PL emission band, time-resolved PL measurements reveal a carrier lifetime of $1.0\\pm0.2$ ns. To understand the origin of the strong PL and short carrier lifetime, we perform multiwavelength excitation and polarization-dependent Raman measurements, supported by first-principles lattice dynamics calculations. We identify all 23 theoretically predicted Raman-active modes and their symmetries, providing a comprehensive reference for future studies. Our results indicate that phonon-assisted carrier decay and nontrivial electron-phonon interactions contribute to the short carrier lifetimes, as evidenced by Raman spectroscopy and DFT calculations. Further studies on compositional variations or partial cation/anion substitutions could mitigate electron-phonon coupling and enhance carrier lifetimes. By establishing a detailed reference for the intrinsic vibrational and optoelectronic properties of BaZrS$_\\text{3}$, this work paves the way for further advancements in chalcogenide perovskites for energy and optoelectronic technologies.",
+  "authors": [
+   "Rasmus Svejstrup Nielsen",
+   "Ángel Labordet Álvarez",
+   "Yvonne Tomm",
+   "Galina Gurieva",
+   "Andres Ortega-Guerrero",
+   "Joachim Breternitz",
+   "Lorenzo Bastonero",
+   "Nicola Marzari",
+   "Carlo Antonio Pignedoli",
+   "Susan Schorr",
+   "Mirjana Dimitrievska"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rasmus Svejstrup Nielsen",
+  "pdf_url": "http://arxiv.org/pdf/2503.16180",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-03-20",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "BaZrS$_\\text{3}$ Lights Up: The Interplay of Electrons, Photons, and Phonons in Strongly Luminescent Single Crystals",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-07-07"
+ },
+ "2507.05831": {
+  "abstract": "Excitations and scatterings among the quantized lattice vibrations, i.e., phonons, govern the lattice thermal conductivity ($κ_l$) in crystalline solids. Therefore, effective modulation of $κ_l$ can be achieved through selective manipulation of phonon modes that strongly participate in the heat transport mechanisms. Here, combining accurate first-principles density functional theory calculations and Boltzmann transport theory, we report a layered quaternary chalcogenide semiconductor, BaCuGdTe$_3$, which exhibits unusually low $κ_l$ ($\\sim$ 0.14 W/mK at room temperature) despite its ordered crystalline structure. Our analysis reveals that the ultralow $κ_l$ arises mainly from a strong suppression of acoustic phonon modes induced by local distortion, shear vibrations among the layers, and large acoustic-optical avoided-crossing between phonons, which collectively enhances the phonon-scattering rates. Further calculations of the electrical transport properties with explicit consideration of electron-phonon interactions reveal a high thermoelectric figure of merit exceeding unity for this compound at moderate temperature (400-700 K) and carrier concentration $(1\\text{--}5 \\times 10^{19}\\ \\text{cm}^{-3})$ ranges. Our theoretical predictions warrant experimental investigations of the intriguing phonon dynamics, thermal transport mechanisms, and thermoelectric properties in this compound. Moreover, insights from our analysis can be used to design and engineer compounds with ultralow $κ_l$.",
+  "authors": [
+   "Jyoti Duhan",
+   "Chris Wolverton",
+   "Koushik Pal"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jyoti Duhan",
+  "pdf_url": "http://arxiv.org/pdf/2507.05831",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-07-08",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-07-08"
+ },
  "2507.06488": {
   "abstract": "Hydrogen tungsten bronzes (HxWO3), known for their mixed protonic-electronic conduction near room temperature, are extensively studied for electrochromic and gasochromic applications. However, their proton transport properties at elevated temperatures, particularly in the intermediate-temperature range (200-500 °C), remain unexplored. This study revealed the proton transport behavior of HxWO3, focusing on its potential as a proton-conducting mixed ionic-electronic conductor (MIEC) for intermediate-temperature electrochemical applications. By employing a proton-conducting phosphate glass as an electron-blocking electrode, we selectively measured the partial proton conductivity of sintered HxWO3. Hydrogen incorporation into the sintered WO3 pellet was found to occur preferentially near the surface, forming an approximately 500-micrometer-thick hydrogen-rich region. This region reached a composition of x = 0.24 and exhibited proton conductivity exceeding 10^-1 S/cm at 275 °C, well above those of state-of-the-art perovskite proton conductors. Impedance spectroscopy revealed distinct features of proton transport, including an isotope effect. The proton diffusion coefficient was 100-1000 times greater than that of H0.0001TiO2, which exhibits mixed protonic-electronic conduction via hydrogen dissolution. The larger proton diffusion coefficient of H0.24WO3 suggests that large polaron formation enhances proton mobility.These findings unlock new functionality of HxWO3 as a MIEC in the intermediate-temperature range, paving the way for the development of next-generation hydrogen energy conversion systems.",
   "authors": [
@@ -25,6 +115,42 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2025-07-09"
+ },
+ "2507.07650": {
+  "abstract": "We have carried out a detailed high-pressure investigation on the strongly correlated transition metal chalcogenide $Cr_{3}Te_4$ using Raman spectroscopy and XRD, which is ferromagnetic and metallic at ambient conditions. We find that the monoclinic structure remains stable up to 30 GPa, the highest pressure studied. The Cr-Te bond length and octahedral volume decrease drastically up to 7.6 GPa pressure. The $A_{1g}$ Raman mode shows a red shift up to 7.6 GPa, and the $E_g$ Raman mode shows a sudden drop around the same pressure. Further low-temperature Raman spectroscopic investigation shows that the Raman modes soften at the ferromagnetic to antiferromagnetic phase transition. This suggests a change in the magnetic ordering at high pressure. Our Density Functional Theory (DFT) calculations reveal the change in magnetic ground state from ferromagnetic state to antiferromagnetic state above 7.6 GPa pressure, corroborating our experimental result.",
+  "authors": [
+   "Asish Kumar Mishra",
+   "Souvick Chakraborty",
+   "Bidisha Mukherjee",
+   "Mrinmay Sahu",
+   "Suvashree Mukherjee",
+   "Shubham Purwar",
+   "Harekrishna Bhunia",
+   "S. Thirupathaiah",
+   "Peter Liermann",
+   "Satyabrata Raj",
+   "Goutam Dev Mukherjee"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Asish Kumar Mishra",
+  "pdf_url": "http://arxiv.org/pdf/2507.07650",
+  "primary_category": "cond-mat.str-el",
+  "published": "2025-07-10",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "phase-transitions"
+  ],
+  "title": "Pressure induced ferromagnetic to antiferromagnetic phase transition in transition metal chalcogenide Cr$_{3}$Te$_4$",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-07-10"
  },
  "2507.14158": {
   "abstract": "Quick clay is a highly sensitive soil that transforms rapidly from solid to liquid under minor stress, as a result of long-term salt leaching that drastically reduces shear strength. Stabilizing it is both costly and carbon-intensive, significantly impacting construction emissions in regions like Norway. Developing greener stabilization methods is challenging due to limited understanding of the weakening mechanisms and the specific roles of different salts. In this study, we use molecular dynamics (MD) simulations to investigate the sliding behavior of illite platelets, the key component in Norwegian quick clay, and how it is affected by the different ions in the solution surrounding the surface. We examine the impact of monovalent (NaCl, KCl, CsCl) and divalent (MgCl2 and CaCl2) salts on platelet-surface interactions, focusing on the friction enhancement brought by divalent salts and how the electric double layer (EDL) structure mediates frictional behavior. We find that divalent cations sit higher on top of the surface, and lead to an increase in friction, while monovalent cations sit closer to the surface. By providing a detailed analysis of these interactions, the study offers a novel framework for understanding the role of salts in clay mechanics and highlights opportunities to design environmentally friendly stabilizers as alternatives to traditional lime and cement.",

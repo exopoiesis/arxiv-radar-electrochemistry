@@ -26,6 +26,34 @@
   ],
   "updated": "2024-08-26"
  },
+ "2408.03786": {
+  "abstract": "Lead chalcogenides are the promising thermoelectric (TE) materials having narrow band gap. The present work investigates the TE behaviour of PbSe in the temperature range 300-500 K. The transport properties of the sample have been studied using the Abinit and BoltzTrap code. The experimentally observed value of \\textit{S} at 300 and 500 K is found to be $\\sim$ 198 and 266 $μ$V K$^{-1}$, respectively. The rate of increase in \\emph{S} from 300 to 460 (460 to 500) K is found to be $\\sim$ 0.4 (0.09). The temperature dependent electrical conductivity \\textit{($σ$)} shows the increasing trend, with values of $\\sim $ 0.35 $\\times $ 10$^{3}$ and $\\sim$ 0.58 $\\times$ 10$^{3}$ $Ω$$^{-1}$ m$^{-1}$ at 300 and 500 K, respectively. Further, the value of thermal conductivity \\textit{($κ$)} at 300 (500) K is found to be 0.74 (1.07) W m$^{-1}$ K$^{-1}$. The value of \\textit{$κ$} is found to be increasing upto 460 K and then starts decreasing. The dispersion plot indicates that PbSe is a direct band gap semiconductor with band gap value of 0.16 (0.27) eV considering spin-orbit coupling (without SOC). The partial density of states (PDOS) plot shows that Pb 6p and Se 4p states have a major contribution in the transport properties. The observed and calculated values of \\textit{S} gives a good match for SOC case. The calculated \\textit{$σ$} and electronic part of thermal conductivity (\\textit{$κ{_e}$}) gives good match with the experimental data. The maximum power factor (PF) value of $\\sim$ 4.3 $\\times$ 10$^{-5}$ W/mK$^{2}$ is observed at 500 K. This work helps in understanding the TE behaviour of PbSe through a novel and insightful alliance of experimental measurements and DFT approach.",
+  "authors": [
+   "Isha Sihmar",
+   "Abhishek Pandey",
+   "Vinod Kumar Solet",
+   "Neeru Chaudhary",
+   "Navdeep Goyal",
+   "Sudhir K. Pandey"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Isha Sihmar",
+  "pdf_url": "http://arxiv.org/pdf/2408.03786",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-08-07",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Understanding the transport behaviour of PbSe: A combined experimental and computational study",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2024-08-08"
+ },
  "2408.11373": {
   "abstract": "Topological semimetals with protected surface states mark a new paradigm of research beyond the early landmarks of band-structure engineering, allowing fabrication of efficient catalyst to harness the rich metallic surface states to activate specific chemical processes. Herein, we demonstrate a facile solid-phase method for in-situ doping of Ir at the Os sites in the Os3Sn7, an alloy with topological states, which significantly improves the photocatalytic performance for the reduction of CO2 to CO and CH4. Experimental evidence combined with theoretical calculations reveal that the nontrivial topological surface states greatly accelerate charge-separation/electron-enrichment and adsorption/activation of CO2 molecules, rendering highly efficient reaction channels to stimulate the formation of *COOH and *CO, as well CHO*. This work shows the promise of achieving high photocatalytic performances with synthesizing topological catalysts and provides hints on the design of novel topological catalysts with superior photoactivity towards the CO2 reduction reaction.",
   "authors": [

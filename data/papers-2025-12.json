@@ -27,6 +27,104 @@
   ],
   "updated": "2025-12-17"
  },
+ "2507.04144": {
+  "abstract": "Recent years have seen a vast increase in research into van der Waals magnetic materials. In many of these systems, magnetism is introduced via light 3\\textit{d}-transition metal elements, combined with chalcogenides or halogens. Despite the high technological promise in the field of spintronics, the connection between the \\textit{d}-orbital configuration and the occurrence of low-dimensional magnetic order is currently unclear. Here we address the prototypical two-dimensional ferromagnet CrI\\textsubscript{3}, via complementary spectroscopies and density functional theory calculations. We reveal the electronic structure and orbital character of bulk CrI\\textsubscript{3} in the paramagnetic and ferromagnetic phases, describing the couplings underpinning its energy diagram, and providing a robust experimental demonstration that the mechanism of stabilization of ferromagnetism is attributable to orbital mixing between I \\textit{p} and Cr \\textit{e\\textsubscript{g}} states. These findings reveal the microscopic connection between orbital and spin degrees of freedom, providing fundamental insights into the behavior of low-dimensional magnetic materials.",
+  "authors": [
+   "Alessandro De Vita",
+   "Srdjan Stavrić",
+   "Roberto Sant",
+   "Nicholas B. Brookes",
+   "Ivana Vobornik",
+   "Giancarlo Panaccione",
+   "Silvia Picozzi",
+   "Martin Wolf",
+   "Laurenz Rettig",
+   "Ralph Ernstorfer",
+   "Tommaso Pincelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Alessandro De Vita",
+  "pdf_url": "http://arxiv.org/pdf/2507.04144",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-07-05",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Orbital mixing as key ingredient for magnetic order in a van der Waals ferromagnet",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-12-22"
+ },
+ "2512.01459": {
+  "abstract": "Sulfide chalcopyrite Cu(In,Ga)S2 (CIGS) is a wide bandgap semiconductor suitable for the top cell of a tandem solar device. Here we demonstrate significant improvements in absorber quality by alloying with Ag to form (Ag,Cu)(In,Ga)S2 (ACIGS) absorbers. We report the Ag alloying effect on compositional, structural, and optoelectronic properties of absorbers. We demonstrate suppressed bulk recombination and improved carrier lifetime in ACIGS, as a result of improved grain size, porosity reduction and defect passivation. We also show that Ag alloying flattens the Ga gradient. Consideration of this impact of Ag will be necessary in future engineering of the Ga profile to maximize charge carrier collection and avoid interface recombination. Exploiting the beneficial effects of Ag alloying, we report a wide bandgap (1.58 eV) ACIGS solar cell with a high power conversion efficiency of 15.5% and a large open-circuit voltage (VOC) of 948 mV, improving on the reference pure CIGS solar cell, with an 11.2% efficiency and an 821 mV VOC. Ag alloying is a useful route to further increase the efficiency of CIGS solar cells and future tandem devices.",
+  "authors": [
+   "Yucheng Hu",
+   "Ece Washbrook",
+   "Arivazhagan Valluvar Oli",
+   "Andrea Griesi",
+   "Yurii P. Ivanov",
+   "Mariam Pelling",
+   "Simon M. Fairclough",
+   "Kulwinder Kaur",
+   "Michele Melchiorre",
+   "Adam Hultqvist",
+   "Tobias Törndahl",
+   "Wolfram Hempel",
+   "Wolfram Witte",
+   "Giorgio Divitini",
+   "Susanne Siebentritt",
+   "Rachel A. Oliver",
+   "Gunnar Kusch"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yucheng Hu",
+  "pdf_url": "http://arxiv.org/pdf/2512.01459",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-12-01",
+  "tags": [
+   "chalcopyrite",
+   "corrosion"
+  ],
+  "title": "Silver Alloyed Wide Bandgap (Ag,Cu)(In,Ga)S2 Thin Film Solar Cells With 15.5% Efficiency",
+  "topics": [
+   "Fe-Ni-S Mineral Surfaces",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-12-01"
+ },
+ "2512.04664": {
+  "abstract": "In the search for small organoselenium-based mimics of the glutathione peroxidase (GPx) enzyme, it has been observed that selenenyl sulfides (RSeSG) derived from amine-based GPx mimics have the potential to be reduced at the catalytic site of glutathione reductase (GR), thereby enhancing the catalytic efficiency of these mimics in biological systems. However, molecular insights into these interactions are lacking due to the absence of force field parameters for Se-S containing compounds. In this study, we present force field parameters for selenenyl sulfides with a phenyl selenide backbone developed using the General Amber Force Field (GAFF). Employing these parameters, a 200 ns molecular dynamics (MD) simulation of RSeSG was performed. The results indicate that both the amino nitrogen and its substituent significantly influence the interaction of RSeSG at the catalytic site of GR.",
+  "authors": [
+   "Vishnu Rama Chari",
+   "Raghu Nath Behera"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Vishnu Rama Chari",
+  "pdf_url": "http://arxiv.org/pdf/2512.04664",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-12-04",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Fate of amine-based selenenyl sulfides during interaction with glutathione reductase: a molecular dynamics perspective",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-12-04"
+ },
  "2512.05363": {
   "abstract": "The dynamic reconstruction of surfaces during electrochemical reactions plays a crucial role in determining the performance of electrocatalysts. However, because reconstructions occur at the atomic level, direct observation and elucidation of the underlying mechanism are challenging for conventional powder type catalysts with ill defined lattices. In this study, the catalytically active surface of 3C BaRuO3 (BRO) epitaxial thin films emerges upon the dynamic introduction of surface Ru clusters, for the alkaline hydrogen evolution reaction (HER). Based on the mass activity at overpotential 100 mV, the intrinsic HER performance increases dramatically from 0.11 to 7.72 A/mg immediately after the initial HER cycle and eventually saturates at 1.05 A/mg after continuous operation. The formation of Ru clusters on the catalyst surface, driven by selective Ba leaching under alkaline HER conditions, is observed experimentally. Density functional theory calculations demonstrate that HER activity increased with enhanced H* adsorption owing to the dynamic Ru6 cluster formation. A strategy for stabilizing the 'awakened' active surface of BRO is further proposed by validating that the atomic-scale control of the film thickness can effectively maintain the highly active state. This study offers fundamental insights into the design and stabilization of the highly active Ru-based electrocatalysts for the alkaline HER.",
   "authors": [
@@ -127,6 +225,38 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-12-14"
+ },
+ "2512.14129": {
+  "abstract": "To optimize the processing conditions for the (Cr,Fe)S non-equilibrium phase with a pyrrhotite-type structure, the phase states and magnetic properties of the specimens obtained at various sintering temperatures were investigated. A slightly off-stoichiometric composition of Cr23Fe23S54 (approximately (Cr,Fe)7S8) sintered and quenched from 1323 K indicates a single-phase pyrrhotite-type structure with a layered-NiAs-type structure in which vacancies occupy every two layers (C12/c1; the space number is 15). The compound shows fully compensated ferrimagnetic behavior at a magnetization compensated temperature of approximately 200 K. The magnetic behavior exhibits a typical N-type ferrimagnet, as predicted by Néel. From X-ray photoelectron spectroscopy analyses, it is found that the compound is composed of Fe2+ and Cr3+. The large magnetic coercivity of 38 kOe at 5 K is also unique and can be applied to spintronic devices. Furthermore, changing the quenching temperature enables control of the degree of order of the vacancies in the interlayer and results in tuning of the magnetization compensated temperature. First-principles calculations show a pseudo-gap located at the Fermi level in the up-spin band, suggesting high spin polarization as well as the NiAs-type structure indicated in the previous our report.",
+  "authors": [
+   "Weida Yin",
+   "Masato Miyakawa",
+   "Satoshi Semboshi",
+   "Noriharu Yodoshi",
+   "Akira Masago",
+   "Yosuke Kawahito",
+   "Tetsuya Fukushima",
+   "Hisazumi Akai",
+   "Rie Y. Umetsu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "8 figures, 3 tables",
+  "first_author": "Weida Yin",
+  "pdf_url": "http://arxiv.org/pdf/2512.14129",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-12-16",
+  "tags": [
+   "ab-initio",
+   "pyrrhotite",
+   "vacancies"
+  ],
+  "title": "Fully Compensated Ferrimagnetic Properties of (Cr,Fe)S Compound with a Pyrrhotite-type Structure",
+  "topics": [
+   "Fe-Ni-S Mineral Surfaces"
+  ],
+  "updated": "2025-12-16"
  },
  "2512.14305": {
   "abstract": "The efficiency of water electrolysis in a photoelectrochemical cell is largely limited by the oxygen evolution reaction (OER) at its semiconductor photoanode. Reaction rate constants are key to investigating the slow kinetics of the multistep OER, as they indicate the rate-determining step. While these rate constants are usually calculated based on first-principles simulations, this research aims to estimate them from experimental electrochemical impedance spectroscopy (EIS) data. Starting from a microkinetic model for charge transfer at the semiconductor-electrolyte interface, an expression for the impedance as a function of the rate constants is derived. At lower potentials, the order of this impedance model is reduced, thus eliminating the rate constants corresponding to the last reaction steps. Moreover, it is shown that EIS data from at least two potentials needs to be combined in order to uniquely identify the rate constants of a particular reduced order model. Therefore, this work details a sample maximum likelihood estimator that integrates not only multiple frequencies, but also multiple potentials simultaneously. Measuring multiple periods of the current density and potential signals, allows this frequency domain estimator to take measurement uncertainty into account. In addition, due to the large numerical range of the rate constants, various scaling methods are implemented to achieve numerical stability. To find suitable initial values for the highly nonlinear optimization problem, different global estimation methods are compared. The complete estimation procedure of the rate constants is illustrated on simulated EIS data of a hematite photoanode.",

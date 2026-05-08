@@ -50,6 +50,65 @@
   ],
   "updated": "2025-01-07"
  },
+ "2501.08194": {
+  "abstract": "Layered materials with non-centrosymmetric stacking order are attracting increasing interest due to the presence of ferroelectric polarization, which is dictated by weak interlayer hybridization of atomic orbitals. Here, we use density functional theory modelling to systematically build a library of van der Waals chalcogenides that exhibit substantial ferroelectric polarization. For the most promising materials, we also analyse the pressure dependence of the ferroelectric effect and charge accumulation of photo-induced electrons and holes at surfaces and internal twin boundaries in thin films of such materials.",
+  "authors": [
+   "Xue Li",
+   "James G. McHugh",
+   "Vladimir I. Falko"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 5 figures",
+  "first_author": "Xue Li",
+  "pdf_url": "http://arxiv.org/pdf/2501.08194",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2025-01-14",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Ferroelectric Properties of van der Waals Chalcogenides: DFT perspective",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-01-14"
+ },
+ "2501.10015": {
+  "abstract": "Cadmium sulfide (CdS) is a well-known low-bandgap photocatalyst, but its efficiency is often hindered by rapid photo-generated carrier recombination and a limited number of active catalytic sites. To overcome these challenges, this study introduces an efficient CdS photocatalyst through a novel strategy combining metastable-to-stable phase transformation and sulfur vacancy generation. This strategy integrates hydrothermal treatment and a high-pressure process to create sulfur vacancies, which serve as active catalytic sites, within a thermodynamically stable wurtzite (hexagonal) phase known for its superior photocatalytic properties. The resulting CdS photocatalyst demonstrates exceptional performance in photoreforming for hydrogen production and the conversion of polyethylene terephthalate (PET) plastic into valuable materials. Compared to commercial CdS catalysts, this new material shows a 23-fold increase in both hydrogen production and plastic degradation without the need for co-catalysts. Quenching experiments reveal that holes and hydroxyl radicals play crucial roles in the photoreforming process of this vacancy-rich CdS. First-principles calculations via density functional theory (DFT) indicate that the hexagonal phase possesses a lower bandgap and it exhibits further bandgap narrowing with the introduction of sulfur vacancies. These findings not only present an innovative approach to CdS processing but also highlight the critical role of sulfur vacancies as effective defects for the catalytic photoreforming of microplastics.",
+  "authors": [
+   "Thanh Tam Nguyen",
+   "Jacqueline Hidalgo-Jiménez",
+   "Xavier Sauvage",
+   "Katsuhiko Saito",
+   "Qixin Guo",
+   "Kaveh Edalati"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Thanh Tam Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2501.10015",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-01-17",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Phase and sulfur vacancy engineering in cadmium sulfide for boosting hydrogen production from catalytic plastic waste photoconversion",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-01-17"
+ },
  "2501.18651": {
   "abstract": "This study presents the direct measurement of proton transport along filamentous Desulfobulbaceae, or cable bacteria. Cable bacteria are filamentous multicellular microorganisms that have garnered much interest due to their ability to serve as electrical conduits, transferring electrons over several millimeters. Our results indicate that cable bacteria can also function as protonic conduits because they contain proton wires that transport protons at distances greater than 100 um. We find that protonic conductivity (σP) along cable bacteria varies between samples and is measured as high as 114 +/- 28 uS cm^-1 at 25-degrees C and 70-percent relative humidity (RH). For cable bacteria, the protonic conductance (GP) and σP are dependent upon the RH, increasing by as much as 26-fold between 60-percent and 80-percent RH. This observation implies that proton transport occurs via the Grotthuss mechanism along water associated with cable bacteria, forming proton wires. In order to determine σP and GP along cable bacteria, we implemented a protocol using a modified transfer-printing technique to deposit either palladium interdigitated protodes (IDP), palladium transfer length method (TLM) protodes, or gold interdigitated electrodes(IDE) on top of cable bacteria. Due to the relatively mild nature of the transfer-printing technique, this method should be applicable to a broad array of biological samples and curved materials. The observation of protonic conductivity in cable bacteria presents possibilities for investigating the importance of long-distance proton transport in microbial ecosystems and to potentially build biotic or biomimetic scaffolds to interface with materials via proton-mediated gateways or channels.",
   "authors": [

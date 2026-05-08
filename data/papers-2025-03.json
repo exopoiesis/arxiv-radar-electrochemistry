@@ -1,4 +1,58 @@
 {
+ "2409.16657": {
+  "abstract": "Chalcogenide perovskites (CPs) have emerged as promising materials for optoelectronic applications due to their stability, non-toxicity, small bandgaps, high absorption coefficients, and defect tolerance. Although transition metal-based CPs, particularly those incorporating Zr and Hf, have been well-studied, they often exhibit higher bandgaps, lower charge carrier mobility, and reduced efficiency compared to lead-based halide perovskites (HPs). Tin (Sn), a post-transition metal with a similar oxidation state (+4) as Zr and Hf in ABX$_{3}$ structures but with different valence characteristics, remains underexplored in CPs. Given the influence of valence states on material properties, Sn-based CPs are of great interest. This study employs density functional theory (DFT), density functional perturbation theory (DFPT), and many-body perturbation theory (GW and BSE) to investigate a series of distorted Sn-based CPs (ASnX$_{3}$, A = Ca, Sr, Ba; X = S, Se). Our results demonstrate that these perovskites are mechanically stable and exhibit lower direct G$_{0}$W$_{0}$ bandgaps (0.79-1.50 eV) compared to their Zr- and Hf-based counterparts. Analysis of carrier-phonon interactions reveals that the charge-separated polaronic state is less stable than the bound exciton state in these materials. Additionally, polaron-assisted charge carrier mobilities for electrons (21.33-416.02 cm^{2}V^{-1}s^{-1}) and holes (7.02-260.69 cm^{2}V^{-1}s^{-1}) are comparable to or higher than those in lead-based HPs and significantly exceed those of Zr- and Hf-based CPs, owing to reduced carrier-phonon coupling. The estimated spectroscopic limited maximum efficiency (24.2%-31.2%)-confirmed through perovskite solar cell (PSC) simulations using SCAPS-1D software-indicates that these materials are promising candidates for photovoltaic applications.",
+  "authors": [
+   "Surajit Adhikari",
+   "Sankhasuvra Das",
+   "Priya Johari"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 5 figures, 7 tables",
+  "first_author": "Surajit Adhikari",
+  "pdf_url": "http://arxiv.org/pdf/2409.16657",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-25",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Post-Transition Metal Sn-Based Chalcogenide Perovskites: A Promising Lead-Free and Transition Metal Alternative for Stable, High-Performance Photovoltaics",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-03-01"
+ },
+ "2411.07530": {
+  "abstract": "Tin sulfide (SnS) has garnered much attention as a promising material for various applications, including solar cells and thermoelectric devices, owing to its favorable optical and electronic properties and the abundant and nontoxic nature of its constituent elements. Herein, we investigated the effect of non-stoichiometry on the morphology and electrical properties of SnS thin films. Using a unique sputtering technique with a sulfur plasma supply, SnS films with precise sulfur content control, [S]/([Sn] + [S]) (xS) ranging from 0.47 to 0.51, were fabricated. Systematic characterization revealed that non-stoichiometry on the S-rich side led to a marked increase in the carrier density of p-type conduction, which was attributed to the formation of intrinsic acceptor-type defects. In contrast, non-stoichiometry on the S-poor side hardly affects the p-type electrical properties, apparently because of the self-compensation between the intrinsic acceptor- and donor-type defects. In addition, non-stoichiometry has been identified as the cause of thin-film morphological changes, with non-stoichiometric films exhibiting rough and porous surfaces. Achieving a stoichiometric composition results in smooth and dense thin-film morphologies, which are crucial for optimizing SnS thin films for device applications. These findings underscore the importance of compositional control for tailoring the morphology and electrical behavior of SnS, paving the way for more efficient SnS-based devices.",
+  "authors": [
+   "Taichi Nogami",
+   "Issei Suzuki",
+   "Daiki Motai",
+   "Hiroshi Tanimura",
+   "Tetsu Ichitsubo",
+   "Takahisa Omata"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "38 pages, 17 figures",
+  "first_author": "Taichi Nogami",
+  "pdf_url": "http://arxiv.org/pdf/2411.07530",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-11-12",
+  "tags": [
+   "surface-science"
+  ],
+  "title": "Non-stoichiometry in SnS: How it affects thin-film morphology and electrical properties",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-03-25"
+ },
  "2411.16741": {
   "abstract": "The Solid-Electrolyte Interphase, SEI, formed on a battery electrode has been a central area of research for decades. This thin, complex layer profoundly impacts the electrochemical deposition morphology and stability of the metal in battery anodes. Departing from conventional approaches, we investigate metal dissolution, the reverse reaction of deposition, in battery environments using a state-of-the-art electroanalytical system combining a rotating-disk electrode and in-operando visualization. Our key finding is the presence of a Transient Solid-Electrolyte Interphase, T-SEI, that forms during fast discharging at high dissolution rates. We attribute T-SEI formation to transient local supersaturation and resultant electrolyte salt deposition. The T-SEI fundamentally alters the dissolution kinetics at the electrochemical interface, leading to a self-limiting morphological evolution and eventually yielding a flat, clean surface. Unlike a classical SEI formed due to electrolyte decomposition, the T-SEI is fully relaxable upon removal of the enforced dissolution current. The formation of T-SEI, surprisingly, plays a critical role in the subsequent electrodeposition. When the metal is redeposited on a fully relaxed T-SEI surface, the morphology is remarkably different from that deposited on pristine or low-rate discharged metal electrodes. Electron backscatter diffraction analysis suggests the deposition occurs via growth of the original grains. This is in stark contrast to the isolated, particulate nuclei seen on standard metal electrodes without T-SEI formation. Our findings provide important insights into the electrochemical kinetics at the metal-electrolyte interface, particularly in concentrated or water-in-salt electrolytes that are close to the salt saturation limit. The results suggest a new dimension for electrochemical engineering in batteries.",
   "authors": [
@@ -55,6 +109,66 @@
   ],
   "updated": "2025-03-17"
  },
+ "2503.08763": {
+  "abstract": "Deleterious aggregate reactions induced by iron sulfide minerals, especially pyrrhotite and pyrite, have devastated concrete structures across many global regions. While these minerals have been extensively studied under acidic conditions, their behavior in alkaline environments, such as concrete, remains poorly understood. This study investigates the kinetics and mechanisms of iron sulfide dissolution at high pH (13$\\unicode{x2013}$14). Results revealed that pyrrhotite dissolves orders of magnitude more rapidly than pyrite, with dissolution rates increasing with both pH and temperature. The type of alkali (potassium or sodium) in the solution was not found to affect the dissolution behavior. Kinetic modeling and experimental characterization indicated that the dissolution kinetics of pyrrhotite is controlled by a combination of chemical reactions (oxidation of iron and sulfur species) and diffusion (through an Fe(III)-(oxy)hydroxide layer). These findings provide practical insights into controlling dissolution and mitigating iron sulfide-induced damage in concrete.",
+  "authors": [
+   "Zhanzhao Li",
+   "Christopher A. Gorski",
+   "Aaron Thompson",
+   "Jeffrey R. Shallenberger",
+   "Gopakumar Kaladharan",
+   "Aleksandra Radlińska"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhanzhao Li",
+  "pdf_url": "http://arxiv.org/pdf/2503.08763",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-03-11",
+  "tags": [
+   "iron-sulfides",
+   "pyrite",
+   "pyrrhotite"
+  ],
+  "title": "Dissolution kinetics of iron sulfide minerals in alkaline solutions",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-03-11"
+ },
+ "2503.09092": {
+  "abstract": "We theoretically study the ultrafast optical control of multiple valley states in two-dimensional (2D) tin sulfide (SnS) monolayers, a member of the layered group-IV monochalcogenides, which is a promising class of materials for overcoming current challenges in valleytronics. By combining time-dependent density functional theory with Maxwells equations, we simulate how both linearly and circularly polarized ultrashort laser pulses affect the electronic excitation dynamics and valley polarization in SnS. Our results reveal that the corrugated phosphorene-like crystal structure of SnS monolayers leads to the emergence of both linear and circular dichroism, allowing flexible manipulation of multi-valley excitation by simply adjusting the light polarization. Moreover, the interplay between broken inversion symmetry and spin-orbit coupling gives rise to distinct Berry curvature effects and spin-valley coupling, thereby enabling circular dichroism. Furthermore, we propose that tuning the carrier-envelope phase of few-cycle femtosecond laser pulses can achieve sub-cycle, ultrafast switching among multiple valleys states. These findings not only deepen our understanding of valley dynamics in 2D materials but may also open new avenues for the development of valleytronic devices.",
+  "authors": [
+   "Arqum Hashmi",
+   "M. Umar Farooq",
+   "Mizuki Tani",
+   "Kazuhiro Yabana",
+   "Tomohito Otobe",
+   "Kenichi L. Ishikawa"
+  ],
+  "categories": [
+   "physics.optics",
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 5 figures",
+  "first_author": "Arqum Hashmi",
+  "pdf_url": "http://arxiv.org/pdf/2503.09092",
+  "primary_category": "physics.optics",
+  "published": "2025-03-12",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Ultrafast Optical Control of Multi-Valley States in 2D SnS",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-03-12"
+ },
  "2503.15565": {
   "abstract": "Understanding the loss of non-equilibrium capacitance in the electric double layer capacitor (EDLC) during continuous charging compared to equilibrium capacitance is crucial for the design of high-rate energy storage devices. Due to three major challenges, including strong ion correlations induced by high concentrations at the interface, the difficulty in representing far from equilibrium, and numerical stability issues, current numerical simulations of ion distribution based on statistical mechanics struggle to achieve long-term accurate modeling under realistic parameters. Since non-equilibrium capacitance loss is a universal macroscopic phenomenon in EDLC, which exists independently of the microscopic model of the electrolyte, this study starts from macroscopic non-equilibrium phenomena, introduces a novel perspective centered on ion flux (IF) for the first time. By deriving the relationship among the charging current, IF, and displacement current, a novel capacitance model based on IF is first established. It is further demonstrated that the current relationship and voltage relationship of EDLC, when represented by conventional circuit models, exhibit inherent contradictions. Therefore, a new interpretative framework is proposed, wherein IF and displacement current are analogized to acceleration and deformation in an elastic medium, respectively. Inspired by this insight, this study reveals that the decrease in non-equilibrium capacitance with increasing charging current originates from the inherent resistance of IF to external charging. This tendency to restore equilibrium is the fundamental cause of non-equilibrium capacitance loss.",
   "authors": [
@@ -102,6 +216,31 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-03-20"
+ },
+ "2503.17607": {
+  "abstract": "Boltzmann transport equation (BE) is a potent approach to dynamics of a photoexcited (nano)material. BE collision integrals for different relaxation channels can be systematically computed using the Kadanoff-Baym-Keldysh (KBK) formalism (also called NEGF) utilizing the Density Functional Theory (DFT) simulation output. However, accurate description of phonon-mediated relaxation in a general class of (nano)materials that includes exciton effects is still an outstanding problem. The approach proposed here is based on the observation that the non-adiabatic couplings of the DFT-based non-adiabatic molecular dynamics (NAMD) play the role of a time-dependent external potential coupled to the electrons. This allows application of the Keldysh approach resulting in the exciton-phonon BE collision integral, which incorporates exciton wave functions and energies obtained from Bethe-Salpeter equation. As an application, we augment BE with radiative recombination and photon-mediated exciton-exciton transition terms and then use it to calculate photoluminescence (PL) spectrum for several 1.5-$nm$ semiconductor chalcogenide nanocrystals, such as $Cd_{37}Pb_{31}Se_{68},~Cd_{31}Pb_{37}Se_{68},$ which are Janus-type, and for $Pb_{68}Se_{68}.$",
+  "authors": [
+   "Hadassah Griffin",
+   "Andrei Kryjevski"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "18 pages, 4 figures",
+  "first_author": "Hadassah Griffin",
+  "pdf_url": "http://arxiv.org/pdf/2503.17607",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2025-03-22",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Phonon-mediated relaxation in nanomaterials from combining Density Functional Theory based non-adiabatic molecular dynamics with Kadanoff-Baym-Keldysh technique",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-03-22"
  },
  "2503.19040": {
   "abstract": "Active and reliable electrocatalysts are fundamental to renewable energy technologies. PdCoO2 has recently been recognized as a promising catalyst template for the hydrogen evolution reaction (HER) in acidic media thanks to the formation of active PdHx. In this article, we monitor the transformation of single PdCoO2 particles during HER, and confirm their almost complete transformation to PdHx with sub-millimeter depths and cracks throughout the particles. Using operando mass spectrometry, Co dissolution is observed under reductive potentials, leading to PdHx formation, whereas the dissolution partial current is found to be 0.1 % of the HER current. The formation of PdHx is confirmed through secondary ion mass spectrometry and quantitatively analyzed by atom probe tomography, enabled by isotope labelling of hydrogen using heavy water. Despite dry storage and high vacuum during sample preparations, an overall composition of PdD0.28 is measured for the PdHx sample, with separation between alpha- (D-poor) and beta- (D-rich) PdHx phases. The PdHx phase formed on PdCoO2 particles is stable for a wide electrochemical potential window, until Pd dissolution is observed at open circuit potentials. Our findings highlight the critical role of a templated growth method in obtaining stabilized PdHx, enabling efficient HER without the commonly slow activation processes observed in Pd. This offers insights into the design of more efficient electrocatalysts for renewable energy technologies.",

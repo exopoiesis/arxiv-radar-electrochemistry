@@ -1,4 +1,62 @@
 {
+ "2405.09793": {
+  "abstract": "The chalcogenide perovskite BaZrS$_3$ has attracted much attention as a promising solar absorber for thin-film photovoltaics. Here, we use first-principles calculations to evaluate its carrier transport and defect properties. We find that BaZrS$_3$ has a phonon-limited electron mobility of 37 cm$^2$/Vs comparable to that in halide perovskites but lower hole mobility of 11 cm$^2$/Vs. The defect computations indicate that BaZrS$_3$ is intrinsically n-type due to shallow sulfur vacancies, but that strong compensation by sulfur vacancies will prevent attempts to make it p-type. We also establish that BaZrS$_3$ shows some degree of defect tolerance, presenting only few low formation energy, deep intrinsic defects. Among the deep defects, sulfur interstitials are the dominant nonradiative recombination centers but exhibit a moderate capture coefficient. Our work highlights the material's intrinsic limitations in carrier mobility and p-type doping and suggests focusing on suppressing the formation of sulfur interstitials to reach longer carrier lifetime.",
+  "authors": [
+   "Zhenkun Yuan",
+   "Diana Dahliah",
+   "Romain Claes",
+   "Andrew Pike",
+   "David P. Fenning",
+   "Gian-Marco Rignanese",
+   "Geoffroy Hautier"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhenkun Yuan",
+  "pdf_url": "http://arxiv.org/pdf/2405.09793",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-16",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Assessing carrier mobility, dopability, and defect tolerance in the chalcogenide perovskite BaZrS$_3$",
+  "topics": [
+   "Adsorption and Ion Transport"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2409.03409": {
+  "abstract": "The exploration of superconductors in metastable phases by manipulating crystal structures through high-pressure techniques has attracted significant interest in materials science to achieve a high critical temperature ($T_c$). In this study, we report an emergence of novel superconductivity in a metastable phase of Th$_3$P$_4$-type cubic In$_{3-x}$S$_4$ with remarkably high $T_c$ at 20 K under 45 GPa by using an originally designed diamond anvil cell equipped with boron-doped diamond electrodes, which can perform a high-pressure synthesis and an in-situ electrical transport measurement simultaneously. In-situ structural analysis indicates that the In$_{3-x}$S$_4$ appears partially above 40 GPa without heating. The high-pressure annealing treatment induces complete transformation to the Th$_3$P$_4$-type structure, and the defected concentration of x in In$_{3-x}$S$_4$ decreases with increasing annealing temperature. The $T_c$ in In$_{3-x}$S$_4$ is maximized at x = 0 and approaches 20 K. Electronic band calculations show that the high density of states composed of sulfur and indium bands are located at the conduction band bottom near Fermi energy. The record high $T_c$ in In$_{3-x}$S$_4$ among superconducting sulfides accelerates the further exploration of high $T_c$ materials within the Th$_3$P$_4$-type cubic family by using flexibility in crystal structure.",
+  "authors": [
+   "Ryo Matsumoto",
+   "Kazuki Yamane",
+   "Terumasa Tadano",
+   "Kensei Terashima",
+   "Toru Shinmei",
+   "Tetsuo Irifune",
+   "Yoshihiko Takano"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ryo Matsumoto",
+  "pdf_url": "http://arxiv.org/pdf/2409.03409",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2024-09-05",
+  "tags": [],
+  "title": "Emergence of Superconductivity at 20 K in Th$_3$P$_4$-type In$_{3-x}$S$_4$ Synthesized by Diamond Anvil Cell with Boron-doped Diamond Electrodes",
+  "topics": [
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2024-09-05"
+ },
  "2409.11648": {
   "abstract": "Metallic bismuth is both non-toxic and cost-effective. Bi-based catalysts have demonstrated the ability to efficiently produce HCOOH through CO2RR while effectively inhibiting the HER. Although many experiments have been reported concerning its performance towards CO2 reduction, the impact its valence states and crystal faces on CO2RR selectivity (e.g. HCOOH versus CO) it still under debate. Here, we performed a comprehensive study via density functional theory, by including three typical valence states of Bi, such as 0 (Bi), +3 (Bi2O3) and +5 (Bi2O5), as well as their often-studied crystal facets. The results show that metallic Bi demonstrates a poor selectivity for HCOOH, but boasts a higher conversion rate for CO2. While Bi2O3 exhibits a good selectivity for HCOOH production, yet it displays a lower conversion rate for CO2. For Bi2O5, all studied surfaces show high energy barriers in both cases of HCOOH and CO production, and lower energy barriers for HER reactions, indicating that Bi at +5 valence state is not the good choice for 2e transfer reactions. Subsequently, we further examined the effects of oxygen contents on the selectivity of HCOOH and the conversion rate for CO2. Interestingly, we found that partial oxidization of Bi benefits both the selectivity and the conversion rate. With these observations, we suggest that a mixture of Bi (0) and Bi2O3 (+3) phases would be a better choice than single crystals for future experiments.",
   "authors": [
@@ -65,5 +123,61 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2024-09-21"
+ },
+ "2409.17796": {
+  "abstract": "Here we show that, in contrast to the observed surface states in well studied pnictogen chalcogenide van der Waals (vdW) topological insulators (TIs) with quintuple layer (QL) or septuple layer~(SL) structure, in superlattices, comprising the alternating QL and SL vdW blocks, the Dirac state becomes accompanied by emergent spin-polarized states of the Rashba type. This specific feature is caused by an inequivalence of the surface and subsurface structural blocks and an electrostatic potential bending near the surface. Within density functional theory~(DFT) and $\\emph{ab-initio}$ tight-binding~(TB) calculations we analyze peculiarities of these states depending on the surface termination, structural parameters and chemical composition. It is found that their possible hybridization with the Dirac state significantly affects its dispersion and spatial localization. We analyze the influence of intrinsic magnetism on behavior of the termination-dependent surface states for magnetic QL/SL superlattices. These findings provide a better understanding of the existing experimental observations of such QL/SL alternating superlattices.",
+  "authors": [
+   "I. A. Shvets",
+   "E. V. Chulkov",
+   "S. V. Eremeev"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 5 figures",
+  "first_author": "I. A. Shvets",
+  "pdf_url": "http://arxiv.org/pdf/2409.17796",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-26",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Interplay between surface Dirac and Rashba states specific for topologically nontrivial van der Waals superlattices",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2409.18322": {
+  "abstract": "The deposition of a two-dimensional material on the surface of a three-dimensional crystal can generate superlattices with electronic properties modified through the proximity spin-orbit effect. In this study, we found that Kekulé graphene superlattices are obtained by placing graphene on Cd-terminated (001)-(1$\\times$1) cadmium sulfide (CdS) surface. From an effective model of Kekulé superlattices, which is corroborated by Density Functional Theory (DFT) calculations, we identified that the puckered surfqace of CdS modifies the on-site energies (staggered potential) and C-C bonds, giving rise to two possible $\\sqrt{3} \\times \\sqrt{3}$ hexagonal superlattices, which are known as Kekulé-O graphene and Kekulé-Y with a quadratic band crossing point. Both Kekulé superlattices present spin-orbit coupling due to the interaction of graphene with the CdS surface. To guide the experimental realization of Kekulé superlattices based on graphene/CdS heterostructures, we simulate electron diffraction patterns, as well as images from High-Resolution Transmission Electron Microscopy (HRTEM), and Scanning Transmission Electron Microscopy in the mode of High Angle Annular Dark Field (STEM-HAADF).",
+  "authors": [
+   "Yonatan Betancur-Ocampo",
+   "Santiago Galván y García",
+   "Samuel Tehuacanero Nuñez",
+   "José Reyes-Gasga",
+   "Thomas Stegmann",
+   "Francisco Sánchez-Ochoa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "9 pages, 4 figures",
+  "first_author": "Yonatan Betancur-Ocampo",
+  "pdf_url": "http://arxiv.org/pdf/2409.18322",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-26",
+  "tags": [
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Kekulé distortions in graphene on cadmium sulfide",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2024-09-26"
  }
 }

@@ -139,3 +139,226 @@ reaction-networks:
 dissipative-systems:
   group: networks
   synonyms: [dissipative system, dissipative systems, dissipative self-assembly]
+
+
+# ============================================================
+# Tags merged from arxiv-radar-sulfide-materials (2026-05-08)
+# ============================================================
+
+# Minerals (extending existing minerals group)
+
+pyrrhotite:
+  group: minerals
+  synonyms: [pyrrhotite, Fe7S8]
+
+millerite:
+  group: minerals
+  synonyms: [millerite, NiS]
+
+marcasite:
+  group: minerals
+  synonyms: [marcasite]
+
+chalcopyrite:
+  group: minerals
+  synonyms: [chalcopyrite, CuFeS2]
+
+# Fe-Ni-S (extending materials group)
+
+fe-ni-s:
+  group: materials
+  synonyms: [Fe-Ni-S, Fe Ni S, iron nickel sulfide, nickel iron sulfide]
+
+# Surfaces
+
+surface-science:
+  group: surfaces
+  synonyms: [surface science, mineral surface, mineral surfaces]
+
+adsorption:
+  group: surfaces
+  synonyms: [adsorption, adsorbed, adsorbate, chemisorption, physisorption]
+
+surface-defects:
+  group: surfaces
+  synonyms: [surface defect, surface defects, defect site, defect sites]
+
+surface-reconstruction:
+  group: surfaces
+  synonyms: [surface reconstruction, reconstructed surface, surface relaxation]
+
+# Defects
+
+vacancies:
+  group: defects
+  synonyms: [vacancy, vacancies, sulfur vacancy, S vacancy]
+
+# Thermodynamics
+
+phase-stability:
+  group: thermodynamics
+  synonyms: [phase stability, thermodynamic stability, formation energy]
+
+phase-transitions:
+  group: thermodynamics
+  synonyms: [phase transition, phase transitions, structural transition]
+
+# Surface chemistry
+
+sulfidation:
+  group: chemistry
+  synonyms: [sulfidation, sulphidation]
+
+corrosion:
+  group: chemistry
+  synonyms: [corrosion, passivation, surface oxidation]
+
+# Adsorbates (specific molecules on surfaces)
+
+co2-adsorption:
+  group: adsorbates
+  synonyms: [CO2 adsorption, carbon dioxide adsorption, adsorbed CO2]
+
+formate-adsorption:
+  group: adsorbates
+  synonyms: [formate adsorption, adsorbed formate, HCOO adsorption]
+
+water-adsorption:
+  group: adsorbates
+  synonyms: [water adsorption, adsorbed water, H2O adsorption]
+
+# Transport (extending existing transport group)
+
+proton-diffusion:
+  group: transport
+  synonyms: [proton diffusion, hydrogen diffusion, hydrogen transport]
+
+grotthuss:
+  group: transport
+  synonyms: [Grotthuss, proton hopping, proton transfer]
+
+# Methods (extending existing methods group)
+
+dft-u:
+  group: methods
+  synonyms: [DFT+U, DFT U, Hubbard U]
+
+aimd:
+  group: methods
+  synonyms: [AIMD, ab initio molecular dynamics]
+
+neb:
+  group: methods
+  synonyms: [nudged elastic band, NEB, transition state, minimum energy path]
+
+# ML potentials
+
+mlip:
+  group: ml-methods
+  synonyms: [machine learning potential, machine-learned potential, MLIP, interatomic potential]
+
+mace:
+  group: ml-methods
+  synonyms: [MACE, MACE-MP]
+
+chgnet:
+  group: ml-methods
+  synonyms: [CHGNet]
+
+m3gnet:
+  group: ml-methods
+  synonyms: [M3GNet]
+
+active-learning:
+  group: ml-methods
+  synonyms: [active learning, active-learning]
+
+# Prebiotic / origin-of-life chemistry
+
+origin-of-life:
+  group: prebiotic
+  synonyms: [origin of life, origins of life, prebiotic, prebiotic chemistry]
+
+hydrothermal-vents:
+  group: prebiotic
+  synonyms: [hydrothermal vent, hydrothermal vents, alkaline vent, alkaline hydrothermal vent, Lost City]
+
+mineral-catalysis:
+  group: prebiotic
+  synonyms: [mineral catalysis, catalytic mineral, catalytic minerals]
+
+
+# ============================================================
+# Geochemistry tag group (added 2026-05-08)
+# ============================================================
+
+weathering:
+  group: geochemistry
+  synonyms: [weathering, mineral weathering, chemical weathering, rock weathering, silicate weathering]
+
+dissolution-kinetics:
+  group: geochemistry
+  synonyms: [dissolution kinetics, mineral dissolution, dissolution rate, dissolution rates]
+
+mineral-water-interface:
+  group: geochemistry
+  synonyms: [mineral-water interface, mineral water interface, mineral-fluid interface, rock-water interface]
+
+hydrothermal-alteration:
+  group: geochemistry
+  synonyms: [hydrothermal alteration, hydrothermal system, hydrothermal systems, hydrothermal fluid, hydrothermal fluids]
+
+serpentinization:
+  group: geochemistry
+  synonyms: [serpentinization, serpentinisation, serpentinite, peridotite alteration]
+
+biogeochemistry:
+  group: geochemistry
+  synonyms: [biogeochemistry, biogeochemical cycle, biogeochemical cycles]
+
+isotope-geochemistry:
+  group: geochemistry
+  synonyms: [isotope geochemistry, isotopic fractionation, stable isotopes, isotope effects]
+
+ore-deposits:
+  group: geochemistry
+  synonyms: [ore deposit, ore deposits, ore mineral, ore minerals, ore formation, ore genesis]
+
+marine-chemistry:
+  group: geochemistry
+  synonyms: [marine chemistry, ocean chemistry, seawater chemistry, ocean acidification]
+
+carbonate-silicate-cycle:
+  group: geochemistry
+  synonyms: [carbonate-silicate cycle, carbon cycle, silicate weathering cycle, long-term carbon cycle]
+
+
+# ============================================================
+# Aqueous chemistry / solvation (added 2026-05-08)
+# Interface-side tags. Sampling-methods tags (umbrella, metadynamics)
+# live in arxiv-radar-chemistry to keep this repo focused on interfaces.
+# ============================================================
+
+solvation-thermodynamics:
+  group: aqueous-chemistry
+  synonyms: [solvation free energy, solvation thermodynamics, hydration free energy, free energy of solvation]
+
+hydration-shell:
+  group: aqueous-chemistry
+  synonyms: [hydration shell, solvation shell, first hydration shell, second hydration shell]
+
+ion-water-interactions:
+  group: aqueous-chemistry
+  synonyms: [ion-water interaction, ion water interaction, ion-water interactions, ion solvation]
+
+ion-pairing:
+  group: aqueous-chemistry
+  synonyms: [ion pairing, ion pair, contact ion pair, solvent-separated ion pair]
+
+electrolyte-structure:
+  group: aqueous-chemistry
+  synonyms: [electrolyte structure, electrolyte solution, concentrated electrolyte, electrolyte modeling]
+
+polarizable-water:
+  group: aqueous-chemistry
+  synonyms: [polarizable water, polarizable force field, polarizable water model, AMOEBA water]

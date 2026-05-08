@@ -26,6 +26,57 @@
   ],
   "updated": "2025-11-24"
  },
+ "2505.19882": {
+  "abstract": "Quaternary mixed-metal M(II)2M(III)Ch2X3 chalcohalides are an emerging material class for photovoltaic absorbers that combines the beneficial optoelectronic properties of lead-based halide perovskites with the stability of metal chalcogenides. Inspired by the recent discovery of lead-free mixed-metal chalcohalides materials, we utilized a combination of density functional theory and machine learning to determine compositional trends and chemical design rules in the lead-free and lead-based materials spaces. We explored a total of 54 M(II)2M(III)Ch2X3 materials with M(II) = Sn, Pb, M(III) = In, Sb, Bi, Ch = S, Se, Te, and X = Cl, Br, I per phase (Cmcm, Cmc21 , and P21/c). The P21/c phase is the equilibrium phase at low temperatures, followed by Cmc21 and Cmcm. The fundamental band gaps in Cmcm and Cmc21 are smaller than those in P21/c, but direct band gaps are more common in Cmcm and Cmc21. The effective electron masses in P21/c are significantly larger compared to Cmcm and Cmc21, while the effective hole masses are nearly the same across all three phases. Using random forest regression, we found that the two electron acceptor sites (Ch and X) are crucial in shaping the properties of mixed-metal chalcohalide compounds. Furthermore, the electron donor sites (M(II) and M(III)) can be used to finetune the material properties to desired applications. These design rules enable precise tailoring of mixed-metal chalcohalide compounds for a variety of applications.",
+  "authors": [
+   "Pascal Henkel",
+   "Jingrui Li",
+   "Patrick Rinke"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pascal Henkel",
+  "pdf_url": "http://arxiv.org/pdf/2505.19882",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-26",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Design Rules for Optimizing Quaternary Mixed-Metal Chalcohalides",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-11-19"
+ },
+ "2510.06166": {
+  "abstract": "Among emerging energy materials, halide and chalcogenide perovskites have garnered significant attention over the last decade owing to the abundance of their constituent species, low manufacturing costs, and their highly tunable composition-structure-property space. Navigating the vast perovskite compositional landscape is possible using density functional theory (DFT) computations, but they are not easily extended to predictions of the synthesizability of new materials and their properties. As a result, only a limited number of compositions identified to have desirable optoelectronic properties from these calculations have been realized experimentally. One way to bridge this gap is by learning from the experimental literature about how the perovskite composition-structure space relates to their likelihood of laboratory synthesis. Here, we present our efforts in combining high-throughput DFT data with experimental labels collected from the literature to train classifier models employing various materials descriptors to forecast the synthesizability of any given perovskite compound. Our framework utilizes the positive and unlabeled (PU) learning strategy and makes probabilistic estimates of the synthesis likelihood based on DFT- computed energies and the prior existence of similar synthesized compounds. Our data and models can be readily accessed via a Findable, Accessible, Interoperable, and Reproducible (FAIR) nanoHUB tool.",
+  "authors": [
+   "Rushik Desai",
+   "Junyeong Ahn",
+   "Alejandro Strachan",
+   "Arun Mannodi-Kanakkithodi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rushik Desai",
+  "pdf_url": "http://arxiv.org/pdf/2510.06166",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-07",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Bridging the Synthesizability Gap in Perovskites by Combining Computations, Literature Data, and PU Learning",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-11-10"
+ },
  "2510.19106": {
   "abstract": "The Marcus theory of electron transfer assumes that diabatic energy gaps are sampled from a single ensemble. This assumption can break down in spatially anisotropic environments, such as Faradaic reactions at electrochemical interfaces, where distinct solvent ensembles arise along a collective variable describing the anisotropy. Treating this collective variable as an additional reaction coordinate linearly independent from the Marcus reaction coordinate, we develop a formalism that enables calculation of the resulting Coupled Ion-Electron Transfer (CIET) free-energy surface directly from constrained ab initio trajectories. Applied to CO2 redox on a gold electrode, this method reveals strong coupling to the anisotropy, predicting significantly different activation barriers compared to either coordinate alone.",
   "authors": [
@@ -53,6 +104,30 @@
    "Redox and Autocatalytic Electrochemical Networks"
   ],
   "updated": "2025-11-04"
+ },
+ "2511.14904": {
+  "abstract": "Anisotropic intersite exchange interactions in frustrated rare-earth magnets are difficult to assess both theoretically and experimentally. Here, we propose an ab initio force-theorem framework combining the quasi-atomic Hubbard-I approach to 4f correlations with a static mean-field treatment of the on-site intershell Coulomb interaction between rare-earth 4f and 5d states to simultaneously capture both 4f superexchange and 5d-mediated indirect exchange. Applying it to the triangular lattice Ce delafossites CsCeSe$_2$, KCeS$_2$, and RbCeO$_2$, we find that the indirect exchange dominates in the selenide, the superexchange in the oxide, while both mechanisms contribute almost equally in the sulfide. The magnetic exciation spectra of CsCeSe$_2$ and KCeS$_2$ evaluated from the calculated spin Hamiltonains are in good qualitative and quantitative agreement with experimental data.",
+  "authors": [
+   "Leonid V. Pourovskii"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 3 figures",
+  "first_author": "Leonid V. Pourovskii",
+  "pdf_url": "http://arxiv.org/pdf/2511.14904",
+  "primary_category": "cond-mat.str-el",
+  "published": "2025-11-18",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "5d-mediated indirect exchange and effective spin Hamiltonians in Ce triangular-lattice delafossites",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-11-18"
  },
  "2511.15042": {
   "abstract": "Electrochemical CO2 reduction (CO2R) offers a promising approach to decarbonize chemical manufacturing through production of carbon-neutral fuels. However, insufficient performance and instability of membrane electrode assembly (MEA) reactors limit commercial viability, with both metrics directly impacted by the CO2R catalysts. Here we develop an atomically dispersed nickel-nitrogen-carbon (Ni-NC) catalyst through a scalable synthesis approach using two different carbon supports. When using carbon nanotubes as the support, the resulting Ni-NCNT electrode achieves a partial current density toward CO of 558 mA cm-2 with 92 percent Faradaic efficiency toward CO at a cell voltage of 3.2 V and an energy efficiency of 39 percent toward CO at a total current density of 607 mA cm-2. The MEA demonstrates stable operation at 100 mA cm-2 over 210 hours, outperforming previously reported Ni-NC catalysts. Focused ion beam scanning electron microscopy (FIB-SEM) tomography illustrates the key role of catalyst support on the performance of the electrode. COMSOL Multiphysics simulations using 3D reconstructed images of the catalyst layers from FIB-SEM tomography demonstrate that the higher CO2R performance of the Ni-NCNT electrode is due to improved CO2 diffusion and a more uniform current-density distribution compared to the Ni-NCB electrode prepared with carbon black as the support. The stability and performance of the Ni-NCNT compare favorably to state-of-the-art Ag-based catalysts, while bottom-up cost analysis estimates the purchase cost of the Ni-NCNT catalyst to be about 589 USD per kg, substantially lower than the 1900 USD per kg estimated for Ag-based catalysts.",

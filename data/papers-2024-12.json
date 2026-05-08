@@ -19,14 +19,48 @@
   "tags": [
    "hydrogen-evolution",
    "iron-sulfides",
+   "millerite",
    "nickel-sulfides",
    "pyrite",
    "transition-metal-sulfides"
   ],
   "title": "Recent advances in hydrogen production using sulfide-based photocatalysts",
   "topics": [
+   "Adsorption and Ion Transport",
+   "Fe-Ni-S Mineral Surfaces",
+   "Sulfidation and Phase Stability",
    "Sulfide Electrocatalysts"
   ],
   "updated": "2024-12-07"
+ },
+ "2412.17711": {
+  "abstract": "We present an ab initio theory of the non-resonant Raman scattering process in crystals at finite temperature in direct comparison with experiments. The theory incorporates the scattering geometry and polarization dependence of the Raman process and the small but finite wave vectors of the phonons for correctly describing the scattering with longitudinal optical (LO) modes in optically anisotropic solids. We implement the theory for first-order Raman scattering and showcase the approach for wurtzite Gallium Nitride and the complex chalcogenide perovskite BaZrS3 in comparison to experiment. We subsequently discuss several common estimates for second-order Raman scattering in complex materials, and highlight similarities and differences to established theoretical approaches and simulation protocols both from phonon theory and molecular dynamics.",
+  "authors": [
+   "Florian Knoop",
+   "Nimrod Benshalom",
+   "Matan Menahem",
+   "Paul Gartner",
+   "Tommaso Salzillo",
+   "Omer Yaffe",
+   "Olle Hellman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 8 figures",
+  "first_author": "Florian Knoop",
+  "pdf_url": "http://arxiv.org/pdf/2412.17711",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-12-23",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "molecular-dynamics"
+  ],
+  "title": "Ab initio theory of the non-resonant Raman effect in crystals at finite temperature in comparison to experiment: The examples of GaN and BaZrS3",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2024-12-23"
  }
 }

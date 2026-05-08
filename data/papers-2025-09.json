@@ -51,6 +51,36 @@
   ],
   "updated": "2025-09-22"
  },
+ "2505.17324": {
+  "abstract": "We present a first-principles study based on density functional theory (DFT) on the electronic and structural properties of Ta2NiSe5, a layered transition metal chalcogenide that has been considered as a possible candidate for an excitonic insulator. Our systematic DFT results however provide a non-excitonic mechanism for the experimentally observed electronic and structural phase transitions in Ta2NiSe5, in particular explaining why sulfur substitution of selenium reduces the distortion angle in the low-temperature phase and potassium dosing closes the gap in the electronic structure. Moreover, the calculations show that these two effects couple to each other. Further, our first-principles calculations predict several changes in both the crystal structure and electronic structure under the effects of uniform charge dosing and uniaxial strain, which could be tested experimentally.",
+  "authors": [
+   "Weichen Tang",
+   "Zhenglu Li",
+   "Cheng Chen",
+   "Yu He",
+   "Steven G. Louie"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Weichen Tang",
+  "pdf_url": "http://arxiv.org/pdf/2505.17324",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-22",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory",
+   "phase-transitions"
+  ],
+  "title": "Non-excitonic mechanism for electronic and structural phase transitions in Ta2Ni(Se,S)5",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-09-21"
+ },
  "2509.01771": {
   "abstract": "Membrane-electrode-assembly (MEA) cells with copper (Cu) cathodes show strong potential for electrochemical CO2 reduction to ethylene (C2H4), but achieving high C2H4 selectivity remains a challenge due to competing hydrogen evolution. This selectivity is highly sensitive to the local microenvironment near the Cu catalyst surface. In this study, a 1-D, multiphysics continuum model is utilized to investigate how MEA cell performance and faradaic efficiency (FE) to C2H4 are affected by both component properties and operating conditions, with particular focus on coupled transport and reaction phenomena. Key parameters include cathode electrochemically active surface area (ECSA) and catalyst layer thickness. Halving catalyst layer thickness increases FE to C2H4 by 2% and lowers the cell voltage by 40 mV. In contrast, a tenfold decrease in ECSA results increases the FE to C2H4 by 7% but leads increase cell voltage at a given current density by 150 mV. This tradeoff occurs because the potential distribution within the cathode catalyst layer is the primary driving force for C2H4 formation. Increased cell voltage also raises the energy cost of C2H4 production. This model framework enables techno-economic assessments and identifies key factors that must be optimized to enable economically viable production of C2H4 via electrochemical reduction of CO2.",
   "authors": [
@@ -218,6 +248,39 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-09-22"
+ },
+ "2509.20845": {
+  "abstract": "By means of the first-principles density functional theory (DFT), I2-II-IV-VI4 type Cu-based quaternary chalcogenides Cu 2 XSiS 4 (X = Ge, Sn, and Pb) have been thoroughly investigated. We report the study of Ge and Sn substitution in the divalent cation site for their potential applications in photovoltaics for the first time. The structural, electronic, optical, and mechanical properties have been calculated. The structural and thermal stability is verified by calculating the elastic constants, formation energy and total potential energy at 300 K from the ab-initio molecular dynamics (MD) simulation. The compounds under our investigation exhibited an indirect band gap in the range of 1.0--1.56 eV, suitable for energy harvesting by trapping the sunlight. The presence of absorption peaks within the visible region complements their potential in photovoltaic applications. For further validation, we have designed a model of a heterostructure (FTO/TiO2/Cu2XSiS4/CuO/Au) solar cell, and a numerical simulation has been performed by solving the Poisson equation and continuity equations to obtain the I-V characteristic by using SCAPS-1D. All the inputs needed for solar- cell simulation in SCAPS-1D have been taken from the DFT results. The corresponding Power Conversion Efficiency (PCE) is denoted by η% and their respective values for X=Ge, Sn and Pb are 23.46%, 23.29% and 22.60%, at room temperature. The Ge-based system exhibits the highest η%, owing to its band gap value in the visible range of the solar spectrum. Thus, we report that Ge-based compounds may act as a promising absorber layer in heterostructure solar-cell applications.",
+  "authors": [
+   "H. Laltlanmawii",
+   "L. Celestine",
+   "R. Zosiamliana",
+   "B. Chettri",
+   "S. Bhattarai",
+   "K. C. Bhamu",
+   "D. P. Rai"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "H. Laltlanmawii",
+  "pdf_url": "http://arxiv.org/pdf/2509.20845",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-09-25",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory",
+   "molecular-dynamics",
+   "phase-stability"
+  ],
+  "title": "Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-09-25"
  },
  "2509.24742": {
   "abstract": "Constant potential molecular dynamics simulation plays important role for applications of electrochemical systems, yet the calculation of charge fluctuation on electrodes remains a computational bottleneck. We propose a highly scalable, symmetry-preserving random batch Ewald (SRBE) algorithm to address this challenge. The SRBE algorithm deterministically computes the low-frequency components along the direction perpendicular to electrodes, while efficiently approximating the remaining components using random batch sampling. This approach simultaneously reduces charge and force fluctuations while satisfying the symmetry-preserving mean field condition in anisotropic systems with large aspect ratios. Numerical experiments on electrode/ionic liquid systems validate the high accuracy of the SRBE method in capturing dynamic charging processes and equilibrium electric double layer structures. The SRBE method achieves parallel efficiency improvements of up to two orders of magnitude compared with conventional FFT-based algorithms. These findings highlight its strong potential for enabling large-scale electrochemical simulations and its broad applicability to practical problems in the field.",

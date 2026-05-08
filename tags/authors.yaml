@@ -1,0 +1,159 @@
+# Author whitelist for arxiv-radar-electrochemistry.
+#
+# Mechanism: after the regex relevance_filter rejects a paper, daily_arxiv
+# does a second-chance check against this whitelist. If any author of the
+# paper matches, the paper is admitted with topic `via:author-whitelist:<note>`
+# so its origin is traceable.
+#
+# Inclusion criteria: high-signal authors in electrochemistry, mineral
+# surface DFT, prebiotic mineral catalysis, atomistic MD/MLIPs, and
+# origin-of-life. Project-relevant first, then broader field leaders so
+# the radar stays useful as a community contribution (not just our lens).
+#
+# Match is case-insensitive substring on each name in the paper's authors
+# list. Use the most distinctive form of the surname; add forename initials
+# only when the surname is ambiguous (e.g. "Russell, M." vs "Russell, J.").
+
+authors:
+
+  # --- DFT methodology, electrochemistry ---
+
+  - name_match: ["Sundararaman", "R. Sundararaman", "Ravishankar Sundararaman"]
+    affiliation_hint: ["Rensselaer", "RPI"]
+    note: "JDFTx, electrochemistry-DFT, solvation"
+
+  - name_match: ["Andreussi", "Oliviero Andreussi"]
+    note: "ENVIRON, Quantum-ESPRESSO solvation"
+
+  - name_match: ["Reuter, K", "Karsten Reuter"]
+    note: "catalysis DFT, kinetic Monte Carlo"
+
+  - name_match: ["Sprik", "Michiel Sprik"]
+    note: "AIMD electrochemistry, redox levels"
+
+  - name_match: ["Hammer, B", "Bjørk Hammer"]
+    note: "DFT catalysis, GPAW"
+
+  - name_match: ["Nørskov", "Jens Nørskov", "Norskov"]
+    note: "scaling relations, electrocatalysis"
+
+  - name_match: ["Janik", "Michael Janik"]
+    note: "electrocatalysis DFT"
+
+  - name_match: ["Goddard, W"]
+    note: "ReaxFF, electrochemistry, CO2RR"
+
+  # --- Sulfide / mineral surface DFT ---
+
+  - name_match: ["Roldan", "Alberto Roldan"]
+    note: "iron sulfide, mineral surfaces"
+
+  - name_match: ["Santos-Carballal", "Santos Carballal"]
+    note: "sulfide DFT, magnetism"
+
+  - name_match: ["de Leeuw, N", "Nora de Leeuw"]
+    note: "mineral surface DFT, hydrothermal chemistry"
+
+  - name_match: ["Stirling, A", "Andras Stirling"]
+    note: "iron sulfide AIMD"
+
+  # --- Atomistic / proton dynamics / aqueous chem-physics ---
+
+  - name_match: ["Marx, D", "Dominik Marx"]
+    note: "AIMD, proton transfer"
+
+  - name_match: ["Parrinello", "Michele Parrinello"]
+    note: "metadynamics, AIMD"
+
+  - name_match: ["Ceriotti", "Michele Ceriotti"]
+    note: "PIMD, MLIPs, water"
+
+  - name_match: ["Markland", "Tom Markland", "Thomas Markland"]
+    note: "AIMD, proton transfer in water"
+
+  - name_match: ["Tuckerman", "Mark Tuckerman"]
+    note: "Grotthuss mechanism, AIMD"
+
+  - name_match: ["Galli, G", "Giulia Galli"]
+    note: "DFT water, defects"
+
+  - name_match: ["Voth, G", "Gregory Voth"]
+    note: "proton transport, MS-EVB"
+
+  # --- MLIP foundation models / atomistic ML ---
+
+  - name_match: ["Behler", "Jörg Behler", "Joerg Behler"]
+    note: "neural network potentials"
+
+  - name_match: ["Csányi", "Csanyi", "Gábor Csányi", "Gabor Csanyi"]
+    note: "GAP, MACE, ACE"
+
+  - name_match: ["Batatia", "Ilyes Batatia"]
+    note: "MACE author"
+
+  - name_match: ["Ong, S", "Shyue Ping Ong"]
+    note: "M3GNet, CHGNet"
+
+  - name_match: ["Cheng, B", "Bingqing Cheng"]
+    note: "MLIPs, water, free energy"
+
+  - name_match: ["Tkatchenko", "Alexandre Tkatchenko"]
+    note: "vdW, ML force fields"
+
+  - name_match: ["Drautz", "Ralf Drautz"]
+    note: "ACE potentials"
+
+  # --- Origin of life / prebiotic / hydrothermal vents ---
+
+  - name_match: ["Russell, M", "Michael Russell"]
+    note: "alkaline hydrothermal vent theory"
+
+  - name_match: ["Martin, W", "William Martin", "Bill Martin"]
+    note: "origin of life biochemistry, autotrophy"
+
+  - name_match: ["Lane, N", "Nick Lane"]
+    note: "vent theory, bioenergetics"
+
+  - name_match: ["Sojo", "Victor Sojo"]
+    note: "vent geochemistry, pH gradients"
+
+  - name_match: ["Beyazay", "Tuğçe Beyazay"]
+    note: "experimental vent chemistry, FeS catalysis"
+
+  - name_match: ["Muchowska", "Kamila Muchowska"]
+    note: "prebiotic chemistry, metal-driven CO2 reduction"
+
+  - name_match: ["Moran, J", "Joseph Moran"]
+    note: "prebiotic CO2 fixation, autocatalysis"
+
+  - name_match: ["Wächtershäuser", "Wachtershauser", "Günter Wächtershäuser"]
+    note: "iron-sulfur world theory"
+
+  - name_match: ["Sutherland, J", "John Sutherland"]
+    note: "prebiotic synthesis, RNA world"
+
+  - name_match: ["Ranjan", "Sukrit Ranjan"]
+    note: "prebiotic photochemistry, atmospheric chem"
+
+  - name_match: ["Cleaves", "H. James Cleaves"]
+    note: "prebiotic chemistry"
+
+  - name_match: ["Krishnamurthy", "Ramanarayanan Krishnamurthy"]
+    note: "prebiotic phosphorylation, sugar chemistry"
+
+  # --- Geochemistry / mineral-water interfaces ---
+
+  - name_match: ["Schoonen", "Martin Schoonen"]
+    note: "pyrite geochemistry, prebiotic"
+
+  - name_match: ["Rosso, K", "Kevin Rosso"]
+    note: "iron oxide / sulfide geochemistry"
+
+  - name_match: ["Sherman, D", "David Sherman"]
+    note: "mineral surface DFT, hydrothermal"
+
+  - name_match: ["Kubicki, J", "James Kubicki"]
+    note: "mineral-water interface DFT"
+
+  - name_match: ["Bourg, I", "Ian Bourg"]
+    note: "mineral-water interface MD"

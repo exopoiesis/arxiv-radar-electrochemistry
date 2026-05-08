@@ -1,4 +1,33 @@
 {
+ "2501.16561": {
+  "abstract": "BaZrS3 is a chalcogenide perovskite that has shown promise as a photovoltaic absorber, but its performance is limited because of defects and impurities that have a direct influence on carrier concentrations. Functional dopants that show lower donor-type or acceptor-type formation energies than naturally occurring defects can help tune the optoelectronic properties of BaZrS3. In this work, we applied first principles computations to comprehensively investigate the defect landscape of BaZrS3, including all intrinsic defects and a set of selected impurities and dopants. BaZrS3 intrinsically exhibits n-type equilibrium conductivity under both S-poor and S-rich conditions, which remains largely unchanged in the presence of O and H impurities. La and Nb dopants created stable donor-type defects, which made BaZrS3 even more n-type, whereas As and P dopants formed amphoteric defects with relatively high formation energies. This work highlights the difficulty of creating p-type BaZrS3 owing to the low formation energies of donor defects, both intrinsic and extrinsic. Defect formation energies were also used to compute expected defect concentrations and make comparisons with experimentally reported values. Our dataset of defects in BaZrS3 paves the path for training machine learning models to subsequently perform larger-scale prediction and screening of defects and dopants across many chalcogenide perovskites, including cation-site or anion-site alloys.",
+  "authors": [
+   "Rushik Desai",
+   "Shubhanshu Agarwal",
+   "Kiruba Catherine Vincent",
+   "Alejandro Strachan",
+   "Rakesh Agrawal",
+   "Arun Mannodi-Kanakkithodi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rushik Desai",
+  "pdf_url": "http://arxiv.org/pdf/2501.16561",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-01-27",
+  "tags": [
+   "ab-initio",
+   "chalcogenides"
+  ],
+  "title": "Exploring the defect landscape and dopability of chalcogenide perovskite BaZrS3",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-04-07"
+ },
  "2504.00350": {
   "abstract": "The conversion of CO2 into high-value chemicals through a photoreduction reaction in water is a promising route to reduce the dependence on fossil fuels. Ag nanoparticles can drive this reaction via localized surface plasmon resonance, but their low selectivity limits usage in industry. Enhancing selectivity toward hydrocarbons or alcohols requires addition of a co-catalyst such as Cu. However, the stabilized surface state created by Ag-Cu interactions is still poorly understood. In this work, soft x-ray Ambient-Pressure X-ray Photoelectron Spectroscopy (AP-XPS) and Grazing-Incidence X-ray Scattering (AP-GIXS) were used to investigate the evolution of Ag-Cu nanoparticles under CO2RR-like conditions. AP-XPS revealed Ag and Cu surface and sub-surface diffusion, while AP-GIXS tracked change of shape and size of nanoparticles induced by diffusion mechanics. Under 532 nm laser irradiation, further oxidation of Cu and Ag sub-surface diffusion were observed, providing invaluable insights into the dynamic restructuring of the catalyst under reaction conditions.",
   "authors": [
@@ -28,6 +57,42 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-04-01"
+ },
+ "2504.02063": {
+  "abstract": "NiS2, a compound characterized by its pyrite structure, uniquely bridges the realms of strong correlation physics and topology. While bulk NiS2 is known to be a Mott or charge-transfer insulator, its surface displays anomalous metallic behavior and finite conductivity. Using high-resolution neutron scattering data and symmetry analysis, we propose a refined description of NiS2's magnetic phases by introducing a novel model for its ground state. Combined with high-resolution scanning tunneling microscopy and spectroscopy (STM/STS), we unveil the presence of edge states in both Ni- and S-terminated surfaces, which exhibit remarkable resilience to external magnetic fields. Although both types of edge states exhibit similar properties, only the edge states at the Ni termination populate the vicinity of the Fermi level and, therefore contribute to the surface conductivity. Utilizing ab initio methods combined with a topological quantum chemistry analysis, we attribute these edge states to obstructed atomic charges originating from bulk topology. Overall, this work not only deepens our understanding of NiS2 but also lays a robust experimental and theoretical foundation for further exploration of the interplay between one-dimensional step-edge states and the Wannier obstruction in correlated materials.",
+  "authors": [
+   "Mikel Iraola",
+   "Haojie Guo",
+   "Fabio Orlandi",
+   "Sebastian Klemenz",
+   "Martina Soldini",
+   "Sandra Sajan",
+   "Pascal Manuel",
+   "Jeroen van den Brink",
+   "Titus Neupert",
+   "Miguel M. Ugeda",
+   "Leslie M. Schoop",
+   "Maia G. Vergniory"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Mikel Iraola",
+  "pdf_url": "http://arxiv.org/pdf/2504.02063",
+  "primary_category": "cond-mat.str-el",
+  "published": "2025-04-02",
+  "tags": [
+   "ab-initio",
+   "pyrite",
+   "surface-science"
+  ],
+  "title": "One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Fe-Ni-S Mineral Surfaces"
+  ],
+  "updated": "2025-04-02"
  },
  "2504.02954": {
   "abstract": "Surface specific vibrational spectroscopies revolutionized the study of charged interfaces, by sensitively probing water's response in the electric double layer (EDL) and correlating it with surface charge via models like Gouy Chapmann Stern. The assumed one to one relationship between water's spectroscopic response and surface charge has been widely accepted without question. We hereby propose a theoretical experiment to evaluate this assumption. Interestingly, our findings reveal a non one to one relationship between surface charge and spectroscopic response, exhibiting a fascinating dependence on surface topology.",
@@ -79,6 +144,32 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2025-04-11"
+ },
+ "2504.12043": {
+  "abstract": "We present a Density Functional Theory (DFT) based first-principles study on iron chalcogenides superconductor FeSe, systematically investigating pressure and doping induced modifications to its electronic, magnetic, and lattice dynamical properties. Our constrained-DFT calculations in striped antiferromagnetic and staggered dimer phase reveal a non-trivial dependence of the electronic structure on the local magnetic moment at all pressures. Sulpher (S) and tellurium (Te) doping exert opposing effects on the electronic structure, attributable to their contrasting chemical pressure effects (negative for S, positive for Te). Lattice dynamics calculations divulge distinct dependence of different phonon modes on local magnetic moment in different magnetic phases. We identify pressure and magnetic moment-dependent dynamical instability in certain magnetic phases, underscoring the intricate interplay of structural, electronic, and magnetic properties in this system. Investigation of spin-phonon coupling for different phonon modes shows the presence of strong magneto-elastic coupling in FeSe with pressure distinctly affecting prominent optical phonon modes -- pure iron derived $B_{1g}$ and pure selenium derived $A_{1g}$. A clear indication of the change in spin-phonon coupling with pressure is visible, especially for the $B_{1g}$ mode.",
+  "authors": [
+   "Abyay Ghosh",
+   "Piotr Chudzinski",
+   "Myrta Grüning"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "References are not showing in the preview",
+  "first_author": "Abyay Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2504.12043",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-16",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Effect of pressure, doping and magnetism on electronic structure and phonon dispersion of FeSe",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-04-16"
  },
  "2504.13634": {
   "abstract": "Electrochemical CO2 reduction (eCO2R) represents a pivotal strategy for mitigating global carbon emissions while simultaneously converting renewable energy into storable chemical fuels. Copper-based catalysts have been extensively explored in this field due to their unique capability to catalyze multi-carbon products. However, the intrinsic complexity of eCO2R pathways on Cu surfaces often leads to mixed product distributions, posing a significant challenge for achieving high selectivity toward a single desired hydrocarbon. Herein, we report a breakthrough in methane selectivity using laser-synthesized, ligand-free Cu nanomaterials. Unlike conventional Cu catalysts that produce diverse products, these ligand-free nanoparticles exhibit unprecedented selectivity for methane (CH4) with a Faradaic efficiency (FE) exceeding 70% at superior overpotentials. The absence of surface ligands, a direct consequence of the ultrafast laser ablation synthesis, ensures abundant exposed active sites with tailored electronic and geometric configurations. We attribute the exceptional methane selectivity to the synergistic effects of active sites-rich surfaces and optimized *CO intermediate binding energetics, which favor the protonation pathway toward CH4 rather than C-C coupling. This work not only resolves the long-standing selectivity dilemma in Cu-catalyzed eCO2R but also establishes laser-synthesized ligand-free nanomaterials as a versatile platform for designing high-performance electrocatalysts.",
@@ -138,6 +229,31 @@
   "title": "Prediction of CO2 reduction reaction intermediates and products on transition metal-doped r-GeSe monolayers:A combined DFT and machine learning approach",
   "topics": [
    "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-04-22"
+ },
+ "2504.15982": {
+  "abstract": "The CHNOS elemental budgets of rocky planets are crucial for their structure, evolution and potential chemical habitability. It is unclear how the nonlocal disk processes affecting dust in planet-forming disks affect the CHNOS elemental budgets of nascent planets both inside and outside the Solar System. We aim to quantify the coupled effect of dynamical and collisional processes on the initial refractory CHNOS budgets of planetesimals, forming interior to the water ice line for a Solar and non-Solar composition consistent with the star HIP 43393. Methods. We utilize the SHAMPOO code to track the effects of dynamical and collisional processes on 16000 individual dust monomers. Each monomer is here assigned a refractory chemical composition and mineralogy informed by the equilibrium condensation code GGCHEM given the P-T conditions at the initial position of the monomer. Monomers travel embedded in aggregates through a young class I disk, whose structure is calculated with the ProDiMo code. Furthermore, monomers are allowed to undergo dehydration and desulfurization. We find that solid material becomes well-mixed both radially and vertically. For both the Solar and HIP43393 compositions, the solid phase in the disk midplane regions interior to r~0.7AU can become enriched in hydrogen and sulfur by up to 10at% relative to predictions from purely local calculations. This originates from the inward radial transport of hydrated and sulfur-bearing minerals such as lizardite and iron sulfide. Nonlocal disk processing in a young turbulent, massive disk can lead to significant compositional homogenization of the midplane dust and by extension of the initial composition of planetesimals. Planetesimals forming at r<0.7AU may become enriched in hydrated minerals and sulfur, which could result in more widespread aqueous alteration interior to the water iceline compared to planetesimals that emerge...",
+  "authors": [
+   "Mark Oosterloo",
+   "Inga Kamp",
+   "Wim van Westrenen"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "14 pages, 9 figures, accepted by A&A",
+  "first_author": "Mark Oosterloo",
+  "pdf_url": "http://arxiv.org/pdf/2504.15982",
+  "primary_category": "astro-ph.EP",
+  "published": "2025-04-22",
+  "tags": [
+   "iron-sulfides"
+  ],
+  "title": "The effects of transport processes on the bulk composition of the first generation of planetesimals interior to the water iceline",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Sulfidation and Phase Stability"
   ],
   "updated": "2025-04-22"
  },

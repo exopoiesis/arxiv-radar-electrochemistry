@@ -1,4 +1,36 @@
 {
+ "2502.05422": {
+  "abstract": "The magnetic ground states in crystalline systems are significant for both fundamental condensed matter physics and practical materials engineering. Marcasite FeTe$_{2}$, characterized as a small-gap semiconductor, exhibits anomalous magnetic behaviors in low-temperature experiments. In this study, first-principles density functional theory calculations combined with scanning tunneling microscopy/spectroscopy are employed to investigate the magnetic ground state of marcasite FeTe$_{2}$. It is revealed that the competition between crystal field splitting and on-site Coulomb repulsion plays the key role in the formation of localized magnetic moments in FeTe$_{2}$. The ground state of FeTe$_{2}$ bulk is confirmed to be nonmagnetic, while the magnetic responses of FeTe$_{2}$ observed at low temperature are suggested to be related to the magnetic Fe atoms on the crystal surfaces. Our work proposes a straightforward competing mechanism for determining ground-state magnetism of various localized-moment crystalline systems.",
+  "authors": [
+   "Yue-Fei Hou",
+   "Zhibin Shao",
+   "Minghu Pan",
+   "Shiyang Wu",
+   "Fawei Zheng",
+   "Zhen-Guo Fu",
+   "Ping Zhang"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "5 figures, 10 pages. Some revisions were performed. Comments are welcome",
+  "first_author": "Yue-Fei Hou",
+  "pdf_url": "http://arxiv.org/pdf/2502.05422",
+  "primary_category": "cond-mat.str-el",
+  "published": "2025-02-08",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "marcasite",
+   "surface-science"
+  ],
+  "title": "Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion",
+  "topics": [
+   "Fe-Ni-S Mineral Surfaces"
+  ],
+  "updated": "2025-06-18"
+ },
  "2504.12475": {
   "abstract": "Hydrogen production as a clean, sustainable replacement for fossil fuels is gathering pace. Research work and prototyping various aspects of hydrogen power is now a priority. Over 90 \\% of all chemical manufacture uses a solid catalyst. This work describes catalytic selective hydrogen production optimising reactant structure on a model catalyst. Focus is on O-H bond dissociation in format radicals formed after carbon-monoxide is co-adsorbed with water at Pt(111). Finally, hydrogen gas is given off. Many chemical reactions involve bond-dissociation. This process is often the key to rate-limiting reaction steps at solid surfaces. %This is also true for reactions at solid surfaces, in which the dissociation step is often limiting but facilitated in comparison to gas phase reaction channels. Since bond-breaking is poorly described by Hartree-Fock and DFT methods, our embedded active site approach is used. This work demonstrates Quantum Monte Carlo (QMC) methodology using a very simple four primitive-cell layer model, oriented to expose Pt (111). QMC is a stochastic approach to solving the Schr{ö}dinger equation recently came of age for heterogeneous systems involving solids. During hydrolysis of carbon monoxide, initial O-H bond stretch is rate-limiting. This dissociation energy is offset by Pt-H bond formation at the surface. The reactive formate (H-O-C=O) species formed, by initial hydrolysis of CO, also interact with a vicinal Pt. These are subsequently desorbed. They then produce carbon dioxide and hydrogen, with a H-atom dissociated from the formate species and another desorbed at the Pt(111) face.   Our approach allows a high-level configuration interaction (CI) wave-function to be used, expanded in plane-waves and embedded in the metal lattice exposing its close-packed face. The resulting periodic function is used to guide the QMC calculation.",
   "authors": [
@@ -46,6 +78,34 @@
   "title": "Bubble-Burst Synthesis of Ammonia, Amino Acids, and Urea Under Ambient, Catalyst-Free Conditions",
   "topics": [
    "CO2 Reduction and Formate"
+  ],
+  "updated": "2025-06-02"
+ },
+ "2506.01517": {
+  "abstract": "The chalcogenide perovskite material BaZrS$_{3}$ is of growing interest for emerging thin-film photovoltaics. Here we show how machine-learning-driven modelling can be used to describe the material's amorphous precursor as well as polycrystalline structures with complex grain boundaries. Using a bespoke machine-learned interatomic potential (MLIP) model for BaZrS$_{3}$, we study the atomic-scale structure of the amorphous phase, quantify grain-boundary formation energies, and create realistic-scale polycrystalline structural models which can be compared to experimental data. Beyond BaZrS$_{3}$, our work exemplifies the increasingly central role of MLIPs in materials chemistry and marks a step towards realistic device-scale simulations of materials that are gaining momentum in the fields of photovoltaics and photocatalysis.",
+  "authors": [
+   "Laura-Bianca Paşca",
+   "Yuanbin Liu",
+   "Andy S. Anker",
+   "Ludmilla Steier",
+   "Volker L. Deringer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Laura-Bianca Paşca",
+  "pdf_url": "http://arxiv.org/pdf/2506.01517",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-06-02",
+  "tags": [
+   "chalcogenides",
+   "mlip"
+  ],
+  "title": "Machine-learning-driven modelling of amorphous and polycrystalline BaZrS$_{3}$",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Machine-Learned Potentials for Sulfides"
   ],
   "updated": "2025-06-02"
  },
@@ -99,8 +159,11 @@
   ],
   "title": "Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study",
   "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides",
    "CO2 Reduction and Formate",
-   "Ion Transport, Gradients, and Membranes"
+   "Ion Transport, Gradients, and Membranes",
+   "Sulfidation and Phase Stability"
   ],
   "updated": "2025-06-30"
  },
@@ -155,6 +218,39 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2025-06-09"
+ },
+ "2506.15223": {
+  "abstract": "Pretrained universal machine-learning interatomic potentials (MLIPs) have revolutionized computational materials science by enabling rapid atomistic simulations as efficient alternatives to ab initio methods. Fine-tuning pretrained MLIPs offers a practical approach to improving accuracy for materials and properties where predictive performance is insufficient. However, this approach often induces catastrophic forgetting, undermining the generalizability that is a key advantage of pretrained MLIPs. Herein, we propose reEWC, an advanced fine-tuning strategy that integrates Experience Replay and Elastic Weight Consolidation (EWC) to effectively balance forgetting prevention with fine-tuning efficiency. Using Li$_6$PS$_5$Cl (LPSC), a sulfide-based Li solid-state electrolyte, as a fine-tuning target, we show that reEWC significantly improves the accuracy of a pretrained MLIP, resolving well-known issues of potential energy surface softening and overestimated Li diffusivities. Moreover, reEWC preserves the generalizability of the pretrained MLIP and enables knowledge transfer to chemically distinct systems, including other sulfide, oxide, nitride, and halide electrolytes. Compared to Experience Replay and EWC used individually, reEWC delivers clear synergistic benefits, mitigating their respective limitations while maintaining computational efficiency. These results establish reEWC as a robust and effective solution for continual learning in MLIPs, enabling universal models that can advance materials research through large-scale, high-throughput simulations across diverse chemistries.",
+  "authors": [
+   "Jisu Kim",
+   "Jiho Lee",
+   "Sangmin Oh",
+   "Yutack Park",
+   "Seungwoo Hwang",
+   "Seungwu Han",
+   "Sungwoo Kang",
+   "Youngho Kang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 8 figures, Supplementary information included as ancillary file (+16 pages)",
+  "first_author": "Jisu Kim",
+  "pdf_url": "http://arxiv.org/pdf/2506.15223",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-06-18",
+  "tags": [
+   "ab-initio",
+   "mlip",
+   "surface-science"
+  ],
+  "title": "An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-06-18"
  },
  "2506.16807": {
   "abstract": "Proton-coupled electron transfers (PCET) are elementary steps in electrocatalysis. However, accurate calculations of PCET rates remain challenging, especially considering nuclear quantum effects (NQEs) under a constant potential condition. Statistical sampling of reaction paths is an ideal approach for rate calculations, however, is always limited by the rare-event issue. Here we develop an electrochemistry-driven quantum dynamics approach enabling realistic enhanced paths sampling under constant potentials without a priori defined reaction coordinates. We apply the method in modeling the Volmer step of the hydrogen evolution reaction, and demonstrate that the NQEs exhibit more than one order of magnitude impact on the computed rate constant, indicating an essential role of NQEs in electrochemistry.",

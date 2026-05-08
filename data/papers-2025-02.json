@@ -1,4 +1,59 @@
 {
+ "2411.14289": {
+  "abstract": "Chalcogenide perovskites are lead-free materials for potential photovoltaic or thermoelectric applications. BaZrS$_3$ is the most studied member of this family due to its superior thermal and chemical stability, desirable optoelectronic properties, and low thermal conductivity. Phase transitions of BaZrS$_3$ remain underexplored in the literature, as most experimental characterizations of this material have been performed at ambient conditions where the orthorhombic Pnma phase is reported to be stable. In this work, we study the dynamics of BaZrS$_3$ across a range of temperatures and pressures using an accurate machine-learning interatomic potential trained with data from hybrid density functional theory calculations. At 0 Pa, we find a first-order phase transition from the orthorhombic to tetragonal I4/mcm phase at 610 K, and a second-order transition from the tetragonal to the cubic Pm-3m phase at 880 K. The tetragonal phase is stable over a larger temperature range at higher pressures. To confirm the validity of our model we compare our results with a range of published experimental data and report a prediction for the X-ray diffraction pattern as a function of temperature.",
+  "authors": [
+   "Prakriti Kayastha",
+   "Erik Fransson",
+   "Paul Erhart",
+   "Lucy D. Whalley"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 4 figures",
+  "first_author": "Prakriti Kayastha",
+  "pdf_url": "http://arxiv.org/pdf/2411.14289",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-11-21",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "mlip",
+   "phase-transitions"
+  ],
+  "title": "Octahedral tilt-driven phase transitions in BaZrS$_3$ chalcogenide perovskite",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-02-07"
+ },
+ "2412.00792": {
+  "abstract": "This study systematically investigates the electronic structure and bonding properties of two-dimensional bilayer transition metal chalcogenides MX2 (M = Mo, W; X = S, Se, Te) using density functional theory calculations. By analyzing band gaps, deformation bond energies, and non-Hermitian bonding characteristics across various MX2 compounds, we comprehensively examine their electronic properties and chemical bonding behavior. The results reveal that charge transfer plays a crucial role in electron mass fluctuations, with topological geometric analysis further confirming the impact of mass variations on atomic bonding and electronic states. These findings provide a theoretical foundation for advancing the application of these materials.",
+  "authors": [
+   "Yaorui Tan",
+   "Maolin Bo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yaorui Tan",
+  "pdf_url": "http://arxiv.org/pdf/2412.00792",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-12-01",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Electronic Structure, mass fluctuation, and Localized Bond Properties of two-dimensional double-layer transition metal chalcogenide MX$_2$ (M = Mo, W; X = S, Se, Te) Calculated Based on Density Functional Theory and BBC model",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-02-27"
+ },
  "2502.01028": {
   "abstract": "Capture of anthropogenic CO2 is critical for mitigating climate change, and reducing the energy cost is essential for wide-scale deployment. Solubility of inorganic carbon in aqueous solutions depends on the pH, and electrochemical modulation of the pH has been investigated as a means of CO2 capture and release. However, reported methods incur unavoidable energy costs due to thermodynamic penalties. In this study, we introduce a pH-independent redox chemistry that greatly lowers the thermodynamic energy costs by changing the pH without directly changing the [H+]. We show that the redox reaction of TEMPO molecules modulates the pH for capture and release of CO2 in a flow cell with an energy cost as low as 2.6 kJ/mol of CO2 corresponding to 0.027 eV/molecule. A molecular model, supported by MD and DFT simulations, is proposed of how the pH is decreased by 7.6 while largely avoiding the entropic energy cost associated with increasing the [H+]. We believe that this work showcases the potential of pH-independent redox chemistries for practical and cost-effective CO2 capture.",
   "authors": [
@@ -90,6 +145,59 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2025-02-19"
+ },
+ "2502.14622": {
+  "abstract": "Lead-free chalcogenide perovskites are emerging as game-changers in the race for sustainable, high-performance photovoltaics. These materials offer a perfect trifecta: non-toxic elemental composition, exceptional phase stability, and outstanding optoelectronic properties. However, unlocking their full potential for solar cell applications requires advanced strategies to fine-tune their electronic and optical behavior. In this study, we take CaHfS$_{3}$-a promising but underexplored candidate-and revolutionize its performance by introducing targeted substitutions: Ti at the cation site and Se at the anion site. Using cutting-edge computational techniques, including density functional theory, GW calculations, and the Bethe-Salpeter equation (BSE), we reveal how these substitutions transform the material's properties. Our findings highlight that alloyed compounds such as CaHfS$_{3-x}$Se$_{x}$ and CaHf$_{1-y}$Ti$_{y}$X$_{3}$ (X = S, Se) are not only phase-stable but also feature adjustable direct G$_{0}$W$_{0}$@PBE bandgaps (1.29-2.67 eV), reduced exciton binding energies, and significantly improved polaron mobility. These modifications enable better light absorption, reduced electron-hole recombination, longer exciton lifetimes, and enhanced quantum yield. Impressively, the alloyed perovskites, specifically, for the Ti-rich Se-based perovskites, achieve a spectroscopic-limited maximum efficiency of up to 28.06%, outperforming traditional lead-based halide perovskites. Our results demonstrate that strategic alloying is a powerful tool to supercharge the optoelectronic properties of lead-free chalcogenide perovskites, positioning them as strong contenders for next-generation photovoltaic technologies.",
+  "authors": [
+   "Surajit Adhikari",
+   "Priya Johari"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 6 figures, 4 tables",
+  "first_author": "Surajit Adhikari",
+  "pdf_url": "http://arxiv.org/pdf/2502.14622",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-02-20",
+  "tags": [
+   "adsorption-energy",
+   "chalcogenides",
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "Optimizing Lead-Free Chalcogenide Perovskites for High-Efficiency Photovoltaics via Alloying Strategies",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-02-20"
+ },
+ "2502.14798": {
+  "abstract": "The quest for environmentally benign and stable optoelectronic materials has intensified, and chalcogenide perovskites (CPs) have emerged as promising candidates owing to their non-toxic composition, stability, small bandgaps, large absorption coefficients. However, a detailed theoretical study of excitonic and polaronic properties of these materials remains underexplored due to high computational demands. Herein, we present a comprehensive theoretical investigation of Germanium-based CPs, AGeX$_{3}$ (A = Ca, Sr, Ba; X = S, Se), which adopt distorted perovskite structures (β-phase) with an orthorhombic crystal structure (space group : Pnma) by utilizing state-of-the-art density functional theory (DFT), density functional perturbation theory (DFPT), and many-body perturbation theory (GW and Bethe-Salpeter equation). Our calculations reveal that these materials are thermodynamically and mechanically stable, with the bandgaps calculated using G$_{0}$W$_{0}$@PBE ranging from 0.646 to 2.001 eV - suitable for optoelectronic devices. We analyze the ionic and electronic contributions to dielectric screening using DFPT and BSE methods, finding that the electronic component dominates. The exciton binding energies range from 0.03 to 73.63 meV, indicating efficient exciton dissociation under ambient conditions. Additionally, these perovskites exhibit low to high polaronic mobilities (1.67-167.65 cm$^{2}$V$^{-1}$s$^{-1}$), exceeding many lead-free CPs and halide perovskites due to reduced carrier-phonon interactions. The unique combination of wide tunable bandgaps, low exciton binding energies, and enhanced charge-carrier mobility highlights AGeX$_{3}$ as a potential material for next-generation optoelectronic applications. These compounds are stable, high-performing, and eco-friendly, showing great promise for experimental realization and device integration.",
+  "authors": [
+   "Ayan Chakravorty",
+   "Surajit Adhikari",
+   "Priya Johari"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 4 figures, 5 tables",
+  "first_author": "Ayan Chakravorty",
+  "pdf_url": "http://arxiv.org/pdf/2502.14798",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-02-20",
+  "tags": [
+   "adsorption-energy",
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Unlocking the Optoelectronic Potential of AGeX$_{3}$ (A = Ca, Sr, Ba; X = S, Se): A Sustainable Alternative in Chalcogenide Perovskites",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-02-20"
  },
  "2502.16138": {
   "abstract": "The production of multicarbon (C2+) products through electrocatalytic CO2 reduction reaction (CO2RR) is crucial to addressing global environmental challenges and advancing sustainable energy solutions. However, efficiently producing these high-value chemicals via C-C coupling reactions is a significant challenge. This requires catalysts with optimized surface configurations and electronic properties capable of breaking the scaling relations among various intermediates. In this report, we introduce the fundamentals of electrocatalytic CO2RR and the mechanism of C-C coupling. We examine the effects of catalytic surface interactions with key intermediates and reaction pathways, and discuss emerging strategies for enhancing C-C coupling reactions toward C2+ products. Despite varieties of these strategies, we summarize direct clues for the proper design of the catalyst for the electrocatalytic CO2RR towards C2+ products, aiming to provide valuable insights to broad readers in the field.",

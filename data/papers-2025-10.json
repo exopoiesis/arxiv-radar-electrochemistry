@@ -1,4 +1,29 @@
 {
+ "2505.02934": {
+  "abstract": "The QS$GW$ method is used to study the electronic band structure, optical dielectric function, and exchange interactions in chalcopyrite, $I\\bar{4}2d$, structure MnGeP$_2$. The material is found to be an antiferromagnetic semiconductor with the lowest direct gap of 2.44 eV at the $Γ$ point and an indirect gap of 1.87 eV. The material is an altermagnet, with the two magnetic atoms of opposite spin related by a two-fold rotation operation perpendicular to the main 4-fold rotation inversion axis. The spin splittings along a low symmetry line like $PN$ are sizable, while at k-points on the diagonal mirror planes or on the twofold symmetry axes, the spin splitting is zero. The exchange interactions are calculated using a linear response approach. The antiferromagnetic exchange-interaction between nearest neighbors in the primitive unit cell is dominating and found to be slightly decreasing upon carrier doping. The transverse spin susceptibilities, which provide interatomic site exchange interactions after averaging over the muffin-tin spheres, are calculated from the $GW$ band structure and wave functions. From these exchange interactions, the spin wave spectra are obtained along the high symmetry lines and the Néel temperature is calculated using the mean-field and Tyablikov (RPA) estimations. The dielectric function and the optical absorption spectra are calculated, including excitonic effects, using the Bethe-Salpeter equation. The exchange interactions around Mn$_{\\rm Ge}$ defect sites are also studied. While we find it can generate ferromagnetic interactions with neighboring spins, we did not find evidence of producing an overall ferromagnetic phase. If Mn antisites are introduced by exchanging Mn with a nearby Ge, the interactions stay largely antiferromagnetic. Adding Mn antisites leads to a metallic band structure.",
+  "authors": [
+   "Ilteris K. Turan",
+   "Walter R L. Lambrecht",
+   "Jerome Jackson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Ilteris K. Turan",
+  "pdf_url": "http://arxiv.org/pdf/2505.02934",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-05-05",
+  "tags": [
+   "chalcopyrite",
+   "surface-defects"
+  ],
+  "title": "Electronic structure and exchange interactions in altermagnetic MnGeP$_2$ in the quasiparticle-self-consistent $GW$ approach",
+  "topics": [
+   "Fe-Ni-S Mineral Surfaces"
+  ],
+  "updated": "2025-10-14"
+ },
  "2505.16296": {
   "abstract": "In this study, we present a finite element solver for a thermodynamically consistent electrolyte model that accurately captures multicomponent ionic transport by incorporating key physical phenomena such as steric effects, solvation, and pressure coupling. The model is rooted in the principles of non-equilibrium thermodynamics and strictly enforces mass conservation, charge neutrality, and entropy production. It extends beyond classical frameworks like the Nernst-Planck system by employing modified partial mass balances, the electrostatic Poisson equation, and a momentum balance expressed in terms of electrostatic potential, atomic fractions, and pressure, thereby enhancing numerical stability and physical consistency. Implemented using the FEniCSx platform, the solver efficiently handles one- and two-dimensional problems with varied boundary conditions and demonstrates excellent convergence behavior and robustness. Validation against benchmark problems confirms its improved physical fidelity, particularly in regimes characterized by high ionic concentrations and strong electrochemical gradients. Simulation results reveal critical electrolyte phenomena, including electric double layer formation, rectification behavior, and the effects of solvation number, Debye length, and compressibility. The solver's modular variational formulation facilitates its extension to complex electrochemical systems involving multiple ionic species with asymmetric valences. We publicly provide the documented and validated solver framework.",
   "authors": [
@@ -26,6 +51,64 @@
   "topics": [
    "CO2 Reduction and Formate",
    "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2025-10-01"
+ },
+ "2509.25763": {
+  "abstract": "Oxide Li-conducting solid-state electrolytes (SSEs) offer excellent chemical and thermal stability but typically exhibit lower ionic conductivity than sulfides and chlorides. This motivates the search for new oxide materials with enhanced conductivity. Crystal structure prediction is a powerful approach for identifying such candidates. However, the structural complexity of oxide SSEs, often involving unit cells with more than 100 atoms, presents significant challenges for conventional methods. In this study, we introduce TOPIC, a structure prediction algorithm that reduces configurational complexity by enforcing corner-sharing (CS) bond topology constraints. We demonstrate that TOPIC successfully reproduces the ground-state and metastable structures of known oxide SSEs, including LiTa$_2$PO$_8$ and Li$_7$La$_3$Zr$_2$O$_{12}$, which contain up to about 200 atoms per unit cell. By combining this approach with a pretrained machine-learning interatomic potential, we systematically screen quaternary oxide compositions and identify 92 promising candidates with CS frameworks. In particular, Li$_4$Hf$_2$Si$_3$O$_{12}$, which corresponds to the ground state at its composition, exhibits an ionic conductivity of 14 mS cm$^{-1}$, a hull energy of 21 meV atom$^{-1}$, and a band gap of 6.5 eV. Through our investigation, we identify the Li ratio as one of the key factors determining the stability of CS structures. Overall, our approach provides a practical and scalable pathway for discovering high-performance oxide solid electrolytes in previously unexplored chemical spaces.",
+  "authors": [
+   "Seungwoo Hwang",
+   "Jiho Lee",
+   "Seungwu Han",
+   "Youngho Kang",
+   "Sungwoo Kang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Seungwoo Hwang",
+  "pdf_url": "http://arxiv.org/pdf/2509.25763",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-09-30",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Discovery of oxide Li-conducting electrolytes in uncharted chemical space via topology-constrained crystal structure prediction",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-10-01"
+ },
+ "2510.00955": {
+  "abstract": "We present a first-principles density functional theory study of the structural, electronic, optical, and thermoelectric properties of Sc2BeX4 (X = S, Se) chalcogenides for energy applications. Both compounds are dynamically and thermodynamically stable, exhibiting negative formation energies of -2.6 eV (Sc2BeS4) and -2.2 eV (Sc2BeSe4). They feature direct band gaps of 1.8 eV and 1.2 eV, respectively, within the TB-mBJ approximation, indicating strong visible-light absorption. Optical analysis reveals high static dielectric constants (9.0 for S and 16.5 for Se), absorption peaks near 13.5 eV, and reflectivity below 30 percent. Thermoelectric calculations predict p-type conduction with Seebeck coefficients reaching 2.5e-4 V/K and electrical conductivities of 2.45e18 and 1.91e18 (Ohm m s)^-1 at 300 K. Power factors approach 1.25e11 W/K^2 m s, with a maximum dimensionless figure of merit (ZT) of 0.80 at 800 K. Calculated Debye temperatures (420 K for Sc2BeS4 and 360 K for Sc2BeSe4) imply low lattice thermal conductivity. These findings establish Sc2BeX4 chalcogenides as promising materials for photovoltaic and thermoelectric applications.",
+  "authors": [
+   "Ahmad Ali",
+   "Haris Haider",
+   "Sikander Azam",
+   "Muhammad Talha",
+   "Muhammad Jawad",
+   "Imran Shakir"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Ahmad Ali",
+  "pdf_url": "http://arxiv.org/pdf/2510.00955",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-01",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides"
   ],
   "updated": "2025-10-01"
  },
@@ -64,6 +147,39 @@
   ],
   "updated": "2025-10-02"
  },
+ "2510.09194": {
+  "abstract": "We report a comprehensive first-principles study of the electronic and optical properties of recently identified exfoliable one-dimensional semiconducting materials, focusing on chalcogenide-based atomic chains derived from van der Waals-bonded bulk crystals. Specifically, we investigate covalently bonded S3 and Te3 chains, and polar-bonded As2S3 and Bi2Te3 chains, using a fully first-principles approach that combines density-functional theory (DFT), density-functional perturbation theory (DFPT), and many-body perturbation theory within the GW approximation and Bethe-Salpeter equation (BSE). Our vibrational analysis shows that freestanding isolated wires remain dynamically stable, with the zone-center optical phonon modes leading to infrared activity. The main finding of this study is the presence of very strong exciton binding energies (1-3 eV), which make these novel 1D materials ideal platforms for room-temperature excitonic applications. Interestingly, the exciton character remains Wannier-Mott-like, as indicated by average electron-hole separations larger than the lattice constant. Notably, the optical gaps of these materials span a wide range - from infrared (0.8 eV, Bi2Te3), through visible spectrum (yellow: 2.17 eV, Te3; blue: 2.71 eV, As2S3), up to ultraviolet (4.07 eV, S3) - highlighting their versatility for broadband optoelectronic applications. Our results offer a detailed, many-body perspective on the optoelectronic behavior of these low-dimensional materials and underscore their potential for applications in next-generation nanoscale optoelectronic devices.",
+  "authors": [
+   "Simone Grillo",
+   "Chiara Cignarella",
+   "Friedhelm Bechstedt",
+   "Paola Gori",
+   "Maurizia Palummo",
+   "Davide Campi",
+   "Nicola Marzari",
+   "Olivia Pulci"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "33 pages, 7 figures, supporting information",
+  "first_author": "Simone Grillo",
+  "pdf_url": "http://arxiv.org/pdf/2510.09194",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-10",
+  "tags": [
+   "ab-initio",
+   "adsorption-energy",
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Quasiparticle effects and strong excitonic features in exfoliable 1D semiconducting materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-10-10"
+ },
  "2510.12176": {
   "abstract": "Platinum step edges dominate electrocatalytic activity in fuel cells and electrolysers, yet their atomistic electrochemical behaviour remains poorly understood. Here, we employ \\textit{ab initio} molecular dynamics under controlled electrode potentials to model a realistic stepped Pt--water interface incorporating experimentally observed (111)$\\times$(111) and (111)$\\times$(100) edge motifs. This allows us to resolve, for the first time, the site-specific structure, charge distribution, and electrostatics of the electric double layer at a nanostructured Pt surface. We find that differential capacitance near the potential of zero charge (PZC) arises almost entirely from potential-dependent chemisorption of water on flat (111) terraces. In contrast, step edges are saturated with chemisorbed water even below the PZC and thus do not contribute to the capacitance. Instead, edges accumulate excess positive charge and exhibit a locally elevated electrostatic potential, as revealed by spatially resolved macroscopic potential profiles. This electrostatic asymmetry implies a greater barrier for electron accumulation at step sites compared to terraces, consistent with enhanced charge localisation and reactivity. Finally, the higher-in-energy d-band centre and sharper projected density of states at edge atoms further support their role as active, positively charged centres. Together, these results provide a mechanistic explanation for the observed experimental shift of the PZC with step density and establish a predictive framework for understanding and optimising interfacial charging in nanostructured Pt electrocatalysts.",
   "authors": [
@@ -94,6 +210,32 @@
   ],
   "updated": "2025-10-14"
  },
+ "2510.12526": {
+  "abstract": "Chalcogenide materials are an important class of phase change material (PCMs) owing to their employment in digital memory solutions. Chalgogenide materials have applications in phase change random access memory (PCRAM) due to their ability to reversibly cycle between crystalline and amorphous states, and of these materials Ge2Sb2Te5 (GST) is of particular interest due to its speed, stability and low crystallisation temperatures. GST possesses two stable crystalline polymorphs, cubic and hexagonal (trigonal system). Studies show that phenomena such as heat transport and thermal lattice expansion drive the phase-change nature of these materials. These phenomena are not incorporated in the harmonic approximation, which is a popular model for describing vibrations in solids. Through ab initio density functional theory (DFT), we computationally investigate the anharmonic behaviour of pristine GST, without vacancies or defects, while considering the various stacking models that exist and inclusion of van der Waals (vdW) interactions in our modelling. We present the vibrational analysis of different stacking models in GST; Petrov and Kooi-De Hosson (KDH) models and the quantification anharmonic behaviour. Our results demonstrate the importance of incorporating anharmonic and dispersion effects when modelling GST, especially in the choice of stacking models, along with implications for phenomena relating to phase-change behaviour.",
+  "authors": [
+   "Owain T. Beynon",
+   "Adham Hashibon"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Owain T. Beynon",
+  "pdf_url": "http://arxiv.org/pdf/2510.12526",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-14",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Anharmonic Effects in Ge2Sb2Te5 and Consequences on Thermodynamic Stability",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-10-14"
+ },
  "2510.16512": {
   "abstract": "This study investigates two critical aspects of the gas sensing mechanism in metal oxide sensors: (1) the conditions that maximize chemisorbed oxygen concentration as a function of temperature and oxygen partial pressure, and (2) which surface oxygen species (chemisorbed or lattice-bound) are primarily responsible for interaction with carbon monoxide (CO). SnO2 thin films, deposited at temperatures as low as 60 C and exhibiting mixed amorphous-crystalline phases with open, tortuous porosity, were evaluated for CO sensing at 200 C. Comprehensive characterization using EIS, MS, XPS, TEM, and sensor tests revealed a strong correlation between high sensing performance and the structural/electronic features of the defect rich low-temperature-deposited SnO2. Electrochemical impedance spectroscopy (EIS) was employed to identify the optimal sensing temperature. Mass spectroscopy (MS) used to analyze the exhaust gases after sensing reactions. The films exhibited oxygen under-stoichiometry and high concentrations of chemisorbed oxygen species. In situ XPS under 1 mbar (10000 ppm) O2 and CO exposures showed that chemisorbed oxygen, not lattice oxygen, was actively involved in CO oxidation, as further confirmed by CO2 detection via Mass spectroscopy (MS). Quantitative analysis revealed dynamic surface chemical status alternations, emphasizing the pivotal role of chemisorbed oxygen in the sensing mechanism at 200 C.",
   "authors": [
@@ -117,6 +259,87 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2025-10-18"
+ },
+ "2510.18078": {
+  "abstract": "Improving energy efficiency by recovering waste heat and providing thermal protection is of high technological importance. This work investigates the chalcogenide compounds CdGa2Te4 and ZnGa2Te4 using density functional theory and BoltzTraP2 calculations. Both materials are dynamically stable, brittle, and elastically anisotropic. Electronic structure calculations show direct band gaps that range from 1.0 to 2.2 electronvolt. Carrier effective masses are favorable, with CdGa2Te4 showing light electrons equal to 0.21 times the free electron mass and ZnGa2Te4 showing moderately heavy carriers equal to 0.39 times the free electron mass. Thermoelectric transport calculations yield large Seebeck coefficients of about 108 to 119 microvolt per kelvin. The thermoelectric figure of merit ZT increases from about 0.4 at 50 K to about 0.78 at 800 kelvin, indicating promising thermoelectric performance. For thermal barrier coating applications, both compounds combine ultralow lattice thermal conductivity with moderate melting points around 790 to 850 K and small thermal expansion coefficients, which helps resist thermal stress. Overall, CdGa2Te4 and ZnGa2Te4 are multifunctional materials suitable for efficient waste heat recovery and durable thermal barrier operation below 900 K.",
+  "authors": [
+   "Md Hasan Shahriar Rifat",
+   "Tanvir Khan",
+   "K. M. Mehedi Hassan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "33 pages, 10 figures",
+  "first_author": "Md Hasan Shahriar Rifat",
+  "pdf_url": "http://arxiv.org/pdf/2510.18078",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-20",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "First-Principles Investigation of the Physical and Thermoelectric Properties of Chalcogenide Compounds for Waste-Heat Recovery",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-10-20"
+ },
+ "2510.18331": {
+  "abstract": "The Cu-deficient CuxInSe2 (x larger than 0.3) phase can be stabilized as a thin film. A uniform Cu-deficient composition with a chalcopyrite structure was obtained by the precision engineering of a two-step synthesis process involving electron-beam evaporation and Se vapor deposition. Detailed structural and chemical analyses were performed employing various X-ray and microscopic techniques to demonstrate that the chemical states and local structure in the Cu-Se-In tetrahedral networks change with the loss of Cu, the In-Se bond becomes shorter, and the In ions become excessively oxidized without phase separation. Moreover, the results indicate that the bandgap narrowing is primarily attributed to the reconstruction of In3+d 5s orbital states. The bandgap narrows from 1.51 eV to 1.4 eV, which is optimal for the photon absorber. Therefore, cation-deficient selenide is promising for stable nontoxic photovoltaics with tunable bandgaps.",
+  "authors": [
+   "Ahmed Yousef Mohamed",
+   "Byoung Gun Han",
+   "Hyeonseo Jang",
+   "Jun Oh Jeon",
+   "Yejin Kim",
+   "Haeseong Jang",
+   "Min Gyu Kim",
+   "Kug-Seung Lee",
+   "Deok-Yong Cho"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ahmed Yousef Mohamed",
+  "pdf_url": "http://arxiv.org/pdf/2510.18331",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-21",
+  "tags": [
+   "chalcopyrite"
+  ],
+  "title": "Chemical States and Local Structure in Cu-Deficient CuInSe2 Thin Films: Insights into Engineering and Bandgap Narrowing",
+  "topics": [
+   "Fe-Ni-S Mineral Surfaces"
+  ],
+  "updated": "2025-10-21"
+ },
+ "2510.20326": {
+  "abstract": "Rectification properties of semiconductor p-n junction diodes are the basic and important characteristics for electronic device evaluation, especially for novel semiconductor materials. Today's semiconductor devices' fabrication and integration processes require multibillion-dollar investments and are desired to be reduced or simplified. Therefore, low-cost and non-toxic base metal materials with simple fabrication methods are desired for the future semiconductor industry. Recently, copper-based sulfides have been studied for semiconductor devices such as thermoelectric, photovoltaic, or water-splitting applications. Here, a highly rectifying p-n diode of a cubic (disordered) phase Cu4Fe5S8 polycrystal with a zincblende-like structure fabricated by a simple/low-cost wet process is shown. It is found that the Cu4Fe5S8 diode shows the highest rectification ratio in the order of 106 with a large forward current density of 15 Acm-2 (@1.5 V forward bias) at room temperature among the other compounds of copper iron sulfide devices. This remarkable and stable diode characteristic obtained by the p-type layer anodically grown on the sintered n-type cubic-Cu4Fe5S8 can bring the industry closer to low-cost semiconductor manufacturing. These results open a platform of novel semiconductor materials such as cubic-Cu4Fe5S8 with further superior crystal growth and conductive characteristics.",
+  "authors": [
+   "Yoshimine Kato",
+   "Tomoaki Nakamura",
+   "Katsuya Komorita",
+   "Kungen Teii"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "27 pages, 5 figures",
+  "first_author": "Yoshimine Kato",
+  "pdf_url": "http://arxiv.org/pdf/2510.20326",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-23",
+  "tags": [
+   "iron-sulfides"
+  ],
+  "title": "Highly Rectifying Cubic Copper Iron Sulfides p-n Junction Diode Fabricated by Anodic Oxidation",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-10-23"
  },
  "2510.21336": {
   "abstract": "Electrochemical devices often charge both through Faradaic reactions and electric double layer formation. Here, we study these coupled processes in a model system of a long electrolyte-filled pore subject to a small suddenly-applied potential, close to the equilibrium potential $Ψ^\\text{eq}$ at which there is no net Faradaic charge transfer. Specifically, we solve the coupled Poisson-Nernst-Planck and Frumkin-Butler-Volmer equations by asymptotic approximations, using the pore's small inverse aspect ratio as the small parameter. In the early-time limit, the reaction-diffusion equations yield an extended Faradaic transmission line model that includes a voltage source, $Ψ_\\text{eq}$, biasing the Faradaic reactions, captured by the resistance $R_F$. In the long-time limit, the model exhibits a nontrivial potential of zero charge, $Ψ_\\text{pzc} = Ψ_\\text{eq}[1 - \\hat{Z}(0)/R_F]$, where $\\hat{Z}(0)$ is the experimentally accessible zero-frequency impedance of the system. This expression provides a new means to experimentally measure the Faradaic contribution to $Ψ_\\text{pzc}$.",
@@ -145,5 +368,74 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2025-10-24"
+ },
+ "2510.23133": {
+  "abstract": "Argyrodite-type Ag-based sulfides combine exceptionally low lattice thermal and high ionic conductivity, making them promising candidates for thermoelectric and solid-state energy applications. In this work, we studied Ag8TS6 (T= Si, Ge, Sn) argyrodite family by combining chemical-bonding analysis, lattice vibrational properties simulation, and experimental measurements to investigate their structural and thermal transport properties. Furthermore, we propose a two-channel lattice-dynamics model based on Grüneisen-derived phonon lifetimes and compare it to an approach using machine-learned interatomic potentials. Both approaches are able to predict thermal conductivity in agreement with experimental lattice thermal conductivities along the whole temperature range, highlighting their potential suitability for future high-throughput predictions. Our findings also reveal a relationship between bond heterogeneity arising from weakly bonded Ag+ ions and occupied antibonding states in Ag-S and Ag-Ag interactions and strong anharmonicity, including large Grüneisen parameters, and low sound velocities, which are responsible for the low lattice thermal conductivity of Ag8SnS6, Ag8GeS6, and Ag8SiS6. We furthermore show that thermal and ionic conductivities in all three compounds are independent of each other and can likely be tuned individually.",
+  "authors": [
+   "Joana Bustamante",
+   "Anupama Ghata",
+   "Aakash A. Naik",
+   "Christina Ertural",
+   "Katharina Ueltzen",
+   "Wolfgang G. Zeier",
+   "Janine George"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Joana Bustamante",
+  "pdf_url": "http://arxiv.org/pdf/2510.23133",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-27",
+  "tags": [],
+  "title": "Thermal Transport in Ag8TS6 (T= Si, Ge, Sn) Argyrodites: An Integrated Experimental, Quantum-Chemical, and Computational Modelling Study",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2025-10-27"
+ },
+ "2510.27546": {
+  "abstract": "Quasi-one-dimensional (Q-1D) van der Waals chalcohalides have emerged as promising materials for advanced energy applications, combining tunable optoelectronic properties and composed by earth-abundant and non-toxic elements. However, their widespread application remains hindered by challenges such as anisotropic crystal growth, composition control and lack of knowledge on optoelectronic properties. A deeper understanding of the intrinsic limitations of these materials, as well as viable defect mitigation strategies like the engineering of solid solutions, is critical. This work presents a low-temperature synthesis route based on molecular ink deposition enabling direct crystallization of tunable Bi(SzSe1-z)(IxBr1-x) solid solutions without need for binary chalcogenide precursors. This approach yields phase-pure films with precise control over morphology, composition, and crystallographic orientation. XRD analysis and DFT calculations confirm the formation of homogeneous solid solutions, while optoelectronic measurements reveal the distinct roles of halogen and chalcogen anions in tuning bandgap energy and carrier type, with Se shifting downwards the conduction band. The versatility of this synthesis technique enables morphology control ranging from compact films to rod-shaped microcrystals, expanding the functional adaptability of these materials. These findings offer a foundational framework for defect engineering and the scalable integration of chalcohalides in next-generation energy technologies, including photovoltaics, photocatalysis, thermoelectrics, and chemical sensing.",
+  "authors": [
+   "David Rovira",
+   "Ivan Caño",
+   "Cibran Lopez",
+   "Alejandro Navarro-Güell",
+   "José Miguel Asensi",
+   "Lorenzo Calvo-Barrio",
+   "Laura Garcia-Carreras",
+   "Xavier Alcobe",
+   "Luis Cerqueira",
+   "Victoria Corregidor",
+   "Yudania Sanchez",
+   "Sonia Lanzalaco",
+   "Alex Jimenez-Arquijo",
+   "Outman El Khouja",
+   "Jonathan W. Turnley",
+   "Rakesh Agrawal",
+   "Claudio Cazorla",
+   "Joaquim Puigdollers",
+   "Edgardo Saucedo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "David Rovira",
+  "pdf_url": "http://arxiv.org/pdf/2510.27546",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-10-31",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2025-10-31"
  }
 }

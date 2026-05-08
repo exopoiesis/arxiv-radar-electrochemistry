@@ -23,6 +23,62 @@
   ],
   "updated": "2026-02-02"
  },
+ "2507.11300": {
+  "abstract": "Ruddlesden-Popper (RP) chalcogenides are stable, non-toxic candidates for optoelectronic or thermoelectric applications. The structural diversity of RP oxides is already exploited to tune properties or achieve more advanced functionalities like multiferroicity, however, little is known about the structural evolution of RP chalcogenides. In this work, we develop a high-accuracy machine-learned interatomic potential to run large-scale molecular dynamics simulations on $Ba_{n+1}Zr_nS_{3n+1}$ for $n=1$ to $n=6$. We predict new polymorphs for each $n$-value, calculate their corresponding phase transition temperatures, and validate our approach through comparison to published experimental results. We find that the $n=1$ phase exhibits negative thermal expansion, that $n=1$ and $n=3$ undergo unusual ascending symmetry breaking, and that phases with $n\\geq4$ form layer-dependent tilt patterns previously unreported for inorganic RP materials. This unique behaviour results from competition between octahedral rotations and rumpling at the rocksalt interface, and suggests new strategies for accessing advanced functionalities.",
+  "authors": [
+   "Prakriti Kayastha",
+   "Erik Fransson",
+   "Paul Erhart",
+   "Lucy Whalley"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Prakriti Kayastha",
+  "pdf_url": "http://arxiv.org/pdf/2507.11300",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-07-15",
+  "tags": [
+   "chalcogenides",
+   "mlip",
+   "molecular-dynamics",
+   "phase-transitions"
+  ],
+  "title": "Diverse polymorphism in Ruddlesden-Popper chalcogenides",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Machine-Learned Potentials for Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2026-02-27"
+ },
+ "2511.16474": {
+  "abstract": "Plastic inorganic semiconductors are promising candidates for high performance stable flexible electronics. Germanium based chalcogenide materials are well known for excellent semiconducting properties, specifically superior carrier mobility. However, these materials typically exhibit inherent brittleness, which in germanium tellurides originates from the intrinsic half bond nature of the metavalent Ge Te bond. Here, we report an ultra high plasticity germanium based chalcogenide of GaGeTe. Bulk GaGeTe can sustain a large engineering strain up to 7.5% without fracture. Through a comprehensive multi scale investigation ranging from macroscopic characterization to atomic resolution scanning transmission electron microscopy, we reveal that the exceptional plasticity is due to a synergistic effect of interlayer gliding and intralayer lattice distortion. DFT calculations further elucidate the chemical origin. The existence of Ga atoms avoids the formation of brittle metavalent Ge Te bonds. Instead, a robust honeycomb lattice formed by strong Ga Te, Ge Ge, and Ga Ge bonds preserves high bond strength under large tensile strains in simulations, thereby underpinning the macroscopic plastic behavior. This systematic study on the origin of the plasticity in GaGeTe introduces bond engineering as a potential approach for constructing plastic inorganic semiconductors.",
+  "authors": [
+   "Qiao Wang",
+   "Ping-An Hu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Qiao Wang",
+  "pdf_url": "http://arxiv.org/pdf/2511.16474",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-11-20",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "The Plastic Origin of van der Waals material GaGeTe",
+  "topics": [
+   "Adsorption and Ion Transport",
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2026-02-20"
+ },
  "2602.04280": {
   "abstract": "Zinc-based electrochromic devices offer a sustainable route for dynamic optical management but are plagued by poor cycling stability due to irreversible zinc plating/stripping and side reactions. Herein, we report a robust, high-contrast, and recyclable zinc-based dynamic window enabled by a synergistic electrolyte and interfacial engineering strategy. Molecular dynamics simulations and electrochemical analyses reveal a dual-ion cooperative mechanism that governs the reversibility: anions with the strongest binding affinity guide uniform Zn deposition by stabilizing the inner solvation shell, while formate anions co-enriched at the interface facilitate smooth stripping via protonation during the oxidation process. This orchestrated interplay effectively eliminates \"dead Zn\" accumulation and dendrite growth. Consequently, the device demonstrates a record-high lifespan of 15,000 cycles with negligible degradation and maintains a large optical modulation of >50%, along with multiple optical states (transparent, gray, black, and mirror). Furthermore, it achieves a large reflectance modulation (>50%) stable for over 2,000 cycles. This work establishes the recyclable zinc-based dynamic window as a scalable, high-performance alternative to conventional electrochromic systems, advancing the feasibility of solution-processed energy-saving windows in sustainable buildings.",
   "authors": [
@@ -118,6 +174,39 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2026-02-20"
+ },
+ "2602.22460": {
+  "abstract": "Ultrafast lasers create extreme, non-equilibrium thermodynamic conditions that can transiently reach pressures and temperatures comparable to interior core of the earth. Here we show that femtosecond excitation of amorphous silica-hafnia multilayer dielectrics drives the formation of high-pressure crystalline phases of silica including stishovite, seifertite, and the pyrite-type high density structure, within confined subsurface regions.Using TEM, SAED, and 4D-STEM, we directly map nanoscale phase evolution and identify crystalline motifs embedded inside laser generated blisters.Complementary molecular dynamics simualtions reveal the thermodynamic pathway underlying these transformations, where rapid electronic pressure initiates densification and octahedral coordination, followed by temperature driven crystallization and displacive transitions during ultrafast quenching. The resulting polymorphs reflects a dual-stage pathway inaccessible under equilibrium processing. Our results establish femtosecond laser excitation as a viable route to synthesize and stabilize ultrahigh-density high pressure silica phases under ambient conditions, without a diamond anvil cell, with implications for laser-damage mechanisms, high-energy-density materials, and planetary physics.",
+  "authors": [
+   "Mohamed Yaseen Noor",
+   "Aram Yedigaryan",
+   "Gabriel Calderon",
+   "Arshak Tsaturyan",
+   "Elena Kanchan",
+   "Jinwoo Hwang",
+   "Carmen S. Menoni",
+   "Jean-Philippe Colombier",
+   "Enam Chowdhury"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.geo-ph",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Mohamed Yaseen Noor",
+  "pdf_url": "http://arxiv.org/pdf/2602.22460",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-25",
+  "tags": [
+   "molecular-dynamics",
+   "pyrite"
+  ],
+  "title": "Mimicking the earth core conditions with ultrafast laser materials interaction",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2026-02-25"
  },
  "2602.22869": {
   "abstract": "Molybdenum disulfide (MoS2) has emerged as a promising, cost-effective catalyst for hydrogen production via water splitting. We investigate the structural and electrocatalytic properties of MoS2 thin films deposited on different substrates (Al2O3, SiC, STO) to study their hydrogen evolution reaction (HER) activity. In particular, in order to study the substrate influence on the stabilization of different polymorphic MoS2 phases, the films are synthesised using pulsed laser deposition on substrates with different crystal symmetries and lattice parameters. All the deposited samples are characterized by X-Ray Diffraction, Raman Spectroscopy, Linear Sweep Voltammetry and Electrochemical Impedance Spectroscopy analyses. The films grown on Al2O3 substrates exhibit the best HER performance, likely due to the stabilization of the metastable 1T phase through the interfacial interactions between film and substrate. Presence of the 1T phase in the samples grown on Al2O3 improves the charge transfer efficiency and the electrochemically active surface with a better response to the applied potential, demonstrating their enhanced catalytic behaviour for hydrogen evolution.",

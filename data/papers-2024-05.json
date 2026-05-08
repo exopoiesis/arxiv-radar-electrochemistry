@@ -25,6 +25,31 @@
   ],
   "updated": "2024-05-01"
  },
+ "2405.02618": {
+  "abstract": "Thermoelectric materials can achieve direct energy conversion between electricity and heat, thus can be applied to waste heat harvesting and solid-state cooling. The discovery of new thermoelectric materials is mainly based on experiments and first-principles calculations. However, these methods are usually expensive and time-consuming. Recently, the prediction of properties via machine learning has emerged as a popular method in materials science. Herein, we firstly did first-principles high-throughput calculations for a large number of chalcogenides and built a thermoelectric database containing 796 compounds. Many novel and promising thermoelectric materials were discovered. Then, we trained four ensemble learning models and two deep learning models to distinguish the promising thermoelectric materials from the others for n type and p type doping, respectively. All the presented models achieve classification accuracy higher than 85% and area under the curve (AUC) higher than 0.9. Especially, the M3GNet model for n type data achieve accuracy, precision and recall all higher than 90%. Our works demonstrate a very efficient way of combining machine learning prediction and first-principles high-throughput calculations together to accelerate the discovery of advanced thermoelectric materials.",
+  "authors": [
+   "Tao Fan",
+   "Artem R. Oganov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Tao Fan",
+  "pdf_url": "http://arxiv.org/pdf/2405.02618",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-04",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "m3gnet"
+  ],
+  "title": "Combining Machine Learning Models with First-Principles High-Throughput Calculation to Accelerate the Search of Promising Thermoelectric Materials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides"
+  ],
+  "updated": "2024-05-04"
+ },
  "2405.03466": {
   "abstract": "Combining high-throughput first-principles calculations and experimental measurements, we have identified a novel family of fast lithium-ion chalcogenide conductors in Li$_2$BMQ$_4$ (2114, B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems. Our calculations demonstrate that most of the thermodynamically and kinetically stable sulfides and selenides in this new system exhibit ultralow Li$^+$ ion migration activation energy (0.16 eV ~ 0.56 eV) and considerable bandgaps varying between ~ 2 eV and 3.5 eV. We have successfully synthesized Li$_2$BaSnS$_4$ and Li$_2$SrSiS$_4$, and they exhibit excellent moisture stability through H$_2$S gas measurements. Electrochemical impedance measurements indicate 2114 systems show the typical features of solid ionic conductors, with a room-temperature Li$^+$ conductivity close to 5$\\times$10$^{-4}$ mS/cm aligning with our molecular dynamics simulations. Furthermore, we have theoretically investigated the substitution of Cl$^-$ at S$^{2-}$ site. The doped compounds display significantly higher conductivity, with an increase of about three orders of magnitude (up to a maximum of 0.72 mS/cm) compared to the undoped compounds. These findings offer valuable insights for the further exploration of potential chalcogenide solid electrolyte materials with robust air stability and enhanced ionic conductivity for practical applications in lithium-ion batteries.",
   "authors": [
@@ -57,7 +82,9 @@
   ],
   "title": "A family of air-stable chalcogenide solid electrolytes in Li$_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems",
   "topics": [
-   "Ion Transport, Gradients, and Membranes"
+   "Atomistic Modeling of Sulfides",
+   "Ion Transport, Gradients, and Membranes",
+   "Sulfidation and Phase Stability"
   ],
   "updated": "2024-05-06"
  },
@@ -96,6 +123,45 @@
   ],
   "updated": "2024-05-10"
  },
+ "2405.10222": {
+  "abstract": "Recent studies have focused on the relationship between charge density wave (CDW) collective electronic ground states and nontrivial topological states. Using angle-resolved photoemission and density functional theory, we establish that YTe$_3$ is a CDW-induced Kramers nodal line (KNL) metal, a newly proposed topological state of matter. YTe$_3$ is a non-magnetic quasi-2D chalcogenide with a CDW wave vector ($q_{\\rm cdw}$) of 0.2907c$^*$. Scanning tunneling microscopy and low energy electron diffraction revealed two orthogonal CDW domains, each with a unidirectional CDW and similar YTe$_3$. The effective band structure (EBS) computations, using DFT-calculated folded bands, show excellent agreement with ARPES because a realistic x-ray crystal structure and twin domains are considered in the calculations. The Fermi surface and ARPES intensity plots show weak shadow bands displaced by $q_{\\rm cdw}$ from the main bands. These are linked to CDW modulation, as the EBS calculation confirms. Bilayer split main and shadow bands suggest the existence of crossings, according to theory and experiment. DFT bands, including spin-orbit coupling, indicate a nodal line along the $Σ$ line from multiple band crossings perpendicular to the KNL. Additionally, doubly degenerate bands are only found along the KNL at all energies, with some bands dispersing through the Fermi level.",
+  "authors": [
+   "Shuvam Sarkar",
+   "Joydipto Bhattacharya",
+   "Pramod Bhakuni",
+   "Pampa Sadhukhan",
+   "Rajib Batabyal",
+   "Christos D. Malliakas",
+   "Marco Bianchi",
+   "Davide Curcio",
+   "Shubhankar Roy",
+   "Arnab Pariari",
+   "Vasant G. Sathe",
+   "Prabhat Mandal",
+   "Mercouri G. Kanatzidis",
+   "Philip Hofmann",
+   "Aparna Chakrabarti",
+   "Sudipta Roy Barman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shuvam Sarkar",
+  "pdf_url": "http://arxiv.org/pdf/2405.10222",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-16",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Kramers nodal line in the charge density wave state of YTe$_3$ and the influence of twin domains",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2024-05-16"
+ },
  "2405.14187": {
   "abstract": "Hydrogen has been identified as a clean, zero carbon, sustainable, and promising energy source for the future, and electrochemical water splitting for hydrogen production is an emission-free, efficient energy conversion technology. A major limitation of this approach is the unavailability of efficient, abundant, inexpensive catalysts, which prompts the need for new catalytic materials. Here, we report the synthesis and electrocatalytic properties of a novel transition metal-based ternary chalcogenide family, LaMS$_3$ (M = Mn, Fe, Co, Ni). Powder X-ray diffraction confirms the phase purity of these materials, while composition analysis using energy dispersive spectroscopy (EDS) confirms the presence of the stoichiometric ratio of elements in these compounds. X-ray photoelectron spectroscopy (XPS) and X-ray absorption spectroscopy (XAS) were used to study the chemical states on the surface and in bulk, respectively. These materials exhibit bifunctional catalytic activity towards the two half-reactions of the water-splitting process, with LaNiS$_3$ being the most active material for both hydrogen evolution reaction (HER) and oxygen evolution reaction (OER). The LaMS$_3$ compounds show long-term stability with negligible change in the overpotential at a constant current density of 10 mA cm$^{-2}$ over 18 hours of measurements. As compared to the corresponding ternary oxides, the LaMS$_3$ materials exhibit higher activity and significantly lower Tafel slopes. The ability to catalyze both half-reactions of water electrolysis makes these materials promising candidates for bifunctional catalysts and presents a new avenue to search for high-efficiency electrocatalysts for water splitting.",
   "authors": [
@@ -128,5 +194,68 @@
    "Sulfide Electrocatalysts"
   ],
   "updated": "2024-05-23"
+ },
+ "2405.14817": {
+  "abstract": "Two-dimensional (2D) van der Waals (vdW) materials with lower symmetry (triclinic, monoclinic or orthorhombic) exhibit intrinsic anisotropic in-plane structure desirable for future optoelectronic surface operating devices. Herein, we report one such material, 2D $p$-type semiconductor germanium sulfide (GeS), a group IV monochalcogenide with puckered orthorhombic morphology, in which in-plane optical and transport properties can be correlated with its electronic structure. We systematically investigate the electronic band structure of the bulk GeS with micro-focused angle-resolved photoemission spectroscopy ($μ$-ARPES) and correspond the charge transport properties using the field-effect transistor (FET) device architecture, and optical anisotropy $via$ angle-resolved polarization dependent Raman spectroscopy (ARPRS) on a micron-sized rectangle-shaped exfoliated bulk flake. The experimental valence band dispersion along the two high symmetry directions indicate highly anisotropic in-plane behavior of the charge carrier that agrees well with the density functional theory (DFT) calculations. In addition, we demonstrate the variation of the in-plane hole mobility (ratio $\\sim$ 3.4) from the electrical conductivity with gate-sweep in a GeS-on-SiO$_2$ FET. Moreover, we use the angle-resolved fluctuation of the Raman intensity of the characteristic phonon modes to precisely determine the armchair and zigzag edges of the particular flake. The unique structural motif of GeS with correlated electronic and optical properties are of great interest both for the physical understanding of the all-optical switch and their applications in memory devices.",
+  "authors": [
+   "Rahul Paramanik",
+   "Tanima Kundu",
+   "Soumik Das",
+   "Alexey Barinov",
+   "Bikash Das",
+   "Sujan Maity",
+   "Mainak Palit",
+   "Sanjoy Kr Mahatha",
+   "Subhadeep Datta"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Rahul Paramanik",
+  "pdf_url": "http://arxiv.org/pdf/2405.14817",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2024-05-23",
+  "tags": [
+   "density-functional-theory",
+   "surface-science"
+  ],
+  "title": "Unraveling electronic structure of GeS through ARPES and its correlation with anisotropic optical and transport behavior",
+  "topics": [
+   "Atomistic Modeling of Sulfides",
+   "Sulfidation and Phase Stability"
+  ],
+  "updated": "2024-05-23"
+ },
+ "2405.20739": {
+  "abstract": "Thermoelectric materials are of great interest for heat energy harvesting applications. One such promising material is TlGaSe$_{2}$, a p-type semiconducting ternary chalcogenide. Recent reports show it can be processed as a thin film, opening the door for large-scale commercialization. However, TlGaSe$_{2}$ is prone to stacking faults along the [001] stacking direction and their role in its thermoelectric properties has not been understood to date. Herein, TlGaSe$_{2}$ is investigated via (scanning) transmission electron microscopy and first-principles calculations. Stacking faults are found to be present throughout the material, as density functional theory calculations reveal a lack of preferential stacking order. Electron transport calculations show an enhancement of thermoelectric power factors when stacking faults are present. This implies the presence of stacking faults is key to the material's excellent thermoelectric properties along the [001] stacking direction, which can be further enhanced by doping the material to hole carrier concentrations to approx. 10$^{19}$ cm$^{-3}$.",
+  "authors": [
+   "Tigran Simonian",
+   "Ahin Roy",
+   "Akash Bajaj",
+   "Rui Dong",
+   "Zheng Lei",
+   "Zdeněk Sofer",
+   "Stefano Sanvito",
+   "Valeria Nicolosi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Tigran Simonian",
+  "pdf_url": "http://arxiv.org/pdf/2405.20739",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-31",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Elucidating the Role of Stacking Faults in TlGaSe$_{2}$ on its Thermoelectric Properties",
+  "topics": [
+   "Atomistic Modeling of Sulfides"
+  ],
+  "updated": "2024-05-31"
  }
 }
