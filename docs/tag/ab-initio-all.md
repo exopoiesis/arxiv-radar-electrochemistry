@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,12 +28,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2604.17076">2604.17076</a></td>
 </tr>
 <tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08143.html">Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials</a></div></td>
-<td>Cheuk Hin Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08143">2604.08143</a></td>
-</tr>
-<tr class="paper">
 <td>2026-03-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28927.html">Hydrogen-helium immiscibility boundary in planets</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Xiaoyu Wang et al.</td>
@@ -44,18 +38,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25271.html">Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
 <td>S. Chattopadhyay et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25271">2603.25271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18182.html">Ultrafast dynamics and light-induced superconductivity from first principles</a></div></td>
-<td>Alejandro Simon et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18182">2603.18182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01059.html">Photogalvanic currents from first-principles real-time density-matrix dynamics</a></div></td>
-<td>Junting Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01059">2601.01059</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-06</td>
@@ -100,18 +82,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.20750">2511.20750</a></td>
 </tr>
 <tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02663.html">Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice</a></div></td>
-<td>Sourin Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02663">2509.02663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12387.html">Towards dislocation-driven quantum interconnects</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
-<td>Cunzhi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12387">2507.12387</a></td>
-</tr>
-<tr class="paper">
 <td>2026-01-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23031.html">Deriving effective electrode-ion interactions from free-energy profiles at electrochemical interfaces</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="electric-double-layer-all.html">electric-double-layer</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Fabrice Roncoroni et al.</td>
@@ -122,12 +92,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.21056.html">Better without U: Impact of Selective Hubbard U Correction on Foundational MLIPs</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="dft-u-all.html">dft-u</a> · <a href="mace-all.html">mace</a></div></td>
 <td>Thomas Warford et al.</td>
 <td><a href="http://arxiv.org/abs/2601.21056">2601.21056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-01-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.04916.html">Discovery of a new weberite-type antiferroelectric: La3NbO7</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Louis Alaerts et al.</td>
-<td><a href="http://arxiv.org/abs/2601.04916">2601.04916</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-08</td>
@@ -152,12 +116,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14305.html">Estimating Reaction Rate Constants from Impedance Spectra: Simulating the Multistep Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="impedance-spectroscopy-all.html">impedance-spectroscopy</a> · <a href="microkinetics-all.html">microkinetics</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
 <td>Freja Vandeputte et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14305">2512.14305</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08721.html">Computational Screening and Discovery of Silver-Indium Halide Double Salts</a></div></td>
-<td>Christos Tyrpenou et al.</td>
-<td><a href="http://arxiv.org/abs/2512.08721">2512.08721</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-03</td>
@@ -232,12 +190,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.09194">2510.09194</a></td>
 </tr>
 <tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10476.html">Donor-Acceptor Pairs near Silicon Carbide surfaces</a></div><div class="paper-tags"><a href="surface-defects-all.html">surface-defects</a></div></td>
-<td>Anil Bilgin et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10476">2504.10476</a></td>
-</tr>
-<tr class="paper">
 <td>2025-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00955.html">Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Ahmad Ali et al.</td>
@@ -266,18 +218,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13146.html">A deep learning model for chemical shieldings in molecular organic solids including anisotropy</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Matthias Kellner et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13146">2506.13146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15752.html">Energy transfer between localized emitters in photonic cavities from first principles</a></div></td>
-<td>Swarnabha Chattaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15752">2505.15752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16262.html">Double excitations in molecules</a></div></td>
-<td>Namana Venkatareddy et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16262">2508.16262</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-30</td>
@@ -310,12 +250,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2508.06464">2508.06464</a></td>
 </tr>
 <tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03886.html">The role of orbital polarization and spin-dependent electron-phonon scatterings in chiral-induced spin selectivity</a></div></td>
-<td>Mayank Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03886">2508.03886</a></td>
-</tr>
-<tr class="paper">
 <td>2025-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14118.html">PET-MAD, a lightweight universal interatomic potential for advanced materials modeling</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
 <td>Arslan Mazitov et al.</td>
@@ -329,12 +263,6 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19658.html">First-Principles Framework for the Prediction of Intersystem Crossing Rates in Spin Defects: The Role of Electron Correlation</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
-<td>Yu Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19658">2502.19658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14751.html">Classical theory of electron-ion correlations at electrochemical interfaces: Closing the circuit from double-layer charging to ion adsorption</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="electric-double-layer-all.html">electric-double-layer</a></div></td>
 <td>Nils Bruch et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14751">2507.14751</a></td>
@@ -344,12 +272,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09510.html">Which chromium-sulfur compounds exist as 2D material?</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Affan Safeer et al.</td>
 <td><a href="http://arxiv.org/abs/2501.09510">2501.09510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00755.html">Thermal Conductivity Predictions with Foundation Atomistic Models</a></div></td>
-<td>Balázs Póta et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00755">2408.00755</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-08</td>
@@ -388,12 +310,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.15223">2506.15223</a></td>
 </tr>
 <tr class="paper">
-<td>2025-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06633.html">On the Minimal Theory of Consciousness Implicit in Active Inference</a></div></td>
-<td>Christopher J. Whyte et al.</td>
-<td><a href="http://arxiv.org/abs/2410.06633">2410.06633</a></td>
-</tr>
-<tr class="paper">
 <td>2025-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="redox-cycles-all.html">redox-cycles</a></div></td>
 <td>Md. Shariful Islam et al.</td>
@@ -416,12 +332,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00183.html">Predicting solvation free energies with an implicit solvent machine learning potential</a></div><div class="paper-tags"><a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="solvation-thermodynamics-all.html">solvation-thermodynamics</a></div></td>
 <td>Sebastien Röcken et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00183">2406.00183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07745.html">Spatio-temporal spin transport from first principles</a></div></td>
-<td>Mayada Fadel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.07745">2505.07745</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-06</td>
@@ -448,12 +358,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.02063">2504.02063</a></td>
 </tr>
 <tr class="paper">
-<td>2025-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18535.html">Decoherence of solid-state spin qubits: a computational perspective</a></div></td>
-<td>Mykyta Onizhuk et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18535">2405.18535</a></td>
-</tr>
-<tr class="paper">
 <td>2025-03-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14816.html">Molecular Insights into Yb(III) Speciation in Sulfate-Bearing Hydrothermal Fluids from X-ray Absorption Spectra Informed by ab initio Molecular Dynamics</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="hydration-shell-all.html">hydration-shell</a> · <a href="hydrothermal-alteration-all.html">hydrothermal-alteration</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="ore-deposits-all.html">ore-deposits</a></div></td>
 <td>Xiaodong Zhao et al.</td>
@@ -466,28 +370,10 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2503.07795">2503.07795</a></td>
 </tr>
 <tr class="paper">
-<td>2025-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18608.html">Magnetic-field dependence of spin-phonon relaxation and dephasing due to g-factor fluctuations from first principles</a></div></td>
-<td>Joshua Quinton et al.</td>
-<td><a href="http://arxiv.org/abs/2411.18608">2411.18608</a></td>
-</tr>
-<tr class="paper">
 <td>2025-03-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00680.html">$\textit{In situ}$ time-resolved X-ray absorption spectroscopy of shock-loaded magnesiosiderite</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Anand Prashant Dwivedi et al.</td>
 <td><a href="http://arxiv.org/abs/2503.00680">2503.00680</a></td>
-</tr>
-<tr class="paper">
-<td>2025-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18306.html">Water Nucleation via Transient Bonds to Oxygen Functionalized Graphite</a></div></td>
-<td>Frederik G. Doktor et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18306">2502.18306</a></td>
-</tr>
-<tr class="paper">
-<td>2025-01-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00246.html">An NV- center in magnesium oxide as a spin qubit for hybrid quantum technologies</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
-<td>Vrindaa Somjit et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00246">2409.00246</a></td>
 </tr>
 <tr class="paper">
 <td>2025-01-17</td>
@@ -502,12 +388,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2412.17711">2412.17711</a></td>
 </tr>
 <tr class="paper">
-<td>2024-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.01976.html">Designing Optically Addressable Nitrogen-Vacancy Centers in Ultra-Small Nanodiamonds: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
-<td>Arpan Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.01976">2412.01976</a></td>
-</tr>
-<tr class="paper">
 <td>2024-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06668.html">Ab initio investigation of layered TMGeTe3 alloys for phase-change applications</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a></div></td>
 <td>Yihui Jiang et al.</td>
@@ -520,12 +400,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2411.00720">2411.00720</a></td>
 </tr>
 <tr class="paper">
-<td>2024-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22463.html">Morphogenesis of Spin Cycloids in a Non-collinear Antiferromagnet</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Shashank Kumar Ojha et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22463">2410.22463</a></td>
-</tr>
-<tr class="paper">
 <td>2024-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10560.html">Sulfur Vacancies Limit the Open-circuit Voltage of Sb2S3 Solar Cells</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
 <td>Xinwei Wang et al.</td>
@@ -536,12 +410,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14116.html">Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="formate-all.html">formate</a> · <a href="isotope-geochemistry-all.html">isotope-geochemistry</a></div></td>
 <td>Lecheng Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.14116">2409.14116</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13200.html">Spin Dynamics in Hybrid Halide Perovskites -- Effect of Dynamical and Permanent Symmetry Breaking</a></div></td>
-<td>Kejun Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13200">2409.13200</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-17</td>
@@ -584,12 +452,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20050.html">$Δ$-Machine Learning to Elevate DFT-based Potentials and a Force Field to the CCSD(T) Level Illustrated for Ethanol</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Apurba Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2407.20050">2407.20050</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13471.html">Accelerating structure search using atomistic graph-based classifiers</a></div></td>
-<td>Andreas Møller Slavensky et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13471">2407.13471</a></td>
 </tr>
 <tr class="paper">
 <td>2024-07-18</td>
@@ -656,12 +518,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00851.html">Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$-TaON (100)/Water Interface</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="grotthuss-all.html">grotthuss</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="proton-transport-all.html">proton-transport</a></div></td>
 <td>Sagarmoy Mandal et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00851">2405.00851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.04216.html">Quantum-informed simulations for mechanics of materials: DFTB+MBD framework</a></div></td>
-<td>Zhaoxiang Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2404.04216">2404.04216</a></td>
 </tr>
 <tr class="paper">
 <td>2024-03-11</td>

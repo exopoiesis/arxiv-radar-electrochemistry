@@ -431,3 +431,30 @@ def is_whitelisted_author(authors, whitelist=None):
                 if n in a.lower():
                     return entry.get("note", needle) or needle
     return None
+
+
+def has_domain_or_method(abstract):
+    """True if abstract matches ANY direct/method/domain pattern.
+
+    Used as a gate on author-whitelist admissions: a paper whose abstract
+    has zero domain/method signal is almost certainly a same-surname
+    false-positive (e.g. a security paper by Prashanth Krishnamurthy when
+    we wanted Ramanarayanan Krishnamurthy on prebiotic phosphorylation).
+    Strictly weaker than is_relevant_paper — relevance requires direct
+    OR (method AND domain); this only requires ANY single pattern hit.
+    """
+    if not abstract:
+        return False
+    filt = _load_relevance_filter()
+    if not filt.get("enabled", True):
+        return True
+    direct = _compile_terms(filt.get("direct_patterns"))
+    methods = _compile_terms(filt.get("method_patterns"))
+    domains = _compile_terms(filt.get("domain_patterns"))
+    if direct and direct.search(abstract):
+        return True
+    if methods and methods.search(abstract):
+        return True
+    if domains and domains.search(abstract):
+        return True
+    return False

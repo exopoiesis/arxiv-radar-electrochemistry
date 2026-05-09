@@ -30,32 +30,6 @@
   ],
   "updated": "2024-10-03"
  },
- "2404.04286": {
-  "abstract": "With the widespread adoption of Large Language Models (LLMs), the prevalence of iterative interactions among these models is anticipated to increase. Notably, recent advancements in multi-round self-improving methods allow LLMs to generate new examples for training subsequent models. At the same time, multi-agent LLM systems, involving automated interactions among agents, are also increasing in prominence. Thus, in both short and long terms, LLMs may actively engage in an evolutionary process. We draw parallels between the behavior of LLMs and the evolution of human culture, as the latter has been extensively studied by cognitive scientists for decades. Our approach involves leveraging Iterated Learning (IL), a Bayesian framework that elucidates how subtle biases are magnified during human cultural evolution, to explain some behaviors of LLMs. This paper outlines key characteristics of agents' behavior in the Bayesian-IL framework, including predictions that are supported by experimental verification with various LLMs. This theoretical framework could help to more effectively predict and guide the evolution of LLMs in desired directions.",
-  "authors": [
-   "Yi Ren",
-   "Shangmin Guo",
-   "Linlu Qiu",
-   "Bailin Wang",
-   "Danica J. Sutherland"
-  ],
-  "categories": [
-   "cs.CL",
-   "cs.AI",
-   "cs.LG"
-  ],
-  "comment": null,
-  "first_author": "Yi Ren",
-  "pdf_url": "http://arxiv.org/pdf/2404.04286",
-  "primary_category": "cs.CL",
-  "published": "2024-04-04",
-  "tags": [],
-  "title": "Bias Amplification in Language Model Evolution: An Iterated Learning Perspective",
-  "topics": [
-   "via:author-whitelist:prebiotic synthesis, RNA world"
-  ],
-  "updated": "2024-10-03"
- },
  "2405.20270": {
   "abstract": "The accuracy of density-functional theory (DFT) is determined by the quality of the approximate functionals, such as exchange-correlation in electronic DFT and the excess functional in the classical DFT formalism of fluids. The exact functional is highly nonlocal for both electrons and fluids, yet most approximate functionals are semi-local or nonlocal in a limited weighted-density form. Machine-learned (ML) nonlocal density-functional approximations are promising in both electronic and classical DFT, but have so far employed disparate approaches with limited generality. Here, we formulate a universal approximation framework and training protocol for nonlocal ML functionals, combining features of equivariant convolutional neural networks and the weighted-density approximation. We prototype this approach for several 1D and quasi-1D problems and demonstrate that a functional with exactly the same hyperparameters achieves excellent accuracy for the hard-rod fluid, the inhomogeneous Ising model, the exact exchange functional for electrons, the electron kinetic energy functional for orbital-free DFT, as well as for liquid water with 1D inhomogeneities. These results lay the foundation for a universal ML approach to exact 3D functionals spanning electronic and classical DFT.",
   "authors": [
@@ -84,30 +58,6 @@
    "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
   ],
   "updated": "2024-10-08"
- },
- "2408.07216": {
-  "abstract": "In this work we demonstrate a new Field Effect Transistor device concept based on hydrogen-terminated diamond (H-diamond) that operates in an Accumulation Channel rather than Transfer Doping regime. Our FET devices demonstrate both extreme enhancement-mode operation and high on-current with improved channel charge mobility compared to Transfer-Doped equivalents. Electron-beam evaporated $Al_2O_3$ is used on H-diamond to suppress the Transfer Doping mechanism and produce an extremely high ungated channel resistance. A high-quality H-diamond surface with an unpinned Fermi level is crucially achieved, allowing for formation of a high-density hole accumulation layer by gating the entire device channel which is encapsulated in dual-stacks of $Al_2O_3$. Completed devices with gate/channel length of $1 μm$ demonstrate record threshold voltage $< -6 V$ with on-current $> 80 mA/mm$. Carrier density and mobility figures extracted by CV analysis indicate high 2D charge density of $~ 2 \\times 10^{12} cm^{-2}$ and increased hole mobility of $110 cm^2 /V \\cdot s$ in comparison with more traditional Transfer-Doped H-diamond FETs. These results demonstrate the most negative threshold voltage yet reported for H-diamond FETs and highlight a new strategy for the development of high-performance power devices that better exploit diamond's intrinsic dielectric properties and high hole mobility.",
-  "authors": [
-   "Chunlin Qu",
-   "Isha Maini",
-   "Qing Guo",
-   "Alastair Stacey",
-   "David A. J. Moran"
-  ],
-  "categories": [
-   "cond-mat.mes-hall"
-  ],
-  "comment": null,
-  "first_author": "Chunlin Qu",
-  "pdf_url": "http://arxiv.org/pdf/2408.07216",
-  "primary_category": "cond-mat.mes-hall",
-  "published": "2024-08-13",
-  "tags": [],
-  "title": "Extreme Enhancement-Mode Operation Accumulation Channel Hydrogen-Terminated Diamond FETs with $V_{th} < -6V$ and High On-Current",
-  "topics": [
-   "via:author-whitelist:prebiotic CO2 fixation, autocatalysis"
-  ],
-  "updated": "2024-10-14"
  },
  "2409.16402": {
   "abstract": "Serpentines are layered hydrous magnesium silicates (MgO$\\cdot$SiO$_2\\cdot$H$_2$O) formed through serpentinization, a geochemical process that significantly alters the physical property of the mantle. They are hard to investigate experimentally and computationally due to the complexity of natural serpentine samples and the large number of atoms in the unit cell. We developed a machine learning (ML) potential for serpentine minerals based on density functional theory (DFT) calculation with the r$^2$SCAN meta-GGA functional for molecular dynamics simulation. We illustrate the success of this ML potential model in reproducing the high-temperature equation of states of several hydrous phases under the Earth's subduction zone conditions, including brucite, lizardite, and antigorite. In addition, we investigate the polymorphism of antigorite with periodicity $m$ = 13--24, which is believed to be all the naturally existent antigorite species. We found that antigorite with $m$ larger than 21 appears more stable than lizardite at low temperatures. This machine learning potential can be further applied to investigate more complex antigorite superstructures with multiple coexisting periodic waves.",
@@ -188,81 +138,6 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2024-10-05"
- },
- "2410.04706": {
-  "abstract": "In this article, we study the ccs-Daugavet, ccs-$Δ$, super-Daugavet, super-$Δ$, Daugavet, $Δ$, and $\\nabla$ points in the unit balls of vector-valued function spaces $C_0(L, X)$, $A(K, X)$, $L_\\infty(μ, X)$, and $L_1(μ, X)$. To partially or fully characterize these diametral points, we first provide improvements of several stability results under $\\oplus_\\infty$ and $\\oplus_1$-sums shown in the literature. For complex Banach spaces, $\\nabla$ points are identical to Daugavet points, and so the study of $\\nabla$ points only makes sense when a Banach space is real. Consequently, we obtain that the seven notions of diametral points are equivalent for $L_\\infty(μ)$ and uniform algebra when $K$ is infinite.",
-  "authors": [
-   "Han Ju Lee",
-   "Óscar Roldán",
-   "Hyung-Joon Tag"
-  ],
-  "categories": [
-   "math.FA"
-  ],
-  "comment": "30 pages, 1 figure",
-  "first_author": "Han Ju Lee",
-  "pdf_url": "http://arxiv.org/pdf/2410.04706",
-  "primary_category": "math.FA",
-  "published": "2024-10-07",
-  "tags": [],
-  "title": "On various diametral notions of points in the unit ball of some vector-valued function spaces",
-  "topics": [
-   "via:author-whitelist:iron sulfide, mineral surfaces"
-  ],
-  "updated": "2024-10-07"
- },
- "2410.06969": {
-  "abstract": "Graphs and hypergraphs provide powerful abstractions for modeling interactions among a set of entities of interest and have been attracting a growing interest in the literature thanks to many successful applications in several fields. In particular, they are rapidly expanding in domains such as chemistry and biology, especially in the areas of drug discovery and molecule generation. One of the areas witnessing the fasted growth is the chemical reactions field, where chemical reactions can be naturally encoded as directed hyperedges of a hypergraph. In this paper, we address the chemical reaction classification problem by introducing the notation of a Directed Line Graph (DGL) associated with a given directed hypergraph. On top of it, we build the Directed Line Graph Network (DLGNet), the first spectral-based Graph Neural Network (GNN) expressly designed to operate on a hypergraph via its DLG transformation. The foundation of DLGNet is a novel Hermitian matrix, the Directed Line Graph Laplacian, which compactly encodes the directionality of the interactions taking place within the directed hyperedges of the hypergraph thanks to the DLG representation. The Directed Line Graph Laplacian enjoys many desirable properties, including admitting an eigenvalue decomposition and being positive semidefinite, which make it well-suited for its adoption within a spectral-based GNN. Through extensive experiments on chemical reaction datasets, we show that DGLNet significantly outperforms the existing approaches, achieving on a collection of real-world datasets an average relative-percentage-difference improvement of 33.01%, with a maximum improvement of 37.71%.",
-  "authors": [
-   "Stefano Fiorini",
-   "Giulia M. Bovolenta",
-   "Stefano Coniglio",
-   "Michele Ciavotta",
-   "Pietro Morerio",
-   "Michele Parrinello",
-   "Alessio Del Bue"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Stefano Fiorini",
-  "pdf_url": "http://arxiv.org/pdf/2410.06969",
-  "primary_category": "cs.LG",
-  "published": "2024-10-09",
-  "tags": [],
-  "title": "DLGNet: Hyperedge Classification through Directed Line Graphs for Chemical Reactions",
-  "topics": [
-   "via:author-whitelist:metadynamics, AIMD"
-  ],
-  "updated": "2024-10-09"
- },
- "2410.08024": {
-  "abstract": "We evaluate the impact of pretraining Graph Transformer architectures on atom-level quantum-mechanical features for the modeling of absorption, distribution, metabolism, excretion, and toxicity (ADMET) properties of drug-like compounds. We compare this pretraining strategy with two others: one based on molecular quantum properties (specifically the HOMO-LUMO gap) and one using a self-supervised atom masking technique. After fine-tuning on Therapeutic Data Commons ADMET datasets, we evaluate the performance improvement in the different models observing that models pretrained with atomic quantum mechanical properties produce in general better results. We then analyse the latent representations and observe that the supervised strategies preserve the pretraining information after finetuning and that different pretrainings produce different trends in latent expressivity across layers. Furthermore, we find that models pretrained on atomic quantum mechanical properties capture more low-frequency laplacian eigenmodes of the input graph via the attention weights and produce better representations of atomic environments within the molecule. Application of the analysis to a much larger non-public dataset for microsomal clearance illustrates generalizability of the studied indicators. In this case the performances of the models are in accordance with the representation analysis and highlight, especially for the case of masking pretraining and atom-level quantum property pretraining, how model types with similar performance on public benchmarks can have different performances on large scale pharmaceutical data.",
-  "authors": [
-   "Alessio Fallani",
-   "Ramil Nugmanov",
-   "Jose Arjona-Medina",
-   "Jörg Kurt Wegner",
-   "Alexandre Tkatchenko",
-   "Kostiantyn Chernichenko"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Alessio Fallani",
-  "pdf_url": "http://arxiv.org/pdf/2410.08024",
-  "primary_category": "cs.LG",
-  "published": "2024-10-10",
-  "tags": [],
-  "title": "Pretraining Graph Transformers with Atom-in-a-Molecule Quantum Properties for Improved ADMET Modeling",
-  "topics": [
-   "via:author-whitelist:vdW, ML force fields"
-  ],
-  "updated": "2024-10-10"
  },
  "2410.08978": {
   "abstract": "Neuromorphic computing offers a low-power, parallel alternative to traditional von Neumann architectures by addressing the sequential data processing bottlenecks. Electric double layer-gated transistors (EDLTs) resemble biological synapses with their ionic response and offer low power operations, making them suitable for neuromorphic applications. A critical consideration for artificial neural networks (ANNs) is achieving linear and symmetric plasticity (weight updates) during training, as this directly affects accuracy and efficiency. This study uses finite element modeling to explore EDLTs as artificial synapses in ANNs and investigates the underlying mechanisms behind the nonlinear plasticity observed experimentally in previous studies. By solving modified Poisson-Nernst-Planck (mPNP) equations, we examined ion dynamics within an EDL capacitor & their effects on plasticity, revealing that the rates of EDL formation and dissipation are concentration-dependent. Fixed-magnitude pulse inputs result in decreased formation & increased dissipation rates, leading to nonlinear weight updates and limits the number of accessible states and operating range of devices. To address this, we developed a predictive linear ionic weight update solver (LIWUS) in Python to predict voltage pulse inputs that achieve linear plasticity. We then evaluated an ANN with linear and nonlinear weight updates on the MNIST classification task. The LIWUS-provided linear weight updates required 19% fewer epochs in training and validation than the network with nonlinear weight updates to reach optimal performance. It achieved a 97.6% recognition accuracy, 1.5-4.2% higher than with nonlinear updates and a low standard deviation of 0.02%. The network model is amenable to future spiking neural network applications and the performance improvements with linear weight update is expected to increase for complex networks.",
@@ -400,31 +275,6 @@
   ],
   "updated": "2024-10-16"
  },
- "2410.12764": {
-  "abstract": "In the near future, the Jefferson Lab $b_1$ experiment will provide the second measurement of tensor polarized asymmetries in inclusive DIS on the deuteron. In this asymmetry, 4 independent tensor polarized structure functions contribute. This necessitates systematic approximations in the extraction of the leading twist structure function $b_1$ from a single tensor asymmetry measurement. Contamination from higher twist structure functions and kinematic effects is discussed here. Using a deuteron convolution model, we quantify the systematic errors from these approximations for two different choices for the target polarization direction (momentum transfer, electron beam direction). For Jefferson Lab 12 GeV kinematics, the systematic error turns out to be comparable between the two polarization options, while at higher $Q^2$ values the momentum transfer direction is preferred.",
-  "authors": [
-   "Wim Cosyn",
-   "Brandon Roldan Tomei",
-   "Alan Sosa",
-   "Allison Zec"
-  ],
-  "categories": [
-   "hep-ph",
-   "nucl-ex",
-   "nucl-th"
-  ],
-  "comment": "11 pages, 11 figures, submitted as part of the EPJA Topical Collection on Tensor Spin Observables",
-  "first_author": "Wim Cosyn",
-  "pdf_url": "http://arxiv.org/pdf/2410.12764",
-  "primary_category": "hep-ph",
-  "published": "2024-10-16",
-  "tags": [],
-  "title": "Polarization options in inclusive DIS off tensor polarized deuteron",
-  "topics": [
-   "via:author-whitelist:iron sulfide, mineral surfaces"
-  ],
-  "updated": "2024-10-16"
- },
  "2410.13833": {
   "abstract": "While machine learning (ML) models have been able to achieve unprecedented accuracies across various prediction tasks in quantum chemistry, it is now apparent that accuracy on a test set alone is not a guarantee for robust chemical modeling such as stable molecular dynamics (MD). To go beyond accuracy, we use explainable artificial intelligence (XAI) techniques to develop a general analysis framework for atomic interactions and apply it to the SchNet and PaiNN neural network models. We compare these interactions with a set of fundamental chemical principles to understand how well the models have learned the underlying physicochemical concepts from the data. We focus on the strength of the interactions for different atomic species, how predictions for intensive and extensive quantum molecular properties are made, and analyze the decay and many-body nature of the interactions with interatomic distance. Models that deviate too far from known physical principles produce unstable MD trajectories, even when they have very high energy and force prediction accuracy. We also suggest further improvements to the ML architectures to better account for the polynomial decay of atomic interactions.",
   "authors": [
@@ -453,28 +303,6 @@
   ],
   "updated": "2024-10-17"
  },
- "2410.13875": {
-  "abstract": "The teaching innovation project SpaceRaceEdu: development of an educational multiplayer video game for self-study and self-assessment has been carried out under the INNOVA call of the Autonomous University of Madrid during the 2022-2023 academic year. In this project, a functional prototype of SpaceRaceEdu has been developed: a multiplayer video game with a social and educational nature, which can be used both by teachers as a training and evaluation activity and by students as a tool for study and evaluation. In SpaceRaceEdu, several student teams try to launch a rocket before everyone else. To meet this objective, they must gather a series of resources by going through a scenario and answering questions of different types. The teachers can introduce these questions according to the contents of their subject. The videogame balances competition and cooperation to promote participation and learning. Competition occurs between teams who strive to answer all their questions correctly before their rivals. In contrast, cooperation occurs between students on the same team who can organize and support each other to be more effective.",
-  "authors": [
-   "Juan Jesús Roldán Gómez",
-   "Cristina Alonso Fernández",
-   "Carlos Aguirre Maeso"
-  ],
-  "categories": [
-   "cs.CY"
-  ],
-  "comment": "8 pages, in Spanish language, 3 figures",
-  "first_author": "Juan Jesús Roldán Gómez",
-  "pdf_url": "http://arxiv.org/pdf/2410.13875",
-  "primary_category": "cs.CY",
-  "published": "2024-10-02",
-  "tags": [],
-  "title": "SpaceRaceEdu: developing an educational multi-player videogame for self-study and assessment",
-  "topics": [
-   "via:author-whitelist:iron sulfide, mineral surfaces"
-  ],
-  "updated": "2024-10-02"
- },
  "2410.16252": {
   "abstract": "Training interatomic potentials for spin-polarized systems continues to be a difficult task for the molecular modeling community. In this note, a proof-of-concept, random initial spin committee approach is proposed for obtaining the ground state of spin-polarized systems with a controllable degree of accuracy. The approach is tested on two toy models of elemental sulfur where the exact optimal spin configuration can be known. Machine-learning potentials are trained on the resulting data, and increasingly accurate fits with respect to the ground state are achieved, marking a step towards machine-learning force fields for general bulk spin-polarized systems.",
   "authors": [
@@ -497,174 +325,6 @@
    "via:author-whitelist:GAP, MACE, ACE"
   ],
   "updated": "2024-10-24"
- },
- "2410.16786": {
-  "abstract": "IRAS 22568+6141 has been classified as a low-ionisation planetary nebula (PN) and presents non-thermal radio continuum emission, which could be a signature of nascent PNe. We present intermediate-resolution long-slit spectra obtained in 2021 and 2023, high-resolution long-slit spectra taken in 2023, and a light curve at the $r$-filter between 1953 and 2019, that reveal changes in IRAS 22568+6141 with timescales of decades and a few years. The object underwent an energetic event around 1990 that suddenly increased its brightness which has been fading since then. A comparison with a published spectrum from 1988 shows an increase of the H$β$ flux in 2021 by factor of $\\simeq$6 and the [O III] emission lines that were absent in 1988. Between 2021 and 2023 the H$β$ flux decreased by a factor of $\\simeq$1.7, and the [O III] emission lines almost vanished. These results and the variability observed in other emission lines indicate that IRAS 22568+6141 is recombining and cooling down between 2021 and 2023, and probably since 2005, as suggested by archival radio continuum and mid-IR observations. The intermediate- and high-resolution spectra show that the excitation of the emission lines is dominated by shocks in 2021 and 2023, and, probably, also in 1988, which may be related to the non-thermal radio continuum emission from the object. Although the variability might be due to changes in the physical conditions in the shocks or in a nova-like eruption, it accommodates better to that expected from a late thermal pulse, which is further suggested by a comparison with other similar objects. New observations and monitoring in the coming years are crucial to corroborate the origin of the variability.",
-  "authors": [
-   "Roldán A. Cala",
-   "Luis F. Miranda",
-   "José F. Gómez",
-   "Christophe Morisset",
-   "Federico Soto",
-   "Pedro F. Guillén",
-   "Roberto Vázquez"
-  ],
-  "categories": [
-   "astro-ph.SR"
-  ],
-  "comment": "11 pages, 8 figures, 6 tables. Accepted for publication in A&A",
-  "first_author": "Roldán A. Cala",
-  "pdf_url": "http://arxiv.org/pdf/2410.16786",
-  "primary_category": "astro-ph.SR",
-  "published": "2024-10-22",
-  "tags": [],
-  "title": "Long and short term variability of the possible nascent planetary nebula IRAS 22568+6141: A late thermal pulse?",
-  "topics": [
-   "via:author-whitelist:iron sulfide, mineral surfaces"
-  ],
-  "updated": "2024-10-22"
- },
- "2410.17152": {
-  "abstract": "To improve relevance scoring on Pinterest Search, we integrate Large Language Models (LLMs) into our search relevance model, leveraging carefully designed text representations to predict the relevance of Pins effectively. Our approach uses search queries alongside content representations that include captions extracted from a generative visual language model. These are further enriched with link-based text data, historically high-quality engaged queries, user-curated boards, Pin titles and Pin descriptions, creating robust models for predicting search relevance. We use a semi-supervised learning approach to efficiently scale up the amount of training data, expanding beyond the expensive human labeled data available. By utilizing multilingual LLMs, our system extends training data to include unseen languages and domains, despite initial data and annotator expertise being confined to English. Furthermore, we distill from the LLM-based model into real-time servable model architectures and features. We provide comprehensive offline experimental validation for our proposed techniques and demonstrate the gains achieved through the final deployed system at scale.",
-  "authors": [
-   "Han Wang",
-   "Mukuntha Narayanan Sundararaman",
-   "Onur Gungor",
-   "Yu Xu",
-   "Krishna Kamath",
-   "Rakesh Chalasani",
-   "Kurchi Subhra Hazra",
-   "Jinfeng Rao"
-  ],
-  "categories": [
-   "cs.IR",
-   "cs.CL"
-  ],
-  "comment": "CIKM 2024 Workshop on Industrial Recommendation Systems",
-  "first_author": "Han Wang",
-  "pdf_url": "http://arxiv.org/pdf/2410.17152",
-  "primary_category": "cs.IR",
-  "published": "2024-10-22",
-  "tags": [],
-  "title": "Improving Pinterest Search Relevance Using Large Language Models",
-  "topics": [
-   "via:author-whitelist:JDFTx, electrochemistry-DFT, solvation"
-  ],
-  "updated": "2024-10-22"
- },
- "2410.17675": {
-  "abstract": "Isotopic substitution, which can be realized both in experiment and computer simulations, is a direct approach to assess the role of nuclear quantum effects on the structure and dynamics of matter. Yet, the impact of nuclear quantum effects on the structure of liquid water as probed in experiment by comparing normal to heavy water has remained controversial. To settle this issue, we employ a highly accurate machine-learned high-dimensional neural network potential to perform converged coupled cluster-quality path integral simulations of liquid H$_2$O versus D$_2$O at ambient conditions. We find substantial H/D quantum effects on the rotational and translational dynamics of water, in close agreement with the experimental benchmarks. However, in stark contrast to the role for dynamics, H/D quantum effects turn out to be unexpectedly small, on the order of 1/1000 Å, on both intramolecular and H-bonding structure of water. The most probable structure of water remains nearly unaffected by nuclear quantum effects, but effects on fluctuations away from average are appreciable, rendering H$_2$O substantially more \"liquid\" than D$_2$O.",
-  "authors": [
-   "Nore Stolte",
-   "János Daru",
-   "Harald Forbert",
-   "Jörg Behler",
-   "Dominik Marx"
-  ],
-  "categories": [
-   "physics.chem-ph"
-  ],
-  "comment": null,
-  "first_author": "Nore Stolte",
-  "pdf_url": "http://arxiv.org/pdf/2410.17675",
-  "primary_category": "physics.chem-ph",
-  "published": "2024-10-23",
-  "tags": [],
-  "title": "Nuclear Quantum Effects in Liquid Water Are Negligible for Structure but Significant for Dynamics",
-  "topics": [
-   "via:author-whitelist:AIMD, proton transfer",
-   "via:author-whitelist:neural network potentials"
-  ],
-  "updated": "2024-10-23"
- },
- "2410.18783": {
-  "abstract": "We introduce a single-qubit quantum measurement engine fuelled by backaction energy input. To reduce energetic costs associated with information processing, the measurement outcomes are only used with a prescribed laziness probability in the feedback step. As a result, we show that the work extracted over consecutive cycles is a second-order Markov process, analogous to a run-and-tumble process with transient anomalous diffusion. We derive exact analytical expressions for the work finite-time moments and first-passage-time statistics. Furthermore, we find the optimal laziness probability maximizing the mean power extracted per cycle.",
-  "authors": [
-   "Léa Bresque",
-   "Debraj Das",
-   "Édgar Roldán"
-  ],
-  "categories": [
-   "quant-ph",
-   "cond-mat.stat-mech"
-  ],
-  "comment": "Supplementary Material included",
-  "first_author": "Léa Bresque",
-  "pdf_url": "http://arxiv.org/pdf/2410.18783",
-  "primary_category": "quant-ph",
-  "published": "2024-10-24",
-  "tags": [],
-  "title": "Run-and-tumble exact work statistics in a lazy quantum measurement engine: stochastic information processing",
-  "topics": [
-   "via:author-whitelist:iron sulfide, mineral surfaces"
-  ],
-  "updated": "2024-10-24"
- },
- "2410.22463": {
-  "abstract": "Pattern formation in spin systems with continuous-rotational symmetry (CRS) provides a powerful platform to study emergent complex magnetic phases and topological defects in condensed-matter physics. However, its understanding and correlation with unconventional magnetic order along with high-resolution nanoscale imaging is challenging. Here, we employ scanning NV magnetometry to unveil the morphogenesis of spin cycloids at both the local and global scales within a single ferroelectric domain of (111)-oriented BiFeO$_3$ (which is a non-collinear antiferromagnet), resulting in formation of a glassy labyrinthine pattern. We find that the domains of locally oriented cycloids are interconnected by an array of topological defects and exhibit isotropic energy landscape predicted by first-principles calculations. We propose that the CRS of spin-cycloid propagation directions within the (111) drives the formation of the labyrinthine pattern and the associated topological defects such as antiferromagnetic skyrmions. Unexpectedly, reversing the as-grown ferroelectric polarization from [$\\bar{1}$$\\bar{1}$$\\bar{1}$] to [111] induces a magnetic phase transition, destroying the labyrinthine pattern and producing a deterministic non-volatile non cycloidal, uniformly magnetized state. These findings highlight that (111)-oriented BiFeO$_3$ is not only important for studying the fascinating subject of pattern formation but could also be utilized as an ideal platform for integrating novel topological defects in the field of antiferromagnetic spintronics.",
-  "authors": [
-   "Shashank Kumar Ojha",
-   "Pratap Pal",
-   "Sergei Prokhorenko",
-   "Sajid Husain",
-   "Maya Ramesh",
-   "Peter Meisenheimer",
-   "Darrell G. Schlom",
-   "Paul Stevenson",
-   "Lucas Caretta",
-   "Yousra Nahas",
-   "Lane W. Martin",
-   "Laurent Bellaiche",
-   "Chang-Beom Eom",
-   "Ramamoorthy Ramesh"
-  ],
-  "categories": [
-   "cond-mat.mtrl-sci",
-   "cond-mat.mes-hall",
-   "cond-mat.str-el"
-  ],
-  "comment": "20 pages, 15 figures",
-  "first_author": "Shashank Kumar Ojha",
-  "pdf_url": "http://arxiv.org/pdf/2410.22463",
-  "primary_category": "cond-mat.mtrl-sci",
-  "published": "2024-10-29",
-  "tags": [
-   "ab-initio",
-   "phase-transitions"
-  ],
-  "title": "Morphogenesis of Spin Cycloids in a Non-collinear Antiferromagnet",
-  "topics": [
-   "via:author-whitelist:origin of life biochemistry, autotrophy"
-  ],
-  "updated": "2024-10-29"
- },
- "2410.22785": {
-  "abstract": "Maser emission of SiO, H$_2$O and, OH is widespread in Asymptotic Giant Branch (AGB) stars with oxygen(O)-rich envelopes. This emission quickly disappear during the post-AGB phase and is extremely rare in planetary nebulae (PN). So far, only eight PNe have been confirmed to show OH and/or H$_2$O maser emission, and none has ever been found to show SiO maser emission. We intend to obtain the first detection of a SiO maser from a PNe. Such a detection would provide us with a useful tool to probe mass-loss in PNe at a scales of a few AU from the central star, much shorter than the scales traced by H$_2$ or OH masers. We compiled two different samples. The first one comprises all known PNe with confirmed OH and/or H$_2$O maser emission, as well as two candidate PNe showing OH masers. For the second sample we compiled single-dish SiO maser detections in the literature, and compared them with catalogs of PNe and radio continuum emission (which could trace photoionized gas in a PNe). We identified five targets (either PN or radio continuum sources) within the beam of the single-dish SiO maser observations. We then carried out interferometric observations of both samples with the Australia Telescope Compact Array, to confirm the spatial association between continuum and SiO maser emission. We found no SiO maser emission associated with any confirmed or candidate PN. In all targets, except IRAS 17390$-$3014, there is no spatial coincidence between SiO masers and radio continuum emission. While in IRAS 17390$-$3014 we cannot completely rule out a possible association, it is unlikely that the radio continuum emission arises from a planetary nebula. The absence of SiO maser emission in PNe showing OH or H$_2$O masers is of special interest, since thermal SiO emission has been reported in at least one of these targets, indicating that SiO molecules can be present in gas phase.",
-  "authors": [
-   "Roldán A. Cala",
-   "José F. Gómez",
-   "Luis F. Miranda",
-   "Hiroshi Imai",
-   "Itziar de Gregorio-Monsalvo",
-   "Florin Placinta Mitrea",
-   "Mayra Osorio",
-   "Guillem Anglada"
-  ],
-  "categories": [
-   "astro-ph.SR",
-   "astro-ph.GA"
-  ],
-  "comment": "15 pages, 7 figures, 4 tables. Accepted for publication in A&A",
-  "first_author": "Roldán A. Cala",
-  "pdf_url": "http://arxiv.org/pdf/2410.22785",
-  "primary_category": "astro-ph.SR",
-  "published": "2024-10-30",
-  "tags": [],
-  "title": "An interferometric search for SiO maser emission in planetary nebulae",
-  "topics": [
-   "via:author-whitelist:iron sulfide, mineral surfaces"
-  ],
-  "updated": "2024-10-30"
  },
  "2411.05019": {
   "abstract": "The accurate prediction of solvation free energy is of significant importance as it governs the behavior of solutes in solution. In this work, we apply a variety of machine learning techniques to predict and analyze the alchemical free energy of small molecules. Our methodology incorporates an ensemble of machine learning models with feature processing using the K-nearest neighbors algorithm. Two training strategies are explored: one based on experimental data, and the other based on the offset between molecular dynamics (MD) simulations and experimental measurements. The latter approach yields a substantial improvement in predictive accuracy, achieving a mean unsigned error (MUE) of 0.64 kcal/mol. Feature analysis identifies molecular geometry and topology as the most critical factors in predicting alchemical free energy, supporting the established theory that surface tension is a key determinant. Furthermore, the feature analysis of offset results highlights the relevance of charge distribution within the system, which correlates with the inaccuracies in force fields employed in MD simulations and may provide guidance for improving force field designs. These results suggest that machine learning approaches can effectively capture the complex features governing solvation free energy, offering novel pathways for enhancing predictive accuracy.",

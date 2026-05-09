@@ -1,9 +1,0 @@
-<article class="abstract-fragment" data-id="2505.23072">
-<h1 class="abstract-title">Speeding up Model Loading with fastsafetensors</h1>
-<p class="abstract-authors">Takeshi Yoshimura, Tatsuhiro Chiba, Manish Sethi, Daniel Waddington, Swaminathan Sundararaman</p>
-<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2505.23072" rel="nofollow noopener">arXiv:2505.23072</a></span><span class="sep">·</span><span>cs.DC</span><span class="sep">·</span><span>Published 2025-05-29</span></p>
-<div class="abstract-body">The rapid increases in model parameter sizes introduces new challenges in pre-trained model loading. Currently, machine learning code often deserializes each parameter as a tensor object in host memory before copying it to device memory. We found that this approach underutilized storage throughput and significantly slowed down loading large models with a widely-used model file formats, safetensors. In this work, we present fastsafetensors, a Python library designed to optimize the deserialization of tensors in safetensors files. Our approach first copies groups of on-disk parameters to device memory, where they are directly instantiated as tensor objects. This design enables further optimization in low-level I/O and high-level tensor preprocessing, including parallelized copying, peer-to-peer DMA, and GPU offloading. Experimental results show performance improvements of 4.8x to 7.5x in loading models such as Llama (7, 13, and 70 billion parameters), Falcon (40 billion parameters), and the Bloom (176 billion parameters).</div>
-<p class="abstract-tagline"><span class="label">Topics</span>via:author-whitelist:JDFTx, electrochemistry-DFT, solvation</p>
-<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.DC</p>
-<p class="abstract-actions"><a href="http://arxiv.org/abs/2505.23072" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2505.23072" rel="nofollow noopener">PDF</a></p>
-</article>

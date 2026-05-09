@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,12 +122,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12262.html">Photocatalytic CO2 Reduction Enhanced by Synergetic Interactions among Photon Phonon and Molecule</a></div><div class="paper-tags"><a href="co2-adsorption-360d.html">co2-adsorption</a> · <a href="co2-reduction-360d.html">co2-reduction</a></div></td>
 <td>Chen Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12262">2508.12262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05117.html">Thermodynamics of a compressible lattice gas crystal: Generalized Gibbs-Duhem equation and adsorption</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Michiel Sprik</td>
-<td><a href="http://arxiv.org/abs/2501.05117">2501.05117</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-12</td>

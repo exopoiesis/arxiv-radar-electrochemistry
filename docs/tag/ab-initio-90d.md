@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,12 +28,6 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2604.17076">2604.17076</a></td>
 </tr>
 <tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08143.html">Equivariant Many-body Message Passing Interatomic Potentials for Magnetic Materials</a></div></td>
-<td>Cheuk Hin Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08143">2604.08143</a></td>
-</tr>
-<tr class="paper">
 <td>2026-03-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28927.html">Hydrogen-helium immiscibility boundary in planets</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xiaoyu Wang et al.</td>
@@ -44,18 +38,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25271.html">Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>S. Chattopadhyay et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25271">2603.25271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18182.html">Ultrafast dynamics and light-induced superconductivity from first principles</a></div></td>
-<td>Alejandro Simon et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18182">2603.18182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.01059.html">Photogalvanic currents from first-principles real-time density-matrix dynamics</a></div></td>
-<td>Junting Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2601.01059">2601.01059</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-06</td>
@@ -98,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20750.html">Elucidating the Inter-system Crossing of the Nitrogen-Vacancy Center up to Megabar Pressures</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Benchen Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20750">2511.20750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02663.html">Semi-Dirac spin liquids and frustrated quantum magnetism on the trellis lattice</a></div></td>
-<td>Sourin Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02663">2509.02663</a></td>
 </tr>
 </tbody></table>

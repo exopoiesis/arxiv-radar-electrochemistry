@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,6 +476,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16180.html">BaZrS$_\text{3}$ Lights Up: The Interplay of Electrons, Photons, and Phonons in Strongly Luminescent Single Crystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
 <td>Rasmus Svejstrup Nielsen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.16180">2503.16180</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03853.html">OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems</a></div></td>
+<td>Beom Seok Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2507.03853">2507.03853</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-25</td>

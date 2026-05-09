@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption-energy — all</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <a href="adsorption-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -52,12 +52,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2508.07858">2508.07858</a></td>
 </tr>
 <tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06673.html">Are Molecules Magical? Non-Stabilizerness in Molecular Bonding</a></div></td>
-<td>Matthieu Sarkis et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06673">2504.06673</a></td>
-</tr>
-<tr class="paper">
 <td>2025-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18338.html">Strain Modulated Catalytic Activity of Pt2XSe3 (X = Hg, Zn) for Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
 <td>Caique C. Oliveira et al.</td>
@@ -74,11 +68,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14116.html">Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="formate-all.html">formate</a> · <a href="isotope-geochemistry-all.html">isotope-geochemistry</a></div></td>
 <td>Lecheng Liang et al.</td>
 <td><a href="http://arxiv.org/abs/2409.14116">2409.14116</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.04592.html">89 New Ultracool Dwarf Co-Moving Companions Identified With The Backyard Worlds: Planet 9 Citizen Science Project</a></div></td>
-<td>Austin Rothermich et al.</td>
-<td><a href="http://arxiv.org/abs/2403.04592">2403.04592</a></td>
 </tr>
 </tbody></table>

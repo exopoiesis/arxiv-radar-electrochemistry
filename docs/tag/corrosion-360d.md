@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>corrosion — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <strong>360d</strong> <a href="corrosion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,12 +26,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02121.html">Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Fernando M. Fernandes et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02121">2603.02121</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08883.html">Engineering diamond interfaces free of dark spins</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Xiaofei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08883">2504.08883</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-01</td>

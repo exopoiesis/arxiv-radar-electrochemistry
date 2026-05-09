@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ion-transport — all</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,12 +62,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08208.html">Toward Efficient Electrokinetic Energy Conversion with Topographic Modulation of Electrical Conduction</a></div><div class="paper-tags"><a href="electric-double-layer-all.html">electric-double-layer</a></div></td>
 <td>Austin Dick et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08208">2505.08208</a></td>
-</tr>
-<tr class="paper">
-<td>2024-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12369.html">Variability in Resistive Memories</a></div></td>
-<td>Juan B. Roldán et al.</td>
-<td><a href="http://arxiv.org/abs/2411.12369">2411.12369</a></td>
 </tr>
 <tr class="paper">
 <td>2024-05-27</td>
