@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oxygen-evolution — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="oxygen-evolution-7d.html">7d</a> <a href="oxygen-evolution-30d.html">30d</a> <a href="oxygen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="oxygen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2604.27266">2604.27266</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28726.html">Pentagonal PdTe2 Monolayer for Sustainable Solar-driven Hydrogen Production</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
+<td>Narender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2603.28726">2603.28726</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14305.html">Estimating Reaction Rate Constants from Impedance Spectra: Simulating the Multistep Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a> · <a href="microkinetics-360d.html">microkinetics</a></div></td>
 <td>Freja Vandeputte et al.</td>
@@ -40,10 +46,52 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2512.12712">2512.12712</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05938.html">Adsorption energies are necessary but not sufficient to identify good catalysts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
+<td>Shahana Chatterjee et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05938">2512.05938</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09587.html">Ab initio study on photocatalytic properties of PtSSe-WXY Janus heterostructures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="aimd-360d.html">aimd</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Shivprasad S. Shastri et al.</td>
+<td><a href="http://arxiv.org/abs/2510.09587">2510.09587</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15665.html">Correlation Effects on Magnetic Structure and Lattice Dynamics of LaMn$_7$O$_{12}$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Haeyoon Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2509.15665">2509.15665</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09803.html">CaCd$_2$P$_2$: A Visible-Light Absorbing Zintl Phosphide Stable under Photoelectrochemical Water Oxidation</a></div></td>
+<td>Guillermo L. Esparza et al.</td>
+<td><a href="http://arxiv.org/abs/2509.09803">2509.09803</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07180.html">Effective Atom Theory: Gradient-Driven ab initio Materials Design</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Justin Tahmassebpur et al.</td>
+<td><a href="http://arxiv.org/abs/2509.07180">2509.07180</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09538.html">Boron Clusters for Metal-Free Water Splitting</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Masaya Fujioka et al.</td>
+<td><a href="http://arxiv.org/abs/2508.09538">2508.09538</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04755.html">DFT-Guided Operando Raman Characterization of Ni-Based Phases Relevant to Electrochemical Systems</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Harol Moreno Fernández et al.</td>
+<td><a href="http://arxiv.org/abs/2507.04755">2507.04755</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-15</td>

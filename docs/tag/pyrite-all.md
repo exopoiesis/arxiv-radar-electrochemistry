@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pyrite — all</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="pyrite-7d.html">7d</a> <a href="pyrite-30d.html">30d</a> <a href="pyrite-90d.html">90d</a> <a href="pyrite-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,6 +28,24 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2601.21790">2601.21790</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13119.html">Melting phase relation of seifertite and pyrite-type SiO2 determined by machine learning potentials</a></div></td>
+<td>Doyoon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2510.13119">2510.13119</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13057.html">Dimensional crossover and emergence of novel phases in puckered PdSe$_2$ under pressure</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="marcasite-all.html">marcasite</a></div></td>
+<td>Tanima Kundu et al.</td>
+<td><a href="http://arxiv.org/abs/2501.13057">2501.13057</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08751.html">XRISM insights for interstellar Sulfur</a></div><div class="paper-tags"><a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="pyrrhotite-all.html">pyrrhotite</a></div></td>
+<td>Lia Corrales et al.</td>
+<td><a href="http://arxiv.org/abs/2506.08751">2506.08751</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.07732.html">Pyrite Bismuth Telluride Heterojunction for Hybrid Electromagnetic to Thermoelectric Energy Harvesting</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Karthik R et al.</td>
@@ -44,6 +62,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08763.html">Dissolution kinetics of iron sulfide minerals in alkaline solutions</a></div><div class="paper-tags"><a href="dissolution-kinetics-all.html">dissolution-kinetics</a> · <a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="pyrrhotite-all.html">pyrrhotite</a></div></td>
 <td>Zhanzhao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2503.08763">2503.08763</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13836.html">Fool&#x27;s gold: ligand-receptor interactions and the origins of life</a></div><div class="paper-tags"><a href="autocatalysis-all.html">autocatalysis</a> · <a href="origin-of-life-all.html">origin-of-life</a> · <a href="surface-science-all.html">surface-science</a></div></td>
+<td>Betony Adams et al.</td>
+<td><a href="http://arxiv.org/abs/2412.13836">2412.13836</a></td>
 </tr>
 <tr class="paper">
 <td>2024-12-07</td>

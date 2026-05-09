@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcopyrite — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="chalcopyrite-7d.html">7d</a> <a href="chalcopyrite-30d.html">30d</a> <a href="chalcopyrite-90d.html">90d</a> <strong>360d</strong> <a href="chalcopyrite-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,27 @@ current_window: 360d
 <tbody>
 <tr class="paper">
 <td>2026-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05855.html">Loss analysis of Low Bandgap (Ag,Cu)(In,Ga)Se2 Solar Cells for Tandem Applications</a></div></td>
+<td>Francesco Lodola et al.</td>
+<td><a href="http://arxiv.org/abs/2604.05855">2604.05855</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05891.html">ALD Zinc Tin Oxide Buffers for Chalcopyrite Solar Cells: Electrical Barriers and Conduction Band Cliffs</a></div></td>
 <td>Boaz Koren et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05891">2604.05891</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18791.html">Phonon Band Center: A Robust Descriptor to Capture Anharmonicity</a></div></td>
+<td>Madhubanti Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2603.18791">2603.18791</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17352.html">HyDeMiC: A Deep Learning-based Mineral Classifier using Hyperspectral Data</a></div></td>
+<td>M. L. Mamud et al.</td>
+<td><a href="http://arxiv.org/abs/2601.17352">2601.17352</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-01</td>
@@ -44,5 +62,11 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05621.html">Coherent phonon motions and ordered vacancy compound mediated quantum path interference in Cu-poor CuIn$_{x}$Ga$_{(1-x)}$Se$_2$ (CIGS) with attosecond transient absorption</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Hugo Laurell et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05621">2506.05621</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08988.html">Thermoelectric Properties of Copper-based Chalcopyrite Semiconductors Cu$MX_2$ ($M$ = Al, Ga, and In; $X$ = S, Se, and Te) from First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Wu Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2508.08988">2508.08988</a></td>
 </tr>
 </tbody></table>

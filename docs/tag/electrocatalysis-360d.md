@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06348.html">From Deposition Stress to Surface Reactivity: Strain-Dependent Hydrogen Evolution on Sputtered Platinum Thin Films</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
+<td>Sabrina Baha et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06348">2605.06348</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Jiahang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00609">2605.00609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24205.html">Duality of Theories for the Electrical Double Layer in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
+<td>Zachary A. H. Goodwin</td>
+<td><a href="http://arxiv.org/abs/2602.24205">2602.24205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21773.html">Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Dustin Vivod et al.</td>
+<td><a href="http://arxiv.org/abs/2604.21773">2604.21773</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17427.html">Spin State versus Potential of Zero Charge as Predictors of Density-Dependent Oxygen Reduction in M-N-C Electrocatalysts</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="microkinetics-360d.html">microkinetics</a></div></td>
+<td>Di Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2604.17427">2604.17427</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07206.html">Fe3O4 nano-octahedra and SnO2 nanorods modifying low-Pd amount electrocatalysts for alkaline direct ethanol fuel cells</a></div><div class="paper-tags"><a href="flow-cells-360d.html">flow-cells</a></div></td>
+<td>Tuani C. Gentil et al.</td>
+<td><a href="http://arxiv.org/abs/2604.07206">2604.07206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07483.html">Stability of Supported Pd-based Ethanol Oxidation Reaction Electrocatalysts in Alkaline Media</a></div><div class="paper-tags"><a href="flow-cells-360d.html">flow-cells</a></div></td>
+<td>Tuani C. Gentil et al.</td>
+<td><a href="http://arxiv.org/abs/2604.07483">2604.07483</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-06</td>
@@ -40,6 +76,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2601.13803">2601.13803</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11034.html">Implicit Nucleation and Competitive Dynamics of Electrogenerated Hydrogen Nanobubbles</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Nima Shakourifar et al.</td>
+<td><a href="http://arxiv.org/abs/2601.11034">2601.11034</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15124.html">Silver electrodes are highly selective for CO in CO$_2$ electroreduction due to interplay between voltage dependent kinetics and thermodynamics</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="formate-360d.html">formate</a></div></td>
 <td>Michele Re Fiorentin et al.</td>
@@ -58,6 +100,30 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2512.05363">2512.05363</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05938.html">Adsorption energies are necessary but not sufficient to identify good catalysts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td>Shahana Chatterjee et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05938">2512.05938</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09869.html">Potential-Programmed Operando Ensembles Govern Nitrate Electroreduction</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Xue-Chun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2511.09869">2511.09869</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04493.html">A copper sulfide-hydroxypropyl $β$-Cyclodextrin-reduced graphene oxide composite for highly sensitive electrochemical detection of 5-hydroxytryptamine in biological samples</a></div></td>
+<td>Aravindan Santhan et al.</td>
+<td><a href="http://arxiv.org/abs/2511.04493">2511.04493</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23422.html">Prospects towards Paired Electrolysis at Industrial Currents</a></div><div class="paper-tags"><a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
+<td>Lu Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2510.23422">2510.23422</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12176.html">Nanoscale surface morphology controls charge storage at stepped Pt-water interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Matthew T. Darby et al.</td>
@@ -68,6 +134,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00424.html">Metallic Oxides and the Overlooked Role of Bandwidth</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Aurland K. Watkins et al.</td>
+<td><a href="http://arxiv.org/abs/2510.00424">2510.00424</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-21</td>
@@ -88,6 +160,30 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2509.09357">2509.09357</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02429.html">Modeling Reactions on the Solid-Liquid Interface With Next Generation Extended Lagrangian Quantum-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Rae A. Corrigan Grove et al.</td>
+<td><a href="http://arxiv.org/abs/2502.02429">2502.02429</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="co2-reduction-360d.html">co2-reduction</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Márton Guba et al.</td>
+<td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21766.html">Magnetism Enhanced Surface Bonding of O$_{2}$ on CoPt</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Kevin Allen et al.</td>
+<td><a href="http://arxiv.org/abs/2508.21766">2508.21766</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17443.html">Pulsed laser synthesis of mesoporous metal chalcogenide thin films</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
+<td>Dorien E. Carpenter et al.</td>
+<td><a href="http://arxiv.org/abs/2508.17443">2508.17443</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09272.html">Solution-corrected Constant Potential Model for CO2 Electrocatalysis in Ionic Liquids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="constant-potential-360d.html">constant-potential</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
 <td>Jikai Sun et al.</td>
@@ -106,9 +202,39 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2506.16807">2506.16807</a></td>
 </tr>
 <tr class="paper">
+<td>2025-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10548.html">Machine learning accelerated finite-field simulations for electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Chaoqiang Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2506.10548">2506.10548</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07839.html">Predicting aqueous and electrochemical stability of 2D materials from extended Pourbaix analyses</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Stefano Americo et al.</td>
+<td><a href="http://arxiv.org/abs/2506.07839">2506.07839</a></td>
+</tr>
+<tr class="paper">
 <td>2025-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14819.html">Mixed platinum and zirconia powder as electrocatalyst for hydrogen evolution and oxidation reaction</a></div><div class="paper-tags"><a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a></div></td>
 <td>Simone Minelli et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14819">2506.14819</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18140.html">Effect of Fluorine doping on the electrocatalytic properties of Nb2O5 for H2O2 electrogeneration</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
+<td>Aline B. Trench et al.</td>
+<td><a href="http://arxiv.org/abs/2505.18140">2505.18140</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
+<td>Yu Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13759.html">Enhanced ammonia electro-oxidation reaction on platinum-iron oxide catalyst assisted by MagnetoElectroCatalysis</a></div></td>
+<td>Caio Machado Fernandes et al.</td>
+<td><a href="http://arxiv.org/abs/2505.13759">2505.13759</a></td>
 </tr>
 </tbody></table>

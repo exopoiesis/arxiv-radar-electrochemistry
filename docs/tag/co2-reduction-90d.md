@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>co2-reduction — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <strong>90d</strong> <a href="co2-reduction-360d.html">360d</a> <a href="co2-reduction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17953.html">Efficient photocatalytic CO2 Reduction to C2+ Products with Pt1-xPdxSn4 Dirac Nodal Arc Semimetal</a></div></td>
 <td>Kangwang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17953">2602.17953</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10649.html">Electron-impact cross sections for dissociation processes of vibrationally excited CH radical</a></div></td>
+<td>O. Abidi et al.</td>
+<td><a href="http://arxiv.org/abs/2602.10649">2602.10649</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-09</td>

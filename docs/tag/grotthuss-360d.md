@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>grotthuss — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="grotthuss-7d.html">7d</a> <a href="grotthuss-30d.html">30d</a> <a href="grotthuss-90d.html">90d</a> <strong>360d</strong> <a href="grotthuss-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,10 +22,40 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2505.01963">2505.01963</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25371.html">Complementary Eigen-Zundel Interpretation Reconciles Thermodynamics and Spectroscopy of Excess Protons in Aqueous HF Solutions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Louis Lehmann et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25371">2603.25371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16990.html">Extended Lagrangian molecular dynamics on vibronic surfaces in the nuclear-electronic orbital framework</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Joseph A. Dickinson et al.</td>
+<td><a href="http://arxiv.org/abs/2603.16990">2603.16990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13705.html">Revealing Hydroxide Ion Transport Mechanisms in Commercial Anion-Exchange Membranes at Nano-Scale from Machine-learned Interatomic Potential Simulations</a></div><div class="paper-tags"><a href="hydroxide-transport-360d.html">hydroxide-transport</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2603.13705">2603.13705</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15268.html">High-throughput screening and mechanistic insights into solid acid proton conductors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="proton-diffusion-360d.html">proton-diffusion</a> · <a href="proton-transport-360d.html">proton-transport</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2602.15268">2602.15268</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26467.html">Atomistic Simulations of Oxide-Water Interfaces using Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="corrosion-360d.html">corrosion</a></div></td>
 <td>Jan Elsner et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26467">2510.26467</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17706.html">Local Proton Disorder Induced Intermolecular H-H Coupling in Ionization of Dense Ammonia</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Yu Tao et al.</td>
+<td><a href="http://arxiv.org/abs/2510.17706">2510.17706</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-17</td>
@@ -44,5 +74,23 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15401.html">Clay Edges Are Dynamic Proton-conducting Networks Modulated by Structure and pH</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="proton-transport-360d.html">proton-transport</a></div></td>
 <td>Yixuan Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15401">2508.15401</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08893.html">Acid Base Chemistry of Short Hydrogen Bonds: A Tale of Schrödinger&#x27;s Cat in Glutamine-Derived Crystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Muhammad Nawaz Qaisrani et al.</td>
+<td><a href="http://arxiv.org/abs/2505.08893">2505.08893</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02054.html">Grotthuss-type oxygen hole polaron transport in desodiated Na$_{2}$Mn$_3$O$_7$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="neb-360d.html">neb</a> · <a href="proton-transport-360d.html">proton-transport</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Ming Lei et al.</td>
+<td><a href="http://arxiv.org/abs/2504.02054">2504.02054</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14794.html">Time-dependent density-functional study of intermolecular Coulombic decay for 2a$_1$ ionized water dimer</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Kedong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2505.14794">2505.14794</a></td>
 </tr>
 </tbody></table>

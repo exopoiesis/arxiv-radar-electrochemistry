@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>co2-reduction — all</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <a href="co2-reduction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -34,6 +34,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2602.17953">2602.17953</a></td>
 </tr>
 <tr class="paper">
+<td>2026-02-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10649.html">Electron-impact cross sections for dissociation processes of vibrationally excited CH radical</a></div></td>
+<td>O. Abidi et al.</td>
+<td><a href="http://arxiv.org/abs/2602.10649">2602.10649</a></td>
+</tr>
+<tr class="paper">
 <td>2026-02-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08183.html">Boosting high-current alkaline water electrolysis and carbon dioxide reduction with novel CuNiFe-based anodes</a></div></td>
 <td>Nusrat Rashid et al.</td>
@@ -46,10 +52,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.15042">2511.15042</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15528.html">Facet Specific Electron Conduction in Pentavalent (W5+) WO3 Drives Superior Photocatalytic CO 2 Reduction in (002) Plane</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>Muhammad Rizwan Kamal et al.</td>
+<td><a href="http://arxiv.org/abs/2510.15528">2510.15528</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.08744.html">GTP before ATP: The energy currency at the origin of genes</a></div></td>
 <td>Natalia Mrnjavac et al.</td>
 <td><a href="http://arxiv.org/abs/2403.08744">2403.08744</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16883.html">Spin-polarized chiral ZnIn2S4 for targeted solar-driven CO2 reduction to acetic acid</a></div></td>
+<td>Yongping Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2509.16883">2509.16883</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-22</td>
@@ -68,6 +86,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09357.html">Enhancing Oxygen Reduction Reaction on Pt-Based Electrocatalysts through Surface Decoration for Improved OH Reduction Equilibrium and Reduced H2O Adsorption</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Yu-Jun Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09357">2509.09357</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
+<td>Márton Guba et al.</td>
+<td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-01</td>

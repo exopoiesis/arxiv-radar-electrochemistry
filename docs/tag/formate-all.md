@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>formate — all</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="formate-7d.html">7d</a> <a href="formate-30d.html">30d</a> <a href="formate-90d.html">90d</a> <a href="formate-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-03-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Shuyu Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2603.22810">2603.22810</a></td>
+</tr>
 <tr class="paper">
 <td>2026-02-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04280.html">Robust, High-Contrast, Recyclable Zinc-Based Dynamic Windows via Synergistic Electrolyte and Interfacial Engineering</a></div><div class="paper-tags"><a href="hydration-shell-all.html">hydration-shell</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
@@ -40,10 +46,28 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2509.11325">2509.11325</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07494.html">First-principles study of formic acid decomposition on single Pt atoms supported on heteroatom-doped graphene</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>Kazuma Sato et al.</td>
+<td><a href="http://arxiv.org/abs/2509.07494">2509.07494</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03591.html">Molecular dynamics of ice-active solutions at ice-water interfaces</a></div><div class="paper-tags"><a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Benjamin M. Harless et al.</td>
+<td><a href="http://arxiv.org/abs/2508.03591">2508.03591</a></td>
+</tr>
+<tr class="paper">
 <td>2025-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12475.html">Best practices in Quantum Monte Carlo for metal catalysis: CO hydrolysis on Pt(111)</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Ali Bagci et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12475">2504.12475</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19297.html">CO$_2$ adsorption and photocatalytic reduction mechanisms on Ti-terminated CaTiO$_3$ (100) surface: a DFT study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a></div></td>
+<td>Onofrio Tau et al.</td>
+<td><a href="http://arxiv.org/abs/2504.19297">2504.19297</a></td>
 </tr>
 <tr class="paper">
 <td>2025-04-23</td>
@@ -56,6 +80,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15710.html">Prediction of CO2 reduction reaction intermediates and products on transition metal-doped r-GeSe monolayers:A combined DFT and machine learning approach</a></div><div class="paper-tags"><a href="co2-reduction-all.html">co2-reduction</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
 <td>Xuxin Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2504.15710">2504.15710</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.23151.html">Shedding a Light on the Kinetics of the Carboxysulfitic Scenario</a></div><div class="paper-tags"><a href="origin-of-life-all.html">origin-of-life</a> · <a href="reaction-networks-all.html">reaction-networks</a></div></td>
+<td>S. B. White et al.</td>
+<td><a href="http://arxiv.org/abs/2410.23151">2410.23151</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-21</td>

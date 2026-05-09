@@ -125,43 +125,83 @@ relevance_filter:
     - autocatalysis
 
 keywords:
+  # Loosened 2026-05-09: dropped narrow AND-conditions where the OR-set is
+  # already domain-specific; broadened AND context for queries with greedy
+  # keywords (DFT, redox, MLIP). Goal is hundreds of papers per topic over
+  # 2 years; relevance_filter (46 direct + 24 method + 23 domain patterns)
+  # does the precision pass.
+
   "CO2 Reduction and Formate":
     filters:
       - "CO2 electroreduction"
       - "carbon dioxide reduction"
+      - "carbon dioxide electroreduction"
       - "formate electrocatalysis"
-      - 'RAW:("CO2 reduction" OR "carbon dioxide reduction" OR CO2RR OR formate) AND (electrochemical OR electrocatalysis OR electrode OR catalyst OR "metal sulfide" OR sulfide)'
+      - "formate production"
+      - "CO2RR"
+      - 'RAW:("CO2 reduction" OR CO2RR OR "formate selectivity") AND (electrochem OR electrocatalysis OR electrode OR catalyst OR sulfide OR mineral OR DFT OR "ab initio" OR thermodynamic OR kinetic OR Faradaic OR HER)'
 
   "Sulfide Electrocatalysts":
     filters:
-      - "transition metal sulfide electrocatalyst"
-      - "iron sulfide electrocatalysis"
-      - "nickel sulfide electrocatalysis"
-      - "pentlandite hydrogen evolution"
-      - 'RAW:(mackinawite OR pentlandite OR greigite OR violarite OR pyrite OR "iron sulfide" OR "nickel sulfide" OR chalcogenide) AND (electrocatalysis OR electrode OR "hydrogen evolution" OR HER OR "oxygen evolution" OR OER OR "CO2 reduction")'
+      - "transition metal sulfide"
+      - "iron sulfide"
+      - "nickel sulfide"
+      - "metal sulfide"
+      - "metal chalcogenide"
+      - mackinawite
+      - pentlandite
+      - greigite
+      - violarite
+      - pyrite
+      - pyrrhotite
+      - millerite
+      - chalcopyrite
+      - "Fe-Ni-S"
 
   "Electrochemical Interfaces and Solvation":
     filters:
       - "electrochemical interface"
       - "electric double layer"
+      - "electrified interface"
       - "constant potential DFT"
-      - "implicit solvation electrocatalysis"
-      - 'RAW:("electrochemical interface" OR "electric double layer" OR "implicit solvation" OR "constant potential" OR "grand canonical DFT") AND (electrode OR electrocatalysis OR catalyst OR "CO2 reduction" OR sulfide)'
+      - "grand canonical DFT"
+      - "implicit solvation"
+      - "explicit solvation"
+      - "continuum solvation"
+      - "polarizable continuum"
+      # ENVIRON the Quantum-ESPRESSO solvation module — needs disambiguation
+      # because bare "ENVIRON" matches "environment(s)" → cs.RO/cs.CV/cs.AI noise.
+      # JDFTx is unique enough (only ~2 hits/year) but kept under RAW for safety.
+      - 'RAW:ENVIRON AND (solvation OR DFT OR "Quantum-ESPRESSO" OR Andreussi OR pseudopotential OR electrochem OR PBC)'
+      - 'RAW:JDFTx AND (DFT OR electrochem OR solvation OR "joint density functional theory" OR Sundararaman)'
+      - "potential of zero charge"
+      - "Helmholtz layer"
 
   "Ion Transport, Gradients, and Membranes":
     filters:
-      - "pH gradient electrochemistry"
-      - "proton transport membrane"
-      - "hydroxide transport membrane"
-      - "electrochemical membrane reactor"
-      - 'RAW:("pH gradient" OR "proton transport" OR "hydroxide transport" OR "ion transport" OR "membrane reactor" OR "flow cell" OR EIS OR impedance) AND (electrochemical OR electrode OR electrocatalysis OR "CO2 reduction" OR sulfide)'
+      - "pH gradient"
+      - "proton transport"
+      - "proton diffusion"
+      - "hydroxide transport"
+      - "ion transport"
+      - "ionic conduction"
+      - "Grotthuss mechanism"
+      - "Grotthuss"
+      - "membrane reactor"
+      - "electrochemical membrane"
+      - "flow cell"
+      - "electrochemical impedance"
 
   "Redox and Autocatalytic Electrochemical Networks":
     filters:
-      - "redox reaction network"
-      - "autocatalytic electrochemistry"
-      - "dissipative electrochemical system"
-      - 'RAW:(redox OR autocatalytic OR "reaction network" OR "chemical reaction network" OR dissipative) AND (electrochemical OR electrode OR faradaic OR "redox cycle")'
+      - "autocatalytic"
+      - "autocatalysis"
+      - "dissipative system"
+      - "reaction network"
+      - "chemical reaction network"
+      - "redox cycle"
+      - "redox cycling"
+      - 'RAW:(redox OR Faradaic OR "electron transfer") AND (electrochem OR catalyst OR catalysis OR molecular OR mineral OR sulfide OR network OR autocatalytic OR dissipative OR "reaction network")'
 
   # === Topical buckets added 2026-05-08 (merged from sulfide-materials + geochem expansion) ===
 
@@ -169,50 +209,101 @@ keywords:
     filters:
       - "mineral surface"
       - "mineral-water interface"
+      - "rock-water interface"
       - "hydrothermal alteration"
+      - "hydrothermal fluid"
+      - "hydrothermal system"
       - "silicate weathering"
+      - "mineral weathering"
+      - "mineral dissolution"
+      - "dissolution kinetics"
       - "serpentinization"
-      - 'RAW:(mackinawite OR pentlandite OR greigite OR violarite OR pyrite OR pyrrhotite OR millerite OR marcasite OR chalcopyrite OR "iron sulfide" OR "nickel sulfide" OR "Fe-Ni-S") AND (surface OR adsorption OR defect OR vacancy OR reconstruction OR "mineral surface")'
-      - 'RAW:(weathering OR "mineral dissolution" OR "dissolution kinetics" OR hydrothermal OR serpentinization OR "ore deposit" OR biogeochemistry OR "marine chemistry" OR "ocean acidification") AND (mineral OR rock OR sulfide OR silicate OR carbonate OR oxide)'
+      - "biogeochemistry"
+      - "marine chemistry"
+      - "ocean acidification"
+      - "ore deposit"
+      - "ore mineral"
+      - "carbonate-silicate cycle"
 
   "Atomistic Modeling of Sulfides and Minerals":
     filters:
-      - "DFT sulfide surface"
-      - "DFT+U sulfide"
-      - "ab initio sulfide"
-      - "AIMD sulfide"
-      - "nudged elastic band sulfide"
-      - 'RAW:("density functional theory" OR DFT OR "DFT+U" OR "ab initio" OR AIMD OR "molecular dynamics" OR "nudged elastic band" OR NEB OR "transition state") AND (sulfide OR chalcogenide OR mineral OR mackinawite OR pentlandite OR greigite OR pyrite OR pyrrhotite OR "iron sulfide" OR "nickel sulfide")'
+      - "DFT sulfide"
+      - "DFT mineral"
+      - "DFT+U"
+      - "AIMD"
+      - "ab initio molecular dynamics"
+      - "Car-Parrinello"
+      - "nudged elastic band"
+      - "transition state theory"
+      - 'RAW:("density functional theory" OR DFT OR "ab initio" OR "molecular dynamics" OR NEB OR "metadynamics") AND (sulfide OR chalcogenide OR mineral OR oxide OR mackinawite OR pentlandite OR greigite OR pyrite OR pyrrhotite OR "metal surface" OR adsorption OR catalyst OR electrode OR vacancy OR defect)'
 
   "Machine-Learned Potentials for Sulfides and Minerals":
     filters:
-      - "machine learning potential sulfide"
-      - "interatomic potential mineral"
-      - "MACE sulfide"
-      - "CHGNet mineral"
-      - 'RAW:("machine learning potential" OR "machine-learned potential" OR "interatomic potential" OR MLIP OR MACE OR CHGNet OR M3GNet OR "active learning") AND (sulfide OR chalcogenide OR mineral OR "iron sulfide" OR "nickel sulfide" OR oxide)'
+      - "MACE"
+      - "CHGNet"
+      - "M3GNet"
+      - "MACE-MP"
+      - "neural network potential"
+      - "active learning potential"
+      - "GAP potential"
+      - "ACE potential"
+      - "equivariant potential"
+      - "foundation model interatomic"
+      - 'RAW:("machine learning potential" OR "machine-learned potential" OR "interatomic potential" OR MLIP OR "neural network potential") AND (sulfide OR chalcogenide OR mineral OR oxide OR "metal surface" OR catalyst OR electrochem)'
 
   "Sulfidation, Phase Stability, and Corrosion":
     filters:
-      - "sulfidation phase stability"
+      - sulfidation
+      - "sulfide corrosion"
+      - "sulfide passivation"
+      - "phase stability sulfide"
       - "sulfide phase transition"
-      - "sulfide defect formation"
       - "surface oxidation sulfide"
-      - 'RAW:(sulfidation OR corrosion OR passivation OR "phase stability" OR "phase transition" OR "surface oxidation" OR "defect formation") AND (sulfide OR chalcogenide OR pentlandite OR mackinawite OR pyrite OR "Fe-Ni-S")'
+      - "defect formation sulfide"
+      - "sulfide thermodynamics"
+      - 'RAW:(sulfidation OR corrosion OR passivation OR "surface oxidation" OR "phase stability" OR "phase transition" OR "defect formation" OR "thermodynamic stability" OR "formation energy") AND (sulfide OR chalcogenide OR mineral OR oxide OR mackinawite OR pentlandite OR pyrite OR pyrrhotite OR greigite)'
 
   "Aqueous Chemistry and Solvation":
     filters:
       - "solvation free energy"
       - "hydration free energy"
-      - "explicit solvation interface"
-      - "polarizable water model"
-      - 'RAW:("solvation free energy" OR "hydration shell" OR "ion-water interaction" OR "ion pairing" OR "electrolyte structure" OR "polarizable water" OR "hydration free energy") AND (electrochemical OR electrode OR "metal surface" OR sulfide OR mineral OR catalyst OR interface)'
+      - "hydration shell"
+      - "first hydration shell"
+      - "ion-water interaction"
+      - "ion-water interactions"
+      - "ion pairing"
+      - "ion pair"
+      - "electrolyte structure"
+      - "polarizable water"
+      - "polarizable force field"
+      - "AMOEBA water"
+      - "concentrated electrolyte"
+      - "Stern layer"
+      - "water structure"
 
   "Origin of Life and Prebiotic Mineral Catalysis":
     filters:
-      - "iron sulfide origin of life"
-      - "metal sulfide prebiotic chemistry"
+      - "origin of life"
+      - "origins of life"
+      - "prebiotic chemistry"
+      - "prebiotic synthesis"
+      - "abiotic carbon fixation"
       - "alkaline hydrothermal vent"
+      - "alkaline vent"
       - "Lost City"
       - "FeMoco"
-      - 'RAW:("origin of life" OR "origins of life" OR prebiotic OR "hydrothermal vent" OR "alkaline vent" OR serpentinization OR "Lost City" OR "Wood-Ljungdahl" OR rTCA OR "reverse TCA" OR FeMoco OR "[4Fe-4S]" OR "[2Fe-2S]" OR "iron-sulfur cluster" OR "mineral catalysis" OR autocatalytic) AND ("iron sulfide" OR "metal sulfide" OR sulfide OR mineral OR mackinawite OR greigite OR pyrite OR pentlandite OR catalyst)'
+      - "Wood-Ljungdahl"
+      - "iron-sulfur cluster"
+      - "iron-sulfur world"
+      - "[4Fe-4S]"
+      - "[2Fe-2S]"
+      - "Fe4S4"
+      - "rTCA"
+      - "reverse TCA"
+      - "RNA world"
+      - "ribozyme"
+      - "mineral catalysis"
+      - "autocatalytic network"
+      - "serpentinization"
+      - "primordial soup"
+      - "abiogenesis"

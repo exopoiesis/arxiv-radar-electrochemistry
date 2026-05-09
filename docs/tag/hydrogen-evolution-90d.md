@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hydrogen-evolution — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="hydrogen-evolution-7d.html">7d</a> <a href="hydrogen-evolution-30d.html">30d</a> <strong>90d</strong> <a href="hydrogen-evolution-360d.html">360d</a> <a href="hydrogen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06348.html">From Deposition Stress to Surface Reactivity: Strain-Dependent Hydrogen Evolution on Sputtered Platinum Thin Films</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
+<td>Sabrina Baha et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06348">2605.06348</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00609.html">Coordination Engineering of Dual-Atom Catalysts for Overall Water Splitting: Mechanistic Insights from Constant-Potential First-Principles and Machine Learning</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
@@ -28,9 +34,21 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2604.04718">2604.04718</a></td>
 </tr>
 <tr class="paper">
+<td>2026-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28726.html">Pentagonal PdTe2 Monolayer for Sustainable Solar-driven Hydrogen Production</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
+<td>Narender Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2603.28726">2603.28726</a></td>
+</tr>
+<tr class="paper">
 <td>2026-02-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22869.html">Substrate induced optimization of the Electrocatalytic Hydrogen Evolution Reaction (HER) performances of MoS2 thin film</a></div><div class="paper-tags"><a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="impedance-spectroscopy-90d.html">impedance-spectroscopy</a></div></td>
 <td>Hafiz Sami-Ur-Rehman et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22869">2602.22869</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23493.html">Defect-Engineered h-BN as a Platform for Single-Atom HER Catalysts: Descriptor Screening Refined by Electrochemical Stability Analysis</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Ana S. Dobrota et al.</td>
+<td><a href="http://arxiv.org/abs/2602.23493">2602.23493</a></td>
 </tr>
 </tbody></table>

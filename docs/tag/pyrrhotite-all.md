@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>pyrrhotite — all</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="pyrrhotite-7d.html">7d</a> <a href="pyrrhotite-30d.html">30d</a> <a href="pyrrhotite-90d.html">90d</a> <a href="pyrrhotite-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -28,6 +28,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.14129">2512.14129</a></td>
 </tr>
 <tr class="paper">
+<td>2025-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08751.html">XRISM insights for interstellar Sulfur</a></div><div class="paper-tags"><a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="pyrite-all.html">pyrite</a></div></td>
+<td>Lia Corrales et al.</td>
+<td><a href="http://arxiv.org/abs/2506.08751">2506.08751</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13637.html">The Source of Hydrogen in Earth&#x27;s Building Blocks</a></div></td>
 <td>Thomas J Barrett et al.</td>
@@ -38,6 +44,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08763.html">Dissolution kinetics of iron sulfide minerals in alkaline solutions</a></div><div class="paper-tags"><a href="dissolution-kinetics-all.html">dissolution-kinetics</a> · <a href="iron-sulfides-all.html">iron-sulfides</a> · <a href="pyrite-all.html">pyrite</a></div></td>
 <td>Zhanzhao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2503.08763">2503.08763</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04500.html">The Elemental Abundances of Ryugu: Assessment of Chemical Heterogeneities and the Nugget Effect</a></div></td>
+<td>Tetsuya Yokoyama et al.</td>
+<td><a href="http://arxiv.org/abs/2405.04500">2405.04500</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-14</td>
