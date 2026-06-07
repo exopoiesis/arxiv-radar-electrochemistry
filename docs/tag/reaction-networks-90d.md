@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reaction-networks — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <strong>90d</strong> <a href="reaction-networks-360d.html">360d</a> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25523.html">Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="origin-of-life-90d.html">origin-of-life</a></div></td>
+<td>Richard Golnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25523">2605.25523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
+<td>Rémi Schlama et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22990">2605.22990</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18883.html">Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a></div></td>
 <td>Richard Golnik et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18883">2511.18883</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16325.html">Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
+<td>Truong Xuan Khanh</td>
+<td><a href="http://arxiv.org/abs/2605.16325">2605.16325</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-30</td>

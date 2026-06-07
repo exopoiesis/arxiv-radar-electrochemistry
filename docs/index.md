@@ -7,7 +7,7 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 _Updated 2026-06-07._
 
-**3072** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3212** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28637.html">Excited States from Restricted Open Shell Plane-Wave DFT</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Michael J. Sahre et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28637">2605.28637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -179,21 +185,15 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2510.08410.html">Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a> · <a href="tag/hydrothermal-alteration-30d.html">hydrothermal-alteration</a> · <a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
-<td>Natalia Mrnjavac et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08410">2510.08410</a></td>
+<td>2026-05-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.00742.html">Impact of Cu-Mn ratio on Structure and Defects in Layered Multiferroic Cu1-xMn1+ySiTe3</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Sai Venkata Gayathri Ayyagari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.00742">2606.00742</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2512.18181.html">MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
-<td>Kaixing Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.18181">2512.18181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2602.00285.html">Defects, Corrugation and Temperature Govern Rarefied-Air Drag on Graphene Coatings</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Samuel Cajahuaringa et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00285">2602.00285</a></td>
+<td>2026-05-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.00753.html">Thermodynamic origin of medium-entropy stabilization in multicomponent rock-salt oxides</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
+<td>Supriya Ghosal et al.</td>
+<td><a href="http://arxiv.org/abs/2606.00753">2606.00753</a></td>
 </tr>
 </tbody></table>

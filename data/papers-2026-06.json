@@ -1,4 +1,31 @@
 {
+ "2605.28637": {
+  "abstract": "Variational excited-state density functional theory (DFT) enables the calculation of excited states at a cost comparable to ground-state calculations, but single-configuration approaches often suffer from spin contamination. We implement restricted open-shell Kohn-Sham (ROKS) DFT, which recovers spin-pure singlet excitation energies via the variational minimization of a weighted combination of mixed-spin and triplet configurations, within the plane-wave projector augmented-wave framework of VASP. The energy functional is optimized using a preconditioned conjugate-gradient or a direct inversion in the iterative subspace algorithm, and analytical atomic forces are derived. The implementation is validated for eight organic molecules by comparison to the Q-Chem quantum chemistry code, yielding mean deviations of approximately $30\\,\\mathrm{meV}$. As a solid-state application, we investigate the three lowest lying excitations of MgO with a neutral oxygen vacancy. For a dielectric-dependent hybrid functional, vertical excitation energies from ROKS and time-dependent density functional theory (TDDFT) differ on average by about $0.21\\,\\mathrm{eV}$. The Franck-Condon shifts deviate on average by $0.14\\,\\mathrm{eV}$ between the two methods and mass-weighted displacements between the excited states and the ground state by $0.12\\,\\mathrm{amu}^{1/2}$ Ang. Additional calculations at the PBE level reveal that these properties depend less strongly on the DFT functional for ROKS than for TDDFT. These results demonstrate that ROKS provides excitation energies and excited-state forces with an accuracy similar to TDDFT while retaining the favorable scaling of ground-state DFT, making it a promising approach for affordable excited-state simulations in extended systems.",
+  "authors": [
+   "Michael J. Sahre",
+   "Marco Romanelli",
+   "Martijn Marsman",
+   "Leticia González",
+   "Georg Kresse"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Michael J. Sahre",
+  "pdf_url": "http://arxiv.org/pdf/2605.28637",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-27",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Excited States from Restricted Open Shell Plane-Wave DFT",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-04"
+ },
  "2606.01748": {
   "abstract": "Hydrogen embrittlement and tritium leakage pose critical challenges for fusion reactor structural components, rendering α-Al2O3/Fe interfaces vital as tritium permeation barriers. Here, the thermodynamic stability, trapping energetics, and hydrogen-induced decohesion at the α-Al2O3 (0001)/Fe(110) interface were systematically investigated using density functional theory. Single-hydrogen incorporation reveals that the Fe-hollow site is the most stable trapping region, owing to local free volume and heterogeneous interfacial bonding. Multi-hydrogen analysis demonstrates that trapping behavior is concentration-dependent; increasing hydrogen concentration progressively reduces the available free volume and increases local lattice distortion. As a result, simulated cleavage processes show a monotonic decrease in cleavage energy with accumulation. At high hydrogen concentrations, cleavage energy turns negative, indicating spontaneous interfacial exfoliation. These quantitative insights clarify the atomistic degradation mechanisms of protective oxide scales, offering a theoretical framework for optimizing high-performance permeation barriers in fusion-relevant steels.",
   "authors": [
