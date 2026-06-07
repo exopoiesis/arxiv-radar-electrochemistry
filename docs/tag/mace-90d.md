@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mace — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <strong>90d</strong> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Qi-Jun Hong</td>
+<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
+<td>Yuyu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02419.html">DPA4: Pushing the Accuracy-Cost Frontier of Interatomic Potentials with EMFA SO(2) Convolution</a></div></td>
+<td>Tiancheng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02419">2606.02419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18181.html">MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation</a></div></td>
@@ -200,101 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03155.html">Information Routing in Atomistic Foundation Models: How Task Alignment and Equivariance Shape Linear Disentanglement</a></div></td>
 <td>Joshua Steier</td>
 <td><a href="http://arxiv.org/abs/2603.03155">2603.03155</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22999.html">Benchmarking Universal Machine Learning Interatomic Potentials for Elastic Property Prediction</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="chgnet-90d.html">chgnet</a></div></td>
-<td>Pengfei Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22999">2510.22999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11063.html">EmboTeam: Grounding LLM Reasoning into Reactive Behavior Trees via PDDL for Embodied Multi-Robot Collaboration</a></div></td>
-<td>Haishan Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2601.11063">2601.11063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05442.html">High-Pressure Inelastic Neutron Spectroscopy: A true test of Machine-Learned Interatomic Potential energy landscapes</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jeff Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05442">2603.05442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23728.html">kALDo 2.0: Scalable Thermal Transport from First Principles and Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Giuseppe Barbalinardo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23728">2602.23728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24018.html">Master-Assisted Channel Estimation for Cell-Free Massive MIMO Networks</a></div></td>
-<td>Andreas Angelou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.24018">2602.24018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Lucas B. T. de Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23515.html">Performance of universal machine learning potentials in global optimization</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="m3gnet-90d.html">m3gnet</a></div></td>
-<td>Edan T. Marcial et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23515">2602.23515</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19411.html">MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Ilyes Batatia et al.</td>
-<td><a href="http://arxiv.org/abs/2602.19411">2602.19411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.20058.html">The effect of the A-site cation on the phase transition temperature of metal halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Tom Braeckevelt et al.</td>
-<td><a href="http://arxiv.org/abs/2602.20058">2602.20058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16897.html">Machine Learning Hamiltonians are Accurate Energy-Force Predictors</a></div></td>
-<td>Seongsu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16897">2602.16897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16031.html">Competing Risk Analysis in Cardiovascular Outcome Trials: A Simulation Comparison of Cox and Fine-Gray Models</a></div></td>
-<td>Tuo Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16031">2602.16031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13725.html">MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="co2-adsorption-90d.html">co2-adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Connor W. Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13725">2602.13725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05526.html">Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning</a></div></td>
-<td>Anish Dhir et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05526">2507.05526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22504.html">Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
-<td>Nada Alghamdi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22504">2511.22504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22592.html">Machine-Learned Interatomic Potentials for Structural and Defect Properties of YBa$_2$Cu$_3$O$_{7-δ}$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Niccolò Di Eugenio et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22592">2511.22592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07842.html">Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct Answers</a></div></td>
-<td>Yuhan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07842">2602.07842</a></td>
 </tr>
 </tbody></table>

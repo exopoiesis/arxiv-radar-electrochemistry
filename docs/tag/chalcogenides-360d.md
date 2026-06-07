@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcogenides — 360d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <strong>360d</strong> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04954.html">Triangular Charge-Density Waves (T-CDW) Stabilize Janus Group-VI Chalcogenide Hydrides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04954">2606.04954</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01054.html">Two-Photon-Induced Direct 3D Printing of Freeform High-Index Phase-Change Sb2S3 Nanostructures</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
@@ -326,47 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16695.html">Crystal Growth of Chalcogenides and Oxy-Chalcogenides Using Chloride Exchange Reaction</a></div></td>
 <td>Shantanu Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16695">2506.16695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04388.html">Substrate pre-sputtering for layer-by-layer van der Waals epitaxy of 2D materials</a></div></td>
-<td>A. Rajan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04388">2506.04388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05769.html">Integrative Mobility Model For Grain-Boundary-Limited Transport In Thermoelectric Compounds</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a></div></td>
-<td>Gbadebo Taofeek Yusuf et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05769">2406.05769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01517.html">Machine-learning-driven modelling of amorphous and polycrystalline BaZrS$_{3}$</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Laura-Bianca Paşca et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01517">2506.01517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22955.html">Diverse edge states of nanoribbons and excitonic insulator states of the monolayer Ta2Ni3Te5</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
-<td>Hong Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22955">2505.22955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16184.html">Pure nematic transition inside the superconducting dome of iron chalcogenide superconductor FeSe$_{1-x}$Te$_x$</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>K. Y. Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16184">2505.16184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.03976.html">Copper delocalization leads to ultralow thermal conductivity in chalcohalide CuBiSeCl2</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Yuzhou Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2412.03976">2412.03976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09717.html">Towards Atomic-Scale Control over Structural Modulations in Quasi-1D Chalcogenides for Colossal Optical Anisotropy</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Guodong Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09717">2505.09717</a></td>
 </tr>
 </tbody></table>

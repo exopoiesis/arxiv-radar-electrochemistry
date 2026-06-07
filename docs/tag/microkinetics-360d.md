@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>microkinetics — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="microkinetics-7d.html">7d</a> <a href="microkinetics-30d.html">30d</a> <a href="microkinetics-90d.html">90d</a> <strong>360d</strong> <a href="microkinetics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06197.html">A kinetic model to simulate charge flow through an electrochemical half cell</a></div><div class="paper-tags"><a href="electrolyte-structure-360d.html">electrolyte-structure</a></div></td>
 <td>Diego Veloza-Diaz et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06197">2507.06197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21428.html">Interpretable machine learned predictions of adsorption energies at the metal--oxide interface</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Marius Juul Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21428">2505.21428</a></td>
 </tr>
 </tbody></table>

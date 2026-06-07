@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft-u — all</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <a href="dft-u-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02422.html">Suppression of p-Wave Altermagnetism by Localized 4f Electrons in CeNiAsO</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>Jiuxiang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02422">2606.02422</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02760.html">Optoelectronics and Magnetic properties calculation of RE$_2$MnNiO$_6$ (RE=La-Lu,Y) using Density Functional Theory</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>Debidutta Pradhan</td>
+<td><a href="http://arxiv.org/abs/2606.02760">2606.02760</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26372.html">Polaron Conductivity in $α$-Fe2O3 Quenched by Adsorbed NO2</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="neb-all.html">neb</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,35 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10548.html">Machine learning accelerated finite-field simulations for electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Chaoqiang Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10548">2506.10548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07839.html">Predicting aqueous and electrochemical stability of 2D materials from extended Pourbaix analyses</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Stefano Americo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07839">2506.07839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14819.html">Mixed platinum and zirconia powder as electrocatalyst for hydrogen evolution and oxidation reaction</a></div><div class="paper-tags"><a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a></div></td>
-<td>Simone Minelli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14819">2506.14819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18140.html">Effect of Fluorine doping on the electrocatalytic properties of Nb2O5 for H2O2 electrogeneration</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Aline B. Trench et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18140">2505.18140</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Yu Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13759.html">Enhanced ammonia electro-oxidation reaction on platinum-iron oxide catalyst assisted by MagnetoElectroCatalysis</a></div></td>
-<td>Caio Machado Fernandes et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13759">2505.13759</a></td>
 </tr>
 </tbody></table>

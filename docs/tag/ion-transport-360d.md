@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01978.html">Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport</a></div><div class="paper-tags"><a href="hydration-shell-360d.html">hydration-shell</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Aicha Jani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.01978">2606.01978</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02685.html">A Unified microscopic picture of cation and anion migration in MAPbI$_3$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
@@ -458,23 +464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17866.html">Computational Discovery of Metastable NaMnO$_2$ Polymorphs as High-Performance Cathodes with Ultralow Na$^+$ Migration Barriers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Fukuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17866">2506.17866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18571.html">High-Entropy Solid Electrolytes Discovery: A Dual-Stage Machine Learning Framework Bridging Atomic Configurations and Ionic Transport Properties</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a></div></td>
-<td>Xiao Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18571">2505.18571</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10854.html">Magnetically Coupled Circuits to Capture Dynamics of Ionic Transport in Nanopores</a></div></td>
-<td>Filipe Henrique et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10854">2505.10854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08208.html">Toward Efficient Electrokinetic Energy Conversion with Topographic Modulation of Electrical Conduction</a></div><div class="paper-tags"><a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
-<td>Austin Dick et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08208">2505.08208</a></td>
 </tr>
 </tbody></table>

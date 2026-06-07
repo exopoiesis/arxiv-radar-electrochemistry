@@ -1,0 +1,794 @@
+{
+ "2606.01748": {
+  "abstract": "Hydrogen embrittlement and tritium leakage pose critical challenges for fusion reactor structural components, rendering α-Al2O3/Fe interfaces vital as tritium permeation barriers. Here, the thermodynamic stability, trapping energetics, and hydrogen-induced decohesion at the α-Al2O3 (0001)/Fe(110) interface were systematically investigated using density functional theory. Single-hydrogen incorporation reveals that the Fe-hollow site is the most stable trapping region, owing to local free volume and heterogeneous interfacial bonding. Multi-hydrogen analysis demonstrates that trapping behavior is concentration-dependent; increasing hydrogen concentration progressively reduces the available free volume and increases local lattice distortion. As a result, simulated cleavage processes show a monotonic decrease in cleavage energy with accumulation. At high hydrogen concentrations, cleavage energy turns negative, indicating spontaneous interfacial exfoliation. These quantitative insights clarify the atomistic degradation mechanisms of protective oxide scales, offering a theoretical framework for optimizing high-performance permeation barriers in fusion-relevant steels.",
+  "authors": [
+   "Youngseok Hwang",
+   "Norihito Sakaguchi",
+   "Yuji Kunisada"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Youngseok Hwang",
+  "pdf_url": "http://arxiv.org/pdf/2606.01748",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "Hydrogen trapping and interfacial decohesion at the α-Al2O3(0001)/Fe(110) interface",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01763": {
+  "abstract": "Transition metal oxides have attracted much attention as photo(electrochemical)-catalysts but practical applications are typically hampered by their low and anisotropic charge mobility. A deep understanding of excess charge carrier transport in these materials requires a dynamical treatment of nuclear motion that goes well beyond standard approaches. Here we introduce DeepPolaron, a machine learning framework boosting the accessible time scale of first principles molecular dynamics of adiabatic polaron transport by three orders of magnitude at a virtually negligible loss in accuracy. We apply our method to excess electron and hole transport in titanium dioxide rutile and anatase. We find that the excess electron in rutile relaxes to a polaron predominantly localized on a single Ti atom with hopping occurring only along the [001] direction, associated with an activation energy of 39 meV and a room temperature mobility of $4.4 \\times 10^{-2}$ cm$^2$/Vs in good agreement with experiment. In contrast the hole polaron in anatase is localized on a single O atom, and due to poor O 2p orbital overlap with first nearest neighbors charge transport occurs primarily to second nearest neighbors, with a large activation energy of 139 meV resulting in a small room temperature mobility of $1.4 \\times 10^{-3}$ cm$^2$/Vs. This work provides a finite temperature first-principles characterization of small polaron transport in rutile and anatase, with a methodology that is directly transferable to other small polaron forming materials and interfacial charge-transfer processes.",
+  "authors": [
+   "Christian S. Ahart",
+   "Denan Li",
+   "Jochen Blumberger",
+   "Shi Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Christian S. Ahart",
+  "pdf_url": "http://arxiv.org/pdf/2606.01763",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Polaron Transport in TiO$_{2}$ from Machine Learning Molecular Dynamics",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01978": {
+  "abstract": "Ion transport in glyme-based electrolytes arises from a complex interplay between solvation structure, ion correlations, and polymer chain length. Here, combining pulsed-field gradient nuclear magnetic resonance (PFG-NMR), ionic conductivity measurements, and molecular dynamics (MD) simulations, we investigate the diffusion of monovalent cations (Li$^+$, Na$^+$, Cs$^+$) and TFSI$^-$ anions across a wide molecular-weight range, from monoglyme to long poly(ethylene oxide) (PEO) chains up to 4000~g/mol, corresponding to $n$ up to 88, where $n$ is the number of ethylene oxide repeat units. We identify a crossover region at $n \\approx 8$ separating two transport regimes. For short chains, ion motion is consistent with a vehicular mechanism, accompanied by pronounced ion correlations. For longer chains, ion transport decouples from polymer motion and proceeds via rapid coordination exchanges within a slowly relaxing matrix. This transition is accompanied by reduced ion clustering and enhanced anion mobility, leading to increasingly anion-dominated charge transport. Overall, our results provide a molecular picture of ion transport across the molecular-to-polymeric transition and highlight the central role of solvation shell dynamics and polymer relaxation in governing ion dynamics in glyme-based electrolytes.",
+  "authors": [
+   "Aicha Jani",
+   "Simon Gravelle",
+   "Pawel Wzietek",
+   "Mehdi Zeghal",
+   "Patrick Judeinstein"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Aicha Jani",
+  "pdf_url": "http://arxiv.org/pdf/2606.01978",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-01",
+  "tags": [
+   "hydration-shell",
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Molecular-to-polymeric crossover in ion diffusion in glyme-based electrolytes: from vehicular to hopping transport",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02084": {
+  "abstract": "In magnetic confinement fusion reactors, hydrogen plasma irradiation causes material saturation and recycling, where hydrogen released from the tungsten wall significantly impacts the peripheral plasma. Kinetic Monte Carlo (kMC) simulations are essential for investigating the dynamic balance between incident and emitted fluxes at the atomic scale. However, standard kMC frameworks are inadequate for handling realistic material complexities, such as polycrystalline structures and dynamic evolution under irradiation, being computationally bottlenecked by continuous transition parameter updates. Conventionally, evaluating migration barriers in disordered systems (e.g., grain boundaries) relies on computationally prohibitive on-the-fly atomistic calculations like the Nudged Elastic Band (NEB) method.   Here, we present a deep learning-accelerated Dynamic kMC framework that eliminates this reliance. Our approach integrates a three-stage deep learning pipeline: a pix2pix model for predicting local 3D potential energy distributions, a U-Net for extracting hydrogen trapping sites, and a 3D-CNN for directly evaluating migration barriers. To achieve macroscopic timescales, we implemented a hierarchical spatial index combined with a differential local-update algorithm operating in O(1) complexity. This architecture restricts recalculations to the immediate vicinity of moving atoms, accelerating updates. Demonstrated on a large-scale realistic polycrystalline tungsten model, the framework successfully reproduces preferential hydrogen trapping along grain boundaries, bridging the gap between atomic-scale accuracy and macroscopic timescales for full-scale plasma-wall interaction simulations.",
+  "authors": [
+   "Seiki Saito",
+   "Keisuke Takeuchi",
+   "Hiroaki Nakamura",
+   "Yasuhiro Oda",
+   "Kazuo Hoshino",
+   "Yuki Homma",
+   "Shohei Yamoto",
+   "Yuki Uchida"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph",
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Seiki Saito",
+  "pdf_url": "http://arxiv.org/pdf/2606.02084",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "neb"
+  ],
+  "title": "Deep Learning-Accelerated Dynamic Kinetic Monte Carlo Simulation for Hydrogen Transport in Tungsten",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02392": {
+  "abstract": "We ask whether dependency topology correlates with functional load-bearing organization as recoverable geometry -- not as a metaphor, but as a measurable structural property detectable by multilayer network analysis. Across seven independent substrates, we show that hub persistence and rank divergence under the Functional Proximity Law recover operational organization that domain experts describe as logic: axiomatic load-bearing structure in formal mathematics, control and contract structure in legacy software, conserved hub grammar across approx. 600 million years of neural evolution, catalytic role organization in a published prebiotic autocatalytic network, carry-path dominance in a 4-bit digital circuit, betweenness persistence in the ISCAS85 c432 standard benchmark (n=196), and a directional formal-systems replication in the Coq Corelib (n=17). A key methodological finding: degree-based hub persistence is weak between physical wiring and simulation state-correlation layers (r=0.21 in c432), while betweenness-based persistence is stronger (r=0.77 in the 4-bit ALU post-hoc; r=0.34 in c432). The ISCAS85 pre-registered primary hypothesis was CONFIRMED (degree r=0.426, p=0.002, Spearman r=0.551). The formal-systems claim is supported by two proof-assistant corpora: Lean 4 mathlib4 (CONFIRMED, r=0.777, p=0.004) and Coq Corelib (PARTIAL, direction confirmed, r=0.288, p=0.287, n=17, underpowered). All seven experiments were pre-registered before analysis.",
+  "authors": [
+   "Vladi Ivanov"
+  ],
+  "categories": [
+   "cs.SI",
+   "cs.LO",
+   "q-bio.NC"
+  ],
+  "comment": "7 pages, 1 table. Version 1. Seven pre-registered experiments across digital circuits, formal mathematics (Lean 4 and Coq), legacy COBOL, neural connectomics (C. elegans to Drosophila, ~600 Myr), and prebiotic chemistry. Companion paper: arXiv:2604.23639. Pre-registration: https://github.com/vladi160/preregistrations. Zenodo: https://doi.org/10.5281/zenodo.20489745",
+  "first_author": "Vladi Ivanov",
+  "pdf_url": "http://arxiv.org/pdf/2606.02392",
+  "primary_category": "cs.SI",
+  "published": "2026-06-01",
+  "tags": [
+   "autocatalysis",
+   "origin-of-life"
+  ],
+  "title": "Topology as Logic: Structural Role Geometry Across Formal, Software, Biological, and Prebiotic Systems",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02419": {
+  "abstract": "Machine-learning interatomic potentials now approach quantum-mechanical accuracy on standard benchmarks, but the training cost of the most expressive equivariant architectures has become a serious bottleneck. We introduce DPA4, an SE(3)-equivariant interatomic-potential architecture with an EMFA (Edge-conditioned, Multi-Focus, Attention) SO(2)-equivariant convolution that combines a low-rank edge-node SO(2)-equivariant product, a multi-focus design for message nonlinearity, and envelope-gated attention for message aggregation. A Lebedev-grid projection further preserves SO(3)-equivariance in the nonlinearity to machine precision. A compiler-friendly conservative energy-gradient training path provides up to $\\sim$3 times wall-clock speedup under torch compile. On the compliant Matbench Discovery benchmark, DPA4-Pro attains the best Combined Performance Score (CPS) on the leaderboard, while the 2.76M-parameter DPA4-Air exceeds the accuracy of the 30.1M-parameter eSEN-30M-MP baseline with 10.9$\\times$ fewer parameters and 42.9$\\times$ less training compute. On SPICE-MACE-OFF, the 5.4M-parameter DPA4-Plus lowers the aggregate molecular energy and force errors of the 6.5M-parameter eSEN baseline by 29% and 30%, while the 2.7M-parameter DPA4-Air still surpasses that baseline with $\\sim$2.4$\\times$ fewer parameters. Together these results place DPA4 on a new accuracy-cost Pareto frontier on Matbench Discovery and position it as a strong candidate backbone for future multi-task large atomistic model (LAM) pretraining.",
+  "authors": [
+   "Tiancheng Li",
+   "Wentao Li",
+   "Anyang Peng",
+   "Jianming Xue",
+   "Linfeng Zhang",
+   "Duo Zhang",
+   "Han Wang"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Tiancheng Li",
+  "pdf_url": "http://arxiv.org/pdf/2606.02419",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "mace"
+  ],
+  "title": "DPA4: Pushing the Accuracy-Cost Frontier of Interatomic Potentials with EMFA SO(2) Convolution",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.02422": {
+  "abstract": "Altermagnetism, characterized by momentum-dependent spin splitting and zero net magnetization, has so far been explored mainly in weakly or moderately correlated d-electron systems. How such symmetry-allowed band splitting manifests in heavy-fermion materials, where magnetic exchange competes with Kondo correlations, remains unclear. Here we use high-resolution angle-resolved photoemission spectroscopy to investigate CeNiAsO, a heavy-fermion candidate for p-wave altermagnetism. Despite macroscopic signatures consistent with the proposed p-wave magnetic order, we find no resolvable near-Fermi-level p-wave exchange splitting on the Ni 3d-derived conduction bands across the Neel transitions. Fermi-surface mapping, orbital-resolved ARPES identify that the low-energy electronic structure is dominated by Ni 3d bands, while resonant photoemission reveals that the Ce 4f states remain predominantly localized with residual c-f hybridization. First-principles calculations further show that an uncorrected itinerant-4f description produces dispersive Ce 4f bands and additional Fermi-surface pockets that are absent in experiment, thereby overestimating both the low-energy c-f hybridization and the exchange splitting transferred to the Ni 3d bands. When the localized Ce 4f character is incorporated through DFT+U , the experimental Fermi-surface topology is recovered and the residual p-wave splitting on the Ni 3d-derived bands is reduced to only a few meV, below the effective experimental resolution. These results identify CeNiAsO as a strongly correlated f-electron limit of p-wave magnetism, in which localized 4f electrons suppress the observable single-particle band-splitting signature expected from a weak-correlation picture.",
+  "authors": [
+   "Jiuxiang Zhang",
+   "Yueyang Sun",
+   "Honglin Zhou",
+   "Jumin Shi",
+   "Di Wu",
+   "Hongze Gu",
+   "Wenjin Mao",
+   "Hengrui Dong",
+   "Yu Xu",
+   "Yinghao Li",
+   "Ziling Cao",
+   "Taimin Miao",
+   "Bo Liang",
+   "Neng Cai",
+   "Wenpei Zhu",
+   "Mingkai Xu",
+   "Jiaqi Chen",
+   "Chunhong Deng",
+   "Bo Liu",
+   "Xun Ma",
+   "Zhengtai Liu",
+   "Mao Ye",
+   "Shenjin Zhang",
+   "Zhimin Wang",
+   "Fengfeng Zhang",
+   "Feng Yang",
+   "Qinjun Peng",
+   "Zuyan Xu",
+   "Guodong Liu",
+   "Xintong Li",
+   "Hanqing Mao",
+   "Shiliang Li",
+   "Hongming Weng",
+   "Lin Zhao",
+   "X. J. Zhou"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 4 figures",
+  "first_author": "Jiuxiang Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.02422",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-01",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Suppression of p-Wave Altermagnetism by Localized 4f Electrons in CeNiAsO",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02760": {
+  "abstract": "RE$_2$MnNiO$_6$ (RE = La-Lu) family of ordered double-perovskite oxides hosts a corner-sharing network of alternating NiO$_6$ and MnO$_6$ octahedra whose electronic and magnetic ground states are systematically governed by the A-site ionic radius through the lanthanide contraction. The strong localisation of RE 4f electrons poses a fundamental challenge to density-functional treatments, yet the hybridisation between 4f and neighbouring 5d (RE) or 3d (Ni, Mn) states is central to the origin of exchange interactions and optoelectronic response across the series. We present a comprehensive first-principles study of the electronic structure, lattice dynamics, and optical properties of representative RE2NiMnO6 compounds within the DFT+U framework. To disentangle the role of Kondo-type 4f-d hybridisation, calculations are performed with the RE 4f electrons treated both as frozen core states and explicitly in the valence manifold, enabling a direct assessment of their contribution to the band structure, dielectric function, and phonon dispersion. Spin-polarised calculations reveal significant spin-channel asymmetry, with magnetic moments reaching up to 30 $μ$B per formula unit for select members of the series. The results establish a unified picture of how 4f occupancy and octahedral distortion collectively determine the magnetic and optoelectronic potential of this double-perovskite family.",
+  "authors": [
+   "Debidutta Pradhan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Debidutta Pradhan",
+  "pdf_url": "http://arxiv.org/pdf/2606.02760",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-01",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Optoelectronics and Magnetic properties calculation of RE$_2$MnNiO$_6$ (RE=La-Lu,Y) using Density Functional Theory",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02815": {
+  "abstract": "Over the last decade of ALMA's operation the molecular inventory of protoplanetary disks has expanded rapidly, revealing a diverse set of nitrogen-bearing organics and carbon-chain molecules that trace both prebiotic chemistry and fundamental disk physics. Despite this progress, detections of larger species such as cyanopolyynes have remained limited, leaving larger carbon-chain chemistry in Class II disks largely unconstrained. Here, we report the first detection of HC5N toward the TW Hya protoplanetary disk, representing the largest cyanopolyyne identified to date in a Class II system. We derive a HC5N column density for two rotational transitions J = 41-40 and J = 37-36, N_T ~ 10^12 cm^-2 for assumed T_rot = 20-50 K and optically thin emission in LTE. We compare HC5N and HC3N formation mechanisms and analyze the HC3N/HC5N ratio. We use a chemical model to estimate the expected abundance and emitting layer of HC5N in a TW Hya-like disk. Although HC5N emission is spatially unresolved, measured column densities suggest an origin in the warm molecular layer where CN-based pathways are active. This detection extends the known carbon-chain chemistry in Class II disks and demonstrates that long cyanopolyynes can form and persist in planet-forming environments.",
+  "authors": [
+   "Steven C. Wampler",
+   "Ryan A. Loomis",
+   "Amina Diop",
+   "L. Ilsedore Cleeves",
+   "Yuri Aikawa",
+   "Romane Le Gal",
+   "Viviana Guzman",
+   "Charles J. Law",
+   "Karin Öberg",
+   "Jamila Pegues",
+   "Richard Teague",
+   "Catherine Walsh"
+  ],
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "comment": null,
+  "first_author": "Steven C. Wampler",
+  "pdf_url": "http://arxiv.org/pdf/2606.02815",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-06-01",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "First Detection of HC5N in a Class II Disk around TW Hya",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02917": {
+  "abstract": "The Cr(III) coordination complex serves as an archetypical 3d transition metal system for probing ultrafast excited-state dynamics with spin conversion due to its intrinsic intersystem crossing (ISC) pathway, $^{4}T_{2g} \\rightarrow ^{2}E_{g}$, upon photoexcitation. Here we conduct ab initio molecular dynamics simulations in the $^{4}T_{2g}$ state of a model Cr(III) coordination complex, followed by analyses of multireference electronic structure properties. Across 50 trajectories, the compound retains a persistent Jahn-Teller distortion in the excited state, while exhibiting prominent symmetric metal-ligand bond stretching vibrations with frequencies of 219 cm$^{-1}$ and 465 cm$^{-1}$. State-averaged complete active space self-consistent field (SA-CASSCF) calculations obtain two corresponding normal modes at 225 cm$^{-1}$ and 487 cm$^{-1}$ with symmetric stretching character. The lower-frequency twisting/scissoring mode strongly modulates the $^{4}T_{2g}/^{2}E_{g}$ energy gap, periodically zeroing the energy gap, whereas spin-orbit coupling is essentially invariant to vibrational motion ($\\approx$ 60-80 cm$^{-1}$). Furthermore, calculations of single-point excited-state absorption from $^{2}E_{g}$ to a higher ligand-to-metal charge-transfer (LMCT) state indicate that the coherences previously observed in transient absorption spectra arise from nuclear motion on the $^{2}E_{g}$ surface. These results provide insights into the correlation between vibrational motion and electronic transitions, which can facilitate rational molecular design of transition metal complexes with desired excited-state properties by leveraging ligand versatility.",
+  "authors": [
+   "Ying You",
+   "James K. McCusker",
+   "Arshad Mehmood",
+   "Benjamin G. Levine"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Ying You",
+  "pdf_url": "http://arxiv.org/pdf/2606.02917",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.03172": {
+  "abstract": "Multiheme cytochromes, located on the bacterial cell surface, function as long-distance (> 10 nm) electron conduits linking intracellular reactions to external surfaces. This extracellular electron transfer process, which allows microorganisms to gain energy by respiring solid redox-active minerals, also facilitates the wiring of cells to electrodes. While recent studies suggested that a chiral induced spin selectivity effect is linked to efficient electron transmission through biomolecules, this phenomenon has not been investigated in the extracellular electron conduits. Using magnetic conductive probe atomic force microscopy, Hall voltage measurements, and spin-dependent electrochemistry of the decaheme cytochromes MtrF and OmcA from the metal-reducing bacterium Shewanella oneidensis MR-1, we show that electron transport through these extracellular conduits is spin-selective. Our study has implications for understanding how spin-dependent interactions and magnetic fields may control electron transport across biotic-abiotic interfaces in both natural and biotechnological systems. Electron",
+  "authors": [
+   "Suryakant Mishra",
+   "Sahand Pirbadian",
+   "Amit Kumar Mondal",
+   "Mohamed Y. El-Naggar",
+   "Ron Naaman"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Suryakant Mishra",
+  "pdf_url": "http://arxiv.org/pdf/2606.03172",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-02",
+  "tags": [],
+  "title": "Spin-Dependent Electron Transport through Bacterial Cell Surface Multiheme Electron Conduits",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.03309": {
+  "abstract": "The Ge-Sb-Te (GST) superlattice phase-change material is a promising candidate for overcoming the high power-consumption of phase-change memory (PCM). However, the working mechanism of the superlattice PCM remains controversial. Partial amorphization, which is currently considered the most plausible mechanism, remains hotly debated: how does the partially amorphized GST recrystallize into its superlattice phase instead of the conventionally expected cubic phase? Here, we address this issue using large-scale molecular dynamics simulations enabled by a machine-learning interatomic potential. Starting from a partially melted GST superlattice, we demonstrate that the residual crystalline regions serve as nuclei, enabling the amorphous GST to recrystallize directly into the superlattice phase without passing through the intermediate cubic phase. Moreover, the recrystallized phase is not an ideal superlattice, but rather a structurally ordered and chemically disordered defective superlattice characterized by anti-site defects and stacking faults. The defective superlattice region is also more susceptible to melting than the defect-free superlattice, and thereby can act as the active region of the PCM device. These results help to clarify the longstanding debates concerning the mechanism of superlattice-based PCM.",
+  "authors": [
+   "Bai-Qian Wang",
+   "Nian-Ke Chen",
+   "Yao-Jie Wang",
+   "Jia Sun",
+   "Yu-Ting Huang",
+   "Ming Xu",
+   "Shengbai Zhang",
+   "Xian-Bin Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Bai-Qian Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.03309",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-02",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Unconventional crystallization pathway bypassing the intermediate cubic phase in phase-change superlattices",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.03313": {
+  "abstract": "Sugars are essential biomolecules, serving as metabolic fuels, nucleic acid backbone components, and structural or energy-storage polymers. A central question in origin-of-life research is how monosaccharides formed on the primitive Earth, as laboratory experiments under prebiotic conditions yield insufficient concentrations. The detection of ribose, glucose and other monosaccharides in asteroids and meteorites suggests an exogenous origin, possibly in the interstellar medium (ISM) prior to meteoritic parent-body formation. However, no sugar has been observed in the ISM so far. We report the discovery of erythrulose, a chiral four-carbon ketose, in the ISM. The detection has been achieved thanks to ultrasensitive, broadband spectral surveys toward the Galactic Center molecular cloud G+0.693-0.027 obtained using the Yebes 40m and IRAM 30m telescopes. Erythrulose appears to be at least eight times more abundant than analogous three-carbon sugars, which remain undetected in our ultrasensitive observations. Quantum chemical and astrochemical models indicate that erythrulose forms efficiently on interstellar dust grains from simpler two-carbon aldehydes and alcohols. As ketoses readily isomerize into aldoses in aqueous conditions, interstellar erythrulose could have contributed to the sugar inventory available for early metabolic and replication processes.",
+  "authors": [
+   "Izaskun Jimenez-Serra",
+   "Juan Garcia de la Concepcion",
+   "Herma M. Cuppen",
+   "Marta Rey-Montejo",
+   "Miguel Sanz-Novo",
+   "Victor M. Rivilla",
+   "Jesus Martin-Pintado",
+   "Andres Megias",
+   "Carlos Briones",
+   "David San Andres",
+   "Laura Colzi",
+   "Shaoshan Zeng",
+   "Sergio Martin",
+   "Joseph Salaris",
+   "Antonio Martinez-Henares",
+   "Alvaro Lopez-Gallifa",
+   "Miguel Requena-Torres",
+   "Belen Tercero",
+   "Pablo de Vicente",
+   "Aran Insausti",
+   "Elena R. Alonso",
+   "Emilio J. Cocinero"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.EP",
+   "astro-ph.SR"
+  ],
+  "comment": "Submitted to Nature Astronomy",
+  "first_author": "Izaskun Jimenez-Serra",
+  "pdf_url": "http://arxiv.org/pdf/2606.03313",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-06-02",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Detection of a four-carbon sugar in interstellar space",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.03709": {
+  "abstract": "We generalize the augmented Roothaan-Hall (ARH) Hessian formalism to the self-consistent field (SCF) optimization of spin-restricted open-shell (RO) wavefunctions, encompassing high-spin, low-spin, and two-determinant electronic states. A detailed ARH formulation is presented. We demonstrate that ARH is a highly efficient optimization algorithm for rapidly identifying accurate SCF minima, primarily owing to its systematic construction of an effective Hessian, particularly in the case of Euclidean quadratic energy functions. The ARH is built upon a universal energy formulation, including grid-based integration, for spin-restricted closed-shell, spin-unrestricted and RO density functional theory (DFT), thereby unifying and simplifying their numerical implementation. The performance of the present method is evaluated using two benchmarking studies. First, for a series of iron-sulfur clusters exhibiting different spin states, which represent notoriously challenging SCF problems, the ARH algorithm demonstrates superior convergence efficiency relative to L-BFGS and truncated Newton methods, requiring much fewer RO-SCF iterations to achieve convergence. Second, the ARH approach avoids convergence to higher-energy stationary points in two-determinant RO-SCF calculations for singlet excited states of selected photoactive compounds. Finally, an application of the ARH-based RO-SCF is illustrated by an investigation of the mechanistic origin of the spin-crossover phenomenon in Ni(II)-porphyrin complex utilized as a contrast agent.",
+  "authors": [
+   "Yichi Zhang",
+   "Farshad Shiri",
+   "Jun Yang"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yichi Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.03709",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-02",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Augmented Roothaan-Hall Hessian Applied to Spin-Restricted Open-Shell Density-Functional Theory",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04078": {
+  "abstract": "Charge transfer (CT) is governed by complex multiscale dynamics sensitive to environmental factors. In molecules, charge state and vibrational effects shape energy levels, charge distribution, and reactivity, thereby controlling CT efficiency. Quantifying these contributions in CT is experimentally challenging, as vibrational effects remain difficult to isolate due to limits in precision, sensitivity, and stability. In such context, the original Marcus theory, often lacks the refinement required to accurately capture CT rates in complex environments, necessitating new approaches that incorporate vibronic effects. Here, we examine a non-covalent H2TPP dyad on a semi-insulating CaF2/Si(100) surface. Using a low-temperature (9 K) scanning tunneling microscope (STM), we generate tunneling electrons that trigger CT events by creating locally cationic states while activating transient vibronic modes at specific molecular sites in one fragment. This initiates a meso N tautomerization serving as a CT signature in the second fragment. By tuning the tunnel electron energy, CT rates measurements reveal a periodic modulation. Quantitative analysis with the Marcus-Levich-Jortner model identifies key reorganization energies and resonant vibronic modes, while DFT provides complementary conformational and vibrational insights. Extending the Marcus-Antoniewicz models to explicit reaction coordinates reveals that CT is governed by the interplay between electronic and vibronic contributions, establishing surface-supported systems as a model framework.",
+  "authors": [
+   "Jessica Martinez",
+   "Eric Duverger",
+   "Michele Pavanello",
+   "Damien Riedel"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jessica Martinez",
+  "pdf_url": "http://arxiv.org/pdf/2606.04078",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-02",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Quantifying Electronic and Vibronic Contributions to Charge Transfer at the Nanoscale",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04100": {
+  "abstract": "Machine learning interatomic potentials (MLIPs) enable efficient and accurate atomistic simulations but depend critically on the quality and diversity of the training data. We introduce Stein kernelized molecular dynamics (SKMD), an enhanced sampling method that uses interacting particle dynamics to acquire informative training configurations for the active learning and fine-tuning of MLIPs. SKMD corresponds to a stochastic variant of Stein variational gradient descent that is adapted for molecular dynamics by incorporating asynchronous particle updates and a kernel of global atomic descriptors, which provides a symmetry-aware measure of configurational similarity. Unlike other enhanced samplers used in molecular dynamics, SKMD preserves the Boltzmann distribution as the asymptotic distribution of the dynamics. This property enforces a balance between the exploration of diverse configurations and attraction toward high-probability regions of the energy landscape. We further propose an approach to efficient online data acquisition using an adaptive stopping criterion that selects non-redundant training data over the course of simulation. We demonstrate SKMD for the active learning of a neural network model of the Müller-Brown potential and the fine-tuning of a MACE interatomic potential for alanine dipeptide. Compared to active learning baselines, our method achieves higher model accuracy in fewer training iterations with the same number of acquired training samples.",
+  "authors": [
+   "Joanna Zou",
+   "Fraser Birks",
+   "Dallas Foster",
+   "Youssef Marzouk"
+  ],
+  "categories": [
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Joanna Zou",
+  "pdf_url": "http://arxiv.org/pdf/2606.04100",
+  "primary_category": "cs.LG",
+  "published": "2026-06-02",
+  "tags": [
+   "active-learning",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04125": {
+  "abstract": "The Poisson Nernst Planck PNP system constitutes a canonical stiff coupled PDE problem where the charge density prefactor produces extreme coefficient ratios and the electric double layer imposes sharp boundary layers. Physics informed neural networks PINNs are appealing here because they require no mesh and differentiate through the physics automatically. Spectral bias and multi task loss imbalance however have limited their accuracy on stiff PNP systems. We present the first systematic data free benchmark of eleven PINN configurations organised into four strategy groups on a physically parametrised one dimensional PNP model for a lithium symmetric cell implemented within NVIDIA PhysicsNeMo Sym and validated against a finite volume method FVM reference. Root mean square errors RMSE span across architectures. The balanced residual decay rate BRDR scheme matches Neural Tangent Kernel NTK performance for concentration fields while reducing mean wall clock time making it the preferable strategy under compute constraints. Loss landscape geometry corroborates the RMSE ranking. We release an open source PhysicsNeMo Sym implementation for reuse on stiff coupled PDE problems in computational mechanics.",
+  "authors": [
+   "David Pankaczy",
+   "Conrard Giresse Tetsassi Feugmo"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "math-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "David Pankaczy",
+  "pdf_url": "http://arxiv.org/pdf/2606.04125",
+  "primary_category": "physics.app-ph",
+  "published": "2026-06-02",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "A Systematic Benchmark of Physics-Informed Neural Network Architectures for the Stiff Poisson-Nernst-Planck System: Adaptive LossWeighting and Multi-Scale Resolution",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04252": {
+  "abstract": "The emergence of high-mobility two-dimensional electron gases (2DEGs) at oxide interfaces provides a fertile platform for exploring emergent quantum phenomena and next-generation oxide electronics. Here, using first-principles density functional theory (DFT) calculations, we investigate the microscopic origin of the 2DEG formed at the interface between the band insulator KTaO$_3$ (KTO) and the Mott insulator LaVO$_3$ (LVO). Although both constituents are insulating in bulk, the LVO/KTO heterostructure develops robust metallicity at the interface, consistent with experimental observations. Our calculations show that this metallic state originates from an electronic reconstruction driven by the polar discontinuity across the interface. To avoid the polar catastrophe on both the polar LVO film and the polar KTO substrate, electrons are transferred from the outer surfaces toward the interface, leading to hole accumulation in the surface VO$_2$ layer and electron accumulation in the interfacial TaO$_2$ layer. This charge redistribution stabilizes a highly confined and spin-polarized 2DEG localized at the interface. The electronic states forming the 2DEG are predominantly derived from interfacial Ta $5d_{xy}$ orbitals, confining carrier motion to the interfacial plane. Remarkably, the spin-up parabolic band hosting the 2DEG exhibits an exceptionally small effective mass, substantially lower than that of the prototypical LaAlO$_3$/SrTiO$_3$ interface, indicating the potential for enhanced carrier mobility. Furthermore, the calculated interfacial electron density is nearly an order of magnitude larger than that of LaAlO$_3$/SrTiO$_3$, consistent with experiment. These findings identify the LVO/KTO heterostructure as a promising platform for realizing high-density, high-mobility spin-polarized 2DEGs and for engineering correlated oxide interfaces for quantum electronic applications.",
+  "authors": [
+   "Arpan Das"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "14 pages, 10 figures",
+  "first_author": "Arpan Das",
+  "pdf_url": "http://arxiv.org/pdf/2606.04252",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-02",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "High-density, high-mobility ultrathin spin-polarized two-dimensional electron gas at the polar/polar LaVO$_3$/KTaO$_3$ interface: Insights from first-principles calculations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.04504": {
+  "abstract": "Hybrid systems composed of graphene (Gr) and carbon nanotubes (CNTs), such as films and aerogels, have attracted broad attention for applications in electronics, mechanics, energy, and environmental science. Since the microstructures of Gr-CNT hybrids strongly affect their properties, it is essential to establish mechanical principles that govern these structures. In this study, we investigated the structural stability and mechanical behavior of Gr-CNT hybrid systems by combining molecular dynamics (MD) simulations and nanoindentation experiments. MD simulations of stacked Gr-CNT structures, in which two Gr layers confine CNTs between them, identified the energetically stable configurations and their governing parameters, i.e., intertube spacing, CNT diameter, and wall number. Specifically, under certain conditions, the structures exhibit mechanical bistability with two stable configurations: adhesion and separation of the Gr layers, arising from the competition between interlayer van der Waals attraction and elastic deformation of Gr and CNTs. Simulated loading--unloading curves display hysteresis and energy dissipation related to the stable configurations. In addition, reduced graphene oxide (rGO)-CNT hybrid films were experimentally fabricated as macroscopic assemblies of the unit structures modeled in the simulations. Atomic force microscopy-based nanoindentation measurements on the rGO-CNT films exhibit clear hysteresis and higher dissipation energy compared with pure rGO, in good agreement with the simulation results. These results provide valuable insights into Gr-CNT hybrid systems and offer guidance for designing microstructures with enhanced properties for advanced applications.",
+  "authors": [
+   "Mingda Ding",
+   "Nanami Sakurai",
+   "Man Shen",
+   "Taiki Inoue",
+   "Takahisa Matsuzaki",
+   "Takuo Mizuno",
+   "Kento Suzuki",
+   "John Isaac Enriquez",
+   "Harry Handoko Halim",
+   "Yuji Hamamoto",
+   "Yuta Nishina",
+   "Hiroshi Y. Yoshikawa",
+   "Yoshitada Morikawa",
+   "Yoshihiro Kobayashi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Authors' original version (33 pages, 12 figures)",
+  "first_author": "Mingda Ding",
+  "pdf_url": "http://arxiv.org/pdf/2606.04504",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-03",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.04954": {
+  "abstract": "Hydrogenation is an effective strategy for enhancing electron--phonon coupling (EPC) and superconductivity in two-dimensional materials. However, excessively strong EPC can also induce lattice instabilities, leading to charge-density-wave (CDW) formation and structural phase transitions. Here, using first-principles calculations, we investigate CDW order in the Janus transition-metal chalcogenide hydrides 1T-WSH and 1T-WSeH. We find that the high-symmetry phases exhibit pronounced phonon softening at the M point, driving a transition to a commensurate $2\\times2$ distorted structure characterized by an emergent triangular charge-density-wave (T-CDW) pattern. Analysis of the electronic structure, susceptibility, and phonon spectrum reveals that the instability is not driven by conventional Fermi-surface nesting but originates from strong momentum-dependent EPC. The T-CDW transition reconstructs the electronic structure and reduces the density of states at the Fermi level, leading to a substantial renormalization of the EPC strength. Consequently, the electron--phonon coupling constants decrease from $λ=2.04$ to $1.50$ in 1T-WSH and from $λ=3.94$ to $1.06$ in 1T-WSeH, while superconductivity remains robust in CDW phase with predicted transition temperatures of $T_c=12.28$ K and $7.75$ K, respectively. Together with previous results for MoSH and MoSeH, our findings establish a universal mechanism in the 1T-$MCH$ family ($M=\\mathrm{Mo},\\mathrm{W}$ and $C=\\mathrm{S},\\mathrm{Se}$), where the primary role of the T-CDW phase is not to eliminate superconductivity but to stabilize the lattice through EPC renormalization. The T-CDW phase therefore acts as an intrinsic self-stabilizing response that relieves excessively strong EPC while preserving phonon-mediated superconductivity.",
+  "authors": [
+   "Jakkapat Seeyangnok",
+   "Udomsilp Pinsook",
+   "Graeme J. Ackland"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "7 pages, 4 Figures",
+  "first_author": "Jakkapat Seeyangnok",
+  "pdf_url": "http://arxiv.org/pdf/2606.04954",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-03",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "phase-transitions"
+  ],
+  "title": "Triangular Charge-Density Waves (T-CDW) Stabilize Janus Group-VI Chalcogenide Hydrides",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.04973": {
+  "abstract": "Melting temperature is a critical property for high-temperature materials design, but first-principles melting calculations based on finite-temperature molecular dynamics can require substantial computational resources. The SLUSCHI method reduces this cost by using small-cell solid--liquid coexistence simulations and statistical analysis of many short molecular-dynamics trajectories. Here I present SLUSCHI-UP, a deployed web service for atomistic melting-temperature estimation that couples the SLUSCHI workflow to selectable pretrained universal machine-learning interatomic potentials (uMLIPs) and asynchronous GPU execution. Users submit a crystal structure through a Materials Project identifier or POSCAR input, select a uMLIP backend, and launch a queued melting calculation without local installation of simulation software. The current production interface supports mace-mpa-0-medium, Allegro-OAM-L, and DPA-3.2-5M-OMat24, while beta deployments expose additional models. On the compact MeltBench-10 validation set, the three production backends produce raw coexistence mean absolute errors in the range of approximately 178--327 K. Across the broader set of materials tested so far in MeltBench, the current deployed-job snapshot contains 119 raw uMLIP entries, and PBE-corrected Allegro-OAM-L predictions reach a mean absolute error of approximately 166 K. These values should be interpreted as screening-level infrastructure validation rather than a definitive ranking of uMLIPs. The results demonstrate that SLUSCHI-UP provides a practical, provenance-aware deployment layer between fast scalar melting-temperature predictors and much more expensive first-principles coexistence calculations, while retaining the usual limitations of uMLIP transferability, finite-size sampling, and high-temperature trajectory stability.",
+  "authors": [
+   "Qi-Jun Hong"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Qi-Jun Hong",
+  "pdf_url": "http://arxiv.org/pdf/2606.04973",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-03",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05050": {
+  "abstract": "Theoretical heterogeneous catalysis promises rapid catalyst discovery, yet computational and machine-learning predictions often deviate from experiment and stay confined to narrow material families, for want of a faithful, condition-aware catalytic simulator. We present CatDT (Catalysis Digital Twin), a self-evolving multi-agent system that builds an autonomous digital twin of a working catalyst, unifying gas-solid and liquid-solid modeling. From only a bulk crystal and a natural-language reaction description, eight specialized agents and 27 scientific tools predict stable facets, reconstruct working surfaces, enumerate and rank reaction pathways, locate transition states, and compute kinetics in 5-30 min on a single GPU. Two innovations address the hardest steps: UniMech finds dominant pathways for novel materials at over $10^3\\times$ lower cost than exhaustive enumeration by fusing agent-guided proposals with energy-cached graph search, and a memory-augmented reinforcement loop raises barrier-calculation success from 41\\% to 84\\% across 600 catalytic surfaces. Across seven gas-solid benchmarks -- stepped metals, single-atom catalysts, ordered intermetallics, vacancy-rich 2D sulfides and carbides, and a strong-metal--support-interaction (SMSI) interface -- every CatDT prediction lies within 0.5-2 times experiment over four orders of magnitude. For propane dehydrogenation, CatDT independently discovers non-precious candidates rivaling the Pt-based industrial benchmark, with a proposed Ni@ZrO$_2$ SMSI overlayer reaching a simulated TOF of $1.63~\\text{s}^{-1}$ at $\\sim$100\\% selectivity. More broadly, the decisive factor for a faithful catalyst digital twin -- or any multi-stage scientific simulator -- is not raw LLM capability but the engineered harness around it: deterministic tools, persistent memory, and verified self-improvement that compound across models, tools, and runs.",
+  "authors": [
+   "Zhilong Song",
+   "Zongmin Zhang",
+   "Lixue Cheng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhilong Song",
+  "pdf_url": "http://arxiv.org/pdf/2606.05050",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-03",
+  "tags": [
+   "vacancies"
+  ],
+  "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05100": {
+  "abstract": "An ab initio framework using density-functional theory has been developed to predict hydrogen solubility in both pristine and defective \\b{eta}-SiC. This study is motivated by the critical need for accurate hydrogen permeation models in fusion reactor designs, where predicting hydrogen permeation through tritium permeation barrier (TPB) materials is essential. Although silicon carbide is one of the leading candidates for TPBs, experimental permeation values vary widely due to differences between ideal single crystals and real, defect-containing materials. First principles calculations are employed to quantify the effects of interstitials, vacancies, and nonstoichiometric (amorphous) structures on hydrogen behavior in \\b{eta}-SiC. Our results show that hydrogen solubility is significantly enhanced in carbon-rich nonstoichiometric amorphous structures and silicon vacancies compared to hydrogen occupying interstitial sites in pure \\b{eta}-SiC.",
+  "authors": [
+   "Jonathan S. Evarts",
+   "Anne Chaka",
+   "Towfiq Ahmed"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 5 figures, 2 tables. Submitted to [Journal Name if applicable, otherwise leave blank]",
+  "first_author": "Jonathan S. Evarts",
+  "pdf_url": "http://arxiv.org/pdf/2606.05100",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-03",
+  "tags": [
+   "ab-initio",
+   "vacancies"
+  ],
+  "title": "Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05361": {
+  "abstract": "Missing data imputation in large-scale surveys faces two challenges that are not well handled by current tabular diffusion methods. First, \\emph{structural skips}, cells made inapplicable by questionnaire design, should not be imputed but are often conflated with item nonresponse. Second, \\emph{ordinal} responses encode ordered categories, yet most pipelines treat them as nominal levels through one-hot or analog-bit encodings. We introduce \\textbf{TabSODA} (\\textbf{Tab}ular diffusion with \\textbf{S}kip pattern detection and \\textbf{O}r\\textbf{d}inal \\textbf{A}wareness), an Expectation-Maximization (EM)-based diffusion imputer built on the Elucidated Diffusion Model (EDM) framework. TabSODA propagates structural skips through the denoising loss and reverse-time sampler, and represents ordinal variables with cumulative-probit scalar latents while retaining analog-bit encodings for nominal variables. When a codebook skip mask is available, TabSODA uses it directly; otherwise, the TabSODA+SKIP variant estimates the mask from raw responses and questionnaire order using a CART-based skip-pattern miner. On Population Assessment of Tobacco and Health (PATH) study and the National Survey on Drug Use and Health (NSDUH), two nationally representative U.S.\\ surveys, TabSODA reduces ordinal MACE by up to $23.7\\%$ and improves categorical accuracy by up to $9\\%$ over the strongest baseline across MCAR, MAR, and MNAR masking. The skip miner achieves near-perfect precision on both datasets, allowing TabSODA+SKIP to closely track the codebook-mask variant.",
+  "authors": [
+   "Yuyu Chen",
+   "Taehyo Kim",
+   "Hai Shu",
+   "Yang Feng"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yuyu Chen",
+  "pdf_url": "http://arxiv.org/pdf/2606.05361",
+  "primary_category": "stat.ML",
+  "published": "2026-06-03",
+  "tags": [
+   "mace"
+  ],
+  "title": "TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.06006": {
+  "abstract": "Nitric oxide (NO) is important in biological, atmospheric, plasma, industrial, and astrophysical environments, where reliable electron-collision data support modelling charged-particle interactions with matter. Its well-known experimental properties make it suitable for assessing how the target electronic-structure description affects low-energy electron scattering calculations. In this work, NO properties were evaluated using B3LYP, M06-2X, PBE0, and $ω$B97X-D3, with basis sets ranging from minimal to quadruple-zeta quality. Bond length, dipole moment, ionisation potential, and polarisability were compared with experiment to assess the sensitivity of the target description to the functional and basis set. The aug-cc-pVQZ basis set was then used to generate target models for ab initio R-matrix calculations over 0.1--20 eV. The total cross sections show low-energy resonance features, with the strongest functional dependence around the broad peak near 0.8--1.0 eV. A sharper, higher-energy structure is also observed below 2 eV, shifting from 1.74 to 1.82 eV depending on the functional. Differential cross sections show modest functional sensitivity, with more noticeable angular differences at 7.5 and 10 eV. These results show that the DFT functional and basis set affect the target properties, with the resulting target description influencing low-energy electron-scattering observables of NO. The comparison supports $ω$B97X-D3/aug-cc-pVTZ geometry optimisation followed by aug-cc-pVQZ target-property calculations as a practical protocol for R-matrix modelling of NO.",
+  "authors": [
+   "Ashutosh Yadav",
+   "Felipe Fantuzzi",
+   "Nigel J. Mason",
+   "Bobby Antony"
+  ],
+  "categories": [
+   "physics.atm-clus"
+  ],
+  "comment": null,
+  "first_author": "Ashutosh Yadav",
+  "pdf_url": "http://arxiv.org/pdf/2606.06006",
+  "primary_category": "physics.atm-clus",
+  "published": "2026-06-04",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.06015": {
+  "abstract": "We present a multilevel embedding framework for quantum chemistry calculations on a quantum computer. In our framework, a quantum algorithm treats the strongly correlated active space, while a high-level wave-function method such as coupled cluster theory or multireference perturbation theory recovers the remaining correlation in the surrounding region. A sampling-based quantum algorithm, quantum-selected configuration interaction, bridges the quantum and classical treatments. The entire calculation is embedded in a low-cost density functional theory description of the surrounding environment using Manby's projection technique. We apply the framework to organic, metal-organic, and metallic systems, computing bond dissociation energies, adsorption energies, and reaction barriers using only the subset of qubits of a 144-qubit superconducting quantum computer at the University of Osaka and achieving $\\sim$1 kcal/mol agreement with classical references for a Menshutkin $\\mathrm{S_N2}$ reaction inside a carbon nanotube. Our results may open the way to quantitatively reliable quantum-classical hybrid calculations for large-scale chemical systems.",
+  "authors": [
+   "Tuan Minh Do",
+   "Yuichiro Yoshida",
+   "Tomoya Shiota",
+   "Wataru Mizukami"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Tuan Minh Do",
+  "pdf_url": "http://arxiv.org/pdf/2606.06015",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-04",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Quantum computing for accurate large-scale electronic-structure calculations: DFT-embedded, post-processed quantum-selected configuration interaction",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.06289": {
+  "abstract": "Moiré superlattices formed at the interfaces of mismatched lattices have attracted significant interest over the past decade due to their large tunability of band parameters and interactions among electrons, spins, and lattices. Superlattices made from twisted perovskite oxides may have strong structure and potential modulation, but evidence of such modulation over macroscopic areas, particularly at large twisting angles, has not been clearly demonstrated so far. Here, we fabricated millimeter-scale twisted oxide bilayers at $36^\\circ$ angle, close to the simple coincidence site lattice condition $\\Sigma5$, from freestanding SrTiO$_3$ membranes. We discovered new low-frequency vibrational modes whose Raman activity, according to molecular dynamics simulations, is greatly enhanced by an asymmetric, twisted interface between the SrO and TiO$_2$ layers. Such an interface is energetically favorable from first-principles calculations and is corroborated by the observation of strong second harmonic generation from the interface comparable to that from the SrTiO$_3$ surface throughout the bilayer region. The results are consistent with interlayer coupling enhanced by high-temperature annealing and confirmed by cross-sectional scanning transmission electron microscopy imaging. Our work sheds light on the structural behavior of twisted oxides and provides directions for tuning their phononic and nonlinear optical properties in future studies.",
+  "authors": [
+   "T. A. M. Ragib Shahriar",
+   "Fumikazu Murakami",
+   "Xing He",
+   "Konnor Koons",
+   "Xinyan Li",
+   "Bumseop Kim",
+   "Shihan Qin",
+   "Varun Harbola",
+   "Jochen Mannhart",
+   "Yimo Han",
+   "Ruijuan Xu",
+   "Shengxi Huang",
+   "Andrew Rappe",
+   "Hanyu Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "T. A. M. Ragib Shahriar",
+  "pdf_url": "http://arxiv.org/pdf/2606.06289",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-04",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-04"
+ }
+}

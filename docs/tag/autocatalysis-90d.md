@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>autocatalysis — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="autocatalysis-360d.html">360d</a> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02392.html">Topology as Logic: Structural Role Geometry Across Formal, Software, Biological, and Prebiotic Systems</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a></div></td>
+<td>Vladi Ivanov</td>
+<td><a href="http://arxiv.org/abs/2606.02392">2606.02392</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08410.html">Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent</a></div><div class="paper-tags"><a href="hydrothermal-alteration-90d.html">hydrothermal-alteration</a> · <a href="origin-of-life-90d.html">origin-of-life</a></div></td>
@@ -68,35 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15456.html">Understanding early stages of low-temperature hydrogen-driven direct co-reduction of Fe-Ni mixed oxide thin films at the near atomic scale</a></div></td>
 <td>Emmanuel Uwayezu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15456">2603.15456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06709.html">Dynamics of an autocatalytic reaction front: effects of imposed turbulence and buoyancy-driven flows</a></div></td>
-<td>Nihal Tawdi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06709">2509.06709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02770.html">Autocatalytic Cores in Reaction Networks with Explicit Catalysis</a></div><div class="paper-tags"><a href="reaction-networks-90d.html">reaction-networks</a></div></td>
-<td>Richard Golnik et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02770">2603.02770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18510.html">Experimental and numerical modeling of liposome congregation in meteorite craters of Early Earth</a></div></td>
-<td>Vladimir M. Subbotin et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18510">2602.18510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13253.html">Life Finds A Way: Emergence of Cooperative Structures in Adaptive Threshold Networks</a></div></td>
-<td>Sean P. Maley et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13253">2507.13253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00396.html">Information bounds production in replicator systems</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a></div></td>
-<td>Jordi Piñero et al.</td>
-<td><a href="http://arxiv.org/abs/2501.00396">2501.00396</a></td>
 </tr>
 </tbody></table>

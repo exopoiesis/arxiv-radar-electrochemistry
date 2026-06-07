@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Qi-Jun Hong</td>
+<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
+<td>Yuyu Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02419.html">DPA4: Pushing the Accuracy-Cost Frontier of Interatomic Potentials with EMFA SO(2) Convolution</a></div></td>
+<td>Tiancheng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02419">2606.02419</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04100.html">Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Joanna Zou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04100">2606.04100</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18181.html">MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation</a></div></td>
@@ -710,47 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.21165.html">Bayesian Selection for Efficient MLIP Dataset Selection</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Thomas Rocke et al.</td>
 <td><a href="http://arxiv.org/abs/2502.21165">2502.21165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20955.html">Egret-1: Pretrained Neural Network Potentials for Efficient and Accurate Bioorganic Simulation</a></div></td>
-<td>Elias L. Mann et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20955">2504.20955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13352.html">Strain Problems got you in a Twist? Try StrainRelief: A Quantum-Accurate Tool for Ligand Strain Calculations</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Ewan R. S. Wallace et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13352">2503.13352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09256.html">Comparing classical and machine learning force fields for modeling deformation of solid sorbents relevant for direct air capture</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="chgnet-360d.html">chgnet</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="m3gnet-360d.html">m3gnet</a></div></td>
-<td>Logan M. Brabson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09256">2506.09256</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07401.html">A Study on the Fine-Tuning Performance of Universal Machine-Learned Interatomic Potentials (U-MLIPs)</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Xiaoqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07401">2506.07401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04055.html">chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Paul Fuchs et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04055">2506.04055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23312.html">TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models</a></div></td>
-<td>Finn Carter</td>
-<td><a href="http://arxiv.org/abs/2505.23312">2505.23312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19195.html">CardioCoT: Hierarchical Reasoning for Multimodal Survival Analysis</a></div></td>
-<td>Shaohao Rui et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19195">2505.19195</a></td>
 </tr>
 </tbody></table>

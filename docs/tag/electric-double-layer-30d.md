@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electric-double-layer — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <strong>30d</strong> <a href="electric-double-layer-90d.html">90d</a> <a href="electric-double-layer-360d.html">360d</a> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,45 +16,9 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07203.html">Reversible Ionic Aggregation Kinetics in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="electrolyte-structure-30d.html">electrolyte-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Zachary A. H. Goodwin</td>
-<td><a href="http://arxiv.org/abs/2603.07203">2603.07203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24205.html">Duality of Theories for the Electrical Double Layer in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
-<td>Zachary A. H. Goodwin</td>
-<td><a href="http://arxiv.org/abs/2602.24205">2602.24205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27910.html">Fragment-Constrained Charge Equilibration for Charge-Aware Machine Learning Potentials at Electrochemical Interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="electrochemical-interfaces-30d.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Akhil Reddy Peeketi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27910">2604.27910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10600.html">Interplay of ion availability and mobility in the loss of cation selectivity for CaCl\textsubscript{2} in negatively charged nanopores: molecular dynamics using scaled-charge models</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="ion-transport-30d.html">ion-transport</a> · <a href="ion-water-interactions-30d.html">ion-water-interactions</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Salman Shabbir et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10600">2602.10600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22182.html">Electrokinetic Effects on Flow and Ion Transport in Charge-Patterned Corrugated Nanochannels</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a></div></td>
-<td>Thomas Petersen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22182">2510.22182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20379.html">Emergence of Transport Regimes from the Axial Field-Induced Interfacial Gradients in Uniform Surface Potential Nanopores</a></div></td>
-<td>Pramodt Srinivasula et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20379">2604.20379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23875.html">Thermodynamic effects of solid electrolyte interphase formation from solvation and ionic association in water-in-salt electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Daniel M. Markiewitz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23875">2602.23875</a></td>
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04125.html">A Systematic Benchmark of Physics-Informed Neural Network Architectures for the Stiff Poisson-Nernst-Planck System: Adaptive LossWeighting and Multi-Scale Resolution</a></div></td>
+<td>David Pankaczy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04125">2606.04125</a></td>
 </tr>
 </tbody></table>

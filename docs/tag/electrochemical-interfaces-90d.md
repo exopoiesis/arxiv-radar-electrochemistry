@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrochemical-interfaces — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="electrochemical-interfaces-7d.html">7d</a> <a href="electrochemical-interfaces-30d.html">30d</a> <strong>90d</strong> <a href="electrochemical-interfaces-360d.html">360d</a> <a href="electrochemical-interfaces-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,35 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19213.html">Short-Range Solvent-Solvent and Ion-Solvent Correlations at Metal-Electrolyte Interfaces: Parameterization and Benchmarking</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="implicit-solvation-90d.html">implicit-solvation</a> · <a href="ion-water-interactions-90d.html">ion-water-interactions</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Mengke Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19213">2509.19213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24635.html">Electrochemical Electron Transfer: Key Concepts, Theories, and Parameterization via Atomistic Simulations</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mengke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24635">2510.24635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00998.html">Nanoscale imaging reveals critical plating and stripping mechanisms in anode-free lithium and sodium solid-state batteries</a></div></td>
-<td>J. Diaz-Sanchez et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00998">2603.00998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Lucas B. T. de Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11071.html">Long-range electrostatics in atomistic machine learning: a physical perspective</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
-<td>Federico Grasselli et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11071">2602.11071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10307.html">Vibrational frequencies and stark tuning rate with continuum electro-chemical models and grand canonical density functional theory</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Mouyi Weng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10307">2509.10307</a></td>
 </tr>
 </tbody></table>

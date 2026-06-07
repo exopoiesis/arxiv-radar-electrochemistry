@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogen-evolution — 360d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="hydrogen-evolution-7d.html">7d</a> <a href="hydrogen-evolution-30d.html">30d</a> <a href="hydrogen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="hydrogen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,23 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16807.html">Electrochemistry-Enhanced Dynamic Paths Sampling Unveiling Nuclear Quantum Effects in Electrocatalysis</a></div><div class="paper-tags"><a href="constant-potential-360d.html">constant-potential</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Li Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16807">2506.16807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14819.html">Mixed platinum and zirconia powder as electrocatalyst for hydrogen evolution and oxidation reaction</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a></div></td>
-<td>Simone Minelli et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14819">2506.14819</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18338.html">Strain Modulated Catalytic Activity of Pt2XSe3 (X = Hg, Zn) for Hydrogen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
-<td>Caique C. Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18338">2505.18338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13786.html">Active-Spin-State-Derived Descriptor for Hydrogen Evolution Reaction Catalysis</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Yu Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13786">2505.13786</a></td>
 </tr>
 </tbody></table>

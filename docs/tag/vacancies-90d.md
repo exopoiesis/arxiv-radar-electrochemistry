@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vacancies — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <strong>90d</strong> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div></td>
+<td>Zhilong Song et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05050">2606.05050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Jonathan S. Evarts et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05612.html">Tuning charge-transport properties and magnetic order in metallic EuTiO$_{3-δ}$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
@@ -248,95 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12042.html">RASP: Reliability ab initio simulation package of MOSFETs based on all-state model</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Xinjing Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12042">2603.12042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12746.html">Oxygen-vacancy-induced Raman softening in the catalyst Fe$_2$(MoO$_4$)$_3$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Young-Joon Song et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12746">2510.12746</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19638.html">DFT-informed Design of Radiation-Resistant Dilute Ternary Cu Alloys</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Vaibhav Vasudevan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19638">2510.19638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00867.html">Stress-driven dynamic evolution of core-shell structured cavities with H and He in BCC-Fe under fusion conditions</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00867">2603.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20750.html">Elucidating the Inter-system Crossing of the Nitrogen-Vacancy Center up to Megabar Pressures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Benchen Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20750">2511.20750</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23493.html">Defect-Engineered h-BN as a Platform for Single-Atom HER Catalysts: Descriptor Screening Refined by Electrochemical Stability Analysis</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a></div></td>
-<td>Ana S. Dobrota et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23493">2602.23493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02544.html">Active-Learning Inspired $\textit{Ab Initio}$ Theory-Experiment Loop Approach for Management of Material Defects: Application to Superconducting Qubits</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Sarvesh Chaudhari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02544">2510.02544</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21986.html">Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Suman Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21986">2602.21986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21135.html">Effect of symmetry breaking on altermagnetism in CrSb and Formation of fragmented nodal curves</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Arindom Das et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21135">2602.21135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16883.html">Strain-Rate- and Line-Length-Dependent Screw Dislocation Glide Mechanisms in BCC Refractory Metals and Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Subhendu Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16883">2602.16883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16007.html">Stochastic Modeling of Anisotropic Strength Surfaces from Atomistic Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Alexander Bonacci et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16007">2602.16007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13975.html">Ion Concentration and Voltage Imaging with Fluorescent Nanodiamonds</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a></div></td>
-<td>Patrick Voorhoeve et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13975">2602.13975</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12620.html">Room-Temperature Terahertz Photoconductivity Polarity Switching in High Entropy Nickelates with Implications for Photonic Synapses</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Sanjeev Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12620">2602.12620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13116.html">Unveiling the origin of the capacity fade in MnO$_{2}$ zinc-ion battery cathodes through an analysis of the Mn vacancy formation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Caio Miranda Miliante et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13116">2602.13116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19594.html">Impact of interface defects on the band alignment and performance of TiO$_2$/MAPI/Cu$_2$O perovskite solar cells</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Nicolae Filipoiu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19594">2406.19594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18602.html">Defect thermodynamics of orthorhombic Ba$_2$In$_2$O$_5$: First-principles calculations on the role of oxygen dumbbell interstitials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Rachele Sciotto et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18602">2510.18602</a></td>
 </tr>
 </tbody></table>

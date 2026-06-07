@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chgnet — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="chgnet-7d.html">7d</a> <a href="chgnet-30d.html">30d</a> <a href="chgnet-90d.html">90d</a> <strong>360d</strong> <a href="chgnet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,17 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02334.html">High-Throughput NEB for Li-Ion Conductor Discovery via Fine-Tuned CHGNet Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Jingchen Lian et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02334">2507.02334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09256.html">Comparing classical and machine learning force fields for modeling deformation of solid sorbents relevant for direct air capture</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="m3gnet-360d.html">m3gnet</a> · <a href="mace-360d.html">mace</a></div></td>
-<td>Logan M. Brabson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09256">2506.09256</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18571.html">High-Entropy Solid Electrolytes Discovery: A Dual-Stage Machine Learning Framework Bridging Atomic Configurations and Ionic Transport Properties</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Xiao Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18571">2505.18571</a></td>
 </tr>
 </tbody></table>

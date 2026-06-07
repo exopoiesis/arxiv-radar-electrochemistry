@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>autocatalysis — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <a href="autocatalysis-360d.html">360d</a> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,27 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08410.html">Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent</a></div><div class="paper-tags"><a href="hydrothermal-alteration-7d.html">hydrothermal-alteration</a> · <a href="origin-of-life-7d.html">origin-of-life</a></div></td>
-<td>Natalia Mrnjavac et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08410">2510.08410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05385.html">Chapter 2: Geometry of the Fitness Surface and Trajectory Dynamics of Replicator Systems</a></div></td>
-<td>A. S. Bratus et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05385">2605.05385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05464.html">The Origin of Life in the Light of Evolution</a></div><div class="paper-tags"><a href="origin-of-life-7d.html">origin-of-life</a></div></td>
-<td>Betül Kaçar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05464">2605.05464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18883.html">Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks</a></div><div class="paper-tags"><a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Richard Golnik et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18883">2511.18883</a></td>
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02392.html">Topology as Logic: Structural Role Geometry Across Formal, Software, Biological, and Prebiotic Systems</a></div><div class="paper-tags"><a href="origin-of-life-7d.html">origin-of-life</a></div></td>
+<td>Vladi Ivanov</td>
+<td><a href="http://arxiv.org/abs/2606.02392">2606.02392</a></td>
 </tr>
 </tbody></table>

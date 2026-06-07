@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electric-double-layer — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <strong>90d</strong> <a href="electric-double-layer-360d.html">360d</a> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04125.html">A Systematic Benchmark of Physics-Informed Neural Network Architectures for the Stiff Poisson-Nernst-Planck System: Adaptive LossWeighting and Multi-Scale Resolution</a></div></td>
+<td>David Pankaczy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04125">2606.04125</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07203.html">Reversible Ionic Aggregation Kinetics in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="electrolyte-structure-90d.html">electrolyte-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -74,17 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13021.html">Dipolar solvent contributions for transient nanoscale electroosmotic flow</a></div></td>
 <td>Pramodt Srinivasula</td>
 <td><a href="http://arxiv.org/abs/2603.13021">2603.13021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24635.html">Electrochemical Electron Transfer: Key Concepts, Theories, and Parameterization via Atomistic Simulations</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mengke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24635">2510.24635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22931.html">Benchmarking short-range machine learning potentials for atomistic simulations of metal/electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Lucas B. T. de Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22931">2602.22931</a></td>
 </tr>
 </tbody></table>

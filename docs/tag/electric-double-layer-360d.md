@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electric-double-layer — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <strong>360d</strong> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04125.html">A Systematic Benchmark of Physics-Informed Neural Network Architectures for the Stiff Poisson-Nernst-Planck System: Adaptive LossWeighting and Multi-Scale Resolution</a></div></td>
+<td>David Pankaczy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04125">2606.04125</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07203.html">Reversible Ionic Aggregation Kinetics in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="electrolyte-structure-360d.html">electrolyte-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -194,23 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14616.html">Replica RISM molecular solvation theory for electric double layer in nanoporous materials</a></div><div class="paper-tags"><a href="electrolyte-structure-360d.html">electrolyte-structure</a></div></td>
 <td>A. Kovalenko</td>
 <td><a href="http://arxiv.org/abs/2506.14616">2506.14616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05654.html">Topological impact of nanopore electrodes on the structure of the electrical double layer and the di erential capacitance</a></div></td>
-<td>A. Silva-Caballero et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05654">2506.05654</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13747.html">Beyond Dielectrics: Interfacial Water Polarization Governs Graphene-Based Electrochemical Interfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Peiyao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13747">2411.13747</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08208.html">Toward Efficient Electrokinetic Energy Conversion with Topographic Modulation of Electrical Conduction</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Austin Dick et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08208">2505.08208</a></td>
 </tr>
 </tbody></table>

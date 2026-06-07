@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>origin-of-life — 360d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <strong>360d</strong> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03313.html">Detection of a four-carbon sugar in interstellar space</a></div></td>
+<td>Izaskun Jimenez-Serra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03313">2606.03313</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02392.html">Topology as Logic: Structural Role Geometry Across Formal, Software, Biological, and Prebiotic Systems</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>
+<td>Vladi Ivanov</td>
+<td><a href="http://arxiv.org/abs/2606.02392">2606.02392</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02815.html">First Detection of HC5N in a Class II Disk around TW Hya</a></div></td>
+<td>Steven C. Wampler et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02815">2606.02815</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08410.html">Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a> · <a href="hydrothermal-alteration-360d.html">hydrothermal-alteration</a></div></td>
@@ -374,41 +392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17849.html">First Detections of PN, PO, and PO+ toward a Shocked Low-mass Starless Core</a></div></td>
 <td>Samantha Scibelli et al.</td>
 <td><a href="http://arxiv.org/abs/2504.17849">2504.17849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19908.html">Toward Unraveling Cyanopolyyne Surface Chemistry: A Preview on Isolated Systems From HC_{3}N to Ethyl Cyanide and Propylamine</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Marten T. Raaphorst et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19908">2505.19908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14754.html">Milestones at the Origin of Life</a></div></td>
-<td>Søren Toxvaerd</td>
-<td><a href="http://arxiv.org/abs/2412.14754">2412.14754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15027.html">Rethinking Habitability using Biogenic Precursors: Formaldehyde in Millimeter Molecular Clouds of the Inner Galaxy</a></div></td>
-<td>Nursyazela Badrina Baharin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15027">2505.15027</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14402.html">OmniGenBench: A Modular Platform for Reproducible Genomic Foundation Models Benchmarking</a></div></td>
-<td>Heng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14402">2505.14402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03385.html">On the possibility of chiral symmetry breaking in liquid hydrogen peroxide</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Roberto Menta et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03385">2503.03385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13692.html">Effects of Ultraviolet Radiation on Sub-Neptune Exoplanet Hazes Through Laboratory Experiments</a></div></td>
-<td>Lori Huseby et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13692">2505.13692</a></td>
 </tr>
 </tbody></table>

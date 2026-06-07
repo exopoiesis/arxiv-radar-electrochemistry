@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>corrosion — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <strong>360d</strong> <a href="corrosion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,29 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11220.html">Detection of obstructions in oil and gas pipelines: machine learning techniques for hydrate classification</a></div></td>
 <td>Hellockston Gomes de Brito et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11220">2506.11220</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09951.html">Designing Corrosion-Resistant CoCrNi Medium Entropy Alloys via Short-Range Order Modification</a></div></td>
-<td>Elaf A. Anber et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09951">2506.09951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07839.html">Predicting aqueous and electrochemical stability of 2D materials from extended Pourbaix analyses</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Stefano Americo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07839">2506.07839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04543.html">Multipurpose in situ cell design for 3D X-ray imaging of electrochemical processes</a></div></td>
-<td>Riley J. Hultquist et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04543">2506.04543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05769.html">Integrative Mobility Model For Grain-Boundary-Limited Transport In Thermoelectric Compounds</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Gbadebo Taofeek Yusuf et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05769">2406.05769</a></td>
 </tr>
 </tbody></table>

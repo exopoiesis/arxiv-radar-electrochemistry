@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03313.html">Detection of a four-carbon sugar in interstellar space</a></div></td>
+<td>Izaskun Jimenez-Serra et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03313">2606.03313</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02392.html">Topology as Logic: Structural Role Geometry Across Formal, Software, Biological, and Prebiotic Systems</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a></div></td>
+<td>Vladi Ivanov</td>
+<td><a href="http://arxiv.org/abs/2606.02392">2606.02392</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02815.html">First Detection of HC5N in a Class II Disk around TW Hya</a></div></td>
+<td>Steven C. Wampler et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02815">2606.02815</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08410.html">Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="hydrothermal-alteration-90d.html">hydrothermal-alteration</a></div></td>
@@ -122,41 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08463.html">Evolving Symbiosis, from Barricelli&#x27;s Legacy to Collective Intelligence: a simulated and conceptual approach</a></div></td>
 <td>James Ashford et al.</td>
 <td><a href="http://arxiv.org/abs/2603.08463">2603.08463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02776.html">Ionic Liquid Biospheres</a></div></td>
-<td>Sara Seager et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02776">2603.02776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18203.html">Metrology of Complexity and Implications for the Study of the Emergence of Life</a></div></td>
-<td>Sara Imari Walker</td>
-<td><a href="http://arxiv.org/abs/2602.18203">2602.18203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16171.html">Self-Organized Bioelectricity via Collective Pump Alignment: Physical Origin of Chemiosmosis</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Ryosuke Nishide et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16171">2602.16171</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16084.html">Evaporation-Induced Pattern Formation and Wetting in Active Microtubule-Kinesin Droplets</a></div></td>
-<td>Vahid Nasirimarekani et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16084">2602.16084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14334.html">Formation and Survival of Complex Organic Molecules in the Jovian Circumplanetary Disk</a></div></td>
-<td>Olivier Mousis et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14334">2602.14334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00396.html">Information bounds production in replicator systems</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a></div></td>
-<td>Jordi Piñero et al.</td>
-<td><a href="http://arxiv.org/abs/2501.00396">2501.00396</a></td>
 </tr>
 </tbody></table>
