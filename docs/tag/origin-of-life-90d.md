@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06691.html">Ultraviolet Radiation Effects on the Optical Properties of Water-Dominated Exoplanet Hazes</a></div></td>
+<td>Lori Huseby et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06691">2606.06691</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03313.html">Detection of a four-carbon sugar in interstellar space</a></div></td>
@@ -158,17 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17484.html">Islands of Electromagnetic Tranquility in Our Galactic core and Little Red Dots that Shelter Molecules and Prebiotic Chemistry</a></div></td>
 <td>Remo Ruffini et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17484">2509.17484</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08172.html">Hydrocarbon complexity and photochemical shielding of prebiotic feedstock molecules in exoplanet atmospheres</a></div></td>
-<td>Marrick Braam et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08172">2603.08172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08463.html">Evolving Symbiosis, from Barricelli&#x27;s Legacy to Collective Intelligence: a simulated and conceptual approach</a></div></td>
-<td>James Ashford et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08463">2603.08463</a></td>
 </tr>
 </tbody></table>

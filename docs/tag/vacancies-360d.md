@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,11 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02054.html">Grotthuss-type oxygen hole polaron transport in desodiated Na$_{2}$Mn$_3$O$_7$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="neb-360d.html">neb</a> · <a href="proton-transport-360d.html">proton-transport</a></div></td>
 <td>Ming Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2504.02054">2504.02054</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10615.html">Strongly correlated topological surface states in type-II Dirac semimetal NiTe$_{2}$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Neeraj Bhatt et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10615">2506.10615</a></td>
 </tr>
 </tbody></table>

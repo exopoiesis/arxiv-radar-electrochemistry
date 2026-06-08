@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">809 papers</span>
+  <span class="paper-count">806 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07042.html">Unravelling the Role of Stacking Disorder on the Optoelectronic Properties of Zn3P2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Francesco Salutari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07042">2606.07042</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28637.html">Excited States from Restricted Open Shell Plane-Wave DFT</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
@@ -4844,29 +4850,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11427.html">In-Plane Ni-O-Ni Bond Angles as Structural Fingerprints of Superconductivity in Layered Nickelates: Effects of Pressure, Strain, Layering, and Correlations</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Bipasa Samanta et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11427">2506.11427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15531.html">Interaction of dopants with the I$_3$-type basal stacking fault in hexagonal-diamond Si</a></div></td>
-<td>Marc Túnica et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15531">2502.15531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15539.html">Tailoring the Electronic Configurations of YPc$_2$ on Cu(111): Decoupling Strategies for Molecular Spin Qubits Platforms</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Soyoung Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15539">2505.15539</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10254.html">Neel order, spin-spiral, and spin liquid ground state in frustrated three dimensional system CaMn2P2: A DFT+U and spin dynamics study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Bidyut Mallick et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10254">2506.10254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10615.html">Strongly correlated topological surface states in type-II Dirac semimetal NiTe$_{2}$</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Neeraj Bhatt et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10615">2506.10615</a></td>
 </tr>
 </tbody></table>

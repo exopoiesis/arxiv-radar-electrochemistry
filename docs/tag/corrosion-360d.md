@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>corrosion — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <strong>360d</strong> <a href="corrosion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,17 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19543.html">Long-term atomistic finite-temperature substitutional diffusion</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Shashank Saxena et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19543">2506.19543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10548.html">Machine learning accelerated finite-field simulations for electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Chaoqiang Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10548">2506.10548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11220.html">Detection of obstructions in oil and gas pipelines: machine learning techniques for hydrate classification</a></div></td>
-<td>Hellockston Gomes de Brito et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11220">2506.11220</a></td>
 </tr>
 </tbody></table>

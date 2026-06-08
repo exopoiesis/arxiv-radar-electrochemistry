@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-interfaces — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="electrochemical-interfaces-7d.html">7d</a> <a href="electrochemical-interfaces-30d.html">30d</a> <a href="electrochemical-interfaces-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-interfaces-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14025.html">Observation of dendrite formation at Li metal-electrolyte interface: A machine-learning enhanced constant potential framework</a></div><div class="paper-tags"><a href="constant-potential-360d.html">constant-potential</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Taiping Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.14025">2406.14025</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10548.html">Machine learning accelerated finite-field simulations for electrochemical interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Chaoqiang Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10548">2506.10548</a></td>
 </tr>
 </tbody></table>

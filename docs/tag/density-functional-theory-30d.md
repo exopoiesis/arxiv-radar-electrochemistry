@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07042.html">Unravelling the Role of Stacking Disorder on the Optoelectronic Properties of Zn3P2</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td>Francesco Salutari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07042">2606.07042</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28637.html">Excited States from Restricted Open Shell Plane-Wave DFT</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
@@ -398,29 +404,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08912.html">OTFS-IM-Assisted Non-Terrestrial Networks Relying on Autoencoder-Aided Soft-Decision Detection</a></div></td>
 <td>Xinyu Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08912">2605.08912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07337.html">Water adsorption on a model silicate surface: wollastonite (100)</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="water-adsorption-30d.html">water-adsorption</a> · <a href="weathering-30d.html">weathering</a></div></td>
-<td>Luca Lezuo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07337">2605.07337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07437.html">Spin-lattice coupling enables adaptive adsorption in magnetically-driven electrocatalysts</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
-<td>Arnold Gaje et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07437">2605.07437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Sreehari M S et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="dft-u-30d.html">dft-u</a></div></td>
-<td>Tariq Leinen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
 </tr>
 </tbody></table>
