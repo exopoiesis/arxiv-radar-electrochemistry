@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>formate — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="formate-7d.html">7d</a> <a href="formate-30d.html">30d</a> <a href="formate-90d.html">90d</a> <strong>360d</strong> <a href="formate-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09612.html">Revealing Wavelength- and Size-Dependent CO2 Reduction Selectivity via Operando Scanning Photo-Electrochemical Microscopy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="co2-reduction-360d.html">co2-reduction</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Fatemeh Kiani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09612">2606.09612</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22810.html">Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

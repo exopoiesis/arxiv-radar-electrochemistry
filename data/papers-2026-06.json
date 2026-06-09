@@ -936,5 +936,282 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-06-05"
+ },
+ "2606.07772": {
+  "abstract": "Interfacial charge transfer between solid electrolytes (SEs) and Li metal is a key factor limiting all-solid-state battery performance. Conventional density functional theory and nudged elastic band calculations neglect many-body correlations and finite-temperature effects, which can lead to inaccurate activation barriers. Here, we trained moment tensor potentials (MTPs) for garnet LLZO systems (t-LLZO, c-LLZO, and Ga-LLZO) and Li metal, enabling machine-learning molecular dynamics (MLMD) simulations of Li$^+$ diffusion in the bulk and at Li/SE interfaces. We also introduce a residence-time window method that filters out ion rattling and isolates genuine charge-transfer events. The resulting charge-transfer activation energies are low: 167 meV at the Li/Ga-LLZO interface and 200 meV in Ga-LLZO, corresponding to resistances of $\\sim \\, 10^{-5} \\, Ω\\,\\mathrm{cm}^{2}$. These results indicate that intrinsic Li/Ga-LLZO charge transfer is not rate-limiting. Overall, our findings clarify the fast interfacial kinetics in Li/LLZO systems, and the proposed methodology can aid further interface optimization in solid-state batteries.",
+  "authors": [
+   "Arseniy S. Burov",
+   "Artem M. Abakumov",
+   "Dmitry A. Aksyonov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Arseniy S. Burov",
+  "pdf_url": "http://arxiv.org/pdf/2606.07772",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-05",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "neb"
+  ],
+  "title": "Machine learning assisted molecular dynamics of charge-transfer mechanisms at Li/Ga-doped Li$_7$La$_3$Zr$_2$O$_{12}$ (LLZO) interfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.07815": {
+  "abstract": "Electrochemically redox-active halide (eREAL) materials are an emerging class of materials that combine high Li-ion conductivity with transition-metal redox activity, making them promising candidates for cathode or catholyte applications. As a redox-active catholyte, they could significantly increase the energy density of solid-state batteries. In this work, we perform first-principles calculations on Li-M-Cl (M = 3d transition metals) ternaries to establish such a theoretical foundation for their stability and electrochemical activity. We map the phase stability of eREAL structures with varying metal-to-Cl ratio, transition-metal species, oxidation states, and anion frameworks, and compute cation and anion redox potentials. We find that the high ionicity of metal-Cl bonds elevates cation redox potentials above those of conventional oxide cathodes, but also will promote Cl oxidation and Cl-Cl dimerization at high voltages, which may limit the stability of these materials. Anion substitution effectively tunes both cation and anion redox potentials, with F substitution standing out as a viable route to extend the reversible voltage window. Beyond the anion redox issue, eREAL compounds generally exhibit flat voltage profiles, which potentially poses an electrochemical compatibility challenge when paired with active materials that operate at different voltage values or over wider voltage ranges. Collectively, our study provides a comprehensive analysis for redox behavior of eREAL materials, paving the way for their rational design and optimization in next-generation battery applications.",
+  "authors": [
+   "Zhuohan Li",
+   "Gerbrand Ceder"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhuohan Li",
+  "pdf_url": "http://arxiv.org/pdf/2606.07815",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-05",
+  "tags": [
+   "ab-initio",
+   "phase-stability"
+  ],
+  "title": "Redox-Active Halide Materials for Cathode Applications",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.08333": {
+  "abstract": "Superconducting weak links with high transparency offer an appealing approach for designing compact magnetic-field sensors, as their phase-dependent Andreev bound-state (ABS) spectrum produces a strong flux-to-signal response with minimal dissipation. One way to achieve ballistic transport in the weak link is to use the edge states of topological insulators, since these states resist backscattering and provide a unique path to developing topological insulator-based weak-link devices for highly efficient magnetic-field sensing. Building on this, we propose a weak-link device using superconducting Nb electrodes and a nanoribbon of $\\text{Bi}_4\\text{Br}_4$ as the normal region, forming a Nb-1D (one-dimensional) $\\text{Bi}_4\\text{Br}_4$-Nb Josephson junction. We develop first-principles tight-binding Hamiltonians and orbital-resolved interface couplings in the Wannier basis, including spin-orbit coupling, based on density functional theory (DFT) calculations. The Eliashberg spectral function of bulk Nb, obtained via density functional perturbation theory (DFPT), indicates an electron-phonon coupling strength of 1.19 and a transition temperature of about 9 K, aligning well with conventional superconductivity in Nb. The subgap conductance is primarily influenced by Andreev processes. The ABS spectrum leads to a non-sinusoidal current-phase relation (CPR) with high forward skewness ($+$1.74) and phase sensitivity to the magnetic field. Overall, our findings suggest that the Nb-1D $\\text{Bi}_4\\text{Br}_4$-Nb weak link is a promising platform for on-chip superconducting magnetic sensors, compatible with scalable nanofabrication and broader development of topological-superconductor hybrid electronics.",
+  "authors": [
+   "Enamul Haque",
+   "Javier Cerrillo"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "20 Pages, 7 figures",
+  "first_author": "Enamul Haque",
+  "pdf_url": "http://arxiv.org/pdf/2606.08333",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-06",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Nearly ballistic transport and high magnetic-field sensitivity in a $\\text{Bi}_4\\text{Br}_4$ topological Josephson weak link",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-06"
+ },
+ "2606.08423": {
+  "abstract": "Two-dimensional superconductors with multiband electronic structures provide an ideal platform for exploring anisotropic and multigap superconductivity in the reduced-dimensionality limit. Here, we investigate the structural, electronic, vibrational, and superconducting properties of a hexagonal BAs$_3$ monolayer using first-principles calculations combined with density functional perturbation theory and fully anisotropic Migdal--Eliashberg theory. The optimized structure is found to be dynamically and thermally stable, as confirmed by phonon calculations and ab initio molecular dynamics simulations. Electronic structure calculations reveal an intrinsic metallic state with multiple bands crossing the Fermi level and several disconnected Fermi-surface sheets derived primarily from hybridized B-$p$ and As-$p$ orbitals. The electron--phonon interaction is dominated by low-frequency As-derived phonon modes, yielding a total electron--phonon coupling constant of $λ=0.75$. Solving the anisotropic Eliashberg equations predicts a superconducting critical temperature of $T_c=3.4$ K. The momentum-resolved superconducting gap exhibits a pronounced two-gap character with gap magnitudes of $Δ_1=0.75$ meV and $Δ_2=0.51$ meV at $T=1$ K. The superconducting gaps remain finite over the entire Fermi surface, demonstrating a fully gapped nodeless superconducting state. Analysis of the momentum-dependent electron--phonon coupling reveals that the two-gap superconductivity originates from sheet-dependent pairing interactions associated with distinct Fermi-surface sheets. Our results establish monolayer BAs$_3$ as an intrinsic anisotropic two-gap superconductor and expand the growing family of boron-based two-dimensional superconductors.",
+  "authors": [
+   "Jakkapat Seeyangnok",
+   "Udomsilp Pinsook"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "14 pages, 6 figures",
+  "first_author": "Jakkapat Seeyangnok",
+  "pdf_url": "http://arxiv.org/pdf/2606.08423",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-07",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "First-Principles Investigation of Electron--Phonon Coupling and Intrinsic Two-Gap Superconductivity in Hexagonal BAs3 Monolayer",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-07"
+ },
+ "2606.08637": {
+  "abstract": "Altermagnetism has recently emerged as a highly promising phase for spintronics, offering the combined advantages of both antiferromagnets and ferromagnets. Here, using a first-principles analysis based on density functional theory (DFT), we identify a monolayer V$_2$O crystal in a buckled Lieb lattice as a promising two-dimensional altermagnetic material. The structural and thermal stability of V$_2$O is verified through calculations of the crystal's formation energy, phonon structure, room-temperature ab initio molecular dynamics, and stiffness matrix. The system is found to exhibit auxetic behavior with a negative Poisson's ratio. Our calculations indicate an antiferromagnetic ground state with a local magnetic moment of $2.79\\,μ_{\\mathrm{B}}$ per V atom and a magnetocrystalline anisotropy that favors an out-of-plane easy axis. The electronic structure exhibits a momentum-dependent spin splitting of 1.2 eV, which is a characteristic of altermagnets. Inclusion of spin-orbit coupling breaks the symmetry of the quadratic band crossing near the Fermi level, resulting in a large Berry curvature and significant intrinsic spin Hall conductivity around $40\\,(\\hbar/e)\\,\\mathrm{S\\,cm^{-1}}$. The results demonstrate that monolayer V$_2$O serves as a robust room-temperature altermagnetic platform, exhibiting magnetic anisotropy and spin-dependent transport responses.",
+  "authors": [
+   "Tamer Taşkıran",
+   "Soheil Ershadrad",
+   "Biplab Sanyal",
+   "Cüneyt Şahin"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Tamer Taşkıran",
+  "pdf_url": "http://arxiv.org/pdf/2606.08637",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-06-07",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics",
+   "phase-stability"
+  ],
+  "title": "Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-06-07"
+ },
+ "2606.09341": {
+  "abstract": "The palladium-hydrogen system is a prototype for hydrogen-metal interactions and underpins technologies such as hydrogen storage, catalysis and purification. Yet its nanoscale behaviour -- where surface and interface energetics, elastic coherency strain and size-dependent thermodynamics govern phase separation -- has eluded accurate atomistic simulation. Empirical potentials misrepresent the energetics of interstitial hydrogen, while existing machine-learning models are restricted to bulk phases at low-hydrogen environments. Here we introduce an atomic cluster expansion (ACE) for Pd-H that reproduces formation energies, phonon spectra, elastic constants, hydrogen migration barriers and surface adsorption with near-DFT accuracy, benchmarked directly against neutron-scattering, high-pressure and lattice-expansion experiments. Its near-linear scaling and CPU efficiency make molecular dynamics of PdH$_x$ nanoparticles exceeding 28,000 atoms ($\\sim$12 nm in diameter) tractable over nanosecond timescales. These simulations resolve, at the atomic scale, the kinetic separation of $α$- and $β$-PdH$_x$ into a core-shell architecture, reproduce the experimentally observed size dependence of the lattice parameter, and uncover a pronounced hydrogen-induced lowering of the nanoparticle melting temperature. The potential brings experimentally relevant scales of metal-hydride dynamics within quantitative reach.",
+  "authors": [
+   "Minaam Qamar",
+   "Apinya Ngoipala",
+   "Matous Mrovec",
+   "Matthias Vandichel",
+   "Ralf Drautz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 12 figures",
+  "first_author": "Minaam Qamar",
+  "pdf_url": "http://arxiv.org/pdf/2606.09341",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09566": {
+  "abstract": "Measured specific heats often exceed Debye's T^3-law, even in high-purity single crystals. Analogous excess energy fluctuations in molecular dynamics (MD) simulations of crystals with no defects come from fast energy modulations involving next-nearest-neighbor atoms. Here, a theory is developed for these modulations, based on time- and phase-averaging followed by thermal averaging. This order of averaging is guided by evidence from the simulations and various experimental techniques showing that localized excitations are decoupled from the heat bath. Emergent nonextensivity is interpreted by analogy with anomalous diffusion. The theory modifies the standard relation between energy fluctuations and specific heat, giving good agreement with the simulations and new insight into many measurements. The theory may also provide a basis for understanding excess specific heat in amorphous materials and anomalous noise in quantum devices.",
+  "authors": [
+   "Ralph V. Chamberlin",
+   "Sumiyoshi Abe"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.dis-nn",
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 3 figures",
+  "first_author": "Ralph V. Chamberlin",
+  "pdf_url": "http://arxiv.org/pdf/2606.09566",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-08",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Deviations from Debye's specific heat due to excess energy fluctuations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09575": {
+  "abstract": "In this study, we present a method for selecting an arbitrary number of distinct configurations from a larger data set by applying k-means clustering to atomistic configuration fingerprints based on the CrystalNN model and radial distribution function (RDF). This approach improves the accuracy of fitting classical molecular dynamics interatomic potentials to density functional theory (DFT) data for both energies and forces while requiring fewer configurations than random selection. We demonstrate this improvement by fitting an embedded-atom method (EAM) potential for titanium, using various configurational sizes from an initial set of 1800 configurations. The k-means clustering consistently achieves better precision and lower standard deviations for a smaller number of configurations than random selection. The results also suggest that only about 30 configurations are sufficient to obtain an EAM model that describes well the full set of 1800 configurations in terms of energies and forces. Additionally, t-distributed stochastic neighbor embedding (t-SNE) method was used to reduce the configuration fingerprints into 2D space, and it revealed an overlap between two configuration subsets with and without Ti vacancy, indicating similar atomic environments. This similarity is captured by k-means clustering but not by random selection. Furthermore, when the overlapping configurations with vacancies were excluded from the k-means algorithm and used only as a test set, their energy and force predictions showed similar precision to those when they were included. This indicates that the overlapping configurations in the 2D t-SNE space indeed imply potential information redundancy among the atomistic configurations.",
+  "authors": [
+   "Miroslav Lebeda",
+   "Jan Drahokoupil",
+   "Ludvík Löbel",
+   "Petr Vlčák"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Miroslav Lebeda",
+  "pdf_url": "http://arxiv.org/pdf/2606.09575",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09612": {
+  "abstract": "Controlling product selectivity in plasmonic catalysis, particularly in CO2 reduction (CO2R), remains a central unsolved challenge with direct implications for light-driven fuel and chemical synthesis. Here, we deploy quantitative operando scanning photoelectrochemical microscopy (photo-SECM) to provide a direct demonstration that tuning photon energy switches CO2R selectivity through an electronically driven pathway. On plasmonic Au/p-GaN photocathodes, interband excitation (460-560 nm) drives selective CO production while intraband excitation (640-800 nm) favors H2 evolution. By maintaining constant absorbed power across wavelengths and confirming linear power dependence, we isolate the role of hot-carrier energy from photonic and photothermal contributions. Density functional theory calculations reveal that higher-energy interband excitation progressively increases the overlap between hot-electron-accessible states and the CO-producing intermediate, selectively promoting CO over formate, in excellent agreement with experiment. We further show that selectivity is geometrically gated by hot-carrier transport: sub-100 nm nanostructures sustain CO2R activity, while ~300 nm nanodisks suffer transport losses that suppress it, consistent with ab initio hot-carrier transport calculations. Together, these results establish photon energy, carrier transport, and nanostructure geometry as coupled design parameters for plasmonic CO2R selectivity, resolve a longstanding debate on the origin of plasmon-driven selectivity effects, and position photo-SECM as a broadly applicable operando platform for photo(electro)catalysis.",
+  "authors": [
+   "Fatemeh Kiani",
+   "Milad Sabzehparvar",
+   "Priscila Vensaus",
+   "Elif Nur Dayi",
+   "Olga D'Anania",
+   "Tarique Anwar",
+   "Nuria Lopez",
+   "Ravishankar Sundararaman",
+   "Giulia Tagliabue"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Fatemeh Kiani",
+  "pdf_url": "http://arxiv.org/pdf/2606.09612",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "co2-reduction",
+   "density-functional-theory",
+   "formate"
+  ],
+  "title": "Revealing Wavelength- and Size-Dependent CO2 Reduction Selectivity via Operando Scanning Photo-Electrochemical Microscopy",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09647": {
+  "abstract": "Polarizable force fields offer superior transferability and accuracy compared to classical force fields, enabling access to electronic response properties such as refractive index and electronic density of states. Here, we demonstrate two key improvements that significantly enhance their accuracy: (1) assigning atomic polarizability to individual atoms rather than atom types, and (2) employing atomic polarizability tensors instead of scalar values. These modifications extend the applicability of polarizable force fields to cations, anions, and excited states, while also providing more accurate descriptions of neutral molecules. We propose a first-principles-based parameterization procedure for atomic polarizability tensors and scalars, validated on a set of small organic molecules with conjugated building blocks. To overcome the computational cost of ab initio calculations, we train a message-passing graph neural network to predict polarizability parameters, enabling efficient and scalable parameterization. Crucially, this approach imposes no additional computational cost during simulations and provides a clear diagnostic criterion for identifying cases where polarizable force field models fail to accurately describe molecular polarizability.",
+  "authors": [
+   "Felix Post",
+   "Jean-Philip Filling",
+   "Toulik Maitra",
+   "Falk May",
+   "Michael Wand",
+   "Denis Andrienko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Felix Post",
+  "pdf_url": "http://arxiv.org/pdf/2606.09647",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "polarizable-water"
+  ],
+  "title": "Ab initio parametrization of distributed polarizable force fields",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-06-08"
  }
 }
