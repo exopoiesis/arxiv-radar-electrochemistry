@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-06-09._
+_Updated 2026-06-10._
 
-**3226** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3232** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11029.html">Fe3O4 Nano-octahedra/Vulcan XC72: Optimization and Combination with Solar-Based Electro-Fenton for Progestins Degradation</a></div></td>
+<td>Juliana M. S. de Jesus et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11029">2606.11029</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -45,6 +51,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/polarizable-water-30d.html">polarizable-water</a></div></td>
 <td>Felix Post et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/dft-u-30d.html">dft-u</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
+<td>Yao Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10101">2606.10101</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10162.html">Microscopic Investigation of the Superconducting State in CuCo$_{2}$S$_{4}$: Evidence for an Intermediate-Coupling Fully Gapped Superconductor</a></div><div class="paper-tags"><a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
+<td>K. Panda et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10162">2606.10162</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Patrick Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Benhao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-07</td>
@@ -87,6 +117,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07815.html">Redox-Active Halide Materials for Cathode Applications</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
 <td>Zhuohan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07815">2606.07815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09901.html">On the Controllability-Fidelity Frontier in Diffusion Editing</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
+<td>Yi Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09901">2606.09901</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-04</td>
@@ -159,41 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
 <td>Yuyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02419.html">DPA4: Pushing the Accuracy-Cost Frontier of Interatomic Potentials with EMFA SO(2) Convolution</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
-<td>Tiancheng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02419">2606.02419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03172.html">Spin-Dependent Electron Transport through Bacterial Cell Surface Multiheme Electron Conduits</a></div></td>
-<td>Suryakant Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03172">2606.03172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03309.html">Unconventional crystallization pathway bypassing the intermediate cubic phase in phase-change superlattices</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Bai-Qian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03309">2606.03309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03313.html">Detection of a four-carbon sugar in interstellar space</a></div><div class="paper-tags"><a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
-<td>Izaskun Jimenez-Serra et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03313">2606.03313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03709.html">Augmented Roothaan-Hall Hessian Applied to Spin-Restricted Open-Shell Density-Functional Theory</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Yichi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03709">2606.03709</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04078.html">Quantifying Electronic and Vibronic Contributions to Charge Transfer at the Nanoscale</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Jessica Martinez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04078">2606.04078</a></td>
 </tr>
 </tbody></table>

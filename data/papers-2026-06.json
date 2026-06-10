@@ -1213,5 +1213,177 @@
    "Aqueous Chemistry and Solvation"
   ],
   "updated": "2026-06-08"
+ },
+ "2606.09901": {
+  "abstract": "Diffusion-based generative models enable powerful image editing capabilities, but achieving precise control while maintaining fidelity and safety remains challenging. We present a comprehensive theoretical and empirical study of controllable diffusion-based image editing, analyzing the trade-offs between adherence to user intent, preservation of non-target content, and output quality. Our work spans text- and mask-guided edits, point/drag manipulation, and inversion-based pipelines. We derive mathematical formulations of editing objectives and analyze dynamics of noise injection, score guidance, and inversion error. We provide theoretical bounds on reconstruction error, stability under repeated edits, and locality of changes. We propose algorithmic frameworks (with pseudocode) for mask-localized and instruction-guided editing, and present extensive experiments comparing state-of-the-art methods (e.g.\\ TF-ICON \\cite{lu2023tficone}, DragFlow \\cite{zhou2025dragflow}, InstructPix2Pix \\cite{brooks2023instructpix2pix}, UltraEdit \\cite{zhao2024ultraedit}) on multiple tasks and metrics (FID, identity similarity, CLIP alignment, artifact scores, etc). Our results reveal key failure modes, such as identity drift, prompt sensitivity, and compositional errors. We also discuss ethical considerations in image editing, including misuse risks, bias, consent, and concept erasure techniques (e.g.\\ MACE \\cite{lu2024mace}, ANT \\cite{li2025ant}, EraseAnything \\cite{gao2024eraseanything}) as safeguards. We conclude with best practices and future directions for responsible, high-fidelity diffusion-based editing.",
+  "authors": [
+   "Yi Hu",
+   "Leying Yi",
+   "Emily Davis",
+   "Finn Carter"
+  ],
+  "categories": [
+   "cs.GR",
+   "cs.CV",
+   "cs.HC",
+   "cs.LG",
+   "cs.MM"
+  ],
+  "comment": "Preprint",
+  "first_author": "Yi Hu",
+  "pdf_url": "http://arxiv.org/pdf/2606.09901",
+  "primary_category": "cs.GR",
+  "published": "2026-06-05",
+  "tags": [
+   "mace"
+  ],
+  "title": "On the Controllability-Fidelity Frontier in Diffusion Editing",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.10101": {
+  "abstract": "We investigate the thermodynamic properties of elemental cerium by assessing the crucial role of phonon free energy within the framework of dynamical mean-field theory (DMFT). While conventional density functional theory (DFT) often fails to capture the intricate energy landscape of $f$-electron materials, our approach integrates many-body electronic correlations with lattice dynamics to achieve a more rigorous description of the equation of state. We calculate the total energy as a function of the lattice constant at both the DFT and DFT+DMFT levels, subsequently incorporating the vibrational free energy derived from the phonon density of states. Our findings reveal that electronic renormalisation of the force constants significantly alters the phonon spectra, particularly in the strongly correlated $γ$-phase. By applying these phonon corrections to the energy profiles, we observe a substantial refinement in the predicted equilibrium volumes. Using principal-component-based machine learning, we interpolate phonon dispersions continuously from a finite set of first-principles calculations and compare them to experiment, finding significantly closer agreement compared to conventional DFT and DFT+U calculations that neglect dynamical many-body correlations. This study underlines the necessity of accounting for both electronic and vibrational entropy when evaluating the phase stability and structural transitions of lanthanide systems under varying pressures and temperatures.",
+  "authors": [
+   "Yao Wei",
+   "Siyu Chen",
+   "Evgeny Plekhanov",
+   "Ivan Stich",
+   "Cedric Weber",
+   "Jan M. Tomczak"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "12 pages, 6 figures",
+  "first_author": "Yao Wei",
+  "pdf_url": "http://arxiv.org/pdf/2606.10101",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u",
+   "phase-stability"
+  ],
+  "title": "Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10162": {
+  "abstract": "The thiospinel compound CuCo$_2$S$_4$ provides an attractive platform for exploring superconductivity in transition-metal chalcogenide spinels. Here, we report the first microscopic investigation of the superconducting state in CuCo$_2$S$_4$ using muon spin rotation and relaxation ($μ$SR) measurements, complemented by magnetization and heat-capacity experiments. The temperature dependence of the superconducting depolarization rate obtained from transverse-field $μ$SR measurements indicates a fully gapped superconducting order parameter. The extracted gap ratio $2Δ(0)/(k_{\\mathrm{B}}T_\\mathrm{SC}) = 3.95(2)$ exceeds the BCS weak-coupling value of 3.53, placing CuCo$_2$S$_4$ in the intermediate electron-phonon coupling regime. Zero-field $μ$SR measurements were performed to probe possible time-reversal symmetry breaking (TRSB) in the superconducting state. Within the experimental resolution, no additional spontaneous internal magnetic fields are observed below $T_c$. However, due to the presence of a ferromagnetic impurity phase and the associated fast-relaxing signal component, the sensitivity of the present measurements to weak spontaneous fields is reduced. Consequently, while no evidence for TRSB is detected, its existence cannot be definitively ruled out. Overall, our combined thermodynamic and $μ$SR results demonstrate that CuCo$_2$S$_4$ exhibits a fully gapped superconducting state with intermediate coupling strength, consistent with conventional $s$-wave superconductivity in this cobalt-based thiospinel system.",
+  "authors": [
+   "K. Panda",
+   "A. Bhattacharyya",
+   "Liang-Wen Ji",
+   "Jing Li",
+   "R. Stewart",
+   "D. T. Adroja",
+   "Guang-Han Cao"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": null,
+  "first_author": "K. Panda",
+  "pdf_url": "http://arxiv.org/pdf/2606.10162",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-08",
+  "tags": [
+   "chalcogenides"
+  ],
+  "title": "Microscopic Investigation of the Superconducting State in CuCo$_{2}$S$_{4}$: Evidence for an Intermediate-Coupling Fully Gapped Superconductor",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10221": {
+  "abstract": "Interpreting metal K-edge spectra of flexible photosensitizers requires a structural model that separates electronic signatures from thermal motion, solvent disorder, and crystal-packing effects. We combine Fe K-edge X-ray absorption measurements with second-generation Car--Parrinello ab initio molecular dynamics and all-electron Gaussian and augmented-plane-wave simulations for an iron(II) N-heterocyclic carbene photosensitizer in acetonitrile solution and in the crystalline phase. Ensemble-averaged spectra reproduce the main near-edge features in both environments and preserve the experimentally observed similarity of the first Fe coordination shell upon dissolution. Comparison with radial distributions extracted from extended fine-structure measurements validates the Fe--N and Fe--C coordination shells sampled by the trajectories, while element-resolved pair distributions explain why higher-shell experimental contrast is rapidly lost. The same dynamical ensembles reveal a broad out-of-plane distribution of the terpyridine nitrogen atom and a nearly octahedral distribution of the Fe-centered coordination planes. The results show that finite-temperature X-ray absorption simulations can provide a compact structural-dynamics picture of molecular transition metal photosensitizers by linking local spectra, solvent-phase ligand motion, and medium-range structural disorder within one trajectory-based description.",
+  "authors": [
+   "Patrick Müller",
+   "Lorena Fritsch",
+   "Matthias Bauer",
+   "Thomas D. Kühne"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Patrick Müller",
+  "pdf_url": "http://arxiv.org/pdf/2606.10221",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10251": {
+  "abstract": "Metal phosphides have diverse bonding motifs and coordination environments, making them promising for optoelectronic and thermoelectric applications, but their chemical space remains underexplored. Here we report an AI-driven high-throughput discovery workflow that combines generative materials design, machine-learning interatomic potentials, and targeted density functional theory (DFT) calculations. ICSD-derived Wyckoff-site substitution and MatterGen-based conditional structure generation are used to expand the candidate space beyond existing phosphide databases. A domain-finetuned DPA3 machine-learning potential then enables efficient prescreening of thermodynamic and dynamical stability before DFT validation. This workflow identifies 3,574 previously unreported stable phosphide structures, including 196 semiconductors with HSE06 band gaps of 0-3.0 eV. By screening these new semiconductors together with experimentally known phosphide semiconductors, we identify 30 promising optoelectronic candidates and 26 promising thermoelectric candidates, including seven newly discovered optoelectronic materials and eight newly discovered thermoelectric materials. These results provide a candidate pool for experimental synthesis and show that combining generative AI with machine-learning interatomic potentials can accelerate the discovery of functional semiconductor materials.",
+  "authors": [
+   "Benhao Zhu",
+   "Muhammad Faizan",
+   "Zewei Li",
+   "Wenshuo Li",
+   "Feifei Ren",
+   "Jiahao Xie",
+   "Lijun Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "46 pages, 5 main figures; Supporting Information included",
+  "first_author": "Benhao Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2606.10251",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.11029": {
+  "abstract": "The widespread presence of synthetic progestins, such as levonorgestrel (LNG) and gestodene (GES), in aquatic environments poses significant ecotoxicological risks due to their endocrine-disrupting properties. In this study, nano-octahedral magnetite (Fe3O4-NO) was synthesized via a hydrothermal route and incorporated into gas diffusion electrodes (GDEs) supported on Vulcan XC72 to enhance the in-situ electrogeneration of hydrogen peroxide (H2O2). High-resolution transmission electron microscopy, X-ray diffraction, SEM, X-ray photoelectron spectroscopy, and contact angle measurements thoroughly characterized the physicochemical and morphological properties of the materials. The 3% Fe3O4-NO/C catalyst provided a two-fold increase in H2O2 selectivity compared with Vulcan XC72. Electrochemical performance was optimized using a 2^3 factorial design and principal component analysis (PCA), with current density, pH, and Na2SO4 concentration as variables. The optimized GDE (3% Fe3O4-NO/C) achieved a maximum H2O2 production of 0.44 +/- 0.02 g L-1 with a current efficiency of 43.1 +/- 0.23% and a specific energy consumption of 0.012 +/- 0.009 kWh g-1. The electrode was further applied to the degradation of LNG and GES using solar and anodic-assisted electro-Fenton processes. Under optimal conditions, over 70% removal of both progestins was achieved, with stable performance across three operational cycles. These findings demonstrate the potential of 3% Fe3O4-NO/C-GDEs as efficient, reusable cathodes for sustainable electrochemical advanced oxidation processes (EAOPs) in water treatment.",
+  "authors": [
+   "Juliana M. S. de Jesus",
+   "Caroline de O. Carrilho",
+   "João P. C. Moura",
+   "Aline B. Trench",
+   "Caroline C. Augusto",
+   "Bruno L. Batista",
+   "Mauro C. dos Santos"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.class-ph"
+  ],
+  "comment": null,
+  "first_author": "Juliana M. S. de Jesus",
+  "pdf_url": "http://arxiv.org/pdf/2606.11029",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-09",
+  "tags": [],
+  "title": "Fe3O4 Nano-octahedra/Vulcan XC72: Optimization and Combination with Solar-Based Electro-Fenton for Progestins Degradation",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-09"
  }
 }
