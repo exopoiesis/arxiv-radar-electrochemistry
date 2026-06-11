@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>adsorption — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <strong>90d</strong> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11973.html">Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Dominik Lüthi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11973">2606.11973</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -302,17 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14530.html">Gas sensing potential of stacked graphene/h-BN structures: a DFT-based investigation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Martin Siebel et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14530">2603.14530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11416.html">Atomic-Scale Mechanisms of SiO$_2$ Plasma-Enhanced Chemical Vapor Deposition Revealed by Molecular Dynamics with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jaehoon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11416">2603.11416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12424.html">Structural flexibility dictates reactivity of single-atom catalysts</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Jakub Planer et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12424">2603.12424</a></td>
 </tr>
 </tbody></table>

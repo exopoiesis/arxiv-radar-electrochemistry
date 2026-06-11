@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">813 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Isam A. Balghari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11785.html">Kohn-Sham models for encapsulated two-dimensional materials</a></div></td>
+<td>Éric Cancès et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11785">2606.11785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11873.html">Sonochemically Boosted Hydrogen Evolution Activity of Janus TMD Monolayers</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
+<td>Rayantan Sadhukhan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11873">2606.11873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11973.html">Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
+<td>Dominik Lüthi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11973">2606.11973</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -4880,17 +4904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13486.html">Leveraging active learning-enhanced machine-learned interatomic potential for efficient infrared spectra prediction</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nitik Bhatia et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13486">2506.13486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10506.html">Nudged-Elastic Band Calculations of Polymorph Transitions and Solid-State Reactions in Molecular Crystals</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
-<td>Natalia Goncharova et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10506">2410.10506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12931.html">Assessing Vibrational Frequencies of CO Adsorbed on Cerium Oxide Surfaces Using SCAN and r2SCAN Functionals</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Alexander Contreras-Payares et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12931">2506.12931</a></td>
 </tr>
 </tbody></table>

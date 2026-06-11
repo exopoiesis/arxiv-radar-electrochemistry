@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-stability — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <strong>30d</strong> <a href="phase-stability-90d.html">90d</a> <a href="phase-stability-360d.html">360d</a> <a href="phase-stability-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12067.html">Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Jhon Rogelnor A. Florida et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12067">2605.12067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08055.html">Anisotropic Defect Diffusion in Layered CsPbBr$_\mathrm{x}$I$_\mathrm{3-x}$ Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Konrad Wilke et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08055">2605.08055</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10636.html">Oxygen vacancies beyond the dilute limit in doped CaMnO3 perovskites and implications for screening materials in thermochemical applications</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Harender S. Dhattarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10636">2605.10636</a></td>
 </tr>
 </tbody></table>

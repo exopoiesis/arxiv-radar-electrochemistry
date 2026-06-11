@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vacancies — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <strong>90d</strong> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12898.html">Neutron-enhanced ion transport in cathode coating of Li-ion batteries</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
 <td>Ha M. Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12898">2603.12898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11469.html">Impact of Oxygen Vacancies in Josephson Junction on Decoherence of Superconducting Qubits</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hanqin Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11469">2603.11469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12042.html">RASP: Reliability ab initio simulation package of MOSFETs based on all-state model</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Xinjing Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12042">2603.12042</a></td>
 </tr>
 </tbody></table>

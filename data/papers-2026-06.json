@@ -1385,5 +1385,143 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-06-09"
+ },
+ "2606.11685": {
+  "abstract": "Resolving the instantaneous, position-dependent isotropic magnetic exchange coupling $J_{ij}$ across a dynamically deforming crystal lattice requires a computational approach that simultaneously handles structural forces and magnetic interactions at length scales inaccessible to first-principles methods. Here we introduce DSpinGNN, a bifurcated machine-learning architecture comprising an $E(3)$-equivariant graph neural network (E-GNN) for classical Langevin structural dynamics and a physics-informed $Δ$-MLP that maps instantaneous local Cr-I-Cr bond geometry to isotropic exchange couplings, with the Goodenough-Kanamori superexchange relationship embedded as an analytical inductive bias. Trained on 345 DFT+U configurations of monolayer CrI$_3$ and evaluated on a strictly withheld 61-configuration test set, DSpinGNN simultaneously achieves an energy MAE of $1.1$ meV/atom, a force MAE of $6.5$ meV/Å, and an exchange coupling MAE of $0.18$ meV ($R^2 = 0.91$). Deployed at 400$\\times$ scale in a 3,200-atom supercell under a collinear Ising-constrained adiabatic approximation at $5$ K, the model maps the local exchange response to a propagating biaxial strain wave. Wave reflection at periodic boundaries generates transient constructive interference regions where local compressive strain exceeds the DFT-established FM-to-AFM threshold, producing spatially heterogeneous exchange coupling textures that damp as the wave dissipates. Quantitative analysis yields a domain wall width of $ξ= 1.7 \\pm 0.3$~nm and a constructive-interference oscillation period of $τ= 0.27$~ps -- mesoscopic observables inaccessible to direct DFT and constituting testable predictions for cryogenic magnetic force microscopy. DSpinGNN provides a reproducible, transferable framework for mesoscale exchange mapping in strain-driven 2D magnetic materials.",
+  "authors": [
+   "Isam A. Balghari",
+   "M. Faryad",
+   "M. Sabieh Anwar"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Isam A. Balghari",
+  "pdf_url": "http://arxiv.org/pdf/2606.11685",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-06-10",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.11785": {
+  "abstract": "We study Kohn-Sham Density Functional Theory (DFT) models describing the electronic structure of two-dimensional materials placed in a three-dimensional environment, encapsulated between two parallel conducting electrodes. In this geometry, the Dirichlet boundary conditions at the electrodes screen the Coulomb interaction, which becomes effectively short-ranged, of Yukawa type. We prove that some nonlinear Kohn-Sham DFT models are well-posed in this setting, both for periodic materials (such as graphene) and for quasi-periodic materials (such as twisted bilayer graphene and other moiré materials for generic incommensurate twist angles).",
+  "authors": [
+   "Éric Cancès",
+   "David Gontier",
+   "Solal Perrin-Roussel"
+  ],
+  "categories": [
+   "math-ph"
+  ],
+  "comment": "32 pages",
+  "first_author": "Éric Cancès",
+  "pdf_url": "http://arxiv.org/pdf/2606.11785",
+  "primary_category": "math-ph",
+  "published": "2026-06-10",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Kohn-Sham models for encapsulated two-dimensional materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.11873": {
+  "abstract": "2D electrocatalysts that enable hydrogen evolution at low overpotentials offer an attractive alternative to expensive platinum-based systems. Here, we report the growth of Janus transition metal dichalcogenide (TMD) monolayers (MLs), SeMoS and SeWS, on Au foils using chemical vapor deposition, and systematically compare their catalytic properties in the context of hydrogen evolution reaction (HER) with those of their parent TMDs. The Janus MLs exhibited significantly enhanced catalytic performance relative to the parent TMDs. Furthermore, these MLs on Au foils were subjected to sonochemical treatment in polar and non-polar solvents, in which the treatment with polar solvents led to a substantial improvement in the HER activity of Janus MLs. In particular, SeMoS MLs treated with water showed a low overpotential of ~63 mV, a Tafel slope of ~42 mV/dec, and an exchange current density of ~10$^{-3}$ mA cm$^{- 2}$, approaching that of platinum. Analyses indicate that enhanced electrocatalytic activity is associated with tensile strain induced by Au surface restructuring and the formation of defects in Janus MLs, as shown by experimental observations and by density functional theory calculations. The enhancement in catalytic performance due to sonochemical treatment emphasizes the importance of our results for developing novel catalytic systems for HER based on Janus 2D materials.",
+  "authors": [
+   "Rayantan Sadhukhan",
+   "Md Tarik Hossain",
+   "Julian Picker",
+   "Mahdi Ghorbani-Asl",
+   "Christof Neumann",
+   "Arkady V. Krasheninnikov",
+   "Tharangattu N. Narayanan",
+   "Andrey Turchanin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rayantan Sadhukhan",
+  "pdf_url": "http://arxiv.org/pdf/2606.11873",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-10",
+  "tags": [
+   "density-functional-theory",
+   "electrocatalysis",
+   "hydrogen-evolution"
+  ],
+  "title": "Sonochemically Boosted Hydrogen Evolution Activity of Janus TMD Monolayers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.11973": {
+  "abstract": "Graphene nanoribbons (GNRs) synthesized on metal substrates experience electronic coupling and screening from the underlying surface, which, although often weak, can modify their observed properties and complicate their transfer to device-compatible substrates. Intercalation of GNRs by self-assembled monolayers (SAMs) offers a possible route to reduce this interaction. Here, we investigate the intercalation of 7-atom-wide armchair graphene nanoribbons (7-AGNRs) on Au(111) using N-heterocyclic carbenes (NHCs). Low-temperature scanning tunneling microscopy and spectroscopy, Raman spectroscopy, and density functional theory calculations reveal that the adsorption geometry of the NHCs strongly influences the intercalation yield for GNRs. Methyl-substituted NHCs form flat-lying dimers that partially intercalate the GNRs, producing locally decoupled segments. In contrast, bulkier isopropyl-substituted NHCs form upright monomers that embed the GNRs within the monolayer, preventing intercalation. The low intercalation yield indicates that lifting the nanoribbon from the Au surface is energetically costly. These results establish molecular adsorption geometry and packing as key parameters controlling intercalation at GNR-metal interfaces, with implications for the rational design of decoupling layers for GNR-based device integration pathways.",
+  "authors": [
+   "Dominik Lüthi",
+   "Lin Yang",
+   "Xiuling Yu",
+   "Ji Ma",
+   "Xinliang Feng",
+   "Carlo A. Pignedoli",
+   "Roman Fasel",
+   "Gabriela Borin Barin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "44 pages, 4 figures, Supporting Information included",
+  "first_author": "Dominik Lüthi",
+  "pdf_url": "http://arxiv.org/pdf/2606.11973",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-10",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12057": {
+  "abstract": "Redox-flow battery (RFB) research spans molecular design, electrolyte optimization, electrode and membrane materials, stack operation, system management, and safety analysis, making it a constrained, multi-scale, and multi-objective energy-storage R&D problem. Although large language models (LLMs) can support scientific knowledge integration and proposal generation, generic LLM reasoning remains insufficiently adaptive across innovation-oriented exploration, rule-based execution, mechanistic modeling, and system-level trade-offs. Here we introduce ChargeBD, a character-aware heterogeneous-agent reasoning framework for guided engineering in battery development. Starting from a 50-question RFB-specific task set, we construct a 500-question ESS-LLM Benchmark and define MBTI-inspired persona agents as structured cognitive-bias templates rather than psychometric instruments or representations of real personalities. DeepSeek-V3-Plus is selected as the shared base model, and 16 MBTI-inspired persona agents are evaluated to construct a persona capability matrix and a cognitive advantage matrix.",
+  "authors": [
+   "Rui Huang",
+   "Zekun Jiang",
+   "Xingyu Niu",
+   "Yuqiang Li",
+   "Xinying Gu",
+   "Tianhang Zhou"
+  ],
+  "categories": [
+   "stat.AP"
+  ],
+  "comment": null,
+  "first_author": "Rui Huang",
+  "pdf_url": "http://arxiv.org/pdf/2606.12057",
+  "primary_category": "stat.AP",
+  "published": "2026-06-10",
+  "tags": [],
+  "title": "ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-10"
  }
 }

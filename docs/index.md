@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-06-10._
+_Updated 2026-06-11._
 
-**3232** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3237** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,36 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/dft-u-30d.html">dft-u</a></div></td>
+<td>Isam A. Balghari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11785.html">Kohn-Sham models for encapsulated two-dimensional materials</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Éric Cancès et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11785">2606.11785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11873.html">Sonochemically Boosted Hydrogen Evolution Activity of Janus TMD Monolayers</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a></div></td>
+<td>Rayantan Sadhukhan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11873">2606.11873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11973.html">Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Dominik Lüthi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11973">2606.11973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12057.html">ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development</a></div></td>
+<td>Rui Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12057">2606.12057</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11029.html">Fe3O4 Nano-octahedra/Vulcan XC72: Optimization and Combination with Solar-Based Electro-Fenton for Progestins Degradation</a></div></td>
@@ -165,35 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04504.html">Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mingda Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2606.04504">2606.04504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04954.html">Triangular Charge-Density Waves (T-CDW) Stabilize Janus Group-VI Chalcogenide Hydrides</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chalcogenides-30d.html">chalcogenides</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04954">2606.04954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Qi-Jun Hong</td>
-<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05050.html">Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin</a></div><div class="paper-tags"><a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Zhilong Song et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05050">2606.05050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Jonathan S. Evarts et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
-<td>Yuyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
 </tr>
 </tbody></table>

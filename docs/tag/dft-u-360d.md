@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Isam A. Balghari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Yao Wei et al.</td>
@@ -320,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19682.html">The electronic structure of a doped Mott-Hubbard surface</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Mattia Iannetti et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19682">2506.19682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12931.html">Assessing Vibrational Frequencies of CO Adsorbed on Cerium Oxide Surfaces Using SCAN and r2SCAN Functionals</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Alexander Contreras-Payares et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12931">2506.12931</a></td>
 </tr>
 </tbody></table>

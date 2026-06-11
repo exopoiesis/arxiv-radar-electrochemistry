@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">230 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
+<td>Isam A. Balghari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11785.html">Kohn-Sham models for encapsulated two-dimensional materials</a></div></td>
+<td>Éric Cancès et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11785">2606.11785</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11873.html">Sonochemically Boosted Hydrogen Evolution Activity of Janus TMD Monolayers</a></div><div class="paper-tags"><a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a></div></td>
+<td>Rayantan Sadhukhan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11873">2606.11873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11973.html">Interfacial Coupling and Sparse Intercalation of 7-Atom-Wide Armchair Graphene Nanoribbons by N-Heterocyclic Carbene Monolayers</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
+<td>Dominik Lüthi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11973">2606.11973</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -1352,47 +1376,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12183.html">Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Abhinaba Basu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12183">2603.12183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06167.html">From Mono- to Hexa-Interstitials: Computational Insights into Carbon Defects in Diamond</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Nima Ghafari Cherati et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06167">2512.06167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11555.html">Suppression of local magnetic moment formation and paramagnetic exchange interactions in monolayer Fe$_3$GeTe$_2$</a></div></td>
-<td>A. A. Katanin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11555">2603.11555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11733.html">First-principles insights into the optoelectronic and thermoelectric properties of X3NbY4(X= Cu, Ag, Au; Y=S, Se, Te) sulvanite compounds for energy applications</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
-<td>Sadeya Sabnam Emo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11733">2603.11733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11769.html">ChemFit: A concurrent framework for model parametrization</a></div></td>
-<td>Moritz Sallermann et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11769">2603.11769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11878.html">Symmetry-Driven Floquet Engineering in Multivalley SnS</a></div></td>
-<td>Sotirios Fragkos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11878">2603.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12153.html">Irradiation-induced amplification of electric fields at oxide interfaces as revealed by correlative DPC-STEM and DFT</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="corrosion-90d.html">corrosion</a></div></td>
-<td>Elizabeth A. Peterson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12153">2603.12153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12424.html">Structural flexibility dictates reactivity of single-atom catalysts</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a></div></td>
-<td>Jakub Planer et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12424">2603.12424</a></td>
 </tr>
 </tbody></table>

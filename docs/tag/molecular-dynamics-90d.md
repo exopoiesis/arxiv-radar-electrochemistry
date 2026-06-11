@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,29 +1010,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14113.html">Analysis of Hydrogen Contamination in Al/AlOx/Al Josephson Junctions</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Yu Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14113">2603.14113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04546.html">A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations</a></div></td>
-<td>Akash K. Meel et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04546">2512.04546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11416.html">Atomic-Scale Mechanisms of SiO$_2$ Plasma-Enhanced Chemical Vapor Deposition Revealed by Molecular Dynamics with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Jaehoon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11416">2603.11416</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11469.html">Impact of Oxygen Vacancies in Josephson Junction on Decoherence of Superconducting Qubits</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Hanqin Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11469">2603.11469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11722.html">Melting of thin silicon films: a molecular dynamics study with two machine learning potentials</a></div></td>
-<td>Yu. D. Fomin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11722">2603.11722</a></td>
 </tr>
 </tbody></table>

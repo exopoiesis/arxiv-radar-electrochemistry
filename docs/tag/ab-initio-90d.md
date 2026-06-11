@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
+<td>Isam A. Balghari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09612.html">Revealing Wavelength- and Size-Dependent CO2 Reduction Selectivity via Operando Scanning Photo-Electrochemical Microscopy</a></div><div class="paper-tags"><a href="co2-reduction-90d.html">co2-reduction</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="formate-90d.html">formate</a></div></td>
@@ -740,29 +746,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14296.html">Ab Initio Transfer Length Method Simulations of Tunneling Limits in 2D Semiconductors</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Tae Hyung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14296">2603.14296</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06167.html">From Mono- to Hexa-Interstitials: Computational Insights into Carbon Defects in Diamond</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Nima Ghafari Cherati et al.</td>
-<td><a href="http://arxiv.org/abs/2512.06167">2512.06167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11469.html">Impact of Oxygen Vacancies in Josephson Junction on Decoherence of Superconducting Qubits</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Hanqin Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11469">2603.11469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12042.html">RASP: Reliability ab initio simulation package of MOSFETs based on all-state model</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Xinjing Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12042">2603.12042</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12153.html">Irradiation-induced amplification of electric fields at oxide interfaces as revealed by correlative DPC-STEM and DFT</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Elizabeth A. Peterson et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12153">2603.12153</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18206.html">Proton Irradiation of Primitive Atmospheres of Young Exoplanets and early Earth: $N_{\mathrm{2}}O$ Greenhouse Warming and Prebiotic Synthesis</a></div></td>
 <td>Kensei Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18206">2603.18206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17484.html">Islands of Electromagnetic Tranquility in Our Galactic core and Little Red Dots that Shelter Molecules and Prebiotic Chemistry</a></div></td>
-<td>Remo Ruffini et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17484">2509.17484</a></td>
 </tr>
 </tbody></table>
