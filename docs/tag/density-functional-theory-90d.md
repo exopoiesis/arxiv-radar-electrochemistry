@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div></td>
+<td>Oliver Russell et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13396.html">Polarizing ultrathin ferroelectric BaTiO3 films through interfacial layer polarization</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Ipek Efe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13396">2606.13396</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
 <td>Isam A. Balghari et al.</td>
@@ -1364,17 +1376,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14113.html">Analysis of Hydrogen Contamination in Al/AlOx/Al Josephson Junctions</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yu Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14113">2603.14113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20635.html">Reducing Self-Interaction Error in Transition-Metal Oxides with Different Exact-Exchange Fractions for Energy and Density</a></div></td>
-<td>Harshan Reddy Gopidi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20635">2506.20635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12183.html">Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Abhinaba Basu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12183">2603.12183</a></td>
 </tr>
 </tbody></table>

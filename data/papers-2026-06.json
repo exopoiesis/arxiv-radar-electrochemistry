@@ -1523,5 +1523,137 @@
    "Redox and Autocatalytic Electrochemical Networks"
   ],
   "updated": "2026-06-10"
+ },
+ "2606.12641": {
+  "abstract": "Photoelectrochemical (PEC) cells are a compelling route to solar-driven chemical energy storage and feedstock synthesis, yet their deployment is hindered by coupled losses spanning light absorption, carrier transport, interfacial charge transfer, and semiconductor-electrolyte matching. Existing models address these losses in an architecture-specific manner and fall short of quantitative experimental diagnosis or actionable design guidance. Here, we introduce a unified loss-analysis framework applicable to both built-in junction (BIJ) and semiconductor-electrolyte junction (SEJ) photoelectrodes within a consistent set of physically meaningful parameters. The framework delivers current-voltage curves and efficiency metrics under ideal and real conditions, constructing efficiency maps to delineate theoretical limits and material-selection windows. Critically, by fitting experimental current-voltage data, it enables quantitative energy-loss decomposition into thermodynamic, optical, recombination, and interfacial contributions, pinpointing performance bottlenecks in real devices and mapping them directly onto optimization strategies such as co-catalyst integration or nanostructuring. Energy flows are visualized through Sankey diagrams, providing an intuitive picture of how incident solar energy is absorbed, dissipated, or converted into chemical output. Validated against state-of-the-art literature results spanning solar water splitting, CO2 reduction, NH3 synthesis, and solar redox flow batteries, the framework further enables systematic comparison of photovoltaic-grade absorbers (e.g., Si, perovskites) with intermediate-bandgap semiconductors (e.g., hematite, BiVO4), identifying key factors limiting each material class. Together, these capabilities support a paradigm shift from empirical optimization to mechanism-informed rational design of high-efficiency PEC energy-conversion systems.",
+  "authors": [
+   "Ziyan Pan",
+   "Giulia Tagliabue"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "43 pages total: 19-page main text with 4 figures and 2 tables; 24-page Supplementary Information with 7 figures and 8 tables",
+  "first_author": "Ziyan Pan",
+  "pdf_url": "http://arxiv.org/pdf/2606.12641",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-10",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "From Loss Diagnosis to Rational Design: A Unified Analytical Model for Photoelectrochemical Cells",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12704": {
+  "abstract": "Adapting machine-learned interatomic potential (MLIP) foundation models to specialised tasks through fine-tuning is an increasingly important practice, yet systematic guidance on when and how to fine-tune is currently limited. We evaluate seven fine-tuning strategies -- naive full-parameter updates, two layer-freezing variants, Low-Rank Adaptation (LoRA), multihead replay, pseudolabelled replay, and replay combined with LoRA -- across five chemically diverse benchmarks (aqueous NaCl, ice polymorphs, S$_\\mathrm{N}$2 reactions, SPICE biomolecules, and lithium electrolytes), three generations of foundation models, and training sets spanning five orders of magnitude. To support this evaluation we implement three capabilities in the MACE codebase: LoRA adapted for equivariant message-passing architectures, including both scalar and equivariant linear layers; pseudolabelled replay, which decouples the replay data source from the original pretraining corpus; and model-aware atomic reference energy (E0) reestimation for fine-tuning workflows. We find that foundation model quality, correct E0 initialisation, and well-chosen hyperparameters are prerequisites whose impact routinely exceeds that of the fine-tuning strategy itself. Once these prerequisites are met, most strategies achieve strong target-task accuracy, consistently surpassing models trained from scratch. The practical distinction depends on deployment scope: naive fine-tuning offers the best convergence for single-system applications, while multihead replay -- with either original or pseudolabelled data -- is the only approach tested that consistently preserves out-of-distribution robustness, maintaining both pretraining-distribution accuracy for broader deployment and many-body short-range repulsion.",
+  "authors": [
+   "Tamás Lajos Tompa",
+   "Eszter Varga-Umbrich",
+   "Ilyes Batatia",
+   "Alin M. Elena",
+   "Noam Bernstein",
+   "Gábor Csányi"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Tamás Lajos Tompa",
+  "pdf_url": "http://arxiv.org/pdf/2606.12704",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-10",
+  "tags": [
+   "mace",
+   "mlip"
+  ],
+  "title": "Fine-tuning MLIP foundation models: strategies for accuracy and transferability",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.13117": {
+  "abstract": "Cable bacteria are multicellular bacteria capable of centimeter-scale conduction through a regular fiber network embedded in their cell envelope. The conductivity of these fibers is extremely high for biological materials, and rivals that of the best synthetic conductive polymers, but the underlying electron transport mechanism remains elusive. Recent microscopic and spectroscopic evidence indicates that each fiber embeds a bundle of intertwined nanoribbons as the conductive conduit. Each nanoribbon consists of a one-dimensional nickel-organic framework, built from stacked nickel bis(1,2-dithiolene) oligomers (NiBiD units) as molecular building blocks. Here we performed DFT calculations of nanoribbon model structures, in order to characterize their electronic properties, examine potential stacking configurations and verify whether these structures can support efficient conductance. Our simulations indicate that nanoribbons are comprised of tightly stacked AA or AB-type packings of NiBiD units. In the most energetically stable structure (AB-type) some Ni centers are predicted to be 5-fold coordinated due to formation of an inter-layer Ni-S coordination bond. In several energetically low-lying structures, the electronic coupling between neighboring molecules exceeds the critical threshold for charge delocalization permitting efficient charge transport beyond small polaron hopping. Our results hence reveal that nanoribbons based on NiBiD units exhibit favorable charge transfer properties that may explain the unusually high conductivities measured in the fibers of cable bacteria.",
+  "authors": [
+   "Oliver Russell",
+   "Martijn A. Zwijnenburg",
+   "Filip J. R. Meysman",
+   "Jochen Blumberger"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "42 pages, 5 main figures, 8 supporting figures, 5 supporting tables",
+  "first_author": "Oliver Russell",
+  "pdf_url": "http://arxiv.org/pdf/2606.13117",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-11",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13396": {
+  "abstract": "An important requirement for the integration of ferroelectric thin films into devices is deterministic control of the polarization state in films of only a few unit cells in thickness. Here, we utilize the charged atomic planes of (001)-oriented SmNiO$_3$ (SNO) buffer layers as a polarizing template to stabilize the polarization in ferroelectric BaTiO$_3$ (BTO) model system thin films. We show that an upwards (downwards) oriented polarization is achieved by selection of the [SmO]$^+$ ([NiO$_2$]$^-$) buffer termination. Most importantly, the charged atomic planes of SNO suppress the depolarizing-field-induced critical thickness in BTO, and we record the emergence of a net polarization in our BTO films from the first unit cell deposited. Our experiments, guided by density-functional-theory (DFT) calculations, further highlight the impact of charged defects on the polarizing effectiveness of the SNO buffer. Specifically, oxygen vacancies counteract the polarizing field of the negatively charged, [NiO$_2$]$^-$-terminated surface of the SNO buffer. Our findings provide important insights into the interplay of defect chemistry and polarizing interfaces to stabilize ferroelectric polarization down to the single-unit-cell limit.",
+  "authors": [
+   "Ipek Efe",
+   "Edith Simmen",
+   "Tobias Goldenberger",
+   "Manfred Fiebig",
+   "Nicola A. Spaldin",
+   "Morgan Trassin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ipek Efe",
+  "pdf_url": "http://arxiv.org/pdf/2606.13396",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-11",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Polarizing ultrathin ferroelectric BaTiO3 films through interfacial layer polarization",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13498": {
+  "abstract": "We investigate the population dynamics of surface-mediated autocatalytic processes, in which particles diffuse in a complex environment towards surface regions where they can be either killed or replicated. These opposite mechanisms compete with each other and lead to a sophisticated stochastic evolution of the population size. We provide a systematic analysis of the generating function of the population size. We also deduce its distribution, mean, variance and higher-order moments. For this purpose, we employ several equivalent descriptions of these quantities in terms of nonlinear integral equations and partial differential equations with nonlinear boundary conditions. We inspect the long-time behavior of the population dynamics in three regimes when the mean population size vanishes, reaches a steady-state level, or grows exponentially. A numerical solution of the underlying integral equations and independent Monte Carlo simulations support our theoretical predictions.",
+  "authors": [
+   "Denis S. Grebenkov",
+   "Yilin Ye"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "math-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Denis S. Grebenkov",
+  "pdf_url": "http://arxiv.org/pdf/2606.13498",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-11",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Population dynamics of surface-mediated autocatalytic processes",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-11"
  }
 }

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12704.html">Fine-tuning MLIP foundation models: strategies for accuracy and transferability</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Tamás Lajos Tompa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12704">2606.12704</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09901.html">On the Controllability-Fidelity Frontier in Diffusion Editing</a></div></td>
 <td>Yi Hu et al.</td>
@@ -332,11 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14700.html">Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>William J. Baldwin et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14700">2603.14700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12183.html">Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Abhinaba Basu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12183">2603.12183</a></td>
 </tr>
 </tbody></table>

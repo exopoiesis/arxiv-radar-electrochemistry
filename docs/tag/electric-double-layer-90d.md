@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electric-double-layer — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <strong>90d</strong> <a href="electric-double-layer-360d.html">360d</a> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22553.html">LPC3D: An Enhanced Parallel Software for Large-Scale Simulation of Adsorption in Porous Carbons and Supercapacitors</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>El Hassane Lahrar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22553">2603.22553</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13021.html">Dipolar solvent contributions for transient nanoscale electroosmotic flow</a></div></td>
-<td>Pramodt Srinivasula</td>
-<td><a href="http://arxiv.org/abs/2603.13021">2603.13021</a></td>
 </tr>
 </tbody></table>

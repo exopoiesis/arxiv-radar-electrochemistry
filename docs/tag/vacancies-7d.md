@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13396.html">Polarizing ultrathin ferroelectric BaTiO3 films through interfacial layer polarization</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Ipek Efe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13396">2606.13396</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09575.html">k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Miroslav Lebeda et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09575">2606.09575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28637.html">Excited States from Restricted Open Shell Plane-Wave DFT</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Michael J. Sahre et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28637">2605.28637</a></td>
 </tr>
 </tbody></table>

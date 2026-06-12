@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13396.html">Polarizing ultrathin ferroelectric BaTiO3 films through interfacial layer polarization</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Ipek Efe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13396">2606.13396</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09575.html">k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Miroslav Lebeda et al.</td>
@@ -1154,11 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24468.html">Decoupling Electric Field and Temperature-Driven Atomistic Forming Mechanisms in TaOx/HfO2-Based ReRAMs using Reactive Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Simanta Lahkar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.24468">2505.24468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02054.html">Grotthuss-type oxygen hole polaron transport in desodiated Na$_{2}$Mn$_3$O$_7$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="neb-360d.html">neb</a> · <a href="proton-transport-360d.html">proton-transport</a></div></td>
-<td>Ming Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2504.02054">2504.02054</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12704.html">Fine-tuning MLIP foundation models: strategies for accuracy and transferability</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
+<td>Tamás Lajos Tompa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12704">2606.12704</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03309.html">Unconventional crystallization pathway bypassing the intermediate cubic phase in phase-change superlattices</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Bai-Qian Wang et al.</td>
@@ -890,11 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15223.html">An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Jisu Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2506.15223">2506.15223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13486.html">Leveraging active learning-enhanced machine-learned interatomic potential for efficient infrared spectra prediction</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nitik Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13486">2506.13486</a></td>
 </tr>
 </tbody></table>

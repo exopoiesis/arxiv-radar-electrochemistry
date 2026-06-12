@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div></td>
+<td>Oliver Russell et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13396.html">Polarizing ultrathin ferroelectric BaTiO3 films through interfacial layer polarization</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Ipek Efe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13396">2606.13396</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
@@ -92,23 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07772.html">Machine learning assisted molecular dynamics of charge-transfer mechanisms at Li/Ga-doped Li$_7$La$_3$Zr$_2$O$_{12}$ (LLZO) interfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="neb-7d.html">neb</a></div></td>
 <td>Arseniy S. Burov et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07772">2606.07772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28637.html">Excited States from Restricted Open Shell Plane-Wave DFT</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Michael J. Sahre et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28637">2605.28637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Ashutosh Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06006">2606.06006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06015.html">Quantum computing for accurate large-scale electronic-structure calculations: DFT-embedded, post-processed quantum-selected configuration interaction</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a></div></td>
-<td>Tuan Minh Do et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06015">2606.06015</a></td>
 </tr>
 </tbody></table>

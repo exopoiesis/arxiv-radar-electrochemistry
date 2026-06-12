@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neb — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <strong>30d</strong> <a href="neb-90d.html">90d</a> <a href="neb-360d.html">360d</a> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="reaction-networks-30d.html">reaction-networks</a></div></td>
 <td>Rémi Schlama et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22990">2605.22990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Michael Bühler et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
 </tr>
 </tbody></table>

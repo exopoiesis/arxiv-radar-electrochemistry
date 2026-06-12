@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-06-11._
+_Updated 2026-06-12._
 
-**3237** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3242** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Oliver Russell et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13396.html">Polarizing ultrathin ferroelectric BaTiO3 films through interfacial layer polarization</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Ipek Efe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13396">2606.13396</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13498.html">Population dynamics of surface-mediated autocatalytic processes</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
+<td>Denis S. Grebenkov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13498">2606.13498</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/dft-u-30d.html">dft-u</a></div></td>
@@ -45,6 +63,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12057.html">ChargeBD: Character-Aware Heterogeneous Agent Reasoning for Guided Engineering in Battery Development</a></div></td>
 <td>Rui Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12057">2606.12057</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12641.html">From Loss Diagnosis to Rational Design: A Unified Analytical Model for Photoelectrochemical Cells</a></div><div class="paper-tags"><a href="tag/co2-reduction-30d.html">co2-reduction</a></div></td>
+<td>Ziyan Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12641">2606.12641</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12704.html">Fine-tuning MLIP foundation models: strategies for accuracy and transferability</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Tamás Lajos Tompa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12704">2606.12704</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -165,35 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06006.html">Influence of DFT Functionals on Low-Energy Electron Scattering Cross Sections of Nitric Oxide</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Ashutosh Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06006">2606.06006</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06015.html">Quantum computing for accurate large-scale electronic-structure calculations: DFT-embedded, post-processed quantum-selected configuration interaction</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Tuan Minh Do et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06015">2606.06015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06289.html">Optical Signature of Moiré Superlattices Formed by Twisted SrTiO$_3$ Membranes</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>T. A. M. Ragib Shahriar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06289">2606.06289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06691.html">Ultraviolet Radiation Effects on the Optical Properties of Water-Dominated Exoplanet Hazes</a></div><div class="paper-tags"><a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
-<td>Lori Huseby et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06691">2606.06691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06706.html">Plasticity of Neutron Star Crusts</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Matthew E Caplan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06706">2606.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04504.html">Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Mingda Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04504">2606.04504</a></td>
 </tr>
 </tbody></table>

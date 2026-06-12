@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12704.html">Fine-tuning MLIP foundation models: strategies for accuracy and transferability</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a></div></td>
+<td>Tamás Lajos Tompa et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12704">2606.12704</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03309.html">Unconventional crystallization pathway bypassing the intermediate cubic phase in phase-change superlattices</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Bai-Qian Wang et al.</td>
@@ -290,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17194.html">$\textit{Ab initio}$ Identification of Hydrogen Tunneling as Two-Level Systems in Nb$_2$O$_5$ and Ta$_2$O$_5$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Cristóbal Méndez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17194">2603.17194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12183.html">Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
-<td>Abhinaba Basu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12183">2603.12183</a></td>
 </tr>
 </tbody></table>
