@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,17 +998,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15846.html">Transfer Learning Meets Embedded Correlated Wavefunction Theory for Chemically Accurate Molecular Simulations: Application to Calcium Carbonate Ion-Pairing</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-pairing-90d.html">ion-pairing</a></div></td>
 <td>Xuezhi Bian et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15846">2603.15846</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.13705.html">Revealing Hydroxide Ion Transport Mechanisms in Commercial Anion-Exchange Membranes at Nano-Scale from Machine-learned Interatomic Potential Simulations</a></div><div class="paper-tags"><a href="grotthuss-90d.html">grotthuss</a> · <a href="hydroxide-transport-90d.html">hydroxide-transport</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2603.13705">2603.13705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14113.html">Analysis of Hydrogen Contamination in Al/AlOx/Al Josephson Junctions</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Yu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14113">2603.14113</a></td>
 </tr>
 </tbody></table>
