@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>aimd — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <strong>30d</strong> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <a href="aimd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21720.html">A Force-Kernel Reformulation of the Extended-System Adaptive Biasing Force for Free-Energy Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Christopher Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21720">2605.21720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Wael Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
 </tr>
 </tbody></table>

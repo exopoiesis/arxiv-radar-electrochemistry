@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">477 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2876,17 +2876,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00770.html">Dynamic Competition Between Hubbard and Superexchange Interactions Selectively Localizes Electrons and Holes Through Polarons</a></div></td>
 <td>Jocelyn L. Mendes et al.</td>
 <td><a href="http://arxiv.org/abs/2411.00770">2411.00770</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05422.html">Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="marcasite-360d.html">marcasite</a></div></td>
-<td>Yue-Fei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05422">2502.05422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15223.html">An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Jisu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15223">2506.15223</a></td>
 </tr>
 </tbody></table>

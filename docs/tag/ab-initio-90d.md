@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,11 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15343.html">Ab Initio Study of Erbium Point Defects in 4H-SiC for Quantum Devices</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Michael Kuban</td>
 <td><a href="http://arxiv.org/abs/2603.15343">2603.15343</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14296.html">Ab Initio Transfer Length Method Simulations of Tunneling Limits in 2D Semiconductors</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Tae Hyung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14296">2603.14296</a></td>
 </tr>
 </tbody></table>

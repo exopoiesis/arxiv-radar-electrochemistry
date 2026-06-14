@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>marcasite — 360d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="marcasite-7d.html">7d</a> <a href="marcasite-30d.html">30d</a> <a href="marcasite-90d.html">90d</a> <strong>360d</strong> <a href="marcasite-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13057.html">Dimensional crossover and emergence of novel phases in puckered PdSe$_2$ under pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="pyrite-360d.html">pyrite</a></div></td>
 <td>Tanima Kundu et al.</td>
 <td><a href="http://arxiv.org/abs/2501.13057">2501.13057</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05422.html">Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Yue-Fei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05422">2502.05422</a></td>
 </tr>
 </tbody></table>

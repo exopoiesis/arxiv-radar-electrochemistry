@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">812 papers</span>
+  <span class="paper-count">810 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4874,17 +4874,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14026.html">Theoretical investigation of interface atomic structure of graphene on NiFe alloy substrate</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Naohiro Matsumoto et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14026">2505.14026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05422.html">Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="marcasite-360d.html">marcasite</a></div></td>
-<td>Yue-Fei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05422">2502.05422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15275.html">Ultra-low-resistivity nitrogen-doped p-type Cu2O thin films fabricated by reactive HiPIMS</a></div></td>
-<td>Jiří Rezek et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15275">2506.15275</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.21165.html">Bayesian Selection for Efficient MLIP Dataset Selection</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
 <td>Thomas Rocke et al.</td>
 <td><a href="http://arxiv.org/abs/2502.21165">2502.21165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15223.html">An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Jisu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15223">2506.15223</a></td>
 </tr>
 </tbody></table>

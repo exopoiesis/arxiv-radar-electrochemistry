@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <strong>30d</strong> <a href="impedance-spectroscopy-90d.html">90d</a> <a href="impedance-spectroscopy-360d.html">360d</a> <a href="impedance-spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17334.html">Causal Anomaly Detection for Lithium-Ion Battery Degradation</a></div></td>
 <td>Dieter W. Heermann et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17334">2605.17334</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15351.html">Lie Generator Networks Extract EIS-Grade Battery Diagnostics from Pulse Relaxation Data</a></div></td>
-<td>Shafayeth Jamil et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15351">2605.15351</a></td>
 </tr>
 </tbody></table>
