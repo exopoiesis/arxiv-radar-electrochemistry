@@ -1655,5 +1655,191 @@
    "Redox and Autocatalytic Electrochemical Networks"
   ],
   "updated": "2026-06-11"
+ },
+ "2606.13738": {
+  "abstract": "The emergence of biological complexity can be viewed as a transition from fragmented local interactions to extensive integrated organization, raising the question of how large-scale connectivity emerges from simple interacting elements. We investigated whether this transition can be understood as a consequence of hypergraph percolation driven by higher-order interactions. We performed computational simulations where elementary units constituted nodes and collective interactions formed hyperedges of variable size. Increasing hyperedge density enabled the characterization of connected-component growth, fragmentation, interaction overlap, participation and structural redundancy. Critical transition regions were identified as sparse local assemblies rapidly reorganized into extensive connected structures. These transitions were characterized by abrupt expansion of the largest connected component, progressive consolidation of previously disconnected clusters and increasing overlap among higher-order interactions. Connectivity growth was accompanied by the accumulation of alternative pathways and nested interaction patterns, pointing towards large-scale reorganization over a narrow range of interaction densities. Our findings suggest that, alongside the progressive evolution of molecular complexity, the origin of life and the emergence of biological organization may have involved rapid organizational transitions driven by higher-order connectivity and interaction architecture.",
+  "authors": [
+   "Arturo Tozzi"
+  ],
+  "categories": [
+   "q-bio.OT"
+  ],
+  "comment": "11 pages, 2 figures",
+  "first_author": "Arturo Tozzi",
+  "pdf_url": "http://arxiv.org/pdf/2606.13738",
+  "primary_category": "q-bio.OT",
+  "published": "2026-06-11",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "From simple interactions to complex biology: a hypergraph percolation perspective",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13833": {
+  "abstract": "Reducible oxides exhibit a rich interplay of electronic, structural, and chemical properties that underpins applications in catalysis, photovoltaics, batteries, and energy storage. This interplay is strongly shaped by excess electrons, often introduced by oxygen vacancies, that localize as small polarons and influence charge transport and surface chemistry. At surfaces, these polarons play a central role in charge localization, mobility, and reactivity, yet their finite-temperature dynamics remain difficult to access from first principles. Ab initio molecular dynamics is typically limited to picosecond time scales, precluding statistically meaningful sampling of polaron hopping dynamics. To overcome this limitation, we extend machine-learning-assisted polaron dynamics [V. Birschitzky et al., Phys. Rev. Lett. 134, 216301 (2025)] to redox-active oxide surfaces, using oxygen-deficient rutile TiO2(110) as a paradigmatic case. By accessing several nanoseconds of dynamics over a range of temperatures, we show that small-polaron mobility at the reduced rutile TiO2(110) surface is suppressed by several orders of magnitude relative to the corresponding bulk material, providing a microscopic interpretation of the lower electron mobilities observed in porous rutile TiO2 compared with single-crystal samples. This suppressed mobility arises from the loss of favorable hopping pathways: surface polaron motion is largely confined to planar inter-row trajectories within the second topmost layers, with only rare interlayer hopping events. Oxygen vacancies further reshape the polaron free-energy landscape by acting as attractive centers for excess electrons, biasing the polaron distribution toward nearby Ti sites and promoting occasional charge transfer to the outermost surface layer. These results establish a transferable machine-learning strategy for investigating polaron dynamics in reducible oxides.",
+  "authors": [
+   "Luca Leoni",
+   "Cesare Franchini"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Luca Leoni",
+  "pdf_url": "http://arxiv.org/pdf/2606.13833",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-11",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Machine-learned dynamics of surface polarons at reduced oxide surfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13917": {
+  "abstract": "Metastable states and their minimum energy pathways (MEPs) are central to understanding transformations and phase stability in complex materials, yet mapping transition pathways between competing states remains computationally demanding and experimentally challenging. Here, we introduce a hybrid solid-state nudged elastic band (SSNEB) framework that integrates two pretrained machine learning models, EquiformerV2 (eqV2) and the equivariant Smooth Energy Network (eSEN), with DFT for energy, force, and stress evaluations. Applied to three solid-state systems, CsPbI$_3$, GaN, and TiO$_2$, our framework achieves up to a 7-fold speedup while converging to the same pathways predicted by first-principles calculations. Moreover, the hybrid SSNEB framework enables systematic benchmarking of existing ML models, providing both efficiency and reliability for predicting MEPs across various materials.",
+  "authors": [
+   "Yu Zhang",
+   "Guanzhi Li",
+   "Minkyung Han",
+   "Sean Gasiorowski",
+   "Daniel Ratner",
+   "Chunjing Jia",
+   "Yu Lin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yu Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.13917",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-11",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "neb",
+   "phase-stability"
+  ],
+  "title": "Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.14118": {
+  "abstract": "Li$_2$CO$_3$ (LC) is a cornerstone material for clean energy technologies, including high-temperature molten carbonate fuel cells, electrochemical carbon capture, and lithium-based batteries. However, capturing the complex, many-body interactions governing the structure and transport in LC in its molten state has remained a challenge, constrained by the computational cost of \\textit{ab initio} methods and the accuracy limitations of classical force fields. To address this gap, we deploy equivariant graph-based machine learned interatomic potentials, specifically, the multi atomic cluster expansion (MACE) and neural equivariant interatomic potential (NequIP) architectures that are trained on melt-quench \\textit{ab initio} molecular dynamics data. Our benchmarking demonstrates that MACE provides superior transferability and precision in predicting energies and forces compared to NequIP. Subsequently, we use the optimized MACE model to perform large-scale molecular dynamics simulations to probe the properties of molten LC. Besides describing the structural features, such as the dominant presence of C-O pair correlations under molten conditions, our MACE model reproduces experimentally-measured static structure factors and shear viscosity values. Further, our simulations indicate that Li transport in LC is fundamentally dominated by concerted motion, as evidenced by Haven's ratios being significantly below unity (0.20-0.40). Notably, we identify a temperature-driven transition from anisotropic (and highly concerted) Li transport, supported by persistent oxygen-centered Voronoi cages at 1000~K, to isotropic (and less concerted) diffusion at 1400~K. Thus, we provide fundamental insights into the structural and transport properties of molten LC and also demonstrate a robust and scalable framework for the accelerated design of molten salt electrolytes and ionic liquids.",
+  "authors": [
+   "Debsundar Dey",
+   "Abhirup Patra",
+   "Anand Narayanan Krishnamoorthy",
+   "Gopalakrishnan Sai Gautam"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Debsundar Dey",
+  "pdf_url": "http://arxiv.org/pdf/2606.14118",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-12",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Probing Structure and Ionic Transport in Molten Lithium Carbonate",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14133": {
+  "abstract": "We study the collective dynamics of independent particles that diffuse outside a spherical surface, on which they are replicated with a prescribed catalytic rate. In spatial dimensions three and higher, the transient nature of diffusion creates the competition between autocatalytic and escape events, thus leading to a rich phase diagram between subcritical (extinction), critical (steady-state), and supercritical (growth) regimes at long times. The rotational symmetry of the domain and an explicit form of the single-particle diffusion propagator allow us to obtain the statistics of the population size (i.e., the number of particles). In this way, we analyze the mean population size, its variance and higher-order moments, as well as the full distribution. In particular, we obtain a fully explicit form of the distribution at long times and describe a slow, power-law approach to this steady-state limit.",
+  "authors": [
+   "Denis S. Grebenkov"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Denis S. Grebenkov",
+  "pdf_url": "http://arxiv.org/pdf/2606.14133",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-12",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Diffusion-driven autocatalytic dynamics on a sphere",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14328": {
+  "abstract": "Simulating high-enthalpy fractured geothermal reservoirs is challenging due to the complex coupled processes of non-isothermal, multiphase, multicomponent flow, strongly nonlinear thermodynamics, and the dominant role of fractures. These complexities are amplified by mineral scaling, such as halite precipitation, which can impair reservoir permeability and well productivity. To address this, we present a new compositional flow model based on a persistent set of primary variables (pressure, enthalpy, and overall salt mass fraction). The formulation naturally handles phase transitions without manual switching, enhancing numerical stability. The model integrates a discrete fracture-matrix approach and employs an efficient, robust correlation-based phase-behaviour linearisation of saltwater thermodynamics, replacing expensive on-the-fly phase separation calculations. It incorporates the Kozeny-Carman relation to dynamically model porosity and permeability reduction from halite precipitation. Implemented in the open-source PorePy framework, the model is verified through a 1D salt dissolution benchmark against the established closed-source simulator CSMP++, showing strong agreement across geothermal conditions involving transitions between single- and multi-phase regions. Application to a 2D halite-saturated fractured reservoir with injection and production demonstrates the model's capability to predict halite precipitation patterns and their impact on permeability damage and energy recovery. Numerical results further show the model's value in predicting operational challenges such as wellbore blockage and the role of fracture connectivity. The model thus provides an open-source numerical tool for analysing complex heat and mass transport with mineral scaling in high-enthalpy fractured geothermal systems.",
+  "authors": [
+   "Micheal B. Oguntola",
+   "Omar Duran",
+   "Eirik Keilegavlen",
+   "Inga Berre"
+  ],
+  "categories": [
+   "math.NA",
+   "math-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "29 pages, 18 figures. Accepted for oral presentation at CMWR 2026 (University of Bologna). Reproducibility docker image is available: doi.org/10.5281/zenodo.20578448",
+  "first_author": "Micheal B. Oguntola",
+  "pdf_url": "http://arxiv.org/pdf/2606.14328",
+  "primary_category": "math.NA",
+  "published": "2026-06-12",
+  "tags": [
+   "phase-transitions"
+  ],
+  "title": "Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14624": {
+  "abstract": "Numerous transition-metal oxides have low-temperature antiferromagnetic (AFM) states and high-temperature paramagnetic (PM) phases, where the AFM state is usually insulating while the PM phase can be either insulating or metallic. Without involving strong correlation, we use symmetry-broken density-functional theory (DFT) to obtain the PM phases of insulating NaFeO3 vs the recently discovered metallic NaOsO3. We develop the understanding of insulating and metallic behaviors in paramagnetic oxides by analyzing the interactions between magnetic and positional symmetry breaking: The insulating gap is governed by the competition between the spin disorder that induces a distribution of different magnitudes of local magnetic moments and the polymorphous distribution of off-center atomic displacements. NaFeO3, on the other hand, has large positional displacement with small spin-disorder-induced moments distribution, leading to insulating PM phase, whereas NaOsO3 has a pronounced spin-disorder-induced moments distribution that forces the PM phase to become metallic. Our work identifies this symmetry-breaking competition as a general framework to bridge seemingly disparate metal-insulator behaviors in transition-metal oxides paramagnets without invoking strong correlation.",
+  "authors": [
+   "Jia-Xin Xiong",
+   "Xiuwen Zhang",
+   "Alex Zunger"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci",
+   "quant-ph"
+  ],
+  "comment": "15 pages, 4 figures, 1 table",
+  "first_author": "Jia-Xin Xiong",
+  "pdf_url": "http://arxiv.org/pdf/2606.14624",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-12",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Spin disorder competing with positional symmetry breaking governs the metal-insulator behavior in oxide paramagnets",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-12"
  }
 }

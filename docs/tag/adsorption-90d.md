@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>adsorption — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <strong>90d</strong> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17868.html">Substrate-controlled nucleation and growth kinetics in ultrathin Bi$_2$Te$_3$ films</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
 <td>Damian Brzozowski et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17868">2603.17868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.07770.html">A DFT study of B-doped graphene as a metal-anchor: effects of oxidation and strain</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Nikola Veličković et al.</td>
-<td><a href="http://arxiv.org/abs/2601.07770">2601.07770</a></td>
 </tr>
 </tbody></table>

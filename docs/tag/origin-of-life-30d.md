@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13738.html">From simple interactions to complex biology: a hypergraph percolation perspective</a></div></td>
+<td>Arturo Tozzi</td>
+<td><a href="http://arxiv.org/abs/2606.13738">2606.13738</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06691.html">Ultraviolet Radiation Effects on the Optical Properties of Water-Dominated Exoplanet Hazes</a></div></td>
 <td>Lori Huseby et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26152.html">White dwarf planetary systems in the ultraviolet</a></div></td>
 <td>Jamie Williams et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26152">2605.26152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15595.html">Could life have been transferred from Mars to Earth? Laboratory and computational simulations of Martian ejecta</a></div></td>
-<td>Gregory M. Davis et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15595">2605.15595</a></td>
 </tr>
 </tbody></table>
