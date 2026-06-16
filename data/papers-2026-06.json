@@ -1841,5 +1841,327 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-06-12"
+ },
+ "2606.14797": {
+  "abstract": "We construct a three-layer reaction-diffusion model of an autocatalytic chemical system in which raw molecules ($a_i$), catalytic proteins ($p_l$) and large RNA/protein ``genes'' ($W_p^{(k)}$) interact through a mass-action stoichiometry tensor $\\mathrm{Coef}_{ijk}$ whose magnitude is modulated by the fold-stable activity of the largest polymers.Mass-action is broken by an $ε$-noise term so that the system is nonequilibrium. We compute the total entropy production $σ(t)$, the genetic Shannon entropy $S_\\mathrm{gene}$ and the thermodynamic uncertainty relation (TUR) and thermodynamic speed limit (TSL) bounds on growth and evolution rates. The hierarchical model exhibits the expected co-occurrence of $σ_\\mathrm{env}\\!\\uparrow$ and $S_\\mathrm{gene}\\!\\downarrow$ predicted by Schrodinger's negentropy argument and reformulated as maximum-entropy-production-principle (MEPP)-driven adaptation. In contrast to a single kinetic-proofreading-like cycle, whose TUR products of $\\sim 5$, matching the experimentally reported regime of the ribosome.The hierarchical model's TUR product sits $10^4$-$10^5$ above the universal bound of 2, and the TSL ratio sits $10^6$-$10^8$ above its bound of 1. And scaling number of molucules leaves the looseness intact for the hierarchical model but tightens it monotonically with particle number for the minimal model. We close by drawing an explicit correspondence between the autocatalytic system and diffusion-model training: $a_\\mathrm{ext} \\to a$ flux $ \\Leftrightarrow $ data-information flow, $ \\tanh(βWp - θ) $ $\\Leftrightarrow$ score network, replication noise $\\Leftrightarrow$ forward-diffusion noise, $ S_\\mathrm{gene} \\searrow $ $\\Leftrightarrow$ $ H[q(θ|\\mathcal{D})] \\searrow $. All code and figures are available https://github.com/xiangze/DiverseCells/Hier_Autocatalysis",
+  "authors": [
+   "Yoshinori Watanabe"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "q-bio.PE"
+  ],
+  "comment": null,
+  "first_author": "Yoshinori Watanabe",
+  "pdf_url": "http://arxiv.org/pdf/2606.14797",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-06-11",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Hierarchical Autocatalytic Systems as a Bridge between Maximum Entropy Production and Bayesian Posterior Contraction: A Numerical Study with Stochastic-Thermodynamic Bounds",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.14814": {
+  "abstract": "The Materials Science and Engineering ontology landscape is fragmented along multiple axes simultaneously. Horizontally: a recent survey identified 94 ontologies of which over 40 are structurally incompatible; each new application domain -- ceramics, polymers, batteries, smart materials -- typically restarts ontology design from scratch. Vertically: EU regulation (CSRD, CSDDD, PPWR, CBAM, R2R, AI Act, ESPR) forces material, manufacturing, supply-chain, and lifecycle data into integrated digital product passports, leaving ontologies that only address horizontal fragmentation incomplete for any contemporary consumer. And mechanistically: a vocabulary that records that BNT-BT has $d_{33} \\approx 580$ pC/N stores a fact but cannot surface why -- Bi-6s$^2$ lone-pair stereo-activity, anomalous Born effective charges, soft modes, defect chemistry -- without a systematic explanation skeleton. We propose a multi-level modular architecture with two independent classification axes -- level of abstraction (L0 bridges, L1 material-agnostic laboratory-notebook, L2 material-class-specific, L3 categorical reasoning) and consumer audience (material vs. compliance) -- in which the material-specific level is internally organised by a seven-tier mechanistic-explanation skeleton (Symmetry, Energy/DFT, Thermo/CALPHAD, Kinetics, Microstructure, Defect chemistry, Bonding) applicable to any crystalline ionic oxide. The level-and-audience modularity dissolves the horizontal fragmentation, the compliance audience absorbs the vertical regulation pressure, and the seven-tier organisation of Level 2 delivers the mechanistic explanation depth. We instantiate the architecture as the OntoCrafter Ceramics Ontology (OCO v0.94): 5,196 classes across 44 modules; 167,348 OWL axioms (40,454 logical); 1,674 properties; 829 cross-ontology bridge mappings; 1,172 SHACL shapes; 163 published competency questions.",
+  "authors": [
+   "Thomas Pannek",
+   "Wolfgang Grond"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "physics.app-ph",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "3 figures, 55 pages",
+  "first_author": "Thomas Pannek",
+  "pdf_url": "http://arxiv.org/pdf/2606.14814",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-12",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "A Multi-Level Architecture for Reusable Materials Ontologies -- The OntoCrafter Ceramics Ontology (OCO) as Reference Implementation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14938": {
+  "abstract": "The oxygen evolution reaction (OER) on perovskite oxides is controlled by the interplay of dopant chemistry, defect charge states, and surface segregation, yet these factors are rarely treated on equal footing. Using first-principles density functional theory, we investigate how Fe dopants (\\FeTi{}) and oxygen vacancies (\\VO{}) in different charge states affect the OER on TiO$_2$-terminated \\ce{SrTiO3}(001). We combine charge-dependent defect formation energies, segregation energies, and charge transition levels with OER free-energy profiles obtained in the computational hydrogen electrode framework. Neutral \\FeTix{} preserves near-pristine activity, with overpotentials of $0.43$--$0.48$~V compared to $0.45$~V for the pristine surface, whereas the reduced states \\FeTip{} and \\FeTipp{} raise the overpotential to as much as $1.35$~V when intermediates bind to Ti sites adjacent to surface Fe. Oxygen vacancies segregate to the surface across the entire band gap ($ΔE_\\mathrm{seg} = -0.50$ to $-0.80$~eV) but do not improve the activity: \\VOx{} and \\VOp{} overstabilize oxygenated intermediates ($η$ up to $2.13$~V), and only \\VOpp{} retains a balanced pathway ($η= 0.45$~V in the bulk-like region). Because the stable charge state and the segregation tendency of each defect are set by the Fermi level, the OER overpotential itself becomes a Fermi-level-dependent quantity. These results establish Fermi-level engineering as a framework for assessing and tuning defect-mediated OER activity in perovskite oxides.",
+  "authors": [
+   "Amit Sehrawat",
+   "Jochen Rohrer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Amit Sehrawat",
+  "pdf_url": "http://arxiv.org/pdf/2606.14938",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-12",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "oxygen-evolution",
+   "vacancies"
+  ],
+  "title": "Fermi-Level-Dependent Defect Chemistry and Oxygen Evolution Reaction Activity of Fe-Doped and Oxygen-Deficient \\ce{SrTiO3}(001)",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.15001": {
+  "abstract": "Foundation machine learning interatomic potentials (MLIPs) have enabled atomistic simulations across broad regions of chemical and materials space, but many remain computationally expensive and lack explicit electrostatics, limiting their use for systems governed by long-range interactions and electrical response. Previously, we introduced Latent Ewald Summation (LES), which learns latent atomic charges and long-range electrostatics from density functional theory (DFT) energy and force labels alone. Here, we use LES to extract electrostatics that are latent in foundation models: energies and forces predicted by a teacher model are used to train a lightweight LES-augmented student MLIP, with optional fine-tuning on additional DFT data. The resulting models reduce computational cost while providing access to Born effective charge tensors, and infrared spectra. We benchmark student models distilled from a broad set of foundation MLIPs, including UMA, MACE, Orb, eSEN, GemNet-OC, PET, and EquiformerV2-based models, against experimental infrared spectra for liquid water, concentrated hydrochloric acid, and the anatase TiO2(101)-water interface. Across these systems, electrostatic response can be extracted from most foundation MLIPs. The benchmark further shows that the underlying DFT level and dataset used to train the teacher model play a larger role than architecture in determining electrostatic and spectroscopic accuracy. For the TiO2-water interface, fine-tuning with a modest amount of higher-level DFT data improves structural and infrared predictions. LES-based distillation therefore provides a practical route for converting foundation MLIPs into efficient, electrically responsive models, while also testing the physical fidelity encoded in foundation models.",
+  "authors": [
+   "Xiaoyu Wang",
+   "Bingqing Cheng"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiaoyu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.15001",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-12",
+  "tags": [
+   "density-functional-theory",
+   "explicit-solvation",
+   "mace",
+   "mlip"
+  ],
+  "title": "Distilling latent electrostatics from foundation machine learning interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.15038": {
+  "abstract": "Accurate time-to-event (TTE) prediction from multimodal clinical data remains challenging due to modality imbalance and distribution shift. We introduce a foundation model-driven framework for cross-modal representation alignment between CT imaging and longitudinal EHR data, designed to generalize across tasks and institutions. CT and EHR modalities are encoded independently using domain-specific foundation models and aligned in a shared latent space through four principled fusion strategies: late fusion, contrastive alignment, cross-attention, and co-attention. We evaluate two clinically distinct TTE tasks: pulmonary embolism (PE) mortality and cardiovascular disease (CVD) outcomes, on large-scale multi-institutional cohorts (PE: N=3,099 train; 1,098 internal; 435 external; CVD: N=2,951 train; 837 internal; 682 external). Fusion consistently improves concordance index by 1.5-5.4% over unimodal baselines when modalities contribute comparably. Overall, contrastive multimodal fusion, particularly with CLMBR representations, provided the most consistent and statistically robust improvements, especially for PE mortality prediction. For MACE, cross-attention (one-hot) achieved the highest internal performance and image-guided co-attention achieved the best external performance. We therefore introduce a generalizable foundation model-based cross-modal alignment framework and provide the first systematic analysis of fusion behavior under modality imbalance in TTE prediction. Our results establish task-aware multimodal alignment as a necessary design principle for robust generalization and scalable clinical deployment.",
+  "authors": [
+   "Zhemin Zhang",
+   "Weijie Chen",
+   "David Le",
+   "Amara Tariq",
+   "Alex Wallace",
+   "Matthew Stib",
+   "Juan Maria Farina",
+   "Chadi Ayoub",
+   "Reza Arsanjani",
+   "Imon Banerjee"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhemin Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.15038",
+  "primary_category": "cs.AI",
+  "published": "2026-06-13",
+  "tags": [
+   "mace"
+  ],
+  "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-13"
+ },
+ "2606.15477": {
+  "abstract": "We present a Bayesian universal beamforming framework for adaptive array processing in dynamic underwater acoustic environments with unknown and time-varying propagation geometry. Motivated by ideas from universal prediction and estimation, the proposed approach discretizes the angular domain into a finite set of steering hypotheses and recursively computes posterior probabilities over competing spatial models using observation-dependent likelihood functions. For Gaussian observation models, the posterior update reduces to an exponential-weights recursion driven by hypothesis-dependent beamformer evidence metrics. The resulting framework performs soft spatial inference and adaptive beamforming by continuously redistributing posterior probability across competing steering hypotheses while forming posterior-weighted combinations of branch outputs. The formulation naturally connects to classical adaptive beamformers including matched filtering and minimum mean-square error (MMSE) beamforming.   In addition, the framework is extended toward broadband underwater acoustic communication receivers through frequency-domain beamformer synthesis and adaptive equalization. Posterior probabilities are updated according to branch-specific equalization errors, enabling joint spatial-temporal adaptation under multipath propagation, Doppler-induced distortions, and time-varying channel conditions. Experimental results using MACE data demonstrate reliable communication performance with low overhead, low data detection mean-squared error, and zero observed bit errors.",
+  "authors": [
+   "Diego A. Cuji",
+   "Andrew C. Singer",
+   "John R. Buck"
+  ],
+  "categories": [
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Diego A. Cuji",
+  "pdf_url": "http://arxiv.org/pdf/2606.15477",
+  "primary_category": "eess.SP",
+  "published": "2026-06-13",
+  "tags": [
+   "mace"
+  ],
+  "title": "Universal adaptive beamforming: A Bayesian approach",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-13"
+ },
+ "2606.15892": {
+  "abstract": "Accurate interatomic potentials enable molecular dynamics of materials, molecules, and interfaces beyond density-functional-theory length and time scales. Equivariant neural network potentials have improved the representation of local geometry. However, their deployable energy surfaces ultimately manifest through invariant scalar channels, whose aggregation and spectral resolution remain comparatively underexamined. Here we use Physics-Aware Neighborhood (PAN) pooling and Physics-Guided Spectral (PGS) mixers as controlled scalar-pathway probes: lightweight, symmetry-preserving modifications that act only on \\(\\ell=0\\) channels while leaving the equivariant tensor backbone unchanged. Using MACE as a high-body-order mechanistic scaffold, PAN adds coordination-sensitive amplitude modulation, whereas PGS augments edge and readout scalar features with radial and tapered spectral bases. Across metallic Ag, covalent Si, a short-range ionic LiF/Li--F subset, and MD17/rMD17 molecules, this scalar-pathway correction reduces MACE force errors by 22--27\\% and energy errors by 19--22\\%; on systems with stress labels, stress errors decrease by 27--28\\%, at approximately 5\\% additional inference-FLOPs cost. Directionally consistent gains in Allegro and NequIP further indicate that the correction is portable across distinct short-range equivariant backbones, although effect sizes remain architecture-dependent. These results identify scalar-pathway fidelity as a practical design dimension for short-range equivariant interatomic potentials.",
+  "authors": [
+   "Jia Bi",
+   "Alin Marin Elena",
+   "Samuel Pinilla"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jia Bi",
+  "pdf_url": "http://arxiv.org/pdf/2606.15892",
+  "primary_category": "cs.LG",
+  "published": "2026-06-14",
+  "tags": [
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-14"
+ },
+ "2606.16385": {
+  "abstract": "Generating experimentally relevant amorphous structures via melt-quench molecular dynamics is prohibitively expensive at the first-principles level. Universal machine-learning interatomic potentials (uMLIPs) could accelerate such simulations, but their reliability under non-equilibrium conditions remains unclear. Here, we examine eight leading uMLIPs for generating amorphous IrO2, using this electrocatalytically relevant oxide as a diagnostic case. Under the conventional melt-quench protocol, all models yield unphysically expanded structures with densities of 1-4 g/cm3, far below the ab initio molecular dynamics (AIMD) reference value of 10.04 g/cm3. Comparisons against ab initio references show that accurate energies and forces alone do not ensure stable NPT dynamics; correct energy-volume responses and pressure predictions are also essential. We identify two practical remedies: pressure-targeted fine-tuning and a revised NVT-quench/NPT-equilibration protocol that avoids unphysical volume expansion without additional ab initio training data. Both recover IrO2 densities and local structures consistent with AIMD. Across 30 chemically diverse materials, the volume-expansion failure proves general, and the revised protocol substantially improves density predictions, reducing the AIMD-referenced MAE from 2.46 to 0.35 g/cm3. This work establishes practical validation criteria and simulation strategies for robust uMLIP-driven amorphous structure generation.",
+  "authors": [
+   "Shuwei Li",
+   "Yuqi An",
+   "Xingyu Guo",
+   "Wenqiang Yang",
+   "Zhenbin Wang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shuwei Li",
+  "pdf_url": "http://arxiv.org/pdf/2606.16385",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-15",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16550": {
+  "abstract": "Cryogenic hydrogen isotope fuel layers with high structural integrity and atomic-scale smoothness are prerequisites for symmetric implosion and ignition in inertial confinement fusion (ICF). Using deuterium (D$_2$) as model fuel, we perform large-scale molecular dynamics simulations with a Feynman-Hibbs corrected Silvera-Goldman potential to describe nuclear quantum effects at low temperatures, systematically investigating D$_2$ crystallization inside spherical ablator capsules. By varying substrate lattice constant from 3.1 angstrom to 3.9 angstrom, we demonstrate that lattice matching dictates the transition from coherent epitaxial growth to polycrystalline formation, establishing it as the primary design principle for high-performance targets. When the substrate lattice closely matches the equilibrium hexagonal-close-packed (HCP) spacing of cryogenic D$_2$ (approximately 3.5 angstrom), D$_2$ forms coherent layer-by-layer epitaxial growth consistent with Ostwald's stepwise nucleation theory, yielding HCP-dominated near-single crystals with minimal dislocations and ultra-smooth inner surfaces. In contrast, large lattice mismatch destabilizes coherent growth and causes island-like growth, producing polycrystalline structures with mixed HCP/FCC phases, elevated defects, and greatly increased surface roughness. Radial stress analysis shows that interfacial stress from mismatch localizes within 2-3 molecular layers near the interface, triggering subsequent defect-mediated growth. These findings highlight substrate lattice matching in regulating confined solid growth and crystallization quality, establish it as a key principle for ablator inner-surface engineering in ICF cryogenic targets, and offer atomic guidance for growing high-quality single-crystal deuterium-tritium (DT) fuel layers with optimal smoothness.",
+  "authors": [
+   "Peng Bi",
+   "Yu-Shen Wan",
+   "Wei Zhang",
+   "Jian Chen",
+   "Yong Yi",
+   "Qi-Feng Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "15 pages, 13 figures",
+  "first_author": "Peng Bi",
+  "pdf_url": "http://arxiv.org/pdf/2606.16550",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-15",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Lattice Matching Dictates the Growth Mode and Quality of Deuterium Crystallization in Confined Spherical Shells",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16859": {
+  "abstract": "Photochemical processes govern phenomena ranging from solar energy conversion and atmospheric chemistry to vision and photosynthesis. Accurate simulation of these processes requires modeling excited-state potential energy surfaces, often involving chemical reactions, tasks that remain computationally prohibitive for extended systems and long timescales using traditional \\textit{ab initio} methods. Machine learning interatomic potentials have revolutionized ground-state simulations, but their extension to excited states faces fundamental challenges: standard architectures assume energy extensivity, an assumption that fails for excited states. Here, we present a size-intensive machine-learning framework for excited-state dynamics based on \\textit{extremal pooling} of predicted atomic HOMO and LUMO contributions. Trained exclusively on excitations energies and forces, the architecture learns interpretable atomic-level contributions that encode physical information on the extent of electron localization. We demonstrate this framework on the photoexcited solvated electron in liquid water, a paradigmatic problem in radiation chemistry leading to competing pathways involving both hydrogen-atom dissociation and proton-coupled electron transfer. The model not only reproduces the relevant chain of reactions and product species that form during excitation, but also allows one to explicitly study the dynamics of the solvated electron in quantitative agreement with previously reported Restricted Open-Shell Kohn-Sham calculations, while enabling excited-state simulations of periodic systems at length and time scales inaccessible to the reference electronic-structure method. This work establishes a general strategy for machine learning-driven excited-state dynamics applicable to diverse photochemical systems, from molecular chromophores in solution to extended condensed-phase systems.",
+  "authors": [
+   "Cesare Malosso",
+   "Wei Bin How",
+   "Gonzalo Díaz Mirón",
+   "Ali Hassanali",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Cesare Malosso",
+  "pdf_url": "http://arxiv.org/pdf/2606.16859",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-15",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Transferable machine learning of excited-state dynamics with extremal pooling",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16860": {
+  "abstract": "The Solar System hosts multiple potentially habitable environments, including the subsurface ocean beneath the icy crust of Saturn's moon Enceladus. This ocean's composition is unusually well constrained thanks to Cassini's observations of Enceladus's south polar plume during multiple flybys. Among the plume's more surprising components is molecular hydrogen (H2), detected in trace amounts. The presence of observable amounts of H2 is intriguing not only because it is difficult to explain through conventional geochemical processes, but also because it could serve as both an energy source for life and a driver of prebiotic organic chemistry. In this study, we explore whether tidally induced rock grinding within Enceladus's core could account for the observed H2. Laboratory experiments show that H2 can be efficiently produced when freshly fractured rock reacts with water. Using these experimentally determined production efficiencies, we estimate H2 generation rates as a function of the fraction of tidal energy dissipated through rock grinding. Our results suggest that tidal grinding could plausibly produce the observed levels of H2, with instantaneous production rates potentially exceeding those from radiolysis or serpentinization. However, sustaining such production over geological timescales would require efficient healing of silicate surfaces in the core to allow repeated grinding. Without such healing, tidally induced rock grinding may instead lead to episodic bursts of chemical activity lasting up to millions of years--potentially sufficient to initiate new prebiotic pathways. This transient mechanism would complement the longer-term, lower-energy contributions from serpentinization (over hundreds of millions of years) and radiolysis (over billions of years).",
+  "authors": [
+   "Karin I. Oberg",
+   "Cara Magnabosco",
+   "Nicholas J. Tosca"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted for publication in Earth and Planetary Science Letters",
+  "first_author": "Karin I. Oberg",
+  "pdf_url": "http://arxiv.org/pdf/2606.16860",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-06-15",
+  "tags": [
+   "origin-of-life",
+   "serpentinization"
+  ],
+  "title": "Tidal Rock Grinding as a Source of H2 on Enceladus",
+  "topics": [
+   "Mineral Surfaces and Geochemistry",
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16994": {
+  "abstract": "Topological semimetals have been proposed as electrocatalytic platforms because their surface states may participate in adsorbate bonding and interfacial charge response. Here we examine this role for hydrogen chemisorption on NbP(001) by combining density functional theory, Wannier-based surface spectral functions, orbital projections, and projected crystal orbital Hamilton population analysis. An SOC on/off comparison allows us to examine two electronic regimes of the same surface: including nodal-line-derived surface states in the non-SOC limit and Weyl Fermi arcs in the SOC case. We find that SOC changes the hydrogen adsorption free energy only weakly, showing that the equilibrium adsorption descriptor is largely insensitive to the SOC-driven reorganization of the surface states. Momentum- and energy-resolved bonding analysis assigns the main H-surface stabilization to occupied local H-Nb hybridized states below the Fermi level. At $E_F$, the Fermi arcs provide the dominant hybridization channels that contribute to the state-resolved bonding pattern and transfer spin-textured character to the adsorbate, producing a finite H-projected current-induced spin polarization. Thus, NbP demonstrates that topological surface states can play a minor role in adsorption thermodynamics while governing Fermi-level hybridization and adsorbate-local current-induced spin polarization.",
+  "authors": [
+   "Luis Martinez-Gomez",
+   "Raphael F. Ribeiro"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "8 pages, 4 figures",
+  "first_author": "Luis Martinez-Gomez",
+  "pdf_url": "http://arxiv.org/pdf/2606.16994",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-15",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "electrocatalysis"
+  ],
+  "title": "Hydrogen Chemisorption and Current-Induced Spin Polarization on NbP",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-15"
  }
 }
