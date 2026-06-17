@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">814 papers</span>
+  <span class="paper-count">812 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4886,17 +4886,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18542.html">Data-Driven Design-Test-Make-Analyze Paradigm for Inorganic Crystals: Ultrafast Synthesis of Ternary Oxides</a></div></td>
 <td>Haiwen Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18542">2506.18542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14270.html">New models of clean and hydrogenated amorphous silicon surfaces</a></div><div class="paper-tags"><a href="surface-defects-360d.html">surface-defects</a> · <a href="surface-reconstruction-360d.html">surface-reconstruction</a></div></td>
-<td>Kishor Nepal et al.</td>
-<td><a href="http://arxiv.org/abs/2412.14270">2412.14270</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17599.html">Two-Stage Prony-Based Estimation of Fractional Delay and Doppler Shifts in OTFS Modulation</a></div></td>
-<td>Yutaka Jitsumatsu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17599">2506.17599</a></td>
 </tr>
 </tbody></table>

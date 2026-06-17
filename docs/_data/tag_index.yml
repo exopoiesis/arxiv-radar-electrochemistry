@@ -5,18 +5,18 @@
   group: methods
 - name: molecular-dynamics
   count: 47
-  total: 918
+  total: 919
   group: methods
 - name: ab-initio
-  count: 43
-  total: 793
+  count: 44
+  total: 794
   group: methods
 - name: mace
   count: 25
-  total: 198
+  total: 199
   group: ml-methods
 - name: mlip
-  count: 19
+  count: 18
   total: 226
   group: ml-methods
 - name: vacancies
@@ -93,7 +93,7 @@
   group: aqueous-chemistry
 - name: impedance-spectroscopy
   count: 2
-  total: 54
+  total: 55
   group: characterization
 - name: oxygen-evolution
   count: 2

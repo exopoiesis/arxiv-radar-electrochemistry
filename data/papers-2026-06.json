@@ -2163,5 +2163,84 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-06-15"
+ },
+ "2606.17078": {
+  "abstract": "Binary collision approximation (BCA) codes are potentially powerful tools to simulate ion irradiation ejecta properties, such as the composition and the angular and energy distributions of the sputter yield. However, recent advances in the sputtering of minerals have highlighted the low predictive fidelity of BCA codes such as SDTrimSP when compared to experimental measurements. We demonstrate how a sputtering model that underestimates the forward sputtering on a flat surface at large ion incidence angles from surface normal will lead to an erroneous result for rough and porous surfaces, where most ejected particles are directed along the surface normal. We demonstrate how this is the case for an existing model, which reliably predicts sputtering mass yields from a flat enstatite surface but fails to accurately reproduce the angular distribution of sputtered particles. We then compare this to a BCA model incorporating higher surface-binding energies$-$based on a molecular dynamics description of plagioclase$-$which underestimates mass yields but significantly reduces back-sputtering and better reproduces laboratory sputter angle distributions measured at large ion incidence angles. We conclude that the BCA model cannot simultaneously reproduce both the sputter yield and the sputter angle distribution arising from He irradiation of mineral targets, either due to the inherent geometric simplicity of the BCA or because the model neglects yield-enhancing processes such as molecule and cluster sputtering. This demonstrates a structural limitation of current BCA-based models when realistic surface morphologies are considered, rather than a problem that can be resolved by parameter tuning alone.",
+  "authors": [
+   "Noah Jäggi",
+   "Adam Woodson",
+   "Paul Szabo",
+   "Johannes Brötzner",
+   "Friedrich Aumayr",
+   "Catherine Dukes"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "astro-ph.EP",
+   "astro-ph.IM"
+  ],
+  "comment": "15 pages, 8 figures, 1 table",
+  "first_author": "Noah Jäggi",
+  "pdf_url": "http://arxiv.org/pdf/2606.17078",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-10",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Limitations of Using BCA Codes for Modeling the Sputtering Behavior of Planetary Surfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.17382": {
+  "abstract": "Electrochemical Impedance Spectroscopy (EIS) is a widely used, non-destructive technique for characterizing electrochemical systems, and its analysis typically relies on fitting the measured spectra to an Equivalent Circuit Model (ECM). Selecting an appropriate ECM, however, remains a major bottleneck: knowledge-based selection requires expert judgment and is difficult to reproduce, while existing automated approaches either choose from a fixed set of candidate circuits or, in the case of Gene Expression Programming, require repeated equivalent-circuit fitting and a predetermined circuit scale. Here, we propose a machine learning method that estimates an ECM directly from an impedance spectrum by representing the circuit as a serialized string of symbols and generating this string with a Long Short-Term Memory (LSTM) network coupled to a convolutional feature extractor. Because the LSTM inherently handles variable-length sequences, the method produces the circuit topology directly, without any fitting during estimation nor prior assumption for the number of elements. A fourth-root transformation of the impedance is introduced to emphasize the mid-frequency features essential for distinguishing circuits, and an adaptive beam search yields multiple ranked candidates. Evaluated on 100,000 synthetic datasets generated from 119 circuit topologies with 1% added noise on impedances, the method identified the correct topology as the most probable ECM in 77.8% of cases and among the top five candidates in 98.8% of cases, with an average estimation time of 17.8 milliseconds per dataset - several orders of magnitude faster than reported fitting-based approaches. These results indicate that direct topology generation with a neural network is a promising route toward fully automated, expert-independent ECM estimation.",
+  "authors": [
+   "Ryoma Iki",
+   "Motoya Furugori",
+   "Noboru Katayama"
+  ],
+  "categories": [
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Ryoma Iki",
+  "pdf_url": "http://arxiv.org/pdf/2606.17382",
+  "primary_category": "eess.SP",
+  "published": "2026-06-16",
+  "tags": [
+   "impedance-spectroscopy"
+  ],
+  "title": "Automated Estimation of Equivalent Circuit Model from Impedances with Long Short-Term Memory",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-06-16"
+ },
+ "2606.18163": {
+  "abstract": "We assess the dynamical properties of liquid water predicted by several density functionals using machine-learning interatomic potentials. MACE models were trained for SCAN, RPBE-D3/zd, revPBE-D3/zd, revPBE0-D3/BJ, PBE0-D3/zd, and PBE0-D3/BJ using previously reported ab initio datasets. We compare translational, rotational, and viscous dynamics through time-correlation functions, which resolve relaxation processes across different timescales, and through the corresponding long-time kinetic coefficients. The diffusion coefficient, second-rank orientational relaxation time, and shear viscosity reveal systematic differences among functionals. Part of these differences can be rationalized as shifts along the phase diagram, as comparisons relative to each functionals melting temperature reduce the spread in the dynamical observables. Among the functionals considered, RPBE-D3/zd provides the best overall agreement with experiment. We therefore perform a broader validation of RPBE-D3/zd using a Behler--Parrinello neural-network potential over a wide range of temperatures, densities, and pressures. The model reproduces the magnitude and anomalous pressure dependence of the diffusion coefficient, gives generally good viscosities, and captures the temperature dependence of the rotational relaxation time.",
+  "authors": [
+   "P. Montero de Hijes",
+   "L. Neubeck",
+   "G. Kresse",
+   "C. Dellago"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "P. Montero de Hijes",
+  "pdf_url": "http://arxiv.org/pdf/2606.18163",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-16",
+  "tags": [
+   "ab-initio",
+   "mace"
+  ],
+  "title": "Dynamical properties of ab initio water from machine-learning potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-16"
  }
 }

@@ -46,6 +46,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17078.html">Limitations of Using BCA Codes for Modeling the Sputtering Behavior of Planetary Surfaces</a></div></td>
+<td>Noah Jäggi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17078">2606.17078</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Minaam Qamar et al.</td>
@@ -992,11 +998,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19436.html">Auxetic Response in Two-Dimensional MXenes with Atomically Defined Perforations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
 <td>Hossein Darban</td>
 <td><a href="http://arxiv.org/abs/2603.19436">2603.19436</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18317.html">Asymmetric Energy Landscapes Control Diffusion in Glasses</a></div></td>
-<td>Ajay Annamareddy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18317">2603.18317</a></td>
 </tr>
 </tbody></table>
