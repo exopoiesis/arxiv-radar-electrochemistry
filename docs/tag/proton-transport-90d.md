@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>proton-transport — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="proton-transport-7d.html">7d</a> <a href="proton-transport-30d.html">30d</a> <strong>90d</strong> <a href="proton-transport-360d.html">360d</a> <a href="proton-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29342.html">Layer-selective hydrogenation and proton transport in twisted bilayer graphene</a></div></td>
 <td>J. Tong et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29342">2603.29342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17709.html">In-phase current and temperature oscillations reduce PEM fuel cell resistivity: A modeling study</a></div></td>
-<td>Andrei Kulikovsky</td>
-<td><a href="http://arxiv.org/abs/2603.17709">2603.17709</a></td>
 </tr>
 </tbody></table>
