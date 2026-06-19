@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-water-interactions — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="ion-water-interactions-7d.html">7d</a> <a href="ion-water-interactions-30d.html">30d</a> <a href="ion-water-interactions-90d.html">90d</a> <strong>360d</strong> <a href="ion-water-interactions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="hydration-shell-360d.html">hydration-shell</a> · <a href="ion-pairing-360d.html">ion-pairing</a> · <a href="mace-360d.html">mace</a> · <a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
+<td>Sebastian Falkner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20105">2606.20105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27913.html">Complex Effects of Salt on Small-Angle X-ray Scattering of BSA Originate From the Interplay of Ions and Hydration Water</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

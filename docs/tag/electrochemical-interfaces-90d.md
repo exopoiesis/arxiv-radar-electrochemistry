@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="surface-science-90d.html">surface-science</a></div></td>
+<td>Fengzijun Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19798">2606.19798</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03737.html">Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Ashique Lal et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10996.html">Effective quantum reorganization energy for electron transfer</a></div></td>
 <td>Ethan Abraham et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10996">2510.10996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19213.html">Short-Range Solvent-Solvent and Ion-Solvent Correlations at Metal-Electrolyte Interfaces: Parameterization and Benchmarking</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="implicit-solvation-90d.html">implicit-solvation</a> · <a href="ion-water-interactions-90d.html">ion-water-interactions</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mengke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19213">2509.19213</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="hydration-shell-90d.html">hydration-shell</a> · <a href="ion-pairing-90d.html">ion-pairing</a> · <a href="mace-90d.html">mace</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
+<td>Sebastian Falkner et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20105">2606.20105</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27913.html">Complex Effects of Salt on Small-Angle X-ray Scattering of BSA Originate From the Interplay of Ions and Hydration Water</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Anshika Dhiman et al.</td>
@@ -26,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10600.html">Interplay of ion availability and mobility in the loss of cation selectivity for CaCl\textsubscript{2} in negatively charged nanopores: molecular dynamics using scaled-charge models</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Salman Shabbir et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10600">2602.10600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19213.html">Short-Range Solvent-Solvent and Ion-Solvent Correlations at Metal-Electrolyte Interfaces: Parameterization and Benchmarking</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a> · <a href="implicit-solvation-90d.html">implicit-solvation</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mengke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19213">2509.19213</a></td>
 </tr>
 </tbody></table>

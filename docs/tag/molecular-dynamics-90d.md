@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19884.html">Extraction of slip velocity in NEMD Couette flow systems using frictional dissipation</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
+<td>Hiroki Kusudo et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19884">2606.19884</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19600.html">Machine-learned prediction of carbon interstitial clusters in diamond</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
+<td>Xiaoya Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19600">2606.19600</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16385.html">Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Shuwei Li et al.</td>
@@ -968,17 +980,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21754.html">Study of the Molecular Level Mechanism of Nanoscale Alternating Current Electrohydrodynamic Flow</a></div></td>
 <td>Sobin Alosious et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21754">2510.21754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19213.html">Short-Range Solvent-Solvent and Ion-Solvent Correlations at Metal-Electrolyte Interfaces: Parameterization and Benchmarking</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a> · <a href="implicit-solvation-90d.html">implicit-solvation</a> · <a href="ion-water-interactions-90d.html">ion-water-interactions</a></div></td>
-<td>Mengke Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19213">2509.19213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20183.html">Prediction and Experimental Verification of Electrolyte Solvation Structure from an OMol25-Trained Interatomic Potential</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Nitesh Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20183">2603.20183</a></td>
 </tr>
 </tbody></table>

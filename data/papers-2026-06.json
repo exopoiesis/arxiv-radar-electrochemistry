@@ -2275,5 +2275,179 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-06-17"
+ },
+ "2606.19600": {
+  "abstract": "Diamond hosts optically active point defects central to quantum technologies, yet the carbon self-interstitials introduced during growth and irradiation compete with them and form new defects whose configurational landscape is poorly charted, as subtle energy differences govern the competing minima and pathways. Here we build an interstitial-focused dataset by active learning and benchmark three machine-learning interatomic potentials -- GAP, NEP and the equivariant MACE -- against density functional theory for energies, forces and migration barriers. MACE reproduces the reference energetics and relative stabilities, whereas the others can misorder the ground states. Annealing molecular dynamics with the validated potentials uncovers a series of previously unreported carbon interstitial clusters, from di- to octa-interstitials -- several introducing in-gap states of interest as colour centres -- and shows that their metastability is governed by kinetically accessible pathways rather than energetic ordering. These results chart the interstitial defect landscape and accelerate defect discovery for quantum technologies.",
+  "authors": [
+   "Xiaoya Chang",
+   "Arsalan Hashemi",
+   "Nima Ghafari Cherati",
+   "Mikko Karttunen",
+   "Ádám Gali",
+   "Tapio Ala-Nissila"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiaoya Chang",
+  "pdf_url": "http://arxiv.org/pdf/2606.19600",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-17",
+  "tags": [
+   "active-learning",
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Machine-learned prediction of carbon interstitial clusters in diamond",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19653": {
+  "abstract": "Defect-driven phase instability critically influences the structural reliability of ultrawide bandgap oxides, yet direct nanoscale metrics linking local chemistry to structural transformation remain limited. Here, we introduce a coordination-sensitive atom probe tomography framework that quantitatively resolves reductions in local cation coordination and links them directly to defect-driven phase transformation. Using Si-doped beta-(AlxGa1-x)2O3 heterostructures with controlled Al composition (6-17%) and doping levels (10^17-10^20 cm^-3), we show that gamma-phase inclusions emerge exclusively under the combined conditions of elevated Al content and heavy Si doping. Two-dimensional compositional mapping reveals pronounced lateral Al/Ga inhomogeneity in these regions, while nearest-neighbor and radial distribution analyses quantitatively resolve a significant reduction in first-shell Ga coordination, consistent with local cation deficiency. Correlative scanning transmission electron microscopy confirms that these coordination-depleted regions coincide spatially with gamma-phase inclusions. Density functional theory further supports this mechanism, demonstrating that Al incorporation reduces monoclinic lattice stability and, in conjunction with donor-induced vacancy formation, facilitates vacancy-mediated cation rearrangement and coordination collapse. Together, these results establish coordination loss as a measurable nanoscale signature directly linked to defect-driven phase instability. This framework provides a generalizable approach for probing defect-driven phase instability in doped and alloyed ultrawide bandgap semiconductors.",
+  "authors": [
+   "Shaon Das",
+   "Jith Sarker",
+   "Christopher Chae",
+   "Lingyu Meng",
+   "Joel B. Varley",
+   "Hongping Zhao",
+   "Jinwoo Hwang",
+   "Baishakhi Mazumder"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shaon Das",
+  "pdf_url": "http://arxiv.org/pdf/2606.19653",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-17",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19798": {
+  "abstract": "Mineral surfaces govern interfacial reactivity in carbon mineralization, geo-energy storage, contaminant immobilization, heterogeneous catalysis and electrochemical interface engineering. Yet atomistic simulations often rely on commonly used facets or facet-level stability criteria, while distinct atomic terminations of the same crystallographic orientation are rarely resolved systematically because experimental characterization and density functional theory (DFT) calculations remain costly across large surface spaces. Here we present MinSurf, a high-throughput framework that resolves mineral surface selection as a surface-energy and morphology problem. MinSurf integrates surface enumeration, DFT labelling, machine-learning interatomic potentials and Wulff construction to predict stable terminations, surface-energy landscapes and equilibrium crystal morphologies. Applied to ten representative minerals, MinSurfSet comprises 764 surface slabs, with 90 corresponding oriented unit cells constructed as bulk references for surface-energy evaluation. The resulting MinNEP model predicts DFT surface energies with a mean absolute error of 0.0119 eV per Angstrom squared and achieves an overall acceleration of 1.14 x 10^4 relative to DFT. MinNEP preserves the DFT-derived morphology-determining surface-energy hierarchy and reproduces the dominant Wulff-exposed facets, while X-ray diffraction provides an independent crystallographic consistency check for alpha-quartz benchmark. By linking atomic terminations, surface energies and equilibrium morphologies, MinSurf provides reproducible and physically representative surface models for high-throughput simulations of mineral interfaces across energy, environmental and advanced inorganic materials.",
+  "authors": [
+   "Fengzijun Pan",
+   "Zhoulin Liu",
+   "Pingyang Zhang",
+   "Jiaqiu Xu",
+   "Zepeng Fan",
+   "Dawei Wang",
+   "Jianzhong Pei"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Fengzijun Pan",
+  "pdf_url": "http://arxiv.org/pdf/2606.19798",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-18",
+  "tags": [
+   "density-functional-theory",
+   "electrochemical-interfaces",
+   "surface-science"
+  ],
+  "title": "MinSurf: resolving the atomic-scale stability landscape of mineral surfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Mineral Surfaces and Geochemistry"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.19884": {
+  "abstract": "Velocity slip at the solid--fluid (SF) interface plays a key role in fluid transport at the nanoscale, and the SF friction coefficient has been extensively studied because it indicates the degree of slippage. Owing to the scale of this phenomenon, molecular dynamics (MD) simulations are commonly employed using two major approaches: the Green-Kubo integral method in equilibrium MD (EMD), and the direct calculation of friction force and slip velocity in non-equilibrium MD (NEMD) systems under shear. Regarding the latter, a strict definition of the slip velocity is missing due to the nonzero thickness of the boundary at the microscale, and the average velocity of the first adsorption layer or the velocity at the boundary obtained by extrapolation or interpolation is often used. In this study, we propose an alternative description of the slip velocity based on a thermal perspective from the two different scales, i.e., at the macroscale, frictional heat is defined as the product of the friction force and slip velocity, whereas at the microscale, it can be expressed as the sum of the works exerted on the fluid and solid by each other. By combining the two different scales, we defined the slip velocity based on the dissipation induced at the SF interface under shear, which avoids the arbitrariness in the slip velocity at the microscale.",
+  "authors": [
+   "Hiroki Kusudo",
+   "Yasutaka Yamaguchi",
+   "Gota Kikugawa"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Hiroki Kusudo",
+  "pdf_url": "http://arxiv.org/pdf/2606.19884",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-18",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Extraction of slip velocity in NEMD Couette flow systems using frictional dissipation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20105": {
+  "abstract": "Magnesium ions play an essential role in many biological processes but remain challenging to model in biomolecular simulations. Despite considerable scientific effort, classical force fields fail to simultaneously reproduce key structural, thermodynamic and kinetic solution properties, likely due to their inability to explicitly account for quantum many-body effects. Here, we develop and systematically benchmark MACE neural network potentials (NNPs) for aqueous MgCl$_2$ solutions trained on revPBE-D3/zd and revPBE0-D3/zd density functional theory reference data and assess their ability to reproduce a broad range of experimental solution properties including the structure of the first hydration shell, diffusion coefficient, activity derivative, water-exchange rate and mechanism as well as solvation free energy. Both NNPs accurately reproduce the octahedral structure of the first hydration shell, ion pairing properties and diffusion coefficients. Combining the NNPs with transition path sampling and other enhanced sampling techniques allows us to capture the rare event of water exchange in the first hydration shell of Mg$^{2+}$ revealing a dissociative exchange mechanism. Transition interface sampling yields exchange rates within one order of magnitude of experiment, representing a substantial improvement over classical dissociative force fields. In contrast, the NNP-derived solvation free energy significantly underestimates the experimental value, revealing a limitation of the present local NNP architectures for describing ion solvation thermodynamics. Our results demonstrate that DFT-trained NNPs can accurately describe Mg$^{2+}$ hydration structure, diffusion, ion pairing, and exchange kinetics, while highlighting the need for explicit long-range electrostatic treatments to achieve quantitative agreement with experimental ion solvation free energies.",
+  "authors": [
+   "Sebastian Falkner",
+   "Pablo Montero de Hijes",
+   "Christoph Dellago",
+   "Nadine Schwierz"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Sebastian Falkner",
+  "pdf_url": "http://arxiv.org/pdf/2606.20105",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-18",
+  "tags": [
+   "density-functional-theory",
+   "hydration-shell",
+   "ion-pairing",
+   "ion-water-interactions",
+   "mace",
+   "solvation-thermodynamics"
+  ],
+  "title": "Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20190": {
+  "abstract": "We study directed transport in a two-dimensional suspension of   repulsively interacting colloids driven by a stochastic asymmetric   piecewise-linear flashing ratchet using large-scale molecular   dynamics simulations. The driving frequency and the ratchet   asymmetry offer two independent ways of controlling the particle   current, but they affect the suspension differently. At fixed   asymmetry, the current shows a resonance with ratcheting frequency   that is set by the collective relaxation dynamics of the interacting   particles. The resulting increase in transport is accompanied by   defect-mediated structural changes, showing density-dependent   hexatic and solid-like states, with larger currents generally   associated with weaker ordering. By contrast, at fixed frequency,   changing the ratchet asymmetry mainly alters the strength of the   directed bias and can significantly enhance the current while   leaving the hexatic order largely unchanged. Near the equilibrium   hexatic-melting regime, this makes it possible to generate   substantial directed currents without strongly disrupting sixfold   orientational order. These results show that frequency tuning   couples transport to structural reorganization, whereas asymmetry   tuning primarily controls transport leaving the structure largely   unaltered, providing distinct and complementary routes for   manipulating transport and order in driven colloidal suspensions.",
+  "authors": [
+   "Sudipta Mandal",
+   "Dipanjan Chakraborty",
+   "Debasish Chaudhuri"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "18 pages",
+  "first_author": "Sudipta Mandal",
+  "pdf_url": "http://arxiv.org/pdf/2606.20190",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-18",
+  "tags": [],
+  "title": "Independent Control of Transport and Order in a Ratcheted Colloidal Suspension",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-18"
  }
 }
