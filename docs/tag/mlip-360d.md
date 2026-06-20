@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04652.html">Anomalous Ionic Conductivity along the Coherent $Σ$3 Grain Boundary in ThO2</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
 <td>Miaomiao Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04652">2507.04652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10538.html">Foundation Models for Atomistic Simulation of Chemistry and Materials</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10538">2503.10538</a></td>
 </tr>
 </tbody></table>

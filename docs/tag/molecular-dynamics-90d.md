@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,11 +974,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22553.html">LPC3D: An Enhanced Parallel Software for Large-Scale Simulation of Adsorption in Porous Carbons and Supercapacitors</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a></div></td>
 <td>El Hassane Lahrar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.22553">2603.22553</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21754.html">Study of the Molecular Level Mechanism of Nanoscale Alternating Current Electrohydrodynamic Flow</a></div></td>
-<td>Sobin Alosious et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21754">2510.21754</a></td>
 </tr>
 </tbody></table>

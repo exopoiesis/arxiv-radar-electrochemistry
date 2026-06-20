@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,29 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20439.html">Multiscale modeling of hydrogen diffusion in iron considering the effect of dislocations</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="proton-diffusion-360d.html">proton-diffusion</a></div></td>
 <td>Gonzalo Álvarez et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20439">2506.20439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19259.html">High-throughput spin-bath characterization of spin-defects in semiconductors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19259">2506.19259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19543.html">Long-term atomistic finite-temperature substitutional diffusion</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Shashank Saxena et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19543">2506.19543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19803.html">Quantifying Spin Defect Density in hBN via Raman and Photoluminescence Analysis</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Atanu Patra et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19803">2506.19803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20680.html">Near-surface Defects Break Symmetry in Water Adsorption on CeO$_{2-x}$(111)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="water-adsorption-360d.html">water-adsorption</a></div></td>
-<td>Oscar Custance et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20680">2506.20680</a></td>
 </tr>
 </tbody></table>

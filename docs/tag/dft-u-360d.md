@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft-u — 360d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <strong>360d</strong> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,11 +320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04755.html">DFT-Guided Operando Raman Characterization of Ni-Based Phases Relevant to Electrochemical Systems</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Harol Moreno Fernández et al.</td>
 <td><a href="http://arxiv.org/abs/2507.04755">2507.04755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19682.html">The electronic structure of a doped Mott-Hubbard surface</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Mattia Iannetti et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19682">2506.19682</a></td>
 </tr>
 </tbody></table>

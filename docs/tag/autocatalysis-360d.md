@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>autocatalysis — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15776.html">Identifying Self-Amplifying Hypergraph Structures through Mathematical Optimization</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
 <td>Víctor Blanco et al.</td>
 <td><a href="http://arxiv.org/abs/2412.15776">2412.15776</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02944.html">Inhibition of bacterial growth by antibiotics : A minimal model</a></div></td>
-<td>Barnabe Ledoux et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02944">2501.02944</a></td>
 </tr>
 </tbody></table>

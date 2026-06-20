@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>origin-of-life — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <strong>360d</strong> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00165.html">Prebiosignatures with the Habitable Worlds Observatory (HWO)</a></div></td>
 <td>Sukrit Ranjan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00165">2507.00165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20052.html">Modelling Statistics of Polypeptides in Emissions from Smokers Near Ocean Ridges</a></div></td>
-<td>Ben Intoy et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20052">2506.20052</a></td>
 </tr>
 </tbody></table>
