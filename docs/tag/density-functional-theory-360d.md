@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">813 papers</span>
+  <span class="paper-count">809 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4868,29 +4868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21366.html">Computational Design of Two-Dimensional MoSi$_2$N$_4$ Family Field-Effect Transistor for Future Ångström-Scale CMOS Technology Nodes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Che Chen Tho et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21366">2506.21366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20371.html">Impact of the damping function in dispersion-corrected density functional theory on the properties of liquid water</a></div></td>
-<td>K. Nikolas Lausch et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20371">2506.20371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20439.html">Multiscale modeling of hydrogen diffusion in iron considering the effect of dislocations</a></div><div class="paper-tags"><a href="proton-diffusion-360d.html">proton-diffusion</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Gonzalo Álvarez et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20439">2506.20439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20662.html">Artificial Symmetry Breaking by Self-Interaction Error</a></div></td>
-<td>Lin Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20662">2506.20662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20825.html">Quantum-Centric Alchemical Free Energy Calculations</a></div><div class="paper-tags"><a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
-<td>Milana Bazayeva et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20825">2506.20825</a></td>
 </tr>
 </tbody></table>

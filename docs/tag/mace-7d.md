@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mace — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15892.html">Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Jia Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15892">2606.15892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15038.html">Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling</a></div></td>
-<td>Zhemin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15038">2606.15038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15477.html">Universal adaptive beamforming: A Bayesian approach</a></div></td>
-<td>Diego A. Cuji et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15477">2606.15477</a></td>
 </tr>
 </tbody></table>

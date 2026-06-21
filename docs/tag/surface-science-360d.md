@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surface-science — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="surface-science-7d.html">7d</a> <a href="surface-science-30d.html">30d</a> <a href="surface-science-90d.html">90d</a> <strong>360d</strong> <a href="surface-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21068.html">Multi-Technique Characterization of Rhodium Gem-Dicarbonyls on TiO$_2$(110)</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Moritz Eder et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21068">2506.21068</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20271.html">Broadband Dielectric Analysis of Clays: Impact of Cation, Exchange Capacity, Water Content, and Porosity</a></div></td>
-<td>Felix Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20271">2506.20271</a></td>
 </tr>
 </tbody></table>

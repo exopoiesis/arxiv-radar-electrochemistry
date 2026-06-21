@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electric-double-layer — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <strong>360d</strong> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14158.html">Molecular Dynamics Simulations of Nanoscale Friction on Illite Clay: Effects of Solvent Salt Ions and Electric Double Layer</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Ge Li et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14158">2507.14158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14616.html">Replica RISM molecular solvation theory for electric double layer in nanoporous materials</a></div><div class="paper-tags"><a href="electrolyte-structure-360d.html">electrolyte-structure</a></div></td>
-<td>A. Kovalenko</td>
-<td><a href="http://arxiv.org/abs/2506.14616">2506.14616</a></td>
 </tr>
 </tbody></table>
