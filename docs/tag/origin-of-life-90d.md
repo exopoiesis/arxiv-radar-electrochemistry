@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24559.html">The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems</a></div></td>
 <td>Martin Jaraiz</td>
 <td><a href="http://arxiv.org/abs/2603.24559">2603.24559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22135.html">The SPHEREx Ices Investigation: An Overview</a></div></td>
-<td>Gary J. Melnick et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22135">2603.22135</a></td>
 </tr>
 </tbody></table>

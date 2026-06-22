@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surface-science — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="surface-science-7d.html">7d</a> <a href="surface-science-30d.html">30d</a> <a href="surface-science-90d.html">90d</a> <strong>360d</strong> <a href="surface-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15522.html">GridFF: Efficient Simulation of Organic Molecules on Rigid Substrates</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Indranil Mal et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15522">2508.15522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21068.html">Multi-Technique Characterization of Rhodium Gem-Dicarbonyls on TiO$_2$(110)</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Moritz Eder et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21068">2506.21068</a></td>
 </tr>
 </tbody></table>
