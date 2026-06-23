@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcogenides — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <strong>360d</strong> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11685.html">Phase-change materials for volatile threshold resistive switching and neuronal device applications</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Huandong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2502.11685">2502.11685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22663.html">Alter-Piezoresponse in Two-Dimensional Lieb-Lattice Altermagnets</a></div></td>
-<td>Xilong Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22663">2506.22663</a></td>
 </tr>
 </tbody></table>
