@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24246.html">Hierarchical models for large chemical reaction networks</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
+<td>J. Unterberger et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24246">2606.24246</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16860.html">Tidal Rock Grinding as a Source of H2 on Enceladus</a></div><div class="paper-tags"><a href="serpentinization-90d.html">serpentinization</a></div></td>
 <td>Karin I. Oberg et al.</td>
@@ -152,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24944.html">Flare-driven habitability: Expanding life&#x27;s potential around low-mass stars</a></div></td>
 <td>Dong-Yang Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24944">2603.24944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24559.html">The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems</a></div></td>
-<td>Martin Jaraiz</td>
-<td><a href="http://arxiv.org/abs/2603.24559">2603.24559</a></td>
 </tr>
 </tbody></table>

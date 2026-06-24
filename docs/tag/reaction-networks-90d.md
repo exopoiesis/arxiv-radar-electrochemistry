@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24246.html">Hierarchical models for large chemical reaction networks</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="origin-of-life-90d.html">origin-of-life</a></div></td>
+<td>J. Unterberger et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24246">2606.24246</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25523.html">Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="origin-of-life-90d.html">origin-of-life</a></div></td>
 <td>Richard Golnik et al.</td>
@@ -80,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25522.html">Automating Computational Chemistry Workflows via OpenClaw and Domain-Specific Skills</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Mingwei Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25522">2603.25522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24482.html">Fine-tuning universal machine learning potentials for transition state search in surface catalysis</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Raffaele Cheula et al.</td>
-<td><a href="http://arxiv.org/abs/2603.24482">2603.24482</a></td>
 </tr>
 </tbody></table>

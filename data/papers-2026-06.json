@@ -3032,5 +3032,174 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-06-22"
+ },
+ "2606.23725": {
+  "abstract": "Machine-learning screens for battery materials are trained and judged almost entirely against computed reference voltages, and those references carry their own systematic errors. We report a case in which this matters quantitatively: our own screening stack (a graph-network voltage screen, a prior-art triage layer, and a local PBE+U bench) fails pre-registered validation against experiment-anchored literature values. Verdict thresholds, failure modes, and the primary metric were committed before analysis. On an operator-audited set of known Na-ion cathodes (n = 6 after one documented exclusion; verdict unchanged at n = 7), the raw held-out mean absolute error was 0.67 V, the pre-registered conservative metric, the upper 95% confidence bound of the cross-validated bias-corrected error, was 1.09 V, and the residual was strongly voltage-dependent (r = -0.94), so no additive calibration is valid. On the two compounds where prediction, database reference, and experiment could all be compared, the Materials Project PBE+U reference sat about 0.54 V below measurement: the reference, not the model, dominated the error. A prior-art screen found at least 70% of the targeted Na substitution space already published. We retire the screen, bound what \"verified\" means for our DFT ledger, and pre-register a calibration audit of it against four benchmark Li couples.",
+  "authors": [
+   "Krishna Teja Vepa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Krishna Teja Vepa",
+  "pdf_url": "http://arxiv.org/pdf/2606.23725",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-19",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Computational references are not experiments: pre-registered validation of machine-learned sodium-cathode voltages",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.24239": {
+  "abstract": "Layered alkali titanates with M 2 Ti 2 O 5 chemical formula (MTO, M=K,Rb) belonging to the Andersson-Wadsley perovskite family spontaneously incorporate water to form MTO.(H 2 O) x compounds, which exhibit superionic conductivity. At very low hydration x, scanning electron microscopy evidences one-dimensional heterogeneous patterns oriented along ___ b that are arranged in an orderly manner. At higher hydration, the material is observed to spontaneously exfoliate by creating (001) surfaces. Simulations carried out using Density Functional Theory reveal an ordered arrangement of the guest water molecules in Rb 2 Ti 2 O 5 , with strong hydrogen bonds between the water molecules and the apical oxygen of the host crystal. At low hydration x, the water molecules form self-organized one dimensional (1D) double chains along ___ b. Further increase of the water content leads to the creation of hydrated (001)-surfaces that are made of densely packed water chains in agreement with the infrared spectroscopy measurements. Rb 2 Ti 2 O 5 exhibits highly anisotropic proton conductivity, with respect to the crystal orientation, with super-ionic conductivity along ___ b reaching 3 mS/cm at room temperature after hydration. The combined observations and simulations suggest that these water chains are thus at the root of fast proton conduction, which is likely powered by a Grotthuss-like mechanism.",
+  "authors": [
+   "Mathilde Arnaud",
+   "Guillaume Benas",
+   "Narimane Meziani",
+   "Armel Descamps-Mandine",
+   "Claudie Josse",
+   "Sophia Akkari",
+   "Thierry Douillard",
+   "Sofia de Sousa Coutinho",
+   "Mélanie de Vos",
+   "Stéphane Holé",
+   "Gwenaëlle Rousse",
+   "Rémi Federicci",
+   "Sylvain Franger",
+   "Paola Giura",
+   "Fabio Finocchi",
+   "Brigitte Leridon"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mathilde Arnaud",
+  "pdf_url": "http://arxiv.org/pdf/2606.24239",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-23",
+  "tags": [
+   "density-functional-theory",
+   "grotthuss",
+   "proton-transport"
+  ],
+  "title": "One-dimensional self-organization of water molecules in proton conducting Andersson-Wadsley titanates",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.24246": {
+  "abstract": "The quest for the origin of life, especially in the metabolism-first scenario inspired by the celebrated Miller-Urey experiment, has triggered a research program dedicated to studying the emergence of complex dynamical behaviors in large chemical mixtures. Though autocatalysis, understood as the capacity of a reaction network to grow exponentially, has been recognized as a potential driver of instability and multistability, no quantitative theory has yet emerged, partly because of the lack of available kinetic data. We introduce a computational tool for large chemical reaction networks based on a scale-splitting algorithm inspired by Wilson's renormalization group. We focus on dilute regimes, where species of interest have low concentration, non-unimolecular reactions may be neglected, and the dynamics is close to linear. Depending on parameter thresholds, such networks can exhibit autocatalytic behavior. Our algorithm takes as input a network structure and outputs (1) a simplified effective graph containing the dominant reaction pathways, obtained through recursive coarse-graining; and (2) analytical formulas for the dynamics in terms of kinetic rates, called hierarchical formulas. These formulas are approximate but interpretable, accurate when scale separation is effective, and provide a reliable multiscale description of the dynamics. Their domains of validity define kinetic phases, each typically associated with a distinct pattern of chemical composition. We show on a simple example that this approach enables fast and reliable inference of kinetic rates from concentration time series. Hierarchical formulas have been implemented as a Python package and are illustrated on a simplified model of the formose reaction.",
+  "authors": [
+   "J. Unterberger",
+   "U. Herbach",
+   "R. Cellier"
+  ],
+  "categories": [
+   "q-bio.MN",
+   "physics.chem-ph"
+  ],
+  "comment": "20 pages, 5 figures",
+  "first_author": "J. Unterberger",
+  "pdf_url": "http://arxiv.org/pdf/2606.24246",
+  "primary_category": "q-bio.MN",
+  "published": "2026-06-23",
+  "tags": [
+   "autocatalysis",
+   "origin-of-life",
+   "reaction-networks"
+  ],
+  "title": "Hierarchical models for large chemical reaction networks",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.24458": {
+  "abstract": "The search for exoplanet biosignatures is guided by whether planetary environments can sustain photosynthesis. As such, the Photosynthetic Habitable Zone (PHZ) was recently proposed, as the overlap between the canonical habitable zone and the orbital range where stellar irradiance is sufficient to drive photosynthesis. Existing PHZ estimates rely on empirical light-response curves from Earth phytoplankton, and thus include implicit Earth-centric biases. We introduce an agnostic PHZ derived from a generalized model of photosynthesis grounded in thermodynamics and redox chemistry, without reference to model organisms. The model is built on a generic photochemical reaction in which photon capture couples oxidation of a donor molecule to the reduction of CO2. The optical properties and CO2 reduction rate are optimized against irradiance spectra for exoplanets orbiting main-sequence stars, using a genetic algorithm that mimics evolution by natural selection. Our simulations predict that photosynthetic organisms compensate for reduced flux by evolving larger light-harvesting structures. As a result, photosynthetic viability declines only linearly with orbital distance, despite stellar flux falling off quadratically. As such, the agnostic PHZ expands well beyond previous Earth-based estimates. Earth-like (visible light) oxygenic photosynthesis is flux-limited at the outer habitable zone for cool M-dwarf stars; however, both anoxygenic photosynthesis and a hypothetical, NIR-driven oxygenic photosynthesis are viable across the entire habitable zone for M, K, and G stars. This implies that M-dwarf exoplanets could sustain robust oxygenic photosynthesis, though it would be different to that found on Earth, presenting reflectance biosignatures in the NIR band rather than the visible.",
+  "authors": [
+   "Callum Gray",
+   "Cassandra Hall",
+   "Stefano Santabarbara",
+   "Klaus Schmidt-Rohr",
+   "Andrew Ringham",
+   "Edward Gillen",
+   "Thomas J. Haworth",
+   "Christopher D. P. Duffy"
+  ],
+  "categories": [
+   "astro-ph.EP",
+   "astro-ph.IM",
+   "cs.LG"
+  ],
+  "comment": "17 pages main body, 5 figures. Submitted to MNRAS",
+  "first_author": "Callum Gray",
+  "pdf_url": "http://arxiv.org/pdf/2606.24458",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-06-23",
+  "tags": [
+   "co2-reduction"
+  ],
+  "title": "An Agnostic Machine Learning Model of Photosynthetic Habitability",
+  "topics": [
+   "CO2 Reduction and Formate"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.24480": {
+  "abstract": "Solid electrolytes (SEs) are central to next-generation metal batteries, yet their discovery remains constrained by fragmented data, limited transferability of simulations, and slow experimental iteration. Unlike catalysis, where surface reactivity dominates, SEs require simultaneous optimization of bulk ion transport, defect chemistry, mechanical integrity, and interfacial stability. Here, we outline a framework for autonomous SE discovery enabled by large artificial intelligence (AI) models, including machine learning interatomic potentials (MLIPs) and large language models (LLMs). We discuss the evolution from static materials databases to dynamic, self-updating knowledge systems, the role of MLIPs in bridging density functional theory (DFT) and long-timescale ion migration, and the emergence of LLMs as engines for literature mining, hypothesis generation, and scientific reasoning. We further describe a closed-loop architecture integrating AI-driven candidate design, multiscale simulation, uncertainty-aware selection, and experimental validation. Such systems shift SE research from intuition-guided exploration to data-informed, self-improving cycles. We conclude by highlighting challenges in data standardization, interfacial complexity, and reproducibility, and we propose design principles for building autonomous laboratories for solid-state battery materials.",
+  "authors": [
+   "Eric Jianfeng Cheng",
+   "Min Hong",
+   "Zhiquan Zeng",
+   "Chuanyu Liu",
+   "Qian Wang",
+   "Melissa Jane Meadowcroft",
+   "Vlad Badilita",
+   "Carlos Miguel Costa",
+   "Senentxu Lanceros-Méndez",
+   "Ying Li",
+   "Chenyao Ma",
+   "Weibo Gong",
+   "Surendra Martha",
+   "Aloysius Soon",
+   "Piao Ma",
+   "Di Zhang",
+   "Teguh Ariyanto",
+   " Sudaryanto",
+   "Hiroshi Kakinuma",
+   "Jie Zhao",
+   "Jiayu Peng",
+   "Pengfei Ou",
+   "Jun Lu",
+   "Shin-ichi Orimo",
+   "Hao Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "54 pages, 6 figures. Perspective article",
+  "first_author": "Eric Jianfeng Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2606.24480",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-23",
+  "tags": [
+   "density-functional-theory",
+   "ion-transport"
+  ],
+  "title": "Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-06-23"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>autocatalysis — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="autocatalysis-360d.html">360d</a> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24246.html">Hierarchical models for large chemical reaction networks</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
+<td>J. Unterberger et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24246">2606.24246</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14133.html">Diffusion-driven autocatalytic dynamics on a sphere</a></div></td>
