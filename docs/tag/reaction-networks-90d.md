@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reaction-networks — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <strong>90d</strong> <a href="reaction-networks-360d.html">360d</a> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02627.html">Topological bounds on the dynamical growth rate of chemical reaction networks</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a></div></td>
 <td>Praful Gagrani et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02627">2603.02627</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25522.html">Automating Computational Chemistry Workflows via OpenClaw and Domain-Specific Skills</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mingwei Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25522">2603.25522</a></td>
 </tr>
 </tbody></table>

@@ -3201,5 +3201,207 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-06-23"
+ },
+ "2606.24922": {
+  "abstract": "Quantum optimization offers a route to searching the large defect-configuration spaces that arise in materials design. We develop an end-to-end, constraint-aware quantum optimization workflow for composition-defect search in a doped ZrO2 thermal-barrier-coating (TBC) material system, using a MACE-MPA-0 energy dataset to fit a 24-variable QUBO over 8 cation-occupation and 16 oxygen-vacancy variables with exactly two rare-earth substitutions and one oxygen vacancy, yielding 448 feasible configurations. The QUBO surrogate reproduces the MACE energies with held-out R2 = 0.997 (full-data R2 = 0.999, RMSE = 17 meV). We validate two complementary quantum pathways against exact enumeration: a constraint-preserving XY-mixer QAOA that confines sampling to the feasible subspace and places 86% of probability mass within 1 meV of the MACE optimum at depth p = 3, and a fault-tolerant constrained Grover Adaptive Search oracle with explicit fixed-point arithmetic, branch-safe comparison, feasibility checking, and phase kickback. Across threshold cases, the validated oracle uses 324 high-level logical qubits, or 352 to 358 with conservative clean-ancilla v-chain accounting, and requires 3.6 to 4.3 x 104 Toffoli gates per Grover (GAS) iteration. An idealized feasible-space amplification estimate suggests up to a 240x reduction in total Toffoli cost relative to the full 224 occupation space, providing a resource-estimation bridge between materials-informed QUBO modeling, constraint-aware QAOA, and fault-tolerant threshold search.",
+  "authors": [
+   "Huajing Song"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 9 figures, 4 tables",
+  "first_author": "Huajing Song",
+  "pdf_url": "http://arxiv.org/pdf/2606.24922",
+  "primary_category": "quant-ph",
+  "published": "2026-06-20",
+  "tags": [
+   "mace",
+   "vacancies"
+  ],
+  "title": "Constraint-Aware Quantum Optimization of Defect Configurations in Doped ZrO2: XY-Mixer QAOA and Grover Adaptive Search",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.24983": {
+  "abstract": "Implicit solvent machine learning potentials (MLPs) offer a powerful route to bridging the gap between accuracy and efficiency in molecular simulations. However, existing models have largely focused on aqueous environments, overlooking the diverse and important roles of non-aqueous solvents in areas such as organic synthesis and battery technology. Here, we present ConSolv, a solvent-conditional MLP architecture that explicitly incorporates solvent effects on solute interactions through an attention-based solvent-embedding block. By combining experimental solvation free energy data with ab initio data, we train a single implicit solvent MLP that is transferable across 66 common organic solvents. ConSolv outperforms classical explicit solvent methods and selected ab initio implicit solvent approaches across multiple solvation free energy benchmarks, and demonstrates generalization to unseen solvents. Beyond solvation free energies, the model shows close agreement with experimental nuclear magnetic resonance (NMR) data for $γ$-fluorohydrin molecules in chloroform. ConSolv's architecture is readily extensible to broader chemical spaces and alternative training strategies, while its attention-based design supports explainable artificial intelligence (AI) analysis that can help elucidate complex, solvent-dependent molecular interactions.",
+  "authors": [
+   "Linying Zhang",
+   "Julija Zavadlav"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Linying Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.24983",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-23",
+  "tags": [
+   "ab-initio",
+   "explicit-solvation",
+   "solvation-thermodynamics"
+  ],
+  "title": "ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.25175": {
+  "abstract": "Electrochemical reactions at buried electrode-electrolyte interfaces govern how redox-active materials store and release energy. However, these reactions are difficult to visualize because chemical and morphological changes occur simultaneously over distinct length and time scales. Existing operando microscopies often require trade-offs among chemical sensitivity, spatial resolution and temporal resolution. Direct nanoscale tracking of such processes throughout extended timescale has therefore remained out of reach. Here, we develop a fast and robust operando soft X-ray spectro-ptychography platform that delivers chemical-state-resolved spatiotemporal movies of redox-active electrodes over the full battery lifetime. Applied to an alkaline Fe anode, the method reveals that reversible charge storage gives way to degradation through two competing processes: rapid hydroxide insertion that drives early reversible cycling, and slower dissolution-redeposition that redistributes Fe, enlarges FeOOH particles, and ultimately causes capacity loss. By separating fast charge-storage chemistry from slower degradation chemistry in operando and at both single-particle and particle ensemble level, this work establishes spectro-ptychography as a general approach for studying dynamic redox transformations in batteries, electrocatalysts, and other electrochemical materials.",
+  "authors": [
+   "Xiao Zhao",
+   "Yuchen Cao",
+   "Evan Z Carlson",
+   "Angel Burgos",
+   "Daniel Jacobs",
+   "Hanfeng Zhong",
+   "Lily Taylor",
+   "Haozhi Sha",
+   "Feng-yang Chen",
+   "Yu Shan",
+   "Hendrik Ohldag",
+   "Alexander Ditter",
+   "José A. Rodriguez",
+   "David Shapiro",
+   "William Chueh",
+   "Jianwei Miao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "46 pages, 4 figures",
+  "first_author": "Xiao Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2606.25175",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-23",
+  "tags": [
+   "electrocatalysis"
+  ],
+  "title": "Operando spectro-ptychography reveals dynamical charge-storage and degradation pathways in redox-active electrodes",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-06-23"
+ },
+ "2606.25408": {
+  "abstract": "Lithium carbonate, Li2CO3, is a thermodynamically stable carbonate phase whose defect energetics are closely related to its stability and decomposition behavior in various lithium-based electrochemical systems. These properties of Li2CO3 are particularly important in lithium-oxygen battery environments. In these systems, Li2CO3 can form as a parasitic discharge product alongside Li2O2, the primary discharge product, leading to performance degradation. However, compared with Li2O2, the intrinsic defect thermodynamics of Li2CO3 and how chemical doping modifies its defect energetics remain insufficiently understood. In this study, first-principles calculations were performed to systematically analyze the intrinsic point-defect energetics of Li2CO3 and to evaluate the effects of fluorine doping on vacancy formation energies in Li2CO3 and Li2O2. Intrinsic defect analysis reveals that defect behavior is predominantly governed by lithium-related defects. Upon fluorine doping, lithium and carbon vacancy formation energies decrease selectively in Li2CO3, partially destabilizing the carbonate framework, while a reduction in lithium vacancy formation energy is also observed in Li2O2. These results suggest that fluorine doping modulates the defect energetics of both discharge products, potentially providing a thermodynamic basis for controlling the stability of Li2CO3 and Li2O2 under thermodynamic conditions representative of lithium-oxygen batteries.",
+  "authors": [
+   "Youjeong Choi",
+   "Tasuku Sugiura",
+   "Keisuke Mukai",
+   "Nanako Ishihara",
+   "Shuji Nakanishi",
+   "Teruyasu Mizoguchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "30 pages, 7 figures, 9 pages of Supporting Information",
+  "first_author": "Youjeong Choi",
+  "pdf_url": "http://arxiv.org/pdf/2606.25408",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-24",
+  "tags": [
+   "ab-initio",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25742": {
+  "abstract": "Solid-state cooling based on the barocaloric (BC) effect has emerged as promising environmentally friendly prospective alternative to conventional vapor-compression refrigeration. The search for suitable BC materials relies on efficient atomistic simulations of their phase behavior. Machine-learned interatomic potentials (MLIPs) enable such simulations at near density functional theory (DFT) accuracy, but generating the required DFT training data remains computationally demanding, which motivates development of strategies that reduce the amount of data needed to train accurate models. In this work, we use a prototypical BC material, ammonium sulfate, as a model system and investigate how small a training set can be while still reproducing the temperature-driven structural phase transformation that underlies its BC response. We train a series of MLIPs based on the MACE architecture using three strategies: training from scratch, and naive- and multihead replay fine-tuning of the MACE-MPA-0 foundation model. These strategies are evaluated on their ability to reproduce the phase transformation of ammonium sulfate in molecular dynamics simulations across a range of training-set sizes. We find that, while the MACE-MPA-0 foundation model itself fails to reproduce the transformation, and models trained from scratch break down for small datasets, fine-tuned models reproduce the transformation using as few as 5 to 10 60-atom DFT configurations. Both fine-tuning protocols yield similarly accurate results for ammonium sulfate, but we also find some indications that multihead replay fine-tuning is more robust on configurations outside the fine-tuning domain. Exploiting this data efficiency, we further show that models can be trained on small datasets and the hybrid-DFT level, and that some form of inclusion of dispersion correction is necessary to describe the phase behavior correctly.",
+  "authors": [
+   "Ludwig Hedin",
+   "Johan Klarbring"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 9 figures, submitted to Physical Review Materials",
+  "first_author": "Ludwig Hedin",
+  "pdf_url": "http://arxiv.org/pdf/2606.25742",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-24",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Barocaloric phase transformation from data efficient fine-tuning of machine learned interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25853": {
+  "abstract": "We present a model for magnesium-based systems that combines density functional tight binding (DFTB) with MACE, a machine learning interatomic potential (DFTB+MACE). In this model, the conventional repulsive potential, pair potential, is replaced by a many-body MACE potential. The MACE component of the model is trained on the difference between density functional theory (DFT) energies and forces and the corresponding DFTB values, but neglecting the pair potential contribution. Using this model we performed structural relaxation of MgO-CO2 adsorption systems, molecular dynamics calculations of water clusters and phonon spectrum calculations of stable fcc-MgO and metastable bcc-MgO structures. We compare the performance of our model with a pure MACE model and with DFT. We demonstrate that the DFTB+MACE model achieves improved accuracy relative to DFTB with a pair potential, in many cases with only a moderate increase in computational cost. In addition, it can provide electronic structures that most of the machine learning potentials cannot. The training dataset, originally developed for MACE, may not fully represent all regions of the potential surface we may encounter during simulations. Expanding the dataset for a wider potential surface is expected to further enhance predictive accuracy of DFTB+MACE model. Overall, the resulting DFTB+MACE framework enables simulations at length and time scales beyond the reach of first-principles methods while retaining an explicit description of electronic structures, making it particularly attractive for studying charge-transfer in materials.",
+  "authors": [
+   "Jiwen Yu",
+   "Arash A. Mostofi",
+   "Andrew Horsfield"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiwen Yu",
+  "pdf_url": "http://arxiv.org/pdf/2606.25853",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-24",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "co2-adsorption",
+   "density-functional-theory",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.25862": {
+  "abstract": "The critical current of a type-II superconductor is controlled by vortex pinning, whose microscopic input is the elementary pinning force. Scanning tunneling spectroscopy has shown that a defect pins a vortex by reorganizing the Caroli-de Gennes-Matricon (CdGM) states in its core, but why this spectral reorganization amounts to a pinning force has lacked a quantum-mechanical, first-principles account. Here we establish a transferable first-principles computational framework for elementary vortex pinning, in which defect-resolved DFT/Wannier electronic structures are embedded into a finite-box projected Bogoliubov-de Gennes free-energy formalism to convert quasiparticle spectral reorganization into vortex-pinning energies and forces. Using this framework, we confirm that the defect-induced reorganization of the vortex-core spectrum is the microscopic origin of the elementary pinning force. The force is evaluated as a finite-box vortex-insertion free energy whose four-configuration subtraction isolates the meV-scale interaction from much larger backgrounds. With the superconducting gap scale and vortex-core profile fixed from experiments, the FeSe Fe-site vacancy reproduces the microscopic STM value together with the measured spectral reorganization. All five point defects in FeSe and FeTe pin attractively, with FeTe Te-site vacancy strongest. Elementary vortex pinning thereby becomes a computable electronic-structure quantity, opening the first-principles screening of point defects toward higher critical currents.",
+  "authors": [
+   "Haozhe Shi",
+   "Yuncheng Xie",
+   "Tong Zhang",
+   "Weibin Chu",
+   "Xin-Gao Gong"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "physics.comp-ph"
+  ],
+  "comment": "17 pages, 6 figures",
+  "first_author": "Haozhe Shi",
+  "pdf_url": "http://arxiv.org/pdf/2606.25862",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-24",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "First-Principles Quantum-Spectral framework for Elementary Vortex Pinning in superconductors",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-24"
  }
 }
