@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>origin-of-life — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <strong>360d</strong> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27184.html">Chemical Complexity in the Early Stages of Star Formation in the SKAO Era</a></div></td>
+<td>Eleonora Bianchi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27184">2606.27184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24246.html">Hierarchical models for large chemical reaction networks</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
@@ -410,23 +416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08727.html">Constraining the survival of HCN during cometary impacts</a></div></td>
 <td>Catriona H. McDonald et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08727">2507.08727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00106.html">Challenge-Based Funding to Spark Origins Breakthroughs</a></div></td>
-<td>Cole Mathis et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00106">2507.00106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00164.html">Testing Origin-of-Life Theories with the Habitable Worlds Observatory (HWO)</a></div></td>
-<td>Sukrit Ranjan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00164">2507.00164</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00165.html">Prebiosignatures with the Habitable Worlds Observatory (HWO)</a></div></td>
-<td>Sukrit Ranjan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00165">2507.00165</a></td>
 </tr>
 </tbody></table>

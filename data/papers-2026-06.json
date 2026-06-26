@@ -3403,5 +3403,237 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-06-24"
+ },
+ "2606.26243": {
+  "abstract": "We investigate the mineral bobkingite, \\ce{Cu5(OH)8Cl2(H2O)2}, as a potential realization of the sawtooth chain. Using \\textit{ab initio} methods, we estimate the magnetic exchange couplings and find that bobkingite hosts quasi-one-dimensional sawtooth chains, with residual three-dimensional interactions strongly suppressed by the crystal geometry. Examining the full exchange network, we find that the classical model exhibits an extensive manifold of nearly degenerate states with emergent two-dimensional character, which spin-wave theory shows to persist to leading order in quantum fluctuations as Ising degrees of freedom. Unlike other sawtooth candidates, bobkingite has negligible vertical interchain coupling, preserving a one-dimensional degeneracy even in the presence of ordering, suggesting that any long-range order is weak. Thermal fluctuations may thus stabilize a finite-temperature classical spin liquid regime, with a cascade of transitions upon cooling into successively lower-dimensional degenerate states, making bobkingite a compelling platform for exploring sawtooth chain physics.",
+  "authors": [
+   "P. Peter Stavropoulos",
+   "Aleksandar Razpopov",
+   "Harrison LaBollita",
+   "Michael R. Norman",
+   "Antia S. Botana",
+   "Roser Valentí"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "8 pages main text, 11 pages including supplementary material; 5 main-text figures and 1 supplementary figure; 1 main-text table and 3 supplementary tables",
+  "first_author": "P. Peter Stavropoulos",
+  "pdf_url": "http://arxiv.org/pdf/2606.26243",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-24",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Bobkingite, a new coupled sawtooth chain platform",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.26269": {
+  "abstract": "Chromium oxide (Cr$_2$O$_3$) is widely considered a $p$-type transparent conducting oxide despite ongoing debate regarding its intrinsic transport character. Here, we resolve this question by computing phonon-limited electron and hole mobilities using the ab initio Boltzmann transport equation. We find that electron mobility systematically exceeds hole mobility over a wide temperature range, demonstrating that Cr$_2$O$_3$ is intrinsically $n$-type. Analysis of scattering mechanisms reveals that scattering with phonons affects electrons and holes similarly, and that the mobility asymmetry originates from the electronic structure, namely the larger effective mass and multi-valley character of the valence band. The intrinsic $n$-type character, combined with moderate hole mobility, enables bipolar transport and revises the role of Cr$_2$O$_3$ in transparent electronics. Additionally, our results on mobility complement previous studies on defect formation indicating that the commonly observed $p$-type behavior is extrinsic. These insights provide a complete chemical-transport paradigm for Cr$_2$O$_3$, re-evaluating its role in functional transparent electronic and magneto-optoelectronic applications",
+  "authors": [
+   "Á. A. Carrasco Álvarez",
+   "S. Poncé"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "13 pages, 8 figures",
+  "first_author": "Á. A. Carrasco Álvarez",
+  "pdf_url": "http://arxiv.org/pdf/2606.26269",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-24",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Challenging the $p$-type Paradigm: Intrinsic $n$-type Mobility in Antiferromagnetic Cr$_2$O$_3$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-06-24"
+ },
+ "2606.26501": {
+  "abstract": "Tungsten-based refractory high-entropy alloys (RHEAs) are promising materials for fusion applications but often remain brittle at room temperature because of tungsten's high ductile-to-brittle transition temperature (DBTT). To identify alloying strategies that improve ductility, we compiled a curated dataset of experimentally reported tungsten-containing alloys and developed composition-based, physics-informed descriptors for machine learning. Three classifiers were evaluated using nested cross-validation, and a support vector classifier (SVC) showed the best generalization for this sparse dataset. Shapley additive explanations identified the exchange-correlation parameter, valence electron concentration, pressure field, and electronegativity mismatch as the most influential features governing ductile-brittle behavior. Synthetic compositions generated within the convex interpolation domain of the training data were evaluated and visualized on pseudo-ternary diagrams to map predicted ductility trends. The model predicts that moderate additions of Ti, Ni, and Co increase the likelihood of room-temperature ductility, whereas high Cr contents promote brittle behavior. These predictions agree with published experimental observations, including Ti-assisted ductility through solid-solution and electronic effects and embrittlement in Cr-rich refractory alloys. Agreement between DFT-derived elastic descriptors and SVC decision-function margins further supports the physical relevance of the learned classification boundary. Although the available mechanical dataset remains limited and heterogeneous, the model captures experimentally consistent trends and provides an interpretable, physics-informed framework for screening tungsten-based RHEAs for targeted simulation and experimental validation in fusion environments.",
+  "authors": [
+   "Avik Mahata",
+   "Nick Beaver"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Avik Mahata",
+  "pdf_url": "http://arxiv.org/pdf/2606.26501",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-25",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Ductility Design Rules for Tungsten based Refractory High Entropy Alloys from Sparse Experimental Datasets",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.26646": {
+  "abstract": "We present a comprehensive characterisation of dynamic heterogeneity in sodium silicate melts using molecular dynamics simulation with machine-learning potentials. By studying sodium disilicate, tetrasilicate, and hexasilicate melts across a range of temperatures, mean squared displacement and a time-correlation function computed up to the nanosecond timescale provide a detailed account of how spatial mobility disparities emerge in a realistic multicomponent oxide glass. Within these timescales, the self-part of the van Hove function for sodium displays a bimodality, demonstrating that alkali transport is mediated by discrete displacement events consistent with a hopping mechanism. This distinct hopping allows sodium ions to decouple from the sluggish relaxation of the silicate matrix. Furthermore, evaluation of the non-Gaussian parameter reveals that, although all constituent species exhibit dynamic heterogeneity, the non-Gaussian behaviour is most pronounced for oxygen atoms. This trend reflects the intermittency of structural rearrangements, where framework atoms undergo rare and stochastic events compared to the frequent displacements of mobile ions. Our findings elucidate the microscopic mechanism of ion transport and its connection to dynamic heterogeneity in silicate melts, offering a new avenue to study fundamental glassy physics in realistic vitreous materials.",
+  "authors": [
+   "Kumpei Shiraishi",
+   "Rikuta Nozawa",
+   "Emi Minamitani"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 7 figures",
+  "first_author": "Kumpei Shiraishi",
+  "pdf_url": "http://arxiv.org/pdf/2606.26646",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-25",
+  "tags": [
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Dynamic heterogeneity in sodium silicate melts via machine-learning potential",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.26833": {
+  "abstract": "The formation and survival of complex organic molecules (COMs) in cold interstellar environments depends on their interactions with icy dust grain surfaces. Methanol, a key COM detected in cold cores and protoplanetary disks, is believed to form on amorphous solid water (ASW) through surface reactions and reside there until it is desorbed into the gas phase. We present a theoretical study of the binding energies (BEs) of methanol and its photolysis-derived species on ASW clusters by means of dispersion-corrected density functional theory (DFT) using a refined protocol implemented in the Binding Energy Evaluation Platform (BEEP). Molecules capable of hydrogen bonding, such as H2O, CH3OH, HCOOH, and OH, exhibit high BEs and broad BE distributions that reflect the structural heterogeneity of the ASW surface. In contrast, weakly interacting volatiles including CO, CO2, CH4, and CH3 display narrower distributions dominated by dispersion interactions. Open-shell radicals such as CH2OH and OH bind more strongly than HCO and CH3 due to their ability to form directional hydrogen bonds. Incorporation of our BEs into an astrochemical model, in conjunction with a recalculation of the pre-exponential factor using transition state theory, demonstrates the sensitivity of model results to the method of calculation of the grain-surface reaction rates. The new approach generally predicts a higher abundance of radicals on the ice that are key reactants for the formation of COMs when surface diffusion is assumed to be efficient. These findings emphasize the importance of incorporating BEs that have been determined in a self-consistent manner into astrochemical models, and provide reliable theoretical benchmarks for species with limited experimental data.",
+  "authors": [
+   "Aneesa Ahmad",
+   "Catherine Walsh",
+   "Stefan Vogt-Geisse",
+   "Gabriela Silva-Vera",
+   "Felix Sainsbury-Martinez"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.EP",
+   "astro-ph.SR"
+  ],
+  "comment": "Resubmitted to AAS Journals following revision",
+  "first_author": "Aneesa Ahmad",
+  "pdf_url": "http://arxiv.org/pdf/2606.26833",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-06-25",
+  "tags": [
+   "adsorption-energy",
+   "density-functional-theory",
+   "formate",
+   "neb"
+  ],
+  "title": "Theoretical determination of the binding energies of methanol and related species onto amorphous solid water ice",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.26834": {
+  "abstract": "Solute-dislocation interactions play a central role in controlling microstructural evolution and mechanical behaviour of structural materials, yet conventional atomistic modelling approaches struggle to combine the chemical accuracy with computational scalability. In the nuclear industry, these challenges become particularly acute, as experiments reveal strong correlations between solute segregation and irradiation-induced dislocation loops. However, theoretical insight remains limited because density functional theory (DFT) simulations are prohibitively expensive at relevant length scales, while traditional semi-empirical interatomic potentials lack the chemical fidelity required for predictive solute-defect calculations. Here, we introduce a hybrid quantum-mechanics/machine-learning (QM/ML) simulation framework that couples DFT with neural-network machine learning interatomic potentials (MLIPs), enabling accurate atomistic dislocation simulations at reduced computational cost. We demonstrate the QM/ML framework's capability by reproducing the experimentally observed Sn and Fe segregation to dislocation loops in Zr and investigating magnetically complex solute-dislocation interactions in steel. These results establish the approach as a transferable, high-fidelity tool for modelling irradiation-induced defect structures and benchmarking emerging MLIPs.",
+  "authors": [
+   "Junting Zhang",
+   "Colleen Reynolds",
+   "Ryan S. Stroud",
+   "Jana Smutna",
+   "Daniel J. M. King",
+   "Andrew P. Horsfield",
+   "Mark R. Wenman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 11 figures in main text; supplementary information included",
+  "first_author": "Junting Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.26834",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-25",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "A Hybrid Quantum Mechanics Machine Learning Forcefield (QM/ML) Framework for Accurate Solute-Dislocation Interaction Simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.27184": {
+  "abstract": "About 350 molecules have been identified in the interstellar medium (ISM), including complex molecules relevant to prebiotic chemistry. A remarkable level of molecular diversity has been observed from the earliest stages of star formation, providing the initial chemical inventory inherited by planetary systems. Radio observations have played a pivotal role in these discoveries, starting with the identification of the first polyatomic molecule, $\\text{NH}_3$ (Cheung et al. 1968). (Sub-)millimeter observations have revealed complex organic molecules of prebiotic relevance, including formamide ($\\text{NH}_2\\text{CHO}$), glycolaldehyde ($\\text{CH}_2\\text{OHCHO}$), and even urea ($(\\text{NH}_2)_2\\text{CO}$), and hydroxylamine ($\\text{NH}_2\\text{OH}$), which are possible precursors of RNA nucleotides (Ceccarelli et al. 2023; Jiménez-Serra et al. 2020). However, in dense protostellar regions, dust opacity hampers the detection of molecular emission. Additionally, large molecules and those containing heavy atoms, which have rotational transitions at lower frequencies, often remain inaccessible to current instruments. The Square Kilometre Array Observatory (SKAO) will provide an unprecedented combination of sensitivity and angular resolution at radio wavelengths. This will allow for the detection of prebiotic species and offer new insights into the chemical pathways that shape emerging planetary systems (Jiménez-Serra et al. 2022). This chapter details the scientific questions and advancements that the SKAO, and more specifically, SKA-Mid equipped with the Band 5 receivers, will pursue in the field of astrochemistry, focusing on the chemical complexity in both high-mass and solar-type star-forming regions.",
+  "authors": [
+   "Eleonora Bianchi",
+   "Mathilde Bouvier",
+   "Claudio Codella",
+   "Laura Colzi",
+   "Audrey Coutens",
+   "Marta De Simone",
+   "Joan Enrique Romero",
+   "Gisela Esplugues",
+   "Francesco Fontani",
+   "Antonio Garufi",
+   "Lisa Giani",
+   "Arshia Maria Jacob",
+   "Izaskun Jiménez-Serra",
+   "Marco Padovani",
+   "Linda Podio",
+   "Albert Rimola",
+   "Pablo Rivière Marichalar",
+   "Giovanni Sabatini",
+   "Andrea Socci",
+   "Riccardo Giovanni Urso",
+   "Tyler L. Bourke",
+   "Gemma Busquet",
+   "Paola Caselli",
+   "Cecilia Ceccarelli",
+   "Tomoya Hirota",
+   "John D. Ilee",
+   "Valerio Lattanzi",
+   "Manuela Lippi",
+   "Ana López-Sepulcre",
+   "Pierre Marchand",
+   "Liton Majumdar",
+   "Sabyasachi Pal",
+   "Maria Elisabetta Palumbo",
+   "Jaime E. Pineda",
+   "Manoj Puravankara",
+   "Elena Redaelli",
+   "Victor M. Rivilla",
+   "Basmah Riaz",
+   "Álvaro Sánchez-Monge",
+   "Silvia Spezzano",
+   "Leonardo Testi",
+   "Himanshu Tyagi",
+   "Claudia Toci",
+   "Alessio Traficante",
+   "Grazia Umana",
+   "Charlotte Vastel",
+   "Susanne Wampfler"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.GA"
+  ],
+  "comment": "Published in Advancing Astrophysics with the SKA II (AASKAII), 2026 (arXiv:2606.20366). Report-no:AASKAII/Bianchi01. Advancing Astrophysics with the SKA II (AASKAII) outlines the transformative scientific advances that will be enabled by the SKA telescopes",
+  "first_author": "Eleonora Bianchi",
+  "pdf_url": "http://arxiv.org/pdf/2606.27184",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-06-25",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Chemical Complexity in the Early Stages of Star Formation in the SKAO Era",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-06-25"
  }
 }

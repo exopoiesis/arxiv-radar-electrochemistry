@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26646.html">Dynamic heterogeneity in sodium silicate melts via machine-learning potential</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
+<td>Kumpei Shiraishi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26646">2606.26646</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25742.html">Barocaloric phase transformation from data efficient fine-tuning of machine learned interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a></div></td>
 <td>Ludwig Hedin et al.</td>
@@ -3386,11 +3392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01220.html">Probing aqueous interfaces with spin defects</a></div></td>
 <td>Alfonso Castillo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01220">2507.01220</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11199.html">Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Selva Chandrasekaran Selvaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11199">2506.11199</a></td>
 </tr>
 </tbody></table>

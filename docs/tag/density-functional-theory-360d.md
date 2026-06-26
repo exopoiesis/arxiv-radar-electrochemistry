@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">821 papers</span>
+  <span class="paper-count">822 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26501.html">Ductility Design Rules for Tungsten based Refractory High Entropy Alloys from Sparse Experimental Datasets</a></div></td>
+<td>Avik Mahata et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26501">2606.26501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26833.html">Theoretical determination of the binding energies of methanol and related species onto amorphous solid water ice</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="formate-360d.html">formate</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Aneesa Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26833">2606.26833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26834.html">A Hybrid Quantum Mechanics Machine Learning Forcefield (QM/ML) Framework for Accurate Solute-Dislocation Interaction Simulations</a></div></td>
+<td>Junting Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26834">2606.26834</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25742.html">Barocaloric phase transformation from data efficient fine-tuning of machine learned interatomic potentials</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -4928,17 +4946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10557.html">An eco-friendly universal strategy via ribavirin to achieve highly efficient and stable perovskite solar cells</a></div><div class="paper-tags"><a href="surface-defects-360d.html">surface-defects</a></div></td>
 <td>Xianhu Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10557">2507.10557</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16977.html">Influence of the Effective Mass on ab initio Phonon-limited Electron Mobility of GaAs</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Mohammad Dehghani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16977">2506.16977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00300.html">Engineering NV Centers via Hydrogen-Driven Defect Chemistry in CVD Diamonds for Quantum Applications: NVHx Dissociations into NV, Origin of 468nm Center, and Cause of Brown Coloration</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Mubashir Mansoor et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00300">2507.00300</a></td>
 </tr>
 </tbody></table>

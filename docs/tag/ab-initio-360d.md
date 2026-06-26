@@ -34,6 +34,18 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.25862">2606.25862</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26243.html">Bobkingite, a new coupled sawtooth chain platform</a></div></td>
+<td>P. Peter Stavropoulos et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26243">2606.26243</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26269.html">Challenging the $p$-type Paradigm: Intrinsic $n$-type Mobility in Antiferromagnetic Cr$_2$O$_3$</a></div></td>
+<td>Á. A. Carrasco Álvarez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26269">2606.26269</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24983.html">ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential</a></div><div class="paper-tags"><a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
 <td>Linying Zhang et al.</td>
@@ -2858,17 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00364.html">Machine Learning Accelerated Computational Surface-Specific Vibrational Spectroscopy Reveals Oxidation Level of Graphene in Contact with Water</a></div><div class="paper-tags"><a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xianglong Du et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00364">2507.00364</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16977.html">Influence of the Effective Mass on ab initio Phonon-limited Electron Mobility of GaAs</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Mohammad Dehghani et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16977">2506.16977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00318.html">Termination-Dependent Resistive Switching in SrTiO$_3$ Valence Change Memory Cells</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Marko Mladenović et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00318">2507.00318</a></td>
 </tr>
 </tbody></table>

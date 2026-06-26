@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>solvation-thermodynamics — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="solvation-thermodynamics-30d.html">30d</a> <a href="solvation-thermodynamics-90d.html">90d</a> <a href="solvation-thermodynamics-360d.html">360d</a> <a href="solvation-thermodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24983.html">ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="explicit-solvation-7d.html">explicit-solvation</a></div></td>
 <td>Linying Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24983">2606.24983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="hydration-shell-7d.html">hydration-shell</a> · <a href="ion-pairing-7d.html">ion-pairing</a> · <a href="ion-water-interactions-7d.html">ion-water-interactions</a> · <a href="mace-7d.html">mace</a></div></td>
-<td>Sebastian Falkner et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20105">2606.20105</a></td>
 </tr>
 </tbody></table>
