@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>explicit-solvation — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="explicit-solvation-7d.html">7d</a> <a href="explicit-solvation-30d.html">30d</a> <a href="explicit-solvation-90d.html">90d</a> <strong>360d</strong> <a href="explicit-solvation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03591.html">Molecular dynamics of ice-active solutions at ice-water interfaces</a></div><div class="paper-tags"><a href="formate-360d.html">formate</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Benjamin M. Harless et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03591">2508.03591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00364.html">Machine Learning Accelerated Computational Surface-Specific Vibrational Spectroscopy Reveals Oxidation Level of Graphene in Contact with Water</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xianglong Du et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00364">2507.00364</a></td>
 </tr>
 </tbody></table>
