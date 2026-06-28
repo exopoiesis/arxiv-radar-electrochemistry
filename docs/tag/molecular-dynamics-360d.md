@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">561 papers</span>
+  <span class="paper-count">559 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3368,17 +3368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03148.html">Probing interfacial water via color-center-enabled spin magnetometry</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Kang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03148">2507.03148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.21246.html">Activation entropy helps explain anomalous flow stress temperature dependence in copper</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
-<td>Mohammadhossein Nahavandian et al.</td>
-<td><a href="http://arxiv.org/abs/2504.21246">2504.21246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01562.html">Prenematic Fluctuations in Nanoparticle-Hosted Systems</a></div></td>
-<td>Szymon Starzonek et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01562">2507.01562</a></td>
 </tr>
 </tbody></table>

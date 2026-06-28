@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31447.html">Strain-Engineered s-C$_3$N$_6$ Monolayer for Efficient Water Splitting: A first-principles study</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Khushboo Dange et al.</td>
 <td><a href="http://arxiv.org/abs/2605.31447">2605.31447</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30270.html">Exploring the Origins of Anti-Ambipolarity in BBL Polymer: Links to Redox Chemistry, Electronic Structure, and Structural Dynamics</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Maryam Ghotbi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30270">2605.30270</a></td>
 </tr>
 </tbody></table>

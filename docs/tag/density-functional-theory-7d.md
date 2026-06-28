@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22395.html">Insights of Ammonia Decomposition on W--B Nanoclusters by Computational Simulations</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="neb-7d.html">neb</a></div></td>
 <td>Anastasiia V. Iosimovska et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22395">2606.22395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22119.html">First-principles study of the impact of As doping on the structural and electronic properties of MoS$_2$ monolayer</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>A. Daouadi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22119">2606.22119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22234.html">Fine-Tuned Machine-Learned Interatomic Potentials for Structural and Vibrational Properties of Twisted 2D Materials</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a></div></td>
-<td>Viet-Anh Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22234">2606.22234</a></td>
 </tr>
 </tbody></table>
