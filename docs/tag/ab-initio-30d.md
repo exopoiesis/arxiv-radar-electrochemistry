@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,17 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00794.html">Benchmark Dataset for Catalysis on 2D MXenes</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Pavlo Melnyk et al.</td>
 <td><a href="http://arxiv.org/abs/2606.00794">2606.00794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31203.html">Rigorous extension of semilocal collinear functionals to noncollinear DFT using $SU(2)$ rotations</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Konstantin Gaul</td>
-<td><a href="http://arxiv.org/abs/2605.31203">2605.31203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31447.html">Strain-Engineered s-C$_3$N$_6$ Monolayer for Efficient Water Splitting: A first-principles study</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2605.31447">2605.31447</a></td>
 </tr>
 </tbody></table>

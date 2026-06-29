@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03575.html">Influence of CO versus CH$_4$ on organic haze formation in atmospheres of diverse terrestrial exoplanets</a></div></td>
 <td>Sai Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03575">2604.03575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02627.html">Topological bounds on the dynamical growth rate of chemical reaction networks</a></div><div class="paper-tags"><a href="reaction-networks-90d.html">reaction-networks</a></div></td>
-<td>Praful Gagrani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02627">2603.02627</a></td>
 </tr>
 </tbody></table>

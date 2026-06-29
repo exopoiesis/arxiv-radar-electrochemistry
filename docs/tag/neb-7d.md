@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>neb — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="neb-30d.html">30d</a> <a href="neb-90d.html">90d</a> <a href="neb-360d.html">360d</a> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26833.html">Theoretical determination of the binding energies of methanol and related species onto amorphous solid water ice</a></div><div class="paper-tags"><a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="formate-7d.html">formate</a></div></td>
 <td>Aneesa Ahmad et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26833">2606.26833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22395.html">Insights of Ammonia Decomposition on W--B Nanoclusters by Computational Simulations</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Anastasiia V. Iosimovska et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22395">2606.22395</a></td>
 </tr>
 </tbody></table>

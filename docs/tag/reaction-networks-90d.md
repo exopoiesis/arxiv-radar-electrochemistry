@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reaction-networks — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <strong>90d</strong> <a href="reaction-networks-360d.html">360d</a> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07077.html">Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Zhoulin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07077">2604.07077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02627.html">Topological bounds on the dynamical growth rate of chemical reaction networks</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a></div></td>
-<td>Praful Gagrani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02627">2603.02627</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,23 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00794.html">Benchmark Dataset for Catalysis on 2D MXenes</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a></div></td>
 <td>Pavlo Melnyk et al.</td>
 <td><a href="http://arxiv.org/abs/2606.00794">2606.00794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30889.html">MLIPilot: LLM-Driven Auto-Research for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a></div></td>
-<td>Etinosa Osaro et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30889">2605.30889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31144.html">A Self-Evolving Machine-Learning-Based Kinetic Monte Carlo Method for Modelling Thin-Film Growth</a></div><div class="paper-tags"><a href="neb-30d.html">neb</a></div></td>
-<td>Jyri Kimari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.31144">2605.31144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00403.html">Microscopic origin of polytype-dependent melting in SiC revealed by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ljiljana Stojanović et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00403">2606.00403</a></td>
 </tr>
 </tbody></table>
