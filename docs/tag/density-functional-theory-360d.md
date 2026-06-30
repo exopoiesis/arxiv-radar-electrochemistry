@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">818 papers</span>
+  <span class="paper-count">814 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Shaobo Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26501.html">Ductility Design Rules for Tungsten based Refractory High Entropy Alloys from Sparse Experimental Datasets</a></div></td>
@@ -4892,35 +4898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03853.html">OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems</a></div></td>
 <td>Beom Seok Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03853">2507.03853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22017.html">Crystal Structure and Collective Oxygen Transport in the High-Temperature Phase of Ta$_{2}$O$_{5}$</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22017">2410.22017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03274.html">Metallic NbS2 one-dimensional van der Waals heterostructures</a></div></td>
-<td>Wanyu Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03274">2507.03274</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03303.html">$Σ$3(111) Grain Boundaries Accelerate Hydrogen Insertion into Palladium Nanostructures</a></div></td>
-<td>K. A. U. Madhushani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03303">2507.03303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03618.html">Effect of alloying additions on the lattice ordering of Ti$_2$AlNb intermetallic</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Adilakshmi Chirumamilla et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03618">2507.03618</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03840.html">Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction</a></div></td>
-<td>Manasa Kaniselvan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03840">2507.03840</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Shaobo Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30402.html">Quantum Computations on Fusion Blanket Molten Salts</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Susanta Das et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30402">2606.30402</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25408.html">Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study</a></div><div class="paper-tags"><a href="phase-stability-90d.html">phase-stability</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Youjeong Choi et al.</td>
@@ -686,17 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Harry Brough</td>
 <td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16017.html">The role of the apical oxygen in cuprate high-temperature superconductors</a></div></td>
-<td>Samuel Vadnais et al.</td>
-<td><a href="http://arxiv.org/abs/2601.16017">2601.16017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29484.html">Thermal Conductivity and Temperature-Induced Band Gap Renormalization in Crystalline and Amorphous Ga$_2$O$_3$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Rustam Arabov et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29484">2603.29484</a></td>
 </tr>
 </tbody></table>

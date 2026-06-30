@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">557 papers</span>
+  <span class="paper-count">554 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30402.html">Quantum Computations on Fusion Blanket Molten Salts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
+<td>Susanta Das et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30402">2606.30402</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26646.html">Dynamic heterogeneity in sodium silicate melts via machine-learning potential</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
@@ -3332,29 +3338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08215.html">Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="mace-360d.html">mace</a></div></td>
 <td>Yun An</td>
 <td><a href="http://arxiv.org/abs/2507.08215">2507.08215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22017.html">Crystal Structure and Collective Oxygen Transport in the High-Temperature Phase of Ta$_{2}$O$_{5}$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2410.22017">2410.22017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00675.html">Molecular dynamics simulation of the effects of neutron irradiation on Caesium Lead Bromide</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Zhongming Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00675">2506.00675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03417.html">Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Eva Kogler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03417">2507.03417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14158.html">Molecular Dynamics Simulations of Nanoscale Friction on Illite Clay: Effects of Solvent Salt Ions and Electric Double Layer</a></div><div class="paper-tags"><a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
-<td>Ge Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14158">2507.14158</a></td>
 </tr>
 </tbody></table>

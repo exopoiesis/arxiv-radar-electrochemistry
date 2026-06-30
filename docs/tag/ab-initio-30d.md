@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Shaobo Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30402.html">Quantum Computations on Fusion Blanket Molten Salts</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Susanta Das et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30402">2606.30402</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25408.html">Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study</a></div><div class="paper-tags"><a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Youjeong Choi et al.</td>
@@ -242,17 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Ying You et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00753.html">Thermodynamic origin of medium-entropy stabilization in multicomponent rock-salt oxides</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>Supriya Ghosal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00753">2606.00753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00794.html">Benchmark Dataset for Catalysis on 2D MXenes</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Pavlo Melnyk et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00794">2606.00794</a></td>
 </tr>
 </tbody></table>

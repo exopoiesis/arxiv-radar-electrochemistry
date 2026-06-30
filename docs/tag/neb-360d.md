@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neb — 360d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <a href="neb-30d.html">30d</a> <a href="neb-90d.html">90d</a> <strong>360d</strong> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -386,11 +386,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15843.html">Implicit Neural Representations for Chemical Reaction Paths</a></div></td>
 <td>Kalyan Ramakrishnan et al.</td>
 <td><a href="http://arxiv.org/abs/2502.15843">2502.15843</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03618.html">Effect of alloying additions on the lattice ordering of Ti$_2$AlNb intermetallic</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Adilakshmi Chirumamilla et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03618">2507.03618</a></td>
 </tr>
 </tbody></table>

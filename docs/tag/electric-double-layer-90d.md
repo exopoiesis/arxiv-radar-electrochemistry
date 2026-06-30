@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electric-double-layer — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <strong>90d</strong> <a href="electric-double-layer-360d.html">360d</a> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23875.html">Thermodynamic effects of solid electrolyte interphase formation from solvation and ionic association in water-in-salt electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Daniel M. Markiewitz et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23875">2602.23875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29674.html">Investigating the Electrochemical Double Layer with Quantum-Chemical Simulations and Implicit Solvation Models</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Alessandro Mangiameli et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29674">2603.29674</a></td>
 </tr>
 </tbody></table>

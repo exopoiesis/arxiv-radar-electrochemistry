@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-06-29._
+_Updated 2026-06-30._
 
-**3311** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3316** relevant papers across **30** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,36 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Shaobo Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30235.html">Surviving the Attack of the Clones</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
+<td>Denis S. Grebenkov</td>
+<td><a href="http://arxiv.org/abs/2606.30235">2606.30235</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30402.html">Quantum Computations on Fusion Blanket Molten Salts</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Susanta Das et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30402">2606.30402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29220.html">Latent Genetic Algorithm for Crystal Structure Prediction</a></div></td>
+<td>Kaixin Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29220">2606.29220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29257.html">Multiphysical impedance spectroscopy of porous electrodes based on linear irreversible thermodynamics</a></div><div class="paper-tags"><a href="tag/impedance-spectroscopy-30d.html">impedance-spectroscopy</a></div></td>
+<td>Junning Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29257">2606.29257</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26501.html">Ductility Design Rules for Tungsten based Refractory High Entropy Alloys from Sparse Experimental Datasets</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -165,35 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Bin Shao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23571">2606.23571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22395.html">Insights of Ammonia Decomposition on W--B Nanoclusters by Computational Simulations</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/neb-30d.html">neb</a></div></td>
-<td>Anastasiia V. Iosimovska et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22395">2606.22395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22640.html">A phase-field model for microbiologically influenced corrosion</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a></div></td>
-<td>S. Kovacevic et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22640">2606.22640</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21980.html">The impedance of a charged flat-plate electric double-layer capacitor</a></div><div class="paper-tags"><a href="tag/electric-double-layer-30d.html">electric-double-layer</a></div></td>
-<td>Adrian L. Usler et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21980">2606.21980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22119.html">First-principles study of the impact of As doping on the structural and electronic properties of MoS$_2$ monolayer</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>A. Daouadi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22119">2606.22119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22234.html">Fine-Tuned Machine-Learned Interatomic Potentials for Structural and Vibrational Properties of Twisted 2D Materials</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a></div></td>
-<td>Viet-Anh Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22234">2606.22234</a></td>
 </tr>
 </tbody></table>

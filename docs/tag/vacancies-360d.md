@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">184 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1118,17 +1118,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07614.html">First-principles analysis of the effect of magnetic states on the oxygen vacancy formation energy in doped La$_{0.5}$Sr$_{0.5}$CoO$_3$ perovskite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Wei Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07614">2507.07614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00675.html">Molecular dynamics simulation of the effects of neutron irradiation on Caesium Lead Bromide</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Zhongming Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00675">2506.00675</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03417.html">Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Eva Kogler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03417">2507.03417</a></td>
 </tr>
 </tbody></table>

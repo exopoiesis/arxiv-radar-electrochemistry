@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23163.html">Toward in-situ/operando X-ray absorption spectroscopy and electrochemical characterization of solid oxide fuel cells</a></div></td>
-<td>Renato A. N. de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23163">2606.23163</a></td>
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29257.html">Multiphysical impedance spectroscopy of porous electrodes based on linear irreversible thermodynamics</a></div></td>
+<td>Junning Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29257">2606.29257</a></td>
 </tr>
 </tbody></table>
