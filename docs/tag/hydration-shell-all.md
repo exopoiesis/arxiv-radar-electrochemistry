@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydration-shell — all</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="hydration-shell-7d.html">7d</a> <a href="hydration-shell-30d.html">30d</a> <a href="hydration-shell-90d.html">90d</a> <a href="hydration-shell-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08250.html">Unraveling the dynamic slowdown in supercooled water: The role of dynamic disorder in jump motions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Shinji Saito</td>
 <td><a href="http://arxiv.org/abs/2405.08250">2405.08250</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18263.html">The influence of solvent on surface adsorption and desorption</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ardavan Farahvash et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18263">2405.18263</a></td>
 </tr>
 </tbody></table>

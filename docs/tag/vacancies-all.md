@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vacancies — all</h1>
-  <span class="paper-count">320 papers</span>
+  <span class="paper-count">313 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1892,47 +1892,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05749.html">Investigation of Nitrogen Doped Barium Zirconate Using Density Functional Theory</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Iftkhar Ahmad</td>
 <td><a href="http://arxiv.org/abs/2406.05749">2406.05749</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19927.html">Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="surface-defects-all.html">surface-defects</a></div></td>
-<td>Puneet Kumar Shaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19927">2405.19927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19008.html">Mechanism and kinetics of sodium diffusion in Na-feldspar from neural network based atomistic simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Alexander Gorfer et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19008">2405.19008</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19520.html">MXene&#x27;s Surface Functionalization Patterns and Their Impacts on Magnetism</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Barbora Vénosová et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19520">2405.19520</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12859.html">Defect-assisted reversible phase transition in mono- and few-layer ReS$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>George Zograf et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12859">2405.12859</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13213.html">Low-energy pathways lead to self-healing defects in CsPbBr$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="neb-all.html">neb</a></div></td>
-<td>Kumar Miskin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13213">2405.13213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04630.html">Ferrimagnetism induced by thermal vibrations in oxygen-deficient manganite heterostructures</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Moloud Kaviani et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04630">2405.04630</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.06745.html">Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Arpan Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2401.06745">2401.06745</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ion-transport — all</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,11 +728,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="ion-pairing-all.html">ion-pairing</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Ganesh K Rajahmundry et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16835.html">Superionic surface Li-ion transport in carbonaceous materials</a></div></td>
-<td>Jianbin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16835">2405.16835</a></td>
 </tr>
 </tbody></table>

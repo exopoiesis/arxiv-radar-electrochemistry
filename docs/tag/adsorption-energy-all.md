@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption-energy — all</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <a href="adsorption-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,17 +566,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03016.html">A Multi-Technique Study of C2H4 Adsorption on a Model Single-Atom Rh1 Catalyst</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Chunlei Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03016">2406.03016</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19927.html">Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="surface-defects-all.html">surface-defects</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Puneet Kumar Shaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19927">2405.19927</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12097.html">Formation of C1 oxygenates by Activation of Methane on B, N Co-doped Graphene Surface Decorated by Oxygen Pre-covered Ir13 Cluster: A First Principles Study</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Jemal Yimer Damte et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12097">2405.12097</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>grotthuss — all</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="grotthuss-7d.html">7d</a> <a href="grotthuss-30d.html">30d</a> <a href="grotthuss-90d.html">90d</a> <a href="grotthuss-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,17 +152,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19195.html">Quantum Tunneling Could Enable Proton Transfer Reactions on Titan</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="origin-of-life-all.html">origin-of-life</a></div></td>
 <td>Henry W. Longo et al.</td>
 <td><a href="http://arxiv.org/abs/2405.19195">2405.19195</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07675.html">Super-concentrated alkali hydroxide electrolytes for rechargeable Zn batteries</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yilin Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07675">2405.07675</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00851.html">Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$-TaON (100)/Water Interface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="proton-transport-all.html">proton-transport</a></div></td>
-<td>Sagarmoy Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00851">2405.00851</a></td>
 </tr>
 </tbody></table>

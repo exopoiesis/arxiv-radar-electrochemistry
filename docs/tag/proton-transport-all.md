@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>proton-transport — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="proton-transport-7d.html">7d</a> <a href="proton-transport-30d.html">30d</a> <a href="proton-transport-90d.html">90d</a> <a href="proton-transport-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03272.html">Nuclear quantum effects induce superionic proton transport in nanoconfined water</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Pavan Ravindra et al.</td>
 <td><a href="http://arxiv.org/abs/2410.03272">2410.03272</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00851.html">Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$-TaON (100)/Water Interface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="grotthuss-all.html">grotthuss</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Sagarmoy Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00851">2405.00851</a></td>
 </tr>
 </tbody></table>

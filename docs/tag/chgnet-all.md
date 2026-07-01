@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chgnet — all</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="chgnet-7d.html">7d</a> <a href="chgnet-30d.html">30d</a> <a href="chgnet-90d.html">90d</a> <a href="chgnet-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17499.html">Evaluating and improving the predictive accuracy of mixing enthalpies and volumes in disordered alloys from universal pre-trained machine learning potentials</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="m3gnet-all.html">m3gnet</a> · <a href="mace-all.html">mace</a></div></td>
 <td>Luis Casillas-Trujillo et al.</td>
 <td><a href="http://arxiv.org/abs/2406.17499">2406.17499</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07105.html">Overcoming systematic softening in universal machine learning interatomic potentials by fine-tuning</a></div><div class="paper-tags"><a href="m3gnet-all.html">m3gnet</a> · <a href="mace-all.html">mace</a></div></td>
-<td>Bowen Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07105">2405.07105</a></td>
 </tr>
 </tbody></table>

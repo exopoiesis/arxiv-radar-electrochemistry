@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>aimd — all</h1>
-  <span class="paper-count">211 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,41 +1244,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02852.html">Isolated anions induced high ionic conductivity</a></div><div class="paper-tags"><a href="ion-transport-all.html">ion-transport</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Qifan Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02852">2406.02852</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19378.html">Thermomechanical properties of zero thermal expansion materials from theory and experiments</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Andreas Erlebach et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19378">2405.19378</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17751.html">Molecular Structure and Rotational Dynamics in the Acetonitrile:Acetylene (1:2) Plastic Co-Crystal at Titan Conditions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Atul C. Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17751">2405.17751</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06416.html">Biaxial strain effects in 2D diamond formation from graphene stacks</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Rajaji Vincent et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06416">2405.06416</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01006.html">Understanding the phase stability in multi-principal-component AlCuFeMn alloy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Palash Swarnakar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01006">2405.01006</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00851.html">Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$-TaON (100)/Water Interface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="grotthuss-all.html">grotthuss</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="proton-transport-all.html">proton-transport</a></div></td>
-<td>Sagarmoy Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00851">2405.00851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

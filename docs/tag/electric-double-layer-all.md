@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electric-double-layer — all</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <a href="electric-double-layer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,17 +308,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18957.html">Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange</a></div><div class="paper-tags"><a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Jeongmin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2405.18957">2405.18957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17947.html">High capacity NbS2-based anodes for Li-ion batteries</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Alexandra Carvalho et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17947">2405.17947</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07370.html">Accelerating QM/MM simulations of electrochemical interfaces through machine learning of electronic charge densities</a></div><div class="paper-tags"><a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a> · <a href="electrolyte-structure-all.html">electrolyte-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Andrea Grisafi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07370">2405.07370</a></td>
 </tr>
 </tbody></table>

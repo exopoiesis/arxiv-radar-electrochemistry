@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft-u — all</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <a href="dft-u-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,17 +566,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03904.html">Pressurized phase transition cascade in BaMn$_2$P$_2$ and BaMn$_2$As$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
 <td>N. S. Pavlov et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03904">2406.03904</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19625.html">A possible spin Jahn-Teller material: ordered pseudobrookite FeTi2O5</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Hao-Hang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19625">2405.19625</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02910.html">Optical spectra of silver clusters and nanoparticles of all sizes from the TDDFT+U method</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Mohit Chaudhary et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02910">2405.02910</a></td>
 </tr>
 </tbody></table>

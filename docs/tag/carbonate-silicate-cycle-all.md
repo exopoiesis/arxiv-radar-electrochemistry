@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>carbonate-silicate-cycle — all</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="carbonate-silicate-cycle-7d.html">7d</a> <a href="carbonate-silicate-cycle-30d.html">30d</a> <a href="carbonate-silicate-cycle-90d.html">90d</a> <a href="carbonate-silicate-cycle-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10714.html">Substantial extension of the lifetime of the terrestrial biosphere</a></div><div class="paper-tags"><a href="weathering-all.html">weathering</a></div></td>
 <td>R. J. Graham et al.</td>
 <td><a href="http://arxiv.org/abs/2409.10714">2409.10714</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05396.html">Carbon cycle instability for high-$\mathrm{CO_2}$ exoplanets: Implications for habitability</a></div><div class="paper-tags"><a href="weathering-all.html">weathering</a></div></td>
-<td>R. J. Graham et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05396">2405.05396</a></td>
 </tr>
 </tbody></table>

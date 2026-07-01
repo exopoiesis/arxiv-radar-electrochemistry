@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surface-defects — all</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="surface-defects-7d.html">7d</a> <a href="surface-defects-30d.html">30d</a> <a href="surface-defects-90d.html">90d</a> <a href="surface-defects-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11127.html">Role of the Adsorption of Alkali Cations on Ultrathin $n$-Layers of Two-dimensional Perovskites</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
 <td>Israel C. Ribeiro et al.</td>
 <td><a href="http://arxiv.org/abs/2408.11127">2408.11127</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19927.html">Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Puneet Kumar Shaw et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19927">2405.19927</a></td>
 </tr>
 </tbody></table>

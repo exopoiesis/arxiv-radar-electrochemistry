@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">806 papers</span>
+  <span class="paper-count">786 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4730,125 +4730,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07723.html">Ultra-fast Oxygen Conduction in Sillén Oxychlorides</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
 <td>Jun Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2406.07723">2406.07723</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20739.html">Elucidating the Role of Stacking Faults in TlGaSe$_{2}$ on its Thermoelectric Properties</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Tigran Simonian et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20739">2405.20739</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19625.html">A possible spin Jahn-Teller material: ordered pseudobrookite FeTi2O5</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="dft-u-all.html">dft-u</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Hao-Hang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19625">2405.19625</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20217.html">Data-efficient fine-tuning of foundational models for first-principles quality sublimation enthalpies</a></div><div class="paper-tags"><a href="mace-all.html">mace</a></div></td>
-<td>Harveen Kaur et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20217">2405.20217</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20239.html">BEAST DB: Grand-Canonical Database of Electrocatalyst Properties</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Cooper Tezak et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20239">2405.20239</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18683.html">DFT+U+V Study of Magnetic Ordering in Single-Layer Pentahexoctite: Implications for Magnetic Device Platforms</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Sejoong Kim</td>
-<td><a href="http://arxiv.org/abs/2405.18683">2405.18683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19378.html">Thermomechanical properties of zero thermal expansion materials from theory and experiments</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Andreas Erlebach et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19378">2405.19378</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17751.html">Molecular Structure and Rotational Dynamics in the Acetonitrile:Acetylene (1:2) Plastic Co-Crystal at Titan Conditions</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Atul C. Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17751">2405.17751</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14814.html">Accelerated First-Principles Exploration of Structure and Reactivity in Graphene Oxide</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Zakariya El-Machachi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14814">2405.14814</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13213.html">Low-energy pathways lead to self-healing defects in CsPbBr$_3$</a></div><div class="paper-tags"><a href="neb-all.html">neb</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Kumar Miskin et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13213">2405.13213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06861.html">Exploring Topological Transport in Pt$_2$HgSe$_3$ Nanoribbons: Insights for Spintronic Device Integration</a></div></td>
-<td>Rafael L. H. Freire et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06861">2405.06861</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06262.html">Creating cyclo-N$_5$$^{+}$ cation and assembling N$_5$$^{+}$N$_5$$^{-}$ salt via electronegativity co-matching in tailored ionic compounds</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Bi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06262">2405.06262</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06416.html">Biaxial strain effects in 2D diamond formation from graphene stacks</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Rajaji Vincent et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06416">2405.06416</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03466.html">A family of air-stable chalcogenide solid electrolytes in Li$_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Huican Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03466">2405.03466</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02618.html">Combining Machine Learning Models with First-Principles High-Throughput Calculation to Accelerate the Search of Promising Thermoelectric Materials</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a> · <a href="m3gnet-all.html">m3gnet</a></div></td>
-<td>Tao Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02618">2405.02618</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02247.html">Deep Learning of ab initio Hessians for Transition State Optimization</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="neb-all.html">neb</a></div></td>
-<td>Eric C. -Y. Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02247">2405.02247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01006.html">Understanding the phase stability in multi-principal-component AlCuFeMn alloy</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Palash Swarnakar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01006">2405.01006</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00851.html">Molecular Insights into the Water Dissociation and Proton Dynamics at the $β$-TaON (100)/Water Interface</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="grotthuss-all.html">grotthuss</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="proton-transport-all.html">proton-transport</a></div></td>
-<td>Sagarmoy Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00851">2405.00851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.06955.html">Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites</a></div><div class="paper-tags"><a href="mace-all.html">mace</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Nima Karimitari et al.</td>
-<td><a href="http://arxiv.org/abs/2403.06955">2403.06955</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
-</tr>
-<tr class="paper">
-<td>2024-01-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.06745.html">Quantum Vibronic Effects on the Excitation Energies of the Nitrogen-Vacancy Center in Diamond</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Arpan Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2401.06745">2401.06745</a></td>
 </tr>
 </tbody></table>

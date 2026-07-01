@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chalcogenides — all</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <a href="chalcogenides-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -656,53 +656,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06883.html">A way to identify whether a DFT gap is from right reasons or error cancellations: The case of copper chalcogenides</a></div></td>
 <td>Jiale Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06883">2406.06883</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20739.html">Elucidating the Role of Stacking Faults in TlGaSe$_{2}$ on its Thermoelectric Properties</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Tigran Simonian et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20739">2405.20739</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18989.html">Classification analysis of transition-metal chalcogenides and oxides using quantum machine learning</a></div></td>
-<td>Kurudi V Vedavyasa et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18989">2405.18989</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15483.html">Extended Kohler&#x27;s scaling, a low temperature anomaly and Isosbestic point in the charge density wave state of 1T-VSe$_2$</a></div></td>
-<td>Sonika et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15483">2405.15483</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14187.html">Bifunctional Noble Metal-free Ternary Chalcogenide Electrocatalysts for Overall Water Splitting</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>
-<td>Shantanu Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14187">2405.14187</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10222.html">Kramers nodal line in the charge density wave state of YTe$_3$ and the influence of twin domains</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Shuvam Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10222">2405.10222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06274.html">Hybrid thin-film lithium niobate micro-ring acousto-optic modulator for microwave-to-optical conversion</a></div></td>
-<td>Lei Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06274">2405.06274</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03466.html">A family of air-stable chalcogenide solid electrolytes in Li$_2$BMQ$_4$ (B = Ca, Sr and Ba; M = Si, Ge and Sn; Q = O, S and Se) systems</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Huican Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03466">2405.03466</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02618.html">Combining Machine Learning Models with First-Principles High-Throughput Calculation to Accelerate the Search of Promising Thermoelectric Materials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="m3gnet-all.html">m3gnet</a></div></td>
-<td>Tao Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02618">2405.02618</a></td>
 </tr>
 </tbody></table>
