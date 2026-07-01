@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,17 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.12630.html">Enhanced Climbing Image Nudged Elastic Band method with Hessian Eigenmode Alignment</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
 <td>Rohit Goswami et al.</td>
 <td><a href="http://arxiv.org/abs/2601.12630">2601.12630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01963.html">Development of machine-learned interatomic potentials to predict structure, transport, and reactivity in platinum-based fuel cells</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="grotthuss-90d.html">grotthuss</a></div></td>
-<td>Kamron Fazel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01963">2505.01963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Jonah Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
 </tr>
 </tbody></table>

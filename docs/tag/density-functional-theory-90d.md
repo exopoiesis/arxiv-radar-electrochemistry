@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1232,29 +1232,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02499.html">CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Felipe Hawthorne et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02499">2604.02499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05161.html">Defect-induced displacement of topological surface state in quantum magnet MnBi$_2$Te$_4$</a></div></td>
-<td>Felix Lüpke et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05161">2507.05161</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15108.html">Equivariant Electronic Hamiltonian Prediction with Many-Body Message Passing</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a></div></td>
-<td>Chen Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15108">2508.15108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00405.html">Reliable and Efficient Automated Transition-State Searches with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Jonah Marks et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00405">2604.00405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01471.html">TUNA: A streamlined quantum chemistry program for atoms and diatomics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Harry Brough</td>
-<td><a href="http://arxiv.org/abs/2604.01471">2604.01471</a></td>
 </tr>
 </tbody></table>
