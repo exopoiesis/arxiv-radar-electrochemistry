@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">476 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Afreen Anamul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02012">2607.02012</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02114.html">Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Dirk Wulferding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02114">2607.02114</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02236.html">Efficient Large-Scale STEM-EELS Simulations With Torched-TACAW</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Martin Osmera et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02236">2607.02236</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00429.html">Surface Platinum Alloying for Passivation of Oxide Interfaces on Superconducting Niobium Films</a></div></td>
@@ -2864,11 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05831.html">Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Jyoti Duhan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05831">2507.05831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16180.html">BaZrS$_\text{3}$ Lights Up: The Interplay of Electrons, Photons, and Phonons in Strongly Luminescent Single Crystals</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Rasmus Svejstrup Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16180">2503.16180</a></td>
 </tr>
 </tbody></table>

@@ -205,5 +205,229 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-07-01"
+ },
+ "2607.01329": {
+  "abstract": "The geometric and topological structure of quantum cost landscapes (QCLs) governs the optimization and thus the predictive power of variational quantum algorithms (VQAs). We systematically analyze ravines - low-cost paths connecting local minima - using an adapted version of the nudged elastic band (NEB) algorithm, a method originating from theoretical chemistry. By training quantum neural networks (QNNs) to classify the concentratable entanglement of quantum states, we apply the NEB algorithm and numerically identify ravine structures in QCLs of hardware-efficient ansatzes. Beyond visualizing these ravines, we construct an ensemble prediction framework by averaging predictions from QNNs parameterized along the low-cost NEB path. We introduce a resource-light pre-training metric which quantifies local-prediction variability and serves as a strong performance indicator for VQAs, even beyond the scope of this study. When base classifiers are drawn from circuit and weight initializations exhibiting high local-prediction variability, the quantum-based NEB ensembles outperform both classical and naive quantum alternatives. Moreover, a complexity analysis shows that leveraging the ravine-like structure of QCLs with the QNN NEB approach substantially reduces computational costs compared to naive QNN ensembling. A depth and qubit scaling analysis indicates that ravines persist across both scalings, and that, despite the expected growth in resource requirements with the qubit scaling, the NEB approach also accelerates convergence over the naive alternative.",
+  "authors": [
+   "Felix J. Beckmann",
+   "João F. Bravo"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.LG"
+  ],
+  "comment": "28 pages, 14 figures",
+  "first_author": "Felix J. Beckmann",
+  "pdf_url": "http://arxiv.org/pdf/2607.01329",
+  "primary_category": "quant-ph",
+  "published": "2026-07-01",
+  "tags": [
+   "neb"
+  ],
+  "title": "Ravines in quantum cost landscapes: opportunities for improved VQA predictions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.01362": {
+  "abstract": "Quantum mechanical (QM) cluster models provide an effective framework for mechanistic studies of enzymatic reactions but remain computationally demanding. Neural network potentials (NNPs) offer a promising route to reduce this cost, but enzymes present challenges beyond small molecules, including large system sizes, implicit-solvent environments, substantial polarization, and charge transfer. Here, we present an integrated software framework for efficient NNP training for mechanistic studies of enzymes, demonstrated on QM cluster models of S-adenosyl-L-methionine-dependent methyltransferases (MTases). Our Enerzyme code introduces modular electrostatics-aware NNP architectures and combines automated QM-cluster construction with reactive dataset generation. The Enerzymette subpackage automates reaction pathway exploration at both NNP and DFT levels. We show that iterative flexible scans and nudged elastic band calculations impose stricter requirements on NNPs than conventional dataset metrics. Nevertheless, NNPs trained on fewer than 1,000 system-specific datapoints reproduce reaction energetics and transition-state structures for MTase clusters containing up to 545 atoms with near-chemical accuracy. Direct supervision of atomic charges and consistent dielectric screening substantially improve simulation stability and accuracy, while multitask-learned atomic charges capture charge transfer and polarization trends and provide chemically meaningful descriptors of reactivity. Finally, transferability across chemically diverse catechol O-methyltransferase substrates indicates that NNPs learn generalizable reactivity patterns as training data expand across multiple enzymes. Together, these results establish a foundation for accelerating enzyme mechanistic studies and guide future NNP development for biomolecular reactivity.",
+  "authors": [
+   "Weiliang Luo",
+   "Heather J. Kulik"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Weiliang Luo",
+  "pdf_url": "http://arxiv.org/pdf/2607.01362",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-01",
+  "tags": [
+   "density-functional-theory",
+   "neb"
+  ],
+  "title": "Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.01407": {
+  "abstract": "Melt--quench molecular dynamics is widely used to construct amorphous materials models, but the resulting ensemble is defined by choices that are often made implicitly: numerical settings, melt temperature, liquid-hold time, quench rate, system size, and post-generation screening. We introduce vitriflow, a computational materials methodology that turns these choices into an explicit decision chain. The framework couples numerical stability, descriptor-based protocol calibration, user-defined artefact screening, and statistical convergence of the generated analysis ensemble in a material-specific descriptor space. We demonstrate the approach for a-SiO$_2$, a-Si$_3$N$_4$, and a-Sm$_2$O$_3$, which respectively test tetrahedral network fidelity, MG2 $\\rightarrow$ PBE $\\rightarrow$ HSE06 DFT refinement of a heteropolar nitride, and amorphous/crystal discrimination in a mixed-coordination rare-earth oxide. vitriflow separates defect-free from oxygen-bridge-defective silica, quantifies DFT-refinement response in a common a-Si$_3$N$_4$ structural population, and removes recrystallised Sm$_2$O$_3$ structures without imposing fixed coordination. The result is a reproducible route for generating amorphous ensembles whose numerical settings, thermal protocol, screening actions, and statistical precision are selected from the materials question rather than assumed a priori.",
+  "authors": [
+   "Jonathon Cottom",
+   "Robin Delhomme",
+   "Emilia Olsson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Jonathon Cottom",
+  "pdf_url": "http://arxiv.org/pdf/2607.01407",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-01",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.01408": {
+  "abstract": "$\\mathrm{E}(3)$-equivariant networks are promising for 3D atomistic system modeling, yet their scalability is limited by the $O(L^6)$ complexity of the Clebsch-Gordan Tensor Product (CGTP). The recently proposed Gaunt Tensor Product (GTP) reduces the complexity but is unable to capture the antisymmetric paths, resulting in incomplete expressivity. In this work, we present SpinGTP, an approach to overcome the GTP incompleteness by generalizing from scalar functions to Spin-Weighted Spherical Harmonics (SWSH). By relying on the algebraic properties of SWSH, SpinGTP recovers the missing antisymmetric interactions while maintaining the asymptotic efficiency of GTP. It also allows for a more expressive equivariant basis that naturally accounts for the parity-odd components of tensor products. We evaluate SpinGTP across diverse benchmarks, including Tetris, 3BPA, SPICE-MACE-OFF, and OC20. Our results show that SpinGTP achieves accuracies comparable to full CGTP. Notably, by explicitly capturing antisymmetric paths, SpinGTP exhibits superior performance in tasks involving chiral materials and non-centrosymmetric geometries. This work provides a complete, scalable, and mathematically rigorous path toward high-order equivariance in large-scale 3D atomistic system simulations.",
+  "authors": [
+   "Chenxing Liang",
+   "Yuchao Lin",
+   "Andrii Kryvenko",
+   "Wendi Yu",
+   "Chuan Li",
+   "Jianwen Xie",
+   "Xiaofeng Qian",
+   "Shuiwang Ji"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Chenxing Liang",
+  "pdf_url": "http://arxiv.org/pdf/2607.01408",
+  "primary_category": "cs.LG",
+  "published": "2026-07-01",
+  "tags": [
+   "mace"
+  ],
+  "title": "Spin-Weighted Spherical Harmonics Enable Complete and Scalable $\\mathrm{E}(3)$-Equivariant Networks",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.02012": {
+  "abstract": "Pristine $Ga_{2}O_{2}$ monolayers suffer from poor sensitivity and weak molecular capture, limiting their application in toxic gas detection and environmental detoxification. Here, we employ first-principles density functional theory (DFT) calculations to investigate the gas sensing and scavenging properties of $Ga_{2}O_{2}$ monolayers substitutionally tailored via seven transition-metals (TM): Pd, Zn, Zr, Mo, Ag, Ti, and Pt. All TM-substituted monolayers exhibit negative formation and binding energies, negligible lattice distortion, and structural stability in molecular dynamics simulations. Performance evaluation against eight toxic industrial and three environmental gases reveals functionalities ranging from selective, reusable room-temperature sensing to permanent molecular capture. Ag substitution exhibits exceptional selectivity for $NO$ with moderate adsorption strength (~-0.83eV), an up to eight-order-of-magnitude conductivity enhancement, besides facilitating reusable $O_2$ and $NO_2$ detection. Additionally, Pd-, Zn-, Zr-, and Mo substitutions tune selectivity toward $NO$, $NO_2$, $CO_2$, $CO$, and $O_2$. Coming to applications towards toxic gas capture, Zr- and Mo-substituted systems selectively scavenge oxidizing gases, whereas Ti and Pt act as universal scavengers. Further analysis reveals that Pd- and Ag-substituted monolayers remain selective for $NO$, while Zn substitution favors $NO_2$ detection even in ambient atmospheric conditions. Thus, these tailored $Ga_{2}O_{2}$ monolayers offer a practical platform for atmospheric monitoring and detoxification.",
+  "authors": [
+   "Afreen Anamul Haque",
+   "Aniket Singha"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "24 pages, 13 figures",
+  "first_author": "Afreen Anamul Haque",
+  "pdf_url": "http://arxiv.org/pdf/2607.02012",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-02",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.02114": {
+  "abstract": "Altermagnets constitute an emerging class of magnetic materials that combine compensated antiferromagnetic order with spin-split excitations arising from crystalline symmetries. Despite strong theoretical interest, their experimental identification remains challenging. Here, we demonstrate that helicity- and angle-resolved Raman scattering measurements reveal reduced rotational symmetries of magnons and a pronounced imbalance between left- and right-circular polarization channels, indicating momentum-dependent magnon handedness. First-principles DFT+$U$ calculations combined with linear spin-wave theory uncover a characteristic plaid-like spin-splitting structure in momentum space. The resulting magnon spin textures are dictated by the unconventional sublattice symmetries of MnTe$_2$ and closely emulate those of altermagnetic electronic bands. Our work provides evidence of chiral spin-wave excitations unique to this non-coplanar antiferromagnet.",
+  "authors": [
+   "Dirk Wulferding",
+   "Daehyeon An",
+   "Jiwon Choi",
+   "Dongmin Mun",
+   "Youngsu Choi",
+   "Sivasakthi Kuppusamy",
+   "Sritharan Krishnamoorthi",
+   "Raman Sankar",
+   "Myung Joon Han",
+   "Se Kwon Kim",
+   "Kwang-Yong Choi"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Dirk Wulferding",
+  "pdf_url": "http://arxiv.org/pdf/2607.02114",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-07-02",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe$_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.02236": {
+  "abstract": "The time auto-correlation of auxiliary wave functions (TACAW) method enables efficient simulations of ultra-low-loss electron energy loss spectra (EELS) arising from vibrational and magnon excitations. In practical applications to realistic materials systems, however, TACAW calculations become challenging due to the large system sizes required for models containing defects, interfaces, impurities, or grain boundaries, as well as the substantial computational cost and data throughput associated with molecular dynamics and multislice calculations. Here we discuss a practical methodology for large-scale TACAW simulations and present torched-TACAW, a freely available implementation of the TACAW part of the described workflow for efficient STEM-EELS simulations. The overall approach combines molecular dynamics based on foundational machine-learned interatomic potentials, partitioning of elongated supercells, and on-the-fly processing of multislice outputs in order to enable near ab initio quality simulations with tractable memory use and data flow. Using rutile TiO2 as a model system, we analyze important numerical aspects of the method, including windowing and supercell partitioning, and demonstrate atomic-resolution STEM-EELS simulations for thick samples.",
+  "authors": [
+   "Martin Osmera",
+   "João Vaz",
+   "Paul M. Zeiger",
+   "Ján Rusz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "17 pages, 7 figures",
+  "first_author": "Martin Osmera",
+  "pdf_url": "http://arxiv.org/pdf/2607.02236",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-02",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Efficient Large-Scale STEM-EELS Simulations With Torched-TACAW",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.02316": {
+  "abstract": "Electrochemical impedance spectroscopy (EIS) is a widely used technique to understand time-dependent response and relaxation under applied voltage. While these spectra contain a wealth of information, major gaps in our understanding can hinder our ability to interpret EIS spectra in terms of microscopic chemical mechanisms. We propose an alternative approach to common empirical fitting procedures for describing the contribution of the bulk electrolyte to the EIS spectrum. This new approach is rooted in determining the moments of the frequency-dependent conductivity, with molecular interpretability provided by a generalized Langevin equation description of an effective single particle dynamics; the `itinerant oscillator' (IO) model. In contrast to a Debye--Falkenhagen description, the IO model makes no assumptions regarding the concentration of the electrolyte, a fact we demonstrate by analysing molecular dynamics simulations of a room-temperature ionic liquid. By analysing the memory function from simulation within the framework provided by the IO model, we reveal the importance of capturing the separation of timescales within the memory function for describing the temperature dependent $β$-relaxation process. We go on to show how our impedance model directly reports on this distribution of timescales while retaining the simplicity of commonly employed workflows.",
+  "authors": [
+   "Connie J. Fairchild",
+   "Stephen J. Cox",
+   "Benjamin Rotenberg",
+   "Thomas Sayer"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "13 manuscript pages with 6 figures; 2 pages methods and 1 figure; 100 references+footnotes; 8 pages appendices including 5 figures and a table",
+  "first_author": "Connie J. Fairchild",
+  "pdf_url": "http://arxiv.org/pdf/2607.02316",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-02",
+  "tags": [
+   "impedance-spectroscopy",
+   "molecular-dynamics"
+  ],
+  "title": "Molecular interpretability of the bulk electrochemical impedance of concentrated electrolytes",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-02"
  }
 }

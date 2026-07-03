@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>iron-sulfides — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="iron-sulfides-7d.html">7d</a> <a href="iron-sulfides-30d.html">30d</a> <strong>90d</strong> <a href="iron-sulfides-360d.html">360d</a> <a href="iron-sulfides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10173.html">Continuous PT-Symmetry Breaking as a Design Variable for Giant Altermagnetic Spin Splitting</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="millerite-90d.html">millerite</a> · <a href="nickel-sulfides-90d.html">nickel-sulfides</a></div></td>
 <td>Kichan Chun et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10173">2604.10173</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03375.html">Silicon, sulfur and iron in the interstellar medium: a high-resolution X-ray spectral study of GX 340+0</a></div><div class="paper-tags"><a href="pyrrhotite-90d.html">pyrrhotite</a></div></td>
-<td>Daniele Rogantini et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03375">2604.03375</a></td>
 </tr>
 </tbody></table>

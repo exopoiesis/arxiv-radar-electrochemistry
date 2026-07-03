@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Afreen Anamul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02012">2607.02012</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02236.html">Efficient Large-Scale STEM-EELS Simulations With Torched-TACAW</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Martin Osmera et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02236">2607.02236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02316.html">Molecular interpretability of the bulk electrochemical impedance of concentrated electrolytes</a></div><div class="paper-tags"><a href="impedance-spectroscopy-90d.html">impedance-spectroscopy</a></div></td>
+<td>Connie J. Fairchild et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02316">2607.02316</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00540.html">A general-purpose atomic cluster expansion interatomic potential for niobium</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
@@ -32,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00805.html">Prediction of coherent interfaces between diamond and clathrate structures</a></div></td>
 <td>Eva Pospíšilová et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00805">2607.00805</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01407.html">Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Jonathon Cottom et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01407">2607.01407</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -836,17 +860,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14965.html">Third-Body Stabilization of Supercritical CO2 in CO Oxidation: Development and Application of a ReaxFF Force Field for the CO/O/CO2 System</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Emdadul Haque Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14965">2511.14965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26300.html">Microscopic Structure and Dynamics of Interfacial Water at Fluorinated vs Nonfluorinated Surfaces -- Insights from Ab-Initio Simulations and IR Spectroscopy</a></div><div class="paper-tags"><a href="explicit-solvation-90d.html">explicit-solvation</a></div></td>
-<td>Maximilian R. Becker et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26300">2603.26300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02732.html">Noble-Gas Solubility in Solid and Fluid Metallic Hydrogen</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02732">2604.02732</a></td>
 </tr>
 </tbody></table>

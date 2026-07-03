@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Afreen Anamul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02012">2607.02012</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02114.html">Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Dirk Wulferding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02114">2607.02114</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00540.html">A general-purpose atomic cluster expansion interatomic potential for niobium</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -26,6 +38,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00717.html">Atomic Cluster Expansion Potentials for Screw Dislocations in BCC Refractory Metals</a></div></td>
 <td>Lei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00717">2607.00717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01362.html">Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
+<td>Weiliang Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01362">2607.01362</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01407.html">Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jonathon Cottom et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01407">2607.01407</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -1232,11 +1256,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03760.html">Unconventional excitations and orbital-driven low-energy dispersions in chiral topological semimetals PdAsS, PdSbSe, and PdBiTe: a first-principles study</a></div></td>
 <td>Roopam Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03760">2604.03760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02952.html">Engineering Electrochromism in Ni-Deficient NiO through Defect, Dopant, and Strain Coupling</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Katarina Jakovljević et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02952">2604.02952</a></td>
 </tr>
 </tbody></table>

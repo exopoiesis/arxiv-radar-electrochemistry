@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-07-02._
+_Updated 2026-07-03._
 
-**3238** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3246** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Afreen Anamul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02012">2607.02012</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02114.html">Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe$_2$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Dirk Wulferding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02114">2607.02114</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02236.html">Efficient Large-Scale STEM-EELS Simulations With Torched-TACAW</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Martin Osmera et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02236">2607.02236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02316.html">Molecular interpretability of the bulk electrochemical impedance of concentrated electrolytes</a></div><div class="paper-tags"><a href="tag/impedance-spectroscopy-30d.html">impedance-spectroscopy</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Connie J. Fairchild et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02316">2607.02316</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00429.html">Surface Platinum Alloying for Passivation of Oxide Interfaces on Superconducting Niobium Films</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
@@ -51,6 +75,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00932.html">Dynamics of charge fluctuations in nanocapacitors: effects of salt concentration and electrode metallicity from Brownian dynamics</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
 <td>Paul Desmarchelier et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00932">2607.00932</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01329.html">Ravines in quantum cost landscapes: opportunities for improved VQA predictions</a></div><div class="paper-tags"><a href="tag/neb-30d.html">neb</a></div></td>
+<td>Felix J. Beckmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01329">2607.01329</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01362.html">Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/neb-30d.html">neb</a></div></td>
+<td>Weiliang Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01362">2607.01362</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01407.html">Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jonathon Cottom et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01407">2607.01407</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01408.html">Spin-Weighted Spherical Harmonics Enable Complete and Scalable $\mathrm{E}(3)$-Equivariant Networks</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
+<td>Chenxing Liang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01408">2607.01408</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -147,53 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26269.html">Challenging the $p$-type Paradigm: Intrinsic $n$-type Mobility in Antiferromagnetic Cr$_2$O$_3$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
 <td>Á. A. Carrasco Álvarez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26269">2606.26269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24239.html">One-dimensional self-organization of water molecules in proton conducting Andersson-Wadsley titanates</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/grotthuss-30d.html">grotthuss</a> · <a href="tag/proton-transport-30d.html">proton-transport</a></div></td>
-<td>Mathilde Arnaud et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24239">2606.24239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24246.html">Hierarchical models for large chemical reaction networks</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a> · <a href="tag/origin-of-life-30d.html">origin-of-life</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
-<td>J. Unterberger et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24246">2606.24246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24458.html">An Agnostic Machine Learning Model of Photosynthetic Habitability</a></div><div class="paper-tags"><a href="tag/co2-reduction-30d.html">co2-reduction</a></div></td>
-<td>Callum Gray et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24458">2606.24458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24480.html">Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
-<td>Eric Jianfeng Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24480">2606.24480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24983.html">ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/explicit-solvation-30d.html">explicit-solvation</a> · <a href="tag/solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
-<td>Linying Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24983">2606.24983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25175.html">Operando spectro-ptychography reveals dynamical charge-storage and degradation pathways in redox-active electrodes</a></div><div class="paper-tags"><a href="tag/electrocatalysis-30d.html">electrocatalysis</a></div></td>
-<td>Xiao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25175">2606.25175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22852.html">Thermal Transport in SiC with Intrinsic Defects and Mg Transmutation Products</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Chen Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22852">2606.22852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22926.html">Reaction-Network-Level Discovery of Ammonia Synthesis Catalysts via Ten-Million-Scale Generative Exploration</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Ruili Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22926">2606.22926</a></td>
 </tr>
 </tbody></table>

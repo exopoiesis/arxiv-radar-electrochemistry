@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">814 papers</span>
+  <span class="paper-count">816 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Afreen Anamul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02012">2607.02012</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02114.html">Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Dirk Wulferding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02114">2607.02114</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00540.html">A general-purpose atomic cluster expansion interatomic potential for niobium</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -26,6 +38,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00717.html">Atomic Cluster Expansion Potentials for Screw Dislocations in BCC Refractory Metals</a></div></td>
 <td>Lei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00717">2607.00717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01362.html">Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
+<td>Weiliang Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01362">2607.01362</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01407.html">Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jonathon Cottom et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01407">2607.01407</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -4886,17 +4910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05831.html">Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
 <td>Jyoti Duhan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05831">2507.05831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.16180.html">BaZrS$_\text{3}$ Lights Up: The Interplay of Electrons, Photons, and Phonons in Strongly Luminescent Single Crystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Rasmus Svejstrup Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.16180">2503.16180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05047.html">Moiré-assisted charge instability in ultrathin RuO$_2$</a></div><div class="paper-tags"><a href="surface-reconstruction-360d.html">surface-reconstruction</a></div></td>
-<td>Philipp Keßler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05047">2507.05047</a></td>
 </tr>
 </tbody></table>
