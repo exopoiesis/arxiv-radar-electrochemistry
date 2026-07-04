@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,23 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06706.html">Plasticity of Neutron Star Crusts</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Matthew E Caplan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06706">2606.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04954.html">Triangular Charge-Density Waves (T-CDW) Stabilize Janus Group-VI Chalcogenide Hydrides</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04954">2606.04954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Qi-Jun Hong</td>
-<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Jonathan S. Evarts et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
 </tr>
 </tbody></table>

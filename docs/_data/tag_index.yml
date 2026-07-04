@@ -4,25 +4,25 @@
   total: 1369
   group: methods
 - name: ab-initio
-  count: 40
+  count: 37
   total: 791
   group: methods
 - name: molecular-dynamics
-  count: 33
+  count: 31
   total: 909
   group: methods
 - name: mace
-  count: 18
+  count: 16
   total: 202
   group: ml-methods
-- name: vacancies
-  count: 13
-  total: 313
-  group: defects
 - name: adsorption
   count: 11
   total: 353
   group: surfaces
+- name: vacancies
+  count: 11
+  total: 313
+  group: defects
 - name: mlip
   count: 8
   total: 227
@@ -71,10 +71,6 @@
   count: 2
   total: 92
   group: descriptors
-- name: chalcogenides
-  count: 2
-  total: 107
-  group: materials
 - name: dft-u
   count: 2
   total: 92
@@ -87,14 +83,14 @@
   count: 2
   total: 16
   group: products
-- name: phase-transitions
-  count: 2
-  total: 133
-  group: thermodynamics
 - name: solvation-thermodynamics
   count: 2
   total: 18
   group: aqueous-chemistry
+- name: chalcogenides
+  count: 1
+  total: 107
+  group: materials
 - name: co2-adsorption
   count: 1
   total: 10
@@ -135,6 +131,10 @@
   count: 1
   total: 24
   group: reactions
+- name: phase-transitions
+  count: 1
+  total: 133
+  group: thermodynamics
 - name: polarizable-water
   count: 1
   total: 7

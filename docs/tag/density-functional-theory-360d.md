@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">816 papers</span>
+  <span class="paper-count">814 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4898,17 +4898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07650.html">Pressure induced ferromagnetic to antiferromagnetic phase transition in transition metal chalcogenide Cr$_{3}$Te$_4$</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Asish Kumar Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07650">2507.07650</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04755.html">DFT-Guided Operando Raman Characterization of Ni-Based Phases Relevant to Electrochemical Systems</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Harol Moreno Fernández et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04755">2507.04755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05831.html">Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Jyoti Duhan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05831">2507.05831</a></td>
 </tr>
 </tbody></table>
