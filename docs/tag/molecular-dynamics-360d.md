@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">561 papers</span>
+  <span class="paper-count">557 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3356,29 +3356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09812.html">From Spheres to Cones: Structural Instabilities and Acidity at Conical Regions in Trivalent Metal Ion Nano-clusters</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
 <td>Jihong Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09812">2507.09812</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07479.html">Mass-transport-limited reaction rates and molecular diffusion in the van der Waals gap beneath graphene</a></div></td>
-<td>Hossein Mirdamadi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07479">2507.07479</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07791.html">Fundamental of CO2 Adsorption and Diffusion in Sub-nanoporous Materials: Application to CALF-20</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>André de Freitas Gonçalves et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07791">2507.07791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07926.html">Phase Stability and Transformations in Lead Mixed Halide Perovskites from Machine Learning Force Fields</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Xia Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07926">2507.07926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08215.html">Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="mace-360d.html">mace</a></div></td>
-<td>Yun An</td>
-<td><a href="http://arxiv.org/abs/2507.08215">2507.08215</a></td>
 </tr>
 </tbody></table>

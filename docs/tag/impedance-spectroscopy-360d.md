@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <a href="impedance-spectroscopy-30d.html">30d</a> <a href="impedance-spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="impedance-spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16066.html">Ball milling enables phase-pure synthesis of a temperature sensitive ternary chloride, MgZrCl$_6$</a></div></td>
 <td>Christopher L. Rom et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16066">2508.16066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07720.html">In situ impedance spectroscopy tests of Li$_{4-x}$Ge$_{1-x}$P$_x$O$_4$ as potential solid state electrolyte for Micro Li ion Batteries</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Mohammadhossein Montazerian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07720">2507.07720</a></td>
 </tr>
 </tbody></table>

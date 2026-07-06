@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,17 +470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10110.html">Cometary ion dynamics at 67P: A collisional test-particle approach with Rosetta data comparison</a></div></td>
 <td>Zoe Lewis et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10110">2507.10110</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07720.html">In situ impedance spectroscopy tests of Li$_{4-x}$Ge$_{1-x}$P$_x$O$_4$ as potential solid state electrolyte for Micro Li ion Batteries</a></div><div class="paper-tags"><a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a></div></td>
-<td>Mohammadhossein Montazerian et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07720">2507.07720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08215.html">Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yun An</td>
-<td><a href="http://arxiv.org/abs/2507.08215">2507.08215</a></td>
 </tr>
 </tbody></table>

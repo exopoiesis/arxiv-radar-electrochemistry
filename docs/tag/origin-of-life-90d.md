@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07498.html">Hydrolyzed Hazes on Water-rich Exoplanets: Optical Constants and Detectability</a></div></td>
 <td>Cara Pesciotta et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07498">2604.07498</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05223.html">A Modular 3D-Printed Design to Investigate Prebiotic Chemical Systems in Hot Spring Pools</a></div><div class="paper-tags"><a href="surface-science-90d.html">surface-science</a></div></td>
-<td>Arslan Siddique et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05223">2604.05223</a></td>
 </tr>
 </tbody></table>
