@@ -429,5 +429,478 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-07-02"
+ },
+ "2607.03249": {
+  "abstract": "The CMS Collaboration reported a local excess at $146~\\mathrm{GeV}$ in the search for the lepton-flavor-violating decay of the Higgs boson and additional Higgs bosons in the $eμ$ final state at $\\sqrt{s}= 13~\\mathrm{TeV}$. If confirmed, this would constitute a major piece of evidence of charged lepton flavor violation (cLFV). We investigate the compatibility of the claimed signal with the full suite of existing low-energy cLFV constraints in a bottom-up effective description: a single real scalar of mass $146~\\mathrm{GeV}$ coupled to gluons and to all charged-lepton bilinears, with seven free parameters that simultaneously control the LHC production cross section, every di-lepton decay channel, and every low-energy cLFV observable. A Bayesian MCMC analysis against $μ-e$ conversion, muonium-antimuonium oscillation, three-lepton and radiative LFV decays, semileptonic $τ$ LFV decays, and LHC di-lepton searches yields a preferred mode with peaked value $Y_{eμ} \\sim 10^{-4.09}$, already cut into by the current $μ-e$ conversion limits. The projected sensitivities of Mu2e, COMET, Mu3e, MACE, MEG~II, Belle~II, STCF, and the HL-LHC directly probe the region of coupling space selected by the CMS excess, so the complementarity between high-energy and low-energy cLFV probes will either corroborate or decisively exclude the scalar interpretation of the anomaly within the next decade.",
+  "authors": [
+   "Christina Gao",
+   "Lingfeng Li",
+   "Z. J. Xiong"
+  ],
+  "categories": [
+   "hep-ph",
+   "hep-th"
+  ],
+  "comment": "27 pages, 12 figures",
+  "first_author": "Christina Gao",
+  "pdf_url": "http://arxiv.org/pdf/2607.03249",
+  "primary_category": "hep-ph",
+  "published": "2026-07-03",
+  "tags": [
+   "mace"
+  ],
+  "title": "Probing a 146 GeV cLFV scalar using the LHC and low-energy experiments",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03267": {
+  "abstract": "Heteroatom substitution is a powerful route to tune the chemical and electronic properties of carbon nanomaterials. In particular, replacement of an sp2 hybridized carbon atom in the graphene lattice with a nitrogen atom (denoted as graphitic nitrogen) induces substantial changes in the electronic properties. These include changes in the band structure that can influence electronic transport, and magnetism. A key requirement for applications is both the periodic and precise incorporation of the heteroatoms in extended carbon lattices. Here, we report the on-surface synthesis and characterization of two one dimensional carbon nanostructures, a polymer and a graphene nanoribbon, consisting of periodically incorporated graphitic nitrogen atoms. The on-surface reactions toward formation of the nanostructures were monitored by scanning tunneling microscopy. The bond-resolved chemical structures of the reaction intermediates and products were investigated by atomic force microscopy, which enabled atomic-scale visualization of the graphitic nitrogen sites. The electronic properties of the nanostructures were studied by scanning tunneling spectroscopy and density functional theory calculations. Our analyses revealed the presence of localized nitrogen-centered electronic states. In the gas phase where the nanostructures are in a neutral charge state, these states undergo spin polarization leading to an open-shell ground state. Upon adsorption on Au(111), the nanostructures exhibit electron transfer to the surface, which resulted in a closed-shell ground state. Our results demonstrate a straightforward and generally applicable route to synthesize graphitic nitrogen-substituted carbon nanomaterials with potential applications in spintronics, catalysis and energy storage.",
+  "authors": [
+   "Nicolò Bassi",
+   "Shantanu Mishra",
+   "Zheng Zhang",
+   "Xiao-Ye Wang",
+   "Feifei Xiang",
+   "Nils Krane",
+   "Carlo A. Pignedoli",
+   "Klaus Müllen",
+   "Pascal Ruffieux",
+   "Akimitsu Narita",
+   "Roman Fasel"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Manuscript: 24 pages and 4 figures; Supporting Information: 19 pages and 18 figures",
+  "first_author": "Nicolò Bassi",
+  "pdf_url": "http://arxiv.org/pdf/2607.03267",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-07-03",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "One-dimensional carbon nanostructures with periodic graphitic nitrogen substitution",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03322": {
+  "abstract": "Cubic boron nitride (c-BN) is a wide-bandgap semiconductor (WBGS) with potential applications in both power electronics and quantum technologies. Color centers in WBGS can be used as single photon emitters and quantum sensors. Several zero phonon lines have been measured in c-BN experiment but not yet identified. To systematically probe the combinatorially complex chemical space of defects, we generate a large-scale point defect data set for c-BN. We apply density functional theory calculation implemented in a high-throughput workflow Automatic Defect Analysis and Qualification (ADAQ) to broadly screen for point defect complexes containing s- or p-elements. More than 8000 defects have been calculated in different charge and spin states. The calculated properties are stored in defect database and are then filtered to find defects with properties similar to the NV-center in diamond. More accurate calculations using hybrid functionals are then performed on a selected set of promising defects to further assess their suitability for quantum technology. In particular, we reexamined the ONVB defect which likely explains the GC-2 line. The hybrid calculations also suggest other defect candidates with bright emission, such as two carbon defects and the NaB- defect.",
+  "authors": [
+   "William Stenlund",
+   "Joel Davidsson",
+   "Viktor Ivády",
+   "Rickard Armiento",
+   "Igor A. Abrikosov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 24 figures",
+  "first_author": "William Stenlund",
+  "pdf_url": "http://arxiv.org/pdf/2607.03322",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-03",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Color Centers in Cubic Boron Nitride",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03375": {
+  "abstract": "The thermal stability of Jet A-1 fuel is strongly affected by trace heteroatomic species that promote thermal oxidative deposit formation, as well as antioxidant additives such as butylated hydroxytoluene, which preserve fuel stability. 3.7 Å chabazite is a tunable microporous adsorbent, but optimizing its composition requires balancing promoter removal against antioxidant loss. Here, we use density functional theory and \\textit{ab initio} molecular dynamics (AIMD) to evaluate this trade-off using two compositional descriptors: framework acidity (Si/Al $= 35$--$8$) and bimetallic substitution (Co, Mg, Zn) at fixed Al content. Lowering Si/Al strengthens adsorption of all species, including BHT, confirming an intrinsic selectivity penalty for acidity-only tuning. In contrast, bimetallic substitution introduces chemically selective behavior, strengthening uptake of specific promoters while either suppressing or enhancing antioxidant adsorption depending on dopant identity. AIMD simulations at 400 K further show that adsorption energy alone is insufficient to describe calculated trends, because molecular mobility inside chabazite can influence residence time and effective capture during fuel treatment. Analysis of the density of states and the participating wavefunctions reveals signatures that are consistent with dopant-dependent adsorption shifts. These results establish a unified adsorption--transport--electronic screening framework for selecting chabazite compositions that remove deposit promoters while preserving antioxidant functionality in Jet A-1 treatment.",
+  "authors": [
+   "Morteza Roostaeinia",
+   "Ehsan Alborzi",
+   "Xue Yong",
+   "Kyungwha Park",
+   "Vsevolod Ivanov"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 5 figures",
+  "first_author": "Morteza Roostaeinia",
+  "pdf_url": "http://arxiv.org/pdf/2607.03375",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-03",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "adsorption-energy",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03491": {
+  "abstract": "Accurate detection of human serum albumin (HSA) is essential for the early diagnosis and monitoring of renal and hepatic disorders. We present a graphene-based electrolyte-gated field-effect transistor (EGFET) for label-free, real-time quantification of HSA under non-Faradaic operation. Devices exploit the high interfacial capacitance of the electric double layer (EDL) to transduce electrostatic perturbations induced by albumin adsorption into measurable conductance modulation. Negatively charged HSA molecules induce systematic modulation of the graphene channel, producing a concentration-dependent displacement of the Dirac voltage consistent with p-type doping. To establish a molecular-level interpretation of the sensing response, Brownian Dynamics simulations show that HSA adsorbs onto graphene through multiple adsorption orientations associated with heterogeneous interfacial charge distributions and variable dipole alignments relative to the surface. Adsorption is energetically stabilized by van der Waals interactions. Analysis of transfer characteristics across concentrations ranging from 0.01 to 30mgmL-1 reveals a correlation between surface charge density and carrier transport modulation within the electric double layer. Optimized devices exhibit a limit of detection of 0.0087 mg mL-1 and a linear dynamic range extending to 10 mg mL-1. The response remains non-Faradaic under sub-volt operation with reversible and reproducible behavior. The use of an inverse-mobility analytical metric highlights the role of disorder-enhanced carrier scattering in signal amplification, enabling sensitive electrostatic detection while preserving reversible device operation. These results establish liquid-gated graphene EGFETs as a promising platform for quantitative protein sensing and provide insight into disorder-mediated transport mechanisms in graphene bioelectronic devices.",
+  "authors": [
+   "Arslan Liaquat",
+   "Ghassem Baridi",
+   "Federico Rapuzzi",
+   "Daniele Goldoni",
+   "Vito Clerico",
+   "El Hadj Abidi",
+   "Yahya Moubarak Meziani",
+   "Mario Amado",
+   "Enrique Diez",
+   "Naveen Kumar",
+   "Camilia Coletti",
+   "Beatrice Cipriani",
+   "Hender Lopez",
+   "Giorgia Brancolini",
+   "Leonardo Martini",
+   "Luigi Rovati",
+   "Francesco Rossella"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Arslan Liaquat",
+  "pdf_url": "http://arxiv.org/pdf/2607.03491",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-07-03",
+  "tags": [
+   "adsorption",
+   "electric-double-layer"
+  ],
+  "title": "Graphene Electric Double-Layer Transistors for Enhanced-Sensitivity Label-Free Detection of Human Serum Albumin",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03513": {
+  "abstract": "We present AquaGen, the first all-atom, explicit solvent, periodic-boundary-condition-aware generative model that produces molecular configurations from the Boltzmann distribution at a fraction of the cost of molecular dynamics (MD). This is in contrast with existing generative models that remove degrees of freedom by operating on coarse-grained, vacuum, or implicit solvent systems. Operating at this resolution allows for post-processing through force field energy evaluations and MD simulations, and enables the prediction of relevant properties in a gray-box manner (as ensemble averages of potential energy evaluations over generated samples). We demonstrate the utility of this paradigm on absolute hydration free energy (AHFE), producing estimates 4-10x faster and with comparable accuracy to standard GPU-based MD. By generating uncorrelated samples from alchemical Boltzmann distributions, we create more accurate, interpretable, and refinable ensemble predictions with calibrated uncertainty estimates, unlike regression methods which are entirely black-box predictors. Our approach also yields predictable benefits from increasing train- and test-time compute, realized by scaling model size and generating more samples, respectively. We believe that this approach demonstrates the utility of high-resolution ensemble generation for free energy estimation, with future potential to replace MD in tasks such as the prediction of lipophilicity, membrane permeability, or absolute binding free energy (ABFE) -- whose grounding and interpretability may be critical for the development of new drugs and materials.",
+  "authors": [
+   "Emmanuel Bengio",
+   "Sanjeev Raja",
+   "Yui Tik Pang",
+   "Kerstin Klaeser",
+   "Cristian Gabellini",
+   "Nikhil Shenoy",
+   "Francesco Di Giovanni",
+   "Prudencio Tossou"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG"
+  ],
+  "comment": "22 pages",
+  "first_author": "Emmanuel Bengio",
+  "pdf_url": "http://arxiv.org/pdf/2607.03513",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-03",
+  "tags": [
+   "explicit-solvation",
+   "molecular-dynamics",
+   "solvation-thermodynamics"
+  ],
+  "title": "AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03823": {
+  "abstract": "In this work, we propose a group II/IIIA-based Janus MBene, MgAlB_2, and investigate its electrochemical properties using first-principles calculations. The substitution of one Mg layer in Mg_2B_2 MBene by an Al layer breaks the structural symmetry and generates a permanent out-of-plane polarization, giving rise to a distinct electronic environment compared with the parent Mg_2B_2 and Al_2B_2 monolayers. Electronic-structure analysis reveals enhanced orbital hybridization among B, Mg, and Al states near the Fermi level, resulting in improved electronic delocalization across the monolayer. The Janus MgAlB_2 monolayer is found to possess excellent dynamical, mechanical, and thermal stability. Owing to its polarization-modified energy landscape, Li ions migrate with an exceptionally low diffusion barrier of 17.1 meV, corresponding to a room-temperature diffusion coefficient of 3.43x10^-10 cm^2/s. Unlike the pristine Mg_2B_2 and Al_2B_2 monolayers, which support only a single stable adsorption layer, MgAlB_2 accommodates two complete Li layers. Detailed analysis shows that the residual polarization retained after first-layer lithiation continues to promote Li adsorption, whereas increasing Li-Li electrostatic interactions eventually limit further storage. As a result, the Janus monolayer delivers a high theoretical specific capacity of 1470.24 mAh/g together with a small volume expansion of only 3.7% during maximum lithiation. The present study demonstrates that intrinsic polarization can be utilized to regulate both the thermodynamics and kinetics of Li storage, providing a design strategy for high-rate and high-capacity two-dimensional electrode materials.",
+  "authors": [
+   "Pritam Samanta",
+   "Sashank Kumar Pandey",
+   "Amit Kumar Jana",
+   "Prakash Parida"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Pritam Samanta",
+  "pdf_url": "http://arxiv.org/pdf/2607.03823",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-04",
+  "tags": [
+   "ab-initio",
+   "adsorption"
+  ],
+  "title": "Janus MgAlB_2 MBene: a dipole-engineered anode for ultrafast Li-ion transport and exceptional lithium storage",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-04"
+ },
+ "2607.04116": {
+  "abstract": "This study presents a comprehensive investigation of the pressure dependent structural, electronic, optical, mechanical, and bonding properties of orthorhombic boron rich chalcogenides B6S and B6Se. Calculations were performed using density functional theory across a wide range of hydrostatic pressures. The computed elastic constants, bulk, Young, shear moduli, and Poisson ratio, revealed mechanical robustness and strong resistance to deformation, even under significant compression. Electronic band structure and density of states analyses indicate that the materials exhibit indirect bandgap semiconducting behavior. Optical results reveal clear pressure induced spectral shifts, particularly in the visible and ultraviolet regions, suggesting modified light matter interaction under compression. Phonon dispersion curves verified the dynamical stability of both materials within the investigated pressure range. Hardness estimations, combined with elastic parameters, and melting temperatures, further indicate that B6S and B6Se possess significant mechanical strength suitable for applications under harsh environments. The thermal properties suggest that both these compounds possess features suitable to be used as excellent thermal barrier coating materials.",
+  "authors": [
+   "Sourav Kumar Sutradhar",
+   "Tanvir Khan",
+   "Tauhidur Rahman",
+   "Sraboni Saha Moly",
+   "Mst. Maskura Khatun",
+   "S. H. Naqib"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sourav Kumar Sutradhar",
+  "pdf_url": "http://arxiv.org/pdf/2607.04116",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-05",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Electronic Structure, Optical Response, Thermal and Mechanical Behavior of B6X (X = S, Se) under Pressure: A Comprehensive Ab-initio Exploration",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.04122": {
+  "abstract": "Hall measurements in superconducting bilayer nickelate films show sign reversals that cannot be explained by rigid-band electron doping alone. We combine a DFT+CDMFT-derived correlated multi-orbital quasiparticle model with a $T$-matrix treatment of oxygen-vacancy scattering in a semiclassical Boltzmann transport framework. We find that multiband compensation is insufficient by itself: in-plane vacancies selectively suppress the transport channel dominated by the $d_{x^2-y^2}$ orbital and drive $R_H$ through zero, whereas inner-apical vacancies make $R_H$ more negative. These results identify pocket-resolved and orbital-selective oxygen-vacancy scattering as the microscopic origin of the Hall coefficient sign reversal and provide a framework for oxygen-stoichiometry-dependent transport in nickelate films.",
+  "authors": [
+   "Jian-Jian Miao",
+   "Yue Liu",
+   "Yue Zhao",
+   "Yichen Hua",
+   "Changming Yue",
+   "Wei-Qiang Chen"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Jian-Jian Miao",
+  "pdf_url": "http://arxiv.org/pdf/2607.04122",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-07-05",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Hall Coefficient Sign Reversal Driven by Orbital-Selective Oxygen-Vacancy Scattering in Nickelate Films",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.04200": {
+  "abstract": "Pressure provides a powerful thermodynamic route to access hidden structural states in functional materials, yet the microscopic origin of pressure-induced amorphization remains elusive in many complex chalcogenides. Here we report a detailed high-pressure structural study of AgSbTe2,combining synchrotron X-ray diffraction with density functional theory and molecular dynamics calculations up to 60 GPa. We uncover a pressure-driven transformation from the ambient R-3m phase to a fully disordered cubic Im3m phase, through an extended intermediate amorphous state. Enthalpy calculations reveal a near-degeneracy between the R3m and Im3m structures over a broad pressure range, dictating amorphization. Contrary to previously speculated cation vacancies, the amorphization is governed by a pronounced displacement instability of the Te sublattice. Remarkably, the time dependent decompression pathway controls the final structural state, resulting in either amorphous (slow decompression) or fully crystalline (fast decompression) states, indicative of a strong counterintuitive kinetic effect.",
+  "authors": [
+   "Baihong Sun",
+   "Zihan Zhang",
+   "Wei Luo",
+   "Sergei Grazhdannikov",
+   "Wenting Lu",
+   "Shiyu Feng",
+   "Haikai Zou",
+   "Chenxin Wei",
+   "Martin Kunz",
+   "Hirokazu Kadobayashi",
+   "Bihang Wang",
+   "Azkar Saeed Ahmad",
+   "Yaron Amouyal",
+   "Rajeev Ahuja",
+   "Elissaios Stavrou"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 8 figures",
+  "first_author": "Baihong Sun",
+  "pdf_url": "http://arxiv.org/pdf/2607.04200",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-05",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.04502": {
+  "abstract": "Entropy-stabilized oxides (ESOs) open access to vast multicomponent compositional spaces, but identifying promising candidates remains challenging because of the large number of possible mixtures and the need to assess their stability against competing phases. In this work, we develop a high-throughput computational framework to screen equimolar quinary ESOs in the NaCl structure type by combining density functional theory (DFT), special quasirandom structures (SQS), convex-hull thermodynamics, and supervised machine learning. A consistent reference database of binary and ternary ordered oxides, including disordered phases such as all binary cation combinations in the NaCl-type oxide, is first constructed using GGA and meta-GGA calculations. Quinary disordered phases are then described by SQS supercells and used to train machine-learning models that predict the distance to the convex hull and the corresponding stabilization temperature over the full set of 4368 possible equimolar quinary compositions generated from 16 cation species. Among the tested models, an optimized multilayer perceptron provides the best predictive performance, with a test error of about 4 kJ/mol, while requiring explicit DFT calculations for only about 10% of the quinary systems. Comparison with experimental synthesis tests and computed decomposition paths further shows that the approach captures the main stability trends and the dominant competing phases, although absolute stabilization temperatures remain affected by systematic thermodynamic approximations. These results establish an efficient route for the data-driven exploration of multicomponent oxides and provide practical guidance for the experimental search for new ESOs.",
+  "authors": [
+   "Sebastien Junier",
+   "Celine Barreteau",
+   "David Berardan",
+   "Yann-Andrev Kerneur",
+   "Jean-Claude Crivello"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "regular article and supplementary materials",
+  "first_author": "Sebastien Junier",
+  "pdf_url": "http://arxiv.org/pdf/2607.04502",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-05",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Data-Driven Prediction of NaCl-Type Entropy-Stabilized Oxide Compositions from First-Principles and Supervised Learning",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-05"
+ },
+ "2607.04633": {
+  "abstract": "The rational design of ionic electrolytes for lithium-ion batteries (LIBs) is severely constrained by the vast solvent-salt combinatorial space and low efficiency of empirical trial-and-error. While molecular dynamics (MD) bridges microscopic solvation structures and macroscopic physicochemical properties, classical force fields often lack sufficient accuracy for multicomponent systems. To address these challenges, we develop an automated differentiable OPLS-AA force field parameterization workflow tailored for general ionic electrolytes. It employs topology-guided atom typification to reduce parameter redundancy and optimizes Lennard-Jones parameters via the DMFF framework, with experimental density as the fitting target and ionic conductivity as an independent validation metric. Rigorous convergence tests yield a standardized simulation protocol with $\\sim$100,000-atom systems and 35-40 ns NVT runs to ensure reliable transport property quantification. High-throughput MD simulations of over 10,000 formulations spanning 67 solvents and 15 lithium salts are conducted on the Tianqiong platform, generating a comprehensive dataset covering five core properties: density, dielectric constant, viscosity, diffusion coefficient, and ionic conductivity. t-SNE visualization reveals partial clustering of distinct salt chemistries, continuous property gradients with concentration and temperature, and internal physical self-consistency, with solvent composition identified as another key performance regulator. Together, the accurate transferable force field and large-scale dataset provide a solid foundation for data-driven rational design of ionic electrolytes.",
+  "authors": [
+   "Haichao Huang",
+   "Zilin Chen",
+   "Qi Liu",
+   "Tianqi Zhao",
+   "Yunpei Liu",
+   "Guotao Qiu",
+   "Jianhui Chen",
+   "Zhen Li",
+   "Wenshuo Liang",
+   "Minsung Cho",
+   "Manxue Zhang",
+   "Feiyu Kang",
+   "Xiaolong Zou",
+   "Yidan Cao",
+   "Xushan Zhao",
+   "Ziqi Cheng",
+   "Ye Mei"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Haichao Huang",
+  "pdf_url": "http://arxiv.org/pdf/2607.04633",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-06",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Differentiable OPLS Force Field Parameterization for Ionic Electrolytes and High-Throughput Application to Lithium-ion Batteries",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.04821": {
+  "abstract": "This study assesses the scalability of process-based and thread-based schedulers for many-core shared-memory systems using a memory-intensive row-wise quick-sort workload on large three-dimensional tensors. The process-based evaluation considers bounded prolific, bounded collective, and three pipe-based producer-consumer schedulers: one-to-one, one-to-many, and many-to-many. These pipe schedulers dynamically stream task identifiers to worker processes, exchanging increased inter-process communication overhead for enhanced runtime load balancing and flexible chunk-based task dispatching. The thread-based evaluation examines static, dynamic, guided, chunk-based, chunk-stealing, adaptive chunk, and AIMD adaptive scheduling strategies. The AIMD scheduler employs an additive-increase multiplicative-decrease policy inspired by TCP congestion control, utilizing an exponentially weighted moving average (EWMA) of CPU utilization to regulate a contention window that limits the number of concurrently active chunks. The adaptive chunk scheduler further modifies chunk size based on observed per-thread execution speed. Experimental results on a 24-core x86-64 platform indicate that thread schedulers deliver the highest overall performance, with dynamic and guided scheduling yielding the most favorable practical outcomes. Among process schedulers, pipe-based designs demonstrate the strongest scalability, with one-to-one pipes excelling for smaller workloads and many-to-many pipes preferred for larger workloads. In summary, lightweight thread scheduling is optimal for shared-memory row sorting, while AIMD/adaptive scheduling and pipe-based process scheduling remain valuable for contention-aware execution, explicit inter-process coordination, and distributed-style heterogeneous workload management.",
+  "authors": [
+   "Mejgan Dedaj",
+   "Argyro Gailla",
+   "Theofanis Ioannou",
+   "Stamatia Kastrinaki",
+   "Hermione Kimpouropoulou",
+   "Dimitrios Kontodimos",
+   "Kleopatra Kontogianni",
+   "Sotirios Kontogiannis",
+   "Michail Panagiotidis Kannas",
+   "Anastasia Papouda",
+   "Anna Maria Sidiropoulou",
+   "George Tavridis"
+  ],
+  "categories": [
+   "cs.DC",
+   "cs.PF"
+  ],
+  "comment": "21 pages, 14 figures",
+  "first_author": "Mejgan Dedaj",
+  "pdf_url": "http://arxiv.org/pdf/2607.04821",
+  "primary_category": "cs.DC",
+  "published": "2026-07-06",
+  "tags": [
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Performance evaluation of scheduling tasks in many-core systems utilizing processes and threads",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.04840": {
+  "abstract": "Soft lattices combined with strong electron-phonon coupling in metal halide perovskites result in a complex interplay between electronic and lattice degrees of freedom. This interplay complicates the interpretation of time-resolved excitation spectra like pump-probe spectra. Here, we develop a first-principles approach that combines a nonequilibrium extension of the Bethe-Salpeter equation with \\textit{ab initio} molecular dynamics to resolve the origin of transient absorption. This approach can quantitatively disentangle electronic and thermal lattice contributions across femtosecond-to-picosecond timescales. Exemplified with \\ce{CH3NH3PbBr3}, we find that on the femtosecond scale, both X-ray and optical transient absorption spectra are dominated by electronic contributions: Photoinduced Coulomb screening weakens the effective electron-hole interaction and blueshifts the excitonic resonances, whereas Pauli blocking is negligible. On the picosecond scale, thermal lattice contributions become essential, with distinct mechanisms dominating different spectral regions: Lattice vibrations lead to spectral redistribution in the X-ray transient absorption spectrum, whereas lattice expansion blueshifts the optical transient absorption spectrum.",
+  "authors": [
+   "Lu Qiao",
+   "Ronaldo Rodrigues Pela",
+   "Claudia Draxl"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 7 figures, 2 tables; Supporting Information provided as a separate PDF",
+  "first_author": "Lu Qiao",
+  "pdf_url": "http://arxiv.org/pdf/2607.04840",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-06",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Disentangling Electronic and Lattice Contributions to Transient Absorption in Metal Halide Perovskites: A First-Principles Study of CH3NH3PbBr3",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05037": {
+  "abstract": "We explore the nonlinear optical properties of few-layer MoS2 by means of polarization and laser-power-dependent measurements as well as ab initio techniques. While for even layer samples a weak second-harmonic (SH) signal can be attributed to the presence of surface defects or interface effects, our measurements resolve a layer-number dependent signal for odd-layer samples. For the excitation energy of 780 nm, we find that the SH intensity decreases steadily with the layer number. Our simulations demonstrate that this effect cannot be purely attributed to modifications of the band structure, but requires the inclusion of excitonic effects and can be explained by the increasing delocalization of excitons with increasing sample thickness.",
+  "authors": [
+   "H. Hübschmann",
+   "G. Berth",
+   "M. Groll",
+   "K. Burgholzer",
+   "A. Bonanni",
+   "K. D. Jöns",
+   "U. Gerstmann",
+   "W. G. Schmidt",
+   "A. Bocchini"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "12 pages, 7 figures, to be submitted to American Chemical Society (ACS) Photonics",
+  "first_author": "H. Hübschmann",
+  "pdf_url": "http://arxiv.org/pdf/2607.05037",
+  "primary_category": "physics.optics",
+  "published": "2026-07-06",
+  "tags": [
+   "ab-initio",
+   "surface-defects"
+  ],
+  "title": "Surface-exciton enhanced SHG response in few-layer 2H-TMDC",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-06"
  }
 }
