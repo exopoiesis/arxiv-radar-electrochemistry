@@ -902,5 +902,171 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-07-06"
+ },
+ "2607.05514": {
+  "abstract": "Big Bang nucleosynthesis (BBN) predicts the primordial deuterium abundance to a precision now limited by the nuclear reactions that burn deuterium. For the simplest of them, proton-deuteron radiative capture, d + p -> γ+ 3He [d(p,γ)3He], the precise LUNA data sit below the ab initio benchmark, and BBN reaction networks split on which to adopt. We develop an effective field theory (EFT) expanding in the finite size of the nuclei, building the amplitude with modern on-shell methods that enumerate every tree-level structure consistent with symmetries without the need for an explicit Lagrangian. A global Bayesian fit to the capture data and nuclear-theory priors returns S(0) = 0.209 +/- 0.008 eV b and traces the offset from the ab initio benchmark to a single natural-sized next-to-leading contact term (t_E1 ~ -0.15, the fractional shift of the electric-dipole amplitude) -- equivalently a ~15% lower effective 3He asymptotic normalization. We estimate the leading EFT truncation errors and identify an elastic d-p observable that would separate them. Our results suggest that amplitude methods enable systematic and complete tree-level construction and matching of EFTs for low-energy nuclear reactions.",
+  "authors": [
+   "Tim M. P. Tait"
+  ],
+  "categories": [
+   "nucl-th",
+   "hep-ph"
+  ],
+  "comment": "16 pages, 4 figures. Ancillary file: tabulated S(E) with its 1-sigma band (dpHe3_Sfactor_band.txt)",
+  "first_author": "Tim M. P. Tait",
+  "pdf_url": "http://arxiv.org/pdf/2607.05514",
+  "primary_category": "nucl-th",
+  "published": "2026-07-06",
+  "tags": [
+   "ab-initio",
+   "reaction-networks"
+  ],
+  "title": "Deuterium-Proton Fusion in an Effective Field Theory Constructed from On-Shell Amplitudes",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05559": {
+  "abstract": "Foundation machine learning force fields (MLFFs) such as MACE-MP-0 and UMA cover broad chemical space at near density functional theory (DFT) accuracy. However, they assume equilibrium ground-state physics and do not natively handle externally induced changes to the electronic state, such as charging, applied fields, or electronic excitation, which limits their use for driven processes such as photoexcitation and charge injection. We propose EquiFiLM, a lightweight extension that adds continuous external conditioning to any equivariant foundation MLFF via a per-layer Feature-wise Linear Modulation (FiLM) block, learning externally driven changes to the potential energy surface from minimal training data. The block modulates only scalar channels and preserves E(3)-equivariance exactly. We demonstrate the recipe on charged liquid water with the foundation model MACE-MatPES as the backbone, yielding E-MACE. On the four training charges, E-MACE delivers a $3.1\\times$ reduction in force RMSE ($21.3$ to $6.96$ meV/$\\mathring{A}$) and a $61\\times$ reduction in per-atom energy RMSE ($6.1$ to $0.1$ meV/atom) over a baseline without EquiFiLM trained on the same data, at indistinguishable inference cost. Across seven held-out interpolation and extrapolation charges, force RMSE stays within $18-61$ meV/$\\mathring{A}$ and energy RMSE within $0.7-5.4$ meV/atom. The model runs stable molecular dynamics across the full range tested and predicts the charge-dependent first-shell response of the reduced pair distribution function probed by ultrafast electron diffraction. Adding this conditioning axis to the foundation requires only a few thousand DFT-labeled frames, against the $\\approx 10^8$ structures of a charge-aware foundation trained from scratch. The recipe is backbone- and conditioning-agnostic: it applies without architectural change to any equivariant MLFF with scalar interaction-layer channels.",
+  "authors": [
+   "Samuel Sahel-Schackis",
+   "Ken-ichi Nomura",
+   "Aiichiro Nakano",
+   "Matthias F. Kling",
+   "Thomas Linker"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Samuel Sahel-Schackis",
+  "pdf_url": "http://arxiv.org/pdf/2607.05559",
+  "primary_category": "cs.LG",
+  "published": "2026-07-06",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.06053": {
+  "abstract": "The extension of moire physics to complex oxides offers new ways to manipulate electronic states, but the large oxide moire supercells make systematic first-principles calculations demanding. Here, we combine density functional theory with the E(3)-equivariant deep-learning Hamiltonian framework DeepH-E3 to investigate the twist-angle-dependent electronic structure and optical responses of twisted bilayer SrTiO3. The model is trained on untwisted bilayers with different interlayer-sliding configurations and then applied to commensurate twisted bilayers with twist angles from 8.80 degrees to 53.13 degrees. Compared with the untwisted bilayer, decreasing twist angle systematically flattens the valence bands and leads to nearly dispersionless bands at the smallest angles studied. Based on the predicted Hamiltonians, we evaluate the dielectric response, second-harmonic generation (SHG), shift current, and spin Hall conductivity. The dielectric response and spin Hall conductivity remain close to those of the untwisted bilayer, whereas the nonlinear optical responses are more strongly affected by twisting. SHG is strongly enhanced relative to the weak untwisted response, and the shift current shows a clear twist-angle dependence within the response-calculation range (53.13 degrees-22.62 degrees). These results show that twist engineering can control electronic and optoelectronic responses in oxide moire systems.",
+  "authors": [
+   "Meiyang Yu",
+   "Chen Shen",
+   "Ruiwen Xie",
+   "Jingwei Tao",
+   "Lijun Zhang",
+   "Hongbin Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 6 figures",
+  "first_author": "Meiyang Yu",
+  "pdf_url": "http://arxiv.org/pdf/2607.06053",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06057": {
+  "abstract": "The characteristics of graphene-metal interfaces play a decisive role in their electronic, optoelectronic, and mechanical applications. Properties such as charge transfer across the interface become particularly significant in the presence of topological defects. The stability of Stone Wales (SW) defects in graphene is governed by the balance between three energy descriptors, the activation energy, formation energy, and restoration energy. By comparing the energy parameters obtained from first-principles density functional theory calculations, we show that SW defect formation is energetically more favorable on metal-supported graphene. Our calculations for SW defects in graphene/Cu(111) and graphene/Al(111) systems indicate only a little dependence of energy profile on the type of metal. The presence of the metal substrate leads to a $\\sim$ 12\\% increase in the formation energy and a $\\sim$ 20\\% reduction in the activation energy, which together favor the formation of Stone Wales defects. Although the restoration energy decreases by about $\\sim$ 35\\% in metal-supported graphene, it remains significantly higher to prevent self-healing. As a result, once formed, the Stone Wales defects are likely to remain stable, suggesting the possibility of terminal SW defect formation in metal-supported graphene.",
+  "authors": [
+   "Rob H. Mason",
+   "Manuka M. S. Sinharage",
+   "Hansika I. Sirikumara",
+   "Sabrina Nilufar",
+   "Thushari Jayasekera"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "6 pages, 6 figures",
+  "first_author": "Rob H. Mason",
+  "pdf_url": "http://arxiv.org/pdf/2607.06057",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "Stabilization of Stone-Wales Defects in Metal-supported Graphene",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06122": {
+  "abstract": "We use molecular dynamics simulations to directly compute the effective diffusivity of hydrogen gas atoms in homogeneous distributions of monovacancies in tungsten and vanadium, and voids in tungsten. Rather than fitting the results to an Arrhenius law, we compare to an analytic approximation for the effective diffusivity recently derived for multi-occupancy traps [Kaur et al (2025), Phys. Rev. Mater. 9:125404]. We find good agreement between full atomistic simulation and our theory, validating the analytic model for diffusivity for materials containing nanoscale defects characteristic of radiation damage. There are no parameters fitted, only physically motivated quantities that can be computed with static density functional or atomistic potential calculations. In this study we prove rapid convergence of hydrogen trap occupation to the steady state using lattice kinetic Monte Carlo, the spontaneous emergence of voids in tungsten using atomistic simulation with empirical potentials, and molecular hydrogen formation in voids using molecular dynamics. We conclude with a prediction for diffusion and retention of hydrogen in voids in tungsten starting from first principles. This work shows that not only is the analytic form for diffusivity and retention in multi-occupancy traps a practical scheme for making predictive simulations of hydrogen isotope diffusion and retention in irradiated microstructures, derived and parameterized from first principles, it is superior to existing single-occupancy trap formalisms.",
+  "authors": [
+   "Daniel Mason",
+   "Sanjeet Kaur",
+   "Samanyu Tirumala",
+   "Prashanth Srinivasan",
+   "Ville Jantunen",
+   "Max Boleininger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daniel Mason",
+  "pdf_url": "http://arxiv.org/pdf/2607.06122",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06470": {
+  "abstract": "Understanding phonon-mediated heat transport in structurally complex materials remains a central challenge for next-generation electronic and nanomechanical devices, where grain boundaries and interfacial disorder strongly limit thermal dissipation. Although classical interatomic potentials enable large-scale simulations, their limited transferability can lead to inaccuracies in vibrational properties and interfacial phonon scattering. In this work, we develop a machine-learning based framework for modeling thermal transport in bulk and nanocrystalline silicon by combining Gaussian approximation potential (GAP) and multi-atomic cluster expansion (MACE) models with lattice-dynamical calculations and non-equilibrium molecular dynamics (NEMD). Harmonic and anharmonic force constants derived from machine-learning interatomic potentials (MLIPs) are used within a unified Phonopy/Phono3py workflow to compute phonon dispersions, lifetimes, and lattice thermal conductivity, providing an internally consistent description of vibrational properties. In nanocrystalline silicon, NEMD simulations directly quantify the thermal boundary resistance associated with grain boundaries and reveal its sensitivity to interfacial roughness and the underlying interatomic description. Compared with the Stillinger-Weber and Tersoff potentials, the MLIPs provide a more accurate and internally consistent description of bulk and interfacial phonon transport, enabling more predictive modeling of nanoscale thermal transport in low-dimensional materials.",
+  "authors": [
+   "Houssem Rezgui",
+   "Catalina Coll Benejam",
+   "Miguel Pruneda",
+   "Clivia M. Sotomayor Torres"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Houssem Rezgui",
+  "pdf_url": "http://arxiv.org/pdf/2607.06470",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Phonon-Mediated Thermal Transport in Nanocrystalline Silicon Using Machine-Learning Interatomic Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-07"
  }
 }
