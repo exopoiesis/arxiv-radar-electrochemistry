@@ -1068,5 +1068,103 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-07-07"
+ },
+ "2607.06645": {
+  "abstract": "Density functional theory (DFT) predicts cathode voltages accurately but does not scale to the combinatorial chemical spaces of modern materials databases, while pure machine-learning surrogates are fast but cannot guarantee thermodynamic consistency. We introduce BatteryMat, a three-tier framework that promotes single-pass average-voltage prediction with the Atomistic Line Graph Neural Network (ALIGNN) as the primary screening signal across JARVIS-DFT, then validates survivors with ALIGNN-FF force-field delithiation profiles and automated PBE+U or optB88-vdW+U supercell DFT. The exchange-correlation functional is selected automatically by spacegroup, and the lithium metal reference is recomputed in the same plane-wave basis as the cathode runs, removing a systematic offset of about 1 V present in tabulated values. Trained on 7,610 ALIGNN-FF delithiation voltages, the ALIGNN predictor reproduces the force-field labels with a mean absolute error of 0.17 V and a coefficient of determination of 0.94; this measures distillation fidelity to the force-field protocol, not agreement with DFT or experiment. On four commercial chemistries (LiFePO4, LiMnPO4, LiMn2O4, LiCoO2) the DFT tier reproduces the experimental average voltage to within 0.3 V and the theoretical volumetric capacity to within 5%; a fifth, non-stoichiometric layered entry is carried as an edge case. The pipeline prioritises, rather than generates, existing structures: it ranks the lithium-containing JARVIS-DFT pool into 71 candidates and a scan of about 4.49 million Alexandria structures into 213, all surrogate-level leads awaiting DFT validation rather than confirmed cathodes. BatteryMat is available at https://github.com/atomgptlab/batterymat with a demo at https://atomgpt.org/battery.",
+  "authors": [
+   "Jaehyung Lee",
+   "Charles Rhys Campbell",
+   "Kent Zhang",
+   "Kamal Choudhary"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "31 pages, 6 figures, 2 tables",
+  "first_author": "Jaehyung Lee",
+  "pdf_url": "http://arxiv.org/pdf/2607.06645",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "BatteryMat: a hierarchical machine-learning and DFT framework for average-voltage screening of lithium-ion cathode materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.07086": {
+  "abstract": "High refractive index dielectrics are central to photonic applications, yet the empirical Moss rule imposes a fundamental trade-off between refractive index and optical transparency. We introduce a modified Moss rule anchored to the optical absorption edge rather than the fundamental bandgap, capturing materials where various physical mechanisms suppress absorption well above the electronic gap. Screening the Materials Project database with this metric reveals recurring chemical compositions and structural prototypes in the materials with the most promising refractive index/transparency trade-offs. These materials include chalcopyrites, Zintl pnictides, and early transition metal multi-anion chalconitrides and oxychalcogenides compounds. Hybrid density functional theory calculations reveal that the chalconitride (Hf,Zr)2(S,Se)N2 family can achieve a combination of ultra-high refractive indices, low effective masses and transparency windows extending deep into the UV, surpassing state-of-the-art TiO2 and SiC. Our results establish (Hf,Zr)2(S,Se)N2 compounds as a unique and largely unexplored material family for next-generation photonic applications.",
+  "authors": [
+   "Eugène Bertin",
+   "Finja Tadge",
+   "Andrea Crovetto"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Eugène Bertin",
+  "pdf_url": "http://arxiv.org/pdf/2607.07086",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-08",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "A modified Moss rule highlights underexplored classes of high refractive index materials",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07110": {
+  "abstract": "Zn-metalloproteins play vital roles in numerous metabolic processes, making them high-value targets for structure-based drug design. To advance these efforts, it is useful to unravel the individual components of the intermolecular interaction energies (DE) that stabilize the Znbinding cavity, both in the absence and presence of bound protein ligands. Here, we utilize quantum chemistry (QC) to decompose DE into distinct physical contributions. The relative magnitudes of these components vary significantly depending on the coordination number (four to six) and the chemical nature ('hard' vs. 'soft') of the Zn-coordinating ligands. These high-level QC analyses serve to calibrate and validate polarizable molecular mechanics potentials, effectively extending the accurate description of electronic effects beyond the immediate Zn-binding cavity to enlarged recognition sites and, ultimately, entire protein systems over long molecular dynamics (MD) simulation timescales. Following a concise overview of our QC methodology, we present validation studies on complexes containing up to 300 atoms and discuss the prospects of applying this framework to large-scale simulations of Zn-metalloprotein-ligand complexes. Finally, the structural and energetic role of discrete, highly polarizable water molecules is highlighted.",
+  "authors": [
+   "Nohad Gresh",
+   "Jean-Philip Piquemal"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Nohad Gresh",
+  "pdf_url": "http://arxiv.org/pdf/2607.07110",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-08",
+  "tags": [
+   "molecular-dynamics",
+   "polarizable-water"
+  ],
+  "title": "Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07642": {
+  "abstract": "The negatively charged boron vacancy center in hexagonal boron nitride is a premier candidate for quantum sensing, yet its performance is critically limited by longitudinal spin-lattice relaxation time ($T_1$). A microscopic understanding of spin relaxation in the high magnetic field regime remains elusive, as the relevant Zeeman transitions lie far below the optical phonon energies typically invoked to describe the relaxation process. Here, we apply an \\textit{ab initio} acoustic mode spin-phonon relaxation theory to this problem and quantitatively reproduce the experimental magnetic field and temperature dependence of $T_1$ without empirical fitting parameters. We demonstrate that the relaxation dynamics are driven by a direct one-phonon emission and absorption process resonant with the Zeeman splitting. Furthermore, we identify the out-of-plane flexural phonon branch which is unique to two-dimensional hosts, as the primary source of decoherence, creating a distinct low-energy spectral function that facilitates spin relaxation. Our results provide a microscopic interpretation of the experimentally observed non-monotonic field and temperature dependence in two-dimensional quantum defect centers.",
+  "authors": [
+   "Priyo Adhikary",
+   "Pramey Upadhyaya"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Priyo Adhikary",
+  "pdf_url": "http://arxiv.org/pdf/2607.07642",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-08",
+  "tags": [
+   "ab-initio",
+   "vacancies"
+  ],
+  "title": "Acoustic-phonon-driven spin-lattice relaxation of the hBN boron vacancy in the sub-THz regime",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-08"
  }
 }
