@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
+<td>Philip Schwinghammer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08438.html">Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Vinayak M. Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08438">2607.08438</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Matthew Bousquet et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07642.html">Acoustic-phonon-driven spin-lattice relaxation of the hBN boron vacancy in the sub-THz regime</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Priyo Adhikary et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07642">2607.07642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07983.html">Theoretical ab initio Evolution of Satellite Intensity near Threshold for Cu K-shell transitions</a></div></td>
+<td>Daniel Pinheiro et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07983">2607.07983</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -704,17 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10026.html">Strong Electron-Phonon Coupling and Multiband Superconductivity in Hexagonal BP3 Monolayer</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10026">2604.10026</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="neb-90d.html">neb</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a></div></td>
-<td>Sikander Azam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09891.html">How Does Intercalation Reshape Layered Structures? A First-Principles Study of Sodium Insertion in Layered Potassium Birnessite</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="neb-90d.html">neb</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Adriana Lee Punaro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09891">2604.09891</a></td>
 </tr>
 </tbody></table>

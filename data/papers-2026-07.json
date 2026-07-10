@@ -1166,5 +1166,265 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-07-08"
+ },
+ "2607.07894": {
+  "abstract": "We present a bulk boundary condition formalism for surface calculations in Kohn--Sham density functional theory. The approach exploits the nearsightedness of electronic interactions in real space to restrict the calculation to a localized surface region. Within this region, the electron density is evaluated by leveraging the decay of the density matrix, with bulk values imposed on the density and electrostatic potential in the interior, and the electrostatic potential solved subject to bulk boundary conditions. The energy and atomic forces are computed using density-matrix-based expressions. Through representative calculations of surface and adsorption energies, we demonstrate the accuracy and efficiency of the proposed formalism.",
+  "authors": [
+   "Sayan Bhowmik",
+   "Andrew J Medford",
+   "Phanish Suryanarayana"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "15 pages, 5 figures, 2 tables",
+  "first_author": "Sayan Bhowmik",
+  "pdf_url": "http://arxiv.org/pdf/2607.07894",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-08",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Bulk Boundary Condition for Surface Calculations in Density Functional Theory",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07983": {
+  "abstract": "In this work, we have investigated the evolution of satellite intensity near the ionization threshold for Cu K-shell transitions through theoretical methods. Employing standard state-of-the-art ab initio methods, we have calculated all Cu K-shell transitions and simulated the full K$α_1$ and K$α_2$ spectrum where all transition parameters, as well as shake probabilities were determined theoretically. Through these calculations we show that standard state-of-the-art ab initio methods achieve good agreement with experiment and enable us to simulate the intensity evolution near ionization thresholds within a good margin of error. Below-threshold satellite intensity was found to originate from resonant 1s$\\rightarrow$3d and 1s$\\rightarrow$4p excitations in Cu(I) and Cu(II) oxide phases respectively, which were included in our simulations.",
+  "authors": [
+   "Daniel Pinheiro",
+   "Gonçalo Baptista",
+   "César Godinho",
+   "André Fernandes",
+   "Jorge Machado",
+   "Pedro Amaro",
+   "Nancy Paul",
+   "Martino Trassinelli",
+   "Miguel Avillez",
+   "Paul Indelicato",
+   "José Paulo Santos",
+   "Mauro Guerra"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "quant-ph"
+  ],
+  "comment": "16 pages, 11 figures",
+  "first_author": "Daniel Pinheiro",
+  "pdf_url": "http://arxiv.org/pdf/2607.07983",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-07-08",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Theoretical ab initio Evolution of Satellite Intensity near Threshold for Cu K-shell transitions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.08003": {
+  "abstract": "Catalysts are essential for sustainable chemical manufacturing, yet discovering novel architectures remains a bottleneck dominated by trial-and-error experimentation and computationally intensive screening. In complex reactions such as electrochemical carbon dioxide reduction, product selectivity is governed by dynamic interfacial, electrolyte, and potential factors as well as kinetic pathway competition. Conventional descriptor-based machine learning and computational potentials struggle to resolve these mechanistic branch points, primarily relying on static ground-state descriptors or bulk structural correlations rather than end-to-end topological pathway analysis. Here, we show that frontier language models, when strictly constrained to reason over explicit reaction networks, can discover novel catalysts by identifying the physical levers that govern pathway competition. We developed a human-AI co-thinking framework that enforces network invariance to extract testable hypotheses from complex chemical graphs. Applied to CO2 electroreduction, the framework identified ketene desorption and hydroxide capture as the acetate-forming pathway, and predicted a distinct adsorbed CO and CH2 coupling route to ketene. By isolating actionable control levers, specifically local alkalinity, controlled iron incorporation, and restricted interfacial proton-donor accessibility, the framework guided the prospective synthesis of a copper-iron oxide catalyst demonstrating a threefold increase in acetate selectivity over matched Cu-rich baselines. This mechanism-guided reasoning architecture shifts the computational paradigm from retrospective statistical prediction to forward-looking hypothesis generation, providing a broadly applicable blueprint for mechanism-guided materials discovery.",
+  "authors": [
+   "Sutanay Choudhury",
+   "Anwesha Banerjee",
+   "Udishnu Sanyal",
+   "Jorin Dawidowicz",
+   "Chiezugolum Ijeoma Odilinye",
+   "Jesun Firoz",
+   "Liney Arnadottir",
+   "Simone Raugei",
+   "Johannes Lercher",
+   "Arnab Dutta"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Sutanay Choudhury",
+  "pdf_url": "http://arxiv.org/pdf/2607.08003",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-09",
+  "tags": [
+   "adsorption",
+   "co2-reduction",
+   "reaction-networks"
+  ],
+  "title": "Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08167": {
+  "abstract": "Strong-field photoionization of molecules and molecular clusters gives rise to a rich variety of fragmentation pathways governed by charge localization and redistribution on ultrafast timescales. Here, we report a velocity-map imaging study of the strong-field photoionization and fragmentation of carbonyl sulfide (OCS) monomers and dimers driven by 150 femtosecond (fs) laser pulses at 775~nm. The images of the total kinetic-energy and angular distributions of the OCS$^{2+}$, S$^+$, and CO$^+$ fragments were interpreted with the help of electronic-structure calculations of the potential energy surfaces for OCS$^+$ and OCS$^{2+}$. We identify distinct dissociation pathways of singly and doubly ionized OCS, including two-body breakup channels of OCS$^+$ into $\\mathrm{S}^+ + \\mathrm{CO}$ and $\\mathrm{CO}^+ + \\mathrm{S}$, dissociation of OCS$^{2+}$ into $\\mathrm{S}^+ + \\mathrm{CO}$$^+$ as well as higher-order three-body fragmentation. In addition, the images of the OCS$^{2+}$ channel exhibit near-zero-momentum components, low-energy isotropic features, and highly anisotropic contributions at high kinetic energies that cannot be explained by monomer ionization alone. Analysis of the KER distributions and angular anisotropies indicates that these features originate from the breakup of multiply charged OCS dimers ((OCS)$_2^{2+}$, (OCS)$_2^{3+}$, and (OCS)$_2^{4+}$) through charge-separation channels. Our results illustrate how dynamic signatures of strong-field fragmentation evolve from intramolecular dissociation in isolated molecules to intermolecular charge separation in weakly bound clusters providing a unified picture of charge-driven dissociation dynamics beyond the single-molecule limit.",
+  "authors": [
+   "Chao He",
+   "Xinyue Zhang",
+   "Cangtao Yin",
+   "Markus Meuwly",
+   "Stefan Willitsch"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Chao He",
+  "pdf_url": "http://arxiv.org/pdf/2607.08167",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-09",
+  "tags": [],
+  "title": "Charge-partition pathways in strong-field photoionization of carbonyl sulfide monomers and dimers",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08224": {
+  "abstract": "Calcium-ion batteries (CBs) represent an alternative to lithium-ion technology but their advancement is limited by the lack of high-performance intercalation cathodes. Identified via computational screening, post-spinel CaV$_2$O$_4$ has emerged as a promising candidate, though its practical application is hindered by limited electrochemical capacity. Hence, we investigate the thermodynamic and ionic transport characteristics of Ca$_x$V$_2$O$_4$ ($0 \\leq x \\leq 1$) in this work, by integrating the cluster expansion formalism with Monte Carlo simulations and density functional theory based calculations. We construct the temperature-composition phase diagram of Ca$_x$V$_2$O$_4$ revealing several stable phases ($α$ through $ζ$) that can appear during electrochemical operations at different voltages. Importantly, we observe the formation of the $\\varepsilon$ phase at $x \\sim 0.83$ across a 370-590~K temperature window via invariant reactions, which agrees with observations in the experimental voltage profiles. Further, migration barrier calculations confirm that Ca mobility is severely impeded within the $α$ ($x \\sim 0$) and $γ$ ($x \\sim 0.5$) phases. With the strong Ca-vacancy ordering contributing to the high barrier in $γ$ and the persistent two-phase region stretching across the $δ$ ($x \\sim 0.67$) and the $γ$ phases, we expect the accessible electrochemical capacity in the CaV$_2$O$_4$ system to be kinetically limited to at most half the theoretical capacity at 298~K, in agreement with experiments. Strategies including cation doping and particle size reduction can be considered to flatten the potential energy landscape of $γ$ and improve Ca mobility. Our computational findings highlight the interplay between stability and transport and provide design strategies that can enable the practical use of CaV$_2$O$_4$ as a CB cathode.",
+  "authors": [
+   "Dereje Bekele Tekliye",
+   "Javeed Ahmad Dar",
+   "Gopalakrishnan Sai Gautam"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Dereje Bekele Tekliye",
+  "pdf_url": "http://arxiv.org/pdf/2607.08224",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "density-functional-theory",
+   "ion-transport",
+   "vacancies"
+  ],
+  "title": "Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08327": {
+  "abstract": "Bismuth vanadate (BiVO$_4$) is a prototypical oxide photocatalyst that occurs in both tetragonal and monoclinic scheelite phases with markedly different photocatalytic and photoelectrochemical activities. Accurately identifying the monoclinic phase as the ground state and explaining the origin of its symmetry-breaking distortion are unusually challenging from a theoretical perspective, with various levels of theory and associated physical interpretations for this behaviour reported in the literature. Here, we resolve these discrepancies by systematically assessing the role of exact exchange with and without spin-orbit coupling, demonstrating that an accurate treatment of electronic localization is essential to stabilize the monoclinic scheelite structure. Using this framework, we compute the electronic band structure through dense sampling of the Brillouin zone and show that the band edges in monoclinic and tetragonal BiVO$_4$ lie far from conventional high-symmetry paths, leading to substantial differences in band gaps and carrier effective masses. Choosing the exchange-correlation functional that best reproduces the crystal structure leads to excellent predictions of the band gap once excitonic and thermal effects are taken into account. In addition, we show that the monoclinic distortion is driven by charge transfer between non-equivalent oxygen sites, which breaks the lattice symmetry and is suppressed by self-interaction errors when using semi-local DFT. These results establish a direct connection between the exchange-correlation functional, electronic localization, chemical bonding, and structural stability in BiVO$_4$, providing a foundation for robust ab initio descriptions of phase stability and optoelectronic properties in such complex oxides.",
+  "authors": [
+   "Philip Schwinghammer",
+   "Franziska S. Hegner",
+   "Frederico P. Delgado",
+   "Michel Panhans",
+   "Konrad Merkel",
+   "Frank Ortmann",
+   "Ian D. Sharp",
+   "David A. Egger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 6 figures",
+  "first_author": "Philip Schwinghammer",
+  "pdf_url": "http://arxiv.org/pdf/2607.08327",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08351": {
+  "abstract": "Foundation machine-learning interatomic potentials (MLIPs) are rapidly replacing density-functional theory (DFT) for modeling structure and nuclear dynamics, making their fidelity in strongly correlated systems an urgent question. We test three foundation potentials on the low-temperature order of three correlated, isostructural ABO3 perovskite oxides: LaMnO3 (d4), LaCoO3 (d6), and NdNiO3 (d7). We run molecular dynamics for 1 ns on 80- and 160-atom supercells from 50 to 300 K with no system-specific training. These oxides expose three distinct classes of low-temperature order that define a hierarchy of difficulty for the potentials. The scalar class, represented by NdNiO3, has a simple geometric fingerprint and is captured. The vector class, represented by LaMnO3, requires identifying which Cartesian axis carries the long bond at each site, and is captured in magnitude but not in symmetry. The on-site class, represented by the low-spin to high-spin crossover in LaCoO3, is a purely local multiplet population shift with no spatial order parameter and remains inaccessible to present-day MLIPs.",
+  "authors": [
+   "Swagata Acharya",
+   "Dimitar Pashov",
+   "Mark van Schilfgaarde",
+   "Alin M. Elena"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Swagata Acharya",
+  "pdf_url": "http://arxiv.org/pdf/2607.08351",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08438": {
+  "abstract": "Quantum geometry is now experimentally accessible in crystalline solids, with black phosphorus providing a key platform through polarization-resolved angle-resolved photoemission spectroscopy. We develop a first-principles framework that connects the momentum-resolved quantum metric of black phosphorus to a complementary bulk observable: the direction-resolved quantum weight measurable through low-loss electron energy-loss spectroscopy (EELS). A 32-band DFT--Wannier Hamiltonian is used to compute both single-band and occupied-manifold geometric quantities from analytic momentum derivatives. We show that the raw single-band quantum metric of the top valence band is not globally meaningful in the conventional cell because folding degeneracies and intra-valence near degeneracies produce true isolated-band singularities; masked maps and occupied-manifold projectors are therefore essential. Because semilocal PBE produces near-gap semimetallic pockets and spurious subgap interpolation features, we introduce an experimentally motivated restricted quantum weight $K_{ii}(ω_c)$, which obeys the corresponding restricted Souza--Wilkens--Martin sum rule and is the appropriate quantity for low-loss EELS once the zero-loss region is excluded. The restricted in-plane quantum weight is nearly isotropic, $K_{zz}/K_{xx}=0.972\\pm0.005$ (armchair/zigzag), despite the strong band-mass anisotropy and armchair-only absorption onset of black phosphorus. Orbital-resolved Hubbard--Hartree corrections leave the absolute quantum weights rigid at the sub-percent level while producing a small but resolved armchair-directed drift of $K_{zz}/K_{xx}$, approximately $+0.46\\%$ per eV of $U$. These results identify low-loss EELS spectral moments as a practical probe of integrated quantum geometry in an anisotropic layered material.",
+  "authors": [
+   "Vinayak M. Kulkarni",
+   "Sharona Horta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 4 figures from results of codes used , 3 figures schematic from tikz code",
+  "first_author": "Vinayak M. Kulkarni",
+  "pdf_url": "http://arxiv.org/pdf/2607.08438",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08617": {
+  "abstract": "Amorphous indium oxide (a-In$_2$O$_3$) is a high-electron-mobility semiconductor of central importance in thin-film transistors and a promising photoanode for solar-driven water oxidation. Despite sustained experimental and computational investigations, the structural motifs underlying its unusual transport properties and the existence of O-O peroxide-like bonds within its network have remained unresolved. Here we develop a MACE-based machine-learned interatomic potential trained on first-principles molecular dynamics trajectories and use it to generate and analyze amorphous structures containing up to 5120 atoms, two orders of magnitude larger than those adopted in typical ab initio studies. We find X-ray structure factors in excellent quantitative agreement with experiment and we confirm that In$_2$O$_3$ is a poor glass former, with the likely presence of quasi-crystalline regions in amorphous samples. Our large-scale structural analysis reveals extended chains of edge-sharing InO$_k$ polyhedra providing a concrete structural basis for the high electron mobility of a-In$_2$O$_3$. Our results strongly support the formation of O-O peroxide-like bonds in the amorphous network, with a mean length of 1.5 Å. We show that these bonds introduce localized in-gap states near the conduction band minimum, acting as a source of intrinsic n-type self-doping and enhancing sub-gap optical absorption. These effects are detectable via a distinct Raman feature near 850 cm$^{-1}$ that is absent in the IR spectrum. Overall, our results establish a comprehensive structure-property picture of a-In$_2$O$_3$, provide directly testable experimental predictions, and suggest that controlled amorphization is a viable strategy for improving the photoelectrochemical activity of a-In$_2$O$_3$.",
+  "authors": [
+   "Matthew Bousquet",
+   "Francois Gygi",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Matthew Bousquet",
+  "pdf_url": "http://arxiv.org/pdf/2607.08617",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Large-scale first-principle simulations of amorphous indium oxide",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-09"
  }
 }

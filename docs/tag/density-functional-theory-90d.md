@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Dereje Bekele Tekliye et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
+<td>Philip Schwinghammer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08438.html">Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Vinayak M. Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08438">2607.08438</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07086.html">A modified Moss rule highlights underexplored classes of high refractive index materials</a></div></td>
 <td>Eugène Bertin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07086">2607.07086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07894.html">Bulk Boundary Condition for Surface Calculations in Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a></div></td>
+<td>Sayan Bhowmik et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07894">2607.07894</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -1214,41 +1244,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10173.html">Continuous PT-Symmetry Breaking as a Design Variable for Giant Altermagnetic Spin Splitting</a></div><div class="paper-tags"><a href="iron-sulfides-90d.html">iron-sulfides</a> · <a href="millerite-90d.html">millerite</a> · <a href="nickel-sulfides-90d.html">nickel-sulfides</a></div></td>
 <td>Kichan Chun et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10173">2604.10173</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18468.html">Multiscale simulations guided advances for all-optical phase-change waveguides</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
-<td>Hanyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18468">2603.18468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="neb-90d.html">neb</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a></div></td>
-<td>Sikander Azam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09291.html">Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO$_2$(110)</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="dft-u-90d.html">dft-u</a> · <a href="surface-defects-90d.html">surface-defects</a> · <a href="vacancies-90d.html">vacancies</a> · <a href="water-adsorption-90d.html">water-adsorption</a></div></td>
-<td>Manoj Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09291">2604.09291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09842.html">Self-compensation by silicon $DX$ centers in ultrawide-bandgap nitrides</a></div></td>
-<td>John L. Lyons et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09842">2604.09842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09864.html">Structural Motif Selection in Fluorinated Metal-Organic Chalcogenides Driven by Ligand Electrostatics</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
-<td>Md. Saiful Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09864">2604.09864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09891.html">How Does Intercalation Reshape Layered Structures? A First-Principles Study of Sodium Insertion in Layered Potassium Birnessite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="neb-90d.html">neb</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Adriana Lee Punaro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09891">2604.09891</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ion-transport — all</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Dereje Bekele Tekliye et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00932.html">Dynamics of charge fluctuations in nanocapacitors: effects of salt concentration and electrode metallicity from Brownian dynamics</a></div></td>

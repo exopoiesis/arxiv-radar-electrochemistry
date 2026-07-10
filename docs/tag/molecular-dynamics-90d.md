@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Matthew Bousquet et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07110.html">Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics</a></div><div class="paper-tags"><a href="polarizable-water-90d.html">polarizable-water</a></div></td>
@@ -872,11 +884,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10026.html">Strong Electron-Phonon Coupling and Multiband Superconductivity in Hexagonal BP3 Monolayer</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10026">2604.10026</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23875.html">Thermodynamic effects of solid electrolyte interphase formation from solvation and ionic association in water-in-salt electrolytes</a></div><div class="paper-tags"><a href="electric-double-layer-90d.html">electric-double-layer</a></div></td>
-<td>Daniel M. Markiewitz et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23875">2602.23875</a></td>
 </tr>
 </tbody></table>

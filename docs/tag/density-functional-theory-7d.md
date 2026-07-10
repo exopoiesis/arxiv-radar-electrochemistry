@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Dereje Bekele Tekliye et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
+<td>Philip Schwinghammer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08438.html">Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Vinayak M. Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08438">2607.08438</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07086.html">A modified Moss rule highlights underexplored classes of high refractive index materials</a></div></td>
 <td>Eugène Bertin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07086">2607.07086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07894.html">Bulk Boundary Condition for Surface Calculations in Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a></div></td>
+<td>Sayan Bhowmik et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07894">2607.07894</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -86,17 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03375.html">Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Morteza Roostaeinia et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03375">2607.03375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02012.html">Transition-Metal Tailored $Ga_{2}O_{2}$ Monolayer: From Room-Temperature Gas Sensing to Chemical Scavenging</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Afreen Anamul Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02012">2607.02012</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02114.html">Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Dirk Wulferding et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02114">2607.02114</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft-u — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <strong>90d</strong> <a href="dft-u-360d.html">360d</a> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10157.html">Accelerated Dopant Screening in Oxide Semiconductors via Multi-Fidelity Contextual Bandits and a Three-Tier DFT Validation Funnel</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Abhinaba Basu</td>
 <td><a href="http://arxiv.org/abs/2604.10157">2604.10157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09291.html">Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO$_2$(110)</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="surface-defects-90d.html">surface-defects</a> · <a href="vacancies-90d.html">vacancies</a> · <a href="water-adsorption-90d.html">water-adsorption</a></div></td>
-<td>Manoj Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09291">2604.09291</a></td>
 </tr>
 </tbody></table>

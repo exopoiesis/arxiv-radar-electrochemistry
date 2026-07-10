@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Matthew Bousquet et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sheng Bi et al.</td>
@@ -902,11 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13523.html">The Price of Freedom: Exploring Expressivity and Runtime Tradeoffs in Equivariant Tensor Products</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
 <td>YuQing Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2506.13523">2506.13523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10498.html">Modeling the Behavior of Complex Aqueous Electrolytes Using Machine Learning Interatomic Potentials: The Case of Sodium Sulfate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-pairing-360d.html">ion-pairing</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ademola Soyemi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10498">2507.10498</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Dereje Bekele Tekliye et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07642.html">Acoustic-phonon-driven spin-lattice relaxation of the hBN boron vacancy in the sub-THz regime</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Priyo Adhikary et al.</td>
@@ -320,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10984.html">opt-DDAP: Optimisable density-derived atomic point charges via automatic differentiation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Mohith H. et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10984">2604.10984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09291.html">Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO$_2$(110)</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a> · <a href="surface-defects-90d.html">surface-defects</a> · <a href="water-adsorption-90d.html">water-adsorption</a></div></td>
-<td>Manoj Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09291">2604.09291</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Dereje Bekele Tekliye et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00932.html">Dynamics of charge fluctuations in nanocapacitors: effects of salt concentration and electrode metallicity from Brownian dynamics</a></div></td>
 <td>Paul Desmarchelier et al.</td>
@@ -464,11 +470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04137.html">Atomic scale structure and dynamical properties of (TeO$_2$)$_{1-x}$-(Na$_2$O)$_{x}$ glasses through first-principles modeling and XRD measurements</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Firas Shuaib et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04137">2506.04137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10110.html">Cometary ion dynamics at 67P: A collisional test-particle approach with Rosetta data comparison</a></div></td>
-<td>Zoe Lewis et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10110">2507.10110</a></td>
 </tr>
 </tbody></table>

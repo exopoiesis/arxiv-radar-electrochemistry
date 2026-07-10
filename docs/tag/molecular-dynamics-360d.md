@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Matthew Bousquet et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07110.html">Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics</a></div><div class="paper-tags"><a href="polarizable-water-360d.html">polarizable-water</a></div></td>
 <td>Nohad Gresh et al.</td>
@@ -3392,17 +3404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12388.html">Revealing the impact of chemical short-range order on radiation damage in MoNbTaVW high-entropy alloys using a machine-learning potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Jiahui Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12388">2507.12388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10433.html">Graphene Design with Parallel Cracks: Abnormal Crack Coalescence and Its Impact on Mechanical Properties</a></div></td>
-<td>Suyeong Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10433">2507.10433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10498.html">Modeling the Behavior of Complex Aqueous Electrolytes Using Machine Learning Interatomic Potentials: The Case of Sodium Sulfate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-pairing-360d.html">ion-pairing</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ademola Soyemi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10498">2507.10498</a></td>
 </tr>
 </tbody></table>

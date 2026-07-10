@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neb — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <a href="neb-30d.html">30d</a> <strong>90d</strong> <a href="neb-360d.html">360d</a> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,17 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12607.html">Hierarchical generative modeling for the design of multi-component systems</a></div></td>
 <td>Rhyan Barrett et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12607">2604.12607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09226.html">Balancing Thermodynamics, Kinetics, and Reversibility in Ti-Doped MgB2H8: A First-Principles Assessment of a Practical Solid-State Hydrogen Storage Material</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a></div></td>
-<td>Sikander Azam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09226">2604.09226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09891.html">How Does Intercalation Reshape Layered Structures? A First-Principles Study of Sodium Insertion in Layered Potassium Birnessite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Adriana Lee Punaro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09891">2604.09891</a></td>
 </tr>
 </tbody></table>

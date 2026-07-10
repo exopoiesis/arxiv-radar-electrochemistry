@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td>Philip Schwinghammer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08438.html">Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Vinayak M. Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08438">2607.08438</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Matthew Bousquet et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08617">2607.08617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07642.html">Acoustic-phonon-driven spin-lattice relaxation of the hBN boron vacancy in the sub-THz regime</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Priyo Adhikary et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07642">2607.07642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07983.html">Theoretical ab initio Evolution of Satellite Intensity near Threshold for Cu K-shell transitions</a></div></td>
+<td>Daniel Pinheiro et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07983">2607.07983</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>

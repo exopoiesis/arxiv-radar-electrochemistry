@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Philip Schwinghammer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06057.html">Stabilization of Stone-Wales Defects in Metal-supported Graphene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Rob H. Mason et al.</td>
@@ -146,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13768.html">Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Erik Fransson et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13768">2604.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09891.html">How Does Intercalation Reshape Layered Structures? A First-Principles Study of Sodium Insertion in Layered Potassium Birnessite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Adriana Lee Punaro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09891">2604.09891</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">824 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Dereje Bekele Tekliye et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Philip Schwinghammer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Swagata Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08438.html">Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Vinayak M. Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08438">2607.08438</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07086.html">A modified Moss rule highlights underexplored classes of high refractive index materials</a></div></td>
 <td>Eugène Bertin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07086">2607.07086</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07894.html">Bulk Boundary Condition for Surface Calculations in Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
+<td>Sayan Bhowmik et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07894">2607.07894</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-07</td>
@@ -4928,29 +4958,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09510.html">Which chromium-sulfur compounds exist as 2D material?</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Affan Safeer et al.</td>
 <td><a href="http://arxiv.org/abs/2501.09510">2501.09510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00185.html">Anharmonic quantum muon effects of light particles in a spin liquid material</a></div></td>
-<td>Fabian Hotz et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00185">2408.00185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10477.html">Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Dimple Rani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10477">2507.10477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10498.html">Modeling the Behavior of Complex Aqueous Electrolytes Using Machine Learning Interatomic Potentials: The Case of Sodium Sulfate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="ion-pairing-360d.html">ion-pairing</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ademola Soyemi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10498">2507.10498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10526.html">Density Functional Theory Study of Th-doped LiCAF and LiSAF for Nuclear Clock Applications</a></div></td>
-<td>Martin Pimon et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10526">2507.10526</a></td>
 </tr>
 </tbody></table>
