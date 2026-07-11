@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>corrosion — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <strong>360d</strong> <a href="corrosion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12431.html">Physics-Informed Electrochemical Model of Cathodic Corrosion in Alkaline Media</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Auronno Ovid Hussain et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12431">2508.12431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11416.html">Revisiting the Influence of Sn in Cu-Al alloys: A Third Element Effect Enabling Stainless Steel Type Aqueous Passivation Behavior</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Debashish Sur et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11416">2507.11416</a></td>
 </tr>
 </tbody></table>

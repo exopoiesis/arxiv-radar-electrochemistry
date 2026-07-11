@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2894,17 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13180.html">Origin of circular and triangular pores in electron-irradiated hexagonal boron nitride</a></div></td>
 <td>Umair Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13180">2507.13180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09510.html">Which chromium-sulfur compounds exist as 2D material?</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Affan Safeer et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09510">2501.09510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11416.html">Revisiting the Influence of Sn in Cu-Al alloys: A Third Element Effect Enabling Stainless Steel Type Aqueous Passivation Behavior</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a></div></td>
-<td>Debashish Sur et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11416">2507.11416</a></td>
 </tr>
 </tbody></table>
