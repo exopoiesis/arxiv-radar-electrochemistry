@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">820 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4934,17 +4934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14267.html">DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Ziqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14267">2507.14267</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07760.html">A Semi-Empirical Descriptor for Open Circuit Voltage</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Sourav Baiju et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07760">2507.07760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12565.html">Kinetics of Vacancy-Assisted Reversible Phase Transition in Monolayer MoTe$_2$</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transitions-360d.html">phase-transitions</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Fei Shuang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12565">2507.12565</a></td>
 </tr>
 </tbody></table>

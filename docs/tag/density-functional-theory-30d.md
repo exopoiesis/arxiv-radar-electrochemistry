@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,23 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="explicit-solvation-30d.html">explicit-solvation</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Xiaoyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div></td>
-<td>Oliver Russell et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13396.html">Polarizing ultrathin ferroelectric BaTiO3 films through interfacial layer polarization</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Ipek Efe et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13396">2606.13396</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13917.html">Machine Learning Accelerated SSNEB for Efficient Minimum Energy Pathway Calculations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="neb-30d.html">neb</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>Yu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13917">2606.13917</a></td>
 </tr>
 </tbody></table>

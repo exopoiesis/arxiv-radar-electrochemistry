@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">565 papers</span>
+  <span class="paper-count">563 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3392,17 +3392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03521.html">Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Ivan Žugec et al.</td>
 <td><a href="http://arxiv.org/abs/2504.03521">2504.03521</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02834.html">Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Jiahui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02834">2411.02834</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12388.html">Revealing the impact of chemical short-range order on radiation damage in MoNbTaVW high-entropy alloys using a machine-learning potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Jiahui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12388">2507.12388</a></td>
 </tr>
 </tbody></table>

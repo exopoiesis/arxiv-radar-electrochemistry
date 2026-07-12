@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-stability — 360d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <a href="phase-stability-30d.html">30d</a> <a href="phase-stability-90d.html">90d</a> <strong>360d</strong> <a href="phase-stability-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,11 +470,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14382.html">Atomistic Simulations of Short-range Ordering with Light Interstitials in Inconel Superalloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Tyler D. Dolžal et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14382">2507.14382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07760.html">A Semi-Empirical Descriptor for Open Circuit Voltage</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Sourav Baiju et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07760">2507.07760</a></td>
 </tr>
 </tbody></table>

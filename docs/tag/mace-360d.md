@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,17 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14302.html">A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="chgnet-360d.html">chgnet</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Dongjin Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14302">2507.14302</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12283.html">FADE: Adversarial Concept Erasure in Flow Models</a></div></td>
-<td>Zixuan Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12283">2507.12283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12306.html">MaCE: General Mass Conserving Dynamics for Cellular Automata</a></div></td>
-<td>Vassilis Papadopoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12306">2507.12306</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05514.html">Deuterium-Proton Fusion in an Effective Field Theory Constructed from On-Shell Amplitudes</a></div><div class="paper-tags"><a href="reaction-networks-7d.html">reaction-networks</a></div></td>
 <td>Tim M. P. Tait</td>
 <td><a href="http://arxiv.org/abs/2607.05514">2607.05514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03823.html">Janus MgAlB_2 MBene: a dipole-engineered anode for ultrafast Li-ion transport and exceptional lithium storage</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
-<td>Pritam Samanta et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03823">2607.03823</a></td>
 </tr>
 </tbody></table>
