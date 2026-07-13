@@ -1426,5 +1426,193 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-07-09"
+ },
+ "2607.08890": {
+  "abstract": "X-ray diffraction (XRD) is fundamental to structural materials characterization, yet transforming a raw powder pattern into a refined crystal structure still demands considerable domain expertise. We present AGAPI-XRD, a hybrid framework integrating DiffractGPT generative structure prediction, database pattern matching against JARVIS-DFT and COD, and automated Rietveld refinement and ALIGNN-FF relaxation through a unified API at https://atomgpt.org/xrd. First, we used the AGAPI-XRD pipeline to evaluate the crystal structure of a variety of minerals in the RRUFF database that were experimentally characterized using powder x-ray diffraction. Next, we benchmarked the lattice parameter prediction fidelity of the AGAPI-XRD pipeline using a subset of the Alexandria PBE-hull dataset and the subset of RRUFF minerals that have known lattice parameters. AGAPI-XRD returns valid lattice parameters for 79.7\\% of the RRUFF benchmark minerals and for 94.8--98.1\\% of the Alexandria subset, while identifying a candidate structure for 93.8\\% of RRUFF minerals. For this benchmark, pattern matching delivers the highest accuracy for known phases, while DiffractGPT extends structure generation to complex materials absent from existing databases. Together, AGAPI-XRD advances accessible, end-to-end automated crystal structure determination from powder XRD data.",
+  "authors": [
+   "Charles Rhys Campbell",
+   "Justin Ely",
+   "Jaehyung Lee",
+   "Frank M. Abel",
+   "Kamal Choudhary"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Charles Rhys Campbell",
+  "pdf_url": "http://arxiv.org/pdf/2607.08890",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Hybrid DiffractGPT-Rietveld Refinement Framework for Automated X-ray Diffraction Analysis",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.09005": {
+  "abstract": "Universal machine-learning interatomic potentials provide a promising route for accelerating molecular dynamics simulations of materials, but their transferability to lunar regolith-relevant silicates, oxides, and hydrogen-bearing surface species remains elucidated. Here, we benchmark six foundation models, MACE-MH, MatterSim, SevenNet-0, UPET, UMA, and NequIP-OAM-L, using NVT molecular dynamics simulations of four representative lunar minerals: forsterite, fayalite, ilmenite, and anorthite. Structural fidelity is evaluated using temperature stability, bond-distance statistics, bond-angle distributions, and partial radial distribution functions, with comparison to crystallographic reference data. The models reproduce Si--O, Mg--O, Al--O, and Ca--O local environments reasonably well, while Fe--O and Ti--O coordination environments show broader distributions and larger short-timescale fluctuations, highlighting the need for further validation and fine tuning with additional ground truth data for Fe- and Ti-bearing lunar phases. Hydroxylated surface tests show consistent O--H bond-distance distributions across models and minerals, suggesting that these foundation models may provide useful starting points for screening surface hydroxyl stability and volatile-related processes. Performance benchmarks on a single NVIDIA RTX 4090 show that SevenNet-0, MatterSim, and UPET provide the highest throughput among the six tested models, MACE-MH remains practical at intermediate cost, and UMA and NequIP-OAM-L extend the comparison to newer foundation potentials at higher runtime cost and memory demand. These results provide an initial benchmark for applying universal foundation models to lunar mineral simulations and identify key directions for future ab initio validation, model fine-tuning, and applications to lunar volatile evolution, space weathering, ISRU, and polar sample return studies.",
+  "authors": [
+   "Ziyu Huang",
+   "Ken-ichi Nomura"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": "14 pages, 7 figures, 2 tables",
+  "first_author": "Ziyu Huang",
+  "pdf_url": "http://arxiv.org/pdf/2607.09005",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-07-10",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "molecular-dynamics",
+   "weathering"
+  ],
+  "title": "Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09364": {
+  "abstract": "We aim to derive statistically robust and physically interpretable BE distributions for atomic S and the sulfur-bearing molecules H$_2$S, SO$_2$, and OCS on neutral and negatively charged ASW, and assess how excess negative charge alters their retention and potential role in the sulfur reservoir of cold dense molecular clouds. Basis set superposition error (BSSE) and zero-point energy (ZPE) corrected BEs of S, SO$_2$, OCS and H$_2$S, are calculated by density functional theory (DFT), using the ORCA software. Molecule-specific DFT levels of theory were first selected from benchmark calculations on neutral and charged small water complexes, against coupled-cluster reference energies. The selected protocols were then applied to study adsorption on neutral and charged ASW clusters. A range of adsorption sites were sampled on five independent amorphous ice clusters, yielding BE distributions that account for the site heterogeneity of ASW. Neutral ASW yields broad, site-dependent BE distributions consistent with previous water-ice estimates. On charged ASW, three general cases are identified: the BE will either always increase due to electron transfer (S-atom, SO$_2$), the BE increases slightly without any electron transfer (H$_2$S) or the BE remains the same unless an electron transfer occurs under specific conditions (OCS). These findings are inherently linked to the molecular properties of these molecules.",
+  "authors": [
+   "T. Vorsselmans",
+   "I. Grubova",
+   "K. Verhagen",
+   "T. Guldentops",
+   "R. Buimer",
+   "C. King",
+   "E. C. Neyts"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": null,
+  "first_author": "T. Vorsselmans",
+  "pdf_url": "http://arxiv.org/pdf/2607.09364",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-07-10",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Effect of Ice Charging on the Astrochemistry of Interstellar Sulfur Bearing Species on Amorphous Solid Water",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09456": {
+  "abstract": "Universal machine learning interatomic potentials (uMLIPs) bridge quantum-mechanical accuracy and large-scale molecular dynamics, but the cost of high-accuracy calculations such as r$^2$SCAN limits training to datasets that remain small relative to the open materials space. Strong average benchmark performance also does not guarantee reliable energy--force predictions for every structure. We propose Adaptive Multi-Teacher Routing (ATR), which reformulates high-fidelity data construction as a structure-wise decision problem under uncertainty. Using a small set of real r$^2$SCAN labels, ATR calibrates multiple pretrained uMLIP teachers and combines structural descriptors, teacher identity, and inter-teacher disagreement to estimate the reliability of each structure--teacher pair. It selects high-confidence predictions for pseudo-label generation and rejects structures for which no teacher is sufficiently reliable. With real r$^2$SCAN labels for only 0.2\\% of candidate structures, ATR distils 2.89 million traceable r$^2$SCAN-level pseudo-labels for pretraining. On held-out r$^2$SCAN structures and the MP-r$^2$SCAN benchmark, a lightweight CHGNet trained on the ATR-generated dataset consistently outperforms the baseline and non-routed controls. Finite-temperature molecular dynamics further shows that ATR improves dynamical robustness across multiple material systems, maintaining stable trajectories where baseline simulations undergo catastrophic structural collapse. These results establish active rejection as an effective mechanism for converting multiple pretrained uMLIPs into a scalable and reliable data-construction system for high-fidelity uMLIPs.",
+  "authors": [
+   "Mingxiang Luo",
+   "Xinnan Mao",
+   "Lu Wang",
+   "Lei Bai",
+   "Feng Ding",
+   "Yuqiang Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mingxiang Luo",
+  "pdf_url": "http://arxiv.org/pdf/2607.09456",
+  "primary_category": "cs.LG",
+  "published": "2026-07-10",
+  "tags": [
+   "chgnet",
+   "molecular-dynamics"
+  ],
+  "title": "Active rejection enables reliable generalization of universal machine-learning interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09525": {
+  "abstract": "Frequency combs, evenly spaced spectral lines locked to one fundamental frequency, are well known in optics and have also been found in phononic, magnonic, ferroelectric, and cosmological systems, but have not yet been studied in oscillating chemical reactions. In this work, we show that reaction-diffusion oscillators can also produce frequency combs. We use the Brusselator model and derive its Hopf bifurcation condition directly from the rate equations. We find that the trimolecular autocatalytic term is the only source of nonlinear harmonic content. Above the Hopf threshold, our simulations of target-wave patterns show a clear fundamental frequency followed by a long, evenly spaced ladder of harmonics, with each harmonic weaker than the one before it. We then vary the reactant concentrations and kinetic parameters one at a time and find that this comb structure holds across a wide range of values. We also test this idea experimentally using the Belousov-Zhabotinsky reaction. Intensity signals recorded at different points in a target pattern show a shared fundamental frequency with several weakening harmonics, matching the simulated pattern closely. Together, these results show that reaction-diffusion chemistry is a new platform for generating frequency combs.",
+  "authors": [
+   "Krishnesh Krishnakumar Nair",
+   "Madhurendra Mishra",
+   "Zhen Qi",
+   "Adarsh Ganesan"
+  ],
+  "categories": [
+   "nlin.PS",
+   "physics.chem-ph"
+  ],
+  "comment": "18 pages, 5 figures",
+  "first_author": "Krishnesh Krishnakumar Nair",
+  "pdf_url": "http://arxiv.org/pdf/2607.09525",
+  "primary_category": "nlin.PS",
+  "published": "2026-07-10",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Chemical Frequency Combs in Reaction-Diffusion Oscillators",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09554": {
+  "abstract": "Salinity gradient energy offers a sustainable route to convert ionic chemical potential differences into usable power. Capacitive mixing enables this conversion without membranes, but suffers from limited ion regulation at electrode interfaces. Here we show that by grafting electrode surfaces with titrating polymers, the performance can be substantially improved. Using Grand Canonical Monte Carlo simulations with exact image-charge Ewald summations, we demonstrate how the coupled effects of ion adsorption and charge regulation in response to an external potential can be harnessed. Grafted electrodes are shown to deliver substantially more energy relative to bare surfaces, driven by charge regulation effects that exploit the pH difference that typically exists between rivers and the ocean. While the effect is in principle maximized at high grafting densities and moderate chain lengths, the performance is fairly robust to variations of these parameters, within reasonable bounds. Complementary classical polymer Density Functional Theory calculations confirm these trends, validating the mechanistic framework. This work also establishes a practical approach to harvest electrical energy during wastewater neutralization, where acidic (or alkaline) effluents serve as complementary reservoirs, and offers a promising strategy to couple environmental remediation with renewable energy recovery.",
+  "authors": [
+   "Mamta Yadav",
+   "Clifford E. Woodward",
+   "Jan Forsman"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "10 Figures",
+  "first_author": "Mamta Yadav",
+  "pdf_url": "http://arxiv.org/pdf/2607.09554",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-10",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "electrochemical-interfaces"
+  ],
+  "title": "A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09592": {
+  "abstract": "We introduce two non-adiabatic semiclassical methods that employ two coupled Gaussian wavepackets, each one traveling on a separate diabatic potential energy surface. The wavepackets take the form of thawed Gaussians and are driven by classical equations of motion which account for the diabatic coupling. The classical equations of motion are derived in one case by enforcing the thawed Gaussian ansatz, while in the other the time-dependent variational principles to the thawed Gaussian ansatz. After a sanity check where both approximations reproduce Rabi oscillations, the methods are applied to two non-adiabatic potential energy scenarios. The first one involves two coupled displaced harmonic oscillators, as in a typical electron transfer reaction. The second one comprises a Morse potential coupled to an upper dissociative state, modeling a photo-dissociation process. In both scenarios, the variational thawed Gaussian approach is quite accurate, while the standard thawed Gaussian one fails to fully capture the non-adiabatic effects. Ultimately, non-adiabatic molecular dynamics is reproduced by means of two classical trajectories without introducing any artificial jump or other ad-hoc non-classical effects.",
+  "authors": [
+   "Lorenzo Bocchi",
+   "Jia-Xi Zeng",
+   "Michele Ceotto"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Lorenzo Bocchi",
+  "pdf_url": "http://arxiv.org/pdf/2607.09592",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-10",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "A Semiclassical Gaussian Wavepacket Method for Non-Adiabatic Molecular Dynamics",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-10"
  }
 }
