@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11253.html">Impact of Electronic Energy Dissipation on Primary Radiation Damage Formation in Silicon</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Nadezda Korepanova et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11253">2607.11253</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08617.html">Large-scale first-principle simulations of amorphous indium oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Matthew Bousquet et al.</td>
@@ -878,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20827.html">Optimizing adsorption configurations on alloy surfaces using Tensor Train Optimizer</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="mace-360d.html">mace</a></div></td>
 <td>Tuan Minh Do et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20827">2507.20827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14302.html">A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="chgnet-360d.html">chgnet</a> · <a href="mace-360d.html">mace</a></div></td>
-<td>Dongjin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14302">2507.14302</a></td>
 </tr>
 </tbody></table>

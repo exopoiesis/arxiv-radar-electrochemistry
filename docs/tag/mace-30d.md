@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mace — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <strong>30d</strong> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11250.html">Multi-Agent LLMs Fail to Explore Each Other</a></div></td>
+<td>Hyeong Kyu Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11250">2607.11250</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="weathering-30d.html">weathering</a></div></td>
@@ -104,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15892.html">Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jia Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15892">2606.15892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15038.html">Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling</a></div></td>
-<td>Zhemin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15038">2606.15038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15477.html">Universal adaptive beamforming: A Bayesian approach</a></div></td>
-<td>Diego A. Cuji et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15477">2606.15477</a></td>
 </tr>
 </tbody></table>

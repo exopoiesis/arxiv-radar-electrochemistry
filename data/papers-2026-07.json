@@ -1614,5 +1614,158 @@
    "Redox and Autocatalytic Electrochemical Networks"
   ],
   "updated": "2026-07-10"
+ },
+ "2607.10887": {
+  "abstract": "Machine learning interatomic potentials (MLPs) have revolutionized atomistic modeling, offering the potential to replace traditional methods like Density Functional Theory (DFT). However, inference time of MLPs is orders of magnitude slower than that of classical force fields, hindering real-world applications for biomolecular systems that require timescales of microseconds and beyond. Implicit solvent MLPs can address this issue, but are faced with data challenges associated with coarse-grained modeling. Consequently, previous approaches relied on empirical force field data, thereby inherently limiting the MLP's accuracy. Here, we introduce the Transferable Water Implicit Network (TWIN), an implicit water MLP parametrized entirely by an Equivariant Graph Neural Network and trained solely on ab initio and experimental labels. We demonstrate TWIN's transferability across drug-like molecules, peptides, and proteins, achieving excellent results on ab initio and experimental crystallographic and NMR benchmarks, consistently outperforming previous machine-learning-based implicit solvent or coarse-grained models. Furthermore, TWIN closely matches DFT-based explicit solvent MLPs while providing a two-order-of-magnitude faster timestep evaluation, paving the way for efficient ab initio-level modeling of biomolecular systems in aqueous environments.",
+  "authors": [
+   "Jan Eckwert",
+   "Julija Zavadlav"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Jan Eckwert",
+  "pdf_url": "http://arxiv.org/pdf/2607.10887",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-12",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "explicit-solvation"
+  ],
+  "title": "Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-12"
+ },
+ "2607.11135": {
+  "abstract": "The tryptophan residues in tubulin $αβ$-dimers form an ordered aromatic network that has been proposed to support quantum exciton transport even under physiological environmental noise. Existing studies of this system mostly assume white-noise dephasing, but the statistical properties of the protein-solvent bath coupled to tryptophan sites remain uncharacterised under physiological conditions. Here we characterise this fluctuation bath via all-atom molecular dynamics simulations of a solvated tubulin dimer at 310~K, combining high-frequency and long-time trajectories with 10~fs and 10~ps sampling intervals. The resulting autocorrelation of the site-energy fluctuations is tri-exponential, with three well-separated decay modes: sub-100-fs and picosecond fluctuations driven by water dynamics, and a nanosecond mode originating from protein conformational rearrangements. All three modes fall deep within the non-Markovian regime. We further demonstrate that the slow protein mode introduces strong quasi-static disorder, which results in Anderson localisation, while the two fast water modes frequently tune chromophore pairs through resonance, enabling environment-assisted quantum transport (ENAQT). On the full eight-site network, the coloured-noise bath confines excitons predominantly to strongly coupled proximal tryptophan pairs, in marked contrast to the more uniform delocalisation predicted by the standard white-noise Haken--Strobl model. Our workflow generalises to other pigment--protein systems with solvent-exposed chromophores.",
+  "authors": [
+   "Chen Xin"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph",
+   "quant-ph"
+  ],
+  "comment": "15 pages total; 5 main figures, 5 supplementary figures; analysis code publicly available at https://github.com/Varato/tubulin-bath-fluctuation",
+  "first_author": "Chen Xin",
+  "pdf_url": "http://arxiv.org/pdf/2607.11135",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-13",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Molecular Dynamics-Derived Coloured Noise Mediates Anderson Localisation and Environment-Assisted Transport of Tryptophan Excitons in Tubulin",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.11217": {
+  "abstract": "Multiscale modeling of complex chemical systems requires algorithms that operate coherently across electronic, atomistic, mesoscopic, and continuum scales. While quantum algorithms have been proposed for each regime, no systematic framework exists to compose them across scale boundaries. Here, we identify the conditions under which fault-tolerant quantum algorithms might preserve scale-specific quantum advantages. We map quantum phase estimation, Hamiltonian simulation with Gibbs state preparation, quantum random walks, and quantum partial differential equation solvers onto electronic structure, molecular dynamics, mesoscopic kinetics, and continuum reactor physics, respectively. Crucially, these correspondences do not imply unconditional end-to-end quantum advantage; speedups depend heavily on state preparation, memory architectures, matrix conditioning, and classical readout costs. Six unresolved questions define this composition problem, illustrated via a quantum hierarchy for \\ce{CO} oxidation over \\ce{Pt(111)}. We propose viewing inter-scale transfer as a quantum channel composition problem at the interface of algorithm design and non-equilibrium statistical mechanics, and ask whether information loss at scale boundaries is intrinsic to multiscale modeling or merely a consequence of lossy classical transduction between algorithmic layers. The resulting roadmap suggests that multiscale quantum advantage is governed primarily by the structure of information transfer between algorithmic layers, rather than by performance at individual scales alone.",
+  "authors": [
+   "Seenivasan Hariharan",
+   "Kareljan Schoutens",
+   "Sachin Kinge",
+   "Lucas Visscher"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "30 pages, 1 figure",
+  "first_author": "Seenivasan Hariharan",
+  "pdf_url": "http://arxiv.org/pdf/2607.11217",
+  "primary_category": "quant-ph",
+  "published": "2026-07-13",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.11250": {
+  "abstract": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language model (LLM) agents can explore effectively when interacting with one another. We show that modern LLM agents fail to do so, often exhibiting myopic and polarized interaction patterns that lead to suboptimal coordination and increased regret. We formalize this challenge as the Multi-Agent Exploration problem, modeling it as a partially observable stochastic game (POSG) problem in which agents must probe peers to infer their capabilities and identify effective interaction strategies. To address this, we introduce Multi- Agent Contextual Exploration (MACE), a lightweight framework that explicitly promotes exploration through structured peer selection. Across both contextual and parametric diversity settings, MACE substantially improves exploration behavior and downstream task performance. We further show theoretically that the value of exploration increases with agent diversity. Overall, our results highlight a fundamental limitation of current LLM agents and underscore the importance of explicitly guided exploration for reliable multi-agent autonomy. Code will be released in https://github.com/deeplearning-wisc/mace",
+  "authors": [
+   "Hyeong Kyu Choi",
+   "Jiatong Li",
+   "Wendi Li",
+   "Xin Eric Wang",
+   "Sharon Li"
+  ],
+  "categories": [
+   "cs.MA",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Hyeong Kyu Choi",
+  "pdf_url": "http://arxiv.org/pdf/2607.11250",
+  "primary_category": "cs.MA",
+  "published": "2026-07-13",
+  "tags": [
+   "mace"
+  ],
+  "title": "Multi-Agent LLMs Fail to Explore Each Other",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.11253": {
+  "abstract": "In this work, we investigate the role of ion-electron coupling in simulations of radiation damage formation in silicon using molecular dynamics simulations within a two-temperature model. We explore predictions of a threshold-free approach to the coupling that accounts for both the electronic stopping and electron-phonon coupling using a local electron density-based formalism. We compare two different coupling functions across a range of primary knock-on atom energies using two interatomic potentials. Our results demonstrate that the functional form of the ion-electron coupling plays a critical role in determining defect production efficiency, clustering, and recombination, and must therefore be carefully considered for accurate modeling of radiation damage formation. Furthermore, we find that the impact of the coupling in particular on the recombination of defects during the cooling phase of the cascade depends on the choice of interatomic potential, emphasizing the importance of physically grounded descriptions for both electronic effects and atom-atom interactions for reliable radiation damage predictions.",
+  "authors": [
+   "Nadezda Korepanova",
+   "Rafael Nuñez-Palacio",
+   "Andrea E. Sand"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nadezda Korepanova",
+  "pdf_url": "http://arxiv.org/pdf/2607.11253",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-13",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Impact of Electronic Energy Dissipation on Primary Radiation Damage Formation in Silicon",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.11729": {
+  "abstract": "We report a unified analysis of Metropolis Monte Carlo results for two families of magnetic spinels: inverse ferrites Fe$^{3+}_{A}$[M$^{2+}$Fe$^{3+}$]$_{B}$O$_4$ (M = Co, Cu, Fe, Ni), where superexchange couples two chemically distinct sublattices, and chromium spinels $A$Cr$_2X_4$ ($A$ = Zn, Cd, Hg, $X$ = S, Se) together with the breathing-lattice chromates Li$M$Cr$_4$O$_8$ ($M$ = Ga, In), where a single Cr$^{3+}$ species occupies a corner-sharing tetrahedral network. Placing the exchange constants, transition temperatures, critical exponents, hysteresis, and magnetocaloric responses of these systems on a common footing, we introduce two reduced quantities not previously reported: the ratio $θ_{\\mathrm{CW}}/T_C$ for the ferrites and the normalized ordering scale $t^{*}=k_BT_C/[J_1S(S+1)]$ for the chromium compounds. The ferrites cluster in the range $θ_{\\mathrm{CW}}/T_C = 0.94$-$1.19$, close to the mean-field expectation of unity and the signature of dominant, unfrustrated A-B superexchange, and their exponents ($β= 0.20$-$0.26$, $γ= 1.23$-$1.27$, $δ= 4.76$-$4.78$) follow the three-dimensional Ising class. The chromium systems split into three regimes: $t^{*} \\approx 1.4$-$1.9$ for Ising-treated sulfides, $t^{*} \\approx 0.99$ for Heisenberg-treated selenides, and $t^{*} \\approx 0.24$-$0.25$ for the antiferromagnetic breathing chromates, quantifying the combined suppression of $T_C$ by continuous spin symmetry and by geometric frustration. Finite-thickness simulations of Fe$_3$O$_4$ resolve a dimensionality crossover between two and four unit cells. We identify the Ising-versus-Heisenberg dependence of the predicted universality class in frustrated chromites as the principal open problem.",
+  "authors": [
+   "Keltoum Khallouq",
+   "Ayoub El Maazouzi",
+   "Kamal Boumhara",
+   "Rachid Masrour"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Keltoum Khallouq",
+  "pdf_url": "http://arxiv.org/pdf/2607.11729",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-13",
+  "tags": [],
+  "title": "Exchange topology and criticality in ferrite and chromium spinels: a unified Monte Carlo analysis",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-07-13"
  }
 }

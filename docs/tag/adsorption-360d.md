@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">224 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1346,17 +1346,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14751.html">Classical theory of electron-ion correlations at electrochemical interfaces: Closing the circuit from double-layer charging to ion adsorption</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
 <td>Nils Bruch et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14751">2507.14751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14267.html">DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Ziqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14267">2507.14267</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14302.html">A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Dongjin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14302">2507.14302</a></td>
 </tr>
 </tbody></table>

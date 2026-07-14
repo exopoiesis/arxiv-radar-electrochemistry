@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11250.html">Multi-Agent LLMs Fail to Explore Each Other</a></div></td>
+<td>Hyeong Kyu Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11250">2607.11250</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="weathering-360d.html">weathering</a></div></td>
 <td>Ziyu Huang et al.</td>
@@ -944,11 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16612.html">CTSL: Codebook-based Temporal-Spatial Learning for Accurate Non-Contrast Cardiac Risk Prediction Using Cine MRIs</a></div></td>
 <td>Haoyang Su et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16612">2507.16612</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14302.html">A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="chgnet-360d.html">chgnet</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Dongjin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14302">2507.14302</a></td>
 </tr>
 </tbody></table>
