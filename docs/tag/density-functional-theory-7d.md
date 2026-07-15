@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11996.html">Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides</a></div><div class="paper-tags"><a href="phase-stability-7d.html">phase-stability</a></div></td>
+<td>Keltoum Khallouq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11996">2607.11996</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div></td>
+<td>Daniel A. Rehn et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="explicit-solvation-7d.html">explicit-solvation</a></div></td>
@@ -74,23 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07894.html">Bulk Boundary Condition for Surface Calculations in Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a></div></td>
 <td>Sayan Bhowmik et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07894">2607.07894</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06053.html">Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Meiyang Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06053">2607.06053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06057.html">Stabilization of Stone-Wales Defects in Metal-supported Graphene</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
-<td>Rob H. Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06057">2607.06057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06645.html">BatteryMat: a hierarchical machine-learning and DFT framework for average-voltage screening of lithium-ion cathode materials</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06645">2607.06645</a></td>
 </tr>
 </tbody></table>

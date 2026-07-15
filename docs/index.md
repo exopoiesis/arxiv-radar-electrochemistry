@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-07-14._
+_Updated 2026-07-15._
 
-**3293** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3298** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12719.html">Influence of compaction pressure on the impedance of Gadolinium Doped Ceria electrolytes for IT-SOFCs</a></div><div class="paper-tags"><a href="tag/impedance-spectroscopy-30d.html">impedance-spectroscopy</a> · <a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
+<td>Renato A. N. de Oliveira et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12719">2607.12719</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12813.html">Supernova Neutrinos and the Origin of Biomolecular Homochirality</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
+<td>Amirmasoud Jannat et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12813">2607.12813</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12972.html">When Stabilizing Feedbacks Wreak Havoc in Habitable Planets: Chaos at the Freezing Point in a Four-Feedback Climate Model</a></div><div class="paper-tags"><a href="tag/weathering-30d.html">weathering</a></div></td>
+<td>Chaucer Langbert et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12972">2607.12972</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11135.html">Molecular Dynamics-Derived Coloured Noise Mediates Anderson Localisation and Environment-Assisted Transport of Tryptophan Excitons in Tubulin</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -45,6 +63,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11729.html">Exchange topology and criticality in ferrite and chromium spinels: a unified Monte Carlo analysis</a></div></td>
 <td>Keltoum Khallouq et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11729">2607.11729</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11996.html">Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
+<td>Keltoum Khallouq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11996">2607.11996</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Daniel A. Rehn et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-12</td>
@@ -165,35 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07983.html">Theoretical ab initio Evolution of Satellite Intensity near Threshold for Cu K-shell transitions</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
 <td>Daniel Pinheiro et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07983">2607.07983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06053.html">Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Meiyang Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06053">2607.06053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06057.html">Stabilization of Stone-Wales Defects in Metal-supported Graphene</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
-<td>Rob H. Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06057">2607.06057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Daniel Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06470.html">Phonon-Mediated Thermal Transport in Nanocrystalline Silicon Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Houssem Rezgui et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06470">2607.06470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06645.html">BatteryMat: a hierarchical machine-learning and DFT framework for average-voltage screening of lithium-ion cathode materials</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06645">2607.06645</a></td>
 </tr>
 </tbody></table>

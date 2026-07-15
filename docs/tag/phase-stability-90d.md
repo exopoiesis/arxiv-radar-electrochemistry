@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11996.html">Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Keltoum Khallouq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11996">2607.11996</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Philip Schwinghammer et al.</td>
@@ -146,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21069.html">Accelerating point defect simulations using data-driven and machine learning approaches</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Arun Mannodi-Kanakkithodi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21069">2604.21069</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13768.html">Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13768">2604.13768</a></td>
 </tr>
 </tbody></table>

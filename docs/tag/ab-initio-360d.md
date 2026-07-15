@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,11 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17032.html">Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Yuxuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17032">2507.17032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14751.html">Classical theory of electron-ion correlations at electrochemical interfaces: Closing the circuit from double-layer charging to ion adsorption</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
-<td>Nils Bruch et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14751">2507.14751</a></td>
 </tr>
 </tbody></table>

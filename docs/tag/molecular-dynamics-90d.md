@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -872,17 +872,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13659.html">Ion-Specific Anomalous Water Diffusion in Aqueous Electrolytes: A Machine-Learned Many-Body Force Field Study with MACE</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="hydration-shell-90d.html">hydration-shell</a> · <a href="mace-90d.html">mace</a></div></td>
 <td>Massimo Ciacchi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13659">2604.13659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13768.html">Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13768">2604.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13897.html">MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Adam Lahouari et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13897">2604.13897</a></td>
 </tr>
 </tbody></table>

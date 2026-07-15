@@ -1767,5 +1767,153 @@
    "Sulfide Electrocatalysts"
   ],
   "updated": "2026-07-13"
+ },
+ "2607.11996": {
+  "abstract": "We curated 320 cubic ($Fd\\bar{3}m$) spinel entries from the Materials Project-nitrides, oxides, sulfides, and selenides, including single-cation mixed-valence $A_3X_4$ compounds-and trained tree-ensemble surrogates for the formation energy, energy above the convex hull, band gap, total magnetization, and metallicity. Cations were assigned to tetrahedral-like and octahedral-like groups from CrystalNN coordination numbers rather than from element identity, and the evaluation was group-aware throughout: splits were grouped by reduced formula, every transform was fit on training folds only, and champion models were selected on cross-validated scores before the holdout was examined. Over twenty repeated grouped holdouts (single-seed refits that reuse the tuned hyperparameters, and are therefore mildly optimistic) the champions reach mean absolute errors of $0.121\\pm0.030$ eV/atom for the formation energy, $0.048\\pm0.013$ eV/atom for the hull distance, and $1.27\\pm0.19$~\\muBfu{} for the magnetization, with a metallicity accuracy of $0.85\\pm0.06$. Band-gap regression does not beat a trivial baseline on the 19-member non-metal holdout under paired bootstrap testing, we report this negative result and trace it to sample scarcity and to the semi-local DFT labels. On the identical grouped split, the tabular champion is more accurate than an untuned MEGNet trained from scratch (0.087 versus 0.209 eV/atom formation-energy MAE on the primary holdout), a comparison that bounds, rather than settles, the descriptor-versus-graph question at this data scale. SHAP attribution ties the magnetization model to octahedral $d$-occupancy and the formation-energy and band-gap models to electronegativity descriptors, and grouped conformal intervals, permutation nulls, and leave-one-chemistry-out tests bound a domain of applicability that is uneven across anions and cations.",
+  "authors": [
+   "Keltoum Khallouq",
+   "Ayoub El Maazouzi",
+   "Rachid Masrour"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Keltoum Khallouq",
+  "pdf_url": "http://arxiv.org/pdf/2607.11996",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-13",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.12202": {
+  "abstract": "The performance of solid-state $^{229}\\text{Th}$ nuclear clocks depends sensitively on the microscopic environment of the thorium nucleus in the host crystal. Here we reassess the dominant quadrupole-split thorium site in $^{229}\\text{Th:CaF}_2$, which has been assigned to a thorium dimer in recent spectroscopic work. Thermodynamic estimates, density functional theory calculations, and electric-field-gradient comparisons instead favor an isolated $\\text{Th}^{4+}$ substitution on a $\\text{Ca}^{2+}$ site charge-compensated by two nearby fluorine interstitials in a relaxed $90^\\circ$ motif. The same calculation identifies a higher-energy mixed-shell interstitial motif as a plausible minor site. The clock-active quadrupole-split site is therefore controlled by local fluoride compensation rather than unavoidable thorium aggregation. This defect assignment also has implications for achievable linewidths and provides a microscopic basis for reducing broadening in solid-state nuclear clocks.",
+  "authors": [
+   "Daniel A. Rehn",
+   "Harry W. T. Morgan",
+   "Harris E. Mason",
+   "H. B. Tran Tan",
+   "Ricky Elwell",
+   "Igor M. Savukov",
+   "Michael J. Martin",
+   "Andrei Derevianko",
+   "Eric R. Hudson"
+  ],
+  "categories": [
+   "physics.atom-ph"
+  ],
+  "comment": null,
+  "first_author": "Daniel A. Rehn",
+  "pdf_url": "http://arxiv.org/pdf/2607.12202",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-07-13",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Defect assignment of the clock site in $^{229}\\text{Th:CaF}_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-13"
+ },
+ "2607.12719": {
+  "abstract": "Gadolinium doped ceria (GDC) is one promising oxygen-ion conducting ceramic electrolyte for intermediate-temperature solid oxide fuel cells (IT-SOFCs), due to its high ionic conductivity at reduced operating temperatures, favorable defect chemistry, and compatibility with a broad range of electrode materials [1,2]. Despite extensive understanding of its intrinsic ion transport mechanisms, the influence of ceramic processing parameters on the effective electrical behavior of polycrystalline GDC electrolytes remains an active topic for investigation [3-5]. In particular, processing steps that govern green body formation and sintering can strongly affect microstructural features such as density, grain size, grain boundary character, and residual porosity, which in turn determine the macroscopic conductivity [4-6]. In this work, dense GDC ceramic pellets were fabricated under systematically varied isostatic compaction pressures ranging from 49 to 140 MPa, followed by sintering at 1350 C for four hours under identical thermal conditions. Platinum electrodes were deposited on both sides of the pellets by electron-beam deposition, and the electrical properties were characterized by electrochemical impedance spectroscopy (EIS) over a wide temperature range. The results demonstrate a dependence of the impedance with respect to compaction pressure.",
+  "authors": [
+   "Renato A. N. de Oliveira",
+   "Celeste Z. A. Aquino",
+   "Magna Monteiro Schaerer",
+   "Rafael Galiza Yoshimura",
+   "Liliana Mogni",
+   "Maurico Arce",
+   "Diego G. Lamas",
+   "Lucia Toscani",
+   "Maria Belén Arcentales Vera",
+   "Esteban Elvis Asto Ramos",
+   "Marcia Carvalho de Abreu Fantini",
+   "Taofeeq Oladayo Bello",
+   "Tereza da Silva Martins",
+   "Danilo Waismann Losito",
+   "James Moraes de Almeida",
+   "Valeria Spolon Marangoni",
+   "Leopoldo Suescunand",
+   "and Santiago Figueroa"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Renato A. N. de Oliveira",
+  "pdf_url": "http://arxiv.org/pdf/2607.12719",
+  "primary_category": "physics.ins-det",
+  "published": "2026-07-14",
+  "tags": [
+   "impedance-spectroscopy",
+   "ion-transport"
+  ],
+  "title": "Influence of compaction pressure on the impedance of Gadolinium Doped Ceria electrolytes for IT-SOFCs",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.12813": {
+  "abstract": "We investigate the role of parity-violating interactions between supernova neutrinos and chiral molecules in nearby interstellar molecular clouds as a potential source of biomolecular homochirality. We introduce neutrino interactions into the autocatalytic chemical reactions in a far-from-equilibrium noise-induced system. These interactions create a directional bias between L and D enantiomers in the racemization reactions, which is amplified by autocatalysis and stochastic fluctuations. We solve the stochastic equations within the Ito sense to obtain the dynamics of the probability distribution of the enantiomeric excesses, offering an astrophysical scenario for the delivery of homochirality seeds to Earth by meteorites. In spite of the weak interactions of supernova neutrinos, our framework introduces an amplification mechanism to yield a considerable enantiomeric excess of more than $10\\%$, in agreement with the latest chemical analysis of the meteorites. Moreover, we scan over the parameter space of the model, inferring from the observational values in order to explore the window of opportunity to generate the initial seeds of homochiral states in interstellar molecular clouds.",
+  "authors": [
+   "Amirmasoud Jannat",
+   "Soroush Shakeri",
+   "Farhad Shahbazi"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "cond-mat.stat-mech",
+   "hep-ph",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Amirmasoud Jannat",
+  "pdf_url": "http://arxiv.org/pdf/2607.12813",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-07-14",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Supernova Neutrinos and the Origin of Biomolecular Homochirality",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.12972": {
+  "abstract": "The long-term habitability of Earth-like planets is governed by the balance of positive and negative climate feedbacks that regulate surface temperature and atmospheric composition. While some feedbacks, such as ice-albedo and silicate weathering, are thought to operate on many terrestrial planets, the number and strength of additional climate feedbacks may vary substantially from world to world. An important open question is whether and how the introduction of an additional climate feedback influences long-term climate evolution and complexity. To investigate this question, we extended a low-order climate model including outgoing longwave radiation, ice--albedo, and carbonate--silicate weathering, with an additional generalized feedback. Across 35,864 simulations, we characterized dynamical behavior using the largest Lyapunov exponent (LLE). While 10.4% of explored parameter combinations exhibited positive LLEs, indicating chaos, the fraction rose to 25.6% within the stabilizing, near-freezing regime. This suggests that chaotic behavior is preferentially concentrated where a strong stabilizing feedback operates in the same temperature regime as a strong destabilizing feedback, contrary to the expectation that additional negative feedbacks should increase climate stability. Increasing normalized volcanic outgassing shifts the chaotic regime toward lower stellar flux and partially suppresses chaos at high instellation.",
+  "authors": [
+   "Chaucer Langbert",
+   "Dániel Apai",
+   "Renu Malhotra"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "17 pages, 8 figures, accepted for publication in the Astrophysical Journal Letters",
+  "first_author": "Chaucer Langbert",
+  "pdf_url": "http://arxiv.org/pdf/2607.12972",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-07-14",
+  "tags": [
+   "weathering"
+  ],
+  "title": "When Stabilizing Feedbacks Wreak Havoc in Habitable Planets: Chaos at the Freezing Point in a Four-Feedback Climate Model",
+  "topics": [
+   "Mineral Surfaces and Geochemistry"
+  ],
+  "updated": "2026-07-14"
  }
 }

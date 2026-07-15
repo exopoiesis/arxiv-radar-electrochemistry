@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11996.html">Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Keltoum Khallouq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11996">2607.11996</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div></td>
+<td>Daniel A. Rehn et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a></div></td>

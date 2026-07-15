@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11996.html">Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Keltoum Khallouq et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11996">2607.11996</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Philip Schwinghammer et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06057.html">Stabilization of Stone-Wales Defects in Metal-supported Graphene</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Rob H. Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06057">2607.06057</a></td>
 </tr>
 </tbody></table>
