@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>origin-of-life — all</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <a href="origin-of-life-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13867.html">Cradle of Life: From the Formation of Stars to Habitable Worlds with the SKAO</a></div></td>
+<td>Eleonora Bianchi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13867">2607.13867</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27184.html">Chemical Complexity in the Early Stages of Star Formation in the SKAO Era</a></div></td>

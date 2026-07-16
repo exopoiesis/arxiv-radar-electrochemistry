@@ -1915,5 +1915,223 @@
    "Mineral Surfaces and Geochemistry"
   ],
   "updated": "2026-07-14"
+ },
+ "2607.13261": {
+  "abstract": "Aromatic organic solutes in water exhibit a delicate balance between hydrophobic solvation and directional O-H$\\cdots π$ hydrogen bonds, yet widely used force fields and state-of-the-art density functional approaches struggle to provide a consistent picture of these pivotal interactions. We introduce a data-efficient upfitting strategy to train a machine learning interatomic potential (MLIP) based on the graph atomic cluster expansion for aqueous aromatic molecules with CCSD(T) accuracy for condensed phase simulations, using only finite molecular clusters. We apply our method to aqueous toluene (C$_6$H$_5$CH$_3$). The resulting CCSD(T)-quality MLIP reproduces coupled cluster energies and forces in bulk and reveals that commonly employed methods do not capture the crucial balance between hydrophilic and hydrophobic solvation, distorting the interactions of aromatic molecules with their environment. Representative biomolecular force fields substantially understructure the hydrophobic solvation shell and misorient interfacial water, while overestimating $π$-contacts, yielding an inconsistent solvation balance. Even hybrid DFT and MP2 overestimate barriers to breaking of water-$π$ hydrogen bonds. Our workflow provides a practical, general route to CCSD(T)-quality condensed-phase simulations of aqueous solutions, and thus constructed interaction potentials now open the door to consistent, highly accurate benchmark studies of $π$-contacts and hydrophobic effects in biomolecular contexts such as solvation of proteins and DNA in aqueous environments.",
+  "authors": [
+   "Nore Stolte",
+   "Harald Forbert",
+   "Yury Lysogorskiy",
+   "Ralf Drautz",
+   "Dominik Marx"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Nore Stolte",
+  "pdf_url": "http://arxiv.org/pdf/2607.13261",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-14",
+  "tags": [
+   "density-functional-theory",
+   "hydration-shell",
+   "mlip"
+  ],
+  "title": "Aromatic Molecule Solvation in Liquid Water with Coupled Cluster Accuracy: The Balance of Pi-Interactions and Hydrophobicity",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.13657": {
+  "abstract": "The practical application of BaCeO$_3$-based electrolytes is limited by their poor chemical stability in proton-conducting solid oxide fuel cells. Commonly employed B-site doping strategies typically improve proton transport with limited improvement in stability. Recent experiments show that A-site Ca doping can simultaneously enhance both properties. Here, through first-principles calculations and mechanistic analysis of Ca-doped BaCeO$_3$, we identify the synergistic roles of small-radius, high-electronegativity A-site dopants in governing proton transport and chemical stability in perovskite electrolytes. We show that the higher electronegativity of A-site dopant weakens the A-O ionic bonding, facilitating oxygen-vacancy formation and enhancing proton uptake by increasing the basicity. This weakened A-O interaction also suppresses the formation of impurity phases and reduces the adsorption strength of acidic gases such as CO$_2$ and SO$_2$. The lattice contraction induced by the smaller ionic radius improves thermal stability and can enhance proton diffusion in systems where proton transfer is the rate-limiting step. Furthermore, we find that Ca surface segregation can mitigate grain-boundary resistance effects. Our results demonstrate the advantages of A-site Ca doping in Ba-based electrolytes, clarify the mechanisms by which small-radius, high-electronegativity dopants influence proton transport and chemical stability, and provide guidance for the design of high-performance proton-conducting electrolytes.",
+  "authors": [
+   "Hang Ma",
+   "Ying Liang",
+   "Tianxing Ma"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "15 pages and 11+4 figures. The version that accepted for publication in Phys. Rev. B",
+  "first_author": "Hang Ma",
+  "pdf_url": "http://arxiv.org/pdf/2607.13657",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-15",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "grotthuss",
+   "proton-diffusion",
+   "proton-transport",
+   "vacancies"
+  ],
+  "title": "Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.13777": {
+  "abstract": "Supercritical CO$_2$ is a highly efficient solvent for the development of more environmentally benign chemical processes. It is crucial to predict its solvation properties -- the solvation free energy and the solvation structure -- both accurately and at low computational cost. We show here that classical density functional theory (cDFT) can reproduce the solvation properties obtained from conventional molecular simulations, while requiring a computational effort that is several orders of magnitude lower. This excellent agreement is achieved using a molecular cDFT formalism based on a density that depends on both the positions and orientations of CO$_2$ molecules in the vicinity of the solute. We further examine several levels of approximation for the excess free-energy functional in cDFT and demonstrate that the homogeneous reference fluid approximation is sufficient to recover the molecular dynamics (MD) benchmark results. These findings open the way to extending molecular cDFT to other thermodynamic conditions.",
+  "authors": [
+   "Mohamed Houssein Mohamed",
+   "Odette Tannous",
+   "Camille Muller",
+   "Daniel Borgis",
+   "Francesca Ingrosso",
+   "Luc Belloni",
+   "Antoine Carof"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Mohamed Houssein Mohamed",
+  "pdf_url": "http://arxiv.org/pdf/2607.13777",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-15",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "solvation-thermodynamics"
+  ],
+  "title": "Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.13846": {
+  "abstract": "In this work, the effect of partial substitution of Mn by Ni on the structural and electronic properties of kesterite systems Cu2NiXY4 (X = Sn, Ge, Si; Y = S, Se) was studied using density functional theory (DFT). The mBJ+U method was used to characterize the bandgap more accurately. To the best of our knowledge, a systematic comparative study of Mn substitution in the entire Cu2NiXY4 (X = Sn, Ge, Si; Y = S, Se) family has not been previously performed. Due to crystallographic constraints of the kesterite unit cell, the substitution of a single Ni atom with Mn corresponds to 50%. This configuration was chosen to study the effect of Mn substitution on the structural and electronic properties of Cu2NiXY4 (X = Sn, Ge, Si; Y = S, Se) compounds, whereas the study of lower concentrations requires the use of a supercell and is the subject of further research. The calculation results show that the partial substitution of Ni with Mn preserves the tetragonal structure of kesterite and significantly alters the electronic structure. In all the compounds studied, the bandgap decreases from 1.028-3.397 to 1.007-3.333 eV. For example, in the Cu2NiSnS4 system, the bandgap width decreases from 1.59 eV to 1.49 eV. The narrowing of the bandgap results from hybridization between the Mn-3d, Cu-3d, and S/Se-p orbitals near the band edges, leading to a redistribution of electronic states around the Fermi level. The results demonstrate that Mn substitution is an effective strategy for controlling the electronic properties of Cu2NiXY4 kesterites, offering great promise for use in optoelectronic devices where adjustable bandgaps are required.",
+  "authors": [
+   "Iskandar Raufzoda",
+   "Dilshod Nematov",
+   "Amondullo Burhonzoda"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Iskandar Raufzoda",
+  "pdf_url": "http://arxiv.org/pdf/2607.13846",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-15",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "First-principles Study of Structural and Electronic Properties of Mn-doped Cu2NiXY4 (X=Sn, Ge, Si; Y=S, Se) Chalcogenide Semiconductors",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.13867": {
+  "abstract": "This chapter provides an overview of the different science cases covered by the \"Cradle of Life\" working group, which aims to leverage the capabilities of the Square Kilometre Array Observatory (SKAO) to trace the physical and chemical pathways toward stars and planets formation, how such stars impact their planets, and whether life could exist in such conditions. At its highest frequencies, the SKAO will probe the earliest stages of the raw material fuelling planet formation, while enabling deep, unprecedented searches for prebiotic molecules both in high-mass and solar-type protostars. Concurrently, the lowest frequencies will be deployed to detect and characterize exoplanetary magnetic fields via their auroral radio emission, and the type of space weather a planet experiences from its host star. Across the entire frequency range, the SKA telescopes will conduct systematic searches of technosignatures. Together, these high-impact research areas establish a comprehensive roadmap for the SKAO to uncover the origins of life in the universe.",
+  "authors": [
+   "Eleonora Bianchi",
+   "Joseph R. Callingham",
+   "the Cradle of Life working group"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.EP",
+   "astro-ph.GA",
+   "astro-ph.IM"
+  ],
+  "comment": "Published in Advancing Astrophysics with the SKA II (AASKAII), 2026 (arXiv:2606.20366). Report-no: AASKAII/Bianchi02. Advancing Astrophysics with the SKAII (AASKAII) outlines the transformative scientific advances that will be enabled by the SKA telescopes",
+  "first_author": "Eleonora Bianchi",
+  "pdf_url": "http://arxiv.org/pdf/2607.13867",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-07-15",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Cradle of Life: From the Formation of Stars to Habitable Worlds with the SKAO",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.13966": {
+  "abstract": "Understanding how proteins behave at low temperatures remains a central challenge in biophysics, with direct implications for cold denaturation and cryopreservation. While cold denaturation of proteins in the supercooled liquid regime has been studied extensively, the behavior of a protein embedded in a growing ice lattice remains largely inaccessible to experiments. Here we use molecular dynamics simulations that explicitly capture ice Ih formation to characterize the conformational dynamics of yeast frataxin (Yfh1) as its aqueous environment crystallizes. Using four independent ice-seeded replicas and liquid-water controls at three temperatures, we first validate the liquid-solid transition through convergent changes in solvent density, potential energy, and local bond-order parameters (W4, W6). Principal component analysis (PCA), dihedral PCA (dPCA), and free-energy landscapes then reveal that crystallization of the solvent markedly reshapes the accessible conformational space, shifting it from a continuous, highly connected regime in liquid water toward a discretized landscape dominated by confined states. Complementary analyses of solvent-accessible surface area (SASA), radius of gyration, and hydrogen bonding indicate a solvent-driven reorganization of protein-water interactions: although first-shell water remains liquid-like, its surface density increases under freezing, while conformational sampling contracts. Together, these results indicate that protein behavior at low temperatures is governed not by temperature alone but by the structural organization of the surrounding water. By imposing geometrical constraints on the solvent, ice formation restricts conformational sampling while preserving -- and even densifying -- the interfacial hydration layer, highlighting the role of water structure as a determinant of protein stability under freezing conditions.",
+  "authors": [
+   "Yanis R. Espinosa",
+   "H. Ariel Alvarez",
+   "C. Manuel Carlevaro"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Yanis R. Espinosa",
+  "pdf_url": "http://arxiv.org/pdf/2607.13966",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-07-15",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Confinement effects on protein stability in a freezing water environment",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.14025": {
+  "abstract": "We present WEST, an open-source plane-wave pseudopotential code for large-scale excited-state materials simulations, and describe its theoretical foundations, software architecture, and capabilities. WEST implements full-frequency GW, quantum defect embedding theory, the Bethe-Salpeter equation, and time-dependent density functional theory within a common algorithmic framework that avoids the explicit computation of virtual electronic states. By combining density functional and density matrix perturbation theory, low-rank representations of the dielectric screening and exact exchange, and localization techniques, WEST achieves favorable computational scaling with system size. The code supports the calculation of quasi-particle and neutral excitation energies, optical and photoluminescence spectra, excited-state forces, and non-adiabatic couplings, with interoperable workflows connecting to quantum chemistry, vibronic coupling, and quantum computing packages. A hierarchical parallelization strategy and GPU acceleration deliver near-ideal strong scaling to thousands of GPUs, enabling accurate excited-state simulations of systems with more than a thousand atoms. Representative applications, spanning the full optical cycle of solid-state spin defects, self-trapped excitons in metal-halide perovskites, and the optical response of liquid water and ice, demonstrate the accuracy and versatility of the code across diverse material classes. The capabilities implemented in WEST establish the code as a scalable platform for predictive excited-state simulations, high-throughput materials discovery, and the generation of high-fidelity datasets for machine learning in computational materials science.",
+  "authors": [
+   "Victor Wen-zhe Yu",
+   "Siyuan Chen",
+   "Yu Jin",
+   "Vrindaa Somjit",
+   "Stefano Paolo Villani",
+   "Jiawei Zhan",
+   "Marco Govoni",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Victor Wen-zhe Yu",
+  "pdf_url": "http://arxiv.org/pdf/2607.14025",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-15",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "The WEST code for large-scale excited-state materials simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.14083": {
+  "abstract": "Understanding the properties of defects is imperative for proper use for variety of applications including quantum computing. In this paper, we use the multiconfigurational self consistent field (MCSCF) combined with DFT optimized geometry in order to investigate the spin and optical properties of G centers in Silicon. By utilizing quantum chemistry based methods, we show excellent agreement with the Zero Phonon Line and Zero Field Splitting Tensor components of the G center. We also calculate the theoretical spin decoherence time of the G centers using Cluster Correlation Expansion (CCE) methods.",
+  "authors": [
+   "Narayan Pokhrel",
+   "Kyungwha Park",
+   "Vsevolod Ivanov"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 5 figures",
+  "first_author": "Narayan Pokhrel",
+  "pdf_url": "http://arxiv.org/pdf/2607.14083",
+  "primary_category": "quant-ph",
+  "published": "2026-07-15",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Cluster-configurational study of G-center in Silicon",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-15"
  }
 }

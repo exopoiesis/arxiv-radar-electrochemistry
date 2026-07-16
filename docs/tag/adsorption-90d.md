@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a> · <a href="proton-transport-90d.html">proton-transport</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Hang Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13657">2607.13657</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09364.html">Effect of Ice Charging on the Astrochemistry of Interstellar Sulfur Bearing Species on Amorphous Solid Water</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>T. Vorsselmans et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16267.html">Improved Desalination by Polymer Grafting</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Mamta Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16267">2604.16267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12583.html">Electrochemical Performance of Gold Monolayers for Lithium-Ion Batteries: A First Principles Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
-<td>Ajay Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12583">2604.12583</a></td>
 </tr>
 </tbody></table>
