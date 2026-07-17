@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Tarek Ayadi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="grotthuss-7d.html">grotthuss</a> · <a href="proton-diffusion-7d.html">proton-diffusion</a> · <a href="proton-transport-7d.html">proton-transport</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Hang Ma et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="electrochemical-interfaces-7d.html">electrochemical-interfaces</a></div></td>
 <td>Mamta Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09554">2607.09554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="co2-reduction-7d.html">co2-reduction</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Sutanay Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
 </tr>
 </tbody></table>

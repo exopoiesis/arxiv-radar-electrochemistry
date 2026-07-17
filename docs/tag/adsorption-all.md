@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption — all</h1>
-  <span class="paper-count">362 papers</span>
+  <span class="paper-count">363 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <a href="adsorption-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Tarek Ayadi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="grotthuss-all.html">grotthuss</a> · <a href="proton-diffusion-all.html">proton-diffusion</a> · <a href="proton-transport-all.html">proton-transport</a> · <a href="vacancies-all.html">vacancies</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Tarek Ayadi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15103.html">A fast summation method for the DFT-D3 dispersion correction</a></div></td>
+<td>Victoria Valeeva et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15103">2607.15103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Sara R. Tulchinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
@@ -1262,17 +1286,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17076.html">Predicting Solvation Free Energies of Molecules and Ions via First-Principles and Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="explicit-solvation-90d.html">explicit-solvation</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
 <td>Junting Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17076">2604.17076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15952.html">Machine-Learned Interatomic Potential for Predictive Simulation of MoS2 Epitaxy</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Emir Bilgili et al.</td>
-<td><a href="http://arxiv.org/abs/2512.15952">2512.15952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16267.html">Improved Desalination by Polymer Grafting</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
-<td>Mamta Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16267">2604.16267</a></td>
 </tr>
 </tbody></table>

@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-07-16._
+_Updated 2026-07-17._
 
-**3306** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3314** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,54 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14827.html">SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/neb-30d.html">neb</a></div></td>
+<td>Anh Khoa Augustin Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14827">2607.14827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Aaron Flötotto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14951">2607.14951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Tarek Ayadi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15103.html">A fast summation method for the DFT-D3 dispersion correction</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Victoria Valeeva et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15103">2607.15103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15110.html">Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Malgorzata Wierzbowska et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Sara R. Tulchinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/grotthuss-30d.html">grotthuss</a> · <a href="tag/proton-diffusion-30d.html">proton-diffusion</a> · <a href="tag/proton-transport-30d.html">proton-transport</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
@@ -147,53 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09456.html">Active rejection enables reliable generalization of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="tag/chgnet-30d.html">chgnet</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mingxiang Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09456">2607.09456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09525.html">Chemical Frequency Combs in Reaction-Diffusion Oscillators</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
-<td>Krishnesh Krishnakumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09525">2607.09525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/electrochemical-interfaces-30d.html">electrochemical-interfaces</a></div></td>
-<td>Mamta Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09554">2607.09554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09592.html">A Semiclassical Gaussian Wavepacket Method for Non-Adiabatic Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Lorenzo Bocchi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09592">2607.09592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/co2-reduction-30d.html">co2-reduction</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
-<td>Sutanay Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08167.html">Charge-partition pathways in strong-field photoionization of carbonyl sulfide monomers and dimers</a></div></td>
-<td>Chao He et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08167">2607.08167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Dereje Bekele Tekliye et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
-<td>Philip Schwinghammer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Swagata Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
 </tr>
 </tbody></table>

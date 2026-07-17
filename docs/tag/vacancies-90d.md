@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vacancies — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <strong>90d</strong> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Aaron Flötotto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14951">2607.14951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Tarek Ayadi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Sara R. Tulchinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a> · <a href="proton-transport-90d.html">proton-transport</a></div></td>

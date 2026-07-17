@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>aimd — all</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">208 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04821.html">Performance evaluation of scheduling tasks in many-core systems utilizing processes and threads</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

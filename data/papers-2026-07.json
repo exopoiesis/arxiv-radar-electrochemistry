@@ -2133,5 +2133,239 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-07-15"
+ },
+ "2607.14476": {
+  "abstract": "Hydrated electrons of opposite spins pair to form dielectrons at sufficiently high concentrations that can be achieved by dissolution of alkali metals in water. While experimental investigations of these systems are challenging due to their vigorous, even explosive, reactivity, simulations open the possibility to characterize the structure and reactivity of hydrated dielectrons and the effects of alkali cations thereon. Here, we present ab initio molecular dynamics simulations of a hydrated dielectron without or with explicit Li$^+$ or Cs$^+$ counterions. While the overall solvation structure is preserved in all these systems, the presence of cations has a distinct effect of increasing the dielectron gyration radius by about 10% and forming cation-specific cation-dielectron arrangements. Moreover, analysis of water bond lengths reveals in all studied systems a substantial elongation of first-shell O-H bonds oriented toward the dielectron, providing a structural explanation for vibrational red-shifts observed in resonance Raman measurements. Finally, at the 10 ps simulation timescale, rare reactive events were observed, albeit only for the system without metal cations, where hydride intermediates stable on picosecond timescales were identified. These observations also suggest that on the investigated timescales, metal cations may suppress hydrated dielectron reactivity.",
+  "authors": [
+   "Tatiana Nemirovich",
+   "Pavel Jungwirth",
+   "Ondrej Marsalek"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Tatiana Nemirovich",
+  "pdf_url": "http://arxiv.org/pdf/2607.14476",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-16",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14795": {
+  "abstract": "Phase stability in multicomponent solid solutions depends on configurational entropy beyond the ideal mixing limit, but capturing it together with vibrational entropy within the same atomistic framework remains challenging. Here, we extend non-equilibrium thermodynamic integration to composition-dependent transformations through an alchemical interpolation of the interactions, combined with Monte Carlo identity exchange moves and molecular dynamics that sample the vibrational and non-ideal configurational entropy along the integration path. We apply the framework to the Au-Cu binary alloy using Atomic Cluster Expansion potentials trained on density functional theory data using the LDA, PBE, and r2SCAN functionals, and construct composition-temperature phase diagrams directly from atomistic free energies. We find that explicit configurational sampling lowers the AuCu order-disorder transition temperature predicted by the ACE potential trained on LDA data from approximately 810 K to 710 K, closer to the experimental value of 683 K, and substantially widens the stability range of the solid solution. At the same time, the much larger sensitivity to the exchange-correlation functional shows that this level of agreement should not be interpreted as general predictive accuracy. Non-ideal configurational entropy must therefore be sampled explicitly, alongside a careful choice of functional, for a reliable atomistic description of binary phase diagrams.",
+  "authors": [
+   "Sarath Menon",
+   "Marvin Poul",
+   "Tilmann Hickel",
+   "Jörg Neugebauer",
+   "Ralf Drautz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sarath Menon",
+  "pdf_url": "http://arxiv.org/pdf/2607.14795",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "phase-stability"
+  ],
+  "title": "Computing binary alloy phase diagrams with explicit configurational and vibrational entropy",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14827": {
+  "abstract": "Accurate prediction of the Born effective charge (BEC) tensor is crucial for modeling materials under electric fields but remains computationally expensive. To bridge this gap, we present SevenNet-Polar, an equivariant graph neural network framework based on the SevenNet architecture for fast and accurate BEC predictions. Our BEC-only predictors can achieve an RMSE as low as 0.0043 e on ZrO$_2$, Li$_3$PO$_4$, and perovskites, despite the presence of high-temperature (up to 2,000 K) and defect-laden training data. Our all-in-one multitask models for predicting energy, forces, stress, and BEC in ZrO$_2$ and Li$_3$PO$_4$ achieve high accuracy with an RMSE of 1.0 meV/atom for energy, 12 meV/angstrom for forces, 0.05 GPa for stress, and 0.0029 e for BEC. BEC accuracy is not degraded by multitask training. Scaling analysis reveals distinct exponents for diagonal and off-diagonal BEC components, both of which exhibit less favorable scaling than energy, force and stress errors. SevenNet-Polar generalizes robustly when tested on scenarios containing structural environments absent from the training set, such as along nudged elastic band (NEB) trajectories or grain boundaries in ZrO$_2$. Accelerated by FlashTP, SevenNet-Polar enables simulations containing up to 1.5 million atoms on multi-GPU supercomputers and up to approximately 15,000 atoms on a single consumer-grade GPU. This makes charge-aware molecular dynamics simulations under electric fields more accessible.",
+  "authors": [
+   "Anh Khoa Augustin Lu",
+   "Shungo Arai",
+   "Yutack Park",
+   "Seungwu Han",
+   "Tsuyoshi Miyazaki",
+   "Satoshi Watanabe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Anh Khoa Augustin Lu",
+  "pdf_url": "http://arxiv.org/pdf/2607.14827",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "molecular-dynamics",
+   "neb"
+  ],
+  "title": "SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14951": {
+  "abstract": "Sulfur vacancy migration has a crucial impact on electronic transport and the functional behavior of MoS$_2$-based devices such as memristors and memtransistors. According to recent atomistic simulations, vacancy migration proceeds via cooperative, vacancy-assisted sulfur jumps, implying strongly correlated defect dynamics. Here, we investigate the collective behavior of sulfur-vacancy clusters in MoS$_2$ using kinetic Monte-Carlo simulations with transition rates derived from machine learning interatomic potential molecular dynamics simulations. We identify three transport regimes: At low concentrations, vacancies are immobile or confined within small clusters, whereas at high concentrations, classical diffusive transport with a constant diffusion coefficient is observed, and vacancies aggregate into anisotropically extended clusters. A well defined intermediate regime is characterized by clusters merging into a connected, fluctuating network with a concentration-dependent diffusion coefficient. This regime is characterized by a broad distribution of cluster sizes. The strong dependence of the vacancy diffusion coefficient on the average defect concentration provides new insights into the origin of memristive behavior observed in MoS$_2$.",
+  "authors": [
+   "Aaron Flötotto",
+   "Benjamin Spetzler",
+   "Martin Ziegler",
+   "Erich Runge",
+   "Christian Dreßler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Aaron Flötotto",
+  "pdf_url": "http://arxiv.org/pdf/2607.14951",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "mlip",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14972": {
+  "abstract": "Using a combination of static and dynamic density functional theory simulations, we systematically investigated how phosphorus doping and oxygen vacancies on the CeO$_2$(111) surface influence the oxidation mechanisms of formaldehyde (HCHO). Our results reveal that P cations (P$^{5+}$) substitutionally replace Ce$^{4+}$ in the lattice, forming Ce$-$O$-$P bonds that reduce the band gap (from 2.26 eV to 2.09 eV) and generate localized Ce$^{3+}$ states through charge redistribution. This synergistic effect of P doping combined with oxygen vacancy strengthens HCHO adsorption by decreasing the adsorption energy from -0.62 eV on pristine CeO$_2$(111) to -2.65 eV on the defective P-doped surface. Importantly, P doping lowers the C$-$H bond cleavage barrier by 0.84 eV relative to pristine CeO$_2$(111), accelerating formaldehyde oxidation on the defective surface. In addition, the rapid desorption of CO$_2$ and H$_2$O ($τ\\sim 0.59 s$ at 300 K) indicates weak product-surface interactions, which favor efficient catalyst regeneration during continuous operation. These findings highlight P-doped CeO$_2$(111) as a promising system for low-temperature HCHO oxidation and provide insights into the design of ceria-based catalytic materials.",
+  "authors": [
+   "Tarek Ayadi",
+   "Mourad Debbichi",
+   "Michael Badawi",
+   "Fabien Pascale",
+   "Adel Mesbah",
+   "Sébastien Lebègue"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Tarek Ayadi",
+  "pdf_url": "http://arxiv.org/pdf/2607.14972",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15103": {
+  "abstract": "The DFT-D3 dispersion correction is routinely added to machine learning force fields (MLFFs) trained on dispersion-deficient functionals such as PBE. Its environment-dependent pair coefficients, however, break the atom-centered separability that fast summation methods require, forcing practitioners either to truncate D3 or to accept a substantial slowdown. We introduce FourierD3, a method that uses a functional low-rank decomposition to restore this separability and enable particle-mesh evaluation in $O(N\\log N)$ time without a real-space cutoff on the dispersion sum.",
+  "authors": [
+   "Victoria Valeeva",
+   "Cheuk Hin Ho",
+   "Mario Geiger",
+   "Franco Pellegrini",
+   "Gábor Csányi",
+   "Emine Kucukbenli",
+   "Christoph Ortner"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Victoria Valeeva",
+  "pdf_url": "http://arxiv.org/pdf/2607.15103",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-07-16",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "A fast summation method for the DFT-D3 dispersion correction",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15110": {
+  "abstract": "Cr2AlC MAX phase is synthesized by high-pressure solid-state annealing and investigated as a candidate platform for optically responsive magnetism. Structural characterization confirms the formation of the Cr2AlC phase, while magnetic and optical-magnetic properties are examined by superconducting quantum interference device (SQUID) magnetometry, electron spin resonance (ESR), and first principles calculations. SQUID magnetometry identifies Cr 2AlC as a weak, field-linear metallic paramagnet dominated by Pauli-like susceptibility of itinerant Cr-derived states. Its non-monotonic temperature dependence is described by an additional contribution from antiferromagnetically coupled Cr-Cr dimers, whereas the low-temperature Curie-like upturn originates from only a trace population of localized Cr centers. Under red-light illumination, SQUID magnetometry does not reveal an intrinsic macroscopic optomagnetic response. In contrast, ESR at 4 K shows a reversible light-induced reduction of a local magnetic signal, but the optically modified spin population corresponds only to several tens of ppm of the Cr sublattice. Ab initio Bethe-Salpeter equation (ai-BSE) calculations combined with the maximally localized Wannier function analysis suggest that optical excitation can redistribute spin polarization between neighboring Cr sites with the opposite local moments. The combined experiment-theory approach therefore establishes the hierarchy of magnetic contributions in Cr 2AlC and identifies the microscopic origin of its local optical sensitivity. This provides a reference for designing MAX phases and related MXenes in which defects, surface terminations or reduced dimensionality may enhance optically active magnetic states.",
+  "authors": [
+   "Malgorzata Wierzbowska",
+   "Anna Basa",
+   "Kazuhiro Marumoto",
+   "Jiaxi Wang",
+   "Katarzyna Gas",
+   "Maciej Sawicki",
+   "Kacper Sierakowski",
+   "Karel Carva",
+   "Michal Bockowski"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "19 pages, 7 figures and supplementary information",
+  "first_author": "Malgorzata Wierzbowska",
+  "pdf_url": "http://arxiv.org/pdf/2607.15110",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15120": {
+  "abstract": "In CrSBr, as in many crystalline materials, the type and density of defects are expected to strongly influence material behavior. Identifying the underlying atomic defect configurations and controlling their populations during growth are therefore important steps toward understanding and ultimately tailoring its rich magneto-electrical properties. However, systematic control of defects in CrSBr during chemical vapor transport (CVT) growth has not yet been established. Here, we correlate CVT growth conditions with defect concentrations measured using conductive atomic force microscopy (CAFM). We focus on a characteristic defect with a strong electronic fingerprint, labeled D*, and decrease its concentration by up to an order of magnitude through optimized growth conditions. We show that defect densities can be tuned by adjusting precursor stoichiometry, where sulfur- and bromine-rich conditions suppress defect formation, and by lowering the absolute growth temperatures while maintaining the same temperature gradient. Thermodynamic modeling and density functional theory calculations suggest that D* is most consistent with a sulfur-related vacancy complex rather than an isolated point defect. These results provide practical strategies for growing high-quality CrSBr with controlled defect densities.",
+  "authors": [
+   "Sara R. Tulchinsky",
+   "Sergii Grytsiuk",
+   "Shen van Hassel",
+   "Iva Plutnarová",
+   "Rami Dana",
+   "David Sedmidubský",
+   "Zdenek Sofer",
+   "Malte Rösner",
+   "Frances M. Ross",
+   "Julian Klein"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "main: 11 pages, 6 figures, 2 tables; SI: 19 pages, 14 figures",
+  "first_author": "Sara R. Tulchinsky",
+  "pdf_url": "http://arxiv.org/pdf/2607.15120",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Growth-controlled suppression of electrically active defects in CrSBr",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-16"
  }
 }

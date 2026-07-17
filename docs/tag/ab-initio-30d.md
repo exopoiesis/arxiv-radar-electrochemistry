@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15110.html">Local magnetic correlations and light-sensitive centers in the Cr2AlC MAX phase</a></div></td>
+<td>Malgorzata Wierzbowska et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="proton-diffusion-30d.html">proton-diffusion</a> · <a href="proton-transport-30d.html">proton-transport</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
@@ -212,11 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19152.html">AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Zongmin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19152">2606.19152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18163.html">Dynamical properties of ab initio water from machine-learning potentials</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a></div></td>
-<td>P. Montero de Hijes et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18163">2606.18163</a></td>
 </tr>
 </tbody></table>

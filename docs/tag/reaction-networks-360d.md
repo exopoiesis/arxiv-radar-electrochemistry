@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-networks — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <a href="reaction-networks-90d.html">90d</a> <strong>360d</strong> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16312.html">Elucidating the impact of point defects on the structural, electronic, and mechanical behaviour of chromium nitride</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Barsha Bhattacharjee et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16312">2507.16312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15546.html">Autocatalytic cores in the diluted regime:classification and properties</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>
-<td>Praneet Nandan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15546">2507.15546</a></td>
 </tr>
 </tbody></table>

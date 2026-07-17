@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14827.html">SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
+<td>Anh Khoa Augustin Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14827">2607.14827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Aaron Flötotto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14951">2607.14951</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
@@ -860,17 +884,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17111.html">HiveMind: OS-Inspired Scheduling for Concurrent LLM Agent Workloads</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a></div></td>
 <td>Justice Owusu Agyemang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17111">2604.17111</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15952.html">Machine-Learned Interatomic Potential for Predictive Simulation of MoS2 Epitaxy</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Emir Bilgili et al.</td>
-<td><a href="http://arxiv.org/abs/2512.15952">2512.15952</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16261.html">Atomistic Mechanisms of Stress-Dependent Molten Salt Corrosion in NiCr Alloys</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="corrosion-90d.html">corrosion</a></div></td>
-<td>Hamdy Arkoub et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16261">2604.16261</a></td>
 </tr>
 </tbody></table>

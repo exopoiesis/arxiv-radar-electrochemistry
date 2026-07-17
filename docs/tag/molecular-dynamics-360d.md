@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">567 papers</span>
+  <span class="paper-count">570 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
+<td>Tatiana Nemirovich et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14476">2607.14476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14827.html">SevenNet-Polar for MultiTask Prediction of Energy, Forces, Stress, and Born Effective Charges: Development and Application to ZrO$_2$, Li$_3$PO$_4$, and Perovskites</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
+<td>Anh Khoa Augustin Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14827">2607.14827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Aaron Flötotto et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14951">2607.14951</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
@@ -3410,11 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17032.html">Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Yuxuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17032">2507.17032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15430.html">Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Nikhil Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15430">2507.15430</a></td>
 </tr>
 </tbody></table>

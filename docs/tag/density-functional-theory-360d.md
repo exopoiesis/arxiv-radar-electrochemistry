@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">830 papers</span>
+  <span class="paper-count">832 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Tarek Ayadi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15103.html">A fast summation method for the DFT-D3 dispersion correction</a></div></td>
+<td>Victoria Valeeva et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15103">2607.15103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Sara R. Tulchinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
@@ -4982,17 +5006,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16574.html">Chemical Treatment-Induced Indirect-to-Direct Bandgap Transition in MoS2: Impact on Optical Properties</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Yusuf Kerem Bostan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16574">2507.16574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15430.html">Data-driven Discovery of Novel High-performance Quaternary Chalcogenide Photovoltaics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Nikhil Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15430">2507.15430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15817.html">Charge density wave in intermetallic oxides R$_5$Pb$_3$O (R = La and Ce)</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Rafaela F. S. Penacchio et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15817">2507.15817</a></td>
 </tr>
 </tbody></table>

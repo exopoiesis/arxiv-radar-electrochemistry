@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Tarek Ayadi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15103.html">A fast summation method for the DFT-D3 dispersion correction</a></div></td>
+<td>Victoria Valeeva et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15103">2607.15103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Sara R. Tulchinsky et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="solvation-thermodynamics-7d.html">solvation-thermodynamics</a></div></td>
@@ -74,35 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="electrochemical-interfaces-7d.html">electrochemical-interfaces</a></div></td>
 <td>Mamta Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09554">2607.09554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Dereje Bekele Tekliye et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08327.html">Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
-<td>Philip Schwinghammer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08327">2607.08327</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08351.html">Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Swagata Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08351">2607.08351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08438.html">Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Vinayak M. Kulkarni et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08438">2607.08438</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08890.html">Hybrid DiffractGPT-Rietveld Refinement Framework for Automated X-ray Diffraction Analysis</a></div></td>
-<td>Charles Rhys Campbell et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08890">2607.08890</a></td>
 </tr>
 </tbody></table>
