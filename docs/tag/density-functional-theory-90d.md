@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">212 papers</span>
+  <span class="paper-count">210 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1274,17 +1274,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18189.html">Density Profiles and Direct Correlation Functions from Density Functional Theory in Binary Hard-Sphere Crystals: Substitutional Solid and Interstitial Solid Solution</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Alessandro Simon et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18189">2604.18189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16844.html">UCd$_{11}$: A strongly localized 5$f^3$ material</a></div></td>
-<td>Martin Sundermann et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16844">2604.16844</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17076.html">Predicting Solvation Free Energies of Molecules and Ions via First-Principles and Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="explicit-solvation-90d.html">explicit-solvation</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
-<td>Junting Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17076">2604.17076</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">832 papers</span>
+  <span class="paper-count">828 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4982,29 +4982,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21143.html">Molecular Mechanisms of Polymer Crosslinking via Thermal Activation</a></div></td>
 <td>Javed Akhtar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21143">2507.21143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06138.html">Role of defects in atom probe analysis of sol-gel silica</a></div></td>
-<td>Gustav Eriksson et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06138">2505.06138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16161.html">Broadband coherent Raman spectroscopy based on single-pulse spectral-domain ghost imaging</a></div></td>
-<td>Jing Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16161">2507.16161</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16312.html">Elucidating the impact of point defects on the structural, electronic, and mechanical behaviour of chromium nitride</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Barsha Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16312">2507.16312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16574.html">Chemical Treatment-Induced Indirect-to-Direct Bandgap Transition in MoS2: Impact on Optical Properties</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Yusuf Kerem Bostan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16574">2507.16574</a></td>
 </tr>
 </tbody></table>

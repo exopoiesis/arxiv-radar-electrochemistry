@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">570 papers</span>
+  <span class="paper-count">566 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3410,29 +3410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17891.html">Analysis of Fe and Co binary catalysts in chemical vapor deposition growth of single-walled carbon nanotubes</a></div></td>
 <td>Qingmei Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17891">2507.17891</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16325.html">Molecular Mechanisms Underlying the Effects of Urea and the Structural Dynamics of Bovine Serum Albumin</a></div><div class="paper-tags"><a href="hydration-shell-360d.html">hydration-shell</a></div></td>
-<td>Y. Ricardo Espinosa et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16325">2504.16325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16167.html">Origin of Suppressed Ferroelectricity in k-Ga$_2$O$_3$: Interplay Between Polarization and Lattice Domain Walls</a></div></td>
-<td>Yonghao Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16167">2507.16167</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16531.html">Graph-Coarsening for Machine Learning Coarse-grained Molecular Dynamics</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
-<td>Soumya Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16531">2507.16531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17032.html">Thermophysical and Mechanical Properties Prediction of Rear-earth High-entropy Pyrochlore Based on Deep-learning Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Yuxuan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17032">2507.17032</a></td>
 </tr>
 </tbody></table>
