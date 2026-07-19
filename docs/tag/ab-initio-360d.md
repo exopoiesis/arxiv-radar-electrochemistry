@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,11 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13057.html">Dimensional crossover and emergence of novel phases in puckered PdSe$_2$ under pressure</a></div><div class="paper-tags"><a href="marcasite-360d.html">marcasite</a> · <a href="pyrite-360d.html">pyrite</a></div></td>
 <td>Tanima Kundu et al.</td>
 <td><a href="http://arxiv.org/abs/2501.13057">2501.13057</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17206.html">Group-I lead oxide X$_2$PbO$_3$ (X=Li, Na, K, Rb, and Cs) glass-like materials for energy applications: A hybrid-DFT study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>R. Zosiamliana et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17206">2507.17206</a></td>
 </tr>
 </tbody></table>
