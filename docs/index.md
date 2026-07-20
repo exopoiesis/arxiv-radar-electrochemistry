@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-07-19._
+_Updated 2026-07-20._
 
-**3314** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3317** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.16167.html">Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Sadia Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16167">2607.16167</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -63,6 +69,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
 <td>Sara R. Tulchinsky et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15417.html">A termolecular reaction theory for gas-phase nucleation based on long-range intermolecular forces</a></div><div class="paper-tags"><a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Yu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15417">2607.15417</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>
@@ -177,23 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/explicit-solvation-30d.html">explicit-solvation</a></div></td>
 <td>Jan Eckwert et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/weathering-30d.html">weathering</a></div></td>
-<td>Ziyu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09005">2607.09005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09364.html">Effect of Ice Charging on the Astrochemistry of Interstellar Sulfur Bearing Species on Amorphous Solid Water</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>T. Vorsselmans et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09364">2607.09364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09456.html">Active rejection enables reliable generalization of universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="tag/chgnet-30d.html">chgnet</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Mingxiang Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09456">2607.09456</a></td>
 </tr>
 </tbody></table>

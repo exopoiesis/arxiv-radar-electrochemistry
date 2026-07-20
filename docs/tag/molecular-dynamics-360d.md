@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16167.html">Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Sadia Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16167">2607.16167</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
 <td>Tatiana Nemirovich et al.</td>
@@ -3398,11 +3404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20885.html">Active Learning for Predicting the Enthalpy of Mixing inBinary Liquids Based on Ab Initio Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="aimd-360d.html">aimd</a></div></td>
 <td>Quentin Bizot et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20885">2507.20885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21031.html">Reactive molecular dynamics approach to PFAS plasma oxidation in water</a></div></td>
-<td>Axel Richard et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21031">2505.21031</a></td>
 </tr>
 </tbody></table>

@@ -28,15 +28,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="ion-transport-7d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="grotthuss-7d.html">grotthuss</a> · <a href="proton-diffusion-7d.html">proton-diffusion</a> · <a href="proton-transport-7d.html">proton-transport</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Hang Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13657">2607.13657</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="explicit-solvation-7d.html">explicit-solvation</a></div></td>
-<td>Jan Eckwert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
 </tr>
 </tbody></table>

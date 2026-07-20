@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="proton-diffusion-30d.html">proton-diffusion</a> · <a href="proton-transport-30d.html">proton-transport</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Hang Ma et al.</td>
@@ -212,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23571.html">INCARBench: A Benchmark for Scientific Configuration in VASP INCAR by Large Language Models</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Bin Shao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23571">2606.23571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21441.html">Bulk Photovoltaic Effect in Two-Dimensional Perovskite Oxides</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Chunmei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21441">2606.21441</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">825 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Sara R. Tulchinsky et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="ion-transport-360d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>
@@ -4946,23 +4952,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19670.html">Making atomistic materials calculations accessible with the AiiDAlab Quantum ESPRESSO app</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Xing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19670">2507.19670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18008.html">Compositional Tuning in NaxAlB14 via Diffusion Control</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Mihiro Hoshino et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18008">2507.18008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18010.html">Ultra-clean interface between high k dielectric and 2D MoS2</a></div></td>
-<td>Han Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18010">2507.18010</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18485.html">Active Δ-learning with universal potentials for global structure optimization</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="chgnet-360d.html">chgnet</a> · <a href="mace-360d.html">mace</a></div></td>
-<td>Joe Pitfield et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18485">2507.18485</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16167.html">Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Sadia Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16167">2607.16167</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14476.html">How Alkali Metal Cations Affect the Structure and Reactivity of the Hydrated Dielectron</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Tatiana Nemirovich et al.</td>
@@ -866,11 +872,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19622.html">Beyond the Virial Expansion: Microscopic Origins of Partial Molar Volumes in LiCl Solutions</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Chun-Ting Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19622">2604.19622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28399.html">Geometry-controlled competition between axis centering and detwinning in fivefold-twinned gold nanoparticles</a></div></td>
-<td>Silvia Fasce et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28399">2603.28399</a></td>
 </tr>
 </tbody></table>

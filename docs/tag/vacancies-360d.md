@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16167.html">Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Sadia Khan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.16167">2607.16167</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Aaron Flötotto et al.</td>
@@ -1106,11 +1112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23902.html">Hydrogen Storage Potential of Chromium-Functionalized Graphene: A First-Principles Investigation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Pratyasha Tripathy et al.</td>
 <td><a href="http://arxiv.org/abs/2503.23902">2503.23902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18008.html">Compositional Tuning in NaxAlB14 via Diffusion Control</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Mihiro Hoshino et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18008">2507.18008</a></td>
 </tr>
 </tbody></table>

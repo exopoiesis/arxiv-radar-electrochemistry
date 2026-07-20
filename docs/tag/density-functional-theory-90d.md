@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">210 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15120.html">Growth-controlled suppression of electrically active defects in CrSBr</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Sara R. Tulchinsky et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>
@@ -1244,35 +1250,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19622.html">Beyond the Virial Expansion: Microscopic Origins of Partial Molar Volumes in LiCl Solutions</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Chun-Ting Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19622">2604.19622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00125.html">Roadmap on Advancements of the FHI-aims Software Package</a></div></td>
-<td>Joseph W. Abbott et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00125">2505.00125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07063.html">Magnetic anisotropy and intermediate valence in CeCo$_5$ ferromagnet</a></div></td>
-<td>Alexander B. Shick et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07063">2511.07063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16126.html">Wireless Digital Twin Calibration: Refining DFT-Domain Channel Information</a></div></td>
-<td>Hao Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16126">2603.16126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17925.html">State-Averaged Quantum Algorithms for Multiconfigurational Surface Chemistry: A Benchmark on Rh@TiO2(110)</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
-<td>Ernst Dennis Lægteskov Binau Larsson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17925">2604.17925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18189.html">Density Profiles and Direct Correlation Functions from Density Functional Theory in Binary Hard-Sphere Crystals: Substitutional Solid and Interstitial Solid Solution</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Alessandro Simon et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18189">2604.18189</a></td>
 </tr>
 </tbody></table>

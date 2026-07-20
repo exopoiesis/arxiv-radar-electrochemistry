@@ -40,6 +40,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.15120">2607.15120</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="ion-transport-7d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="solvation-thermodynamics-7d.html">solvation-thermodynamics</a></div></td>
 <td>Mohamed Houssein Mohamed et al.</td>
@@ -80,11 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div></td>
 <td>Daniel A. Rehn et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="explicit-solvation-7d.html">explicit-solvation</a></div></td>
-<td>Jan Eckwert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
 </tr>
 </tbody></table>

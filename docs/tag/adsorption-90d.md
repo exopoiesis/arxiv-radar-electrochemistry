@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>adsorption — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <strong>90d</strong> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14972.html">Synergistic Effects of Phosphorus Doping and Oxygen Vacancies on Formaldehyde Oxidation over CeO$_2$(111): A First Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Tarek Ayadi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14972">2607.14972</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>
@@ -266,17 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17536.html">Ice as a Photochemical Shield: Adsorption Energetics and Spectroscopic Modulation of Interstellar Thiocyanates HCSCN and HCSCCH in TMC-1</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Saptarshi G. Dastider et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17536">2604.17536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17925.html">State-Averaged Quantum Algorithms for Multiconfigurational Surface Chemistry: A Benchmark on Rh@TiO2(110)</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Ernst Dennis Lægteskov Binau Larsson et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17925">2604.17925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18417.html">Plasmonic Photocatalysis Enables Selective Oxidative Coupling of Methane with Nitrous Oxide under Ambient Conditions</a></div></td>
-<td>Serin Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18417">2604.18417</a></td>
 </tr>
 </tbody></table>

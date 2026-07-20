@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>proton-transport — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="proton-transport-7d.html">7d</a> <a href="proton-transport-30d.html">30d</a> <strong>90d</strong> <a href="proton-transport-360d.html">360d</a> <a href="proton-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21005.html">Chaos Gated Tunneling Drives Molecular Reactivity in Astrophysical Environments</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
 <td>Saptarshi G. Dastider et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21005">2604.21005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13223.html">Geometry, Energy and Sensitivity in Stochastic Proton Dynamics</a></div></td>
-<td>Veronika Chronholm et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13223">2509.13223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18703.html">SAETASS: Solver for Astroparticle Equation of Transport Analysis in Spherical Symmetry</a></div></td>
-<td>José María García-Morillo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18703">2604.18703</a></td>
 </tr>
 </tbody></table>

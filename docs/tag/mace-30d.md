@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mace — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <strong>30d</strong> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24922.html">Constraint-Aware Quantum Optimization of Defect Configurations in Doped ZrO2: XY-Mixer QAOA and Grover Adaptive Search</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Huajing Song</td>
 <td><a href="http://arxiv.org/abs/2606.24922">2606.24922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21311.html">Property-Specific Molecular Representations via Feature-Space Transfer Compression</a></div></td>
-<td>Ali Banjafar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21311">2606.21311</a></td>
 </tr>
 </tbody></table>

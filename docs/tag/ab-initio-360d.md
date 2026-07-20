@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.15110">2607.15110</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-transport-360d.html">ion-transport</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="proton-diffusion-360d.html">proton-diffusion</a> · <a href="proton-transport-360d.html">proton-transport</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Hang Ma et al.</td>
@@ -2882,11 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19670.html">Making atomistic materials calculations accessible with the AiiDAlab Quantum ESPRESSO app</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Xing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19670">2507.19670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13057.html">Dimensional crossover and emergence of novel phases in puckered PdSe$_2$ under pressure</a></div><div class="paper-tags"><a href="marcasite-360d.html">marcasite</a> · <a href="pyrite-360d.html">pyrite</a></div></td>
-<td>Tanima Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.13057">2501.13057</a></td>
 </tr>
 </tbody></table>

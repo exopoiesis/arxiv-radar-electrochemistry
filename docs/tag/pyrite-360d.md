@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>pyrite — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="pyrite-7d.html">7d</a> <a href="pyrite-30d.html">30d</a> <a href="pyrite-90d.html">90d</a> <strong>360d</strong> <a href="pyrite-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13119.html">Melting phase relation of seifertite and pyrite-type SiO2 determined by machine learning potentials</a></div></td>
 <td>Doyoon Park et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13119">2510.13119</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13057.html">Dimensional crossover and emergence of novel phases in puckered PdSe$_2$ under pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="marcasite-360d.html">marcasite</a></div></td>
-<td>Tanima Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2501.13057">2501.13057</a></td>
 </tr>
 </tbody></table>

@@ -2367,5 +2367,86 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-07-16"
+ },
+ "2607.15417": {
+  "abstract": "The birth of a new phase is usually described thermodynamically, but in the gas phase it begins as chemistry. Here, we show that gas-phase nucleation can be described as a termolecular reaction network controlled primarily by long-range intermolecular forces. In single-component mixtures, dimer formation emerges as a direct termolecular process, whereas in binary mixtures a chaperon mechanism can enhance nucleation, with the second component acting as a catalyst for cluster formation. By incorporating cluster evaporation, the same framework can be extended beyond the collision limit, providing a molecular route to nucleation in regimes where larger critical clusters become relevant. We test the theory against unary and binary nucleation of water, toluene, and butane, obtaining agreement in absolute rates within one order of magnitude across the explored temperature and density ranges. These results identify long-range intermolecular forces as molecular drivers of gas-phase nucleation and establish elementary termolecular chemistry as a predictive route to cluster formation.",
+  "authors": [
+   "Yu Wang",
+   "Arnab Choudhury",
+   "Felix Graber",
+   "Ruth Signorell",
+   "Jesús Pérez-Ríos"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "25 pages, 10 figures",
+  "first_author": "Yu Wang",
+  "pdf_url": "http://arxiv.org/pdf/2607.15417",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-07-16",
+  "tags": [
+   "reaction-networks"
+  ],
+  "title": "A termolecular reaction theory for gas-phase nucleation based on long-range intermolecular forces",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15514": {
+  "abstract": "The rapid advancement of sodium-ion batteries (SIBs) demands robust anode materials capable of delivering high specific capacities while maintaining rapid ion transport kinetics. In this work, we employ first-principles density functional theory (DFT) to systematically evaluate the two-dimensional BX3 (X = As, P) monolayers as high-performance anode candidates for SIBs. Our calculations reveal that both the BAs3 and BP3 frameworks exhibit excellent mechanical and dynamical stability alongside an intrinsic metallic character. These materials demonstrate a strong thermodynamic affinity for Na adsorption, driven by a synergistic ionic and covalent bonding mechanism that highly favors the H3 hollow site. Furthermore, they facilitate exceptionally fast charge and discharge kinetics, characterized by ultralow optimal Na-ion migration barriers of 0.19 eV and 0.26 eV for BAs3 and BP3, respectively. Crucially, projected density of states (PDOS) analyses confirm that both systems preserve their robust metallic conductivity even at their maximum theoretical sodiation limits (Na120B8X24), ensuring continuous and efficient electron transport throughout the electrochemical cycle. We predict low, stable average open-circuit voltages of 0.15 V for BAs3 and 0.18 V for BP3, alongside ultrahigh theoretical specific capacities of 1365 mAh g-1 and 3875 mAh g-1, respectively, which significantly outperform contemporary 2D SIB anodes. These compelling theoretical findings establish the BX3 monolayers as outstanding, structurally resilient candidates for next-generation, high-energy-density energy storage systems.",
+  "authors": [
+   "Jakkapat Seeyangnok",
+   "Joongjai Panpranot",
+   "Udomsilp Pinsook"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 6 Figures",
+  "first_author": "Jakkapat Seeyangnok",
+  "pdf_url": "http://arxiv.org/pdf/2607.15514",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-16",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "density-functional-theory",
+   "ion-transport"
+  ],
+  "title": "Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.16167": {
+  "abstract": "Corrosion of Ni-Cr structural alloys in molten fluoride salts is a persistent material degradation problem, yet the atomistic role of grain boundaries in this process remains poorly understood. Here we use reactive molecular dynamics to investigate corrosion of NiCr alloys in molten FLiNaK across four representative grain boundaries ($\\Sigma3(111)$, $\\Sigma11(113)$, $\\Sigma5(012)$, and $\\Sigma5(013)$) and corresponding bulk surfaces. Surface crystallography controls the initial dissolution stage, while grain boundary character governs the spatial localization and longer-time evolution of corrosion. We further identify a corrosion-driven grain boundary migration mechanism in which fluorine localization, preferential chromium dissolution, and vacancy-mediated mobility together drive interfacial motion away from the dealloyed region. The coherent $\\Sigma3(111)$ boundary suppresses these processes, indicating low-energy special boundaries as targets for grain boundary engineering of corrosion-resistant Ni-Cr alloys.",
+  "authors": [
+   "Sadia Khan",
+   "Hamdy Arkoub",
+   "Miaomiao Jin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "22 pages, 6 figures",
+  "first_author": "Sadia Khan",
+  "pdf_url": "http://arxiv.org/pdf/2607.16167",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-17",
+  "tags": [
+   "corrosion",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-17"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>reaction-networks — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <strong>90d</strong> <a href="reaction-networks-360d.html">360d</a> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15417.html">A termolecular reaction theory for gas-phase nucleation based on long-range intermolecular forces</a></div></td>
+<td>Yu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15417">2607.15417</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="co2-reduction-90d.html">co2-reduction</a></div></td>
