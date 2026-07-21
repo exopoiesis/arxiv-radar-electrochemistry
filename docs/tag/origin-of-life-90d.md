@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16325.html">Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
 <td>Truong Xuan Khanh</td>
 <td><a href="http://arxiv.org/abs/2605.16325">2605.16325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19842.html">Energy gradients as potential drivers of pre-cellular chemical organization</a></div><div class="paper-tags"><a href="hydrothermal-vents-90d.html">hydrothermal-vents</a></div></td>
-<td>Arturo Tozzi</td>
-<td><a href="http://arxiv.org/abs/2604.19842">2604.19842</a></td>
 </tr>
 </tbody></table>

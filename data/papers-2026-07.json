@@ -2448,5 +2448,300 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-07-17"
+ },
+ "2607.16483": {
+  "abstract": "Bond reconstruction in vacancy-related structures affects their formation energies, symmetries, and electronic and optical properties. Using density functional theory, we investigate bond reconstruction mechanisms of monovacancies and vacancy aggregates in monolayer silicon carbide. Multiple bond descriptors reveal that isolated monovacancies undergo both in-plane reconstruction and out-of-plane distortion, which together shape their stability and electronic structure. For compact vacancy aggregates, we show that bond reconstruction acts as a key stabilization mechanism. However, in carbon monovacancy, reconstruction suppresses optical activity. In contrast, a highly stable aggregate composed of three carbon vacancies surrounding a silicon vacancy emerges as a promising infrared color-center candidate, combining a triplet ground state with a favorable Debye-Waller factor of the emission. These results highlight the role of bond reconstruction in defining the quantum properties of vacancy defects in two-dimensional silicon carbide.",
+  "authors": [
+   "Péter Udvarhelyi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "quant-ph"
+  ],
+  "comment": "10 pages, 7 figures, 2 tables",
+  "first_author": "Péter Udvarhelyi",
+  "pdf_url": "http://arxiv.org/pdf/2607.16483",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-17",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Bond reconstruction and vacancy clustering in monolayer silicon carbide from first principles",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-17"
+ },
+ "2607.16589": {
+  "abstract": "Despite the growing interest in two-dimensional (2D) MoSO systems, existing studies have exclusively focused on conventional Janus structures. In this work, we perform high-throughput first-principles calculations to explore novel stable 2D MoSO monolayers. Combined with random sampling strategy, graph theory and group theory, we successfully screen out three novel non-Janus 2D MoSO monolayers from 1325 candidate structures, namely Reversed 2H-MoSO, Hybrid 2H-MoSO, and Hybrid 1T'-MoSO. Compared with Janus MoSO monolayers, the non-Janus MoSO counterparts possess lower binding energies, varying from -4.38 to -4.51 eV/atom. A systematic combination of dynamic, thermodynamic, and mechanical stability analyses corroborates their excellent structural robustness. Ab initio molecular dynamics (AIMD) simulations confirm their superior thermal resistance, with the structures remaining stable at temperatures beyond 2000 K. Interestingly, unlike the semiconducting Janus MoSO, the Hybrid 1T'-MoSO monolayer exhibits distinct metallic characteristics. Furthermore, we found that strain and curvature can enable controlled phase transitions of MoSO among semiconducting, semimetallic, and metallic phases. More importantly, the Hybrid 1T'-MoSO exhibits favorable HER activity with a Gibbs free energy of -0.002 eV, rendering it a promising candidate for hydrogen evolution catalysis. This work not only expands the family of 2D MoSO materials but also provides a reliable strategy for discovering stable functional 2D materials via high-throughput computation.",
+  "authors": [
+   "Zhijing Huang",
+   "Tingting Zeng",
+   "Lin Zhang",
+   "Zhibin Gao",
+   "Longyuzhi Xu",
+   "Li Yang",
+   "Shuming Zeng",
+   "Zonglin Gu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhijing Huang",
+  "pdf_url": "http://arxiv.org/pdf/2607.16589",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-18",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "hydrogen-evolution",
+   "molecular-dynamics",
+   "phase-transitions"
+  ],
+  "title": "Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-18"
+ },
+ "2607.16883": {
+  "abstract": "Magmatic anhydrite has long been regarded as diagnostic of oxidized intermediate-felsic magmas in porphyry Cu deposits. Here we report the world first occurrence of mantle-derived magmatic anhydrite in ultramafic rock from a magmatic platinum group elements sulfide deposit. The formation age of the clinopyroxenite and hornblnedite hosting this anhydrite is 408.8 Ma, shortly after the Palaeozoic Oxygenation Event (POE). The anhydrite coexists igneous carbonate mineral and systematics Ca-O-C-Fe-S isotopes indicate oxidation of the mantle source by recycled oxidized surface-derived carbonates due to POE. After the POE, the more oxidized supra-subduction mantle is coupled with the emergence of magmatic sulfide deposits in orogenic belt during Late Paleozoic (410-270 Ma) and the rapidly increased frequency of porphyry Cu deposits worldwide. Our results further suggest that high-Mg basaltic magma, typically considered to be parent magma of magmatic sulfide deposits in orogenic belt, can evolve into PGE-enriched porphyry Cu deposit systems. This requires sufficiently high oxygen fugacity in magma after POE to retain sulfur predominantly as sulfate and thereby suppress sulfide saturation after olivine differentiation. Our findings link atmospheric oxygenation to deep Earth redox evolution and suggest that secular changes in Earth's redox state fundamentally influenced the evolution of key strategic metal sulfide deposits.",
+  "authors": [
+   "Yuegao Liu"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuegao Liu",
+  "pdf_url": "http://arxiv.org/pdf/2607.16883",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-07-18",
+  "tags": [
+   "transition-metal-sulfides"
+  ],
+  "title": "Mantle-derived magmatic anhydrite in ultramafic rocks reveals deep mantle oxidation and mega-mineralization after Palaeozoic Oxygenation Event",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks",
+   "Sulfidation, Phase Stability, and Corrosion",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-07-18"
+ },
+ "2607.17129": {
+  "abstract": "Accurate and efficient modeling of magnetic potential energy surfaces remains challenging because spin-polarized first-principles calculations for diverse non-collinear spin-lattice configurations are computationally demanding. Here we introduce the Spin Tensor Equivariant Potential (STEP), a magnetic machine-learning interatomic potential that treats vector magnetic moments as continuous geometric degrees of freedom and embeds them in an equivariant representation. By coupling the central spin representation to its local spin-lattice environment through a Center-Environment Tensor Product, STEP introduces a physics-informed bias while preserving translational invariance and $\\mathrm{SO}(3)$ equivariance and supporting feature-level time-reversal symmetrization. Learning-curve analysis on monolayer CrI$_3$ shows that STEP achieves pronounced data efficiency, with higher-order tensor channels and iterative center-environment couplings leading to steep learning curves for energy, force, and magnetic force errors. On public FeAl, CrN, and Fe benchmarks, STEP achieves competitive or improved accuracy compared with recent magnetic machine-learning potentials. Using a compact but representative CrI$_3$ dataset, STEP reproduces phonon dispersions and magnon spectra with high fidelity, capturing subtle anisotropic magnetic interactions. For Fe$_2$Mo$_3$O$_8$, STEP further provides a quantitative description of magnon--phonon hybridization and reproduces its characteristic magnon polaron dispersion. Finally, spin dynamics simulations driven by STEP yield Curie temperatures for monolayer CrI$_3$ and bcc Fe in good agreement with experiments. These results establish STEP as a physically informed, data-efficient, and scalable framework for modeling spin-lattice coupling, magnetic excitations, and finite-temperature magnetic behavior.",
+  "authors": [
+   "Yuanqing Gao",
+   "Wen-Hao Luo",
+   "Lei Zhang",
+   "Kun Cao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yuanqing Gao",
+  "pdf_url": "http://arxiv.org/pdf/2607.17129",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-19",
+  "tags": [
+   "ab-initio",
+   "mlip",
+   "reaction-networks"
+  ],
+  "title": "STEP: Spin Tensor Equivariant Potential for Data-Efficient Learning of Magnetic Potential Energy Surfaces",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-19"
+ },
+ "2607.17330": {
+  "abstract": "This study examines phonon-mediated heat transfer across Si/SiC and SiC/diamond interfaces using non-equilibrium molecular dynamics simulations, emphasizing the influence of SiC polytypes and amorphous interlayers. For sharp interfaces, 4H-SiC exhibits considerably higher interfacial thermal conductance (ITC) than 3C-SiC, due to its broader active phonon spectrum and superior spectral matching with Si. While amorphous layers generally reduce ITC, a key observation is that an ultrathin 0.5-nm amorphous SiC (aSiC) layer can enhance heat transport in the Si/3C-SiC system: the ITC increases from 613 MW/m^2-K (sharp) to 716 MW/m^2-K, demonstrating a phonon-bridge effect. VDOS (vibrational density of states) analysis confirms that optimized ultrathin aSiC layers improve vibrational overlap and open additional phonon-transport channels. In contrast, thicker or silicon-rich amorphous layers significantly suppress ITC through enhanced inelastic phonon scattering. For SiC/diamond interfaces, any amorphous layer, particularly aSi, causes severe ITC degradation, highlighting the need for sharp, defect-free bonding to exploit diamond's high thermal conductivity.",
+  "authors": [
+   "Pedram Mirchi",
+   "Shirin Sabokdast",
+   "Ali Rajabpour"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "40 pages, 11 figures",
+  "first_author": "Pedram Mirchi",
+  "pdf_url": "http://arxiv.org/pdf/2607.17330",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-19",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Interfacial thermal transport in Si/SiC and SiC/diamond heterostructures: effects of amorphous interlayers and SiC polytypes",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-19"
+ },
+ "2607.17463": {
+  "abstract": "This study combines high-throughput DFT calculations with machine learning techniques to uncover the key descriptors governing the nitrogen reduction reaction (NRR) in intermetallic compounds (IMCs). A dataset of 47 bimetallic IMCs was constructed, and the adsorption energies of key intermediates (N2, N2H, and NH3) were systematically evaluated across all accessible surface sites, yielding approximately 1,200 data points. By incorporating intrinsic material properties along with electronic descriptors including s-, p- and d-band centers and fillings, as well as Bader charges of atoms neighboring the adsorbate, predictive ML models were developed with mean absolute errors of 0.26 eV for N2, 0.39 eV for N2H, and 0.17 eV for NH3 adsorption. Importantly, accurate predictions are obtained with only 20 key features, enabling the use of simple and computationally efficient ML models. SHAP analysis indicates that p- and s-band characteristics play a more prominent role in determining adsorption strength than the traditionally used d-band center, particularly for N2 and N2H intermediates. Beyond their established importance in systems containing p-block elements or nearly filled d-band metals, s- and p-orbitals are also found to contribute significantly to transition-metal alloys activity such as Fe-Co, driven by adsorption-induced sp-d hybridization. By challenging the d-band-centric paradigm and identifying s- and p-band descriptors as critical yet overlooked contributors, this work redefines the electronic descriptor space for intermetallic NRR catalysts and lays the groundwork for DFT-ML-guided discovery of non-noble materials for sustainable ammonia synthesis.",
+  "authors": [
+   "Parastoo Agharezaei",
+   "Kulbir Kaur Ghuman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "main text: 38 pages, 9 figures Supplementary information: 12 pages, 1 figure, 6 tables",
+  "first_author": "Parastoo Agharezaei",
+  "pdf_url": "http://arxiv.org/pdf/2607.17463",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Going Beyond the d-band Center to Design Intermetallic Catalysts for Nitrogen Reduction: A High-Throughput DFT and Machine Learning Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.17832": {
+  "abstract": "Electrochemical impedance spectroscopy (EIS) is a valuable tool for non-invasive battery characterisation as it provides a compact data representation of physical processes over a wide range of time scales. Commonly, sinusoids at different frequencies are injected sequentially (single-sines). Alternatively, a multisine excitation (a sum of sines) is advantageous for reducing experiment time and allowing impedance to be measured during operational conditions (e.g.\\ charging, discharging, relaxation, and during temperature changes). In this work, we demonstrate high-fidelity multisine EIS measurements on Li-ion cells over a wide frequency range (20 mHz to 1 kHz) taken with a commercial potentiostat, and compare these to single-sine EIS, discussing the advantages of both techniques and how to verify the conditions of linearity and stationarity. We also measure broadband multisine impedance at different operating conditions (during charging/discharging, relaxation, and temperature changes), showing how this tool gives new insights into battery dynamics, material properties, charge transfer processes, and thermal performance.",
+  "authors": [
+   "Noël Hallemans",
+   "Heiko Seel-Mayer",
+   "Peter Keil",
+   "Stephen R. Duncan",
+   "David A. Howey"
+  ],
+  "categories": [
+   "eess.SY",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Noël Hallemans",
+  "pdf_url": "http://arxiv.org/pdf/2607.17832",
+  "primary_category": "eess.SY",
+  "published": "2026-07-20",
+  "tags": [
+   "impedance-spectroscopy"
+  ],
+  "title": "Multisine electrochemical impedance spectroscopy for Li-ion battery characterisation",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18071": {
+  "abstract": "Hubbard-corrected density-functional theory (DFT+$U$) is a popular tool for first-principles modeling of materials with localized $d$ or $f$ electrons, but its on-site corrections tend to over-localize charge and break covalent bonds. Inter-site $+V$ corrections were introduced to counter this and are now widely used, but a formal justification has been lacking. Here we show that -- to first order in $V/U$ -- inter-site corrections are exactly equivalent to on-site DFT+$U$ evaluated on a density-dependent redefinition of the Hubbard projectors, hybridized with those of neighboring sites, providing insight into the explicit mechanism by which $V$ affects covalency. If the projectors are held frozen, as is common practice, the equivalence partially breaks down. Beyond reinterpreting the formalism, these results sharpen the questions of how $V$ should be computed and what the Hubbard subspaces fundamentally are.",
+  "authors": [
+   "Edward Linscott",
+   "Alberto Carta",
+   "Nicola Marzari"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "8 pages with an additional 6 pages of supplemental material",
+  "first_author": "Edward Linscott",
+  "pdf_url": "http://arxiv.org/pdf/2607.18071",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18129": {
+  "abstract": "The mechanical reliability of nitrogen-doped graphene is often attributed to its nitrogen content, yet nitrogen occurs in chemically distinct configurations whose individual mechanical roles, and whose interactions with other defects, remain unresolved. Here, molecular dynamics simulations of uniaxial tension are used to separate the contributions of nitrogen chemistry, missing atoms, and defect arrangement to the strength and fracture of graphene. Three size-matched defects, a graphitic-nitrogen cluster, a void, and a pyridinic-nitrogen cluster, are compared so that two controlled contrasts isolate the effects of edge chemistry and of the vacancy independently. The graphitic cluster leaves the mechanical properties essentially unchanged (a strength reduction of <1 %), whereas the void degrades the ultimate strength by ~23 % and the pyridinic cluster, which combines the same vacancy with edge nitrogen, is the most damaging (~30 %), failing abruptly from its nitrogen-decorated rim rather than through the damage-tolerant process of the bare void. The mechanical impact of a nitrogen cluster is therefore governed by whether it carries vacancies, not by nitrogen itself. When a nitrogen cluster and a void coexist, their interaction is controlled by orientation relative to the load: in-line defects interact negligibly and fail at the more severe member, whereas side-by-side defects couple through overlapping stress fields and weaken the sheet progressively as they approach, an interaction that persists to separations of ~80 Å. These results establish that the mechanical integrity of nitrogen-modified graphene is determined by the configuration of defects, the bonding environment of nitrogen, and the arrangement of coexisting defects relative to the load, rather than by nitrogen content or defect density alone, thereby providing a basis for defect-tolerant design.",
+  "authors": [
+   "Indranil Rudra",
+   "Jahid Emon",
+   "A. K. M. Monjur Morshed"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Indranil Rudra",
+  "pdf_url": "http://arxiv.org/pdf/2607.18129",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Defect configuration, not nitrogen content, governs the mechanical integrity of nitrogen-doped graphene: a molecular dynamics study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18182": {
+  "abstract": "Machine learning potential-driven molecular dynamics simulations (ML-MD) were employed to provide atomistic insights into the dehydrogenation kinetics of pristine and doped MgH2. Through systematic investigation of distinct surface orientations, the MgH2 (100) surface was identified as the most active low-index surface for hydrogen release. For pristine MgH2, our simulations revealed a novel H2 formation mechanism characterized by H2 generation in the subsurface region followed by diffusion to the surface for desorption, highlighting the critical role of subsurface processes beyond conventional surface-driven pathways. Comprehensive screening of 22 doping elements identified Ni as the most effective dopant. Among several descriptors, machine learning analysis identified the time-coupled Miedema electron density as the critical descriptor, underscoring the role of electronic properties. Consequently, a volcano-shaped relationship was uncovered between the intrinsic Miedema electron density ( nws ) and total hydrogen release (optimal window: 4.0 < nws < 5.4x10-2 e/bohr3). Dopants within this range serve a dual function: acting as thermodynamic sinks for H attraction while maintaining a balanced interaction strength to facilitate H-H coupling and H2 release. This atomistic-level validation provides strong theoretical support for the experimentally observed \"hydrogen pump\" effect of catalytic phases. The present study demonstrates the strong capability of ML- MD in navigating through complex catalytic mechanisms and establishing quantitative property-activity relationships, providing a robust framework for rational design of high-performance catalysts for MgH2 and other hydrogen storage materials.",
+  "authors": [
+   "Bo Han",
+   "Jianchuan Wang",
+   "Rui Zhang",
+   "Martin Matas",
+   "Elias Vigl",
+   "Jing Tang",
+   "Yong Du",
+   "Christian Weiss",
+   "David Holec"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Bo Han",
+  "pdf_url": "http://arxiv.org/pdf/2607.18182",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH$_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18214": {
+  "abstract": "Lithium adsorption and intercalation can significantly modify the low-energy electronic properties of graphene-based materials, making their characterization relevant for understanding Li-ion transport and storage in graphitic electrodes. In this work, we investigate the electronic structure of a Li ion adsorbed on monolayer graphene (MLG) and intercalated within AB-stacked bilayer graphene (BLG). To this end, we develop a semi-empirical tight-binding model that incorporates Li-position dependence. Its parameters are determined by fitting to density-functional-theory calculations for different configurations, heights, and supercell sizes. The obtained model accurately reproduces the electronic bands near the Fermi level for both MLG and BLG and provides a transparent interpretation of the impurity-induced modifications in terms of symmetry breakings, intervalley mixing, and band-gap openings. We find that the perturbation introduced by the Li ion is strongly localized and that its effect decreases with increasing supercell size. The fitted parameters further reveal systematic differences between MLG and BLG in the spatial profile of the impurity potential. The obtained results provide an efficient framework for studying dilute Li impurities and constitute a useful starting point for future investigations of Li diffusion and impurity-induced transport phenomena in graphene-based materials.",
+  "authors": [
+   "Hernan Aguirre",
+   "Hernan L. Calvo",
+   "Eduardo M. Perassi"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Hernan Aguirre",
+  "pdf_url": "http://arxiv.org/pdf/2607.18214",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-07-20",
+  "tags": [
+   "adsorption",
+   "ion-transport"
+  ],
+  "title": "Position-dependent tight-binding model for Li impurities in monolayer and bilayer graphene",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-20"
  }
 }

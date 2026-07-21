@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17832.html">Multisine electrochemical impedance spectroscopy for Li-ion battery characterisation</a></div></td>
+<td>Noël Hallemans et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17832">2607.17832</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12719.html">Influence of compaction pressure on the impedance of Gadolinium Doped Ceria electrolytes for IT-SOFCs</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
 <td>Renato A. N. de Oliveira et al.</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22137.html">Earable Platform with Integrated Simultaneous EEG Sensing and Auditory Stimulation</a></div></td>
 <td>Min Suk Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22137">2604.22137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19847.html">Organosilane-functionalized hydrothermal-derived coatings on titanium alloys for hydrophobization and corrosion protection</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a></div></td>
-<td>S. Rahimipour et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19847">2604.19847</a></td>
 </tr>
 </tbody></table>
