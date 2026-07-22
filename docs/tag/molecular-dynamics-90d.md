@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18750.html">Alchemical thermodynamic integration for ab initio free-energy calculations in solutions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
+<td>Liangrui Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18750">2607.18750</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18129.html">Defect configuration, not nitrogen content, governs the mechanical integrity of nitrogen-doped graphene: a molecular dynamics study</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
@@ -860,29 +866,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21773.html">Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour</a></div><div class="paper-tags"><a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
 <td>Dustin Vivod et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21773">2604.21773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25629.html">A Transferable Model of Molecular Exchange-Repulsion Interaction from Anisotropic Valence Density Overlap</a></div></td>
-<td>Dahvyd Wing et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25629">2510.25629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06076.html">Temperature dependence of electronic conductivity from ab initio thermal simulation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
-<td>Ridwan Hussein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06076">2602.06076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20277.html">Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moiré Superlattices Revealed by Machine Learning</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20277">2604.20277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20355.html">Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Luka Benić et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20355">2604.20355</a></td>
 </tr>
 </tbody></table>

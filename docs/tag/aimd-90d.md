@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18750.html">Alchemical thermodynamic integration for ab initio free-energy calculations in solutions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Liangrui Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18750">2607.18750</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Zhijing Huang et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11891.html">Transition Metal Dichalcogenide MoS${}_2$: oxygen and fluorine functionalization for selective plasma processing</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yury Polyachenko et al.</td>
 <td><a href="http://arxiv.org/abs/2601.11891">2601.11891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06076.html">Temperature dependence of electronic conductivity from ab initio thermal simulation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ridwan Hussein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06076">2602.06076</a></td>
 </tr>
 </tbody></table>

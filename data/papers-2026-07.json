@@ -2743,5 +2743,177 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-07-20"
+ },
+ "2607.18524": {
+  "abstract": "The construction of machine-learned interatomic potentials (MLIPs) is often limited by the cost of generating large density-functional-theory (DFT) training datasets. For systematically generated structure pools such as ASSYST, a central practical question is how many configurations must be labeled to achieve reliable accuracy. Here we assess geometry-based, label-free subset selection for training linear Atomic Cluster Expansion (ACE) potentials. Using statistical leverage scores and CUR-type sampling, we compare leverage-guided selection against random, energy-based, and force-based baselines under controlled iterative protocols. Elemental Al provides the primary benchmark, with Cu and Al-Cu alloys used for transfer validation. Leverage-guided subsets recover plateau-level energy and force accuracy using substantially smaller labeled fractions (approximately 30-40%) than random sampling, corresponding to an effective 2-3x reduction in DFT labeling for the systems studied. In alloy tests, defect energetics remain comparable across strategies once sufficient chemical diversity is included, while leverage selection maintains competitive accuracy at reduced training size.   These results demonstrate that descriptor-space-guided, label-free subsampling can significantly reduce DFT workload for linear ACE models trained on ASSYST structure pools without degrading defect-level fidelity.",
+  "authors": [
+   "Aynour Khosravi",
+   "Marvin Poul",
+   "Jörg Neugebauer",
+   "Chad Sinclair"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 6 figures",
+  "first_author": "Aynour Khosravi",
+  "pdf_url": "http://arxiv.org/pdf/2607.18524",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Data-Efficient Training of Linear ACE Potentials through Leverage-Guided Subset Selection of ASSYST Structure Pools",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18591": {
+  "abstract": "In recent years, interest in single-atom catalysts supported on carbon-based structures has grown considerably due to their high catalytic activity and efficient uses of metal atoms. However, the design and characterization of these materials through first-principles calculations are computationally expensive, limiting the exploration of a large number of possible configurations. Here, we developed a framework based on graph neural networks (GNNs) to predict the adsorption energies of transition metals on graphene quantum dots (GQDs). The model was trained using data obtained from density functional theory calculations and achieved an $R^2$ of 0.906 with an MAE of 0.101 eV, while reducing computational cost by roughly six orders of magnitude relative to DFT. This methodology provides an efficient tool for the accelerated screening and rational design of new catalysts based on carbon nanostructures.",
+  "authors": [
+   "Lara Goncebat",
+   "Rodrigo Echeveste",
+   "Matías Gerard",
+   "Frederik Tielens",
+   "Gustavo Belletti",
+   "Paola Quaino"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Lara Goncebat",
+  "pdf_url": "http://arxiv.org/pdf/2607.18591",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-20",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-20"
+ },
+ "2607.18594": {
+  "abstract": "Materials with negative thermal expansion (NTE) are essential for applications requiring precise control of thermal expansion. Owing to their exceptional chemical tunability, flexible architectures, and low-energy lattice vibrations, metal-organic frameworks (MOFs) represent a rich platform for exploring NTE. However, uncovering the structural motifs that govern NTE across the enormous MOF design space remains experimentally challenging, and large-scale first-principles phonon calculations are computationally prohibitive. Here, we comprehensively evaluate the factors influencing NTE in MOFs by utilizing a high-throughput workflow based on MACE-MP-MOF0, a machine learning interatomic potential fine-tuned for MOFs with near-ab initio accuracy, to construct PhononMOFdb, a database of phonons, inelastic neutron scattering spectra, bulk moduli, and heat capacities for over 12,000 MOFs. High-throughput screening of this database reveals that highly porous cubic topology frameworks with heavier, lower-valent metal nodes favor strong NTE, while linker functionalization provides a practical handle for tuning NTE magnitude and sign without compromising mechanical stability. Experimental validation via high-resolution temperature-dependent synchrotron powder X-ray diffraction on the Ce-UiO-66 MOF and its brominated variants confirms the design recipe and yields volumetric NTE coefficients surpassing current records. This work establishes a data-driven strategy for engineering NTE in MOFs, showing how machine learning-accelerated discovery and targeted experimental validation together unlock predictive materials design.",
+  "authors": [
+   "Prathami Divakar Kamath",
+   "Francesco Tavani",
+   "Alin Marin Elena",
+   "Théo Jaffrelot Inizan",
+   "Yen-hsu Lin",
+   "Jian Yin",
+   "Wenqian Xu",
+   "Omar M. Yaghi",
+   "Kristin A. Persson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Prathami Divakar Kamath",
+  "pdf_url": "http://arxiv.org/pdf/2607.18594",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-21",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "mlip"
+  ],
+  "title": "Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.18750": {
+  "abstract": "We develop an alchemical thermodynamic integration scheme that couples ab initio force calculators on the fly during Monte Carlo and molecular dynamics simulations. The implementation is validated against existing hybrid-Hamiltonian approaches. The scheme yields ab initio free energies of high-pressure Fe-Ni and ambient Li-Na liquid solutions that agree with previous calculations and reproduce the experimentally observed Li-Na miscibility gap. The code has an efficiency comparable to standard ab initio molecular dynamics. These results establish this scheme as a practical alchemical-integration framework for first-principles free-energy calculations in solutions.",
+  "authors": [
+   "Liangrui Wei",
+   "Feng Zhang",
+   "Renata M. Wentzcovitch",
+   "Kai-Ming Ho",
+   "Yang Sun"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Liangrui Wei",
+  "pdf_url": "http://arxiv.org/pdf/2607.18750",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-21",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Alchemical thermodynamic integration for ab initio free-energy calculations in solutions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.19003": {
+  "abstract": "Mechanoluminescent materials exhibit a broad spectrum of controllable light-emission responses to mechanical stimuli of varying types and magnitudes. Yet progress toward high-performance systems remains constrained by an incomplete and often contradictory mechanistic understanding. Here, density functional theory (DFT) calculations optimized for the quantitative treatment of point defects are used to systematically investigate the interplay between stress type (hydrostatic vs. shear) and active-phase dimensionality (1D vs. 3D), using $SrAl_2O_4:Eu^{2+}, Dy^{3+}$ and $Ba_4Si_6O_{16}:Eu^{2+}, Ho^{3+}$ as representative model systems. Two distinct emission-driving mechanisms are identified: a piezoelectric contribution, and a second, apparently universal, mechanism arising from stress-induced structural reorganization at point defects sites. These results establish a design framework for mechanoluminescent materials in which crystal dimensionality, stress type and stress-sensitive point defects are deliberately matched to tune emission behavior and overall performance.",
+  "authors": [
+   "Alexis Duval",
+   "Xavier Rocquefelte",
+   "Yann Gueguen",
+   "Patrick Houizot",
+   "Tanguy Rouxel"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "27 pages, 8 figures, 2 tables",
+  "first_author": "Alexis Duval",
+  "pdf_url": "http://arxiv.org/pdf/2607.19003",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-21",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Deciphering Mechanoluminescence: How the Nature of Mechanical Stress and Structural Dimensionality Shape Mechanisms and Responses",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.19307": {
+  "abstract": "Electrochemical impedance spectroscopy (EIS) is a powerful tool for probing kinetic and transport processes in electrochemical systems, but its practical use is often limited by the long acquisition time and noise sensitivity of low-frequency measurements. Here, we present a statistical inference-assisted framework that reduces the reliance on low-frequency sampling by increasing the sampling density in cleaner high-frequency regions. Using AutoEIS and Bayesian inference, the augmented high-frequency data are fitted to selected equivalent circuit models (ECMs) to reconstruct the full impedance spectrum and quantify parameter uncertainty. To evaluate reconstruction performance, we introduce the critical frequency (fc), defined as the highest cutoff frequency at which the full EIS response can still be reliably recovered. The results show that additional high-frequency sampling can not only shift fc to higher values but also reduce the total measurement time. The specific improvement depends on the noise level of the EIS data, the number of added data points, and the ECM structure. Overall, this work provides a practical framework for designing fast and efficient EIS data acquisition and offers guidance for applying partial-frequency EIS reconstruction in real electrochemical characterization.",
+  "authors": [
+   "Qiuyu Shi",
+   "Naohiro Fujinuma",
+   "Yonatan Kurniawan",
+   "Runze Zhang",
+   "Ali Jaberi",
+   "Ashley Dale",
+   "Jason Hattrick-Simpers"
+  ],
+  "categories": [
+   "physics.data-an",
+   "physics.chem-ph"
+  ],
+  "comment": "24 pages, 7 figures",
+  "first_author": "Qiuyu Shi",
+  "pdf_url": "http://arxiv.org/pdf/2607.19307",
+  "primary_category": "physics.data-an",
+  "published": "2026-07-21",
+  "tags": [
+   "impedance-spectroscopy"
+  ],
+  "title": "Accelerating Electrochemical Impedance Spectroscopy Measurements by Reducing Reliance on Noisy Low-Frequency Data",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-07-21"
  }
 }
