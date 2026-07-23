@@ -2915,5 +2915,195 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-07-21"
+ },
+ "2607.19488": {
+  "abstract": "Hydrogen Desorption Lithography on Si(100) demonstrates the ability of the Scanning Tunneling Microscope (STM) to create functional atomic-scale structures and devices. The dehydrogenation of adsorbed molecules represents a potential complementary technique that has received little attention. For example, formation of C$_{2}$ could introduce local strain or act as centers for subsequent reactions and would inform positionally controlled mechanosynthesis, an approach with vast potential in surface patterning and functionalization. Here, we studied the electron-induced dehydrogenation of acetylene and ethylene on Si(100) at 4 K using STM. Excitation of acetylene at +3.2 V and above induces configurational switching, including to a new sublayer-bonded geometry previously predicted to be an adsorption precursor, as well as migration and desorption. Excitation also induces dehydrogenation to C$_{2}$. Switching between three observed C$_{2}$ configurations can be induced by excitation at +4.2 V and above. Simulations using density functional theory reproduced the experimental images based on choice of functional, dimer-buckling averaging, and inclusion of diffuse basis functions. In addition, dehydrogenation could be induced using field-emitted electrons on a scale ranging from a single molecule to a radius of >10 nm. These observations highlight the potential of carbon dehydrogenation as an additional tool in Atomically Precise Fabrication (APF).",
+  "authors": [
+   "Oliver MacLean",
+   "Marc Savoie",
+   "Damian G. Allis",
+   "Rafik Addou",
+   "Ryan Groome",
+   "Si Yue Guo",
+   "Aru Joy Hill",
+   "Alex Inayeh",
+   "Hadiya Ma",
+   "Cameron J. Mackie",
+   "Sheena Ou",
+   "Marco Taucer",
+   "Denis A. B. Therien",
+   "Finley Van Barr",
+   "Ryan Yamachika"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.chem-ph"
+  ],
+  "comment": "Manuscript is pages 1-25, 8 Figures. Supplementary Information is pages 24-35, with 15 Figures",
+  "first_author": "Oliver MacLean",
+  "pdf_url": "http://arxiv.org/pdf/2607.19488",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-21",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Electron-Induced Formation of C$_{2}$ on Si(100) from Acetylene and Ethylene",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.19521": {
+  "abstract": "Fluid nanofilms play a fundamental role in nanoscale interfacial thermodynamics, yet their treatment in classical density functional theory (cDFT) remains incomplete. We investigate nanofilm interfacial properties using a cDFT framework built upon the perturbed-chain statistical associating fluid theory (PC-SAFT) for both fluid-fluid and fluid-solid interfacial systems. Comparison with molecular simulations shows that the long-standing numerical discrepancies regarding free-standing nanofilms persist in the PC-SAFT functional predictions, supporting the view that they stem from thermal capillary-wave fluctuations rather than deficiencies of the density functional itself, as such fluctuations are inherently neglected in the mean-field approximation adopted by standard cDFT. Importantly, we establish a thermodynamically consistent framework for interfacial free energy (IFE) calculation, which explicitly incorporates nanofilm thermodynamic contributions and redefines the effective fluid volume by excluding the solid-phase region. The proposed method exhibits excellent consistency with another method based on the relationship between IFE and disjoining pressure for fluid systems, while both fluid-fluid and fluid-solid IFEs differ substantially from those predicted by the conventional method. We find that neglecting nanofilm contributions induces prominent size-dependent variations in the IFE and contact angle of hemicylindrical droplets, which is inconsistent with the extensive literature. Different methods also lead to opposite signs of the line tension for a hemispherical argon nanodroplet on a strongly lyophobic surface. The proposed framework provides a unified molecular-level basis for understanding interfacial processes involving nanofilms, including wetting, nucleation, adsorption, and other phenomena that rely on the accurate evaluation of IFEs.",
+  "authors": [
+   "Yafan Yang",
+   "Zufeng Zuo",
+   "Xingyu Zhao",
+   "Shuyu Sun",
+   "Denvid Lau"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yafan Yang",
+  "pdf_url": "http://arxiv.org/pdf/2607.19521",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-21",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Accounting for Nanofilm Contributions in Interfacial Free Energy Calculations Using Classical Density Functional Theory",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-21"
+ },
+ "2607.19664": {
+  "abstract": "Solid-state lithium-ion batteries (LIBs) are increasingly recognized for their exceptional energy density and safety. However, their widespread adoption is challenged by persistent issues such as thermal and electrochemical instability, dendrite formation, and limited compatibility with high-voltage cathodes. Sulfide-based solid electrolytes (SEs), particularly iodide argyrodites, offer outstanding ionic conductivity and stability; however, their practical application is constrained by the formation of space-charge layers, slow ion transport, and susceptibility to dendrite penetration. To address these challenges, we synthesized a novel Li6.6Si0.6Sb0.4S5I argyrodite electrolyte via ball milling and heat treatment, achieving a remarkable room-temperature ionic conductivity of 9.9 mS cm^-1. The electrolyte was integrated with a LiNbO3-coated LiNi0.7Co0.1Mn0.2O2 cathode to form an all-solid-state battery, which demonstrated an initial discharge capacity of 171.2 mAh g^-1, retained 84.2% of its capacity after 200 cycles at 0.5C, and maintained stable cycling across a broad temperature range from -20 degrees C to 60 degrees C. Our study shows that tailored electrolyte composition and a composite cathode configuration significantly enhance cycling stability and improve interfacial protection. These findings highlight the potential of Si-doped antimony-type iodide argyrodites for next-generation high-performance all-solid-state batteries, offering durable operation under diverse thermal conditions.",
+  "authors": [
+   "Liang Ming",
+   "Qizhiran Sun",
+   "Guanping Xu",
+   "Muqing Su",
+   "Enyan Zhao",
+   "Wenzhe Gu",
+   "Weng-Fu Io",
+   "Kwun Nam Hui",
+   "Chuang Yu",
+   "Hai-Feng Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Liang Ming",
+  "pdf_url": "http://arxiv.org/pdf/2607.19664",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-22",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Synergistic Interface Stability and High Room-Temperature Ionic Conductivity for Wide-Temperature All-Solid-State Batteries Based on Li6+xSixSb1-xS5I Electrolytes",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20017": {
+  "abstract": "Sum frequency generation spectroscopy can be utilized to address the challenge of studying solid-liquid interfaces under ambient pressure and with macroscopic amounts of liquid, while still retrieving molecular level information. By utilizing a non-linear optical process, this method allows to selectively measure vibrations of interfacial species. Within this chapter sum frequency generation spectroscopy is first briefly introduced and then comprehensively evaluated as an investigative tool for solid-liquid interfaces, with mineral-water interfaces as model system. Additionally, it is explained how the actual probing depth of this method depends on both the experimental setup and the properties of the investigated system, such as surface charges.",
+  "authors": [
+   "Moritz Zelenka",
+   "Ellen H. G. Backus"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Moritz Zelenka",
+  "pdf_url": "http://arxiv.org/pdf/2607.20017",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-22",
+  "tags": [],
+  "title": "Investigating aqueous mineral interfaces using sum frequency generation spectroscopy",
+  "topics": [
+   "Mineral Surfaces and Geochemistry"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20032": {
+  "abstract": "Van der Waals heterostructures based on transition metal dichalcogenides, TMDs, provide a versatile platform for tailoring electronic properties through interlayer charge transfer, CT. Precise control of CT is essential because it directly determines the electronic structure and carrier concentration in atomically thin materials. Recently, the concept of a chemical capacitor has been proposed as a route to achieving exceptionally high carrier densities through CT across insulating separator layers. Here, we extend this concept to van der Waals heterostructures by investigating TMD hBN OX, oxidizer, systems using density functional theory, DFT. Following the screening of candidate TMDs and electron acceptors, XeF2 and KrF2 were identified as suitable acceptors exhibiting type III broken gap band alignment with WS2 and WSe2, respectively. Periodic DFT calculations of large supercells reveal CT corresponding to hole concentrations of up to 0.23 h+ and 0.35 h+ per W atom in WS2 hBN XeF2 and WSe2 hBN KrF2 heterostructures, respectively. The resulting charge redistribution demonstrates that noble gas fluorides provide an efficient route for noncontact engineering of carrier density in TMD heterostructures, offering a new strategy for tuning correlated electronic phases in two dimensional materials.",
+  "authors": [
+   "Dawid Ciszewski",
+   "Wojciech Grochala"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "9 pages, 2 Figures, 3 Tables and electronic supplement of 22 pages",
+  "first_author": "Dawid Ciszewski",
+  "pdf_url": "http://arxiv.org/pdf/2607.20032",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-22",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Huge hole injection in tungsten dichalcogenide heterostructures without electric gating: a DFT study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20191": {
+  "abstract": "NOTT is part of the new visitor instrument suite Asgard for the Very Large Telescope Interferometer (VLTI), and the first long-baseline nulling interferometer that will be operational in the southern hemisphere. It is an L'-band (3.5-4$\\,μ$m) instrument optimized for imaging hot exozodiacal dust and young giant planets orbiting around the snowline of nearby main-sequence stars. For planet imaging, the L' band has the advantage of relaxing the requirements on the star-planet contrast to $\\sim 10^{-5}$ while limiting the level of background noise compared with longer wavelengths. Nulling interferometry in the L'-band was made possible by the development of mid-infrared integrated optics with high throughput. NOTT uses a photonic beam combiner made of Gallium Lanthanum Sulfide (GLS), manufactured at Macquarie University and characterized at ambient temperatures at Universität zu Köln. This first characterization showed that the chip could achieve the broadband contrast requirement for exoplanet imaging. Using the test bench of the NOTT instrument assembled at KU Leuven, and its test cryostat, we successfully cooled the chip down to $\\sim 138\\,$K and performed its first characterization at cryogenic temperatures. The results show a raw broadband contrast of $\\sim1\\,\\%$, similar to the previous measurements done at ambient temperatures. The splitting ratios of the different couplers are also shown to remain stable at cryogenic temperatures, with less than $\\sim 2\\,\\%$ uncertainty compared to ambient measurements. These results thus show that the beam-combining properties and splitting ratios are behaving as expected at 138$\\,$K. The current maximum throughput of the chip is estimated at $\\sim37\\,\\%$. Future work will investigate an anti-reflection coating to reduce its Fresnel losses and increase its throughput to $\\sim50\\,\\%$.",
+  "authors": [
+   "G. Garreau",
+   "D. Defrère",
+   "R. Laugier",
+   "P. Chingaipe",
+   "M-A. Martinod",
+   "T. Mattheussen",
+   "K. Missiaen",
+   "J. Morren",
+   "G. Raskin",
+   "M. Salman",
+   "W. Verstraeten",
+   "A. Bigioli",
+   "S. Ertel",
+   "S. Gross",
+   "X. Haubois",
+   "M. Ireland",
+   "A. P. Joó",
+   "S. Kraus",
+   "L. Labadie",
+   "S. Madden",
+   "F. Martinache",
+   "A. Mazzoli",
+   "G. Medgyesi",
+   "A. Sanny",
+   "N. Schuhler",
+   "J. P. Scott",
+   "T. A. Stuber",
+   "B. Vandenbussche"
+  ],
+  "categories": [
+   "astro-ph.IM"
+  ],
+  "comment": "13 pages (incl. 10 figures); Proc. SPIE Astronomical Telescopes + Instrumentation 2026 (Copenhagen; Denmark), Optical and Infrared Interferometry and Imaging X",
+  "first_author": "G. Garreau",
+  "pdf_url": "http://arxiv.org/pdf/2607.20191",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-07-22",
+  "tags": [],
+  "title": "Asgard/NOTT: Cryogenic characterization of the mid-infrared chip",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-07-22"
  }
 }

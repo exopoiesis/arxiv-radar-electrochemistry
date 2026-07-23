@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrocatalysis — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="electrocatalysis-360d.html">360d</a> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24205.html">Duality of Theories for the Electrical Double Layer in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="electric-double-layer-90d.html">electric-double-layer</a></div></td>
 <td>Zachary A. H. Goodwin</td>
 <td><a href="http://arxiv.org/abs/2602.24205">2602.24205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21773.html">Molecular dynamics simulations of Nafion thin films at a platinum catalyst surface: Correlating structure with charging behaviour</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Dustin Vivod et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21773">2604.21773</a></td>
 </tr>
 </tbody></table>
