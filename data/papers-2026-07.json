@@ -3105,5 +3105,201 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-07-22"
+ },
+ "2607.20681": {
+  "abstract": "We present a high-dimensional neural network potential (HDNNP) for the martensitic phase of the NiTi shape-memory alloy trained to density functional theory (DFT) data. A central aspect of this work is the systematic validation of the potential with respect to the underlying DFT reference method for key properties governing structural evolution, including equilibrium crystal structures, elastic constants, generalized-stacking fault energies, and vibrational spectra. The HDNNP accurately describes the relative stability of the B19$^\\prime$ and B33 phases, including subtle energy differences on the order of meV/atom. The predicted stacking-fault energy landscape is strongly anisotropic and reveals a preferential shear pathway, providing atomistic insight into deformation and twinning mechanisms. Finite-temperature molecular dynamics simulations further enable the investigation of unconstrained structural evolution as a function of temperature. Overall, the developed HDNNP provides a robust basis for atomistic simulations of the complex structural and functional behavior of martensitic NiTi systems containing hundreds of thousands of atoms on nanosecond time scales.",
+  "authors": [
+   "Petr Jaroš",
+   "Petr Sedlák",
+   "Petr Šesták",
+   "Miroslav Černý",
+   "Jörg Behler",
+   "Hanuš Seiner"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Manuscript submitted to Materials \\& Design",
+  "first_author": "Petr Jaroš",
+  "pdf_url": "http://arxiv.org/pdf/2607.20681",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-22",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "A high-dimensional neural network potential for finite-temperature phenomena in NiTi martensite",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20728": {
+  "abstract": "We present an efficient plane-wave implementation of analytical nuclear forces for electronic excited states described by the Bethe-Salpeter equation (BSE). The formulation combines density-matrix perturbation theory with a Lagrangian approach, and avoids both explicit empty-state summations and the response calculations for each atomic displacement, required by conventional approaches based on density functional perturbation theory. Together with GPU acceleration, these advances make BSE forces calculations tractable for solid-state systems containing hundreds of atoms. We demonstrate the method on two point defects with distinct dielectric environments: the nitrogen-vacancy center in diamond, where BSE and time-dependent density functional theory (TDDFT) yield consistent excited-state relaxations, and the carbon-dimer defect in two-dimensional hexagonal boron nitride, where the screened electron-hole interaction included in the BSE stabilizes the localized defect excitation and corrects the relaxation pattern predicted by semilocal TDDFT. These results establish a scalable framework for BSE-level studies of excited-state relaxation and vibronic coupling in heterogeneous condensed systems.",
+  "authors": [
+   "Yu Jin",
+   "Victor Wen-zhe Yu",
+   "Marco Govoni",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yu Jin",
+  "pdf_url": "http://arxiv.org/pdf/2607.20728",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-22",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Analytical Forces from the Bethe-Salpeter Equation for Large-Scale Excited-State Relaxation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20788": {
+  "abstract": "Point defects in wide-band-gap semiconductors exhibit optical spectra strongly shaped by electron-phonon coupling, but direct first-principles calculation of the corresponding phonon sidebands is often limited by the coarse vibrational spectrum of the largest defect supercells accessible by ab-initio electronic structure codes. In this work, we present a phonon-interpolation method for Huang-Rhys spectral densities and optical lineshape functions on hypercells created by extending the defect-containing supercells on arbitrarily dense phonon $q$-point grids. The method is based on reconstructing the transition-induced force associated with the optical excitation and using this localized force source to couple the defect transition to a densely sampled vibrational continuum. In this formulation, the local defect physics is obtained from ab initio supercell calculations, while the long-wavelength acoustic modes and the detailed structure of the host phonon spectrum are recovered by diagonalizing interpolated dynamical matrices in large hypercells. We demonstrate the method on the negatively charged nitrogen-vacancy centre in diamond between its ground $^{3}A_{2}$ and excited $^{3}E$ states. The transition-force is shown to be strongly localized around the defect, with converged localization measures obtained in a $4\\times4\\times4$ supercell accessible by density functional theory calculations. We interpolate the electron-phonon coupling on hypercells up to $32\\times32\\times32$ corresponding to approximately 17 million atoms, thereby recovering smooth, continuous Huang-Rhys spectral densities with ultrafine spectral resolution. The dominant coupling band is found near 63~meV; the low-energy acoustic contribution follows the expected linear scaling; and we recover the finer van-Hove-related structures in the optical phonon regime observed in experiments.",
+  "authors": [
+   "Zoltan Santha",
+   "Gergo Thiering"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zoltan Santha",
+  "pdf_url": "http://arxiv.org/pdf/2607.20788",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-22",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "First-principles calculation of electron-phonon spectral functions for defects using phonon interpolation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.20885": {
+  "abstract": "Anion ordering in perovskite oxyhydrides can remain significant even in disordered states, particularly at non-dilute hydrogen concentrations. Nevertheless, hydride substitution poses challenges for accurate simulations based on density functional theory due to configurational complexity and Ti 3$d$ reduction. Here, we develop a cluster expansion (CE) framework for SrTiO$_{3-x}$H$_x$ incorporating HSE06 hybrid-DFT energetics. We first demonstrate that calculated mixing energies and ordering stability are highly sensitive to the choice of DFT+$U$, with maximum variations on the order of 100 meV/anion. We benchmark ordering energetics against HSE06 calculations and identify $U$ = 3.3 eV as an HSE06 proxy, which enables extensive configurational exploration while limiting costly HSE06 calculations to key configurations for efficient learning of ordering energetics. Together, ground-state orderings, correlations between octahedral configurations and structural stability, and MC sampling of CE models all support a strong preference for the O$_4$H$_2$ cis configuration in SrTiO$_{3-x}$H$_x$, in which two hydride ions occupy first-nearest-neighbor anion sites. This cis-type preference was overlooked in previous ATiO$_{3-x}$H$_x$ studies, despite its sizable stabilization of ~200 meV per hydride comparable to reported anion-migration and polaron-formation energies. This study addresses both the previously underexplored sensitivity of CE-based ordering analyses to DFT+$U$ and anion-ordering in perovskite oxyhydrides.",
+  "authors": [
+   "Tzu-chen Liu",
+   "Chris Wolverton"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Tzu-chen Liu",
+  "pdf_url": "http://arxiv.org/pdf/2607.20885",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-23",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Long- and Short-Range Anion Order in SrTiO$_{3-x}$H$_x$ Perovskite Oxyhydrides: DFT+$U$ Sensitivity and HSE06 Cluster Expansion",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.21298": {
+  "abstract": "This work presents a comprehensive investigation of the electronic structure and many-body photoemission effects in metallic platinum using reflection high-energy electron energy-loss spec- troscopy (RHEELS), soft X-ray photoelectron spectroscopy (SXPS), and hard X-ray photoelectron spectroscopy (HAXPES), supported by ab initio calculations. Shallow and deep core state spectra enable the systematic characterisation of intrinsic line-shape asymmetries and satellite structures. Correlation of photoelectron satellites with RHEELS loss features allows the assignment of inter- band transitions, surface and bulk plasmons, plasmonic overtones, and semi-core ionisation losses across the Pt spectrum. Several previously unresolved satellite features and spin-orbit splittings are identified and discussed. Comparison of experimental valence band spectra with orbital-projected densities of states calculated using ab initio density functional theory (DFT) and G0W0 approaches, with and without spin-orbit coupling, demonstrates the critical role of relativistic effects in reproducing the Pt valence electronic structure. Together, these results establish a unified, internally consistent spectroscopic reference for metallic platinum, providing a robust framework for interpreting photoelectron spectra of Pt-containing catalysts, electronic materials, and related 5d transition metal systems.",
+  "authors": [
+   "Prajna Bhatt",
+   "José Julio Gutiérrez Moreno",
+   "Laura E. Ratcliff",
+   "Aysha A. Riaz",
+   "Charlotte. M. L. André",
+   "Ann S. Y. Lu",
+   "Robert G. Palgrave",
+   "Andrei Gloskovskii",
+   "Christoph Schlueter",
+   "Pardeep K. Thakur",
+   "Tien-Lin Lee",
+   "Anna Regoutz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Prajna Bhatt",
+  "pdf_url": "http://arxiv.org/pdf/2607.21298",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-23",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Lifetime effects and satellites in the photoelectron spectrum of platinum metal",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.21301": {
+  "abstract": "Chromium sulfur bromide (CrSBr) is a layered magnetic semiconducting material combining a rich magnetic phase diagram with axis-dependent electronic and optical properties. While defects in CrSBr have been shown to affect magnetic order and excitonic responses, their microscopic nature, atomic structure, and electronic properties are not yet fully understood. In this work, we use scanning tunneling microscopy/spectroscopy (STM/STS) to explore the structure and electronic signatures of two prominent defects in bulk CrSBr. Their structure reflects the symmetries of the underlying lattice, with electronic features near the valence band edge. By comparing experimental data with ab initio simulated STM images, we infer that a common defect corresponds to a b-axis-aligned double sulfur vacancy, in line with findings from a recent growth analysis study. This result advances our understanding of the role of intrinsic defects in shaping the electronic structure of CrSBr.",
+  "authors": [
+   "Jonathan Brunette",
+   "Joost Aretz",
+   "Kiyoung Jo",
+   "Aljoscha Soll",
+   "Zdeněk Sofer",
+   "Malte Rösner",
+   "Nathan Guisinger",
+   "Adina Luican-Mayer"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jonathan Brunette",
+  "pdf_url": "http://arxiv.org/pdf/2607.21301",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-07-23",
+  "tags": [
+   "ab-initio",
+   "vacancies"
+  ],
+  "title": "Visualization of Defect Electronic States in Layered Semiconductor CrSBr",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.21563": {
+  "abstract": "To maximize the value of fault-tolerant quantum computers, it is essential to develop concrete applications beyond well-established domains such as chemistry and condensed-matter physics. Here we construct and compile quantum algorithms to simulate the structure of atomic nuclei -- a topic that has received relatively little attention from the quantum computing community despite its similarities to the electronic structure problem in chemistry -- via effective shell-model Hamiltonians and no-core-shell-model Hamiltonians with three-body interactions derived from chiral effective field theory. Furthermore, we provide quantum resource estimates, in terms of Toffoli gate and qubit counts, for these algorithms, which, to our knowledge, are the first such estimates for fault-tolerant quantum simulation of atomic nuclei. Notably, the estimates for $^{32}$Mg and $^{219}$At shell-model Hamiltonians are comparable to recent estimates of Femoco simulations, a standard benchmark in chemistry. For no-core-shell-model Hamiltonians suitable for light nuclei (up to $^{40}$Ca or so), we find that resource requirements are significantly higher, suggesting that more bespoke strategies are required to make such simulations practicable. Throughout this work, we draw upon the similarities between nuclear and electronic structure problems, while also highlighting challenges that are specific to the former. We hope this work will spur long-term collaborations between the nuclear and quantum computing community with the ultimate goal of realizing useful nuclear simulations on quantum computers.",
+  "authors": [
+   "James Benstead",
+   "Michael Garn",
+   "Neil Gaspar",
+   "Sean Greenaway",
+   "Angus Kan",
+   "Lloyd La Ronde",
+   "Chandan Sarma",
+   "Paul Stevenson"
+  ],
+  "categories": [
+   "quant-ph",
+   "nucl-th"
+  ],
+  "comment": "20 pages, 10 figures, 14 tables",
+  "first_author": "James Benstead",
+  "pdf_url": "http://arxiv.org/pdf/2607.21563",
+  "primary_category": "quant-ph",
+  "published": "2026-07-23",
+  "tags": [],
+  "title": "Fault-tolerant quantum algorithms for simulating atomic nuclei",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-07-23"
  }
 }
