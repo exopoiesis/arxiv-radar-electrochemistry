@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcogenides — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <strong>360d</strong> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21869.html">Multi-Gap superconductivity in HgS under pressure</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Pietro Maria Forcella et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21869">2507.21869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21700.html">Orbital-selective charge transfer drives two-step negative thermal expansion structural transitions in PbTa2Se4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Peng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21700">2507.21700</a></td>
 </tr>
 </tbody></table>

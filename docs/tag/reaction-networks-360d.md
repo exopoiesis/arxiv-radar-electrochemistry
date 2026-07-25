@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-networks — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <a href="reaction-networks-90d.html">90d</a> <strong>360d</strong> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02214.html">Predictive Chemical Kinetic Modeling of Pt-Catalyzed Dry Methane Reforming</a></div><div class="paper-tags"><a href="microkinetics-360d.html">microkinetics</a></div></td>
 <td>Esther Ritov et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02214">2508.02214</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17968.html">Locating Ab Initio Transition States via Approximate Geodesics on Machine Learned Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Diptarka Hait et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17968">2507.17968</a></td>
 </tr>
 </tbody></table>

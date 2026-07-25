@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2894,29 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22736.html">Nanoscale Modulation of Flat Bands via Controllable Charge-Density-Waves Defects in 4Hb-TaS2</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Wooin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22736">2507.22736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23902.html">Hydrogen Storage Potential of Chromium-Functionalized Graphene: A First-Principles Investigation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Pratyasha Tripathy et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23902">2503.23902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17968.html">Locating Ab Initio Transition States via Approximate Geodesics on Machine Learned Potential Energy Surfaces</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Diptarka Hait et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17968">2507.17968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21700.html">Orbital-selective charge transfer drives two-step negative thermal expansion structural transitions in PbTa2Se4</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Peng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21700">2507.21700</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05656.html">Comment on &quot;Mineral-water reactions in Earth&#x27;s mantle: Predictions from Born theory and ab initio molecular dynamics&quot; by Fowler et al. 2024 (Geochim. Cosmochim. Acta 372, 111-123)</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05656">2508.05656</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">226 papers</span>
+  <span class="paper-count">224 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1358,17 +1358,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22689.html">Thermodynamically driven tilt grain boundaries of monolayer crystals using catalytic liquid alloys</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Min-Yeong Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22689">2507.22689</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23902.html">Hydrogen Storage Potential of Chromium-Functionalized Graphene: A First-Principles Investigation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Pratyasha Tripathy et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23902">2503.23902</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21789.html">Investigating CO Adsorption on Cu(111) and Rh(111) Surfaces Using Machine Learning Exchange-Correlation Functionals</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Xinyuan Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21789">2507.21789</a></td>
 </tr>
 </tbody></table>
