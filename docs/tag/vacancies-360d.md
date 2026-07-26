@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,11 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00236.html">Atomic Interface Engineering of Battery Current Collectors via Ion Implantation</a></div><div class="paper-tags"><a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a></div></td>
 <td>Yue Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00236">2508.00236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22736.html">Nanoscale Modulation of Flat Bands via Controllable Charge-Density-Waves Defects in 4Hb-TaS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Wooin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22736">2507.22736</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">567 papers</span>
+  <span class="paper-count">565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3404,17 +3404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23574.html">Unveiling ZIF-8 nucleation mechanisms through molecular simulation: role of temperature, solvent and reactant concentration</a></div></td>
 <td>Sahar Andarzi Gargari et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23574">2507.23574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16835.html">Hop-Decorate: An Automated Atomistic Workflow for Generating Defect Transport Data in Chemically Complex Materials</a></div></td>
-<td>Peter Hatton et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16835">2506.16835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22517.html">Electronic Structure of Bimetallic CoRu Catalysts Modulates SWCNT Nucleation</a></div></td>
-<td>Alister J. Page et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22517">2507.22517</a></td>
 </tr>
 </tbody></table>

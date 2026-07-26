@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,17 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24563.html">Enhancing molecular dynamics with equivariant machine-learned densities</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Mihail Bogojeski et al.</td>
 <td><a href="http://arxiv.org/abs/2604.24563">2604.24563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21842.html">Critical role of phase-dependent properties in modeling photothermal sintering of LiCoO2 cathodes</a></div></td>
-<td>Yang Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21842">2604.21842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23785.html">Core-Hole Excitation Dynamics of One-Dimensional Ultracold Trapped Fermions</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>André Becker et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23785">2604.23785</a></td>
 </tr>
 </tbody></table>

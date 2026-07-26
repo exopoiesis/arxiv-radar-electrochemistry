@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weathering — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="weathering-7d.html">7d</a> <a href="weathering-30d.html">30d</a> <a href="weathering-90d.html">90d</a> <strong>360d</strong> <a href="weathering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02854.html">Surface Response of Mercury&#x27;s Sulfides under Solar Wind Ion Irradiation</a></div><div class="paper-tags"><a href="iron-sulfides-360d.html">iron-sulfides</a></div></td>
 <td>Noah Jäggi et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02854">2508.02854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23124.html">The Role of Tectonic Luck in Long-Term Habitability of Abiotic Earth-like Planets</a></div><div class="paper-tags"><a href="dissolution-kinetics-360d.html">dissolution-kinetics</a></div></td>
-<td>Brandon Park Coy et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23124">2507.23124</a></td>
 </tr>
 </tbody></table>
