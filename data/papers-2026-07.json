@@ -3301,5 +3301,170 @@
    "Origin of Life and Prebiotic Mineral Catalysis"
   ],
   "updated": "2026-07-23"
+ },
+ "2607.21726": {
+  "abstract": "Rare-earth high-entropy oxides (RE-HEOs) have emerged as a promising class of functional ceramics for solid-state electrochemical applications due to their chemical complexity, structural tunability, and potential for fast oxygen-ion transport. In this work, we investigate oxygen diffusion in ceria-based RE-HEOs of the form Ce$_x$(YLaPrSm)$_{1-x}$O$_{2-δ}$ using classical molecular dynamics simulations driven by the Crystal Hamiltonian Graph Neural Network (CHGNet) machine-learned interatomic potential. To improve predictive accuracy for lanthanide-containing systems, we benchmark three CHGNet variants, including a fine-tuned r$^2$SCAN-trained model, against targeted density functional theory (DFT) data that explicitly include f-valence electrons. Simulations across temperature, Ce content, oxygen vacancy concentration, and both fluorite and bixbyite structures reveal that oxygen transport in RE-HEOs is governed by the interplay of two factors: the concentration of mobile vacancies and the local cation environment through which they hop. At fixed composition, ionic conductivity exhibits a non-monotonic dependence on vacancy concentration, with optimal diffusion occurring at moderate vacancy levels and reduced mobility at higher concentrations. Increasing Ce content lowers migration activation energies and enhances diffusivity through low-barrier diffusion networks built from Ce-Ce and Ce-Y edges. Analysis of individual oxygen hopping events provides atomistic insight into how local chemical environments and short-range cation ordering govern transport in high-entropy oxides. Overall, this work demonstrates that machine-learned interatomic potentials can resolve composition-structure-transport relationships in chemically complex oxides, and identifies active pathways through which compositional tuning can enhance oxygen-ion conductivity in RE-HEO materials.",
+  "authors": [
+   "Mary Kathleen Caucci",
+   "Billy E. Yang",
+   "Saeed S. I. Almishal",
+   "Jon-Paul Maria",
+   "Susan B. Sinnott"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mary Kathleen Caucci",
+  "pdf_url": "http://arxiv.org/pdf/2607.21726",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-23",
+  "tags": [
+   "chgnet",
+   "density-functional-theory",
+   "ion-transport",
+   "mlip",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Ion Transport, Gradients, and Membranes",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.21779": {
+  "abstract": "Accurate ab initio molecular dynamics (AIMD) simulations of complex, fluxional chemical systems are severely limited by the high computational scaling of correlated electronic structure methods. To overcome this bottleneck, we present a robust, graph-theoretic molecular fragmentation framework integrated with machine learning to directly model post-Hartree-Fock nuclear forces at coupled cluster accuracy. Bypassing the limitations of automatic differentiation on learned energy surfaces that may struggle with link-atom Jacobians, our approach directly predicts nuclear force vectors. By projecting these vectors onto fragment-fixed principal axes of inertia, we establish co-variant descriptors that naturally preserve rotational, translational, and permutational invariance. The methodology achieves exceptional high parameter efficiency through a vector-valued training protocol that reduces trainable parameters by over an order of magnitude, while an unsupervised mini-batch k-means space tessellation algorithm constructs highly representative training databases using only 10% to 20% of reference configurations. We rigorously validated this framework on the highly fluxional solvated Zundel cation H_{13}O_6^+ ). Our fully machine-learning-predicted AIMD trajectories successfully reproduced complex dynamical signatures and key structural characteristics, including radial distribution functions and the velocity autocorrelation power spectrum. Ultimately, this scalable, systematically improvable framework bridges the gap between high-level correlated wavefunction theories and long-timescale reactive sampling, laying the foundation for advanced, LLM-inspired transfer learning in modern chemical dynamics simulations.",
+  "authors": [
+   "Xiao Zhu",
+   "Srinivasan S. Iyengar"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiao Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2607.21779",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-23",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Graph-Theoretic Neural Network Fragmentation with Covariant Direct Molecular Force Learning: Enabling Coupled-Cluster Accuracy AIMD for Fluxional Systems",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.21791": {
+  "abstract": "We develop a coupled model for electroosmotic pumping and passive-solute dispersion of a solvent-free simplified Phan-Thien-Tanner fluid in a compliant slit microchannel. Pressure, wall deformation, axial field, velocity, and dispersion are evaluated self-consistently along the finite-throughput pump characteristic. Lubrication theory, Debye-Huckel electrostatics, an elastic-foundation wall law, and Taylor-Aris macrotransport yield a closed-form flux relation for combined electroosmotic and pressure-driven forcing. Because the shear rate depends cubically on the total shear stress, the two contributions cannot be superposed. The flux decreases monotonically with pressure gradient, ensuring a unique inversion at prescribed throughput. Current conservation couples the axial field to the deformed gap under constant-current and constant-voltage operation. In pressure-free flow, thinning the electric double layer produces a plug-like profile and the Newtonian Taylor coefficient decays as the inverse square of the Debye parameter. Under hydraulic loading, an adverse pressure gradient drives a sheared core counterflow that persists in the thin-double-layer limit, causing the coefficient to approach a finite plateau. At fixed nonzero throughput, partial cancellation between electroosmotic and pressure-driven shear yields a maximum plate number at finite double-layer thickness. This optimum is conditional: joint optimization over throughput and double-layer thickness shifts the overall optimum toward free-flow, thin-double-layer operation. Viscoelasticity can enhance or suppress loaded dispersion, while compliance shifts the pump characteristic and separation optimum. Brownian dynamics validates the reduced model. The resulting load-resolution relation identifies conditions that balance pressure delivery and separation performance.",
+  "authors": [
+   "Subhajyoti Sahoo",
+   "Ameeya Kumar Nayak"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Subhajyoti Sahoo",
+  "pdf_url": "http://arxiv.org/pdf/2607.21791",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-23",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Load-dependent Taylor dispersion in a compliant electroosmotic pump conveying a simplified Phan-Thien-Tanner fluid",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.22271": {
+  "abstract": "Reliable structure-property modeling is crucial for accelerating materials discovery, where crystal graphs and structure-derived crystallographic descriptions provide complementary geometric and semantic information. Existing multimodal materials models primarily incorporate textual information through post-encoding fusion, latent-space alignment, or attention-based representation interaction mechanisms. However, in most cases, crystallographic semantics are introduced after structural encoding and therefore cannot directly guide the formation of atom-level crystal-graph representations. Here, we present Semantics-Augmented Geometric Encoder Network (SAGE-Net), a flexible multimodal framework that injects description-derived chemical and crystallographic semantics into geometric message passing. SAGE-Net introduces Semantic-Guided Message Passing (SGMP), which gates atom-level updates and enables crystallographic semantics to directly modulate local geometric interactions across multiple graph neural network (GNN) backbones. Across benchmarks covering bandgap, mechanical, transport-related properties, and synthesizability assessment, the SAGE-Net instantiated with different GNN backbones achieves the lowest MAE on eight out of ten JARVIS-DFT regression targets and delivers strong or highly competitive performance against both structure-based and multimodal baselines. For synthesizability assessment, the SAGE-Net demonstrate outstanding classification performance and high recall rates. Interpretability analysis unravels that SAGE-Net effectively captures physically interpretable crystallographic features, viz. space group, dimensionality, polyhedral environments, among others. Together, these results demonstrate SGMP-based SAGE-Net as a general and transferable framework for deeply integrated multimodal materials learning.",
+  "authors": [
+   "Guanghui Zhang",
+   "Yuxuan Yao",
+   "Kieran B. Spooner",
+   "Jun Yin",
+   "Dan Han",
+   "David O. Scanlon",
+   "Lijun Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "29 pages, 5 figures, multi-modal network",
+  "first_author": "Guanghui Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2607.22271",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-24",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22364": {
+  "abstract": "Aluminum alloys are widely used in research reactor systems, yet the mechanisms governing irradiation-induced degradation remain poorly understood. Here we combine conventional cascade-overlap molecular dynamics simulations with an accelerated Iterative Kinetic Approach (IKA) to investigate defect evolution in single-crystal Al subjected to 50 keV He irradiation. Benchmarking shows that IKA reproduces the essential defect kinetics of cascade simulations while enabling access to substantially higher accumulated damage. By extending the IKA to higher damage levels, we identified three distinct regimes governing radiation-induced degradation in Al: recombination-driven annihilation, defect accumulation, and sink-controlled absorption. At higher damage, Frank loops dissociate into Shockley partials and stair-rod loops, ultimately driving the nucleation and growth of stacking-fault tetrahedra (SFTs). These transformations progressively convert mobile defects into SFTs. Ultimately, the synergistic effect of interstitial and vacancy loops and SFTs increases irradiation hardening in Al at 300 K. This work provides insight into irradiation-induced degradation in aluminum reactor materials.",
+  "authors": [
+   "Alhassan S. Issaka",
+   "Sadie Wicks",
+   "Vishal Yadav",
+   "Assel Aitkaliyeva",
+   "Michael R. Tonks",
+   "Simon R. Phillpot"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "54 pages, 16 Figures",
+  "first_author": "Alhassan S. Issaka",
+  "pdf_url": "http://arxiv.org/pdf/2607.22364",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-24",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Mechanisms of Microstructural Evolution and Degradation in Aluminum under High-Damage Irradiation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22476": {
+  "abstract": "Ion migration in halide perovskites is often associated with defects, irreversible processes, and structural instability, making them largely impractical for photo-switching applications. Here, we demonstrate a physical mechanism for reversible, defect-free light-induced halide-ion swapping in two-dimensional mixed-halide perovskites. We find that the halide-ion swapping process arises from strong light-lattice coupling rather than defects. By combining nudged elastic band and photo-force calculations, we show that photo-induced forces perform non-equilibrium work that drives halide ions along the halide-exchange path without reaching the fully swapped configuration. Thus, the cumulative light-induced work can only partially overcome the ground-state activation energy barrier in the presence of light. Analysis of lattice dynamics identifies a few soft phonon modes, two of which are IR-active with oscillator strength $\\approx -0.14$ e/(amu)$^{1/2}$, which may be considered the microscopic origin of light-induced halide-ion swapping. This microscopic origin is further supported by band-edge-selective electron-phonon coupling, which amplifies interactions among excited carriers under illumination and with halide-ion motion without inducing a uniform dynamical instability. Using GW (G-Green's function and W-screened Coulomb interaction) calculations, we accurately reproduce the experimentally observed optical absorption spectra in the absence of light, enabling us to describe the light-induced excited state reliably. We demonstrate a clear redshift in the optical spectra in the presence of light, which is due to light-induced bandgap renormalization. Overall, these findings not only establish an intrinsic, defect-free mechanism for photoswitchable optical functionality in 2D mixed-halide perovskites but also demonstrate an intrinsic self-resetting feature in the absence of light.",
+  "authors": [
+   "Enamul Haque",
+   "Wenxin Mao",
+   "Javier Cerrillo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16-page manuscript with supporting information",
+  "first_author": "Enamul Haque",
+  "pdf_url": "http://arxiv.org/pdf/2607.22476",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-24",
+  "tags": [
+   "neb"
+  ],
+  "title": "Reversible photo-switching optical functionality in two-dimensional mixed-halide hybrid perovskites",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-24"
  }
 }

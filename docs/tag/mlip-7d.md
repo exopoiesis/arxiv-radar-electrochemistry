@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21726.html">Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential</a></div><div class="paper-tags"><a href="chgnet-7d.html">chgnet</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="ion-transport-7d.html">ion-transport</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Mary Kathleen Caucci et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21726">2607.21726</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mace-7d.html">mace</a></div></td>
 <td>Prathami Divakar Kamath et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18182.html">Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH$_2$</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Bo Han et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18182">2607.18182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17129.html">STEP: Spin Tensor Equivariant Potential for Data-Efficient Learning of Magnetic Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Yuanqing Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17129">2607.17129</a></td>
 </tr>
 </tbody></table>

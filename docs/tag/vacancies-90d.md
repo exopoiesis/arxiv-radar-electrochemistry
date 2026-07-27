@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22364.html">Mechanisms of Microstructural Evolution and Degradation in Aluminum under High-Damage Irradiation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Alhassan S. Issaka et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22364">2607.22364</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21301.html">Visualization of Defect Electronic States in Layered Semiconductor CrSBr</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Jonathan Brunette et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21301">2607.21301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21726.html">Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Mary Kathleen Caucci et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21726">2607.21726</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-22</td>
@@ -326,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Dileep Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24209.html">Phase transformation kinetics in MoS2 governed by S-S repulsive interactions and defect-interface compatibility</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Pai Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24209">2604.24209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24683.html">Improved Electrochemical Performance and Diffusion kinetics by Boron-doping in Na$_{0.66}$Mn$_{0.8}$Fe$_{0.2}$O$_{2}$ Layered Cathodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jayashree Pati et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24683">2604.24683</a></td>
 </tr>
 </tbody></table>

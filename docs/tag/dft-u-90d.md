@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft-u — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <strong>90d</strong> <a href="dft-u-360d.html">360d</a> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25125.html">Identifying strong correlation using only the Kohn-Sham density of one-electron states</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Daniel D. Rivera et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25125">2604.25125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19629.html">Electronic structure and oxidation states in high-pressure synthesized isostructural CeCN$_5$ and TbCN$_5$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Amanda Ehn et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19629">2604.19629</a></td>
 </tr>
 </tbody></table>

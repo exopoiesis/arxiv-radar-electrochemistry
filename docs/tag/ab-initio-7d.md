@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.21301">2607.21301</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21779.html">Graph-Theoretic Neural Network Fragmentation with Covariant Direct Molecular Force Learning: Enabling Coupled-Cluster Accuracy AIMD for Fluxional Systems</a></div><div class="paper-tags"><a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Xiao Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21779">2607.21779</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20788.html">First-principles calculation of electron-phonon spectral functions for defects using phonon interpolation</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Zoltan Santha et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18591.html">GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Lara Goncebat et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18591">2607.18591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17129.html">STEP: Spin Tensor Equivariant Potential for Data-Efficient Learning of Magnetic Potential Energy Surfaces</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Yuanqing Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17129">2607.17129</a></td>
 </tr>
 </tbody></table>

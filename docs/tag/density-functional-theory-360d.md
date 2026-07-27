@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">828 papers</span>
+  <span class="paper-count">829 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div></td>
+<td>Guanghui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22271">2607.22271</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20885.html">Long- and Short-Range Anion Order in SrTiO$_{3-x}$H$_x$ Perovskite Oxyhydrides: DFT+$U$ Sensitivity and HSE06 Cluster Expansion</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21298.html">Lifetime effects and satellites in the photoelectron spectrum of platinum metal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Prajna Bhatt et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21298">2607.21298</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21726.html">Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Mary Kathleen Caucci et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21726">2607.21726</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-22</td>
@@ -4976,11 +4988,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00655.html">Electronic properties of Kagome metal YbV$_3$Sb$_4$: A First-Principles Study</a></div></td>
 <td>D. Gurung et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00655">2508.00655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23299.html">Spin-State Engineering of Single Titanium Adsorbates on Ultrathin Magnesium Oxide</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Soo-hyon Phark et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23299">2507.23299</a></td>
 </tr>
 </tbody></table>
