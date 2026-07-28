@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">197 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a></div></td>
+<td>Hayoung Doo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24272">2607.24272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24327.html">Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
+<td>Yidong Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24327">2607.24327</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div></td>
@@ -1184,53 +1196,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27114.html">Contrasting Effects of Functionalization in Binary and Medium-Entropy MXene Coatings for Corrosion Protection</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="impedance-spectroscopy-90d.html">impedance-spectroscopy</a></div></td>
 <td>Aqsa Fayyaz et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27114">2604.27114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Yifan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25125.html">Identifying strong correlation using only the Kohn-Sham density of one-electron states</a></div><div class="paper-tags"><a href="dft-u-90d.html">dft-u</a></div></td>
-<td>Daniel D. Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25125">2604.25125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25262.html">Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Connor W. Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25262">2604.25262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25497.html">Fundamental picture of the conduction mechanism in solid-state polymer electrolytes revealed by terahertz spectroscopy</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
-<td>Johanna Weidelt et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25497">2604.25497</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25706.html">Validity of DFT+U band gaps in all its known functional forms</a></div></td>
-<td>Andrew C. Burgess et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25706">2604.25706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26037.html">Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Kartick Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26037">2604.26037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26071.html">DFT-assisted natural abundance 13C zero-field NMR via optical magnetometry</a></div><div class="paper-tags"><a href="ion-pairing-90d.html">ion-pairing</a></div></td>
-<td>Blake Andrews et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26071">2604.26071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26149.html">First-Principles Study of Structural, Electronic, Thermal, and Optical Properties of Quasi-2D C2 N2 O Using GGA and HSE06</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hemn. G. H et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26149">2604.26149</a></td>
 </tr>
 </tbody></table>

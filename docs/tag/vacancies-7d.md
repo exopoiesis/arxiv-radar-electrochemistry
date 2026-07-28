@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>vacancies — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20788.html">First-principles calculation of electron-phonon spectral functions for defects using phonon interpolation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Zoltan Santha et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20788">2607.20788</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18129.html">Defect configuration, not nitrogen content, governs the mechanical integrity of nitrogen-doped graphene: a molecular dynamics study</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Indranil Rudra et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18129">2607.18129</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vacancies — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <strong>90d</strong> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,17 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00801.html">Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Min-Chul Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00801">2605.00801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25097.html">Determination of the Fermi Energy of Diamond using Photoluminescence Spectral Analysis</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Yifan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25097">2604.25097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Dileep Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
 </tr>
 </tbody></table>

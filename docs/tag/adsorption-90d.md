@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Hayoung Doo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24272">2607.24272</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19488.html">Electron-Induced Formation of C$_{2}$ on Si(100) from Acetylene and Ethylene</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Oliver MacLean et al.</td>
@@ -290,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27114.html">Contrasting Effects of Functionalization in Binary and Medium-Entropy MXene Coatings for Corrosion Protection</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="impedance-spectroscopy-90d.html">impedance-spectroscopy</a></div></td>
 <td>Aqsa Fayyaz et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27114">2604.27114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10600.html">Interplay of ion availability and mobility in the loss of cation selectivity for CaCl\textsubscript{2} in negatively charged nanopores: molecular dynamics using scaled-charge models</a></div><div class="paper-tags"><a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="ion-water-interactions-90d.html">ion-water-interactions</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Salman Shabbir et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10600">2602.10600</a></td>
 </tr>
 </tbody></table>

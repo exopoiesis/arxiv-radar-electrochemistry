@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <a href="impedance-spectroscopy-30d.html">30d</a> <strong>90d</strong> <a href="impedance-spectroscopy-360d.html">360d</a> <a href="impedance-spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27266.html">AutoREC: A software platform for developing reinforcement learning agents for equivalent circuit model generation from electrochemical impedance spectroscopy data</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
 <td>Ali Jaberi et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27266">2604.27266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25718.html">Chemical transformation of MgH2/V2O5 composite to Mg-V-O rock salt and its influence on the electrochemical Li conversion and hydrogen storage characteristics of MgH2</a></div></td>
-<td>D. Pukazhselvan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25718">2604.25718</a></td>
 </tr>
 </tbody></table>

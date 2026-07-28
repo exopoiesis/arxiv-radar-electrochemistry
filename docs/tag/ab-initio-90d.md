@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22992.html">Role of $p$-$d$ Hybridization on Optical Properties of Chalcopyrite Semiconductors</a></div><div class="paper-tags"><a href="chalcopyrite-90d.html">chalcopyrite</a> · <a href="surface-defects-90d.html">surface-defects</a></div></td>
+<td>Neunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22992">2607.22992</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21298.html">Lifetime effects and satellites in the photoelectron spectrum of platinum metal</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Prajna Bhatt et al.</td>
@@ -722,11 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27120.html">First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
 <td>Felix Adams et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27120">2604.27120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26037.html">Accelerating finite-element-based projector augmented-wave density functional theory calculations with scalable GPU-centric computational methods</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Kartick Ramakrishnan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26037">2604.26037</a></td>
 </tr>
 </tbody></table>

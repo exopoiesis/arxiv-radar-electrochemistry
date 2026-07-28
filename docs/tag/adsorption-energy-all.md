@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption-energy — all</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">98 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <a href="adsorption-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>Hayoung Doo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24272">2607.24272</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17463.html">Going Beyond the d-band Center to Design Intermetallic Catalysts for Nitrogen Reduction: A High-Throughput DFT and Machine Learning Study</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>

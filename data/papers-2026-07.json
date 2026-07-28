@@ -3466,5 +3466,174 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-07-24"
+ },
+ "2607.22992": {
+  "abstract": "Designing quantum materials for coherent optical properties is a central agenda in quantum technology. Semiconductor quantum dots are an emerging approach for controlling coherent optical properties via confinement effects, tunable band gaps, and exciton binding energies, yet their inherent structural and compositional inhomogeneity degrades the coherence of the optical spectra, posing a major obstacle. We show that, for chalcopyrite semiconductors, hybridization between transition-metal $d$ and ligand $p$ electrons in the valence band is key to the coherence of the quantum dot optical spectrum. We demonstrate this using first-principles electronic-structure calculations and optical spectroscopy. The strong $p$-$d$ hybridization in CuInS$_{2}$ induces the Cu($d$) Coulomb scattering channel, giving rise to the incoherent photodoped hole carrier, while the weak $p$-$d$ hybridization in AgInS$_{2}$ induces the delocalized photodoped hole carrier having a predominant S($p$) orbital character. Our experimental results on optical spectra suggest that when the Cu ratio is enhanced in the Ag$_{1-x}$Cu$_{x}$In$_{1-y}$Ga$_{y}$S$_{2}$ quantum dot, Cu atoms at both Ag sites and defect sites experience enhanced $p$-$d$ hybridization, and a coupling begins to develop between the electrons in the quantum dot and the defect electrons at a small Cu ratio. This coupling activates Cu($d$) Coulomb scattering for photodoped holes traversing the defect sites, producing an incoherent optical response that naturally explains the long-standing absence of band-edge spectral signatures in CuIn$_{1-y}$Ga$_y$S$_2$ quantum dots. These results serve as a guideline for designing semiconductor quantum dots. To achieve a coherent optical spectrum, avoid $p$-$d$-hybridized orbital character in the photo-doped carrier.",
+  "authors": [
+   "Neunghee Han",
+   "Harang Kim",
+   "Minjae Kim",
+   "Woonhyuk Baek"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "8 pages, 5 figures",
+  "first_author": "Neunghee Han",
+  "pdf_url": "http://arxiv.org/pdf/2607.22992",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-25",
+  "tags": [
+   "ab-initio",
+   "chalcopyrite",
+   "surface-defects"
+  ],
+  "title": "Role of $p$-$d$ Hybridization on Optical Properties of Chalcopyrite Semiconductors",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.23107": {
+  "abstract": "Autocatalytic subnetworks govern sustained production and balanced growth in chemical reaction systems and can be naturally represented as directed multihypergraphs that jointly encode stoichiometric structure and reaction kinetics. Existing optimization approaches identify such subnetworks by maximizing their structural amplification, typically measured through the Maximum Amplification Factor (MAF). However, structural amplification alone does not determine growth potential, since highly amplifying subnetworks may be kinetically inefficient. Motivated by recent kinetic--stoichiometric bounds on balanced growth under scalable dynamics, we study the problem of selecting the autocatalytic subnetwork maximizing the growth bound $(α^*-1)\\|\\mathbb{S}|_{\\mathcal A'}\\|_κ$, where $α^*$ is the MAF and $\\|\\mathbb{S}|_{\\mathcal A'}\\|_κ$ is a kinetic consumption norm. We formulate the problem as a mixed-integer bilinear optimization model combining hypergraph selection with generalized fractional amplification constraints. Exploiting the discrete structure of the kinetic norm, we develop an exact parametric algorithm in which each subproblem reduces to MAF maximization and is solved through a Dinkelbach-type generalized fractional programming method. Finite convergence and global optimality are established. Applications to the Oregonator, the formose reaction, carbon-fixation cycles, and synthetic benchmark networks show when maximizing the kinetic--stoichiometric bound differs from maximizing the MAF alone, revealing the interplay between stoichiometric amplification, reaction kinetics, and balanced growth. The proposed framework provides an exact optimization methodology for identifying reaction subnetworks with the highest theoretical growth potential.",
+  "authors": [
+   "Víctor Blanco",
+   "Gabriel González"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": "25 pages, 7 figures",
+  "first_author": "Víctor Blanco",
+  "pdf_url": "http://arxiv.org/pdf/2607.23107",
+  "primary_category": "math.OC",
+  "published": "2026-07-25",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Optimization of Kinetic--Stoichiometric Growth Bounds over Autocatalytic Subnetworks",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.23436": {
+  "abstract": "Passive and active photonic components are central to the continued development of astronomical photonic integrated circuits (PICs), although achieving broadband achromatic performance remains a significant challenge.   This work presents broadband evanescent tri-couplers, tapered directional couplers, and a chromatically controlled achromatic intensity modulator for astronomical interferometry in the J- and H-bands. Silicon nitride and silicon oxide provide complementary low-loss platforms, while customised tapered components enable broadband operation across the 0.95-1.8 microns range.   For the silicon nitride platform developed by STMicroelectronics, tapered tri-couplers and directional couplers were designed as replacements for conventional components in a pairwise beam combiner for the PLANETS project. Optimised tapered tri-couplers achieve less than 1% excess loss across the J-band, while tapered directional couplers provide broadband 40:60 splitting suitable for beam combination.   For the silicon oxide platform from Enablence, a two-dimensional tapered tri-coupler was investigated for nulling interferometry. The device provides broadband starlight suppression while limiting exoplanet throughput loss to less than 2.2% across the H-band and simultaneously retaining broadband phase-sensing capability for fringe tracking.   The chromatically controlled achromatic intensity modulator is introduced as a combination of a tapered directional coupler with a thermo-optic phase shifter, the device provides programmable broadband intensity control for applications including null-depth balancing in interferometric PICs.   Future work will extend these concepts to lithographically fabricated chalcogenide glass platforms operating in the mid-infrared, enabling compact photonic beam combiners for future ground- and space-based nulling interferometers targeting Earth-like exoplanets.",
+  "authors": [
+   "Harry-Dean Kenchington Goldsmith",
+   "Nemanja Jovanovic",
+   "Anusha Pai Asnodkar",
+   "Sanny Ahmed",
+   "Elsa Huby",
+   "Sylvestre Lacour",
+   "Michael Fitzgerald",
+   "Yoo Jung Kim",
+   "Pierre Labeye",
+   "Nicolas Dunoyer",
+   "Michael Ireland",
+   "Stephen Madden"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "physics.app-ph"
+  ],
+  "comment": "21 pages, 23 figures, SPIE Astronomical Telescopes + Instrumentation 2026 Denmark",
+  "first_author": "Harry-Dean Kenchington Goldsmith",
+  "pdf_url": "http://arxiv.org/pdf/2607.23436",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-07-26",
+  "tags": [
+   "chalcogenides"
+  ],
+  "title": "Technologies and novel components for broadband splitting and coupling in pairwise and nulling interferometry",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-07-26"
+ },
+ "2607.24163": {
+  "abstract": "Here we show that an autocatalytic reaction network can exhibit dynamic hysteresis as a result of the competition between its intrinsic relaxation time scale and that of the periodic drive. The autocatalytic reaction steps generate bistability in the concentration of the autocatalytic species, and periodic pumping of the product species provides the external drive. Hysteresis arises from the lag between the concentration response of the autocatalytic species and the external periodic drive. The resulting hysteresis-loop area quantifies the extent of the system's hysteretic response. Using the periodically driven Schlögl model as a representative bistable chemical system, we use this loop area to determine how the magnitude of the hysteretic response is controlled by the driving protocol, intrinsic fluctuations, and the size of the system. Varying the driving frequency and the strength of the fluctuations causes a turnover of the hysteresis loop area, whereas the area changes monotonically with driving amplitude and system size. These trends identify the driving protocol and fluctuation strength as primary controls on the magnitude of dynamic hysteresis. In contrast to stochastic resonance, which is typically associated with weak periodic forcing and noise-assisted amplification, dynamic hysteresis can characterize the reaction-system response over a wider range of external control conditions. We further show that the delayed concentration response is mirrored in Shannon entropy and in the total entropy production rate, connecting dynamic hysteresis to information-theoretic and stochastic-thermodynamic measures of irreversibility. Overall, we identify and interpret the role of the controlling factors in chemical dynamic hysteresis and suggest implications for efficient chemical logic gates and eventually, chemical computers.",
+  "authors": [
+   "Sheela Yadav",
+   "Jason R. Green",
+   "Moupriya Das"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "17 pages, 11 figures",
+  "first_author": "Sheela Yadav",
+  "pdf_url": "http://arxiv.org/pdf/2607.24163",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-27",
+  "tags": [
+   "autocatalysis",
+   "reaction-networks"
+  ],
+  "title": "Dynamic hysteresis in an autocatalytic reaction network",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.24272": {
+  "abstract": "The vast chemical design space and complex, interdependent design variables make catalyst discovery for targeted properties highly labor- and resource-intensive. Although generative models have emerged as a promising solution, existing approaches are generally limited to single-property conditioning or narrow chemical spaces. Here, we present Catalyst Diffusion Transformer (CatDiT), a unified framework for inverse catalyst design that generates valid and novel structures ranging from intermetallic alloys to oxide surfaces. By learning compressed latent representations, CatDiT enables efficient training and rapid sampling while supporting simultaneous conditioning on adsorbate type, binding energy, and catalyst class. The model provides reliable control of discrete properties and directional control of continuous properties, enriching candidate pools for reaction-specific catalyst discovery. As a representative application, multi-conditional generation for the nitrogen reduction reaction (NRR) yields 28 density functional theory (DFT)-relaxed alloy candidates that satisfy the target activity window and lie above the pure-metal *N-*H scaling line, corresponding to a ~1.5-fold enrichment over the source distribution. These results establish CatDiT as a practical and scalable approach for property-directed catalyst inverse design and targeted catalyst generation.",
+  "authors": [
+   "Hayoung Doo",
+   "Dong Hyeon Mok",
+   "Seoin Back",
+   "Jonggeol Na"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Hayoung Doo",
+  "pdf_url": "http://arxiv.org/pdf/2607.24272",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-27",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.24327": {
+  "abstract": "Heterogeneous density functional theory (DFT) calculations, particularly plane-wave implementations, introduce systematic formation energy errors ranging from tens to hundreds of meV/atom, depending on the selection of exchange-correlation functionals, kinetic energy cutoffs, pseudopotentials, and dispersion corrections. As demonstrated by the MatPES dataset, identical structures can exhibit an average energy discrepancy of 107 meV/atom between PBE and r2SCAN calculations. Such method-dependent discrepancies hinder the integration of multi-source DFT data, greatly limiting the scale and quality of datasets for training robust materials AI models. Here, we resolve this fundamental data silo barrier via graph-based transfer learning. Leveraging 380,190 structurally paired PBE-r2SCAN entries from the MatPES database, we train a structure-aware graph neural network to predict cross-functional energy residuals and align inconsistent DFT energy scales. By adopting GPTFF model architecture, the model converts conventional PBE energies to r2SCAN-level accuracy with a mean absolute error of 14.3 meV/atom, compared with 18.2 meV/atom achieved by CHGNet. This versatile approach effectively upgrades massive legacy PBE datasets to high-precision r2SCAN standards. It enables reliable predictions of phase stability, battery voltage profiles, and reaction thermodynamics, while allowing the integration of multi-source DFT data to advance the development of high-performance materials foundation models.",
+  "authors": [
+   "Yidong Huang",
+   "Tenglong Lu",
+   "Hanwen Kang",
+   "Junfeng Huang",
+   "Sheng Meng",
+   "Miao Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.CE",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yidong Huang",
+  "pdf_url": "http://arxiv.org/pdf/2607.24327",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-27",
+  "tags": [
+   "chgnet",
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-27"
  }
 }

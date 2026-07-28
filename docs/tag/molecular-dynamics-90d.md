@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,29 +788,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06080.html">Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
 <td>Harry Richardson et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06080">2603.06080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10600.html">Interplay of ion availability and mobility in the loss of cation selectivity for CaCl\textsubscript{2} in negatively charged nanopores: molecular dynamics using scaled-charge models</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="ion-water-interactions-90d.html">ion-water-interactions</a></div></td>
-<td>Salman Shabbir et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10600">2602.10600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25262.html">Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
-<td>Connor W. Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25262">2604.25262</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25752.html">Quantum sensing-enabled deuterium NMR spectroscopy with nanoscale sensitivity at low magnetic fields</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Dileep Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25752">2604.25752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26149.html">First-Principles Study of Structural, Electronic, Thermal, and Optical Properties of Quasi-2D C2 N2 O Using GGA and HSE06</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Hemn. G. H et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26149">2604.26149</a></td>
 </tr>
 </tbody></table>

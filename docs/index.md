@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-07-27._
+_Updated 2026-07-28._
 
-**3353** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3359** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,42 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24163.html">Dynamic hysteresis in an autocatalytic reaction network</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Sheela Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24163">2607.24163</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Hayoung Doo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24272">2607.24272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24327.html">Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies</a></div><div class="paper-tags"><a href="tag/chgnet-30d.html">chgnet</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
+<td>Yidong Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24327">2607.24327</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23436.html">Technologies and novel components for broadband splitting and coupling in pairwise and nulling interferometry</a></div><div class="paper-tags"><a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
+<td>Harry-Dean Kenchington Goldsmith et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23436">2607.23436</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22992.html">Role of $p$-$d$ Hybridization on Optical Properties of Chalcopyrite Semiconductors</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chalcopyrite-30d.html">chalcopyrite</a> · <a href="tag/surface-defects-30d.html">surface-defects</a></div></td>
+<td>Neunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22992">2607.22992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23107.html">Optimization of Kinetic--Stoichiometric Growth Bounds over Autocatalytic Subnetworks</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
+<td>Víctor Blanco et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23107">2607.23107</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -159,41 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17463.html">Going Beyond the d-band Center to Design Intermetallic Catalysts for Nitrogen Reduction: A High-Throughput DFT and Machine Learning Study</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Parastoo Agharezaei et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17463">2607.17463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17832.html">Multisine electrochemical impedance spectroscopy for Li-ion battery characterisation</a></div><div class="paper-tags"><a href="tag/impedance-spectroscopy-30d.html">impedance-spectroscopy</a></div></td>
-<td>Noël Hallemans et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17832">2607.17832</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18071.html">DFT+U+V is equivalent to DFT+U with density-dependent hybridized projectors</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Edward Linscott et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18071">2607.18071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18129.html">Defect configuration, not nitrogen content, governs the mechanical integrity of nitrogen-doped graphene: a molecular dynamics study</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Indranil Rudra et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18129">2607.18129</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18182.html">Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH$_2$</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Bo Han et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18182">2607.18182</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18214.html">Position-dependent tight-binding model for Li impurities in monolayer and bilayer graphene</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
-<td>Hernan Aguirre et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18214">2607.18214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.18524.html">Data-Efficient Training of Linear ACE Potentials through Leverage-Guided Subset Selection of ASSYST Structure Pools</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Aynour Khosravi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18524">2607.18524</a></td>
 </tr>
 </tbody></table>

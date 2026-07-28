@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1136,11 +1136,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01963.html">Boosting hydrogen and methane formation on a high-entropy photocatalyst by integrating atomic d0/d10 electronic junctions and microscopic P/N heterojunctions</a></div></td>
 <td>Ho Truong Nam Hai et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01963">2508.01963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00236.html">Atomic Interface Engineering of Battery Current Collectors via Ion Implantation</a></div><div class="paper-tags"><a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a></div></td>
-<td>Yue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00236">2508.00236</a></td>
 </tr>
 </tbody></table>

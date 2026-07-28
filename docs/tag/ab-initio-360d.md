@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22992.html">Role of $p$-$d$ Hybridization on Optical Properties of Chalcopyrite Semiconductors</a></div><div class="paper-tags"><a href="chalcopyrite-360d.html">chalcopyrite</a> · <a href="surface-defects-360d.html">surface-defects</a></div></td>
+<td>Neunghee Han et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22992">2607.22992</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21298.html">Lifetime effects and satellites in the photoelectron spectrum of platinum metal</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Prajna Bhatt et al.</td>
@@ -2888,11 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14118.html">PET-MAD, a lightweight universal interatomic potential for advanced materials modeling</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Arslan Mazitov et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14118">2503.14118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00290.html">High-fidelity electronic structure and properties of InSb: $G_0W_0$ and Bayesian-optimized hybrid functionals and DFT+$U$ approaches</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00290">2508.00290</a></td>
 </tr>
 </tbody></table>

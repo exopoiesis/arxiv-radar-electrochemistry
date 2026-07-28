@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
+<td>Hayoung Doo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24272">2607.24272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24327.html">Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Yidong Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24327">2607.24327</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div></td>
 <td>Guanghui Zhang et al.</td>
@@ -4976,17 +4988,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01214.html">Magnetism at the interface of $MoSe_2/V_2O_5$ heterostructures</a></div></td>
 <td>Rohin Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01214">2508.01214</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00290.html">High-fidelity electronic structure and properties of InSb: $G_0W_0$ and Bayesian-optimized hybrid functionals and DFT+$U$ approaches</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00290">2508.00290</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00655.html">Electronic properties of Kagome metal YbV$_3$Sb$_4$: A First-Principles Study</a></div></td>
-<td>D. Gurung et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00655">2508.00655</a></td>
 </tr>
 </tbody></table>
