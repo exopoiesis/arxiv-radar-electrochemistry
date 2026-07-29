@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>chalcogenides — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <strong>90d</strong> <a href="chalcogenides-360d.html">360d</a> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01054.html">Two-Photon-Induced Direct 3D Printing of Freeform High-Index Phase-Change Sb2S3 Nanostructures</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Abhrodeep Dey et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01054">2605.01054</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27120.html">First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Felix Adams et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27120">2604.27120</a></td>
 </tr>
 </tbody></table>

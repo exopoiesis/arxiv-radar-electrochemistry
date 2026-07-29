@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26018.html">Extracting Atomic Environments for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Jared C. Stimac et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26018">2607.26018</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22364.html">Mechanisms of Microstructural Evolution and Degradation in Aluminum under High-Damage Irradiation</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Alhassan S. Issaka et al.</td>
@@ -3398,11 +3404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03591.html">Molecular dynamics of ice-active solutions at ice-water interfaces</a></div><div class="paper-tags"><a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="formate-360d.html">formate</a></div></td>
 <td>Benjamin M. Harless et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03591">2508.03591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01477.html">The seeds of the future are in the present: A blind exploration of metastable states</a></div></td>
-<td>Timothée Devergne et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01477">2508.01477</a></td>
 </tr>
 </tbody></table>
