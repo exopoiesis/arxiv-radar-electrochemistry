@@ -3763,5 +3763,153 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-07-28"
+ },
+ "2607.26422": {
+  "abstract": "Accurate determination of Hubbard interaction parameters is essential for beyond-DFT approaches such as DFT+$U$, DFT+DMFT, and DFT+$U$+$V$ in correlated materials. In practice, however, these parameters are often chosen empirically, limiting their transferability across materials. Advanced computational approaches such as the constrained random-phase approximation (cRPA) provide a rigorous route for evaluating Hubbard interactions, but their computational cost remains a bottleneck for large-scale materials screening. Here, we present machine-learning (ML) models for predicting cRPA-derived Hubbard interaction parameters: effective on-site $U_{\\rm eff}$, inter-site $V$, and Hund's coupling $J$ for transition-metal oxides (TMOs). We combine ensemble-learning models with a regression-based brute-force search (BFS) approach to achieve both predictive accuracy and explicit analytical expressions. We construct features that capture electronic, structural, and atomic properties, including the TM-$d$ bandwidth and TM-$d$/O-$p$ band-center separation, as physically motivated descriptors of localization and screening. Our ensemble models achieve RMSEs of 0.148 eV, 0.062 eV, and 0.007 eV for $U_{\\rm eff}$, $V$, and $J$, respectively. The derived analytical forms directly relate $U_{\\rm eff}$ to electron localization and TM-$d$/O-$p$ hybridization, suggest the importance of hybridization and structural compactness in determining $V$, and indicate that $J$ is governed primarily by elemental descriptors of the TM ion. Together, the present study provides an efficient approach for predicting cRPA-derived $U_{\\rm eff}$, $V$, and $J$, while offering physical insight into the factors underlying these Hubbard interactions.",
+  "authors": [
+   "Jiyeon Kim",
+   "Indukuru Ramesh Reddy",
+   "Bongjae Kim",
+   "Sooran Kim"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Jiyeon Kim",
+  "pdf_url": "http://arxiv.org/pdf/2607.26422",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-29",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Physics-informed Machine Learning Prediction of Hubbard Interaction Parameters",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.26667": {
+  "abstract": "In the quest for sustainable energy solutions, water splitting emerges as a crucial process for generating clean hydrogen a versatile and renewable fuel essential for energy storage, emissions reduction, and achieving sustainability goals. This study employs a comprehensive computational approach, utilizing atomistic simulations to systematically investigate the effects of water absorption on the electronic and optical properties of g-C3N4 nanosheets. Our methodology integrates ab initio computations grounded in density functional theory (DFT), which allows for a detailed characterization of the nanosheet and serves as a benchmark for self-consistent charge density functional tight binding (SCC-DFTB) simulations. This approach provides valuable insights into the behavior of the nanosheet under the influence of absorbed OH and H2O molecules by considering calculated parameters for photocatalytic efficiency. Additionally, we extend our investigation to classical molecular dynamics simulations within the ReaxFF framework, modeling the emission of multiple H2O molecules and assessing the subsequent rate of H2 evolution. A key finding of our study reveals that the dissociation of H2O into HO and O molecules significantly enhances both the optical absorbance and conductance of the nanosheet compared to its pristine state. These results underscore the potential of g-C3N4 nanosheets as effective materials for water splitting applications.",
+  "authors": [
+   "Amil Aligayev",
+   "Ulkar Jabbarli",
+   "F. Javier Domınguez-Gutierrez",
+   "Ulkar Samadova",
+   "Jialin Li",
+   "Stefanos Papanikolaou",
+   "Qing Huang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Amil Aligayev",
+  "pdf_url": "http://arxiv.org/pdf/2607.26667",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-29",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Computational Study of Water Adsorption and Dissociative Mechanisms Impacting g-C3N4's Optical and Electronic Properties",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.26793": {
+  "abstract": "The replicated liquid theory provides a microscopic mean-field description of the glass transition by combining the density functional theory of liquids with the replica method originally developed for spin glasses. In the conventional replica liquid theory, a glassy state is described by assuming that particles in different replicas undergo vibrational motion around common centers of mass, thereby forming molecules that contain one particle from every replica. Here we revisit this assumption by allowing each molecule to contain only a subset of replicas. This generalized formulation describes particle-level replica mismatches, which may be associated with non-vibrational motions such as particle hopping. We apply the theory to high-dimensional hard and harmonic spheres, where the mean-field description is expected to become exact. For hard spheres, replica mismatches destabilize the glassy metastable state and shift the dynamical transition to a significantly higher packing fraction, while leaving the leading thermodynamic glass transition unchanged. The resulting transition density agrees, at leading order in high dimensions, with the recent rigorous lower bound for random sphere packings obtained by Campos, Jenssen, Michelen, and Sahasrabudhe by using a discretized version of greedy Random Sequential Absorption, suggesting an algorithmic interpretation of the transition: grandcanonical dynamics is more efficient in high dimensional spaces than canonical one. For harmonic spheres at finite temperature, the glassy state contains a finite replica-mismatch fraction even at the thermodynamic ideal-glass transition, thereby shifting the transition point from that predicted by the conventional replica ansatz.",
+  "authors": [
+   "Harukuni Ikeda",
+   "Francesco Zamponi"
+  ],
+  "categories": [
+   "cond-mat.dis-nn",
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "27 pages, 6 figures",
+  "first_author": "Harukuni Ikeda",
+  "pdf_url": "http://arxiv.org/pdf/2607.26793",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-07-29",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "High-dimensional theory of the glass transition revisited: hopping and local defects",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.26814": {
+  "abstract": "The origin of the molecular building blocks of life is a central question in science. A few $α$-amino acids such as glycine, the simplest proteinogenic amino acid, have been detected in meteorites and comets, indicating an extraterrestrial origin for some prebiotic molecules. However, the formation of peptides, short chains of $α$-amino acids linked by peptide bonds, under astrophysical conditions has remained unresolved. Here we show that the building blocks of proteins can form in interstellar ice analogues exposed to ionising radiation, without the presence of liquid water. Using isotopically labelled glycine irradiated with protons at cryogenic temperatures, we detect the formation of glycylglycine, the simplest dipeptide, along with deuterated and non-deuterated water as by-products. Peptide bond formation is confirmed by infrared spectroscopy and high-resolution mass spectrometry, which also reveal the production of other complex organic species. These findings demonstrate a non-aqueous route to peptide formation under space-like conditions and suggest that such molecules could form in the cold interstellar medium and be incorporated into forming planetary systems. Our results challenge aqueous-centric models of early biochemical evolution and broaden potential settings for the origins of life.",
+  "authors": [
+   "Alfred Thomas Hopkinson",
+   "Ann Mary Wilson",
+   "Joe Pitfield",
+   "Alejandra Traspas Muiña",
+   "Richárd Rácz",
+   "Duncan V. Mifsud",
+   "Péter Herczku",
+   "Gergő Lakatos",
+   "Béla Sulik",
+   "Zoltán Juhász",
+   "Sándor Biri",
+   "Robert W. McCullough",
+   "Nigel J. Mason",
+   "Carsten Scavenius",
+   "Liv Hornekær",
+   "Sergio Ioppolo"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.EP",
+   "astro-ph.GA",
+   "physics.space-ph"
+  ],
+  "comment": "22 pages, 6 figures",
+  "first_author": "Alfred Thomas Hopkinson",
+  "pdf_url": "http://arxiv.org/pdf/2607.26814",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-07-29",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "An interstellar energetic and non-aqueous pathway to peptide formation",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27095": {
+  "abstract": "Density functional theory (DFT) underestimates the experimental band gap---the infamous band gap problem. As the band gap defines the energy scale of defect levels, this complicates computation of charge transition energies for atomic defects. In the extreme case of narrow-gap semiconductors, the DFT band gap collapses to zero, seemingly precluding quantitative predictions of defect levels. We present a band-avoiding occupation-constrained DFT (ba-occ-DFT) approach that prevents spurious occupation of band-edge states and enables reliable total energy calculations of atomic defects. Application to indium arsenide (InAs) shows that ba-occ-DFT circumvents the band gap problem, separates band-edge errors from defect level calculations, and enables rigorous defect level predictions in a narrow-gap semiconductor despite a zero DFT band gap.",
+  "authors": [
+   "Peter A. Schultz",
+   "Arthur H. Edwards",
+   "Evan M. Anderson",
+   "Anthony C. Knighton",
+   "Leopoldo Diaz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Peter A. Schultz",
+  "pdf_url": "http://arxiv.org/pdf/2607.27095",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-29",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "No band gap, no problem: Defects in InAs using a band-avoiding occupation-constrained density functional theory",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-29"
  }
 }
