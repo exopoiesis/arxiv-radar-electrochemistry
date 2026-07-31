@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27375.html">Evolution of the Irradiation Induced Defect Landscape through Dislocation Vacancy Loop Interactions in Tungsten</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Soumya Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27375">2607.27375</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22364.html">Mechanisms of Microstructural Evolution and Degradation in Aluminum under High-Damage Irradiation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Alhassan S. Issaka et al.</td>
@@ -320,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14642.html">Role of Oxygen Vacancies in Stabilizing the Orthorhombic Phases of Hf0.5Zr0.5O2 Nanoparticles</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Yuriy O. Zagorodniy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14642">2603.14642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00801.html">Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Min-Chul Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00801">2605.00801</a></td>
 </tr>
 </tbody></table>

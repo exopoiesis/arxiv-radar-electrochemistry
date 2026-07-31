@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">835 papers</span>
+  <span class="paper-count">834 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28441.html">Transport Evidence of Magnetic Polarization in the Altermagnetic Candidate MnTe</a></div></td>
+<td>Younes Ghorbani et al.</td>
+<td><a href="http://arxiv.org/abs/2607.28441">2607.28441</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26422.html">Physics-informed Machine Learning Prediction of Hubbard Interaction Parameters</a></div></td>
@@ -38,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27095.html">No band gap, no problem: Defects in InAs using a band-avoiding occupation-constrained density functional theory</a></div></td>
 <td>Peter A. Schultz et al.</td>
 <td><a href="http://arxiv.org/abs/2607.27095">2607.27095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27331.html">Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
+<td>Ying Li et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27331">2607.27331</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-28</td>
@@ -5006,23 +5018,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04506.html">$β$-Irida-Graphene: A New 2D Carbon Allotrope for Sodium-Ion Battery Anodes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>José A. S. Laranjeira et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04506">2508.04506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01967.html">From trigonal to triclinic: Symmetry-tuned Rashba effects in buckled honeycomb SrHfO$_{3}$-based heterostructures</a></div></td>
-<td>Okan Köksal</td>
-<td><a href="http://arxiv.org/abs/2508.01967">2508.01967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01979.html">Benchmarking total energies with Hund&#x27;s J terms in Hubbard-corrected spin-crossover chemistry</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Lórien MacEnulty et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01979">2508.01979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02956.html">Autonomous Inorganic Materials Discovery via Multi-Agent Physics-Aware Scientific Reasoning</a></div></td>
-<td>Alireza Ghafarollahi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02956">2508.02956</a></td>
 </tr>
 </tbody></table>

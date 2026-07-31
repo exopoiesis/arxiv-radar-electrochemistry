@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27513.html">Nanobubbles, pristine emulsions, high ionic strength electrokinetics -- paradoxes of Colloid and Interface Science</a></div></td>
+<td>Andrei Dukhin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27513">2607.27513</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21791.html">Load-dependent Taylor dispersion in a compliant electroosmotic pump conveying a simplified Phan-Thien-Tanner fluid</a></div></td>
 <td>Subhajyoti Sahoo et al.</td>
@@ -44,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22381.html">A Solid-state Sub-nm Pore for Single-mer Resolution Sequencing</a></div></td>
 <td>Jianxin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22381">2605.22381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07203.html">Reversible Ionic Aggregation Kinetics in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="electrolyte-structure-90d.html">electrolyte-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zachary A. H. Goodwin</td>
-<td><a href="http://arxiv.org/abs/2603.07203">2603.07203</a></td>
 </tr>
 </tbody></table>

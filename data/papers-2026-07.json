@@ -3911,5 +3911,292 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-07-29"
+ },
+ "2607.27295": {
+  "abstract": "The rational design of photocatalysts for environmental remediation and CO2 conversion remains limited by the high computational cost and sparse experimental data describing multi-parameter photocatalytic behavior. This work presents an integrated machine-learning framework that couples reinforcement learning-based metal-organic framework (MOF) generation with a multi-stage Crystal Graph Convolutional Neural Network (CGCNN) prediction funnel to identify photocatalysts optimized across multiple electronic and structural features. 120,000 MOF candidates were generated and screened using 13 key descriptors, including band-gap suitability, CO2/H2O selectivity, adsorption energy, and structural stability. The funnel approach reduced computational cost by 4.13-fold while maintaining predictive robustness. Two top candidates, a Cr-based and a Zn-based MOF, exhibited predicted photocatalytic fitness values of 1.70 +/- 0.25 and 1.20 +/- 0.05 fold higher respectively than benchmark materials such as PCN-224(Zr), demonstrating simultaneous improvements in light absorption, redox energetics, and framework durability. Simulated X-ray diffraction patterns confirmed strong structural agreement with experimentally synthesized MOFs, indicating high synthesizability. Post-hoc analysis revealed recurring structural motifs, such as the N262 metal cluster, that correlated strongly with high predicted photocatalytic activity. These results highlight the potential of data-driven methods to accelerate discovery of efficient and durable photocatalysts for environmental and energy-related transformations, providing a foundation for experimental realization and large-scale implementation of computationally designed MOFs.",
+  "authors": [
+   "Satya Kokonda"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "8 figures, 0 tables. Supplementary information attached to file and data (Zenodo, Github) available",
+  "first_author": "Satya Kokonda",
+  "pdf_url": "http://arxiv.org/pdf/2607.27295",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-29",
+  "tags": [
+   "adsorption",
+   "adsorption-energy"
+  ],
+  "title": "MatCreatioNN: Machine learning-guided computational discovery of photocatalysts for environmental applications",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27331": {
+  "abstract": "Realizing altermagnetism in high-$T_c$ cuprate-based systems would provide a direct route for studying spin-split electronic bands in the absence of net magnetization and investigate their interplay with unconventional superconductivity. Here, we propose that FeSe/cuprate heterostructures offer such a platform, where a 45$^\\circ$ twist of Cu and Fe layers creates an effective CuFe$_2$ Lieb lattice in which Fe magnetic order and Cu-Fe hybridization through the ligands induces altermagnetic $d$-wave spin splitting. A minimal tight-binding model shows that this mechanism is generic. Furthermore, a substrate-induced inequivalence of the two Se sites in FeSe provides a second route in which altermagnetism originates in the Fe layer and is transferred to the cuprate layer by proximity. Density functional theory calculations for FeSe/Bi$_2$Sr$_2$CuO$_6$ heterostructures confirm the viability of both mechanisms and reveal ways to enhance the spin splitting. These results establish superconducting cuprate/transition metal chalcogenide heterostructures as a promising setting for engineering altermagnetism and studying its coupling to unconventional superconductivity.",
+  "authors": [
+   "Ying Li",
+   "Augustin Davignon",
+   "Peng Rao",
+   "Runhan Li",
+   "Maia G. Vergniory",
+   "Roser Valentí",
+   "Johannes Knolle"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.supr-con"
+  ],
+  "comment": null,
+  "first_author": "Ying Li",
+  "pdf_url": "http://arxiv.org/pdf/2607.27331",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-07-29",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27375": {
+  "abstract": "Structural materials for fusion reactors undergo neutron irradiation, generating defect populations that govern their mechanical response through irradiation hardening. Physically based mesoscale constitutive models require accurate descriptions of dislocation defect interactions and, critically, how both defect morphology and obstacle strength evolve during plastic deformation as the irradiation-induced defect landscape changes. Vacancy loops provide an ideal prototype for addressing this problem because they are among the most prevalent irradiation-induced defects in tungsten, yet their interaction mechanisms with dislocations and subsequent evolution remain poorly understood. Molecular dynamics simulations are used to systematically investigate interactions between edge dislocations and vacancy loops in tungsten by varying loop size, crystallographic orientation, and dislocation loop intersection geometry. Parallel loops exhibit strong geometry dependent behaviour, undergoing complete annihilation, transformation into weaker remnant defects, or defect transport depending on the interaction geometry. In contrast, inclined loops interact through Burgers vector reactions that form sessile <100> dislocation segments, producing substantially higher pinning strengths with little sensitivity to the intersection position. Finally, a framework is demonstrated for translating atomistically determined obstacle strengths into constitutive parameters, such as irradiation hardening, for mesoscale models. The mechanistic understanding developed here provides the physical basis for future mesoscale constitutive laws that explicitly account for the evolution of irradiation-induced defect populations and the resulting changes in dislocation-defect interaction mechanisms and obstacle strength, thereby improving predictive capability beyond calibrated conditions.",
+  "authors": [
+   "Soumya Mishra",
+   "Suchandrima Das"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Soumya Mishra",
+  "pdf_url": "http://arxiv.org/pdf/2607.27375",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-29",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Evolution of the Irradiation Induced Defect Landscape through Dislocation Vacancy Loop Interactions in Tungsten",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27513": {
+  "abstract": "There are three paradoxes in the modern Colloid and Interface Science supported by large bulk of experimental evidence and contradicting classical theoretical models: - Electrokinetics at high ionic strength; - Nanobubbles having life span on scale of days and weeks without any surface stabilization; - Pristine emulsions having life span on scale of days and weeks without any surface stabilization.   We overview many dozens of experimental papers by broad spectrum of scientific groups from many countries. We consider this vast experimental data as unambiguous evidence that these phenomena exist. On other hand, classical theoretical models deny such possibility.   This contradiction between experiment and theory justifies introduction of new theoretical models. We overview these models. It turns out that there is one common feature between most promising of them -- assumption regarding structured water layer at hydrophobic interface. That is why we combine these three phenomena in this review. There is extensive literature on century old idea of the structured water layer, experimental and theoretical. We overview this literature, which provides convincing support to this hypothesis. We discuss existing theoretical models that incorporate the structured interfacial water layer for the successful explanation of these phenomena in more detail. Theoretical model of electrokinetics at high ionic strength was developed several decades ago. Theoretical model explaining paradoxical longevity of nanobubbles and pristine emulsions by interaction between structured water layer and electric double layer is more recent.",
+  "authors": [
+   "Andrei Dukhin",
+   "Renliang Xu",
+   "Darrell Velegol"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "36 pages, 5 figures, 7 equations, 1 table",
+  "first_author": "Andrei Dukhin",
+  "pdf_url": "http://arxiv.org/pdf/2607.27513",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-29",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Nanobubbles, pristine emulsions, high ionic strength electrokinetics -- paradoxes of Colloid and Interface Science",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27561": {
+  "abstract": "If electronics drives only electrons to charge electrodes, natural systems learn by moving matter to evolve. Morphogenesis in sessile organisms can be seen both as a fabrication process and as an operative mechanism. However, intricating manufacturing and programming functionalities in electronic hardware is not conventional. In this study, we experimentally implement such a concept of an evolutionary electrical system using a neuro-inspired electronic nose as a model, to store a history of sensory data in the physical properties of the electrical interconnects of sensing elements. Triggered only by volatile molecule exposures, different sensing elements change instantaneously and reversibly their impedance, so pulse voltages enable the electrochemical growth of conducting polymer dendrites. The strength of the evolving interconnects is specific to the sensing materials and to the nature of volatile molecules to which they are exposed. The dendritic growths occur exclusively when exposed to volatile samples, and stop immediately after interrupting the exposure. The capability of such \"passive memory\" was also assessed by simulating a network architecture, which showed that this way of storing information should greatly diminish the fabrication complexity of a highly dense sensing array while realistically enabling its calibration to classify user-specific environment exposures. By demonstrating that memory in electronics can be a concept linked to manufacturing like in living organisms, this study shows that low material resources and low energy activation can be exploited for practical electronic applications in future-emerging sensing technologies.",
+  "authors": [
+   "Antoine Baron",
+   "Bilel Hafsi",
+   "Enrique H. Balaguera",
+   "Sébastien Pecqueur"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Antoine Baron",
+  "pdf_url": "http://arxiv.org/pdf/2607.27561",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-30",
+  "tags": [],
+  "title": "Storing Sensor Events in the Interconnection Strength of Conducting Polymer Dendrites",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27803": {
+  "abstract": "An equation-of-state (EOS)-based construction of the Grüneisen function is developed and assessed through predictions of finite-temperature bulk moduli. In this approach, the volume dependence of the Grüneisen function is expressed analytically in terms of static EOS information, anchored by Debye temperatures obtained from elastic data sampled near equilibrium, and constrained by the infinite-compression limit. The resulting form requires as material-specific input only static energy-volume data and near-equilibrium elastic properties, with no parameters adjusted to thermal data. Within a Mie--Grüneisen--Debye framework, the approach is examined for diamond, magnesium oxide, silicon, and sodium chloride, chosen to span a broad range of stiffness, using machine-learning interatomic potentials from the Universal Models for Atoms (UMA) and Universal Point Edge Transformer (UPET) families, together with a dispersion-corrected variant of UMA. The calculated bulk moduli reproduce the expected experimental softening trends and capture the overall scale of the bulk-modulus temperature derivatives, although the level of quantitative agreement depends on the material, the underlying interatomic potential, and the selected analytic EOS form. These results show that an EOS-based construction of the Grüneisen function can capture the leading thermal-softening behavior of bulk moduli without fitting to thermal data. The observed sensitivity to the underlying static description further suggests that the framework may help identify deficiencies relevant to thermoelastic transferability and thereby inform future training and validation strategies for universal machine-learning interatomic potentials.",
+  "authors": [
+   "Çetin Kılıç"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 10 figures",
+  "first_author": "Çetin Kılıç",
+  "pdf_url": "http://arxiv.org/pdf/2607.27803",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-30",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Finite-temperature bulk moduli from an EOS-based Grüneisen function",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.27844": {
+  "abstract": "Physical computing leverages complex dynamical systems for energy-efficient data processing. In this work, we present a neuromorphic architecture based on metallic nanoparticles interconnected by molecular junctions on a $\\text{SiO}_2$/Si substrate. We demonstrate that surrounding static control electrodes transform this nanoparticle network from a passive reservoir into a tunable nonlinear dynamical system. By analyzing how these electrodes route simple one-dimensional voltage inputs into multidimensional signal responses, we establish three core design rules to maximize computational performance. First, operating near the system's cutoff frequency achieves an optimal balance between nonlinear charge tunneling and linear capacitive memory. Second, tuning the underlying $\\text{SiO}_2$ thickness sets the electrostatic screening length and dictates the memory type. Thick oxide layers reduce the screening length, causing networks larger than this length to transition into a persistent, non-volatile-like regime. Conversely, networks smaller than the screening length exhibit only fading memory. Third, introducing structural disorder via heterogeneous molecular junctions overcomes inherent limits on expressivity. While a network's computational expressivity scales with its physical size, it is ultimately capped by the screening length. Breaking internal spatial symmetries with localized disorder bypasses this saturation, allowing control voltages to independently manipulate specific signal amplitudes and phases, universally maximizing performance for dynamic neuromorphic applications.",
+  "authors": [
+   "Jonas Mensing",
+   "Wilfred G. van der Wiel",
+   "Andreas Heuer"
+  ],
+  "categories": [
+   "cs.ET",
+   "cond-mat.mes-hall",
+   "cs.AR",
+   "cs.LG",
+   "cs.NE"
+  ],
+  "comment": null,
+  "first_author": "Jonas Mensing",
+  "pdf_url": "http://arxiv.org/pdf/2607.27844",
+  "primary_category": "cs.ET",
+  "published": "2026-07-30",
+  "tags": [],
+  "title": "Nanoparticle Networks for Neuromorphic Computing",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.28000": {
+  "abstract": "Accurate atomistic modelling of iron (Fe) oxidation requires a reliable interatomic potential, which necessitates an extensive and representative first-principles dataset for training the interatomic potential. However, Fe-oxygen (O) system is known for its structural and magnetic complexity, rendering the generation of high-quality dataset challenging. In this work, we propose the Perturbation Augmented Space group structure Sampling (PASS) method to generate extensive and representative dataset consisting of small-cell structures with less than 10 atoms. We present a systematic approach to developing a first of its kind transferable machine learning interatomic potential (MLIP) for Fe-O system based on the atomic cluster expansion (ACE) framework. We thoroughly validate the accuracy and capability of the ACE MLIP across both pure Fe and Fe-O systems through bulk, surface, and interface properties. We showcase the formation of FeO-like structure in large-scale Fe oxidation simulation using the ACE MLIP. This work demonstrates that the PASS method yields an accurate and transferable MLIP which is capable of capturing the reactive complexity of oxide growth while remaining computationally practical for extended systems.",
+  "authors": [
+   "Zixiong Wei",
+   "Fei Shuang",
+   "Poulumi Dey"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "33 pages, 5 figures",
+  "first_author": "Zixiong Wei",
+  "pdf_url": "http://arxiv.org/pdf/2607.28000",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-30",
+  "tags": [
+   "ab-initio",
+   "mlip"
+  ],
+  "title": "PASS: Perturbation augmented space group structure sampling for transferable Fe-O machine learning interatomic potential",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.28250": {
+  "abstract": "Agents that exert causal power in the world are thought to be the product of selection among diverse replicators; what is the causal structure of a medium before replicators appear, and evolution takes hold? We studied information-theoretic dynamics of the popular GARD model that captures several dynamics thought to be important at life's origin and found that causal emergence predicted the initial appearance of self-replication. Moreover, interventions that drove causal emergence up increased the longevity of self-replicators, while interventions that drove causal emergence down decreased the abundance of these self-replicators, suggesting causal emergence as a functional control knob. Thus, progressive increases in integrated causality are detectable in active media before evolutionary dynamics begin to operate, which may have implications for the origin of life across highly diverse scenarios and for understanding the forces driving the rise in causal power observed in the biosphere on Earth.",
+  "authors": [
+   "Federico Pigozzi",
+   "Michael Levin"
+  ],
+  "categories": [
+   "q-bio.PE"
+  ],
+  "comment": "18 pages, 6 figures",
+  "first_author": "Federico Pigozzi",
+  "pdf_url": "http://arxiv.org/pdf/2607.28250",
+  "primary_category": "q-bio.PE",
+  "published": "2026-07-30",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Causal Architecture Dynamics Prior to Arrival of Self-replicators in a Model of Catalytic Networks Relevant to Origin-of-Life",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.28441": {
+  "abstract": "The ability to precisely control magnetic properties is central to the development of future spin-based electronics. In this work, we report the successful growth of epitaxial α-MnTe thin films on InP(111) substrates using molecular beam epitaxy. Magneto-transport measurements at low temperatures reveal a distinct, hysteretic butterfly longitudinal magnetoresistance alongside a nonlinear transverse magneto-resistance response, suggesting the presence of a finite net magnetic polarization in the films. To understand the origin of this behavior, density functional theory (DFT) calculations were performed. While pristine bulk MnTe is a compensated antiferromagnet, our computational results suggest multiple pathways through which a finite magnetization can emerge in thin-film geometries, including interface-induced symmetry breaking and point defects. These findings demonstrate an epitaxial route for engineering magnetic responses in thin films.",
+  "authors": [
+   "Younes Ghorbani",
+   "Nayana Devaraj",
+   "Joshua Maile",
+   "Samuel Poage",
+   "Qihua Zhang",
+   "Maria Hilse",
+   "Stephanie Law",
+   "Salva Salmani-Rezaie",
+   "Awadhesh Narayan",
+   "Kaveh Ahadi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Younes Ghorbani",
+  "pdf_url": "http://arxiv.org/pdf/2607.28441",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-30",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Transport Evidence of Magnetic Polarization in the Altermagnetic Candidate MnTe",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-30"
+ },
+ "2607.28548": {
+  "abstract": "We demonstrate a quantum-classical workflow for ab initio molecular dynamics (AIMD) in which quantum measurements from a chemistry-inspired LUCJ ansatz are post-processed using Sample-based Quantum Diagonalization (SQD) to recover determinant subspaces and deliver energies and analytical nuclear gradients for dynamics. As an exact benchmark, we use full configuration interaction (FCI) in the STO-3G basis, enabling a direct assessment of the accuracy of SQD. In gas-phase benchmarks, SQD reproduces FCI energies and gradients to within 1 kcal mol$^{-1}$ of the FCI reference and yields stable AIMD trajectories. In explicit-solvent QM/MM simulations, SQD retains this agreement, matching FCI energy fluctuations and RMS gradient profiles and reproducing solute-solvent structure as quantified by radial distribution functions. Overall, these benchmarks establish LUCJ+SQD as a practical route for integrating current quantum hardware into QM/MM molecular dynamics and provide an early demonstration of condensed-phase QM/MM dynamics driven by a quantum electronic-structure engine.",
+  "authors": [
+   "Susanta Das",
+   "Subhamoy Bhowmik",
+   "Zhen Li",
+   "Milana Bazayeva",
+   "Danil Kaliakin",
+   "Akhil Shajan",
+   "Kenneth M. Merz"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": "45 pages, 7 figures. Supporting Information included as an ancillary file",
+  "first_author": "Susanta Das",
+  "pdf_url": "http://arxiv.org/pdf/2607.28548",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-30",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Quantum Computing Enabled ab initio Molecular Dynamics Simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-07-30"
  }
 }
