@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>formate — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="formate-7d.html">7d</a> <a href="formate-30d.html">30d</a> <a href="formate-90d.html">90d</a> <strong>360d</strong> <a href="formate-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07494.html">First-principles study of formic acid decomposition on single Pt atoms supported on heteroatom-doped graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Kazuma Sato et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07494">2509.07494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03591.html">Molecular dynamics of ice-active solutions at ice-water interfaces</a></div><div class="paper-tags"><a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Benjamin M. Harless et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03591">2508.03591</a></td>
 </tr>
 </tbody></table>

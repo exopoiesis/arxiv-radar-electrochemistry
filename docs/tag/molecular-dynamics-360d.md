@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">568 papers</span>
+  <span class="paper-count">566 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3410,17 +3410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04506.html">$β$-Irida-Graphene: A New 2D Carbon Allotrope for Sodium-Ion Battery Anodes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>José A. S. Laranjeira et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04506">2508.04506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04137.html">Atomic scale structure and dynamical properties of (TeO$_2$)$_{1-x}$-(Na$_2$O)$_{x}$ glasses through first-principles modeling and XRD measurements</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Firas Shuaib et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04137">2506.04137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03591.html">Molecular dynamics of ice-active solutions at ice-water interfaces</a></div><div class="paper-tags"><a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="formate-360d.html">formate</a></div></td>
-<td>Benjamin M. Harless et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03591">2508.03591</a></td>
 </tr>
 </tbody></table>
