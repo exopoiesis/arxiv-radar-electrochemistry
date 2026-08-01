@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">234 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1418,23 +1418,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00946.html">Atomic cluster expansion interatomic potential for defects and thermodynamics of Cu-W system</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Jiahao Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.00946">2407.00946</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00133.html">Calculation of crystal defects induced in CaWO$_{4}$ by 100 eV displacement cascades using a linear Machine Learning interatomic potential</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Gabrielle Soum-Sidikov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00133">2407.00133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14306.html">Efficient parameterization of transferable Atomic Cluster Expansion for water</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="active-learning-all.html">active-learning</a> · <a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Eslam Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14306">2406.14306</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08554.html">Quantum Hardware-Enabled Molecular Dynamics via Transfer Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Abid Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08554">2406.08554</a></td>
 </tr>
 </tbody></table>

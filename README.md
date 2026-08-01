@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3380 papers across 26 months.
+**Total corpus:** 3309 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,13 +18,12 @@
     <li><a href=#sulfidation-phase-stability-and-corrosion>Sulfidation, Phase Stability, and Corrosion</a> (50)</li>
     <li><a href=#aqueous-chemistry-and-solvation>Aqueous Chemistry and Solvation</a> (50)</li>
     <li><a href=#origin-of-life-and-prebiotic-mineral-catalysis>Origin of Life and Prebiotic Mineral Catalysis</a> (50)</li>
-    <li><a href=#viaauthor-whitelistpimd-mlips-water>via:author-whitelist:PIMD, MLIPs, water</a> (22)</li>
-    <li><a href=#viaauthor-whitelistace-potentials>via:author-whitelist:ACE potentials</a> (15)</li>
-    <li><a href=#viaauthor-whitelistpyrite-geochemistry-prebiotic>via:author-whitelist:pyrite geochemistry, prebiotic</a> (1)</li>
     <li><a href=#viaauthor-whitelistmlips-water-free-energy>via:author-whitelist:MLIPs, water, free energy</a> (12)</li>
+    <li><a href=#viaauthor-whitelistpimd-mlips-water>via:author-whitelist:PIMD, MLIPs, water</a> (21)</li>
     <li><a href=#viaauthor-whitelistjdftx-electrochemistry-dft-solvation>via:author-whitelist:JDFTx, electrochemistry-DFT, solvation</a> (3)</li>
     <li><a href=#viaauthor-whitelistprebiotic-synthesis-rna-world>via:author-whitelist:prebiotic synthesis, RNA world</a> (3)</li>
     <li><a href=#viaauthor-whitelistdft-catalysis-gpaw>via:author-whitelist:DFT catalysis, GPAW</a> (6)</li>
+    <li><a href=#viaauthor-whitelistace-potentials>via:author-whitelist:ACE potentials</a> (14)</li>
     <li><a href=#adsorption-and-ion-transport>Adsorption and Ion Transport</a> (25)</li>
     <li><a href=#atomistic-modeling-of-sulfides>Atomistic Modeling of Sulfides</a> (50)</li>
     <li><a href=#sulfidation-and-phase-stability>Sulfidation and Phase Stability</a> (45)</li>
@@ -683,6 +682,25 @@
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
+## via:author-whitelist:MLIPs, water, free energy
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-05-07**|**Polarizable atomic multipoles for learning long-range electrostatics**|Dongjin Kim et al.|[2605.05746](http://arxiv.org/abs/2605.05746)|[md](abstracts/2605.05746.md)|
+|**2026-03-30**|**Hydrogen-helium immiscibility boundary in planets**|Xiaoyu Wang et al.|[2603.28927](http://arxiv.org/abs/2603.28927)|[md](abstracts/2603.28927.md)|
+|**2025-12-19**|**Long-range electrostatics for machine learning interatomic potentials is easier than we thought**|Dongjin Kim et al.|[2512.18029](http://arxiv.org/abs/2512.18029)|[md](abstracts/2512.18029.md)|
+|**2025-09-17**|**Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer**|Xiaoyu Wang et al.|[2509.13727](http://arxiv.org/abs/2509.13727)|[md](abstracts/2509.13727.md)|
+|**2025-07-18**|**A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials**|Dongjin Kim et al.|[2507.14302](http://arxiv.org/abs/2507.14302)|[md](abstracts/2507.14302.md)|
+|**2025-06-24**|**Foundation Models for Atomistic Simulation of Chemistry and Materials**|Eric C. -Y. Yuan et al.|[2503.10538](http://arxiv.org/abs/2503.10538)|[md](abstracts/2503.10538.md)|
+|**2025-04-07**|**Machine learning interatomic potential can infer electrical response**|Peichen Zhong et al.|[2504.05169](http://arxiv.org/abs/2504.05169)|[md](abstracts/2504.05169.md)|
+|**2025-02-05**|**Thermal transport of amorphous hafnia across the glass transition**|Zezhu Zeng et al.|[2502.03114](http://arxiv.org/abs/2502.03114)|[md](abstracts/2502.03114.md)|
+|**2024-12-19**|**Lattice distortion leads to glassy thermal transport in crystalline Cs$_3$Bi$_2$I$_6$Cl$_3$**|Zezhu Zeng et al.|[2407.18510](http://arxiv.org/abs/2407.18510)|[md](abstracts/2407.18510.md)|
+|**2024-12-19**|**Latent Ewald summation for machine learning of long-range interactions**|Bingqing Cheng|[2408.15165](http://arxiv.org/abs/2408.15165)|[md](abstracts/2408.15165.md)|
+|**2024-12-19**|**Learning charges and long-range interactions from energies and forces**|Dongjin Kim et al.|[2412.15455](http://arxiv.org/abs/2412.15455)|[md](abstracts/2412.15455.md)|
+|**2024-07-30**|**Cartesian atomic cluster expansion for machine learning interatomic potentials**|Bingqing Cheng|[2402.07472](http://arxiv.org/abs/2402.07472)|[md](abstracts/2402.07472.md)|
+
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+
 ## via:author-whitelist:PIMD, MLIPs, water
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -708,56 +726,6 @@
 |**2025-03-24**|**Fast and flexible long-range models for atomistic machine learning**|Philip Loche et al.|[2412.03281](http://arxiv.org/abs/2412.03281)|[md](abstracts/2412.03281.md)|
 |**2025-01-24**|**Adaptive energy reference for machine-learning models of the electronic density of states**|Wei Bin How et al.|[2407.01068](http://arxiv.org/abs/2407.01068)|[md](abstracts/2407.01068.md)|
 |**2024-07-10**|**i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations**|Yair Litman et al.|[2405.15224](http://arxiv.org/abs/2405.15224)|[md](abstracts/2405.15224.md)|
-|**2024-06-17**|**Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy**|Davide Tisi et al.|[2401.12936](http://arxiv.org/abs/2401.12936)|[md](abstracts/2401.12936.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:ACE potentials
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-05-01**|**AI-Driven Expansion and Application of the Alexandria Database**|Théo Cavignac et al.|[2512.09169](http://arxiv.org/abs/2512.09169)|[md](abstracts/2512.09169.md)|
-|**2026-03-18**|**Hydrogen uptake and hydride formation in Al$_x$CoCrFeNi high-entropy alloys: First-principles, universal-potential, and experimental study**|Fritz Körmann et al.|[2603.17479](http://arxiv.org/abs/2603.17479)|[md](abstracts/2603.17479.md)|
-|**2026-02-26**|**Exploring the extremes: atomic basis for multi-elemental materials science under complex thermodynamic conditions**|Anton Bochkarev et al.|[2602.23489](http://arxiv.org/abs/2602.23489)|[md](abstracts/2602.23489.md)|
-|**2026-01-19**|**Water Phase Diagram from a General-Purpose Atomic Cluster Expansion Potential**|Eslam Ibrahim et al.|[2601.12947](http://arxiv.org/abs/2601.12947)|[md](abstracts/2601.12947.md)|
-|**2026-01-03**|**Graph atomic cluster expansion for foundational machine learning interatomic potentials**|Yury Lysogorskiy et al.|[2508.17936](http://arxiv.org/abs/2508.17936)|[md](abstracts/2508.17936.md)|
-|**2025-12-08**|**Conservative adaptive-precision interatomic potentials**|David Immel et al.|[2512.07693](http://arxiv.org/abs/2512.07693)|[md](abstracts/2512.07693.md)|
-|**2025-07-25**|**Data-efficient machine-learning of complex Fe-Mo intermetallics using domain knowledge of chemistry and crystallography**|Mariano Forti et al.|[2507.19660](http://arxiv.org/abs/2507.19660)|[md](abstracts/2507.19660.md)|
-|**2025-05-23**|**Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium**|Anna Grünebohm et al.|[2505.17991](http://arxiv.org/abs/2505.17991)|[md](abstracts/2505.17991.md)|
-|**2025-05-19**|**Nanoindentation simulations for copper and tungsten with adaptive-precision potentials**|David Immel et al.|[2505.12958](http://arxiv.org/abs/2505.12958)|[md](abstracts/2505.12958.md)|
-|**2025-03-31**|**Core structure of dislocations in ordered ferromagnetic FeCo**|Aleksei Egorov et al.|[2402.10056](http://arxiv.org/abs/2402.10056)|[md](abstracts/2402.10056.md)|
-|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
-|**2024-11-06**|**Charge-constrained Atomic Cluster Expansion**|Matteo Rinaldi et al.|[2411.04062](http://arxiv.org/abs/2411.04062)|[md](abstracts/2411.04062.md)|
-|**2024-11-05**|**Adaptive-precision potentials for large-scale atomistic simulations**|David Immel et al.|[2411.03002](http://arxiv.org/abs/2411.03002)|[md](abstracts/2411.03002.md)|
-|**2024-07-18**|**Development of an Atomic Cluster Expansion potential for iron and its oxides**|Baptiste Bienvenu et al.|[2407.13903](http://arxiv.org/abs/2407.13903)|[md](abstracts/2407.13903.md)|
-|**2024-06-20**|**Efficient parameterization of transferable Atomic Cluster Expansion for water**|Eslam Ibrahim et al.|[2406.14306](http://arxiv.org/abs/2406.14306)|[md](abstracts/2406.14306.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:pyrite geochemistry, prebiotic
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2024-06-25**|**A microscopic approach to crystallization: challenging the classical/non-classical dichotomy**|James F. Lutsko et al.|[2406.17543](http://arxiv.org/abs/2406.17543)|[md](abstracts/2406.17543.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:MLIPs, water, free energy
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-05-07**|**Polarizable atomic multipoles for learning long-range electrostatics**|Dongjin Kim et al.|[2605.05746](http://arxiv.org/abs/2605.05746)|[md](abstracts/2605.05746.md)|
-|**2026-03-30**|**Hydrogen-helium immiscibility boundary in planets**|Xiaoyu Wang et al.|[2603.28927](http://arxiv.org/abs/2603.28927)|[md](abstracts/2603.28927.md)|
-|**2025-12-19**|**Long-range electrostatics for machine learning interatomic potentials is easier than we thought**|Dongjin Kim et al.|[2512.18029](http://arxiv.org/abs/2512.18029)|[md](abstracts/2512.18029.md)|
-|**2025-09-17**|**Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer**|Xiaoyu Wang et al.|[2509.13727](http://arxiv.org/abs/2509.13727)|[md](abstracts/2509.13727.md)|
-|**2025-07-18**|**A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials**|Dongjin Kim et al.|[2507.14302](http://arxiv.org/abs/2507.14302)|[md](abstracts/2507.14302.md)|
-|**2025-06-24**|**Foundation Models for Atomistic Simulation of Chemistry and Materials**|Eric C. -Y. Yuan et al.|[2503.10538](http://arxiv.org/abs/2503.10538)|[md](abstracts/2503.10538.md)|
-|**2025-04-07**|**Machine learning interatomic potential can infer electrical response**|Peichen Zhong et al.|[2504.05169](http://arxiv.org/abs/2504.05169)|[md](abstracts/2504.05169.md)|
-|**2025-02-05**|**Thermal transport of amorphous hafnia across the glass transition**|Zezhu Zeng et al.|[2502.03114](http://arxiv.org/abs/2502.03114)|[md](abstracts/2502.03114.md)|
-|**2024-12-19**|**Lattice distortion leads to glassy thermal transport in crystalline Cs$_3$Bi$_2$I$_6$Cl$_3$**|Zezhu Zeng et al.|[2407.18510](http://arxiv.org/abs/2407.18510)|[md](abstracts/2407.18510.md)|
-|**2024-12-19**|**Latent Ewald summation for machine learning of long-range interactions**|Bingqing Cheng|[2408.15165](http://arxiv.org/abs/2408.15165)|[md](abstracts/2408.15165.md)|
-|**2024-12-19**|**Learning charges and long-range interactions from energies and forces**|Dongjin Kim et al.|[2412.15455](http://arxiv.org/abs/2412.15455)|[md](abstracts/2412.15455.md)|
-|**2024-07-30**|**Cartesian atomic cluster expansion for machine learning interatomic potentials**|Bingqing Cheng|[2402.07472](http://arxiv.org/abs/2402.07472)|[md](abstracts/2402.07472.md)|
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
@@ -791,6 +759,27 @@
 |**2025-03-31**|**$Δ$-model correction of Foundation Model based on the models own understanding**|Mads-Peter Verner Christiansen et al.|[2502.21179](http://arxiv.org/abs/2502.21179)|[md](abstracts/2502.21179.md)|
 |**2024-07-19**|**Augmentation of Universal Potentials for Broad Applications**|Joe Pitfield et al.|[2407.14288](http://arxiv.org/abs/2407.14288)|[md](abstracts/2407.14288.md)|
 |**2024-07-17**|**Efficient ensemble uncertainty estimation in Gaussian Processes Regression**|Mads-Peter Verner Christiansen et al.|[2407.12525](http://arxiv.org/abs/2407.12525)|[md](abstracts/2407.12525.md)|
+
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+
+## via:author-whitelist:ACE potentials
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-05-01**|**AI-Driven Expansion and Application of the Alexandria Database**|Théo Cavignac et al.|[2512.09169](http://arxiv.org/abs/2512.09169)|[md](abstracts/2512.09169.md)|
+|**2026-03-18**|**Hydrogen uptake and hydride formation in Al$_x$CoCrFeNi high-entropy alloys: First-principles, universal-potential, and experimental study**|Fritz Körmann et al.|[2603.17479](http://arxiv.org/abs/2603.17479)|[md](abstracts/2603.17479.md)|
+|**2026-02-26**|**Exploring the extremes: atomic basis for multi-elemental materials science under complex thermodynamic conditions**|Anton Bochkarev et al.|[2602.23489](http://arxiv.org/abs/2602.23489)|[md](abstracts/2602.23489.md)|
+|**2026-01-19**|**Water Phase Diagram from a General-Purpose Atomic Cluster Expansion Potential**|Eslam Ibrahim et al.|[2601.12947](http://arxiv.org/abs/2601.12947)|[md](abstracts/2601.12947.md)|
+|**2026-01-03**|**Graph atomic cluster expansion for foundational machine learning interatomic potentials**|Yury Lysogorskiy et al.|[2508.17936](http://arxiv.org/abs/2508.17936)|[md](abstracts/2508.17936.md)|
+|**2025-12-08**|**Conservative adaptive-precision interatomic potentials**|David Immel et al.|[2512.07693](http://arxiv.org/abs/2512.07693)|[md](abstracts/2512.07693.md)|
+|**2025-07-25**|**Data-efficient machine-learning of complex Fe-Mo intermetallics using domain knowledge of chemistry and crystallography**|Mariano Forti et al.|[2507.19660](http://arxiv.org/abs/2507.19660)|[md](abstracts/2507.19660.md)|
+|**2025-05-23**|**Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium**|Anna Grünebohm et al.|[2505.17991](http://arxiv.org/abs/2505.17991)|[md](abstracts/2505.17991.md)|
+|**2025-05-19**|**Nanoindentation simulations for copper and tungsten with adaptive-precision potentials**|David Immel et al.|[2505.12958](http://arxiv.org/abs/2505.12958)|[md](abstracts/2505.12958.md)|
+|**2025-03-31**|**Core structure of dislocations in ordered ferromagnetic FeCo**|Aleksei Egorov et al.|[2402.10056](http://arxiv.org/abs/2402.10056)|[md](abstracts/2402.10056.md)|
+|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
+|**2024-11-06**|**Charge-constrained Atomic Cluster Expansion**|Matteo Rinaldi et al.|[2411.04062](http://arxiv.org/abs/2411.04062)|[md](abstracts/2411.04062.md)|
+|**2024-11-05**|**Adaptive-precision potentials for large-scale atomistic simulations**|David Immel et al.|[2411.03002](http://arxiv.org/abs/2411.03002)|[md](abstracts/2411.03002.md)|
+|**2024-07-18**|**Development of an Atomic Cluster Expansion potential for iron and its oxides**|Baptiste Bienvenu et al.|[2407.13903](http://arxiv.org/abs/2407.13903)|[md](abstracts/2407.13903.md)|
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 

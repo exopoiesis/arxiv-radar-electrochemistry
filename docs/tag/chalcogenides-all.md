@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chalcogenides — all</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <a href="chalcogenides-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,23 +662,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14706.html">First Order Preemptive Ising-nematic Transition in K$_{5}$Fe$_{4}$Ag$_{6}$Te$_{10}$</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
 <td>N. Giles-Donovan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.14706">2407.14706</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09223.html">Solving the Synthetic Riddle of Colloidal 2D PbTe Nanoplatelets with Tunable Near-Infrared Emission</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a></div></td>
-<td>Leon Biesterfeld et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09223">2406.09223</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08011.html">Growth of VO2-ZnS Thin Film Cavity for Adaptive Thermal Emission</a></div></td>
-<td>Raymond Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08011">2406.08011</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06883.html">A way to identify whether a DFT gap is from right reasons or error cancellations: The case of copper chalcogenides</a></div></td>
-<td>Jiale Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06883">2406.06883</a></td>
 </tr>
 </tbody></table>

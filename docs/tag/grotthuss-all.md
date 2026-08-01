@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>grotthuss — all</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="grotthuss-7d.html">7d</a> <a href="grotthuss-30d.html">30d</a> <a href="grotthuss-90d.html">90d</a> <a href="grotthuss-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18842.html">Lagrangian Formulation of Nuclear-Electronic Orbital Ehrenfest Dynamics with Real-time TDDFT for Extended Periodic Systems</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Jianhang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2407.18842">2407.18842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19195.html">Quantum Tunneling Could Enable Proton Transfer Reactions on Titan</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="origin-of-life-all.html">origin-of-life</a></div></td>
-<td>Henry W. Longo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19195">2405.19195</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,23 +800,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14706.html">First Order Preemptive Ising-nematic Transition in K$_{5}$Fe$_{4}$Ag$_{6}$Te$_{10}$</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a></div></td>
 <td>N. Giles-Donovan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.14706">2407.14706</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17050.html">Pressure-induced exciton formation and superconductivity in platinum-based mineral Sperrylite</a></div></td>
-<td>Limin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17050">2406.17050</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10978.html">Building Artificial Intelligence with Creative Agency and Self-hood</a></div><div class="paper-tags"><a href="autocatalysis-all.html">autocatalysis</a></div></td>
-<td>Liane Gabora et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10978">2407.10978</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03904.html">Pressurized phase transition cascade in BaMn$_2$P$_2$ and BaMn$_2$As$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="dft-u-all.html">dft-u</a></div></td>
-<td>N. S. Pavlov et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03904">2406.03904</a></td>
 </tr>
 </tbody></table>

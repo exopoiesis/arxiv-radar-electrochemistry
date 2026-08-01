@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-stability — all</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <a href="phase-stability-30d.html">30d</a> <a href="phase-stability-90d.html">90d</a> <a href="phase-stability-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,11 +800,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03874.html">Force-Matching Based Polarizable and Non-Polarizable Force Fields for Perovskite and Non-Perovskite Phases of CsPbI$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>C. Vona et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03874">2407.03874</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00858.html">A comprehensive screening of plasma-facing materials for nuclear fusion</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Andrea Fedrigucci et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00858">2407.00858</a></td>
 </tr>
 </tbody></table>

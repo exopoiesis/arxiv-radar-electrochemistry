@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>proton-diffusion — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="proton-diffusion-7d.html">7d</a> <a href="proton-diffusion-30d.html">30d</a> <a href="proton-diffusion-90d.html">90d</a> <a href="proton-diffusion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01301.html">Designing Hydrogen Permeation Barriers in Titanium Aluminium Nitride through First Principles Density Functional Theory Calculations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Cem Örnek et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01301">2410.01301</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17510.html">Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Alexandr Fonari et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17510">2406.17510</a></td>
 </tr>
 </tbody></table>

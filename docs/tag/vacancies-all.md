@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vacancies — all</h1>
-  <span class="paper-count">330 papers</span>
+  <span class="paper-count">324 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1958,41 +1958,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10647.html">Optical lineshapes for orbital singlet to doublet transitions in a dynamical Jahn-Teller system: the NiV$^{-}$ center in diamond</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Rokas Silkinis et al.</td>
 <td><a href="http://arxiv.org/abs/2406.10647">2406.10647</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18515.html">Particle-Particle Random Phase Approximation for Predicting Correlated Excited States of Point Defects</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Jiachen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18515">2406.18515</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09721.html">Synergetic effect of edge states and point defects to tune ferromagnetism in CVD-grown vertical nanostructured MoS2: A correlation between electronic structure and theoretical study</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Sharmistha Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09721">2406.09721</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03558.html">Progress in Computational Understanding of Ferroelectric Mechanisms in HfO$_2$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Tianyuan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03558">2405.03558</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07723.html">Ultra-fast Oxygen Conduction in Sillén Oxychlorides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Jun Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07723">2406.07723</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06779.html">Synergistic Sensing: Application of SiNWs-PANI:MO$_x$ Heterostructures for Human Respiratory Monitoring</a></div><div class="paper-tags"><a href="mace-all.html">mace</a></div></td>
-<td>M. T. Sultan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06779">2406.06779</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05749.html">Investigation of Nitrogen Doped Barium Zirconate Using Density Functional Theory</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Iftkhar Ahmad</td>
-<td><a href="http://arxiv.org/abs/2406.05749">2406.05749</a></td>
 </tr>
 </tbody></table>

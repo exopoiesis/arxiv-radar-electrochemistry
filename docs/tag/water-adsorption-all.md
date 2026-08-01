@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>water-adsorption — all</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="water-adsorption-7d.html">7d</a> <a href="water-adsorption-30d.html">30d</a> <a href="water-adsorption-90d.html">90d</a> <a href="water-adsorption-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08358.html">Tailoring the electronic properties of TiO$_2$ monolayers for solar driven catalysis through transition metal doping</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
 <td>Kati Asikainen et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08358">2410.08358</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00470.html">Unusual Pore Volume Dependence of Water Sorption in Monolithic Metal-Organic Framework</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jiawang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00470">2407.00470</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>corrosion — all</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <a href="corrosion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,17 +350,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13472.html">On the origin of univalent Mg$^+$ ions in solution and their role in anomalous anodic hydrogen evolution</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
 <td>Florian Deißenbeck et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13472">2407.13472</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15467.html">Impedance Spectroscopy for Electroceramics and Electrochemical System</a></div><div class="paper-tags"><a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a> · <a href="impedance-spectroscopy-all.html">impedance-spectroscopy</a></div></td>
-<td>Subrata Karmakar</td>
-<td><a href="http://arxiv.org/abs/2406.15467">2406.15467</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.09223.html">Solving the Synthetic Riddle of Colloidal 2D PbTe Nanoplatelets with Tunable Near-Infrared Emission</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a></div></td>
-<td>Leon Biesterfeld et al.</td>
-<td><a href="http://arxiv.org/abs/2406.09223">2406.09223</a></td>
 </tr>
 </tbody></table>

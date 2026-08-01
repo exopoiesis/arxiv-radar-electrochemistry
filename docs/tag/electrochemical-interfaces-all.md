@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrochemical-interfaces — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="electrochemical-interfaces-7d.html">7d</a> <a href="electrochemical-interfaces-30d.html">30d</a> <a href="electrochemical-interfaces-90d.html">90d</a> <a href="electrochemical-interfaces-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13472.html">On the origin of univalent Mg$^+$ ions in solution and their role in anomalous anodic hydrogen evolution</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="corrosion-all.html">corrosion</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
 <td>Florian Deißenbeck et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13472">2407.13472</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15467.html">Impedance Spectroscopy for Electroceramics and Electrochemical System</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a> · <a href="impedance-spectroscopy-all.html">impedance-spectroscopy</a></div></td>
-<td>Subrata Karmakar</td>
-<td><a href="http://arxiv.org/abs/2406.15467">2406.15467</a></td>
 </tr>
 </tbody></table>

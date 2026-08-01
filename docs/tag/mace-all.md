@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mace — all</h1>
-  <span class="paper-count">209 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1250,23 +1250,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15224.html">i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations</a></div></td>
 <td>Yair Litman et al.</td>
 <td><a href="http://arxiv.org/abs/2405.15224">2405.15224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17499.html">Evaluating and improving the predictive accuracy of mixing enthalpies and volumes in disordered alloys from universal pre-trained machine learning potentials</a></div><div class="paper-tags"><a href="chgnet-all.html">chgnet</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="m3gnet-all.html">m3gnet</a></div></td>
-<td>Luis Casillas-Trujillo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17499">2406.17499</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17897.html">Pixel-weighted Multi-pose Fusion for Metal Artifact Reduction in X-ray Computed Tomography</a></div></td>
-<td>Diyu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17897">2406.17897</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06779.html">Synergistic Sensing: Application of SiNWs-PANI:MO$_x$ Heterostructures for Human Respiratory Monitoring</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
-<td>M. T. Sultan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06779">2406.06779</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ion-transport — all</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">123 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -752,23 +752,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02838.html">Designing Superionic Conductors Using Tetrahedrally Packed Structures</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Tomoyasu Yokoyama et al.</td>
 <td><a href="http://arxiv.org/abs/2407.02838">2407.02838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02852.html">Isolated anions induced high ionic conductivity</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Qifan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02852">2406.02852</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01748.html">Shape matters: Understanding the effect of electrode geometry on cell resistance and chemo-mechanical stress</a></div></td>
-<td>Tiras Y. Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01748">2406.01748</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="ion-pairing-all.html">ion-pairing</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ganesh K Rajahmundry et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>autocatalysis — all</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <a href="autocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,17 +368,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03905.html">A network aggregation model for the dynamics and treatment of neurodegenerative diseases at the brain scale</a></div></td>
 <td>Georgia S. Brennan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03905">2407.03905</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15464.html">How Does Culture Evolve?</a></div></td>
-<td>Liane Gabora</td>
-<td><a href="http://arxiv.org/abs/2406.15464">2406.15464</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10978.html">Building Artificial Intelligence with Creative Agency and Self-hood</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Liane Gabora et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10978">2407.10978</a></td>
 </tr>
 </tbody></table>

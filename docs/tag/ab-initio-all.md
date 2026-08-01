@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">824 papers</span>
+  <span class="paper-count">809 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4868,95 +4868,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03874.html">Force-Matching Based Polarizable and Non-Polarizable Force Fields for Perovskite and Non-Perovskite Phases of CsPbI$_3$</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
 <td>C. Vona et al.</td>
 <td><a href="http://arxiv.org/abs/2407.03874">2407.03874</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00858.html">A comprehensive screening of plasma-facing materials for nuclear fusion</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Andrea Fedrigucci et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00858">2407.00858</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18838.html">Electric-field control of the perpendicular magnetization switching in ferroelectric/ferrimagnet heterostructures</a></div></td>
-<td>Pengfei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18838">2406.18838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17510.html">Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="proton-diffusion-all.html">proton-diffusion</a></div></td>
-<td>Alexandr Fonari et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17510">2406.17510</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16712.html">Ab Initio Molecular Dynamics calculations on NO oxidation over oxygen functionalized Highly Oriented Pyrolytic Graphite</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Gilberto A. Alou Angulo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16712">2406.16712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16998.html">Efficient real space formalism for hybrid density functionals</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Xin Jing et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16998">2406.16998</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14306.html">Efficient parameterization of transferable Atomic Cluster Expansion for water</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="aimd-all.html">aimd</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Eslam Ibrahim et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14306">2406.14306</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12936.html">Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Davide Tisi et al.</td>
-<td><a href="http://arxiv.org/abs/2401.12936">2401.12936</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12124.html">Inside the Working Mechanism of Meta-generalized Gradient Density Functional Approximations: The Example of Quantum Spin-Hall Insulator 1T`-WTe2</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="dft-u-all.html">dft-u</a></div></td>
-<td>Li Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12124">2406.12124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00201.html">Quantum Molecular Charge-Transfer Model for Multi-step Auger-Meitner Decay Cascade Dynamics</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Adam E. A. Fouda et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00201">2406.00201</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08368.html">Kink-Helium Interactions in Tungsten: Opposing Effects of Assisted Nucleation and Hindered Migration</a></div></td>
-<td>Matthew Nutter et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08368">2406.08368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08554.html">Quantum Hardware-Enabled Molecular Dynamics via Transfer Learning</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Abid Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.08554">2406.08554</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03558.html">Progress in Computational Understanding of Ferroelectric Mechanisms in HfO$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Tianyuan Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03558">2405.03558</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07157.html">Machine learning potential for the Cu-W system</a></div></td>
-<td>Manura Liyanage et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07157">2406.07157</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07205.html">Sensing food quality by silicene nanosheets : a Density Functional Theory study</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Madhumita Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07205">2406.07205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07723.html">Ultra-fast Oxygen Conduction in Sillén Oxychlorides</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
-<td>Jun Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07723">2406.07723</a></td>
 </tr>
 </tbody></table>

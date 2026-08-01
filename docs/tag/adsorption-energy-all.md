@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption-energy — all</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <a href="adsorption-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,29 +584,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07081.html">Pathways to Interstellar Amides via Carbamoyl (NH2CO) Isomers by Radical-Neutral Reactions on Ice Grain Mantles</a></div><div class="paper-tags"><a href="origin-of-life-all.html">origin-of-life</a></div></td>
 <td>Gabriela Silva-Vera et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07081">2407.07081</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00858.html">A comprehensive screening of plasma-facing materials for nuclear fusion</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Andrea Fedrigucci et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00858">2407.00858</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13900.html">Anomalous Fermi pockets on Hund&#x27;s metal surface of Sr2RuO4 induced by the correlation-enhanced spin-orbit coupling</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Takeshi Kondo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13900">2406.13900</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07205.html">Sensing food quality by silicene nanosheets : a Density Functional Theory study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Madhumita Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07205">2406.07205</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03016.html">A Multi-Technique Study of C2H4 Adsorption on a Model Single-Atom Rh1 Catalyst</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Chunlei Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03016">2406.03016</a></td>
 </tr>
 </tbody></table>

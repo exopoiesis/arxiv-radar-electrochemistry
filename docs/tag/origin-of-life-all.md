@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>origin-of-life — all</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <a href="origin-of-life-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,23 +782,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00428.html">Observation of Complex Organic Molecules Containing Peptide-like Bonds Toward Hot Core G358.93$-$0.03 MM1</a></div></td>
 <td>Arijit Manna et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00428">2406.00428</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16945.html">Low temperature formation of pyridine and (iso)quinoline via neutral neutral reactions</a></div></td>
-<td>Zhenghai Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16945">2406.16945</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05978.html">Deep Search for Phosphine in a Prestellar Core</a></div></td>
-<td>Kenji Furuya et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05978">2406.05978</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19195.html">Quantum Tunneling Could Enable Proton Transfer Reactions on Titan</a></div><div class="paper-tags"><a href="grotthuss-all.html">grotthuss</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Henry W. Longo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19195">2405.19195</a></td>
 </tr>
 </tbody></table>
