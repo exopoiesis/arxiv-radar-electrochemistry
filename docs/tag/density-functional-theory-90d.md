@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,17 +1154,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03737.html">Discovering Reaction Mechanisms with Transition Path Sampling-Based Active Learning of Machine-Learned Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a></div></td>
 <td>Ashique Lal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03737">2605.03737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01764.html">Unconventional Superconductivity in $\mathrm{La_{3}Ni_{2}O_{7}}$ from the Perspective of Symmetry</a></div></td>
-<td>Guan-Hao Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01764">2506.01764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02646.html">Probing the Valley-Selective Tunneling Density of States in Monolayer MoS2 based Resonant Tunneling Devices</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Abir Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02646">2605.02646</a></td>
 </tr>
 </tbody></table>

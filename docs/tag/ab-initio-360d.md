@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,11 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06464.html">Observation of momentum dependent charge density wave gap in EuTe4</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Iftakhar Bin Elius et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06464">2508.06464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05013.html">Alpha-, Beta-, and Gamma-TODD-G: Novel 2D Planar Carbon Allotropes</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kleuton A. L. Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05013">2508.05013</a></td>
 </tr>
 </tbody></table>
