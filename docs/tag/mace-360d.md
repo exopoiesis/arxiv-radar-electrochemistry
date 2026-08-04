@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,11 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10505.html">FastTrack: a fast method to evaluate mass transport in solid leveraging universal machine learning interatomic potential</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Hanwen Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10505">2508.10505</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06311.html">On-the-Fly Machine Learning of Interatomic Potentials for Elastic Property Modeling in Al-Mg-Zr Solid Solutions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lukas Volkmer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06311">2508.06311</a></td>
 </tr>
 </tbody></table>

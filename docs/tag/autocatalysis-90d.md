@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>autocatalysis — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="autocatalysis-360d.html">360d</a> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05464.html">The Origin of Life in the Light of Evolution</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a></div></td>
 <td>Betül Kaçar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.05464">2605.05464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18883.html">Enumeration of Autocatalytic Subsystems in Large Chemical Reaction Networks</a></div><div class="paper-tags"><a href="reaction-networks-90d.html">reaction-networks</a></div></td>
-<td>Richard Golnik et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18883">2511.18883</a></td>
 </tr>
 </tbody></table>

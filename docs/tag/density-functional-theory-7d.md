@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02261.html">Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7</a></div></td>
+<td>Jian Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02261">2608.02261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01244.html">Pressure-induced self-doping and Fermi surface reconstruction in UAs2</a></div></td>
+<td>Zhenchao Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01244">2608.01244</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28441.html">Transport Evidence of Magnetic Polarization in the Altermagnetic Candidate MnTe</a></div></td>
 <td>Younes Ghorbani et al.</td>
@@ -62,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26018.html">Extracting Atomic Environments for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Jared C. Stimac et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26018">2607.26018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24272.html">Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a></div></td>
-<td>Hayoung Doo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24272">2607.24272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24327.html">Aligning Heterogeneous DFT Datasets: A Graph Neural Network Approach to Cross-Functional Formation Energies</a></div><div class="paper-tags"><a href="chgnet-7d.html">chgnet</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
-<td>Yidong Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24327">2607.24327</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02342.html">Pressure-induced concurrent amorphization and superconductivity in topological material NbNiTe5</a></div></td>
+<td>Lingxiao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02342">2608.02342</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27331.html">Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Ying Li et al.</td>
@@ -308,11 +314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09317.html">Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Karthik R et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09317">2508.09317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06464.html">Observation of momentum dependent charge density wave gap in EuTe4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Iftakhar Bin Elius et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06464">2508.06464</a></td>
 </tr>
 </tbody></table>

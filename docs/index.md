@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-08-03._
+_Updated 2026-08-04._
 
-**3309** relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3317** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,54 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.01799.html">Impedance of an electric double layer capacitor with a multi-component electrolyte</a></div></td>
+<td>David Fertig</td>
+<td><a href="http://arxiv.org/abs/2608.01799">2608.01799</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02243.html">Polaron-mediated metal-insulator transition and proton conduction in hydrogenated nickelate perovskites</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/proton-diffusion-30d.html">proton-diffusion</a> · <a href="tag/proton-transport-30d.html">proton-transport</a></div></td>
+<td>Hang Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02243">2608.02243</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02261.html">Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Jian Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02261">2608.02261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02342.html">Pressure-induced concurrent amorphization and superconductivity in topological material NbNiTe5</a></div><div class="paper-tags"><a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
+<td>Lingxiao Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02342">2608.02342</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02354.html">Metaphotonic Catalysis: Amorphous silicon metasurfaces encode photochemical activity</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a></div></td>
+<td>Elif Nur Dayi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02354">2608.02354</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.02456.html">Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS$_2$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Daeheon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02456">2608.02456</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.01162.html">From oligomers to entangled polymers: How to train a transferable machine learning interatomic potential</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Mirko Fischer et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01162">2608.01162</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.01244.html">Pressure-induced self-doping and Fermi surface reconstruction in UAs2</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Zhenchao Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01244">2608.01244</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27561.html">Storing Sensor Events in the Interconnection Strength of Conducting Polymer Dendrites</a></div></td>
@@ -147,53 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24871.html">A flexible kinetic Monte Carlo framework for GaN molecular beam epitaxy with adaptive on-the-fly barrier evaluation</a></div><div class="paper-tags"><a href="tag/neb-30d.html">neb</a></div></td>
 <td>Sajid Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2607.24871">2607.24871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23436.html">Technologies and novel components for broadband splitting and coupling in pairwise and nulling interferometry</a></div><div class="paper-tags"><a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
-<td>Harry-Dean Kenchington Goldsmith et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23436">2607.23436</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22992.html">Role of $p$-$d$ Hybridization on Optical Properties of Chalcopyrite Semiconductors</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chalcopyrite-30d.html">chalcopyrite</a> · <a href="tag/surface-defects-30d.html">surface-defects</a></div></td>
-<td>Neunghee Han et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22992">2607.22992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23107.html">Optimization of Kinetic--Stoichiometric Growth Bounds over Autocatalytic Subnetworks</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
-<td>Víctor Blanco et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23107">2607.23107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22271.html">SAGE-Net: Semantics-Augmented Geometric Encoder for Material Property Prediction</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Guanghui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22271">2607.22271</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22364.html">Mechanisms of Microstructural Evolution and Degradation in Aluminum under High-Damage Irradiation</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Alhassan S. Issaka et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22364">2607.22364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22476.html">Reversible photo-switching optical functionality in two-dimensional mixed-halide hybrid perovskites</a></div><div class="paper-tags"><a href="tag/neb-30d.html">neb</a></div></td>
-<td>Enamul Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22476">2607.22476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.20885.html">Long- and Short-Range Anion Order in SrTiO$_{3-x}$H$_x$ Perovskite Oxyhydrides: DFT+$U$ Sensitivity and HSE06 Cluster Expansion</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Tzu-chen Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20885">2607.20885</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.21298.html">Lifetime effects and satellites in the photoelectron spectrum of platinum metal</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Prajna Bhatt et al.</td>
-<td><a href="http://arxiv.org/abs/2607.21298">2607.21298</a></td>
 </tr>
 </tbody></table>

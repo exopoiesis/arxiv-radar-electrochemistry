@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02243.html">Polaron-mediated metal-insulator transition and proton conduction in hydrogenated nickelate perovskites</a></div><div class="paper-tags"><a href="proton-diffusion-360d.html">proton-diffusion</a> · <a href="proton-transport-360d.html">proton-transport</a></div></td>
+<td>Hang Ma et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02243">2608.02243</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02456.html">Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS$_2$</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Daeheon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02456">2608.02456</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01162.html">From oligomers to entangled polymers: How to train a transferable machine learning interatomic potential</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Mirko Fischer et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01162">2608.01162</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28000.html">PASS: Perturbation augmented space group structure sampling for transferable Fe-O machine learning interatomic potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Zixiong Wei et al.</td>
@@ -2870,23 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10594.html">Accurate and thermodynamically consistent hydrogen equation of state for planetary modeling with flow matching</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hao Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2501.10594">2501.10594</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06311.html">On-the-Fly Machine Learning of Interatomic Potentials for Elastic Property Modeling in Al-Mg-Zr Solid Solutions</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lukas Volkmer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06311">2508.06311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06456.html">Comparative study of ensemble-based uncertainty quantification methods for neural network interatomic potentials</a></div></td>
-<td>Yonatan Kurniawan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06456">2508.06456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06464.html">Observation of momentum dependent charge density wave gap in EuTe4</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Iftakhar Bin Elius et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06464">2508.06464</a></td>
 </tr>
 </tbody></table>

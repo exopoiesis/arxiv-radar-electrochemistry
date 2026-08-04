@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">831 papers</span>
+  <span class="paper-count">830 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02261.html">Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7</a></div></td>
+<td>Jian Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02261">2608.02261</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01244.html">Pressure-induced self-doping and Fermi surface reconstruction in UAs2</a></div></td>
+<td>Zhenchao Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01244">2608.01244</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28441.html">Transport Evidence of Magnetic Polarization in the Altermagnetic Candidate MnTe</a></div></td>
@@ -4982,23 +4994,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07455.html">Experimental and Computational Demonstration of a Highly Stable, in-situ Pt Decorated Sputtered ZnO Hydrogen Sensor for sub-ppm Level Detection</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Puja Ghosh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07455">2508.07455</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06436.html">Leveraging transfer learning for accurate estimation of ionic migration barriers in solids</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Reshma Devi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06436">2508.06436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06459.html">A literature-derived dataset of migration barriers for quantifying ionic transport in battery materials</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
-<td>Reshma Devi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06459">2508.06459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06464.html">Observation of momentum dependent charge density wave gap in EuTe4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Iftakhar Bin Elius et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06464">2508.06464</a></td>
 </tr>
 </tbody></table>
