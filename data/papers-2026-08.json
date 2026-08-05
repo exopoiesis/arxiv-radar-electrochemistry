@@ -209,5 +209,145 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-08-03"
+ },
+ "2608.02770": {
+  "abstract": "We report a combined scanning tunneling microscopy and atomistic theoretical study of Fe adatoms on the Bi$_2$Te$_3$(111) surface. Topographic imaging at $4.5$~K shows Fe adatoms in fcc and hcp hollow sites exhibit a threefold-symmetric contrast, consistent with the $C_{3v}$ symmetry of the adsorption site. However, simultaneously acquired differential conductance ($dI/dV$) maps reveal a pronounced reduction in symmetry, evidenced by differential contrast observed at nearest-neighbor Te sites. Density functional theory calculations show that the Fe/Bi$_2$Te$_3$ system undergoes a static Jahn--Teller distortion, reducing the adsorption symmetry from $C_{3v}$ to $C_{1v}$, with the distorted configuration favored by $72.5$~meV. Orbital-projected density of states calculations show that the occupied states near the Fermi level are dominated by $d_{xz}$ and $d_{yz}$ orbitals, whereas the unoccupied states are primarily of $d_{z^2}$, $d_{x^2-y^2}$ and $d_{xy}$ character. The local density of states from these orbitals is in good qualitative agreement with experimental $dI/dV$ spectra. Furthermore, simulated local-density-of-states maps using a tight-binding Green's function approach are in good agreement with experimental $dI/dV$ maps, confirming that the reduced symmetry originates from the $C_{1v}$ structural distortion.",
+  "authors": [
+   "Duy Nguyen",
+   "Hari Paudyal",
+   "Joseph R. Sink",
+   "Michael E. Flatte",
+   "Jay A. Gupta"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "7 pages, 5 figures",
+  "first_author": "Duy Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2608.02770",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-08-03",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Broken site symmetry of Fe adatoms on Bi$_2$Te$_3$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.02858": {
+  "abstract": "The discovery of next-generation energy-storage materials is increasingly limited by the complexity of the underlying design problem rather than by computational capability alone. Porous transition-metal oxides represent a particularly challenging class of battery materials because their performance emerges from coupled interactions among crystal chemistry, pore architecture, ion transport, electrochemistry, electro-chemo-mechanics, synthesis, manufacturing, and battery-system operation. Recent advances in generative artificial intelligence (AI) have demonstrated remarkable capabilities for generating chemically plausible crystal structures. However, current approaches remain largely focused on crystallographic validity and thermodynamic stability. This perspective presents a roadmap for advancing generative AI beyond crystal generation toward physics-informed, application-aware, and synthesis-aware inverse design. Using porous oxide electrodes as a representative materials platform, we propose a seven-tier physics-informed inverse-design framework integrating chemistry, thermodynamics, transport, electrochemistry, durability, cell compatibility, and manufacturability. We further identify the \"Missing Data Problem\" as a fundamental bottleneck limiting application-aware AI and introduce an autonomous knowledge-generation framework supported by a Porous Oxide Energy Materials Ontology and a continuously evolving \"Knowledge Base\". Together, these concepts establish the foundation for Synthesis-Aware, Closed-Loop Autonomous Discovery, providing a general framework for AI-enabled autonomous materials discovery across energy-storage materials and other functional materials.",
+  "authors": [
+   "Dibakar Datta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "36 pages, 11 figures",
+  "first_author": "Dibakar Datta",
+  "pdf_url": "http://arxiv.org/pdf/2608.02858",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-03",
+  "tags": [
+   "ion-transport",
+   "phase-stability"
+  ],
+  "title": "Physics-Informed and Knowledge-Driven Generative AI for Autonomous Discovery of Porous Oxide Energy Materials: Opportunities and Challenges",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.03308": {
+  "abstract": "Understanding the interplay between adsorption energetics and charge-transport modulation is essential for the rational design of low-power and bias-tunable gas sensors. Here, we present a comprehensive first-principles study of gas selectivity in layered bismuth oxyiodide (BiOI) by integrating density functional theory with nonequilibrium Green's function transport calculations. The adsorption and bias-dependent transport responses toward NO2, NH3, CO2, and representative volatile organic compounds are systematically examined. While NH3 and NO2 exhibit strong chemisorption and localized electronic perturbations, CO2 interacts through weak physisorption, demonstrating that adsorption strength alone does not determine sensing performance. Instead, the evolution of transmission channels near the Fermi level governs the sensing response. Bias-dependent calculations reveal an electrically tunable sensitivity hierarchy, in which weakly adsorbed CO2 preserves conductive pathways and exhibits pronounced low-bias sensitivity despite minimal charge transfer. Recovery-time analysis further highlights the trade-off between transport modulation and reversibility for strongly adsorbed species. These results establish a transport-centered selectivity framework for layered BiOI and provide mechanistic insight into electric-field-controlled gas sensing under ambient conditions.",
+  "authors": [
+   "Jemal Yimer Damte",
+   "Jiří Houška",
+   "Pavel Baroch",
+   "Xue Yong"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 7 Figures",
+  "first_author": "Jemal Yimer Damte",
+  "pdf_url": "http://arxiv.org/pdf/2608.03308",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-04",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "co2-adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Bias Tunable Transport Modulation and Gas Selectivity in Layered BiOI: A DFT NEGF Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03680": {
+  "abstract": "The structure and dynamical behavior of water confined at or within nanostructures is a topic central to many fields, from biology to emerging electronics such as carbon nanostructures. Nanoporous graphene (NPG) containing periodic nanoscale pores with specific topologies has emerged as a promising material in carbon-based nanoelectronics; however, its interaction with ambient water remains poorly understood. Here, we combine density functional theory (DFT), ab initio molecular dynamics (AIMD), and interpretable machine learning (ML) to reveal how water controls quantum transport in NPGs. Depending on the local hydration structure, the bandgap varies by more than a factor of two across NPG and nitrogen-doped hybrid (h-NPG) systems. To uncover the underlying mechanism, we develop Smooth Overlap of Atomic Positions (SOAP)-based black-box and physics-informed grey-box ML models. The Gaussian process regression model achieves near-DFT accuracy while enabling physical interpretation. Analysis identifies water dipole orientation, water-substrate distance, water center-of-geometry, and ribbon-resolved dipole moments as the dominant factors controlling bandgap modulation across NPG and h-NPG systems.",
+  "authors": [
+   "Sneha Mittal",
+   "Alan E. Anaya Morales",
+   "Victor Rosendal",
+   "Mads Brandbyge"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Sneha Mittal",
+  "pdf_url": "http://arxiv.org/pdf/2608.03680",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-08-04",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03688": {
+  "abstract": "Trace residual solvents in solid polymer electrolytes (SPEs) significantly affect electrolyte and interface properties, where optimal selection enhances ionic conductivity and transference numbers. However, solvent complexity hinders general screening methods. We establish a universal criterion linking electronic (HOMO, LUMO) and macroscopic properties (dielectric constant, dipole moment, polarizability) via machine learning on an approximately 10,000-solvent dataset from high-throughput DFT. Two solvents, N-methoxy-N-methyl-2,2,2-trifluoroacetamide and 2,2,2-trifluoro-N,N-dimethylacetamide, were identified. Experimental incorporation of trace N-methoxy-N-methyl-2,2,2-trifluoroacetamide into a poly(vinylidene fluoride-co-hexafluoropropylene) matrix achieves a 4.5 V window, 5.5x10^-4 S cm^-1 conductivity (30 C), and 0.78 Li+ transference number. The cell retains 86.7% capacity over 500 cycles (LiFePO4) and 98.7% after 200 cycles at 2C (LiNi0.9Co0.05Mn0.05O2), outperforming 2,2,2-trifluoro-N,N-dimethylacetamide, dimethylformamide, N-methyl-2-pyrrolidone, and dimethyl sulfoxide. This synergy enables balanced ion transport, wide stability, and cycling durability, advancing safer, high-energy lithium metal batteries. Our integrated approach establishes a solvent screening paradigm for rational SPE design, accelerating next-generation battery development.",
+  "authors": [
+   "Jiadong Shen",
+   "Junjie Chen",
+   "Xiaosa Xu",
+   "Jin Li",
+   "Zhenyu Wang",
+   "Pengzhu Lin",
+   "Zixiao Guo",
+   "Yu Wang",
+   "Jing Sun",
+   "Baoling Huang",
+   "Tianshou Zhao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiadong Shen",
+  "pdf_url": "http://arxiv.org/pdf/2608.03688",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-04",
+  "tags": [
+   "density-functional-theory",
+   "ion-transport"
+  ],
+  "title": "Machine Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-04"
  }
 }

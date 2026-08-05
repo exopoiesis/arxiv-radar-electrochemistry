@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>autocatalysis — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="autocatalysis-360d.html">360d</a> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07035.html">Genetic Information as a &quot;Chord&quot; of Chemical Oscillations: Emergence of Catalyst-RNA Systems Driven by Superposed Rhythms</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a></div></td>
 <td>Takeshi Ishida</td>
 <td><a href="http://arxiv.org/abs/2605.07035">2605.07035</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05385.html">Chapter 2: Geometry of the Fitness Surface and Trajectory Dynamics of Replicator Systems</a></div></td>
-<td>A. S. Bratus et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05385">2605.05385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05464.html">The Origin of Life in the Light of Evolution</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a></div></td>
-<td>Betül Kaçar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05464">2605.05464</a></td>
 </tr>
 </tbody></table>
