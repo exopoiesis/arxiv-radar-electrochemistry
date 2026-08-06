@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04662.html">Time-resolved THz Stark spectroscopy of molecules in water</a></div></td>
+<td>Elnaz Zyaee et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04662">2608.04662</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04742.html">Atomic Scale Ordering of Sulfur Vacancies Enhances Charge Transport in Monolayer MoS$_2$</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Alessandro Pecchia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04742">2608.04742</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03308.html">Bias Tunable Transport Modulation and Gas Selectivity in Layered BiOI: A DFT NEGF Study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="co2-adsorption-7d.html">co2-adsorption</a></div></td>
@@ -56,35 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28441.html">Transport Evidence of Magnetic Polarization in the Altermagnetic Candidate MnTe</a></div></td>
 <td>Younes Ghorbani et al.</td>
 <td><a href="http://arxiv.org/abs/2607.28441">2607.28441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26422.html">Physics-informed Machine Learning Prediction of Hubbard Interaction Parameters</a></div></td>
-<td>Jiyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26422">2607.26422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26667.html">Computational Study of Water Adsorption and Dissociative Mechanisms Impacting g-C3N4&#x27;s Optical and Electronic Properties</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Amil Aligayev et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26667">2607.26667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26793.html">High-dimensional theory of the glass transition revisited: hopping and local defects</a></div></td>
-<td>Harukuni Ikeda et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26793">2607.26793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27095.html">No band gap, no problem: Defects in InAs using a band-avoiding occupation-constrained density functional theory</a></div></td>
-<td>Peter A. Schultz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27095">2607.27095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27331.html">Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
-<td>Ying Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27331">2607.27331</a></td>
 </tr>
 </tbody></table>

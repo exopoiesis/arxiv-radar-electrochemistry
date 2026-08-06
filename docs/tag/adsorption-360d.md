@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">224 papers</span>
+  <span class="paper-count">223 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1352,11 +1352,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07858.html">Multiple Adsorption of CO Molecules on Transition Metal Substitutional Impurities in Copper Surfaces</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="co2-reduction-360d.html">co2-reduction</a></div></td>
 <td>Magnus A. H. Christiansen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.07858">2508.07858</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07455.html">Experimental and Computational Demonstration of a Highly Stable, in-situ Pt Decorated Sputtered ZnO Hydrogen Sensor for sub-ppm Level Detection</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Puja Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07455">2508.07455</a></td>
 </tr>
 </tbody></table>

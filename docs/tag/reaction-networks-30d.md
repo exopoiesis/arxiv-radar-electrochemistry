@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reaction-networks — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <strong>30d</strong> <a href="reaction-networks-90d.html">90d</a> <a href="reaction-networks-360d.html">360d</a> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08003.html">Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="co2-reduction-30d.html">co2-reduction</a></div></td>
 <td>Sutanay Choudhury et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08003">2607.08003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05514.html">Deuterium-Proton Fusion in an Effective Field Theory Constructed from On-Shell Amplitudes</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Tim M. P. Tait</td>
-<td><a href="http://arxiv.org/abs/2607.05514">2607.05514</a></td>
 </tr>
 </tbody></table>

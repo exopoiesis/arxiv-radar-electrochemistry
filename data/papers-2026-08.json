@@ -349,5 +349,122 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-08-04"
+ },
+ "2608.04238": {
+  "abstract": "Coherent terahertz spectroscopy of molecular transients has so far relied on electronic sources whose bandwidth is limited to a fraction of their center frequency. Photoconductive devices offer a complementary approach, combining intrinsically broadband operation with coherent optoelectronic generation and detection. We report free-induction-decay spectroscopy of carbonyl sulfide at 0.29 THz in which, to our knowledge for the first time, both the pulsed emitter and the coherent heterodyne receiver are LT-GaAs photoconductors simultaneously pumped by a single free-running dual-frequency Ti:Sa laser. The receiver operates within 15 dB of the thermal noise limit, and the shared optical reference maintains phase coherence over more than 1000 averaged acquisitions. The measured transients agree with a time-domain Maxwell-Bloch model based on HITRAN parameters. These results demonstrate the feasibility of fully optoelectronic coherent THz spectroscopy and establish photoconductive optoelectronic mixing as a practical route toward frequency-agile, high-resolution coherent THz spectrometers over broad spectral ranges.",
+  "authors": [
+   "François Parnet",
+   "Francis Hindle",
+   "Ulysse Mao",
+   "Guillaume Ducournau",
+   "Jean-François Lampin",
+   "Sophie Eliet",
+   "François Bondu",
+   "Romain Peretti",
+   "Gaël Mouret",
+   "Daniele Fontanari",
+   "Goulc'hen Loas",
+   "Emilien Peytavit"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": "Submitted to Optica. 5 pages, 4 figures, supplementary material included",
+  "first_author": "François Parnet",
+  "pdf_url": "http://arxiv.org/pdf/2608.04238",
+  "primary_category": "physics.app-ph",
+  "published": "2026-08-04",
+  "tags": [],
+  "title": "Fully optoelectronic coherent THz spectroscopy",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.04662": {
+  "abstract": "Stark spectroscopy is a powerful method for probing molecular dipole moment changes, charge transfer dynamics, and polarizability under applied electric fields. Time-Resolved Terahertz Stark Spectroscopy (TRTSS), which employs intense single-cycle terahertz (THz) pulses to induce transient Stark shifts, overcomes key limitations of conventional approaches. Unlike static or low-frequency fields, THz pulses oscillate much faster than typical molecular rotation times, effectively preventing dipole reorientation and enabling measurements in solutions at ambient conditions. Here, we extend TRTSS to molecules dissolved in water, the most important polar solvent for chemical and biological systems and report the first demonstration of Stark spectroscopy in water at room temperature. Using Malachite Green and Methyl Orange as model systems, we observe clear THz-induced spectral modulations, demonstrating that TRTSS can successfully reveal THz Stark responses even in highly polar, hydrogen-bonded environments. Measured signals exhibit a combination of linear (dipole-driven) and quadratic (polarizability-driven) Stark effects in both systems, consistent with time-dependent density functional theory (TD-DFT) calculations. Comparison with TD-DFT further suggests that conformational effects can influence the extracted Stark parameters in solvated molecules.",
+  "authors": [
+   "Elnaz Zyaee",
+   "Vladislav Slama",
+   "Seyyed Jabbar Mousavi",
+   "David Rohrbach",
+   "Ursula Rothlisberger",
+   "Thomas Feurer"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.app-ph",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Elnaz Zyaee",
+  "pdf_url": "http://arxiv.org/pdf/2608.04662",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-05",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Time-resolved THz Stark spectroscopy of molecules in water",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.04690": {
+  "abstract": "Lithium lanthanum zirconate (LLZO) garnets are among the most promising solid electrolytes for next-generation batteries owing to their high ionic conductivity, chemical stability, and compatibility with lithium metal. Raman spectroscopy is commonly employed to distinguish the highly conductive cubic phase from the poorly conductive tetragonal phase of LLZO, yet the atomistic origin of these spectral differences and their direct connection to Li-ion transport remain unresolved. Here, we close this gap by comparing computed and experimental Raman spectra for the tetragonal, cubic, and Ta-doped variants of LLZO, with the computed spectra obtained from the MD-Raman approach that combines machine-learning molecular dynamics with first-principles polarizability calculations. We show that the contrasting ionic transport behavior across these LLZO variants is encoded in the vibrational dynamics of the lithium sublattice and gives rise to distinct features in their Raman spectra. A symmetry-resolved analysis further reveals that experimentally observed Raman peaks do not correspond to individual normal modes, but instead arise from overlapping contributions of multiple symmetry-allowed vibrations, challenging conventional peak-assignment approaches. By explicitly connecting experimentally accessible Raman signatures to the underlying atomic-scale dynamics, our results show how Raman spectroscopy can move beyond empirical phase identification toward a microscopic probe of Li-ion dynamics in lithium garnet electrolytes.",
+  "authors": [
+   "Takeru Miyagawa",
+   "Willis O'Leary",
+   "Manuel Grumet",
+   "Hyunwon Chu",
+   "Jennifer L. M. Rupp",
+   "Waldemar Kaiser",
+   "David A. Egger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Takeru Miyagawa",
+  "pdf_url": "http://arxiv.org/pdf/2608.04690",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-05",
+  "tags": [
+   "ab-initio",
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Raman Signatures of Lithium Ion Dynamics in LLZO Garnet Electrolytes: Atomistic Insights from MD-Raman Calculations",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.04742": {
+  "abstract": "Defect engineering in two-dimensional semiconductors has primarily focused on controlling the nature and concentration of atomic defects. Here, we show that the spatial arrangement of defects can be equally decisive in determining electronic transport. Using sulfur vacancies in monolayer MoS$_2$ as a model system, we investigate the impact of vacancy ordering through density functional theory, density functional tight-binding calculations, and quantum transport simulations. We demonstrate that a periodic vacancy arrangement at a concentration of 11.1% transforms isolated defect states into a narrow dispersive in-gap miniband, whereas randomly distributed vacancies generate only localized electronic states. This electronic transition fundamentally alters charge transport, enabling band-like propagation through the defect network rather than transport limited by disconnected localized states. A systematic analysis of the complete symmetry-reduced ensemble of 94 non-adjacent four-vacancy configurations shows that the ordered pattern lies within a broad low-energy manifold and is not energetically anomalous, although it is not the thermodynamic ground state. Device-level simulations of Au/MoS$_2$/Au junctions reveal efficient alignment of the metal Fermi level with vacancy-derived states, promoting charge injection into the defect miniband. As a result, ordered vacancy arrays exhibit electrical currents up to five orders of magnitude higher than statistically equivalent random distributions and can approach, or locally exceed, the transport performance of pristine MoS$_2$. These findings establish atomic-scale defect ordering as a powerful design principle for two-dimensional materials, demonstrating that the organization of defects, beyond their concentration alone, provides a route to simultaneously preserve functionality and high electrical conductivity in highly defective semiconductors.",
+  "authors": [
+   "Alessandro Pecchia",
+   "Andrea Lorenzoni",
+   "Alexander Croy",
+   "Francesco Mercuri",
+   "Massimiliano Cavallini"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "24 pages, 6 figures, submitted for peer-review",
+  "first_author": "Alessandro Pecchia",
+  "pdf_url": "http://arxiv.org/pdf/2608.04742",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-05",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Atomic Scale Ordering of Sulfur Vacancies Enhances Charge Transport in Monolayer MoS$_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-05"
  }
 }
