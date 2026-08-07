@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10384.html">EDIS: A Simulation Software for Dynamic Ion Intercalation/Deintercalation Processes in Electrode Materials</a></div></td>
 <td>Liqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10384">2508.10384</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07826.html">Impact of Ce Substitution on Structural and Electrochemical Properties of Ga Doped Garnet Li7La3Zr2O12 Solid Electrolyte</a></div></td>
-<td>Muktai Aote et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07826">2508.07826</a></td>
 </tr>
 </tbody></table>

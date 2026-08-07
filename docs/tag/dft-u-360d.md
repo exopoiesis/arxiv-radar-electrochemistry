@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft-u — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <strong>360d</strong> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13248.html">Visible-Light Photocatalytic Degradation of Cresols using Sustainable 3D-Printed Bi4O5I2-Hematite Scaffold</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Akash Rawat et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13248">2508.13248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08419.html">Electronic transport and Fermi surface of Weyl semimetal WTe2: quantum oscillations and first-principles study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>B. M. Fominykh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08419">2508.08419</a></td>
 </tr>
 </tbody></table>

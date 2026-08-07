@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06309.html">Metal-Coordination Effects on the Stability and ORR/OER Activity of Layered Organometallic Single-Atom Catalysts: A Theoretical Study</a></div><div class="paper-tags"><a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06309">2608.06309</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04662.html">Time-resolved THz Stark spectroscopy of molecules in water</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04742.html">Atomic Scale Ordering of Sulfur Vacancies Enhances Charge Transport in Monolayer MoS$_2$</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Alessandro Pecchia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04742">2608.04742</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a></div></td>
+<td>H. Betancourt-Infante et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-04</td>
@@ -1136,29 +1148,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08912.html">OTFS-IM-Assisted Non-Terrestrial Networks Relying on Autoencoder-Aided Soft-Decision Detection</a></div></td>
 <td>Xinyu Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.08912">2605.08912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07337.html">Water adsorption on a model silicate surface: wollastonite (100)</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="water-adsorption-90d.html">water-adsorption</a> · <a href="weathering-90d.html">weathering</a></div></td>
-<td>Luca Lezuo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07337">2605.07337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07437.html">Spin-lattice coupling enables adaptive adsorption in magnetically-driven electrocatalysts</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
-<td>Arnold Gaje et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07437">2605.07437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07670.html">Harnessing Structural Disorder: Unraveling Hydrogen Evolution in Monolayer Amorphous Carbon via First-Principles Simulations and Machine-Learned Potentials</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Sreehari M S et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07670">2605.07670</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07862.html">Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$</a></div><div class="paper-tags"><a href="dft-u-90d.html">dft-u</a></div></td>
-<td>Tariq Leinen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07862">2605.07862</a></td>
 </tr>
 </tbody></table>

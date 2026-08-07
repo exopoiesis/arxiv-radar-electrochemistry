@@ -466,5 +466,110 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-08-05"
+ },
+ "2608.05305": {
+  "abstract": "Graphite's structural and electronic response to molecular intercalation is central to its performance as a carbon-based electrode material, yet the microscopic coupling between subsurface intercalation and surface adsorption remains poorly understood. We present a first-principles investigation of AlF3 adsorption and intercalation in graphite to explain the microscopic origin of a recently observed two-step self-limiting sorption mechanism. Using density functional theory (DFT-D3), we show that a single intercalated AlF3 molecule locally transforms the structure, electronic properties, and diffusion behavior of graphite through a blister-like surface deformation. Comparing pristine graphite with a graphite surface containing a subsurface intercalated molecule, coverage-dependent adsorption energetics reveal a crossover from repulsive lateral interactions to cooperative binding above the blister, driven by local curvature and intercalation-induced charge redistribution. Diffusion-barrier calculations show that the blister simultaneously acts as a kinetic trap, raising diffusion barriers and transitioning surface mobility from a quasi-barrierless to a thermally activated regime. Charge-density difference and Mulliken population analyses identify the intercalant as a stable electronic reservoir that deepens the surface potential landscape, kinetically immobilizing adsorbed species. Together, these results establish a structure-property relationship for intercalation-induced deformation in graphite, offering a quantitative framework for controlling intercalation efficiency in carbon-based energy storage and conversion systems.",
+  "authors": [
+   "H. Betancourt-Infante",
+   "G. Ruano",
+   "F. Bonetto",
+   "S. J. Rodríguez-Sotelo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 7 Figures and SI",
+  "first_author": "H. Betancourt-Infante",
+  "pdf_url": "http://arxiv.org/pdf/2608.05305",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-05",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.05603": {
+  "abstract": "Atomic-scale modification of mesopore interfaces provides a route to tune the confinement experienced by adsorbed fluids, but how a specific interface preparation translates into the resulting microscopic confinement potential remains unclear. Here, we show that preplating MCM-41 with an argon monolayer modifies the effective pore interface by occupying strongly attractive regions of the heterogeneous silica surface and screening its atomic-scale corrugation. Grand-canonical Monte Carlo simulations of argon adsorption, low-temperature molecular dynamics, and helium test-particle insertion are combined with adsorption isotherms and neutron-scattering measurements to characterize the preplated pore at the atomic scale. Helium test-particle insertion calculations show that the modified interface shifts the helium adsorption minimum to an annular region inside the pore and produces a confinement landscape dominated by a smooth radial component. The resulting radial confinement potential can be described by a continuum cylindrical model, providing microscopic support for the effective potential used in earlier quantum Monte Carlo studies. Residual corrugation persists over multiple spatial scales and is accurately captured by a Gaussian process surrogate. These results demonstrate how atomic preplating can tailor nanopore confinement and provide an experimentally constrained microscopic potential for predictive studies of confined quantum fluids.",
+  "authors": [
+   "Rahul Soni",
+   "Nathan S. Nichols",
+   "Sutirtha Paul",
+   "Garfield Warren",
+   "Paul Sokol",
+   "Adrian Del Maestro"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "13 pages, 14 figures",
+  "first_author": "Rahul Soni",
+  "pdf_url": "http://arxiv.org/pdf/2608.05603",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-06",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06118": {
+  "abstract": "The phase diagram for Kr, as represented by the Tadah! two-body potential is shown to have face-centred cubic (fcc), hexahonal close packed (hcp), and body centred cubic (bcc) regions. It has been assembled by combining several methods: direct liquid--solid coexistence for the melt lines, Gibbs--Helmholtz integration and Clapeyron slopes for the bcc--fcc line, slab coexistence for the liquid--gas line, static zero-temperature relaxations for the crystals, and the quasiharmonic approximation for the low-temperature fcc--hcp windows. The bcc phase contains highly mobile ``greedy snake\" defects, which suggests a reinterpretation of the melt-curve data: the anomaly observed may be due to the speckle method detecting the bcc-fcc boundary, not the melt curve. While pair potentials have limitations, comparison with a foundation MACE model shows that a more flexible machine-learned model does not necessarily improve matters if inappropriately trained.",
+  "authors": [
+   "Marcin Kirsz",
+   "Asuka Iwasaki",
+   "Graeme John Ackland"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Marcin Kirsz",
+  "pdf_url": "http://arxiv.org/pdf/2608.06118",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-06",
+  "tags": [
+   "mace"
+  ],
+  "title": "Calculations of the Krypton Phase Diagram and Novel Plasticity",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06309": {
+  "abstract": "Organometallic layered materials have emerged as promising single-atom catalysts for oxygen reduction and evolution reactions, but their practical use has been limited by insufficient electrochemical stability. Here, we present a density functional theory study clarifying the relationship between catalytic activity and stability in organometallic single-atom catalysts with metal-N$_4$ (MN$_4$) and metal-O$_4$ (MO$_4$) coordination. We compare graphene-embedded MN$_4$ motif and phthalocyanine-like frameworks with MO$_4$-coordination frameworks, including M$_4$(OHPTP)$_2$ and M$_3$(HHTP)$_2$ (M = Mn, Fe, Co, Ni, Cu, Zn). Stability is assessed by surface Pourbaix analysis, while activity is evaluated using the computational hydrogen electrode method. MN$_4$ systems show competitive overpotentials but suffer strong pH-dependent instability. In contrast, MO$_4$ frameworks exhibit enhanced robustness across wide pH ranges while maintaining good catalytic performance. A proposed stability descriptor enables direct comparison across systems, identifying MO$_4$ coordination structures, particularly M$_4$(OHPTP)$_2$ (M = Zn, Co) as optimal for balancing activity and stability in practical electrocatalysis.",
+  "authors": [
+   "Pedro H. Souza",
+   "Victor Hoyos-Sinchi",
+   "Walter Orellana"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pedro H. Souza",
+  "pdf_url": "http://arxiv.org/pdf/2608.06309",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-06",
+  "tags": [
+   "density-functional-theory",
+   "electrocatalysis"
+  ],
+  "title": "Metal-Coordination Effects on the Stability and ORR/OER Activity of Layered Organometallic Single-Atom Catalysts: A Theoretical Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-06"
  }
 }

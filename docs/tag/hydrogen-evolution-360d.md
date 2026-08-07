@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogen-evolution — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="hydrogen-evolution-7d.html">7d</a> <a href="hydrogen-evolution-30d.html">30d</a> <a href="hydrogen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="hydrogen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12593.html">Tuning electrochemical reactions with ratchet-based ion pumps</a></div></td>
 <td>Dafna Amichay et al.</td>
 <td><a href="http://arxiv.org/abs/2502.12593">2502.12593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07800.html">OH$^-$-Enhanced Alkaline Hydrogen Evolution Reaction at the Au(111) Electrode</a></div><div class="paper-tags"><a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a></div></td>
-<td>Er-Fei Zhen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07800">2508.07800</a></td>
 </tr>
 </tbody></table>
