@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1136,17 +1136,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09713.html">Non-magnetic insulating phase induced by Jahn-Teller effect in RNiO$_3$</a></div></td>
 <td>Sangeeta Rajpurohit et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09713">2605.09713</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08728.html">Multi-Fidelity Computational Screening of High-Entropy MBenes for CO$_2$ Electroreduction</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="aimd-90d.html">aimd</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Sree Harsha Bharadwaj H et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08728">2605.08728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08912.html">OTFS-IM-Assisted Non-Terrestrial Networks Relying on Autoencoder-Aided Soft-Decision Detection</a></div></td>
-<td>Xinyu Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08912">2605.08912</a></td>
 </tr>
 </tbody></table>

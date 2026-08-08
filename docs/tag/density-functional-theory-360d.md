@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">836 papers</span>
+  <span class="paper-count">830 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4994,41 +4994,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09538.html">Boron Clusters for Metal-Free Water Splitting</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Masaya Fujioka et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09538">2508.09538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03804.html">Exploring the Complex Landscape of Entropy Stabilized Oxides</a></div></td>
-<td>Bo Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03804">2507.03804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21681.html">Multiferroicity and 180$^\circ$ domain switching in LaFeO$_3$ via Antisite Defects</a></div></td>
-<td>Souren Majani et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21681">2507.21681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08654.html">Investigating the Degradation of LATP Solid Electrolyte in High Alkaline Li-$O_2$ Batteries</a></div></td>
-<td>Tara P Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08654">2508.08654</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08941.html">The alloying of first-principles calculations with quasiparticle methodologies for the converged solution of the quantum many-electron states in the correlated compound Iron monoxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Suvadip Das</td>
-<td><a href="http://arxiv.org/abs/2508.08941">2508.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09269.html">Multiscale Modeling of Gas Adsorption and Surface Coverage in Thermocatalytic Systems</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Jikai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09269">2508.09269</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09317.html">Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Karthik R et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09317">2508.09317</a></td>
 </tr>
 </tbody></table>

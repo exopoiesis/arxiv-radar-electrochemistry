@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,23 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09556.html">Phonon interference effects in GaAs-GaP superlattice nanowires</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Chaitanya Arya et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09556">2508.09556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08941.html">The alloying of first-principles calculations with quasiparticle methodologies for the converged solution of the quantum many-electron states in the correlated compound Iron monoxide</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Suvadip Das</td>
-<td><a href="http://arxiv.org/abs/2508.08941">2508.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08988.html">Thermoelectric Properties of Copper-based Chalcopyrite Semiconductors Cu$MX_2$ ($M$ = Al, Ga, and In; $X$ = S, Se, and Te) from First-Principles Calculations</a></div><div class="paper-tags"><a href="chalcopyrite-360d.html">chalcopyrite</a></div></td>
-<td>Wu Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08988">2508.08988</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09272.html">Solution-corrected Constant Potential Model for CO2 Electrocatalysis in Ionic Liquids</a></div><div class="paper-tags"><a href="constant-potential-360d.html">constant-potential</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Jikai Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09272">2508.09272</a></td>
 </tr>
 </tbody></table>
