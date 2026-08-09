@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">830 papers</span>
+  <span class="paper-count">824 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4958,41 +4958,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10544.html">Unraveling energy flow mechanisms in semiconductors by ultrafast spectroscopy: Germanium as a case study</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Grazia Raciti et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10544">2508.10544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.11248.html">Towards chemical accuracy for chemi- and physisorption with an efficient density functional</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
-<td>Manish Kothakonda et al.</td>
-<td><a href="http://arxiv.org/abs/2410.11248">2410.11248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23828.html">High-Throughput Exploration of NV-like Color Centers Across Host Materials</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Oscar Groppfeldt et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23828">2503.23828</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01772.html">Raman and IR Signatures of Mo3S4 and Mo3S13 Molybdenum Sulphide Molecular Catalysts for Solar Hydrogen Evolution</a></div></td>
-<td>Pardis Adams et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01772">2505.01772</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14786.html">Defect Engineered Layer Dependent Nonlinear Optical Response in Two Dimensional Muscovite for Efficient Optical Limiting</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Dipanwita Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14786">2507.14786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09501.html">Mechanical Force-Driven Charge Redistribution for Hydrogen Release at Ambient Conditions in Transition Metal-Intercalated Bilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Jongdeok Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09501">2508.09501</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09538.html">Boron Clusters for Metal-Free Water Splitting</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Masaya Fujioka et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09538">2508.09538</a></td>
 </tr>
 </tbody></table>
