@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06979.html">The Belousov-Zhabotinsky reaction reveals two regimes of non-Arrhenius temperature scaling in relaxation oscillators</a></div></td>
+<td>Simen Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06979">2608.06979</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24163.html">Dynamic hysteresis in an autocatalytic reaction network</a></div><div class="paper-tags"><a href="reaction-networks-30d.html">reaction-networks</a></div></td>
 <td>Sheela Yadav et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12813.html">Supernova Neutrinos and the Origin of Biomolecular Homochirality</a></div></td>
 <td>Amirmasoud Jannat et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12813">2607.12813</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09525.html">Chemical Frequency Combs in Reaction-Diffusion Oscillators</a></div></td>
-<td>Krishnesh Krishnakumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09525">2607.09525</a></td>
 </tr>
 </tbody></table>

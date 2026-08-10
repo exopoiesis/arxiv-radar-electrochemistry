@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">475 papers</span>
+  <span class="paper-count">474 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2858,11 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12488.html">Nonadiabaticity under compression in metastable carbon monoxide-nitroxide mixtures</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Reetam Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12488">2508.12488</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10380.html">Type-I Multiferroic VHfO$_4$ with Strain-Switchable Magnetic Orders and Magnetoelectric Coupling</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Qisheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10380">2508.10380</a></td>
 </tr>
 </tbody></table>

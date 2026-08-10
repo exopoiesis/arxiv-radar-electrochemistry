@@ -571,5 +571,282 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-08-06"
+ },
+ "2608.06413": {
+  "abstract": "Polymer membranes, particularly polymers of intrinsic microporosity (PIMs), hold great promise for gas separation applications. However, the long-dominant solution-diffusion model, which treats the membrane as a nonporous homogeneous medium, does not resolve how gas-solid atomic interactions govern molecular transport in intrinsic micropores, limiting rational bottom-up membrane design. In this work, we employ non-equilibrium molecular dynamics simulations to investigate the permeation of various gases (He, H2, CH4, N2, O2, and CO2) through PIM-1 as a representative PIM membrane across a range of temperatures. By analyzing the scaling of gas permeability with molecular mass, we identify a temperature-induced transition in the dominant transport mechanism. We demonstrate that this transition is governed by the competition between gas-wall interaction potential energy and thermal kinetic energy: weak interactions or elevated temperatures facilitate Knudsen-type ballistic transport, whereas strong interactions and lower temperatures favor adsorption-mediated surface diffusion. Furthermore, molecular trajectory analysis at the membrane interface reveals two distinct entry pathways: direct entry through pore openings and surface-diffusion-assisted entry. The surface-diffusion-assisted pathway greatly promotes the entry of strongly interacting gases into the membrane, contributing to higher overall permeability, albeit this enhancement diminishes with increasing temperature. These findings offer a mechanistic picture of gas permeation in PIM-1 and explain the dependence of gas permeation on both gas type and temperature. More broadly, they highlight the importance of adopting a pore-flow perspective to understand gas transport in microporous polymer membranes.",
+  "authors": [
+   "Jianhao Qian",
+   "Ruoyu Wang",
+   "Menachem Elimelech"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Jianhao Qian",
+  "pdf_url": "http://arxiv.org/pdf/2608.06413",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-05",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Competing Energetics Govern Gas Permeation in Polymer of Intrinsic Microporosity (PIM) Membranes",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.06582": {
+  "abstract": "Flow-based generative models can efficiently produce candidate structures for crystal structure prediction (CSP), but their pretrained objectives do not directly optimize downstream target recovery. Reinforcement-learning post-training offers a flexible solution, yet existing approaches rely primarily on energy rewards and coordinate-only stochastic policies. Predicted energy does not identify the reference polymorph, while reward-driven concentration can reduce the candidate coverage required for Top-N recovery. We introduce CrystalGRPO, a CSP-aligned post-training framework that extends existing ODE-to-SDE policy constructions to the joint coordinate--lattice state. CrystalGRPO combines MACE-predicted energy with a StructureMatcher-based recovery score and provides two operating modes: CrystalGRPO-Q, which prioritizes single-draw recovery, and CrystalGRPO-C, which combines full-trajectory reference regularization with a coverage-aware group advantage to preserve finite-budget target recovery. Across MP-20 and MPTS-52 with PXRDGen and OMatG backbones, both variants reduce one- and twenty-sample RMSE relative to coordinate-only reinforcement in all four backbone--dataset settings. CrystalGRPO-Q consistently improves Top-1, whereas CrystalGRPO-C achieves a higher Top-20 across all settings.",
+  "authors": [
+   "Kaixiang Su",
+   "Hongfei Xue",
+   "Qiang Zhu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Kaixiang Su",
+  "pdf_url": "http://arxiv.org/pdf/2608.06582",
+  "primary_category": "cs.LG",
+  "published": "2026-08-06",
+  "tags": [
+   "mace"
+  ],
+  "title": "CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06648": {
+  "abstract": "This paper presents a real-time Plan-and-Avoid (PAA framework for coordinating cooperative multi-agent airspace operations around a declared priority trajectory. The priority trajectory represents an aircraft flight plan that must be preserved because of constrained maneuverability, an emergency, a mission-critical task, or assigned operational priority. The framework predicts uncertainty-aware, well-clear separation violations with surrounding traffic and, when the priority plan alone cannot maintain separation, generates vehicle-constrained unilateral advisories that modify nearby aircraft trajectories to maintain well-clear separation for all traffic. The approach is applicable to any declared priority trajectory. This paper demonstrates the Plan component using a contingency landing planner to generate candidate priority trajectories. PAA then identifies nearby aircraft passing too close to this priority trajectory and issues Avoid resolution advisories to these aircraft. The framework is tested using real-world Automatic Dependent Surveillance-Broadcast (ADS-B) traffic from the Washington, D.C., airspace across more than 900 forced-landing cases, totaling over 140 hours of simulated flight. The PAA framework generates feasible cooperative advisories for all 575 unique conflict encounters, with a worst-case end-to-end response time of 5.7 s on a personal computer, including priority trajectory planning, advisory generation, and 1 s two-way datalink delay. In total, 93.5% of generated advisories satisfy the 35 s RTCA DO-365 Detect-and-Avoid temporal threshold. These results demonstrate low-latency coordination for preserving priority trajectories while maintaining well-clear separation through real-time automated advisory generation. Future work will quantify advisory-induced delays and their operational impacts.",
+  "authors": [
+   "Huseyin Emre Tekaslan",
+   "Ella M. Atkins",
+   "Natasha Neogi"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Huseyin Emre Tekaslan",
+  "pdf_url": "http://arxiv.org/pdf/2608.06648",
+  "primary_category": "cs.RO",
+  "published": "2026-08-06",
+  "tags": [],
+  "title": "Plan-and-Avoid: Real-Time Aircraft Trajectory Coordination in a Multi-Agent Environment",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-08-06"
+ },
+ "2608.06759": {
+  "abstract": "Optical anisotropy underpins the operation and performance of a broad range of photonic and quantum technologies. In this work, we critically examine the accuracy of density functional theory approximations with onsite and intersite Hubbard corrections (the DFT+$U$ and DFT+$U$+$V$ functionals) in predicting the anisotropic optical response of the non-centrosymmetric perovskite oxides, such as BaTiO$_3$, LiNbO$_3$, KNbO$_3$, and PbTiO$_3$. It is found that correcting self-interaction errors using DFT+$U$ alone does not capture the optoelectronic response of these materials, often leading to a suppression of their optical anisotropy. While intersite Hubbard interactions restore this anisotropy, the choice of the (inter)atomic orbital manifold that defines the Hubbard correction remains critical to its accuracy. The predictive performance of the resulting, systematically validated DFT+$U$+$V$ functional is achieved at a fraction of the computational cost of hybrid functionals and many-body perturbation theory calculations. As benchmarks, we investigate Zn- and (Bi,Mn)-substituted BaTiO$_3$ solid solutions; the latter exhibit polarization-dependent bandgap narrowing from mid-gap states, substantially enhancing the dichroic ratio and birefringence with promising implications for polarization-sensitive photodetectors and integrated photonics.",
+  "authors": [
+   "Mohamed S. M. M. Ali",
+   "Ismaila Dabo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 7 figures + 1-page Supplementary Information (1 figure)",
+  "first_author": "Mohamed S. M. M. Ali",
+  "pdf_url": "http://arxiv.org/pdf/2608.06759",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06877": {
+  "abstract": "Two-step thermochemical fuel production, including H2O and CO2 splitting, offers a promising route to sustainable fuel manufacturing, with performance governed by redox-active oxides that enable cyclic reduction-oxidation reactions. Maximizing thermal-to-fuel conversion efficiency demands materials that simultaneously satisfy multiple stringent thermodynamic and kinetic targets. Addressing these requirements has increasingly driven materials design toward complex, multi-cation oxides, such as mixed-cation fluorites, perovskites, and high-entropy oxides, wherein composition, defect chemistry, phase stability, and morphology should be co-optimized. This creates a challenging materials optimization problem that is poorly suited to traditional trial-and-error approaches. In this review, we argue that thermochemical fuel production provides a compelling frontier for autonomous materials design and optimization. We first examine why redox-active complex oxides are difficult to develop, owing to multidimensional phase spaces, harsh operating conditions, and competing functional targets. We then discuss how high-throughput computation, automated synthesis, characterization and testing, and machine learning can be integrated into closed-loop workflows to address these challenges. Building on broader oxide materials research, we organize recent progress into a capability roadmap for complex-oxide optimization, spanning compositionally diverse synthesis, operando characterization, robotic testing, operation-condition computation, and multi-objective optimization. Finally, we outline key experimental, computational, and data challenges for building self-improving materials development platforms for materials development in thermochemical fuel production.",
+  "authors": [
+   "Shuiping Gong",
+   "Mingcheng Li",
+   "Han Hao",
+   "Zhenhao Zhou",
+   "Yi Li",
+   "Xiaobo Liao",
+   "Cheng Fang",
+   "Jian Deng",
+   "Jiangang He",
+   "Wenpei Gao",
+   "Yakun Yuan",
+   "Chris Wolverton",
+   "Tao Deng",
+   "Chaochao Dun",
+   "Runxia Cai",
+   "Zhenpeng Yao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "31 pages, 3 figures, 1 table",
+  "first_author": "Shuiping Gong",
+  "pdf_url": "http://arxiv.org/pdf/2608.06877",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "phase-stability"
+  ],
+  "title": "Autonomous Optimization of Complex Oxides for Thermochemical Fuel Production",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06895": {
+  "abstract": "Electrolytes composed of sulfide and halide glasses are promising candidates for all-solid-state lithium batteries owing to their processability, lack of grain boundaries, and relatively high ionic conductivity. Nevertheless, their ionic conductivity and mechanical properties are still not satisfying for the real-world applications. Significant advances in solid electrolytes require a thorough understanding of their microstructures. Here, we reveal the connections among structure, ionic transport properties, and mechanical stability in a series of glassy solid electrolytes by employing molecular dynamics simulations based on a machine learning interatomic potential. Specifically, we explore how the interplay between B-S and P-S networks in glassy Li-S-P-B-I (LSPBI) governs ionic conductivity and deformation behavior. The introduction of P2S5 into a B2S3-based glass induces a critical structural transformation, through which both ionic conductivity and mechanical nano-ductility can be enhanced. For a moderate P2S5 content, incorporated PS4 units depolymerize the rigid boron framework, creating percolative diffusion pathways for fast ionic transport. Concurrently, the flexible P-S-P configurations enable energy dissipation through bond bending, leading to the brittle-to-ductile transition. However, excessive P2S5 increases the fraction of polyphosphates (e.g., P2S6 and P2S7), thereby polymerizing the structural network and ultimately impeding Li+ mobility. Our work thus provides atomistic principles for engineering glass electrolytes with balanced ionic conductivity and mechanical robustness.",
+  "authors": [
+   "Yong Li",
+   "Tao Du",
+   "Rasmus Christensen",
+   "Timothée Jamin",
+   "Zhencai Li",
+   "Qi Zhang",
+   "Xiaoyi Xu",
+   "Kasper Tolborg",
+   "Yuanzheng Yue",
+   "Morten M. Smedskjaer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yong Li",
+  "pdf_url": "http://arxiv.org/pdf/2608.06895",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "ion-transport",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Local Structure Dictates Ionic Transport and Mechanical Properties in Glassy Solid Electrolytes for Lithium Batteries",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06902": {
+  "abstract": "All-solid-state lithium batteries require solid electrolytes that combine rapid room-temperature ion transport with mechanical robustness and interfacial compatibility. Zeolitic imidazolate framework (ZIF) glasses, with ZIFs being a sub-set of metal-organic frameworks, offer an attractive yet relatively underexplored platform because they combine an grainboundary-free and amorphous topology with chemically tunable frameworks. Here, we reveal that structural disorder unlocks fast and isotropic lithium diffusion in ZIF glasses. This is realized by using a machine learning interatomic potential to simulate Li+ transport in crystalline and glassy ZIF-4 and ZIF-62. Structural disorder reduces the activation energy for Li+ migration from ~0.35 eV to 0.16 eV and increases the extrapolated room-temperature diffusion coefficient by more than one order of magnitude for ZIF-4 and nearly sevenfold for ZIF-62. Analyses of non-Gaussian dynamics and van Hove correlation functions reveal that Li+ diffusion in crystalline ZIFs occurs via rare, dynamically heterogeneous hopping events among well-defined cages, whereas Li+ diffusion in glassy ZIFs is more homogeneous, continuous, and Fickian-like, benefiting from a wide distribution of coordination geometries and migration barriers. Li+ diffusion in crystalline ZIFs is strongly anisotropic, reflecting that ordered orientations of imidazolate and benzimidazolate rings impose distinct energy barriers along different crystallographic directions. Upon vitrification, these ring orientations become randomized, and hence, the diffusion of Li+ becomes isotropic or near-isotropic. These findings imply that well-designed metal-organic framework glasses are a promising candidate as high-performance solid-state electrolytes.",
+  "authors": [
+   "Yong Li",
+   "Tao Du",
+   "Timothée Jamin",
+   "Zhencai Li",
+   "Kasper Tolborg",
+   "Yuanzheng Yue",
+   "Morten M. Smedskjaer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yong Li",
+  "pdf_url": "http://arxiv.org/pdf/2608.06902",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "ion-transport",
+   "mlip"
+  ],
+  "title": "Fast Isotropic Li-Ion Diffusion in Zeolitic Imidazolate Framework Glass Electrolytes for Batteries",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.06979": {
+  "abstract": "The period of biological and chemical oscillators scales with temperature in a characteristic way. Some oscillators are very well described by an Arrhenius law, while others show systematic deviations. Several frameworks have been proposed to explain such deviations, but they are either phenomenological, focus on activation energy imbalances in specific circuits, or restrict themselves to sequential processes. Here we develop a mechanistic account of the temperature scaling of relaxation oscillators, using the Belousov-Zhabotinsky (BZ) reaction as a model system. We distinguish two typical scenarios by their temperature-scaling signatures. In the first, an Arrhenius-dependent timescale separation parameter produces a biphasic Arrhenius scaling of the period as the oscillator approaches a Hopf bifurcation. In the second, Arrhenius-dependent nullclines hide the same bifurcation behind a canard explosion, yielding apparent single-line Arrhenius scaling. Measuring the electrode potential of a classical and an uncatalyzed BZ reaction, over a very wide temperature range ({\\approx} 100 °C), and comparing to dynamical models, we find that the two reactions represent these two distinct scenarios. Furthermore, we show that a single parameter characterizing the waveform asymmetry between fast and slow phases quantitatively predicts the temperature scaling of three other observables close to the Hopf bifurcation: the period, amplitude, and phase noise. This analysis also recovers elementary activation energies of the BZ mechanism, including a new estimate for the autocatalytic step. We discuss how this framework and its waveform-based diagnostics apply to the analysis of general biochemical relaxation oscillators",
+  "authors": [
+   "Simen Jacobs",
+   "Nikita Frolov",
+   "Panna Farkas",
+   "István Lagzi",
+   "István Szalai",
+   "Lendert Gelens"
+  ],
+  "categories": [
+   "nlin.CD"
+  ],
+  "comment": "14 pages, 5 figures",
+  "first_author": "Simen Jacobs",
+  "pdf_url": "http://arxiv.org/pdf/2608.06979",
+  "primary_category": "nlin.CD",
+  "published": "2026-08-07",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "The Belousov-Zhabotinsky reaction reveals two regimes of non-Arrhenius temperature scaling in relaxation oscillators",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07081": {
+  "abstract": "The lattice dynamics of hexagonal close-packed (hcp) zinc, a prototypical anisotropic metal, is studied using temperature-dependent Zn K-edge extended X-ray absorption fine structure (EXAFS) spectroscopy combined with atomistic simulations. The reverse Monte Carlo method enable the extraction of mean-square relative displacements (MSRDs) for eight coordination shells, providing a shell-resolved description of thermal motion. The MSRD temperature dependence, analysed using the correlated Einstein model, yields effective interatomic force constants and reveals pronounced anisotropy between in-plane and out-of-plane interactions. This anisotropy is further quantified by the ratio of MSRDs for the first and second coordination shells, which closely matches the anisotropic displacement parameters from diffraction experiments. Molecular dynamics simulations using the CHGNet universal machine-learning interatomic potential show that the original model overestimates thermal disorder, while a fine-tuned version substantially improves agreement with experimental EXAFS spectrum and radial distribution function. Overall, EXAFS-informed analysis is effective for validating and refining machine-learning interatomic potentials.",
+  "authors": [
+   "Vitalijs Dimitrijevs",
+   "Pjotrs Žguns",
+   "Inga Pudza",
+   "Aleksandr Kalinko",
+   "Alexei Kuzmin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Vitalijs Dimitrijevs",
+  "pdf_url": "http://arxiv.org/pdf/2608.07081",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "chgnet",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Local lattice dynamics of hcp zinc from EXAFS and machine-learning interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07130": {
+  "abstract": "The performance of organic electrochemical transistors (OECTs) is fundamentally governed by the interplay between ionic accessibility and electronic transport within organic mixed ionic-electronic conductors. Although increasing channel thickness enhances transconductance, it also prolongs ion transport, resulting in the well-known gain-speed trade-off. Here, we demonstrate that engineering the internal morphology of PEDOT:PSS:PEI films through pH-induced aqueous phase separation provides an effective route to mitigate this limitation. The resulting interconnected pore network promotes electrolyte penetration and increases the electrochemically addressable volume, while DMSO treatment and annealing enhance the continuity and ordering of the PEDOT-rich electronic phase. Consequently, porous OECT channels achieve a transconductance of 30 mS and a response time of 13 ms at an ultralow gate voltage of 0.05 V despite channel thicknesses exceeding 100 um. Comparison of films with comparable electronic conductivity but different pore architectures identifies morphology as the dominant factor governing device performance, supporting a transition from predominantly surface-limited modulation toward spatially distributed mixed ionic-electronic transport. Beyond demonstrating a scalable water-based fabrication strategy, this work establishes internal morphology as a design parameter that complements molecular structure and device geometry in organic mixed conductors, providing a general framework for the development of high-performance OECTs, soft bioelectronics, and future neuromorphic materials.",
+  "authors": [
+   "Siqi Wang",
+   "Maria Restrepo",
+   "John Linkhorst",
+   "Matthias Wessling"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "conducting polymer, PEDOT:PSS, porous films, organic electrochemical transistors (OECTs), ion sensing",
+  "first_author": "Siqi Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.07130",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-07"
  }
 }
