@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>aimd — all</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08000.html">Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\varepsilon$-LiMnO$_2$ polymorph</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="neb-all.html">neb</a></div></td>
+<td>Fukuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08000">2608.08000</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03680.html">Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

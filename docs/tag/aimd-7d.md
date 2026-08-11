@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08000.html">Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\varepsilon$-LiMnO$_2$ polymorph</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="neb-7d.html">neb</a></div></td>
+<td>Fukuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08000">2608.08000</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03680.html">Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Sneha Mittal et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03680">2608.03680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02456.html">Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS$_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Daeheon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02456">2608.02456</a></td>
 </tr>
 </tbody></table>

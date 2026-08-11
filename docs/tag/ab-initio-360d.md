@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">474 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08842.html">Light-Stabilized Metastable Electronic State in NiO with Enhanced Orbital Hybridization2</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Thomas C. Rossi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08842">2608.08842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07997.html">Predicting large-supercell defect formation energies from machine-learning charge density models trained on small supercells</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Junjie Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07997">2608.07997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08000.html">Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\varepsilon$-LiMnO$_2$ polymorph</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Fukuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08000">2608.08000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07782.html">Understanding the Oxygen Reduction Reaction and Oxygen Evolution Reaction in Metal Intercalated Biphenylene Bilayers</a></div><div class="paper-tags"><a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td>Henri G. Mendonça et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07782">2608.07782</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04690.html">Raman Signatures of Lithium Ion Dynamics in LLZO Garnet Electrolytes: Atomistic Insights from MD-Raman Calculations</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

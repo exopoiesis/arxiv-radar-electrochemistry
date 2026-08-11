@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08295.html">Universality of PVDF-Li$^+$ Ion Interface Chemistry in Lead-free Perovskite Energy Storage Devices</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="mace-360d.html">mace</a></div></td>
+<td>Arun Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08295">2608.08295</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06895.html">Local Structure Dictates Ionic Transport and Mechanical Properties in Glassy Solid Electrolytes for Lithium Batteries</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yong Li et al.</td>
@@ -926,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14219.html">CO Adsorption Sites on Interstellar Water Ices Explored with Machine Learning Potentials. Binding energy distributions and snowline</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Giulia M. Bovolenta et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14219">2508.14219</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Christoph Brunken et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
 </tr>
 </tbody></table>

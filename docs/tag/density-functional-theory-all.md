@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1408 papers</span>
+  <span class="paper-count">1411 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Zahabul Islam</td>
+<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08842.html">Light-Stabilized Metastable Electronic State in NiO with Enhanced Orbital Hybridization2</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-u-all.html">dft-u</a></div></td>
+<td>Thomas C. Rossi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08842">2608.08842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07997.html">Predicting large-supercell defect formation energies from machine-learning charge density models trained on small supercells</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Junjie Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07997">2608.07997</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06759.html">Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals</a></div></td>

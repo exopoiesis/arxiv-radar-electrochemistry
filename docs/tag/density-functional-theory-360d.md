@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Zahabul Islam</td>
+<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08842.html">Light-Stabilized Metastable Electronic State in NiO with Enhanced Orbital Hybridization2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Thomas C. Rossi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08842">2608.08842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07997.html">Predicting large-supercell defect formation energies from machine-learning charge density models trained on small supercells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Junjie Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07997">2608.07997</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06759.html">Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals</a></div></td>
@@ -4934,17 +4952,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12118.html">Microscopic model of the operation of the Single-chalcogenide X-point Memory</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
 <td>P. Fantini et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12118">2508.12118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Christoph Brunken et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11397.html">Hole doping as an efficient route to increase the Curie temperature in monolayer CrI$_3$</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Marko Orozović et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11397">2508.11397</a></td>
 </tr>
 </tbody></table>

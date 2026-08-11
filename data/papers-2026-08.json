@@ -848,5 +848,260 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-08-07"
+ },
+ "2608.07782": {
+  "abstract": "We conducted an {\\it ab initio} study of the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) in metal-encapsulated biphenylene bilayers, B/M/B, with M = Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Nb, Ru, W, Os and Pt. In most systems, the intercalated metal sits at the square carbon sites (C$^{468}$) of the biphenylene lattice. Using a computational hydrogen electrode approach, we evaluated the reaction energetics at these active sites. Several B/M/B systems show competitive ORR and OER performance. Among the investigated systems, Cu, Pt, Ru, and Mn exhibit the lowest ORR overpotentials of 0.42, 0.44, 0.50, and 0.56 V, respectively, while Fe is identified as the most active catalyst for OER with an overpotential of 0.44 V. To understand the catalytic trends, we looked at the electronic structure through the metal $d-$band centers, the C$^{468}$ $p_z-$band centers, and the corresponding orbital charge populations. The band centers did not give a simple polynomial dependence on the overpotentials, though they did point to favorable electronic ranges for the best catalysts. The $d-$orbital charge population of the encapsulated metal, however, correlated most clearly with activity-especially for OER-yielding volcano-type plots. From these, B/Fe/B emerges as the best OER catalyst, while B/Mn/B lies closest to the ORR optimum. The $p-$orbital population at the active carbon site also captures the main trends, albeit less strongly. Overall, these results show that straightforward electronic descriptors can predict catalytic behavior in metal-encapsulated biphenylene bilayers and guide the search for efficient catalysts where the carbon framework itself drives the reactivity.",
+  "authors": [
+   "Henri G. Mendonça",
+   "Pedro H. Souza",
+   "Walter Orellana",
+   "Roberto H. Miwa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 8 figures",
+  "first_author": "Henri G. Mendonça",
+  "pdf_url": "http://arxiv.org/pdf/2608.07782",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "ab-initio",
+   "oxygen-evolution"
+  ],
+  "title": "Understanding the Oxygen Reduction Reaction and Oxygen Evolution Reaction in Metal Intercalated Biphenylene Bilayers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07826": {
+  "abstract": "Past and present climates, both on Earth and in planetary systems, maintain ice covers with underlying oceans. This can range from sea ice in the Arctic Ocean to global ice shells on ice-covered moons in the Solar System to ice sheets in past episodes of Earth's history. When an ice shell overlies an ocean, it becomes challenging to infer what ocean processes could be going on below as in-situ ocean measurements are often lacking. This means that what we learn about ocean mixing must often be inferred from above-surface measurements. Here we synthesize the following ideas: (1) surface observations of past and present planetary ice shells give insight into subsurface ocean stratifications and mixing (and vice versa), (2) the stratification, mixing, and presence of ice in (1) is largely controlled by the ocean salinity, and (3) the interplay between (1) and (2) in past and present planetary systems may provide new insights into habitability and the origins of life.",
+  "authors": [
+   "Nicole Shibley"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "12 pages, 2 figures, submitted",
+  "first_author": "Nicole Shibley",
+  "pdf_url": "http://arxiv.org/pdf/2608.07826",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-08-07",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "What can Planetary Ice Shells Teach Us about Ocean Mixing and Life, and Why Salt Matters",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07997": {
+  "abstract": "First-principles defect calculations are often limited by the cost of the large supercells required to suppress image interactions. Machine-learning interatomic potentials (MLIPs) provide another alternative, but training defect MLIPs typically requires thousands of structures and weeks of data generation. Since charge density is the key to density-functional-theory (DFT), we propose a machine-learning charge density (MLCD) route for predicting defect formation energies with higher data efficiency. We optimize the training set by integrating small supercells of varying sizes for better extrapolation, allocating their proportions based on spatial charge-density analysis. With only 96 supercells containing 16--96 atoms as the dataset, MLCD accurately predicts the formation energies of four intrinsic defects in 360-atom supercells, with defect-wise mean absolute error below 0.05 eV. In contrast, MLIPs trained on the same dataset can err by more than 1 eV. These results show that charge-density learning enables more robust cross-size transfer than direct energy-force fitting and that mixed-size data design can substantially reduce the cost of defect prediction.",
+  "authors": [
+   "Junjie Zhou",
+   "Menglin Huang",
+   "Shiyou Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Junjie Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2608.07997",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-08",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Predicting large-supercell defect formation energies from machine-learning charge density models trained on small supercells",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.08000": {
+  "abstract": "In rocksalt-derived oxide cathodes, the local Li-migration environment around an O4 tetrahedral intermediate is commonly classified by the number of face-sharing transition-metal (TM) neighbors. In LiMnO2, the TM species is Mn, and 0-TM denotes the absence of face-sharing Mn neighbors. However, migration and delithiation may also depend on higher-shell coordination and tetrahedral connectivity. Using the recently reported low-energy epsilon-LiMnO2 polymorph as a model, we examine these factors through bond-valence site-energy and bond-valence pathway analyses combined with first-principles calculations. The resulting migration maps and tetrahedral statistics reveal distinct topologies and dimensionalities across four LiMnO2 polymorphs. Although the epsilon phase and the lithiated-spinel phase Li2Mn2O4 (hereafter spinel) have identical tetrahedral-type fractions, their 0-TM motifs form quasi-one-dimensional chains and a three-dimensional network, respectively. Climbing-image nudged elastic band calculations further distinguish the two structures: epsilon-phase barriers are 0.35-0.36 eV, compared with 0.41-0.53 eV in spinel, a difference that may be associated with distinct next-nearest corner-sharing shells. Ab initio molecular dynamics yields an apparent activation energy of 0.32 eV, while direction-resolved mean-squared displacements show preferential Li migration along c, supporting low-barrier quasi-one-dimensional diffusion. Delithiation calculations show that differences in 0-TM connectivity and Li-Li separation between the epsilon phase and spinel are associated with Li-site evolution and calculated voltage steps, suggesting that motif connectivity may influence voltage response. These results link the local environments and spatial connectivity of 0-TM motifs to Li migration and delithiation, providing insights into the design of metastable cathode structures.",
+  "authors": [
+   "Fukuan Wang",
+   "Busheng Wang",
+   "Yong Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 7 figures",
+  "first_author": "Fukuan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.08000",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-08",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics",
+   "neb"
+  ],
+  "title": "Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\\varepsilon$-LiMnO$_2$ polymorph",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.08050": {
+  "abstract": "Aqueous electrocatalysis generates oxygenated intermediates at catalyst surfaces. While intermediate species on single-crystal catalysts have been observed, the nature and evolution of surface oxygenated species on industrially relevant nanoparticle (NP) catalysts remain largely unknown. Here, using in situ Raman spectroscopy, we tracked the formation and potential-dependent evolution of oxygenated adsorbates in alkaline media on NP catalysts with an active platinum (Pt) surface. By comparing spectroscopic features in Ar- vs O2-saturated electrolytes, we determined three key intermediates produced by the oxygen reduction reaction (ORR): adsorbed OOH, OH, and O2. In contrast to the conventional wisdom that intermediates exist only during catalytic reactions, we found these oxygenated adsorbates to be highly long-lived and hysteretic, and to persist even after the termination of ORR. This adsorbate-retention effect exhibits a modest dependence on the surface oxidation state and the electrolyte cations (K+ vs Li+), and is likely facilitated by the heterogeneous nature of the catalyst surface. The results highlight the complexity of surface adsorption structures on realistic catalysts, which often extends beyond that captured by measurements or simulations on model single-crystal surfaces.",
+  "authors": [
+   "Jaehyeon Kim",
+   "Lalith Krishna Samanth Bonagiri",
+   "Fujia Zhao",
+   "Yingjie Zhang"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jaehyeon Kim",
+  "pdf_url": "http://arxiv.org/pdf/2608.08050",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-08",
+  "tags": [
+   "adsorption",
+   "corrosion",
+   "electrocatalysis"
+  ],
+  "title": "Oxygen Reduction Reaction on Platinum Nanocatalysts Produces Long-Lived, Hysteretic Oxygenated Adsorbates",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.08295": {
+  "abstract": "Electrode binders are conventionally regarded as inert structural components. Here, we show that in lead-free perovskite supercapacitors, the binder defines the optimal electrolyte composition. Across a factorial matrix of poly(vinylidene fluoride) (PVDF) loadings and LiTFSI concentrations in CsSnCl$_3$ electrodes, the capacitance optimum shifts systematically with binder content along a single linear relationship, described by the Interfacial Balance Rule ($λ+θ=1$), where $λ$ and $θ$ are the normalized lithium-supply and polymer contributions at the optimized interfacial state. The same relationship holds for hybrid MASnCl$_3$, showing that the optimum is governed by the polymer-electrolyte interface rather than the perovskite lattice chemistry. Simulations using a pre-trained MACE machine-learned interatomic potential show that PVDF adopts a planar configuration on CsSnCl$_3$ and simultaneously interacts with cationic and anionic sites. This configuration homogenizes lithium adsorption energetics, introduces fluorine-mediated coordination, and confines lithium to a two-dimensional interfacial region while preserving lateral mobility. Tuning polymer coverage through surface density and chain length reveals a finite interfacial lithium accommodation capacity that marks the onset of out-of-plane aggregation. The Interfacial Balance Rule provides a macroscopic descriptor of this finite interfacial resource, balancing polymer-mediated lithium stabilization against limited accommodation space. Binder loading is therefore an active design parameter for polymer-regulated energy-storage interfaces.",
+  "authors": [
+   "Arun Kumar",
+   "Ayush Kumar Pandey",
+   "Ankur Yadav",
+   "Vishnu Saraswat",
+   "Shiladitya Sengupta",
+   "Abhishek Tewari",
+   "Monojit Bag"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "Arun Kumar and Ayush Kumar Pandey contributed equally to this work. Corresponding authors: Abhishek Tewari and Monojit Bag",
+  "first_author": "Arun Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2608.08295",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-08",
+  "tags": [
+   "adsorption",
+   "mace",
+   "mlip"
+  ],
+  "title": "Universality of PVDF-Li$^+$ Ion Interface Chemistry in Lead-free Perovskite Energy Storage Devices",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-08"
+ },
+ "2608.08415": {
+  "abstract": "This study explores the thermo-mechanical properties of a two-dimensional (2D) monolayer hexagonal boron phosphide (h-BP). h-BP is predicted to possess a moderate band gap, high thermal stability, and excellent carrier mobility, making it suitable for advanced electronic, sensing, and energy applications. A classical molecular dynamics (MD) potential for h-BP was developed using density functional theory (DFT) calculations. The derived parameters were implemented in MD simulations to evaluate mechanical behavior under tensile loading along both zigzag and armchair directions at varying temperatures (300 K to 900 K). The results reveal significant anisotropy in mechanical performance, with higher tensile strength and elastic modulus in the zigzag direction across all temperatures. Increasing temperature reduces both tensile strength and stiffness due to thermal softening and increased atomic vibrations. The influence of structural defects was also investigated, revealing that Stone-Wales and vacancy defects reduce the tensile strength and failure strain of h-BP, with the two-atom vacancy producing the most pronounced mechanical degradation due to localized stress concentration and premature crack initiation. These findings provide a foundation for future research on the mechanical stability of h-BP in extreme environments.",
+  "authors": [
+   "Zahabul Islam"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zahabul Islam",
+  "pdf_url": "http://arxiv.org/pdf/2608.08415",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-09",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-08-09"
+ },
+ "2608.08842": {
+  "abstract": "Light-driven control of electronic structure in correlated metal oxides offers new opportunities for optimizing materials used in photovoltaic and photoelectrochemical technologies. We show that photoexcitation of NiO, a prototypical transparent semiconductor and hole-transport material, across its charge-transfer gap produces a long-lived metastable state with enhanced Ni 3d-O 2p orbital hybridization. We characterize this state using Ni K-edge X-ray absorption spectroscopy, which probes how structural and electronic changes affect the unoccupied p density of states during continuous and pulsed ultraviolet excitation. Under pulsed excitation, high carrier densities of approximately 10^20 per cubic centimeter generate a state with a lifetime of approximately 600 picoseconds, in which enhanced hybridization coexists with lattice heating. By contrast, continuous ultraviolet irradiation at much lower carrier densities of approximately 10^13 per cubic centimeter stabilizes a similar electronic state with negligible lattice heating, demonstrating that its formation is not solely thermally driven. First-principles DFT+U+V calculations attribute the spectral changes to stronger Ni 3d-O 2p hybridization, which alters the unoccupied Ni 4p states probed by dipole-allowed K-edge transitions. We attribute this change to the dynamic screening of on-site electronic correlations following photoexcitation, which redistributes the charge density. Because orbital hybridization governs carrier transport and charge-transfer energetics, our results identify photoinduced screening as a mechanism for dynamically tuning correlated oxides and suggest new design principles for optoelectronic materials.",
+  "authors": [
+   "Thomas C. Rossi",
+   "Fabio G. Santomauro",
+   "Lars Mewes",
+   "Janina Löffler",
+   "Dominik Kinschel",
+   "Giacomo Rossi",
+   "Mario Gutiérrez",
+   "Oliviero Cannelli",
+   "Boris V. Sorokin",
+   "Jochen Rittmann",
+   "Jakob Kel",
+   "James Budarz",
+   "Anna Wach",
+   "Adam H. Clark",
+   "Emiliano Dal Molin",
+   "Maged F. Bekheet",
+   "Albert Gili",
+   "Sebastian Praetz",
+   "Daniel Grötzsch",
+   "Delphine Cabaret",
+   "Renske M. van der Veen",
+   "Majed Chergui"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "77 pages, 5 figures",
+  "first_author": "Thomas C. Rossi",
+  "pdf_url": "http://arxiv.org/pdf/2608.08842",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-09",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Light-Stabilized Metastable Electronic State in NiO with Enhanced Orbital Hybridization2",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-09"
+ },
+ "2608.09423": {
+  "abstract": "Spectroscopic techniques measure the dynamical response of physical systems subjected to oscillatory perturbations. For small perturbations around the equilibrium state, these spectroscopic methods are unified by the common mathematical framework of linear response theory. This work presents a unified perspective on rheological or mechanical spectroscopy, electrochemical impedance spectroscopy, and broadband dielectric spectroscopy through the lens of linear response theory. Subtle conceptual similarities and differences among these techniques are highlighted by analyzing their mapping to the linear response theory, basic building blocks, elementary models, and time and frequency domain response functions. Data validation and analysis approaches, including Kramers-Kronig relations, equivalent circuits, and multimode models are discussed. The shared fundamentals of different spectroscopies enable seamless exchange of ideas across domains.",
+  "authors": [
+   "Shivangi Mittal",
+   "Sachin Shanbhag",
+   "Yogesh M. Joshi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "45 pages, 6 figures. Published in ACS Measurement Science Au",
+  "first_author": "Shivangi Mittal",
+  "pdf_url": "http://arxiv.org/pdf/2608.09423",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-10",
+  "tags": [
+   "impedance-spectroscopy"
+  ],
+  "title": "When Spectroscopies Speak the Same Language: Unifying Rheology, Electrochemical Impedance, and Dielectrics",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-10"
  }
 }

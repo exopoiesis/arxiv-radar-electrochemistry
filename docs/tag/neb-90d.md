@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08000.html">Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\varepsilon$-LiMnO$_2$ polymorph</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Fukuan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08000">2608.08000</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24871.html">A flexible kinetic Monte Carlo framework for GaN molecular beam epitaxy with adaptive on-the-fly barrier evaluation</a></div></td>
 <td>Sajid Ali et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22990.html">Drift-React: One-step Generation of Reaction Pathways via SE(3) Drifting Fields</a></div><div class="paper-tags"><a href="reaction-networks-90d.html">reaction-networks</a></div></td>
 <td>Rémi Schlama et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22990">2605.22990</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Michael Bühler et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08050.html">Oxygen Reduction Reaction on Platinum Nanocatalysts Produces Long-Lived, Hysteretic Oxygenated Adsorbates</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
+<td>Jaehyeon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08050">2608.08050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08295.html">Universality of PVDF-Li$^+$ Ion Interface Chemistry in Lead-free Perovskite Energy Storage Devices</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Arun Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08295">2608.08295</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Rahul Soni et al.</td>
@@ -242,17 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Wael Othman et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11604.html">Gel-Chemistry-Dependent Heavy-Metal Ion Transport and Immobilization in Cementitious Nanopores: A Molecular Dynamics Study</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Weiqiang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11604">2605.11604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11941.html">Poisoning mechanism of ammonia on proton transport and ionomer structure in cathode catalyst layer of PEM fuel cells</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="proton-transport-90d.html">proton-transport</a></div></td>
-<td>Yichao Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11941">2605.11941</a></td>
 </tr>
 </tbody></table>

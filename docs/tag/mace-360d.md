@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08295.html">Universality of PVDF-Li$^+$ Ion Interface Chemistry in Lead-free Perovskite Energy Storage Devices</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Arun Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08295">2608.08295</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06118.html">Calculations of the Krypton Phase Diagram and Novel Plasticity</a></div></td>
 <td>Marcin Kirsz et al.</td>
@@ -926,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21935.html">Fine-Tuning Universal Machine-Learned Interatomic Potentials: A Tutorial on Methods and Applications</a></div></td>
 <td>Xiaoqing Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21935">2506.21935</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22397.html">Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Christoph Brunken et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22397">2505.22397</a></td>
 </tr>
 </tbody></table>

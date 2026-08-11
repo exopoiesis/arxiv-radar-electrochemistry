@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07826.html">What can Planetary Ice Shells Teach Us about Ocean Mixing and Life, and Why Salt Matters</a></div></td>
+<td>Nicole Shibley</td>
+<td><a href="http://arxiv.org/abs/2608.07826">2608.07826</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28250.html">Causal Architecture Dynamics Prior to Arrival of Self-replicators in a Model of Catalytic Networks Relevant to Origin-of-Life</a></div></td>

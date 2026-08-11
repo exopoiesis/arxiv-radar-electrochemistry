@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Zahabul Islam</td>
+<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08842.html">Light-Stabilized Metastable Electronic State in NiO with Enhanced Orbital Hybridization2</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
+<td>Thomas C. Rossi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08842">2608.08842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07997.html">Predicting large-supercell defect formation energies from machine-learning charge density models trained on small supercells</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Junjie Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07997">2608.07997</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06759.html">Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals</a></div></td>
 <td>Mohamed S. M. M. Ali et al.</td>
@@ -1106,23 +1124,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10363.html">Accelerating Locality-Driven Integration in Quantum Chemistry with Block-Structured Matrix Multiplication</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xinran Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10363">2605.10363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12045.html">Magnetism and spin dynamics of Na$_5$Yb(MoO$_4$)$_4$: A weakly interacting rare-earth stretched diamond lattice</a></div></td>
-<td>N. Rajeesh Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12045">2605.12045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12067.html">Discovery of High-Voltage Magnesium-Ion Cathodes using Machine Learning and First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Jhon Rogelnor A. Florida et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12067">2605.12067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12186.html">Asymmetric Planar-to-Dewar Isomerisation in BN-Doped Naphthalene: Mechanistic Implications for Molecular Solar Thermal Storage</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
-<td>Michael Bühler et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12186">2605.12186</a></td>
 </tr>
 </tbody></table>
