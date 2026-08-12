@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Abhishek Raghav et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
+<td>Enrico Di Lucente et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
@@ -62,23 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a></div></td>
 <td>H. Betancourt-Infante et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03308.html">Bias Tunable Transport Modulation and Gas Selectivity in Layered BiOI: A DFT NEGF Study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="co2-adsorption-7d.html">co2-adsorption</a></div></td>
-<td>Jemal Yimer Damte et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03308">2608.03308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03680.html">Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Sneha Mittal et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03680">2608.03680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03688.html">Machine Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a></div></td>
-<td>Jiadong Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03688">2608.03688</a></td>
 </tr>
 </tbody></table>

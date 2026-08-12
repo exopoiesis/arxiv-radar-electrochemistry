@@ -1103,5 +1103,84 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-08-10"
+ },
+ "2608.10428": {
+  "abstract": "Lanthanum hydride (LaH$_{10}$) has been widely studied for its high superconducting critical temperature of 250 K at about 170 GPa pressure. Although the structural ${R\\bar{3}m}$-to-${Fm\\bar{3}m}$ transition under pressure connected to the emergence of the superconducting phase in this material is broadly understood, the detailed characterization of its nature and its order parameter are still missing. By applying the cluster multipole moment analysis to the hydrogen sublattice, we reveal that this transition is triggered by a quadrupolar $T_{2g}$ order parameter, and we provide evidence for its weak first-order nature. By performing path integral molecular dynamics coupled to a message-passing atomic cluster expansion (MACE) neural network potential, trained on Perdew-Burke-Ernzerhof (PBE) density functional theory configurations, we show that the collapse of the order parameter at the transition is simultaneously associated with the discontinuous softening of the optical $T_{2g}$ phonons. Their symmetry lets them carry a non-negligible electron-phonon coupling in LaH$_{10}$, while the weak first-order nature of the transition makes them soft. The presence of structural instabilities with low-frequency quadrupolar distortions can be a key ingredient to enhance superconductivity in superhydrides and provides guidance for the discovery of new high-$T_c$ superconductors in hydrogen-rich compounds.",
+  "authors": [
+   "Abhishek Raghav",
+   "Kousuke Nakano",
+   "Marco Cherubini",
+   "Ryotaro Arita",
+   "Michele Casula"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "24 pages, 6 figures in the main text, 7 figures in extended data",
+  "first_author": "Abhishek Raghav",
+  "pdf_url": "http://arxiv.org/pdf/2608.10428",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-08-11",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Quadrupolar phase transition in superconducting lanthanum hydride",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.10910": {
+  "abstract": "X-ray absorption spectroscopy (XAS) probes the local chemical environment of the absorbing atom and is one of the most powerful characterization techniques for battery materials. Here we present a database of simulated oxygen K-edge XAS spectra for the layered cathode material LiNi0.8Mn0.1Co0.1O2 (NMC811), built on the atomic structures of our recent work[1]. All spectra were obtained using the excited electron and core-hole (XCH) method with the R2SCAN meta-GGA functional, as implemented in the Vienna Ab initio Simulation Package (VASP). The database covers benchmark binary oxides (TiO, Ti2O3, TiO2, Mn3O4, Mn2O3, MnO2) together with a realistic NMC811 supercell containing 60 transition metal sites at three states of charge. Because each spectrum is resolved at the level of individual oxygen sites, the database links O K-edge spectral features to specific oxygen environments defined by their local coordination and transition metal neighbors. All data are freely available and can serve as a reference for spectral fingerprinting, for direct comparison with experiments, and as training data for machine learning models.",
+  "authors": [
+   "Jian He",
+   "Bowen Xiu",
+   "Feng Ryan Wang",
+   "Frank MF de Groot",
+   "Nongnuch Artrith"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Jian He",
+  "pdf_url": "http://arxiv.org/pdf/2608.10910",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-11",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Oxygen K-edge X-ray Absorption Spectroscopy Database for NMC811 Layered Cathode Materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11089": {
+  "abstract": "Recent experimental reports suggest that the narrow-gap nonmagnetic semiconductor FeSb$_2$ can be transformed into an altermagnetic metal through Co doping (Co$_{0.15}$Fe$_{0.85}$Sb$_2$), or into a magnetically disordered or short-range-ordered state through Cr doping (Cr$_{0.15}$Fe$_{0.85}$Sb$_2$). Here we explore the energy landscape and magnetic states of these doped systems from first principles, relying on Hubbard-augmented density-functional theory (DFT+U) combined with the Romeo ground-state search algorithm. Within the established virtual-crystal approximation (VCA), we show that \\texttt{Romeo} finds several non-trivial magnetic states, which inform targeted explicit simulations of doping in supercells. We rely on these findings to discuss strengths and limitations of the VCA-Romeo approach versus the explicit-doping supercell approach, and how they can be used in synergy. Overall, our simulations suggest that the ground state of the Cr-doped system is a Locally Disordered Spin-Compensated (LDSC) configuration, formally compatible with Néel's L-type fully compensated ferrimagnetism, whereas the ground state of the Co-doped system is found to be altermagnetic (AFMo). This work shows how approximate and explicit simulations of magnetic alloys can be mutually informative, and establishes a protocol for studying candidate metallic altermagnets.",
+  "authors": [
+   "Enrico Di Lucente",
+   "Michele Simoncelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "5 pages and 5 figures (main), 8 pages and 11 figures (supplementary)",
+  "first_author": "Enrico Di Lucente",
+  "pdf_url": "http://arxiv.org/pdf/2608.11089",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-11",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-11"
  }
 }

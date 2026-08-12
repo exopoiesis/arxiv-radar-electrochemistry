@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-08-11._
+_Updated 2026-08-12._
 
-**3349** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3352** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Abhishek Raghav et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.10910.html">Oxygen K-edge X-ray Absorption Spectroscopy Database for NMC811 Layered Cathode Materials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Jian He et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10910">2608.10910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/dft-u-30d.html">dft-u</a></div></td>
+<td>Enrico Di Lucente et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09423.html">When Spectroscopies Speak the Same Language: Unifying Rheology, Electrochemical Impedance, and Dielectrics</a></div><div class="paper-tags"><a href="tag/impedance-spectroscopy-30d.html">impedance-spectroscopy</a></div></td>
@@ -177,23 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03308.html">Bias Tunable Transport Modulation and Gas Selectivity in Layered BiOI: A DFT NEGF Study</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/co2-adsorption-30d.html">co2-adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Jemal Yimer Damte et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03308">2608.03308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03680.html">Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sneha Mittal et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03680">2608.03680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03688.html">Machine Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
-<td>Jiadong Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03688">2608.03688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04238.html">Fully optoelectronic coherent THz spectroscopy</a></div></td>
-<td>François Parnet et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04238">2608.04238</a></td>
 </tr>
 </tbody></table>

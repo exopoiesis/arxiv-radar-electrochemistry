@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Abhishek Raghav et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08295.html">Universality of PVDF-Li$^+$ Ion Interface Chemistry in Lead-free Perovskite Energy Storage Devices</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Arun Kumar et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15483.html">Improving the Efficiency of Subgroup Analysis in Randomized Controlled Trials with TMLE</a></div></td>
 <td>Sky Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15483">2605.15483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Tianqi Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
 </tr>
 </tbody></table>

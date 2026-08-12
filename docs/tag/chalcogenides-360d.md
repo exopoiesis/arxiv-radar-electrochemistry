@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcogenides — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <strong>360d</strong> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17443.html">Pulsed laser synthesis of mesoporous metal chalcogenide thin films</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Dorien E. Carpenter et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17443">2508.17443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12118.html">Microscopic model of the operation of the Single-chalcogenide X-point Memory</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>P. Fantini et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12118">2508.12118</a></td>
 </tr>
 </tbody></table>

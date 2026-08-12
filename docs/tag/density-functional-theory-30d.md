@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Abhishek Raghav et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-u-30d.html">dft-u</a></div></td>
+<td>Enrico Di Lucente et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
@@ -332,11 +344,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div></td>
 <td>Daniel A. Rehn et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10887.html">Transferable Implicit Solvent Machine Learning Potential for Drugs and Proteins Approaching Ab Initio Accuracy</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="explicit-solvation-30d.html">explicit-solvation</a></div></td>
-<td>Jan Eckwert et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10887">2607.10887</a></td>
 </tr>
 </tbody></table>

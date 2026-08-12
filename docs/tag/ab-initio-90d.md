@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10910.html">Oxygen K-edge X-ray Absorption Spectroscopy Database for NMC811 Layered Cathode Materials</a></div></td>
+<td>Jian He et al.</td>
+<td><a href="http://arxiv.org/abs/2608.10910">2608.10910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
+<td>Enrico Di Lucente et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08842.html">Light-Stabilized Metastable Electronic State in NiO with Enhanced Orbital Hybridization2</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
 <td>Thomas C. Rossi et al.</td>
@@ -692,17 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15139.html">Single-Device VOC Fingerprinting via Polarization-Selective Anisotropic BeS-Clad Silicon Microring Resonator</a></div></td>
 <td>Sudipta Saha et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15139">2605.15139</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10363.html">Accelerating Locality-Driven Integration in Quantum Chemistry with Block-Structured Matrix Multiplication</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Xinran Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10363">2605.10363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13594.html">Assessing foundational atomistic models for iron alloys under Earth&#x27;s core conditions</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Tianqi Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13594">2605.13594</a></td>
 </tr>
 </tbody></table>
