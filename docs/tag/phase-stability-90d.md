@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11725.html">Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Zunair Masroor et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11725">2608.11725</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06877.html">Autonomous Optimization of Complex Oxides for Thermochemical Fuel Production</a></div></td>
 <td>Shuiping Gong et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28743.html">Universal Stability of Ga Split Vacancies across α-, β-, and κ-Ga2O3 Polymorphs: A Machine-Learning Accelerated Study</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Mohamed Abdelilah Fadla et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28743">2605.28743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Francesca Menescardi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
 </tr>
 </tbody></table>

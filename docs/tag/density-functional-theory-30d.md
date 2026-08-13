@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11558.html">Simulating Ionic Liquid Fragmentation in Electrospray Thrusters with Foundation Models</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ziyu Huang</td>
+<td><a href="http://arxiv.org/abs/2608.11558">2608.11558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11725.html">Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al</a></div><div class="paper-tags"><a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td>Zunair Masroor et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11725">2608.11725</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11952.html">Electronic structure, band offset, and interface electron population of the LaInO$_3$/BaSnO$_3$ system</a></div></td>
+<td>G. Hoffmann et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11952">2608.11952</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -26,6 +44,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-u-30d.html">dft-u</a></div></td>
 <td>Enrico Di Lucente et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11388.html">Many-Body Destabilization of Intermediate Oxygen-Hole States</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Anirudh Adavi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11388">2608.11388</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-09</td>
@@ -332,17 +356,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13261.html">Aromatic Molecule Solvation in Liquid Water with Coupled Cluster Accuracy: The Balance of Pi-Interactions and Hydrophobicity</a></div><div class="paper-tags"><a href="hydration-shell-30d.html">hydration-shell</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Nore Stolte et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13261">2607.13261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11996.html">Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides</a></div><div class="paper-tags"><a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>Keltoum Khallouq et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11996">2607.11996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12202.html">Defect assignment of the clock site in $^{229}\text{Th:CaF}_2$</a></div></td>
-<td>Daniel A. Rehn et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12202">2607.12202</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11558.html">Simulating Ionic Liquid Fragmentation in Electrospray Thrusters with Foundation Models</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
+<td>Ziyu Huang</td>
+<td><a href="http://arxiv.org/abs/2608.11558">2608.11558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12152.html">The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Dan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12152">2608.12152</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
 <td>Abhishek Raghav et al.</td>
@@ -50,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
 <td>Rahul Soni et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05603">2608.05603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04690.html">Raman Signatures of Lithium Ion Dynamics in LLZO Garnet Electrolytes: Atomistic Insights from MD-Raman Calculations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="ion-transport-7d.html">ion-transport</a></div></td>
-<td>Takeru Miyagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04690">2608.04690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06413.html">Competing Energetics Govern Gas Permeation in Polymer of Intrinsic Microporosity (PIM) Membranes</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
-<td>Jianhao Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06413">2608.06413</a></td>
 </tr>
 </tbody></table>

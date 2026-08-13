@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12152.html">The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Dan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12152">2608.12152</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10910.html">Oxygen K-edge X-ray Absorption Spectroscopy Database for NMC811 Layered Cathode Materials</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
 <td>Enrico Di Lucente et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11301.html">Quetzalcoatlite as a Disorder-Free Platform for Chiral Magnetism and Frustration</a></div></td>
+<td>Aleksandar Razpopov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11301">2608.11301</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-09</td>
@@ -680,29 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16583.html">Crystal growth and characterization of the ultra-high temperature substrate $\mathrm{Ta_{1-x}Hf_{x}C_{0.5}}$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Evan N. Crites et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16583">2605.16583</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14408.html">Strain-Enhanced Hydrogen Evolution, Electrical, Optical, and Thermoelectric Properties of the Multifunctional 2D CrSi2N4 Monolayer</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a></div></td>
-<td>Rao Uzair Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14408">2605.14408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wael Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14793.html">Melting Behavior and Phase Stability of CaO from Neural Network Potentials: a Molecular Dynamics Study</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Francesca Menescardi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14793">2605.14793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15139.html">Single-Device VOC Fingerprinting via Polarization-Selective Anisotropic BeS-Clad Silicon Microring Resonator</a></div></td>
-<td>Sudipta Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15139">2605.15139</a></td>
 </tr>
 </tbody></table>

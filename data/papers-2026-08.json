@@ -1182,5 +1182,171 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-08-11"
+ },
+ "2608.11301": {
+  "abstract": "The natural mineral quetzalcoatlite Zn$_6$Cu$_3$(TeO$_6$)$_2$(OH)$_6$ $\\cdot$ (Ag$_x$Pb$_y$Cl$_{x+2y}$) is a structurally ideal kagome magnet, providing a platform for exploring the interplay of geometric frustration, chirality, and tunability in a disorder-free framework. Here, we present the (first) comprehensive ab initio study of its electronic and magnetic properties. The electronic structure is dominated by localized half-filled Cu $d_{x^2-y^2}$ orbitals that become insulating through electronic correlations. Mapping the low-energy physics onto a Heisenberg model reveals that the magnetism is governed primarily by two exchange interactions: a nearest-neighbor intralayer kagome coupling and a next-nearest-neighbor interlayer coupling. Their competition stabilizes an unconventional three-dimensional chiral magnetic state. Each kagome layer hosts a $\\sqrt{3}\\times\\sqrt{3}$ order, while adjacent layers are rotated by $60^\\circ$, producing a right-handed spiral along the crystallographic $c$-axis. This intrinsic chiral order emerges naturally from the crystal structure and magnetic interactions, establishing quetzalcoatlite as a distinctive realization of chiral magnetism on a perfect kagome lattice. At the same time, the small energy scale of the exchange interactions places the material close to competing magnetic regimes, suggesting that moderate pressure, chemical substitution, or structural modifications may strongly enhance frustration, suppress long-range order, and potentially drive the system toward a quantum spin-liquid state.",
+  "authors": [
+   "Aleksandar Razpopov",
+   "P. Peter Stavropoulos",
+   "Michael R. Norman",
+   "Roser Valentí"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "9 Pages, including 6 Figures, and additional four pages of Supplementary Information",
+  "first_author": "Aleksandar Razpopov",
+  "pdf_url": "http://arxiv.org/pdf/2608.11301",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-08-11",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Quetzalcoatlite as a Disorder-Free Platform for Chiral Magnetism and Frustration",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11388": {
+  "abstract": "Oxygen holes in transition-metal oxides can appear as localized polarons, symmetry-delocalized ligand holes, or intermediate states whose stability is controlled by subtle electron-correlation effects. In layered Na$_{2-x}$Mn$_3$O$_7$, hybrid density functional theory (DFT) predicts an unusual bond-centered split oxygen-hole polaron stabilized near ordered Mn vacancies. Here we resolve the nature of this state using diffusion Quantum Monte Carlo (QMC). Although hybrid DFT favors the split configuration, QMC reverses the energetic ordering and identifies the localized oxygen polaron as the lower-energy state. The result is robust to the class of trial wavefunctions used, including hybrid and generalized-gradient DFT wavefunctions. Many-body spin densities further show that the nominal split state partially collapses toward a localized polaron. Because localized and split configurations produce similar O K-edge spectral features, this qualitative failure is not resolved by conventional X-ray absorption signatures alone. These findings identify Na$_{2-x}$Mn$_3$O$_7$ as a stringent benchmark for oxygen-hole polarons and reveal a failure mode of hybrid functionals in correlated oxides.",
+  "authors": [
+   "Anirudh Adavi",
+   "Kayahan Saritas",
+   "Ming Lei",
+   "Das Pemmaraju",
+   "Paul R. C. Kent",
+   "Iwnetim I. Abate"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Anirudh Adavi",
+  "pdf_url": "http://arxiv.org/pdf/2608.11388",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-11",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Many-Body Destabilization of Intermediate Oxygen-Hole States",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-11"
+ },
+ "2608.11558": {
+  "abstract": "Predicting the products of ionic-liquid impacts on extractor surfaces is important for electrospray-thruster lifetime analysis, yet available atomistic methods require a compromise between chemical fidelity and computational cost. Reactive force fields enable high-throughput sampling but do not explicitly resolve electronic charge redistribution and may miss relevant reaction pathways during impact, whereas mixed quantum--classical density-functional-theory molecular dynamics (DFT/MD) can capture charge redistribution and neutral-product formation at substantially higher computational cost. Pretrained atomistic foundation models have recently emerged as a potential route toward DFT-like chemical fidelity at considerably lower cost. Here, we benchmark two pretrained machine-learning interatomic potentials, MACE-MP-0 (medium) and MACE-POLAR-1, against DFT/MD and ReaxFF for geometry optimization of 1-ethyl-3-methylimidazolium tetrafluoroborate (EMI-BF$_4$) and for 10-100 eV impacts on a model Au extractor surface. The models reproduce several collision outcomes observed in DFT/MD, including ionic dissociation, high-energy covalent fragmentation, and, in particular, HF formation through neutralization-like chemistry that is not captured in the ReaxFF simulations. In the computational-performance benchmark, MACE-POLAR-1 and MACE-MP-0 (medium) completed each 2~ps trajectory in 5.12 and 2.54~min, respectively, corresponding to wall times approximately four orders of magnitude shorter than the DFT/MD reference under the reported benchmark conditions. These results support pretrained machine-learning potentials as a practical intermediate-cost approach for chemically resolved electrospray-impact simulations and motivate targeted fine-tuning with DFT data for broader applications in electrospray-thruster and electric-propulsion modeling.",
+  "authors": [
+   "Ziyu Huang"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.app-ph"
+  ],
+  "comment": "19 pages, 6 figures",
+  "first_author": "Ziyu Huang",
+  "pdf_url": "http://arxiv.org/pdf/2608.11558",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-12",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Simulating Ionic Liquid Fragmentation in Electrospray Thrusters with Foundation Models",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.11725": {
+  "abstract": "Hafnium oxide (HfO2) is the cornerstone high-k dielectric in modern silicon technology. Since the constraints of silicon device fabrication rule out replacing the material itself, dopant incorporation is the principal means available to engineer its band gap and dielectric constant within existing process flows. However, dopant selection is still largely empirical due to the coupled interplay among thermodynamic stability, electronic insulation, and dielectric response. Here, we present a high-throughput computational framework integrating special quasi-random structures (SQS), machine-learning potentials (SevenNet), and graph neural networks (ALIGNN) to systematically evaluate doped-HfO2 compositions across three dopants (Al, Si, Y) and two technologically relevant polymorphs (monoclinic and orthorhombic). Our analysis uncovers a fundamental design principle: formation energy, band gap, and dielectric constant are decoupled parameters requiring application-specific prioritization rather than simultaneous optimization. Yttrium achieves the lowest formation energy (-3.763 eV/atom) and favors orthorhombic phase stabilization at process-compatible thermal budgets; silicon preserves near-pristine band gaps (around 5.72 eV) critical for suppressing leakage in gate dielectric applications; and aluminum enables concentration-tunable band gap widening (5.6-5.9 eV) suited for voltage scaling. Validation against experimental literature and density functional theory (DFT) confirms quantitative accuracy (0.02 eV band gap error for Si-doping, mean absolute error less than 0.001 eV/atom formation energy). This framework provides rational, property-decoupled guidance for dopant engineering in HfO2-based dielectrics and related high-k oxide systems.",
+  "authors": [
+   "Zunair Masroor",
+   "Bonwook Gu",
+   "Wonjoong Kim",
+   "Trinh Ngoc Le",
+   "Summal Zoha",
+   "Han-Bo-Ram Lee"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zunair Masroor",
+  "pdf_url": "http://arxiv.org/pdf/2608.11725",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-12",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.11952": {
+  "abstract": "Perovskite oxides and their heterostructures exhibit a wide range of functional properties. Among these materials, BaSnO$_3$/LaInO$_3$ heterostructures form high-mobility two-dimensional electron gases (2DEGs) at their interfaces. In particular, room-temperature electron mobilities exceeding 100~cm$^2$/Vs were enabled by recent advances in thin-film growth. This work presents a combined experimental and theoretical study of the electronic structure of BaSnO$_3$, LaInO$_3$, and BaSnO$_3$/LaInO$_3$ heterostructures with varying LaInO$_3$ overlayer thicknesses. Soft and hard X-ray photoelectron spectroscopy (SXPS and HAXPES) measurements are combined with densities of states (DOS) derived from hybrid density functional theory (DFT) calculations. The analysis of core, semi-core, and valence states allows to arrive at a comprehensive understanding of the chemical bonding and electronic structure in the parent oxides as well as the formed heterostructures. For the BaSnO$_3$/LaInO$_3$ heterostructure, the band offset and population of 2DEG states at the interface is directly probed using HAXPES.",
+  "authors": [
+   "G. Hoffmann",
+   "A. A. Riaz",
+   "C. Kalha",
+   "A. Gloskovskii",
+   "C. Schlueter",
+   "O. Brandt",
+   "W. Aggoune",
+   "C. Draxl",
+   "O. Bierwagen",
+   "A. Regoutz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "G. Hoffmann",
+  "pdf_url": "http://arxiv.org/pdf/2608.11952",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-12",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Electronic structure, band offset, and interface electron population of the LaInO$_3$/BaSnO$_3$ system",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.12152": {
+  "abstract": "Breaking the conventional stereotype that ferroelectrics are necessarily insulating, two-dimensional (2D) ferroelectric metals combine seemingly incompatible switchable electric polarization and metallic conductivity, providing a fertile ground for the discovery of novel electrical transport phenomena and the development of innovative electronic devices. Using the semiclassical Boltzmann equation and first-principles calculations, we systematically investigate the linear and nonlinear transport responses of the intrinsic 2D ferroelectric metal \\ch{PtBi2} to an applied electric field. Our \\textit{ab initio} molecular dynamics simulations reveal that it possesses a high Curie temperature reaching $800~\\text{K}$. We propose that the crystal structure of its high-temperature paraelectric phase can be explicitly distinguished through simple measurements of the in-plane electrical conductivity. Quantitative calculations of the Edelstein effect and the intrinsic spin Hall effect demonstrate a sizable charge-to-spin conversion efficiency, highlighting its potential in spintronics. We also find that a Berry curvature dipole-induced nonlinear Hall effect emerges in uniaxially strained \\ch{PtBi2}. Furthermore, we highlight the unique advantages of 2D ferroelectric metals in gate-controlled transport applications. Based on the domain wall scattering mechanism, we conceptually design a novel ferroelectric metal field-effect transistor (FEM-FET) capable of nonvolatile switching between high-resistance and low-resistance states under a gate voltage. Our work not only unveils the rich transport physics in 2D ferroelectric metals but also provides valuable insights into the design of next-generation nonvolatile memory and spintronic devices.",
+  "authors": [
+   "Dan Li",
+   "Liu Yang",
+   "Lei Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "11 pages, 6 figures",
+  "first_author": "Dan Li",
+  "pdf_url": "http://arxiv.org/pdf/2608.12152",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-12",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-12"
  }
 }

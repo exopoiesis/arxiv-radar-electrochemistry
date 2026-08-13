@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12152.html">The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Dan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12152">2608.12152</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10910.html">Oxygen K-edge X-ray Absorption Spectroscopy Database for NMC811 Layered Cathode Materials</a></div></td>
 <td>Jian He et al.</td>
@@ -26,6 +32,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
 <td>Enrico Di Lucente et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11301.html">Quetzalcoatlite as a Disorder-Free Platform for Chiral Magnetism and Frustration</a></div></td>
+<td>Aleksandar Razpopov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.11301">2608.11301</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-09</td>
@@ -50,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07782.html">Understanding the Oxygen Reduction Reaction and Oxygen Evolution Reaction in Metal Intercalated Biphenylene Bilayers</a></div><div class="paper-tags"><a href="oxygen-evolution-7d.html">oxygen-evolution</a></div></td>
 <td>Henri G. Mendonça et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07782">2608.07782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04690.html">Raman Signatures of Lithium Ion Dynamics in LLZO Garnet Electrolytes: Atomistic Insights from MD-Raman Calculations</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Takeru Miyagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04690">2608.04690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>H. Betancourt-Infante et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
 </tr>
 </tbody></table>

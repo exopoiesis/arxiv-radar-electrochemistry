@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>adsorption-energy — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <strong>90d</strong> <a href="adsorption-energy-360d.html">360d</a> <a href="adsorption-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23479.html">Intrinsic Point Defects and Frenkel Pair Formation in Photovoltaic Absorber Zn$_3$P$_2$: Regulating $p$-type Conductivity through Growth and Annealing Conditions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Nico Kawashima et al.</td>
 <td><a href="http://arxiv.org/abs/2605.23479">2605.23479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14646.html">N-Graphdiyne as a Tunable Platform for Stabilizing Light Metals toward High-Capacity Reversible Hydrogen Storage</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wael Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14646">2605.14646</a></td>
 </tr>
 </tbody></table>
