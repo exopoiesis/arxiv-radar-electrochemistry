@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12967.html">Elastic properties of cubic silicon carbide with Si vacancies</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Carlos P. Herrero et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12967">2608.12967</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11388.html">Many-Body Destabilization of Intermediate Oxygen-Hole States</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
@@ -1130,17 +1136,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13790.html">Large-scale cooperative sulfur vacancy dynamics in two-dimensional MoS2 from machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Aaron Flötotto et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13790">2508.13790</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05621.html">Coherent phonon motions and ordered vacancy compound mediated quantum path interference in Cu-poor CuIn$_{x}$Ga$_{(1-x)}$Se$_2$ (CIGS) with attosecond transient absorption</a></div><div class="paper-tags"><a href="chalcopyrite-360d.html">chalcopyrite</a></div></td>
-<td>Hugo Laurell et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05621">2506.05621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12559.html">Understanding high photocatalytic activity of the TiO2 high-pressure columbite phase by experiments and first-principles calculations</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="water-adsorption-360d.html">water-adsorption</a></div></td>
-<td>Jacqueline Hidalgo-Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12559">2508.12559</a></td>
 </tr>
 </tbody></table>

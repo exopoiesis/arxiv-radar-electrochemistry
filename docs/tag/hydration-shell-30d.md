@@ -16,9 +16,9 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13261.html">Aromatic Molecule Solvation in Liquid Water with Coupled Cluster Accuracy: The Balance of Pi-Interactions and Hydrophobicity</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Nore Stolte et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13261">2607.13261</a></td>
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12562.html">Diffusion and Solvation Dynamics of Ions in Water: Beyond the Brownian Approximation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="ion-transport-30d.html">ion-transport</a> · <a href="ion-water-interactions-30d.html">ion-water-interactions</a></div></td>
+<td>Ian C. Bourg et al.</td>
+<td><a href="http://arxiv.org/abs/2608.12562">2608.12562</a></td>
 </tr>
 </tbody></table>

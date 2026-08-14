@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26152.html">White dwarf planetary systems in the ultraviolet</a></div></td>
 <td>Jamie Williams et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26152">2605.26152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15595.html">Could life have been transferred from Mars to Earth? Laboratory and computational simulations of Martian ejecta</a></div></td>
-<td>Gregory M. Davis et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15595">2605.15595</a></td>
 </tr>
 </tbody></table>

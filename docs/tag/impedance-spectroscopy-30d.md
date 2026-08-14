@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13305.html">Physics-informed distribution of relaxation times estimation and latent-space condition monitoring of solid oxide fuel and electrolysis cells from electrochemical impedance spectroscopy</a></div></td>
+<td>Žan Gorenc et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13305">2608.13305</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09423.html">When Spectroscopies Speak the Same Language: Unifying Rheology, Electrochemical Impedance, and Dielectrics</a></div></td>
 <td>Shivangi Mittal et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17832.html">Multisine electrochemical impedance spectroscopy for Li-ion battery characterisation</a></div></td>
 <td>Noël Hallemans et al.</td>
 <td><a href="http://arxiv.org/abs/2607.17832">2607.17832</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12719.html">Influence of compaction pressure on the impedance of Gadolinium Doped Ceria electrolytes for IT-SOFCs</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a></div></td>
-<td>Renato A. N. de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12719">2607.12719</a></td>
 </tr>
 </tbody></table>
