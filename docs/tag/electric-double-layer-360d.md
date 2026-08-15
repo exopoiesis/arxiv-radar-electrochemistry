@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electric-double-layer — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <strong>360d</strong> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10658.html">Ion Selectivity in Uncharged Tapered Nanoslits through Heterogeneous Water Polarization</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Tim Veenstra et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10658">2407.10658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13691.html">Diffuse-Layer Capacitance at the Potential of Zero Charge in Binary Mixtures</a></div></td>
-<td>Yuki Uematsu</td>
-<td><a href="http://arxiv.org/abs/2508.13691">2508.13691</a></td>
 </tr>
 </tbody></table>

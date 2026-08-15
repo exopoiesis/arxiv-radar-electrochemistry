@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08000.html">Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\varepsilon$-LiMnO$_2$ polymorph</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="neb-7d.html">neb</a></div></td>
 <td>Fukuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08000">2608.08000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06895.html">Local Structure Dictates Ionic Transport and Mechanical Properties in Glassy Solid Electrolytes for Lithium Batteries</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Yong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06895">2608.06895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07081.html">Local lattice dynamics of hcp zinc from EXAFS and machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="chgnet-7d.html">chgnet</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Vitalijs Dimitrijevs et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07081">2608.07081</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft-u — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <strong>360d</strong> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19496.html">Accurate calculation of light rare-earth magnetic anisotropy with density functional theory</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Liqin Ke et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19496">2508.19496</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11189.html">Revisiting LaMnO3: A density functional theory study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Ju Hyeon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11189">2503.11189</a></td>
 </tr>
 </tbody></table>

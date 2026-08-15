@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,17 +1130,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24002.html">Harnessing AtomisticSkills for Agentic Atomistic Research</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
 <td>Bowen Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24002">2605.24002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16771.html">Systematic dynamical mean-field theory study of 3d perovskite oxides with uniform Coulomb interactions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Antik Sihi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16771">2605.16771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17166.html">Optical, vibrational, and electronic properties of semiconducting YbN</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>M. Markwitz et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17166">2605.17166</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">830 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4964,35 +4964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14416.html">Jahn-Teller-like Distortion in a One-dimensional π-Conjugated Polymer</a></div></td>
 <td>Ziyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14416">2508.14416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02407.html">Emergence of spin-phonon coupling in a Gd-doped Y$_2$CoMnO$_6$ double perovskite oxide: a combined experimental and ab-initio study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Anasua Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02407">2407.02407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11189.html">Revisiting LaMnO3: A density functional theory study</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Ju Hyeon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11189">2503.11189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17995.html">Role of On-site and Inter-site Coulomb Interactions in KV$_3$Sb$_5$: A first-principles DFT+$U$+$V$ study</a></div></td>
-<td>Indukuru Ramesh Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17995">2504.17995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13519.html">Charge Ordering and Magnetic Exchange in the Ladder-Type Compound NH$_4$V$_2$O$_5$</a></div></td>
-<td>Dm. M. Korotin</td>
-<td><a href="http://arxiv.org/abs/2508.13519">2508.13519</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14219.html">CO Adsorption Sites on Interstellar Water Ices Explored with Machine Learning Potentials. Binding energy distributions and snowline</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Giulia M. Bovolenta et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14219">2508.14219</a></td>
 </tr>
 </tbody></table>

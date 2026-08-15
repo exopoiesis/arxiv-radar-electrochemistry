@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,11 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15572.html">Automated Modeling of Polarons: Defects and Reactivity on TiO$_2$(110) Surfaces</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Firat Yalcin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15572">2508.15572</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13790.html">Large-scale cooperative sulfur vacancy dynamics in two-dimensional MoS2 from machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Aaron Flötotto et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13790">2508.13790</a></td>
 </tr>
 </tbody></table>

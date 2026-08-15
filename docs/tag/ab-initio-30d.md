@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="proton-diffusion-30d.html">proton-diffusion</a> · <a href="proton-transport-30d.html">proton-transport</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Hang Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13657">2607.13657</a></td>
 </tr>
 </tbody></table>

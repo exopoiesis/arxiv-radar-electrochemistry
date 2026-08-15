@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,29 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15514.html">Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15514">2607.15514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
-<td>Mohamed Houssein Mohamed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13777">2607.13777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13846.html">First-principles Study of Structural and Electronic Properties of Mn-doped Cu2NiXY4 (X=Sn, Ge, Si; Y=S, Se) Chalcogenide Semiconductors</a></div></td>
-<td>Iskandar Raufzoda et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13846">2607.13846</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div></td>
-<td>Victor Wen-zhe Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14083.html">Cluster-configurational study of G-center in Silicon</a></div></td>
-<td>Narayan Pokhrel et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14083">2607.14083</a></td>
 </tr>
 </tbody></table>
