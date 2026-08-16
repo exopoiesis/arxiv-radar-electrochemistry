@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">825 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4952,17 +4952,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15572.html">Automated Modeling of Polarons: Defects and Reactivity on TiO$_2$(110) Surfaces</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Firat Yalcin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15572">2508.15572</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08255.html">Bridging classical and quantum interpretation of chemical state analysis by XPS/HAXPES to resolve short-range order in amorphous alumina films</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simon Gramatte et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08255">2408.08255</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14416.html">Jahn-Teller-like Distortion in a One-dimensional π-Conjugated Polymer</a></div></td>
-<td>Ziyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14416">2508.14416</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <a href="impedance-spectroscopy-30d.html">30d</a> <strong>90d</strong> <a href="impedance-spectroscopy-360d.html">360d</a> <a href="impedance-spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25000.html">Processing-Controlled Structural Uniformity and Oxide-Ion Conduction in Na0.52Bi0.47TiO3 Ceramics Probed by Eu3+ Photoluminescence</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
 <td>Zhouyang He et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25000">2605.25000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17334.html">Causal Anomaly Detection for Lithium-Ion Battery Degradation</a></div></td>
-<td>Dieter W. Heermann et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17334">2605.17334</a></td>
 </tr>
 </tbody></table>
