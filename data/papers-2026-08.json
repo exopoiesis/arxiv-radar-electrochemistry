@@ -1,4 +1,37 @@
 {
+ "2608.00704": {
+  "abstract": "The possibility of mapping the local reactivity and reduction state to the atomic structure of chemically active oxide surfaces opens new avenues for further understanding of catalysis. Here, we combine scanning tunnelling (STM) and atomic force microscopy (AFM) with first-principles modelling to explore this possibility on the CeO2(100) surface. While STM reveals the periodicity of cerium-terminated and oxygen-terminated CeO$_2$(100) reconstructions coexisting on the same surface, AFM imaging and force spectroscopy provide direct identification of the exposed atomic species and their reactivity as the chemical interaction with the probe. Density functional theory based STM and AFM simulations reproduce the main experimental observations and show that STM contrast cannot be in general assigned to the atomic positions of certain chemical species, as traditionally assumed from previous studies. Simulated STM contrast of the two reconstructions across different reduction states associated with the removal of oxygen atoms in deeper layers, evidence that STM alone does not offer a robust fingerprint of the local reduction state for the cerium-terminated reconstruction, but it is sensitive to the reduced state in the case of the oxygen-terminated one, being able to provide information on a mixed distribution of Ce$^{3+}$ and Ce$^{4+}$ ions on the first sub-surface Ce layer.",
+  "authors": [
+   "Kyungmin Kim",
+   "Manuel González Lastre",
+   "Estefanía Fernández-Villanueva",
+   "Pablo Pou",
+   "Hossein Sepehri-Amin",
+   "Masayuki Abe",
+   "Shigeki Kawai",
+   "M. Verónica Ganduglia-Pirovano",
+   "Ruben Perez",
+   "Oscar Custance"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Kyungmin Kim",
+  "pdf_url": "http://arxiv.org/pdf/2608.00704",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-01",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Reconstruction-Dependent Imaging, Reactivity and Local Reduction of the CeO$_2$(100) surface",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-14"
+ },
  "2608.01162": {
   "abstract": "Over the past decade, Machine Learning Interatomic Potentials (MLIPs) have emerged as a powerful technique for performing molecular dynamics (MD) simulations with nearly ab initio accuracy. Alongside the development of new descriptors and advanced machine learning architectures, sophisticated procedures for the generation of diverse and accurate reference datasets have been established. To date, research has focused primarily on MLIPs for crystalline or amorphous inorganic and small molecular systems; however, large macromolecules such as polymers remain underrepresented in the literature, despite beeing an important class of materials. In this work, we investigate several aspects of developing MLIPs for polymers, utilizing polyethylene as a representative, yet simple model system. First, we compare various local atomic descriptors, identifying the Atomic Cluster Expansion (ACE) as the most effective for this application. Second, we implement and automatized active learning scheme to efficiently generate diverse training data and demonstrate that ACE potentials fitted on small oligomers are transferable to larger polymers. Given that the accurate reproduction of the density depends critically on a correct description of intermolecular interactions, which are far more complex to learn than intramolecular interactions, we carefully evaluate the performance of the ACE potentials with respect to non-bonded interactions. By utilizing the computationally efficient OPLS-AA force field as a ground truth reference, we are able to perform a direct comparison of nanosecond-scale MD trajectories resulting from the ACE and reference potential. We find that the ACE potential accurately reproduces key thermodynamic, structural and dynamical properties.",
   "authors": [
@@ -1599,5 +1632,128 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-08-13"
+ },
+ "2608.13735": {
+  "abstract": "The dependence of ion pairing on osmotic stress may strongly affect the performance of ionic materials and membranes whose interior is often osmotically stresses, yet quantitative understanding of this dependence and, specifically, the effects of water and ion activities is limited. Motivated by this gap, we analyze the enhancement of ion pairing with osmotic pressure for concentrated aqueous KCl, NaCl, and LiCl solutions using molecular dynamics simulations. Based on rigorous thermodynamic relations, we separate the contributions of ion non-ideality to the pairing constant, varying with osmotic pressure, from other effects including water release and type of ion-pair. Our analysis reveals that ion non-ideality indirectly generates a stronger effect on pairing than the direct one of water release. However, its effect is moderated and may even be reversed for more hydrated pairs by a similarly large and opposite effect of ion-pair non-ideality assigned to varying dielectric properties of the solution and water restructuring upon pairing. The interplay between these contributions, including large and pair type-specific hydration effects on the cost of pairing, explains the observed opposing trends: pairing decreases with osmotic pressure for more hydrated solvent-separated pair types while increasing for contact pairs. The trend becomes more pronounced for more hydrated smaller cations, but was fairly independent of the water model used. The results further suggest that dielectric effects enhanced in ionic materials-and, as a result, larger variations of ion-pair non-ideality, compared with aqueous solutions, should have a more significant impact on pairing than water release.",
+  "authors": [
+   "Jay Prakash Singh",
+   "Viatcheslav Freger"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jay Prakash Singh",
+  "pdf_url": "http://arxiv.org/pdf/2608.13735",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-13",
+  "tags": [
+   "ion-pairing",
+   "molecular-dynamics"
+  ],
+  "title": "Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-08-13"
+ },
+ "2608.14153": {
+  "abstract": "Accurate treatment of long-range interactions in machine learning interatomic potentials (MLIPs) is essential for electrochemical simulations. However, aggregate energy and force errors alone are insufficient to establish an MLIP's physical accuracy since they do not detect qualitative inconsistencies in the model such as the prediction of image-charge attraction, dielectric screening, or charge transfer. We introduce a benchmark suite EPhEct (Electrostatic Phenomena for Electrochemistry) of focused test cases designed to evaluate MLIPs on electrochemically relevant physical phenomena. The tests probe for image-charge attraction at a metal electrode, the splitting between longitudinal and transverse optical phonons as a probe of ionic and electronic screening, the dipole moment of interfacial water, and Fermi-level pinning during ion discharge. These tests establish a qualitative diagnostic routine complementary to aggregate energy-force metrics.",
+  "authors": [
+   "Barbara Sumić",
+   "Ria Vasdev",
+   "Sudheesh Kumar Ethirajan",
+   "Jing Yang",
+   "Clotilde S. Cucinotta",
+   "Richard G. Hennig",
+   "Karsten Reuter",
+   "Stefan Ringe",
+   "Mira Todorova",
+   "Christoph Freysoldt",
+   "Jörg Neugebauer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Barbara Sumić",
+  "pdf_url": "http://arxiv.org/pdf/2608.14153",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-14",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Electrostatic Phenomenology Benchmarks for Machine-Learned Interatomic Potentials in Electrochemistry: Beyond the Energy-Force Metric",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-14"
+ },
+ "2608.14351": {
+  "abstract": "Propylene oxide is a major industrial chemical whose production currently relies on hazardous chlorine- or peroxide-based oxidants. Direct electrochemical epoxidation using water as the oxygen source offers a sustainable alternative, but controlling oxygen-atom transfer against the competing oxygen evolution reaction remains a fundamental challenge. Here, we show that propylene epoxidation selectivity cannot be described by oxygen binding energy alone, but is jointly governed by oxygen adsorption, the potential of zero charge, and applied potential. By combining theoretical calculations with pH-field-coupled microkinetic modeling across 41 metal-nitrogen-carbon single-atom catalysts, we first identified an optimal oxygen-binding window and Co as the most favorable metal center. We then found that peripheral substituents can tune the PZC while largely preserving the optimal oxygen adsorption energetics, thereby providing an independent design dimension to further optimize the already favorable Co active site. This sequential, multidimensional design strategy identified CoPc-NH2-CNT as the optimal catalyst, delivering a record PO Faradaic efficiency of 70-80 percent for direct propylene epoxidation in aqueous electrolyte under ambient conditions. These results establish interfacial electrostatics as an independently tunable design dimension for controlling selective oxygen-atom transfer in electrocatalysis.",
+  "authors": [
+   "Songbo Ye",
+   "Qingyuan Han",
+   "Jingwen Chi",
+   "Yuan Huang",
+   "Heng Liu",
+   "Di Zhang",
+   "Hitoshi Shiku",
+   "Li Wei",
+   "Hao Li"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "19 pages",
+  "first_author": "Songbo Ye",
+  "pdf_url": "http://arxiv.org/pdf/2608.14351",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-14",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "electrocatalysis",
+   "microkinetics",
+   "oxygen-evolution"
+  ],
+  "title": "Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-08-14"
+ },
+ "2608.14381": {
+  "abstract": "Astrochemistry is living a golden age, with more than a quarter of the ~350 molecules in the current interstellar census having been detected over the last three years. One of the sources driving this progress is the G+0.693-0.027 cloud, located in the northern part of the Galactic Centre Sgr B2 complex. In this contribution, we present the astrochemical characterisation of G+0.633-0.0604, a newly discovered chemically rich molecular cloud at the southern edge of Sgr B2. With an inventory of >120 species, G+0.633 provides robust second detections of several prebiotic molecules only reported towards G+0.693, establishing it as the first confirmed astrochemical twin of G+0.693 while demonstrating that the extraordinary chemistry of this cloud is not unique. Furthermore, G+0.633 offers an observational advantage over G+0.693 since it displays half narrower linewidths. Together, G+0.633 and G+0.693 form a unique benchmark pair for unveiling molecular complexity and prebiotic chemistry in the interstellar medium.",
+  "authors": [
+   "D. San Andrés",
+   "L. Colzi",
+   "V. M. Rivilla",
+   "M. Sanz-Novo",
+   "S. Martín",
+   "I. Jiménez-Serra",
+   "S. Zeng"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.SR"
+  ],
+  "comment": "5 pages, 2 figures. Proceedings for the IAU Symposium 405 \"Traversing the Galactic Center in Space and Time\"",
+  "first_author": "D. San Andrés",
+  "pdf_url": "http://arxiv.org/pdf/2608.14381",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-08-14",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "The Galactic Centre G+0.633-0.0604 Molecular Cloud: A New Gold Mine for Astrochemistry",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-08-14"
  }
 }

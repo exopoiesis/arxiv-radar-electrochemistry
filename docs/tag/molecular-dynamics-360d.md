@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">567 papers</span>
+  <span class="paper-count">565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12967.html">Elastic properties of cubic silicon carbide with Si vacancies</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Carlos P. Herrero et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12967">2608.12967</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13735.html">Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities</a></div><div class="paper-tags"><a href="ion-pairing-360d.html">ion-pairing</a></div></td>
+<td>Jay Prakash Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13735">2608.13735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-12</td>
@@ -3398,23 +3404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17685.html">Water structuring at stacked graphene interfaces unveiled by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Dianwei Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2508.17685">2508.17685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08476.html">Bridging Electrostatic Screening and Ion Transport in Lithium Salt-Doped Ionic Liquids</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="ion-water-interactions-360d.html">ion-water-interactions</a></div></td>
-<td>Hyungshick Park et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08476">2506.08476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15401.html">Clay Edges Are Dynamic Proton-conducting Networks Modulated by Structure and pH</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="proton-transport-360d.html">proton-transport</a></div></td>
-<td>Yixuan Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15401">2508.15401</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15607.html">Octahedral tilting and B-site off-centering in halide perovskites are not coupled</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
-<td>Colin M. Hylton-Farrington et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15607">2508.15607</a></td>
 </tr>
 </tbody></table>

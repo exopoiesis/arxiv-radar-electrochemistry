@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20785.html">Anisotropic Crystallization Kinetics and Interfacial Dynamics of Phase-Change Material Sb$_2$S$_3$ from Machine Learning Force Field Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Souvik Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20785">2605.20785</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19175.html">Importance of nuclear quantum effects on the structure of supercooled water around its liquid--liquid critical point</a></div><div class="paper-tags"><a href="hydration-shell-90d.html">hydration-shell</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Michael Beerbaum et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19175">2605.19175</a></td>
 </tr>
 </tbody></table>

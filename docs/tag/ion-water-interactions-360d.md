@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-water-interactions — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="ion-water-interactions-7d.html">7d</a> <a href="ion-water-interactions-30d.html">30d</a> <a href="ion-water-interactions-90d.html">90d</a> <strong>360d</strong> <a href="ion-water-interactions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04651.html">Anomalous Ion Confinement Penalties and Giant Ion-Screening Effects in One-Dimensional Nanopores</a></div><div class="paper-tags"><a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
 <td>Kevin Leung</td>
 <td><a href="http://arxiv.org/abs/2603.04651">2603.04651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08476.html">Bridging Electrostatic Screening and Ion Transport in Lithium Salt-Doped Ionic Liquids</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hyungshick Park et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08476">2506.08476</a></td>
 </tr>
 </tbody></table>

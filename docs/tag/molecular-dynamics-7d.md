@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2608.12967">2608.12967</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13735.html">Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities</a></div><div class="paper-tags"><a href="ion-pairing-7d.html">ion-pairing</a></div></td>
+<td>Jay Prakash Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13735">2608.13735</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11558.html">Simulating Ionic Liquid Fragmentation in Electrospray Thrusters with Foundation Models</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
 <td>Ziyu Huang</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
 <td>Abhishek Raghav et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Zahabul Islam</td>
-<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
 </tr>
 </tbody></table>

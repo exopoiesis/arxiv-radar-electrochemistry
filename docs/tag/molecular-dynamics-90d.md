@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12967.html">Elastic properties of cubic silicon carbide with Si vacancies</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Carlos P. Herrero et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12967">2608.12967</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13735.html">Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities</a></div><div class="paper-tags"><a href="ion-pairing-90d.html">ion-pairing</a></div></td>
+<td>Jay Prakash Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13735">2608.13735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-12</td>
@@ -710,17 +716,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19858.html">Accelerated &quot;on-the-fly&quot; coupled-cluster path-integral molecular dynamics: Impact of nuclear quantum effects on an asymmetric proton</a></div></td>
 <td>Thomas Spura et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19858">2605.19858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18531.html">Enhanced Ionic Conductivity of confined Ionic-Liquid in Angstrom-scale 2D channels</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
-<td>Jing Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18531">2605.18531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19175.html">Importance of nuclear quantum effects on the structure of supercooled water around its liquid--liquid critical point</a></div><div class="paper-tags"><a href="hydration-shell-90d.html">hydration-shell</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Michael Beerbaum et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19175">2605.19175</a></td>
 </tr>
 </tbody></table>

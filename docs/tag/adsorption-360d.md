@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="microkinetics-360d.html">microkinetics</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td>Songbo Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13506.html">Equivariant learning of a transferable three-dimensional classical density functional</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Bingqing Cheng</td>
@@ -1352,11 +1358,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02753.html">Toward improved property prediction of 2D materials using many-body quantum Monte Carlo methods</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Daniel Wines et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02753">2406.02753</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15522.html">GridFF: Efficient Simulation of Organic Molecules on Rigid Substrates</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="surface-science-360d.html">surface-science</a></div></td>
-<td>Indranil Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15522">2508.15522</a></td>
 </tr>
 </tbody></table>

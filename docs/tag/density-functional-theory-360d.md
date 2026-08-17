@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">821 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00704.html">Reconstruction-Dependent Imaging, Reactivity and Local Reduction of the CeO$_2$(100) surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Kyungmin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00704">2608.00704</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13506.html">Equivariant learning of a transferable three-dimensional classical density functional</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
@@ -4934,23 +4940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18194.html">Self-consistent dynamical Hubbard functional for correlated solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Tommaso Chiarotti et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18194">2508.18194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14513.html">Dynamic Vacancy Levels in CsPbCl3 Obey Equilibrium Defect Thermodynamics</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Irea Mosquera-Lois et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14513">2508.14513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15223.html">A rutile-based homologous series Na(PtO$_2$)$_{2\it{n}+1}$ discovered by computationally assisted high-pressure synthesis</a></div></td>
-<td>Yasuhito Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15223">2508.15223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15572.html">Automated Modeling of Polarons: Defects and Reactivity on TiO$_2$(110) Surfaces</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Firat Yalcin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15572">2508.15572</a></td>
 </tr>
 </tbody></table>

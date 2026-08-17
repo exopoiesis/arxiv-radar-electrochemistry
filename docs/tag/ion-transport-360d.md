@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,11 +500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16515.html">Prediction of Li3Fe8B8 compound with rapid one-dimensional ion diffusion channels</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Shiya Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16515">2509.16515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08476.html">Bridging Electrostatic Screening and Ion Transport in Lithium Salt-Doped Ionic Liquids</a></div><div class="paper-tags"><a href="ion-water-interactions-360d.html">ion-water-interactions</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hyungshick Park et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08476">2506.08476</a></td>
 </tr>
 </tbody></table>

@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-08-16._
+_Updated 2026-08-17._
 
-**3367** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3372** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.00704.html">Reconstruction-Dependent Imaging, Reactivity and Local Reduction of the CeO$_2$(100) surface</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Kyungmin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00704">2608.00704</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14153.html">Electrostatic Phenomenology Benchmarks for Machine-Learned Interatomic Potentials in Electrochemistry: Beyond the Energy-Force Metric</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Barbara Sumić et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14153">2608.14153</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/microkinetics-30d.html">microkinetics</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
+<td>Songbo Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14381.html">The Galactic Centre G+0.633-0.0604 Molecular Cloud: A New Gold Mine for Astrochemistry</a></div><div class="paper-tags"><a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
+<td>D. San Andrés et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14381">2608.14381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12691.html">Integrated Alchemical and Conformational Enhanced Sampling for Solvation Free Energy Calculations</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
@@ -45,6 +69,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13506.html">Equivariant learning of a transferable three-dimensional classical density functional</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Bingqing Cheng</td>
 <td><a href="http://arxiv.org/abs/2608.13506">2608.13506</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13735.html">Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities</a></div><div class="paper-tags"><a href="tag/ion-pairing-30d.html">ion-pairing</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jay Prakash Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13735">2608.13735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-12</td>
@@ -165,35 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.08295.html">Universality of PVDF-Li$^+$ Ion Interface Chemistry in Lead-free Perovskite Energy Storage Devices</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
 <td>Arun Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08295">2608.08295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06759.html">Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Mohamed S. M. M. Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06759">2608.06759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06877.html">Autonomous Optimization of Complex Oxides for Thermochemical Fuel Production</a></div><div class="paper-tags"><a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
-<td>Shuiping Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06877">2608.06877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06895.html">Local Structure Dictates Ionic Transport and Mechanical Properties in Glassy Solid Electrolytes for Lithium Batteries</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06895">2608.06895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06902.html">Fast Isotropic Li-Ion Diffusion in Zeolitic Imidazolate Framework Glass Electrolytes for Batteries</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Yong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06902">2608.06902</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06979.html">The Belousov-Zhabotinsky reaction reveals two regimes of non-Arrhenius temperature scaling in relaxation oscillators</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
-<td>Simen Jacobs et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06979">2608.06979</a></td>
 </tr>
 </tbody></table>
