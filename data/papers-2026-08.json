@@ -1951,5 +1951,261 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-08-17"
+ },
+ "2608.17149": {
+  "abstract": "Understanding the nature of catalytic active sites under reaction conditions remains a central challenge in heterogeneous catalysis. In industrial copper/zinc oxide/alumina catalysts for methanol synthesis, small Zn-based species at the Cu interface have long been proposed as active-site candidates, yet their atomic-scale structure and stability remain controversial. Computational studies typically identify such species from optimized 0 K structures, assuming that minimum-energy configurations remain representative under reaction conditions. Here, we combine machine-learning-interatomic-potential-accelerated global optimization, molecular dynamics, and enhanced-sampling free-energy calculations to investigate supported Zn$_3$(OH)$_3$ and Zn$_3$(OH)$_2$CHOO clusters on Cu(111)-based surfaces from 0 to 450 K. While compact triangular configurations are generally favored among minimum-energy structures at 0 K, finite-temperature free-energy calculations reveal a pronounced shift toward extended linear configurations with increasing temperature. This transition is driven primarily by entropic stabilization and cannot be inferred from potential energies alone. Molecular dynamics further shows substantial cluster mobility on pristine Cu(111), indicating that long-term persistence depends not only on configurational stability but also on surface mobility. Surface Zn alloying strongly suppresses diffusion, thereby stabilizing isolated interfacial Zn species. Together, these results show that thermodynamically relevant structures of supported Zn-based clusters can differ fundamentally from static 0 K predictions because of competing enthalpic and entropic effects. Our findings highlight the limitations of identifying catalytic active sites solely from 0 K structures and underscore the importance of explicit finite-temperature sampling in catalyst modeling.",
+  "authors": [
+   "Jiayan Xu",
+   "Zheng Yu",
+   "Abhirup Patra",
+   "Amar Deep Pathak",
+   "Sharan Shetty",
+   "Detlef Hohl",
+   "Roberto Car"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "34 pages, 4 figures",
+  "first_author": "Jiayan Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.17149",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-17",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Temperature-Induced Reorganization of Supported Zn$_3$ Clusters on Cu(111): From Minimum-Energy Structures to Finite-Temperature Ensembles",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.17408": {
+  "abstract": "The electronic bandgap of solids is conventionally viewed as a static property at a given temperature, with only weak and stochastic thermal fluctuations under equilibrium conditions. Here, using ab initio molecular dynamics and first-principles electron-phonon calculations, we reveal a pronounced room-temperature bandgap pulsation at about 7.8 THz in a perovskite-like flat-band solid, with a maximum peak-to-peak variation approaching 0.95 eV. This behavior originates from a dual selection mechanism: the A1g-like breathing branch couples much more strongly to the flat conduction-band edge than other phonon branches, while real-space phase selectivity distinguishes its hotspot gamma-point and finite-q components. Although finite-q modes retain appreciable microscopic coupling, their intercell phase shifts produce smaller-amplitude shorter-recurrence-period responses, leaving the unit-cell-synchronous gamma-point A1g component to dominate the fundamental-period bandgap pulsation. The resulting band-edge dynamics further modulates the optical response on femtosecond timescales. These findings demonstrate that an unexpectedly ordered electronic response can emerge from intrinsically disordered thermal lattice fluctuations.",
+  "authors": [
+   "Wenjie Liu",
+   "Huaxin Wu",
+   "Jiyang Fan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.app-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Wenjie Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.17408",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17513": {
+  "abstract": "Manganese telluride (MnTe) in its hexagonal α-MnTe crystal structure has evolved as one of the altermagnet workhorse materials. The synthesis of MnTe thin films is highly relevant for both fundamental science and device applications. Here, we report on the epitaxial growth of MnTe thin films and heterostructures. The films are studied by X-ray and electron diffraction as well as soft X-ray angle-resolved photoemission spectroscopy. We demonstrate the ability to grow high-quality α-MnTe on various substrates, ranging from transparent band insulators, over topological insulators, metallic transition metal chalcogenides, to the van der Waals ferromagnet Fe$_3$GeTe$_2$. While insulating substrates are useful for transport experiments or optical spectroscopy, metallic topological surface states may trigger spintronic interface effects, such as spin-orbit torques. Metallic substrates, in general, are highly relevant to avoid charging at the insulating MnTe films in electron spectroscopy or microscopy methods. Lastly, ferromagnetic substrates will be of interest to control magnetization across the interface. In addition, we discuss the formation of superstructures on the MnTe(0001) surfaces, that emerge directly after growth, upon subsequent tellurium evaporation and after thermal treatment. This will be relevant in further studying the surface magnetic and electronic structure in α-MnTe.",
+  "authors": [
+   "M. Dittmar",
+   "L. Hirnet",
+   "H. Haberkamm",
+   "F. Beisler",
+   "C. -W. Chuang",
+   "R. Ganser",
+   "P. Kagerer",
+   "M. -J. Huang",
+   "J. Buck",
+   "M. Hoesch",
+   "K. Rossnagel",
+   "M. Ünzelmann",
+   "F. Reinert"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "M. Dittmar",
+  "pdf_url": "http://arxiv.org/pdf/2608.17513",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [
+   "chalcogenides"
+  ],
+  "title": "Growth of Altermagnetic α-MnTe Films: Substrate Variation and Surface Modification",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17716": {
+  "abstract": "Hard carbons are established anodes for lithium-ion batteries and leading candidates for sodium-ion batteries, yet their electrochemical performance is governed by a heterogeneous network of graphitic domains, defects, and nanopores that conventional atomistic methods cannot model at the required length scales. We combine universal machine-learned interatomic potentials with the RAFFLE structure-generation framework to construct 13,096 realistic hard carbon models containing up to 4,378 atoms, matching experimentally measured densities, porosities, and sp$^2$/sp$^3$ bonding fractions. Explicit sodium intercalation of representative structures reproduces the characteristic sloping-to-plateau voltage profiles, revealing that capacity increases with decreasing carbon density and increasing porosity. To screen the full library, we train a lightweight neural-network surrogate that predicts capacity directly from the host using frozen universal-potential descriptors augmented by geometric void features. The surrogate identifies high-capacity candidates exceeding 800 mAh g$^{-1}$, which are validated by full intercalation calculations. This scalable framework links hard carbon microstructure to sodium-storage performance and provides atomistic design principles for high-capacity anodes. More broadly, the workflow enables systematic exploration of synthesis-dependent amorphous microstructures, including precursor chemistry, pyrolysis, heteroatom doping, and pore engineering, providing a route toward atomistically informed hard carbon design.",
+  "authors": [
+   "Harry Mclean",
+   "Aiden Daniel Emery",
+   "Theodore Thomas Walton",
+   "Ned Thaddeus Taylor",
+   "Steven Paul Hepplestone"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Harry Mclean",
+  "pdf_url": "http://arxiv.org/pdf/2608.17716",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [],
+  "title": "Atomistic Structure Generation and Neural-Network Screening of Hard Carbons to Identify High-Capacity Sodium Storage",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17720": {
+  "abstract": "Layered transition metal dichalcogenides are an important platform for two-dimensional materials, where the inevitable intrinsic defects provide new degrees of freedom for tuning their physical properties. Based on first-principles calculations, this work systematically investigates the formation energies, charge states, and electronic structural characteristics of V$_{\\mathrm{Pt}}$, V$_{\\mathrm{Se}}$, and composite vacancies in monolayer PtSe$_2$. The results indicate that while vacancy formation energies are highly sensitive to chemical potentials, the V$_{\\mathrm{Se}}$ structure consistently exhibits the lowest formation energy. The charge defect calculation reveals the stable charge state intervals of V$_{\\mathrm{Se}}$ and V$_{\\mathrm{Pt}}$ as a function of the Fermi level, thus describing the evolution of the charge states of intrinsic vacancies at different electronic chemical potentials. Climbing Image Nudged Elastic Band calculations reveal high migration barriers for V$_{\\mathrm{Se}}$ and V$_{\\mathrm{Pt}}$, indicating strongly hindered vacancy diffusion at room temperature, while short Ab Initio Molecular Dynamics simulations confirm the absence of immediate structural collapse within the simulated time window. Optical property calculations indicate that point defects significantly alter the dielectric response of monolayer PtSe$_2$ and generate new low-energy absorption channels associated with in-gap defect states. These findings provide new insights into defect-mediated electronic and optical property modulation in monolayer PtSe$_2$, offering guidance for its potential device design.",
+  "authors": [
+   "Xiwen Gai",
+   "Jingang Wang",
+   "Tianxing Ma"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14+6 pages. Latest version submitted to Physical Review B",
+  "first_author": "Xiwen Gai",
+  "pdf_url": "http://arxiv.org/pdf/2608.17720",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics",
+   "neb",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17786": {
+  "abstract": "Antimony sulfide (Sb$_2$S$_3$) is a semiconductor composed of quasi-one-dimensional ribbon-like structural units, which give rise to pronounced structural anisotropy in the bulk crystal. Despite growing interest in Sb$_2$S$_3$, in particular Sb$_2$S$_3$ thin films, a detailed understanding of its symmetry-based lattice dynamics remains incomplete. Here, we present a combined experimental and theoretical study of polarization-dependent Raman scattering in Sb$_2$S$_3$ thin films. We derive the Raman selection rules from the crystal symmetry and calculate the zone-center phonon modes and corresponding Raman tensors using density functional theory. The calculated polarization dependencies are systematically compared with polarization-dependent Raman measurements performed on oriented crystalline domains of Sb$_2$S$_3$ thin films. This combined analysis enables reliable mode assignments, elucidates the anisotropic Raman response associated with the ribbon-like crystal structure, and demonstrates the sensitivity of polarized Raman spectroscopy to crystal orientation and structural order in antimony chalcogenide (Sb$_2$S$_3$, Sb$_2$Se$_3$) as well as isostructural Bi$_2$S$_3$ thin films.",
+  "authors": [
+   "Tobias Dierke",
+   "Michael Hüttenkofer",
+   "Stefan Wolff",
+   "Mingjian Wu",
+   "Julien Bachmann",
+   "Erdmann Spiecker",
+   "Janina Maultzsch"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 10 figures",
+  "first_author": "Tobias Dierke",
+  "pdf_url": "http://arxiv.org/pdf/2608.17786",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Polarization-Dependent Raman Selection Rules in Sb$_2$S$_3$ from First Principles and Experiment",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17814": {
+  "abstract": "Amorphous materials are disordered solids without long-range structural order, making them useful systems for studying electron transport beyond the crystalline picture. This review discusses how structural disorder changes the spatial character of electron wavefunctions and how these changes govern carrier transport in amorphous materials, especially amorphous semiconductors. Basic concepts of Anderson localization, mobility edges, diffusive transport, and hopping transport are first reviewed, followed by representative amorphous semiconductors, including amorphous silicon and amorphous oxide semiconductors. Computational approaches are then discussed, from conventional Boltzmann and Green's-function-based transport theories to real-space Kubo-Greenwood simulations combined with molecular dynamics. The discussion focuses on localization, spectral broadening, finite-temperature lattice fluctuations, and electron-phonon interactions. Recent progress and remaining issues in predictive transport modeling of amorphous materials are then outlined.",
+  "authors": [
+   "Yeonghun Lee"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yeonghun Lee",
+  "pdf_url": "http://arxiv.org/pdf/2608.17814",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Electron transport in amorphous materials: from localization to predictive transport modeling",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17867": {
+  "abstract": "Erbium ions (Er$^{3+}$) in cerium dioxide (CeO$_2$) represent a promising spin-photon interface for quantum communication, but the mechanisms limiting their optical coherence remain poorly understood. Using periodic hybrid density functional theory calculations with finite-size corrections, we identify Ce$^{3+}$ polarons and their complexes with oxygen vacancies and Er$^{3+}$ dopants as likely sources of optical decoherence. These defects exhibit finite photoionization cross-sections at 0.8 eV, coinciding with both the laser excitation energy used experimentally and the emission energy of Er$^{3+}$. This resonance enables photoionization of the polarons and photoluminescence quenching of Er$^{3+}$, leading to the broadening of optical linewidths, shortening of excited-state lifetimes, and introduction of charge noise. Our concentration-dependent photocurrent measurements in Er$^{3+}$-doped CeO$_2$ films under 0.8 eV illumination validate the predicted decoherence pathway. Our combined computational and experimental results identify a concrete defect-engineering target for improving the Er$^{3+}$-doped CeO$_2$ platform, and point to a decoherence mechanism likely relevant to other Er$^{3+}$-doped multivalent-oxide quantum platforms.",
+  "authors": [
+   "Vrindaa Somjit",
+   "Ignas Masiulionis",
+   "Gregory D. Grant",
+   "Weiguo Jing",
+   "Matteo Giantomassi",
+   "Supratik Guha",
+   "Gian-Marco Rignanese",
+   "F. Joseph Heremans",
+   "Jiefei Zhang",
+   "Giulia Galli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 pages, 4 figures",
+  "first_author": "Vrindaa Somjit",
+  "pdf_url": "http://arxiv.org/pdf/2608.17867",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17984": {
+  "abstract": "We present a detailed account of the design choices required for planar Penning traps that feature a highly harmonic confining potential. High harmonicity is indispensable for a number of applications, particularly for confinement of single electrons as qubits in quantum-information processing. The present work extends previous studies [D. Goldmann and G. Gabrielse, Phys. Rev. A 81, 052335 (2010)] by a fully analytic treatment of finite electrode gaps and their relevance for small traps on the millimetre size scale and below, when relative gap sizes are non-negligible. We derive the overall trap potential with a particular focus on different models of finite-gap potentials and show how to find the optimum trap geometry and electrode voltages to minimize anharmonicities. The analytic calculations are compared with detailed finite-element simulations.",
+  "authors": [
+   "Kedar Mal",
+   "A. N. Agnihotri",
+   "Sugam Kumar",
+   "Wolfgang Quint",
+   "Manuel Vogel"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.atom-ph"
+  ],
+  "comment": null,
+  "first_author": "Kedar Mal",
+  "pdf_url": "http://arxiv.org/pdf/2608.17984",
+  "primary_category": "quant-ph",
+  "published": "2026-08-18",
+  "tags": [],
+  "title": "High-Harmonicity Planar Penning Traps for Single-Electron Qubits",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-18"
  }
 }

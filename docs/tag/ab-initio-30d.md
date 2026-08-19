@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Wenjie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17408">2608.17408</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="neb-30d.html">neb</a> · <a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Xiwen Gai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15609.html">Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="proton-diffusion-30d.html">proton-diffusion</a></div></td>
@@ -224,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18591.html">GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Lara Goncebat et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18591">2607.18591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17129.html">STEP: Spin Tensor Equivariant Potential for Data-Efficient Learning of Magnetic Potential Energy Surfaces</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="reaction-networks-30d.html">reaction-networks</a></div></td>
-<td>Yuanqing Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17129">2607.17129</a></td>
 </tr>
 </tbody></table>

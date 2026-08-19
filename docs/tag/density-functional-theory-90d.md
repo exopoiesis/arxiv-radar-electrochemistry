@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17786.html">Polarization-Dependent Raman Selection Rules in Sb$_2$S$_3$ from First Principles and Experiment</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
+<td>Tobias Dierke et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17786">2608.17786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17867.html">Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Vrindaa Somjit et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17867">2608.17867</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Kazuma Ito</td>
@@ -1106,17 +1118,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22601.html">Upscaling DFT-trained machine-learning interatomic potential toward Quantum Monte Carlo accuracy: Sulfur-vacancy migration in monolayer MoS$_2$ as a testbed</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Adam Hložný et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22601">2605.22601</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20972.html">In-Plane Ferromagnetism and Critical Dynamics in Alkali-Deficient K$_{1-x}$CrTe$_2$ (with $x \approx$ 0.3) Single Crystals</a></div></td>
-<td>Catherine Witteveen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20972">2605.20972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20985.html">Hubbard-$U$-corrected electron-phonon interactions in strongly correlated materials via the finite-displacement method</a></div><div class="paper-tags"><a href="dft-u-90d.html">dft-u</a></div></td>
-<td>Jiale Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20985">2605.20985</a></td>
 </tr>
 </tbody></table>
