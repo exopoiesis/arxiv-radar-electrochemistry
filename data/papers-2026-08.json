@@ -2207,5 +2207,179 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-08-18"
+ },
+ "2608.18505": {
+  "abstract": "Polycyclic aromatic hydrocarbons (PAHs) are widely recognized as carriers of the aromatic infrared bands (AIBs). However, most spectral models rely on idealized structures that fail to capture the energetic environments of interstellar PAH formation. This work investigates the infrared (IR) signatures of PAHs formed under shock conditions and explores whether produced defective structures can explain observational features unpredicted by standard, idealized models. We combine two-stage reactive molecular dynamics simulations of PAH formation via condensation and shock processing with density functional theory spectral calculations, and compare our theoretical results with James Webb Space Telescope (JWST) observations of NGC 7023 and MRK 1066. Shock processing produces PAHs featuring fullerene-like carbon skeletons and linear carbon-chain attachments. These structural defects yield distinct IR signatures, including prominent carbon-chain stretching features at 4.6-5.5 micron that is absent in ideal PAHs, and significantly enhanced out-of-plane skeletal modes in the 14.5-20 micron regime. Our findings attribute the observed 5.2 micron band in NGC 7023 and MRK 1066 to carbon-chain vibrations and the 15-18 micron emission to curved skeletal modes, providing observational support for the prevalence of defective, shock-formed PAHs in the interstellar medium.",
+  "authors": [
+   "Xiaoting Tan",
+   "Zhao Wang",
+   "Zu-Jia Lu",
+   "Houda Haidar",
+   "Dimitra Rigopoulou"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.IM",
+   "astro-ph.SR"
+  ],
+  "comment": null,
+  "first_author": "Xiaoting Tan",
+  "pdf_url": "http://arxiv.org/pdf/2608.18505",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-08-19",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Beyond Idealized PAHs: Infrared Signatures of Carbon-Chain Defects from Shock Synthesis",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.18629": {
+  "abstract": "We investigate degradation pathways and surface protection strategies for epitaxial 2H-MoTe2 films grown by molecular beam epitaxy on GaAs(111)B substrates. Using X-ray photoelectron spectroscopy, scanning tunneling microscopy, atomic force microscopy (AFM), Kelvin probe microscopy (KPM), Raman spectroscopy, and density functional theory (DFT) calculations, we analyse the structural, chemical, and electronic evolution of MoTe2 films protected by Co and Ni capping layers. XPS shows that the metallic caps effectively suppress oxidation during short-term air transfer, while the films exhibit a pronounced Te-rich near-surface composition. However, the caps become increasingly difficult to remove with exposure time, suggesting the gradual development of interfacial bonding, likely promoted by excess tellurium and defect-rich MoTe2 interfaces. AFM and KPM reveal strong thickness-dependent changes with time (ageing), with ultrathin regions showing markedly different contact-potential evolution from thicker films. DFT calculations for pristine and oxidized MoTe2 based structures qualitatively support the sensitivity of the work function and density of states to thickness and surface chemistry. Raman measurements performed through approximately 20 nm thick metallic caps demonstrate that such layers can provide partial optical access to the protected material. Additional AFM and Raman observations suggest that Te-rich nanostructures may form locally under laser illumination or near edges of the sample and mechanically formed chips. These results establish practical guidelines for the short-term protection, transfer, delamination, and optical characterization of air-sensitive MoTe2 and related van der Waals materials.",
+  "authors": [
+   "Wojciech Ryś",
+   "Iaroslav Lutsyk",
+   "Michał Piskorski",
+   "Maxime Le Ster",
+   "Maciej Rogala",
+   "Paweł Dąbrowski",
+   "Paweł Krukowski",
+   "Katarzyna Ranoszek-Soliwoda",
+   "Jarosław Grobelny",
+   "Zuzanna Ogorzałek-Sory",
+   "Wojciech Pacuski",
+   "Janusz Sadowski",
+   "Marta Gryglas-Borysiewicz",
+   "Karol Szałowski",
+   "Paweł J. Kowalczyk"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Main text: 29 pages, 5 figures; supporting information: 4 pages, 3 figures, 2 tables",
+  "first_author": "Wojciech Ryś",
+  "pdf_url": "http://arxiv.org/pdf/2608.18629",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-19",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Thickness-dependent degradation and optical access in epitaxial 2H-MoTe2 protected by metallic capping layers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.18951": {
+  "abstract": "Nulling interferometry enables the direct detection of faint companions and circumstellar structures at angular separations unresolvable by classical, diffraction-limited imagers, whilst dramatically improving the measurable contrast. The Asgard/NOTT nulling instrument aims to achieve a contrast performance of 10^-5 in the L' wavelength band (3.5 - 4.0 μm), enabling observation and characterization of young giant exoplanets near the snowline and hot exozodiacal dust. Previous studies have verified the nulling capabilities, of the chip in ambient conditions and of the test bench in cryogenic conditions. This work aims to add the first ambient performance assessment of the test bench with spectrally dispersed light. Necessary revisions are made to the data acquisition and calibration pipeline and fringe scans are carried out, modeled and fitted. The splitting ratios of the 4-telescope nulling beam combiner, a photonic Gallium Lanthanum Sulfide (GLS) chip, are moreover characterized on the bench, showing tentative agreement with previous chip characterization. The null performance has worsened, the achieved contrast of ~ 10^-1 being one order of magnitude higher than what earlier characterized performance showed. Multiple future changes to the test bed and to the approach taken promise an improved characterization of performance. In particular, the input beam intensities will be deliberately mismatched to account for the imbalanced splitting ratios of the directional couplers. With the installation of the final cryostat and camera, the developed tools will be leveraged to re-assess the performance in ambient and cryogenic conditions.",
+  "authors": [
+   "T. Mattheussen",
+   "R. Laugier",
+   "D. Defrère",
+   "G. Garreau",
+   "P. Chingaipe",
+   "G. Raskin",
+   "M. Salman",
+   "K. Missiaen",
+   "B. Vandenbussche",
+   "W. Verstraeten",
+   "J. Morren",
+   "A. Kuriakose",
+   "M. Ireland",
+   "M. -A. Martinod",
+   "A. Sanny",
+   "S. Gross",
+   "L. Labadie",
+   "A. Bigioli",
+   "A. Jóo",
+   "S. Madden",
+   "A. Mazzoli",
+   "G. Medgyesi",
+   "S. Ertel",
+   "T. A. Stuber",
+   "J. P. Scott",
+   "S. Kraus",
+   "F. Martinache",
+   "X. Haubois",
+   "N. Schuhler"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted for publication in SPIE Proceedings Astronomical Telescopes + Instrumentation",
+  "first_author": "T. Mattheussen",
+  "pdf_url": "http://arxiv.org/pdf/2608.18951",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-08-19",
+  "tags": [],
+  "title": "Asgard/NOTT: Status of laboratory nulling performance",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.19041": {
+  "abstract": "No interatomic potential has offered universality across chemistry, near-first-principles accuracy and the speed of empirical potentials at once. Here we introduce DPA4C, an equivariant potential whose architecture and compressed CUDA operators are co-designed under deployment constraints to pursue accuracy and efficiency together. Five variants spanning a 49-fold parameter range form the high-throughput end of the measured accuracy--throughput frontier. The largest variant approaches the accuracy of the MACE-Omat models at about two orders of magnitude higher measured throughput. The most compact reduces the energy, force and stress errors of the fastest existing universal MLIP by 61.4%, 48.1% and 34.3% at 1.92 times its saturated throughput. All five variants complete multimillion-atom simulations on a single GPU and run molecular dynamics for 2.048 billion atoms on 1,024 16-GB NVIDIA V100 GPUs at 83.3--91.2% weak-scaling efficiency. Compared with the MEAM empirical potential, DPA4C-Nano reaches 1.8 and 2.5 times the saturated throughput in single-GPU scans on the same V100 hardware for diamond carbon and FCC copper, respectively. DPA4C therefore brings quantum-trained universal accuracy into a regime of speed and system size previously associated with empirical potentials.",
+  "authors": [
+   "Tiancheng Li",
+   "Jianming Xue",
+   "Linfeng Zhang",
+   "Duo Zhang",
+   "Han Wang"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Tiancheng Li",
+  "pdf_url": "http://arxiv.org/pdf/2608.19041",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-19",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.19116": {
+  "abstract": "Many problems in disordered materials require sampling beyond fixed composition and volume, where coupled changes in atomic identities and structure create a prohibitively expensive discrete-continuous sampling problem. Here we introduce JANUS, a multimodal neural sampler that couples continuous and masked discrete diffusion through an equivariant graph neural network trained directly from energy evaluations, without pre-generated equilibrium data. In benchmark Ising and isobaric $ΔμNPT$ alloy systems, JANUS reproduces reference Monte Carlo equilibrium observables and recovers free energies and phase behavior with more than three orders of magnitude fewer energy evaluations. In multicomponent alloys, JANUS enables conditional steering toward prescribed chemical short-range order and enhanced bulk modulus and, when coupled to a large language model evolutionary agent, performs efficient inverse design for balanced optical and mechanical properties. In semiconductors like silicon and diamond, JANUS explores vacancies and dopants spanning 15 elements in grand-canonical $μVT$ ensembles, recovers established defects including the silicon $E$ centre, and identifies new candidate defect pairs and triplets for quantum engineering, including S-Ti in silicon and B-O-O in diamond, with deep in-gap states validated by hybrid-functional density functional theory. By unifying discrete site identities with continuous structural and volumetric relaxation, JANUS provides a foundation for thermodynamic sampling, characterization and inverse design of chemically disordered materials.",
+  "authors": [
+   "Denis Blessing",
+   "Mouyang Cheng",
+   "Maximilian Schebek",
+   "Jutta Rogal",
+   "Mingda Li",
+   "Carles Domingo-Enrich",
+   "Yuanqi Du"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Denis Blessing",
+  "pdf_url": "http://arxiv.org/pdf/2608.19116",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-19",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-19"
  }
 }
