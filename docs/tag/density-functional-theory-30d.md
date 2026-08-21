@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mace-30d.html">mace</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18505.html">Beyond Idealized PAHs: Infrared Signatures of Carbon-Chain Defects from Shock Synthesis</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -332,23 +338,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20788.html">First-principles calculation of electron-phonon spectral functions for defects using phonon interpolation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Zoltan Santha et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20788">2607.20788</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19003.html">Deciphering Mechanoluminescence: How the Nature of Mechanical Stress and Structural Dimensionality Shape Mechanisms and Responses</a></div></td>
-<td>Alexis Duval et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19003">2607.19003</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19488.html">Electron-Induced Formation of C$_{2}$ on Si(100) from Acetylene and Ethylene</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
-<td>Oliver MacLean et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19488">2607.19488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19521.html">Accounting for Nanofilm Contributions in Interfacial Free Energy Calculations Using Classical Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
-<td>Yafan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19521">2607.19521</a></td>
 </tr>
 </tbody></table>

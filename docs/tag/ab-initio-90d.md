@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19041.html">Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -698,23 +704,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24768.html">Charge dynamics at nitrogen impurities and nitrogen-vacancy centers in diamond</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Chandan Kumar Vishwakarma et al.</td>
 <td><a href="http://arxiv.org/abs/2605.24768">2605.24768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23212.html">Transition-state lattice modes and the breakdown of adiabatic tunneling for hydrogen and deuterium in bcc Nb</a></div></td>
-<td>P. Graham Pritchard et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23212">2605.23212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23479.html">Intrinsic Point Defects and Frenkel Pair Formation in Photovoltaic Absorber Zn$_3$P$_2$: Regulating $p$-type Conductivity through Growth and Annealing Conditions</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Nico Kawashima et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23479">2605.23479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23612.html">First-principles transition-state tensorial cluster expansion of vacancy diffusion in Ta-W beyond the kinetically-resolved activation approximation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Jacob Jeffries et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23612">2605.23612</a></td>
 </tr>
 </tbody></table>

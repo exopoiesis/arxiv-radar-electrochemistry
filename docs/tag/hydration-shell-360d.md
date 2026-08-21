@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydration-shell — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="hydration-shell-7d.html">7d</a> <a href="hydration-shell-30d.html">30d</a> <a href="hydration-shell-90d.html">90d</a> <strong>360d</strong> <a href="hydration-shell-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22000.html">Tracking Microhydration of the NaCl Rocksalt Molecule in Helium Nanodroplets by Penning Ionization Electron Spectroscopy</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-pairing-360d.html">ion-pairing</a></div></td>
 <td>Ltaief Ben Ltaief et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22000">2510.22000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11932.html">Computational Study of Li+ Solvation Structures in Fluorinated Ether, Non-Fluorinated Ether, and Organic Carbonate-Based Electrolytes at Low and High Salt Concentrations</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrolyte-structure-360d.html">electrolyte-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rumana Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11932">2501.11932</a></td>
 </tr>
 </tbody></table>

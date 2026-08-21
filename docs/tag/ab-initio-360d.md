@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">484 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19041.html">Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -2912,23 +2918,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19124.html">Lattice vacancy migration barriers in Fe-Ni alloys, and why Ni atoms diffuse slowly: An ab initio study</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Adam M. Fisher et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19124">2508.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14208.html">Parallel Exploration of the Optoelectronic Properties of (Sb,Bi)(S,Se)(Br,I) Chalcohalides</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Rasmus S. Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14208">2505.14208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.17685.html">Water structuring at stacked graphene interfaces unveiled by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Dianwei Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.17685">2508.17685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18194.html">Self-consistent dynamical Hubbard functional for correlated solids</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Tommaso Chiarotti et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18194">2508.18194</a></td>
 </tr>
 </tbody></table>

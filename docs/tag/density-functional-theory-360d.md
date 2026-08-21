@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">831 papers</span>
+  <span class="paper-count">828 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mace-360d.html">mace</a></div></td>
+<td>Yuxuan Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18505.html">Beyond Idealized PAHs: Infrared Signatures of Carbon-Chain Defects from Shock Synthesis</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -4976,29 +4982,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02753.html">Toward improved property prediction of 2D materials using many-body quantum Monte Carlo methods</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Daniel Wines et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02753">2406.02753</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11932.html">Computational Study of Li+ Solvation Structures in Fluorinated Ether, Non-Fluorinated Ether, and Organic Carbonate-Based Electrolytes at Low and High Salt Concentrations</a></div><div class="paper-tags"><a href="electrolyte-structure-360d.html">electrolyte-structure</a> · <a href="hydration-shell-360d.html">hydration-shell</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rumana Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11932">2501.11932</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14208.html">Parallel Exploration of the Optoelectronic Properties of (Sb,Bi)(S,Se)(Br,I) Chalcohalides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Rasmus S. Nielsen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14208">2505.14208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18129.html">Evaluating Moment Tensor Potential in Ag-Cu Alloy: Accuracy, Transferability, and Phase Diagram Fidelity</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Mashroor S. Nitol et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18129">2508.18129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18194.html">Self-consistent dynamical Hubbard functional for correlated solids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Tommaso Chiarotti et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18194">2508.18194</a></td>
 </tr>
 </tbody></table>
