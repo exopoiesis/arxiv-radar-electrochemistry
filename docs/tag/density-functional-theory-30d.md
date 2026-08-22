@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,29 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21726.html">Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential</a></div><div class="paper-tags"><a href="chgnet-30d.html">chgnet</a> · <a href="ion-transport-30d.html">ion-transport</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Mary Kathleen Caucci et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21726">2607.21726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20032.html">Huge hole injection in tungsten dichalcogenide heterostructures without electric gating: a DFT study</a></div></td>
-<td>Dawid Ciszewski et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20032">2607.20032</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20681.html">A high-dimensional neural network potential for finite-temperature phenomena in NiTi martensite</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Petr Jaroš et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20681">2607.20681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20728.html">Analytical Forces from the Bethe-Salpeter Equation for Large-Scale Excited-State Relaxation</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Yu Jin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20728">2607.20728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20788.html">First-principles calculation of electron-phonon spectral functions for defects using phonon interpolation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Zoltan Santha et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20788">2607.20788</a></td>
 </tr>
 </tbody></table>

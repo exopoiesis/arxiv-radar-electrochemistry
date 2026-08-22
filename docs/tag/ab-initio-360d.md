@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,11 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20679.html">Electric-field induced half-metallicity in a two-dimensional ferromagnetic Janus VSSe bilayer</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Khushboo Dange et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20679">2508.20679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19124.html">Lattice vacancy migration barriers in Fe-Ni alloys, and why Ni atoms diffuse slowly: An ab initio study</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Adam M. Fisher et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19124">2508.19124</a></td>
 </tr>
 </tbody></table>

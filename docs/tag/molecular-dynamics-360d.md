@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">573 papers</span>
+  <span class="paper-count">572 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3446,11 +3446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19674.html">Atomistic insights into hydrogen migration in IGZO from machine-learning interatomic potential: linking atomic diffusion to device performance</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="proton-diffusion-360d.html">proton-diffusion</a></div></td>
 <td>Hyunsung Cho et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19674">2508.19674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22583.html">Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Joseph Kelly et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22583">2503.22583</a></td>
 </tr>
 </tbody></table>

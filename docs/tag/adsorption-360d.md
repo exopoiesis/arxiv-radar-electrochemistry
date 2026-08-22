@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">224 papers</span>
+  <span class="paper-count">223 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1352,11 +1352,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12262.html">Photocatalytic CO2 Reduction Enhanced by Synergetic Interactions among Photon Phonon and Molecule</a></div><div class="paper-tags"><a href="co2-adsorption-360d.html">co2-adsorption</a> · <a href="co2-reduction-360d.html">co2-reduction</a></div></td>
 <td>Chen Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12262">2508.12262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02753.html">Toward improved property prediction of 2D materials using many-body quantum Monte Carlo methods</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Daniel Wines et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02753">2406.02753</a></td>
 </tr>
 </tbody></table>
