@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>co2-reduction — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <strong>360d</strong> <a href="co2-reduction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01771.html">Membrane-Electrode Assemblies for Electrochemical Reduction of CO2 to Ethylene: Design for Minimal Energy Consumption</a></div><div class="paper-tags"><a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Tugrul Y. Ertugrul et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01771">2509.01771</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12262.html">Photocatalytic CO2 Reduction Enhanced by Synergetic Interactions among Photon Phonon and Molecule</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="co2-adsorption-360d.html">co2-adsorption</a></div></td>
-<td>Chen Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12262">2508.12262</a></td>
 </tr>
 </tbody></table>

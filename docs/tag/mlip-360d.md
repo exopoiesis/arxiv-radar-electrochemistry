@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,17 +920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20608.html">Decoding local framework dynamics in the ultra-small pore MOF MIL-120(Al) CO2 sorbent with Machine Learned Potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="co2-adsorption-360d.html">co2-adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Dong Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20608">2508.20608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07344.html">Radiation damage and phase stability of Al$_x$CrCuFeNi$_y$ alloys using a machine-learned interatomic potential</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Aslak Fellman et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07344">2503.07344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19674.html">Atomistic insights into hydrogen migration in IGZO from machine-learning interatomic potential: linking atomic diffusion to device performance</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="proton-diffusion-360d.html">proton-diffusion</a></div></td>
-<td>Hyunsung Cho et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19674">2508.19674</a></td>
 </tr>
 </tbody></table>
