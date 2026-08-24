@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1433 papers</span>
+  <span class="paper-count">1435 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20837.html">First-principles design of main-group dimer defects in ZnO as candidate quantum defects</a></div><div class="paper-tags"><a href="phase-stability-all.html">phase-stability</a></div></td>
+<td>Taejoon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20837">2608.20837</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mace-all.html">mace</a></div></td>
 <td>Yuxuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20514.html">Revealing the Role of Confined Molecular H$_2$ in the Passivation of Defective Silicon Using First-Principles Simulations</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a> · <a href="neb-all.html">neb</a></div></td>
+<td>Hania Azzam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20514">2608.20514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>

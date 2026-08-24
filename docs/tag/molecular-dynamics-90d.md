@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,17 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived silicon carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Fabien Mortier et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25361.html">An Efficient On-the-Fly Nonadiabatic Coupling Framework Integrated into CP2K</a></div></td>
-<td>Xiaoke He et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25361">2605.25361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25702.html">Terahertz-induced local-field dynamics and transient birefringence in aqueous electrolytes</a></div></td>
-<td>Naveen Kumar Kaliannan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25702">2605.25702</a></td>
 </tr>
 </tbody></table>

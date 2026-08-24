@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20837.html">First-principles design of main-group dimer defects in ZnO as candidate quantum defects</a></div><div class="paper-tags"><a href="phase-stability-7d.html">phase-stability</a></div></td>
+<td>Taejoon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20837">2608.20837</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mace-7d.html">mace</a></div></td>
 <td>Yuxuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20514.html">Revealing the Role of Confined Molecular H$_2$ in the Passivation of Defective Silicon Using First-Principles Simulations</a></div><div class="paper-tags"><a href="corrosion-7d.html">corrosion</a> · <a href="neb-7d.html">neb</a></div></td>
+<td>Hania Azzam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20514">2608.20514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>
@@ -56,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="proton-diffusion-7d.html">proton-diffusion</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Kazuma Ito</td>
 <td><a href="http://arxiv.org/abs/2608.16652">2608.16652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15765.html">Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a></div></td>
-<td>Subhadeep Bandyopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15765">2608.15765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15882.html">Rare-earth chalcogenide perovskites: A promising class of materials for optoelectronic applications</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="chalcogenides-7d.html">chalcogenides</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
-<td>Surajit Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15882">2608.15882</a></td>
 </tr>
 </tbody></table>

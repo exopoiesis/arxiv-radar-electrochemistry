@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02815.html">First Detection of HC5N in a Class II Disk around TW Hya</a></div></td>
 <td>Steven C. Wampler et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02815">2606.02815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25523.html">Bridging two theoretical frameworks of autocatalysis: RAF sets and stoichiometric autocatalysis</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
-<td>Richard Golnik et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25523">2605.25523</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,17 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00498.html">&quot;One defect, one potential&quot; strategy for accurate machine learning prediction of defect phonons</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Junjie Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00498">2509.00498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20350.html">Atomistic understanding of hydrogen bubble-induced embrittlement in tungsten enabled by machine learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yu Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20350">2508.20350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20608.html">Decoding local framework dynamics in the ultra-small pore MOF MIL-120(Al) CO2 sorbent with Machine Learned Potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="co2-adsorption-360d.html">co2-adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Dong Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20608">2508.20608</a></td>
 </tr>
 </tbody></table>

@@ -2407,5 +2407,148 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-08-20"
+ },
+ "2608.20514": {
+  "abstract": "The passivation of silicon dangling bonds by hydrogen is a crucial requirement for silicon-based optoelectronic technology, especially for solar cells. Recent experiments on intense light soaking of silicon heterojunction solar cells unveiled interesting dynamical aspects of hydrogen passivation that are linked to Si-H bond breaking and repassivation. These processes take place predominantly in porous regions near the amorphous/crystalline interface, where hydrogen can exist in molecular form. This work addresses the question of whether molecular H$_2$ directly participates in Si-H depassivation and repassivation. Using density functional theory, we calculate and compare formation energies of point defects, multivacancy cavities and the Si(100) surface to identify relevant passivated and depassivated states. Furthermore, we employ nudged elastic band calculations to determine the activation barriers of the corresponding pathways. We find that sufficient local free volume enables a direct double-H pathway for depassivation through the formation of confined molecular H$_2$. Despite involving the breaking of two Si-H bonds, the double-H process can be energetically and kinetically competitive with the single-H process and can exhibit a reverse repassivation barrier as low as $0.15\\,$eV under p-type conditions. These findings provide a plausible atomistic explanation for passivation recovery during light soaking and illuminated annealing in porous regions near amorphous/crystalline silicon interfaces.",
+  "authors": [
+   "Hania Azzam",
+   "Tobias Binninger",
+   "Benedikt Fischer",
+   "Uwe Rau",
+   "Michael Eikerling"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 10 figures",
+  "first_author": "Hania Azzam",
+  "pdf_url": "http://arxiv.org/pdf/2608.20514",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-20",
+  "tags": [
+   "corrosion",
+   "density-functional-theory",
+   "neb"
+  ],
+  "title": "Revealing the Role of Confined Molecular H$_2$ in the Passivation of Defective Silicon Using First-Principles Simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.20596": {
+  "abstract": "Early thinking in the field of high entropy oxides (HEOs) emphasized their likely abundance, with combinatorial arguments hinting at a myriad of new materials. The experimental reality has proven more challenging: the stability of HEOs cannot be straightforwardly predicted based on ionic radii, lattice geometry, and charge-balancing considerations alone. In this work, we employ machine learning interatomic potentials (MLIPs) to predict the synthesizability of HEOs of the form $A_2$O$_3$ derived from a selection of trivalent cations. From nearly 500 possible compositions, we identify 16 promising candidates for experimental validation with solid-state and combustion synthesis. We discover three new HEOs in the corundum structure, including (Al,Cr,Fe,Rh,Sc)$_2$O$_3$, and one novel cation-ordered phase, (Al,Fe,Ga,Sc)$_2$O$_3$. By far the most common synthesis outcome was a mixture of competing phases, sometimes involving redox reactions. Our results also reveal profound synthesis method dependence for the final product, where qualitatively equivalent outcomes between the two synthesis methods were only observed for 3 of the 16 tested compositions. We conclude that the occurrence rate of HEOs is far rarer than initially believed and that machine learning approaches can effectively guide us to the \"needle in the haystack\".",
+  "authors": [
+   "Abraham A. Mancilla",
+   "Oliver A. Dicks",
+   "Solveig S. Aamlid",
+   "Mario Ulises González-Rivas",
+   "Karl Tsang",
+   "Dongjoon Song",
+   "Jörg Rottler",
+   "Alannah M. Hallas"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Abraham A. Mancilla",
+  "pdf_url": "http://arxiv.org/pdf/2608.20596",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-20",
+  "tags": [],
+  "title": "Machine Learning Guided Discovery of Corundum High Entropy Oxides",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.20837": {
+  "abstract": "Zinc oxide (ZnO), a wide-band-gap semiconductor with mature growth techniques, is a promising host for optically active quantum spins. Yet, optically active quantum defects in ZnO remain largely unexplored. Here, we identify and characterize a family of double substitutional impurities in ZnO, formed by main-group donor-acceptor (DA) pairs, as candidates for optically active quantum defects. Using hybrid density functional theory (DFT), we systematically investigate double substitutional DA complexes and their defect physics, including electronic structure, thermodynamic stability, and optical properties. The proposed defects exhibit isolated defect states, strong spin localization on the acceptor site, and $C_{3v}$ symmetry. Importantly, the electronic structure of the DA pairs is largely determined by the atomic properties of their constituent atoms. We further examine their optical characteristics, including zero-phonon lines (ZPLs), radiative lifetimes, and nonradiative decay to assess their viability as color centers. Notably, among the dimers, (Si$_{Zn}$-B$_O$)$^+$ and (Ge$_{Zn}$-B$_O$)$^+$ exhibit visible optical transitions with sub-microsecond radiative lifetimes and robust charge states against optical ionization, while (Si$_{Zn}$-C$_O$)$^{2+}$ shows the smallest Huang-Rhys factor, approximately 5.6. Our results propose a new family of main-group donor-acceptor defects in ZnO as promising candidates for optically active spin defects.",
+  "authors": [
+   "Taejoon Park",
+   "Erik Alfredo Perez",
+   "Shimin Zhang",
+   "Yuan Ping",
+   "Hosung Seo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "quant-ph"
+  ],
+  "comment": "13 pages, 5 figures",
+  "first_author": "Taejoon Park",
+  "pdf_url": "http://arxiv.org/pdf/2608.20837",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-21",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "First-principles design of main-group dimer defects in ZnO as candidate quantum defects",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21037": {
+  "abstract": "Sulfur-rich spirofluorene-bridged N-heterotriangulene (FTN) polymers featuring covalently linked oligosulfide units and a terthiophene-based analogue were synthesized via nucleophilic aromatic substitution and Stille cross-coupling polymerization. The resulting materials are amorphous, insoluble solids with high thermal stability and sulfur contents up to 25 wt%. Structural and compositional analyses by combustion analysis, ToF-SIMS, FT-IR, XPS, and solid-state NMR confirm the efficient incorporation of short oligosulfide to disulfide linkages and well-defined terthiophene units in the respective polymers. Electrochemical characterization in lithium half-cells reveals a reversible, high-voltage oxidation of the FTN unit at 3.8-4.0 V (vs. Li/Li+), accompanied by low-voltage sulfur- or terthiophene-based redox processes between 1.5-2.5 V (vs. Li/Li+). Sulfur incorporation markedly increases the theoretical and initial discharge capacities (up to 129 mA h g-1), while the sulfide conversion processes exhibit rapid fading and poor reversibility due to sulfide dissolution. In contrast, the terthiophene-linked polymer shows only transient low-voltage activity while maintaining high Coulombic efficiencies (ca. 99.7%) governed by the persistent FTN backbone redox event. Our results highlight how different redox-active linkers influence the electrochemical behavior of FTN-based polymers and provide insights into the design of functional organic cathode materials featuring multi-redox processes.",
+  "authors": [
+   "Angelina Jocic",
+   "Tom Wickenhäuser",
+   "Sebastian Lindenthal",
+   "Alexander Welle",
+   "Vanessa Trouillet",
+   "Ronald Curticean",
+   "Irene Wacker",
+   "Jana Zaumseil",
+   "Rasmus R. Schröder",
+   "Rüdiger Klingeler",
+   "Milan Kivala"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Angelina Jocic",
+  "pdf_url": "http://arxiv.org/pdf/2608.21037",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-21",
+  "tags": [],
+  "title": "Sulfur-rich Spirofluorene-Bridged N Heterotriangulene Redox-Active Polymers",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21333": {
+  "abstract": "A first-principles and device-level study of the quasi-two-dimensional transition-metal chalcogenide Mo$_2$SeTe$_3$ is performed. The material is found to be a weak topological semiconductor with a finite bulk band gap and symmetry-protected Dirac surface states, indicating strong potential for next-generation low-power quantum electronic devices. An SOC-driven band inversion accompanied by an indirect semiconducting gap of approximately 0.75 eV is observed. Topological nontriviality is rigorously confirmed through Wannier charge-center evolution and $\\mathbb{Z}_2$ invariant analysis, yielding weak topological indices of $(0;001)$, while iterative Green's-function surface-state calculations corroborate Dirac-cone conducting states traversing the bulk gap on symmetry-preserving surfaces. Mo$_2$SeTe$_3$ additionally exhibits exceptional dynamical and mechanical stability, pronounced optical anisotropy, high dielectric polarizability, broad infrared-to-visible optical absorption, a large static dielectric constant, and substantial birefringence, making it favorable for photonic and optoelectronic applications. Thermoelectric transport analyses further reveal enhanced carrier mobility and a competitive figure of merit under $n$-type doping near room temperature. A dual-source tunnel field-effect transistor (TFET) is implemented via TCAD simulations with nonlocal band-to-band tunneling, yielding subthreshold switching below the thermionic limit, a high ON/OFF current ratio, and enhanced tunneling efficiency driven by SOC-induced orbital hybridization and topologically enhanced interband coupling. The concurrent realization of nontrivial bulk-boundary correspondence, robust transport properties, and steep-slope switching characteristics establishes Mo$_2$SeTe$_3$ as a multifunctional quantum material platform for topological and next-generation energy-efficient nanoelectronic devices.",
+  "authors": [
+   "Zafar Sadik Mehrub",
+   "Suvodip Kundu Arnob",
+   "Md. Tareq Mahmud",
+   "Nazmul Hasan",
+   "Alamgir Kabir"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zafar Sadik Mehrub",
+  "pdf_url": "http://arxiv.org/pdf/2608.21333",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-21",
+  "tags": [
+   "ab-initio",
+   "chalcogenides"
+  ],
+  "title": "Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-08-21"
  }
 }

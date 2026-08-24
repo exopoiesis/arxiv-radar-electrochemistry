@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">569 papers</span>
+  <span class="paper-count">567 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3416,17 +3416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00169.html">Generative Latent Space Dynamics of Electron Density</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a></div></td>
 <td>Yuan Chiang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00169">2509.00169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20350.html">Atomistic understanding of hydrogen bubble-induced embrittlement in tungsten enabled by machine learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yu Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20350">2508.20350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20679.html">Electric-field induced half-metallicity in a two-dimensional ferromagnetic Janus VSSe bilayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20679">2508.20679</a></td>
 </tr>
 </tbody></table>

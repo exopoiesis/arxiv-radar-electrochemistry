@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">825 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20837.html">First-principles design of main-group dimer defects in ZnO as candidate quantum defects</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>Taejoon Park et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20837">2608.20837</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mace-360d.html">mace</a></div></td>
 <td>Yuxuan Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20514.html">Revealing the Role of Confined Molecular H$_2$ in the Passivation of Defective Silicon Using First-Principles Simulations</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Hania Azzam et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20514">2608.20514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>
@@ -4940,29 +4952,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21766.html">Magnetism Enhanced Surface Bonding of O$_{2}$ on CoPt</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Kevin Allen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21766">2508.21766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09970.html">5d orbital Induced Room Temperature Quantum Anomalous Hall Effect in TbCl</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Jianqi Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09970">2501.09970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20350.html">Atomistic understanding of hydrogen bubble-induced embrittlement in tungsten enabled by machine learning molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yu Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20350">2508.20350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20608.html">Decoding local framework dynamics in the ultra-small pore MOF MIL-120(Al) CO2 sorbent with Machine Learned Potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="co2-adsorption-360d.html">co2-adsorption</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Dong Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20608">2508.20608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20679.html">Electric-field induced half-metallicity in a two-dimensional ferromagnetic Janus VSSe bilayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20679">2508.20679</a></td>
 </tr>
 </tbody></table>

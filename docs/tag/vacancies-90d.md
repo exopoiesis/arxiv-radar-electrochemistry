@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vacancies — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <strong>90d</strong> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29127.html">Field-Driven Hybrid Filament Formation Governs Switching in Ta-HfO$_2$-Pt Memristors</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ashutosh Krishna Amaram et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29127">2605.29127</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25351.html">Anomalous Subsurface Vacancy Stabilization Dictated by Geometry-Electronic Decoupling on Metal Surfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="surface-reconstruction-90d.html">surface-reconstruction</a></div></td>
-<td>Yiming Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25351">2605.25351</a></td>
 </tr>
 </tbody></table>

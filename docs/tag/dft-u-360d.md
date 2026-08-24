@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft-u — 360d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <strong>360d</strong> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11200.html">&quot;Adiabatic&quot; Elastic Constants in Hubbard-Corrected Density-Functional Theory DFT+U: case UO$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Mahmoud Payami et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11200">2509.11200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09970.html">5d orbital Induced Room Temperature Quantum Anomalous Hall Effect in TbCl</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Jianqi Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09970">2501.09970</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>co2-adsorption — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="co2-adsorption-7d.html">7d</a> <a href="co2-adsorption-30d.html">30d</a> <a href="co2-adsorption-90d.html">90d</a> <strong>360d</strong> <a href="co2-adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13529.html">Evolution of surfactant-free &#x27;pristine&#x27; emulsions</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
 <td>Andrei Dukhin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13529">2509.13529</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20608.html">Decoding local framework dynamics in the ultra-small pore MOF MIL-120(Al) CO2 sorbent with Machine Learned Potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Dong Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20608">2508.20608</a></td>
 </tr>
 </tbody></table>
