@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">221 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21525.html">Machine-learned exchange-correlation functionals for molecules, solids, and reactive surfaces</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Mohamed S. Abdallah et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21525">2608.21525</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="microkinetics-360d.html">microkinetics</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
@@ -1322,23 +1328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04138.html">Shape spectra of elastic shells with surface-adsorbed semiflexible polymers</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hadiya Abdul Hameed et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04138">2509.04138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21339.html">Quantum Monte Carlo Benchmarking of Molecular Adsorption on Graphene-Supported Single Pt Atom</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21339">2508.21339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21734.html">Computational study of interactions between ionized glyphosate and carbon nanotube: An alternative for mitigating environmental contamination</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>H. T. Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21734">2508.21734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21766.html">Magnetism Enhanced Surface Bonding of O$_{2}$ on CoPt</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Kevin Allen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21766">2508.21766</a></td>
 </tr>
 </tbody></table>

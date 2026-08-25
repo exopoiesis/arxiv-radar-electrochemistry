@@ -2550,5 +2550,293 @@
    "Sulfide Electrocatalysts"
   ],
   "updated": "2026-08-21"
+ },
+ "2608.21525": {
+  "abstract": "The application of density functional theory to heterogeneous catalysis is hindered by the shortcomings of conventional density functional approximations. We combine machine learning with explicitly non-local physically informed descriptors and introduce an exchange-correlation functional (CIDER26SS) framework regularized for wide transferability. CIDER26SS is size-extensive, highly efficient, provides a balanced and accurate description of both molecular and solid-state systems, and is specifically well-optimized for transition metal surface chemistry. Surpassing existing conventional functionals, CIDER26SS resolves the CO/Pt puzzle, identifying the correct binding site for CO adsorption on the Pt(111) surface, along with an accurate adsorption energy, Pt lattice constant, and surface energy. Predictions agree well with the experimental values, even when all bulk and surface data for Pt are excluded from the training set. Remarkably, CIDER26SS exceeds the accuracy of semilocal approximations even for systems far outside the training domain.",
+  "authors": [
+   "Mohamed S. Abdallah",
+   "Zhuotao Jin",
+   "Boris Kozinsky",
+   "Kyle Bystrom"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Mohamed S. Abdallah",
+  "pdf_url": "http://arxiv.org/pdf/2608.21525",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-21",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Machine-learned exchange-correlation functionals for molecules, solids, and reactive surfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21604": {
+  "abstract": "Transition metal dichalcogenide monolayers are promising materials for electronic and photonic applications, yet the performance of chemical vapour deposition grown films is severely limited by native sulphur vacancies that introduce mid-gap trap states, degrade carrier mobility, and elevate electrical noise. Here we investigate octane thiol passivation of sulphur vacancies in monolayer MoS2 field effect transistors, combining x-ray photoelectron spectroscopy, photoluminescence, and Raman scattering with electrical transport and optically coupled low-frequency noise spectroscopy. Thiol treatment reduces the sulphur vacancy concentration from 7.5% to 5%, which increases the channel resistance 35-fold while restoring gate switching with an on/off ratio of 10^4 and improving field-effect mobility from 1 to 5 cm^2/Vs. Low frequency noise spectroscopy directly quantifies the defect suppression: the Hooge parameter drops by more than two orders of magnitude after passivation. Gate-dependent noise confirms carrier mobility fluctuation as the dominant dark noise mechanism, while optical excitation drives a crossover to carrier number fluctuation dominated noise, reflecting preferential interaction of photogenerated carriers with residual vacancy states via generation-recombination trapping, a mechanistic distinction inaccessible to gate- bias measurements alone. Density functional theory calculations corroborate these findings, showing suppression of vacancy-induced mid-gap states by more than 50% and partial restoration of the intrinsic bandgap. These results establish optically coupled low-frequency noise spectroscopy as a sensitive, low-cost, and non-destructive tool for quantifying defect passivation in TMDC-based devices.",
+  "authors": [
+   "Shashwata Chattopadhyay",
+   "Soumyadip Hazra",
+   "Sraboni Dey",
+   "Kritika Sharu",
+   "Renjith Nadarajan",
+   "Arijit Kayal",
+   "Joy Mitra"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shashwata Chattopadhyay",
+  "pdf_url": "http://arxiv.org/pdf/2608.21604",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-21",
+  "tags": [
+   "corrosion",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Investigating Sulfur Vacancy Passivation in Monolayer MoS2 FETs via Optically Coupled Low-Frequency Electrical Noise Spectroscopy",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21695": {
+  "abstract": "Anomalous heat transport in strongly anharmonic crystalline solids poses both a fundamental challenge to the theoretical understanding and an opportunity for thermoelectric and thermal barrier coating applications. Although Green-Kubo theory reproduces experimental thermal conductivity ($κ$) at high temperatures, it lacks microscopic insight and neglects the Bose-Einstein statistics of lattice vibrations. On the other hand, the conventional Boltzmann transport equation (BTE) framework, based on a phonon-gas picture, fails due to strong anharmonicity-induced overdamped phonons. Herein, the thermal transport properties in TlAgSe, a metal chalcogenide, and Cs$_2$PbI$_2$C$_2$, an all-inorganic layered Ruddlesden-Popper perovskite, are investigated by explicitly accounting for temperature-dependent lattice dynamics through machine learning interatomic potentials and employing the Wigner transport equation (WTE) framework. Crucially, heat conduction is governed not only by higher-order phonon scattering-dominated populations' transport channel described within the BTE, but also by a coherences' channel in the WTE framework arising from wave-like interbranch coherence between eigenstates. Incorporating four-phonon scattering, WTE predicts average room-temperature $κ$ values of 0.31 Wm$^{-1}$K$^{-1}$ (TlAgSe) and 0.38 Wm$^{-1}$K$^{-1}$ (Cs$_2$PbI$_2$C$_2$), in excellent agreement with experiments. Phonon scattering-rate analysis reveals strong coherences' contributions and prevalent overdamped phonon modes, demonstrating the breakdown of the conventional BTE framework based on the phonon quasiparticle picture with only first-order anharmonic perturbation. This computational approach provides a unified description of heat transport in ultralow-$κ$ materials, offering a basis for the rational design of phononic and thermoelectric devices.",
+  "authors": [
+   "Soham Mandal",
+   "Ashutosh Srivastava",
+   "Tanmoy Das",
+   "Manish Jain",
+   "Abhishek Kumar Singh",
+   "Prabal K. Maiti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Soham Mandal",
+  "pdf_url": "http://arxiv.org/pdf/2608.21695",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-22",
+  "tags": [
+   "chalcogenides"
+  ],
+  "title": "Comparative Assessment of Thermal Transport Theories: Dual-Channel Mechanism Dictates Heat Transport in Ultralow-$κ$ Materials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-08-22"
+ },
+ "2608.21741": {
+  "abstract": "Polyethylene (PE) is one of the most commonly used synthetic polymers. While the synthesis and processing protocols for PE are well established, precise experimental assignment of microscopic structures at atomistic resolution (i.e., the position of each atom) remains largely limited to highly crystalline systems. This gap is often addressed via computer simulations using empirical interatomic potentials, which use approximate but efficient descriptions of interatomic interactions to reach the length and time scales needed to describe macromolecules. These empirical potentials typically perform well for bulk and/or collective properties but face challenges with chemical realism for complex systems, e.g., during reactive processes. In this work, we address this challenge by combining the computational efficiency of a deep potential (DP) machine-learning force field and the chemical realism of first-principles van der Waals (vdW) corrected hybrid density functional theory (DFT) enabled by a SeA high-throughput framework. Using this approach, we study the structure and dynamics of PE oligomers and polymers in an ethylene solvent under common high-pressure (supercritical) radical polymerization conditions. We found that the local solvation environment of radical-containing PE oligomers converges for chain lengths greater than (n~6), suggesting extensibility of our oligomer-trained MLFF to significantly longer polymers. We then confirmed the extensibility of these models to long PE chains by characterizing the molecular weight scaling of single-chain structure and dynamics, which showed classic good solvent behavior. Our PE MLFF retained a consistent level of fidelity and stability across a wide range of thermodynamic state points and chain lengths, at full atomistic resolution, therefore paving the way towards first-principles-based polymer structure and property prediction.",
+  "authors": [
+   "Bharatha K. Gunawardana",
+   "Teresa Shah",
+   "Bicha Azizova",
+   "Deepa Ranabhat",
+   "Yizhi Song",
+   "Akshath Shastri",
+   "Srinjoy Ghose",
+   "Thomas E. Gartner",
+   "Hsin-Yu Ko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 7 figures, and 1 table",
+  "first_author": "Bharatha K. Gunawardana",
+  "pdf_url": "http://arxiv.org/pdf/2608.21741",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-22",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-08-22"
+ },
+ "2608.21973": {
+  "abstract": "The nudged elastic band (NEB) method is a widely used algorithm for determining minimum energy paths and transition states in chemical reactions and phase transitions. In this work, we present the implementation of different NEB algorithm schemes in the CRYSTAL code, a quantum mechanical ab initio program for the calculation of electronic properties of condensed matter systems, based on Hartree-Fock and density functional theory. The use of a set of localized Gaussian-type functions to expand the wavefunction permits a very efficient evaluation of the exact exchange series for the hybrid exchange-correlation functionals. Therefore, our implementation allows an accurate characterization of transition states in both molecular and condensed phase systems, at the hybrid functional level of theory. The theoretical framework, including the force projection scheme, tangent estimation, optimization strategies, as well as the extensions of the method with climbing image and variable spring constant variants, is recalled. Then, the NEB algorithm is validated through a series of benchmark tests: two molecular reactions (a collinear proton transfer process and the keto-enol tautomerization in formamide) and a proton exchange process in a periodic chabazite zeolite. Our results are in excellent agreement with experimental and previous theoretical data, confirming the accuracy and applicability of the implementation. This work opens the possibility for future studies of complex reactive processes on extended periodic systems, using hybrid functionals.",
+  "authors": [
+   "Andreha Gelli",
+   "Silvia Casassa",
+   "Albert Rimola",
+   "Chiara Ribaldone"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Andreha Gelli",
+  "pdf_url": "http://arxiv.org/pdf/2608.21973",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-22",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "grotthuss",
+   "neb",
+   "phase-transitions"
+  ],
+  "title": "Nudged Elastic Band Method in the CRYSTAL code. Theory and Applications",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-22"
+ },
+ "2608.22074": {
+  "abstract": "Identifying atomic defects at elevated temperature is difficult because thermal fluctuations blur the local symmetry that both geometric heuristics and supervised classifiers rely on: trustworthy labels exist in low-temperature reference configurations, while the high-temperature regime where robust analysis matters most is effectively unlabeled. We cast this as a cross-temperature domain-shift problem and align the two domains at three levels: an equivariant denoiser at the input level, cross-temperature contrastive learning at the representation level, and a morphology-aware regularizer that steers predictions toward the compact geometry of physical defect structures. Because no atom-wise truth exists at temperature, we further introduce a label-free evaluation suite that scores predicted defect structures along five spatial and physics-based axes, enabling model assessment and selection without high-temperature labels. Near the melting point, the framework identifies vacancies and self-interstitial atoms across face-centered-cubic, body-centered-cubic, and hexagonal-close-packed iron systems with every interstitial localized and zero false detections in every vacancy system against Wigner-Seitz ground truth, with no high-temperature labels used in training. It sustains this fidelity on a million-atom, 2.5 ns trajectory, resolving single vacancy hops and complete Frenkel-pair recombination, and captures grain-boundary phase transformations in aluminum bicrystals, distinguishing two nucleation modes. Multi-level domain alignment thus offers a practical, label-efficient route to temperature-robust structural analysis of large-scale molecular dynamics.",
+  "authors": [
+   "Yating Fang",
+   "Jungmin Kim",
+   "Qian Qian Zhao",
+   "Pallavi Biswas",
+   "Joshua M. Gonjon",
+   "Ryan B. Sills",
+   "Ahmed Aziz Ezzat"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "46 pages, 8 figures",
+  "first_author": "Yating Fang",
+  "pdf_url": "http://arxiv.org/pdf/2608.22074",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-22",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Cross-Temperature Defect Identification in Atomistic Simulations via Multi-Level Domain Alignment",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-22"
+ },
+ "2608.22348": {
+  "abstract": "The origin of life is the first, arguably, the most important and also the most enigmatic major transition in evolution (MTE). As all MTE, the transition at the origin of life can be constructively addressed only within the conceptual framework of multilevel selection. The two levels of selection relevant for the origin of life are replicators, and reproducers, that is, compartments (protocells) capable of reproduction via a primitive form of division. The symbiotic model for the origin of life presented here posits that cellular life was preceded by protocells that harbored proto-metabolic networks but not genetic elements (replicators), Replicators could have started as selfish elements inside protocells selected only for replication efficiency, but subsequently, would evolve into mutualists such that the reproducer-replicator union became a new, collective unit of selection. Mathematical modeling of replicator-reproducer coevolution identifies the conditions under which replicator-carrying protocells can outcompete empty protocells. For the replicator-carrying protocells to and get fixed in evolution, replication has to be coupled with protocell division, selection for the highest replication rate being partially suppressed. At the earliest stages of evolution, random, stochastic protocell division was advantageous compared to symmetrical division. The multilevel selection perspective illuminates the likely order of key events on the evolutionary route from ensembles of chemicals to cells endowed with genomes, symmetrical cell division and anti-parasite defense systems.",
+  "authors": [
+   "Eugene V Koonin"
+  ],
+  "categories": [
+   "q-bio.PE"
+  ],
+  "comment": null,
+  "first_author": "Eugene V Koonin",
+  "pdf_url": "http://arxiv.org/pdf/2608.22348",
+  "primary_category": "q-bio.PE",
+  "published": "2026-08-23",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "The first major transition: Origin of life from a multilevel selection perspective",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-08-23"
+ },
+ "2608.22464": {
+  "abstract": "A first-principles description of noncollinear magnets is challenging, and the practical behavior of genuinely noncollinear exchange-correlation approximations is largely untested. Spin-current density-functional theory (SCDFT) admits noncollinear approximations constrained by local U(1)$\\times$SU(2) gauge invariance, an exact condition unavailable in the more restrictive framework of spin-DFT (SDFT). Using the Vienna ab initio simulation package (VASP), we compare two recently developed noncollinear SCDFT functionals, NCMSCAN and LFNCBR89-NCCS, against locally collinear SDFT extensions of four common functionals (PZ, PW92, PBE, and SCAN) for several noncollinear $d$-electron systems. The key finding is that among all tested functionals, only the SCDFT functionals recover the spin texture of the experimental ground state of NiS$_2$, and they do so at a cost comparable to standard semi-local approximations. Yet the two SCDFT functionals differ in equilibrium volumes, band gaps, and on-site magnetic moments. Overall, this survey illustrates the usefulness of SCDFT in capturing noncollinear physics with the tested approximations.",
+  "authors": [
+   "Marie-Therese Huebsch",
+   "Martijn Marsman",
+   "Jacques K. Desmarais",
+   "Stefano Pittalis",
+   "Fabien Tran"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Marie-Therese Huebsch",
+  "pdf_url": "http://arxiv.org/pdf/2608.22464",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-23",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "millerite",
+   "nickel-sulfides"
+  ],
+  "title": "A test drive for exchange-correlation functionals on noncollinear magnets: Mn$_3$Ir, Mn$_3$Ge, NiS$_2$, and YMnO$_3$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-23"
+ },
+ "2608.22925": {
+  "abstract": "Fock-space variational Monte Carlo (FS-VMC) evaluates variational quantities by stochastic sampling over discrete many-body configurations. For ab initio electronic Hamiltonians, Born distributions can differ markedly between systems, and a Markov chain that mixes well need not yield low-variance estimators. We introduce importance-reweighted FS-VMC (IR-FS-VMC), which leaves the variational objective unchanged while redesigning its Monte Carlo evaluation. An auxiliary distribution and Hamiltonian-guided proposal define the Markov chain, while an evaluation Markov kernel defines an analytically tractable evaluation distribution. Self-normalized importance reweighting then recovers the Born-distribution expectations entering the energy, gradient, and stochastic reconfiguration (SR) matrix. Controlled comparisons on equilibrium H2O and Fe2S2 separate Markov-chain acceptance from local-energy fluctuations and optimization behavior. Using one production protocol, calculations for H2O dissociation, 36-site hydrogen lattices, and Fe2S2 and Fe4S4 active spaces yield accurate variational energies across different Born distributions and electronic-correlation regimes. Together, these results show that the production protocol can support robust FS-VMC optimization across the electronic-structure regimes studied here.",
+  "authors": [
+   "Zheng Che"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.str-el",
+   "quant-ph"
+  ],
+  "comment": "8 pages, 3 figures",
+  "first_author": "Zheng Che",
+  "pdf_url": "http://arxiv.org/pdf/2608.22925",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-24",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Importance-Reweighted Fock-Space Variational Monte Carlo",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.23227": {
+  "abstract": "Ion transport in crystalline hosts is controlled by an applied potential that simultaneously sets ionic distribution and transport rate, restricting operation to a one-dimensional control space. Here we show that the transport rate of Li+ ions in double-gated van der Waals devices can be modulated while the system occupies fixed ionic-density states. We measure the ionic current along the van der Waals interface between hexagonal boron nitride and graphene or MoS2 while simultaneously monitoring the in-plane electronic response. The ionic current exhibits pronounced hysteresis, with plateaus marking discrete ionic-density states balanced by electronic charge, while an independently tuneable electrochemical-potential drop controls the ionic transport rate. The devices sustain over 1,000 switching cycles and function as hybrid ionic-electronic transistors capable of logic operations and memory retention, with ON/OFF ratios exceeding two orders of magnitude. This work demonstrates a two-dimensional control space for ion transport in layered materials, opening new operating regimes for energy storage and ion-based computing.",
+  "authors": [
+   "E. Hoenig",
+   "X. Zhang",
+   "C. Li",
+   "J. Tong",
+   "G. Chen",
+   "L. Chen",
+   "D. Domaretskiy",
+   "D. R. da Costa",
+   "F. M. Peeters",
+   "M. Lozada-Hidalgo"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "E. Hoenig",
+  "pdf_url": "http://arxiv.org/pdf/2608.23227",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-08-24",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Electrostatic control of Li+ density and transport rate in double-gated van der Waals devices",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-24"
  }
 }
