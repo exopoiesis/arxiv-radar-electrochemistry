@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">483 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2912,23 +2912,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01454.html">Perturbatively corrected ring-polymer instanton rate theory rigorously captures anharmonicity and deep tunneling</a></div></td>
 <td>Jindra Dušek et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01454">2509.01454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00307.html">Free-carrier screening unlocks high electron mobility in ultrawide bandgap semiconductor CaSnO$_3$</a></div></td>
-<td>Jiayi Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00307">2509.00307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00322.html">Insights into the Structure and Dynamics of Water at Co$_3$O$_4$(001) Using a High-Dimensional Neural Network Potential</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00322">2509.00322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00498.html">&quot;One defect, one potential&quot; strategy for accurate machine learning prediction of defect phonons</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Junjie Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00498">2509.00498</a></td>
 </tr>
 </tbody></table>

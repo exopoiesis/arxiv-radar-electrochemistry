@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>grotthuss — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="grotthuss-7d.html">7d</a> <a href="grotthuss-30d.html">30d</a> <a href="grotthuss-90d.html">90d</a> <strong>360d</strong> <a href="grotthuss-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13727.html">Ion-modulated structure, proton transfer, and capacitance in the Pt(111)/water electric double layer</a></div><div class="paper-tags"><a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Xiaoyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13727">2509.13727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00322.html">Insights into the Structure and Dynamics of Water at Co$_3$O$_4$(001) Using a High-Dimensional Neural Network Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00322">2509.00322</a></td>
 </tr>
 </tbody></table>

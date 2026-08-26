@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-08-25._
+_Updated 2026-08-26._
 
-**3409** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3412** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24141.html">Neutron scattering evidence for two-dimensionally coupled spin-dimerized antiferromagnetic lattice in α-Cu2P2O7</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>B. Ghanta et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24141">2608.24141</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24655.html">Efficient, precise DFT calculations of NMR shieldings: Revisiting the finite field approach</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Xiao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24655">2608.24655</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22925.html">Importance-Reweighted Fock-Space Variational Monte Carlo</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
@@ -27,6 +39,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23227.html">Electrostatic control of Li+ density and transport rate in double-gated van der Waals devices</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
 <td>E. Hoenig et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23227">2608.23227</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23865.html">Wide-Field Opto-Iontronic iSCAT Mapping of Interfacial Charging and Electrical Connectivity</a></div><div class="paper-tags"><a href="tag/electric-double-layer-30d.html">electric-double-layer</a> · <a href="tag/electrochemical-interfaces-30d.html">electrochemical-interfaces</a></div></td>
+<td>Zhu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23865">2608.23865</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-23</td>
@@ -177,23 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17814.html">Electron transport in amorphous materials: from localization to predictive transport modeling</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Yeonghun Lee</td>
 <td><a href="http://arxiv.org/abs/2608.17814">2608.17814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17867.html">Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Vrindaa Somjit et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17867">2608.17867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17984.html">High-Harmonicity Planar Penning Traps for Single-Electron Qubits</a></div></td>
-<td>Kedar Mal et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17984">2608.17984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/proton-diffusion-30d.html">proton-diffusion</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Kazuma Ito</td>
-<td><a href="http://arxiv.org/abs/2608.16652">2608.16652</a></td>
 </tr>
 </tbody></table>

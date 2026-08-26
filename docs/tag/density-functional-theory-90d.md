@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">185 papers</span>
+  <span class="paper-count">181 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24141.html">Neutron scattering evidence for two-dimensionally coupled spin-dimerized antiferromagnetic lattice in α-Cu2P2O7</a></div></td>
+<td>B. Ghanta et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24141">2608.24141</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24655.html">Efficient, precise DFT calculations of NMR shieldings: Revisiting the finite field approach</a></div></td>
+<td>Xiao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24655">2608.24655</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22464.html">A test drive for exchange-correlation functionals on noncollinear magnets: Mn$_3$Ir, Mn$_3$Ge, NiS$_2$, and YMnO$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="millerite-90d.html">millerite</a> · <a href="nickel-sulfides-90d.html">nickel-sulfides</a></div></td>
@@ -1088,41 +1100,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30270.html">Exploring the Origins of Anti-Ambipolarity in BBL Polymer: Links to Redox Chemistry, Electronic Structure, and Structural Dynamics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Maryam Ghotbi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30270">2605.30270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27983.html">Effect of Vacancies on Hydrogen Mobility and Trapping in Elemental Fe and Cr: A DFT and kMC Study</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Vallinathan K et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27983">2605.27983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28395.html">Can MACE Potentials Accurately Describe Magnetism and Phase Stability in Fe-Ni Alloys? A Systematic Benchmark</a></div><div class="paper-tags"><a href="dft-u-90d.html">dft-u</a> · <a href="mace-90d.html">mace</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Kushal Ramakrishna et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28395">2605.28395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28743.html">Universal Stability of Ga Split Vacancies across α-, β-, and κ-Ga2O3 Polymorphs: A Machine-Learning Accelerated Study</a></div><div class="paper-tags"><a href="phase-stability-90d.html">phase-stability</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Mohamed Abdelilah Fadla et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28743">2605.28743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28798.html">How reproducible are first-principles simulations of liquid water?</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Niamh ONeill et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28798">2605.28798</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Laurence I. Midgley et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29029.html">Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
-<td>Dereje Bekele Tekliye et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29029">2605.29029</a></td>
 </tr>
 </tbody></table>

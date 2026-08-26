@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mace — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <strong>90d</strong> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,17 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29969.html">Prototype-Guided Latent Alignment for Data-Efficient Fine-Tuning of Molecular Foundation Models</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Rushikesh Pawar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29969">2605.29969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28395.html">Can MACE Potentials Accurately Describe Magnetism and Phase Stability in Fe-Ni Alloys? A Systematic Benchmark</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Kushal Ramakrishna et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28395">2605.28395</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28905.html">DFT Accuracy on Crystal Structure Prediction with Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Laurence I. Midgley et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28905">2605.28905</a></td>
 </tr>
 </tbody></table>

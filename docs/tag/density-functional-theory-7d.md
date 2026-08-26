@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24141.html">Neutron scattering evidence for two-dimensionally coupled spin-dimerized antiferromagnetic lattice in α-Cu2P2O7</a></div></td>
+<td>B. Ghanta et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24141">2608.24141</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24655.html">Efficient, precise DFT calculations of NMR shieldings: Revisiting the finite field approach</a></div></td>
+<td>Xiao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24655">2608.24655</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22464.html">A test drive for exchange-correlation functionals on noncollinear magnets: Mn$_3$Ir, Mn$_3$Ge, NiS$_2$, and YMnO$_3$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="millerite-7d.html">millerite</a> · <a href="nickel-sulfides-7d.html">nickel-sulfides</a></div></td>
 <td>Marie-Therese Huebsch et al.</td>
@@ -80,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19116.html">JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Denis Blessing et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19116">2608.19116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17786.html">Polarization-Dependent Raman Selection Rules in Sb$_2$S$_3$ from First Principles and Experiment</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
-<td>Tobias Dierke et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17786">2608.17786</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17867.html">Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Vrindaa Somjit et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17867">2608.17867</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neb — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <a href="neb-30d.html">30d</a> <strong>90d</strong> <a href="neb-360d.html">360d</a> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,23 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31144.html">A Self-Evolving Machine-Learning-Based Kinetic Monte Carlo Method for Modelling Thin-Film Growth</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Jyri Kimari et al.</td>
 <td><a href="http://arxiv.org/abs/2605.31144">2605.31144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27060.html">Molecular Dynamics Study of Defect Evolution Mechanisms in 3C-SiC for Quantum Technologies</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Irslan Ullah Ashraf et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27060">2605.27060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27983.html">Effect of Vacancies on Hydrogen Mobility and Trapping in Elemental Fe and Cr: A DFT and kMC Study</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Vallinathan K et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27983">2605.27983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29029.html">Geometry-based Discovery of Calcium Battery Cathodes Accelerated by Foundational Machine-Learned Models</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Dereje Bekele Tekliye et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29029">2605.29029</a></td>
 </tr>
 </tbody></table>
