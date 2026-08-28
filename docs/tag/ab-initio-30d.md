@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Z. S. Machavariani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22925.html">Importance-Reweighted Fock-Space Variational Monte Carlo</a></div></td>
@@ -68,6 +74,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="neb-30d.html">neb</a> · <a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Xiwen Gai et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Victor M. S. da Conceição et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-16</td>

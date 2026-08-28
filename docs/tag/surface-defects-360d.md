@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surface-defects — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="surface-defects-7d.html">7d</a> <a href="surface-defects-30d.html">30d</a> <a href="surface-defects-90d.html">90d</a> <strong>360d</strong> <a href="surface-defects-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Reza Khakpour et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22992.html">Role of $p$-$d$ Hybridization on Optical Properties of Chalcopyrite Semiconductors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcopyrite-360d.html">chalcopyrite</a></div></td>

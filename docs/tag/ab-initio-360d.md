@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">484 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Z. S. Machavariani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22925.html">Importance-Reweighted Fock-Space Variational Monte Carlo</a></div></td>
@@ -68,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a> · <a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Xiwen Gai et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Victor M. S. da Conceição et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-16</td>
@@ -2906,11 +2918,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Márton Guba et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01454.html">Perturbatively corrected ring-polymer instanton rate theory rigorously captures anharmonicity and deep tunneling</a></div></td>
-<td>Jindra Dušek et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01454">2509.01454</a></td>
 </tr>
 </tbody></table>

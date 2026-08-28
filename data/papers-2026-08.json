@@ -2915,5 +2915,252 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-08-25"
+ },
+ "2608.24925": {
+  "abstract": "Molecular self-assembly on solid surfaces has been the subject of extensive research, motivated by both fundamental and technological interests. On the fundamental side, these studies seek to elucidate the mechanisms governing molecular self-assembly and the resulting surface structures. From an applied perspective, they provide a route toward controlling surface reactions and engineering molecular electronic devices. Here, based on first-principles density functional theory calculations, we present a comprehensive study of self-assembled molecular wires (MWs), composed of graphyne (GY(1D)) and graphdiyne (GYD(1D))-like structures, adsorbed on Au(111), Ag(111), and Al(111) surfaces. Our total-energy calculations reveal that non-aligned MW arrays are energetically preferred on all three metal substrates. The GY(1D) and GYD(1D) molecular wires interact with the metal surfaces through van der Waals (vdW) forces, while their molecular orbitals do not contribute to the formation of metallic interface states. Simulated X-ray photoelectron spectroscopy (XPS) spectra reveal that the C 1s spectral features of the molecular wires are largely preserved upon adsorption, while the absolute binding energies undergo a substantial downshift that is nearly independent of the metal substrate, indicating that metallic screening effects dominate the adsorption-induced core-level shifts. Electronic band-structure calculations further show that the semiconducting character of the molecular wires is retained, resulting in vdW metal-semiconductor heterostructures in which the semiconducting component consists of one-dimensional semiconducting channels. These findings demonstrate that self-assembled graphyne- and graphdiyne-based molecular wires on metal surfaces provide a promising platform for the realization of low-dimensional molecular electronic devices.",
+  "authors": [
+   "Victor M. S. da Conceição",
+   "Dominike Pacine",
+   "Juliana M. Morbec",
+   "Roberto H. Miwa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Victor M. S. da Conceição",
+  "pdf_url": "http://arxiv.org/pdf/2608.24925",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-18",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.25592": {
+  "abstract": "Inorganic solid-state electrolytes must combine high room-temperature ionic conductivity, a wide electrochemical window, excellent electronic insulation, and favorable mechanical compliance. Single models struggle to support reliable multi-objective screening across vast chemical spaces because of training-data distribution mismatch, cross-property dataset heterogeneity, and scarce kinetic transport data. To overcome these limitations, we develop a hierarchical synergistic deep-learning framework that sequentially coordinates efficiency, accuracy, and reliability through four complementary modules. The in-house-developed L-G-DCNN and a multi-fidelity implementation built on DenseGNN serve as compositional and structural experts for thermodynamic coarse screening and multi-property evaluation, respectively; MatterSim and system-specific DeePMD models provide transport pre-assessment and kinetic validation. Systematic benchmarks show that each module outperforms mainstream counterparts in its task, while retrospective validation establishes dual closed-loop verification of module-level accuracy and end-to-end workflow reliability. Applied to 30,364,908 Alex/ICSD-derived candidates, the framework identifies 97 high-performance candidates with room-temperature ionic conductivities of 0.109--59.0 mS/cm, including 94 halides, one borohydride, and two oxides. Consistency with independent experimental data confirms that 76 of the 94 halides fall within reported high-conductivity structural regions. Analysis reveals that Li$^{+}$ jump-network connectivity, rather than the number of geometric Li sites, is the core determinant of room-temperature ionic conductivity. Li-defect engineering effectively enhances oxide transport, whereas the inherent rigidity of the O$^{2-}$ framework suggests a potential upper limit on oxide electrolyte performance.",
+  "authors": [
+   "Hongwei Du",
+   "Dingyang Lv",
+   "Baole Wei",
+   "Yongheng Li",
+   "Feng Yu",
+   "Ziheng Lu",
+   "Siqi Shi",
+   "Hong Wang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "22 pages, 8 figures, 1 table",
+  "first_author": "Hongwei Du",
+  "pdf_url": "http://arxiv.org/pdf/2608.25592",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "A Hierarchical Synergistic Deep Learning Framework Integrating Composition, Structure, and Ionic Transport for Solid-State Electrolyte Discovery",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25640": {
+  "abstract": "Defect engineering can transform inert two-dimensional (2D) materials into chemically active and electronically tunable platforms by creating anchoring sites for metal atoms and clusters. Nevertheless, precise control over the formation, thermodynamic and kinetic stability, electronic structure, and chemical reactivity of metal species confined at these defect sites remains a challenge. Here, we use density functional theory (DFT) calculations assisted by machine-learning molecular dynamics (MLMD) simulations to elucidate the stability, electronic structure, and reactivity of Cu clusters anchored at boron vacancies (VB) in hBN/SiC heterostructures. Systematic variation of the Cu-to-vacancy ratio reveals a transition from isolated Cu atoms to multiatom Cu clusters at VB sites, with cluster growth reshaping the stability, electronic structure, and surface reactivity. Our results show that a single VB defect can be passivated by three Cu atoms, which compensate the local charge deficiency and stabilize the defect through Cu-N coordination. Capturing further Cu introduces localized midgap states that could influence the reactivity of the Cu-decorated defect sites. We probe the response of the Cu-decorated surface to chemically relevant gases CO, H2, O2, N2, H2S, and CO2, revealing implications for surface reactivity and stability. The calculations show pronounced cluster-size-dependent reactivity of Cu clusters at VB sites, with CO forming strong Cu-C bonds and O2 undergoing enhanced adsorption and molecular activation. Overall, this work identifies defect-engineered hBN/SiC as a versatile 2D platform for stabilizing Cu clusters and tuning gas-surface reactivity. By correlating Cu nuclearity at VB sites with electronic structure, molecular activation, and environmental robustness, our findings provide design guidelines for nuclearity-dependent metal functionalization of 2D heterostructures.",
+  "authors": [
+   "Reza Khakpour",
+   "Arsalan Hashemi",
+   "Xiaoya Chang",
+   "Nima Ghafari Cherati",
+   "Mikko Karttunen",
+   "Tapio Ala-Nissila"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Reza Khakpour",
+  "pdf_url": "http://arxiv.org/pdf/2608.25640",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-26",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "molecular-dynamics",
+   "surface-defects",
+   "vacancies"
+  ],
+  "title": "Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25795": {
+  "abstract": "The Concordia micrometeorite collection contains UltraCarbonaceous Antarctic MicroMeteorites (UCAMMs) of probable cometary origin. Eight FIB sections of UCAMMs were studied by Scanning Transmission X-ray Microscopy - X-ray Absorption Near Edge Structure and (Scanning)Transmission Electronic Microscopy. Three different phases of organic matter (OM) exist in UCAMMs and small mineral aggregates are distributed in the OM. Two OMs share spectral features with those of insoluble organic matter (IOM) of carbonaceous chondrites and of cometary grains returned by the Stardust mission. The third OM is N-rich (N/C at. ratios up to 0.22) and has only a few equivalents in extraterrestrial OM analyzed so far, such as in cometary particles collected during the Stardust mission, Interplanetary Dust Particles (IDPs) and UCAMMs collected near the Dome Fuji Station. This N-rich OM could have formed by irradiation of N-rich ices in the outer regions of the protoplanetary disk. UCAMMs contain variable amounts of minerals, consisting of crystalline Mg-rich silicates, Fe(Ni) sulfides and Fe oxides, which can be cemented in a Si-rich groundmass. Hypocrystalline mineral assemblages are also observed. Glassy phases showing morphological resemblance to GEMS are also found in some UCAMMs. This mineralogy is mainly consistent with that of previous UCAMM analyses, and is close to what is observed in Chondritic Porous IDPs, which are also considered as cometary dust particles. A mineral exhibiting a phyllosilicate texture has been observed in this work, and raises the question of the possibility of aqueous alteration on comets. Overall, UCAMMs' mineralogical and organic characterization implies a complex formation history of UCAMMs, and the presence of large-scale radial mixing in the early solar system, to transport their mineral components to the outer parts of the protoplanetary disk.",
+  "authors": [
+   "B. Guérin",
+   "C. Engrand",
+   "C. Le Guillou",
+   "H. Leroux",
+   "E. Dartois",
+   "J. Duprat",
+   "S. Bernard",
+   "K. Benzerara",
+   "L. Delauche",
+   "D. Troadec"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": null,
+  "first_author": "B. Guérin",
+  "pdf_url": "http://arxiv.org/pdf/2608.25795",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "STXM-XANES and TEM analysis of UltraCarbonaceous Antarctic MicroMeteorites (UCAMMs)",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26314": {
+  "abstract": "Steering-based planners require solutions to state-to-state boundary value problems, which can be inaccessible for nonlinear platforms. Forward propagation evades the steering requirement, but the finite-sample behavior of the associated planners remains uncharacterized and their implementations underperform in practice. This paper develops a propagation-based kinodynamic planner with deterministic finite-sample near-optimality guarantees. We work within the large class of differentially flat nonlinear systems and show that a forward tree of locally dispersive control commands contains a near-optimal trajectory at a certified tree size. We provide a general mechanism to construct dispersive command sets for control-affine systems, which are necessary to implement the search algorithm prescribed by the theory. We show that covering the certified trajectory class irrespective of cost provably demands a tree exponentially sized in the problem horizon, and present a cost-conditioned dominance pruning procedure that retains near-optimality at a tree size polynomial in the horizon. We implement the resulting search algorithm, Dispersive Forward Tree search (DFT*), as breadth-first expansion of the forward tree, which maps naturally onto parallel hardware. We design efficient dispersive samplers for the unicycle, the trailer car, and the quadrotor and evaluate challenging planning tasks for these platforms. DFT* delivers consistently competitive and often substantially better solution quality than state-of-the-art kinodynamic planners at comparable solution times on embedded-tier processors, accelerating further as parallel compute is scaled. We also implement DFT* in a receding-horizon loop to demonstrate real-time planning in dynamic environments at embedded-tier compute budgets.",
+  "authors": [
+   "Shashank A. Deshpande",
+   "Jonathan P. How"
+  ],
+  "categories": [
+   "cs.RO",
+   "math.OC"
+  ],
+  "comment": "28 pages. Code: https://github.com/croshank/DFTSearch",
+  "first_author": "Shashank A. Deshpande",
+  "pdf_url": "http://arxiv.org/pdf/2608.26314",
+  "primary_category": "cs.RO",
+  "published": "2026-08-26",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26320": {
+  "abstract": "Primitive meteorites (chondrites) consist of an out-of-equilibrium assemblage of minerals formed during the assembling of our Solar Nebula. The conditions under which their precursors condensed remain unclear as a result of subsequent re-processing in the protoplanetary disk or in asteroidal parent bodies. Chondrites are classified into three main classes enstatite (EC), ordinary (OC), and carbonaceous (CC) distinguished by different bulk composition and oxidation state. While equilibrium condensation models explain the composition of some of their refractory components they do not explain the emergence of three mineralogical classes. Moreover, the low pressures, steep temperature gradients, and short dynamical transport timescales in forming protoplanetary disks likely hindered equilibrium. Here we test the hypothesis that chondrite precursors formed via kinetic non-equilibrium condensation. Using a new time-dependent condensation model, we show that varying the cooling rate and pressure produce only three types of mineralogies. Departure from equilibrium yields increasingly oxidized and hydrous mineralogies. When projected into a Urey-Craig diagram, the predicted mineralogical types fall close to the redox states of EC, OC, and CC chondrites. These results suggest that the mineralogical diversity of chondrites may reflect, in part, local condensation kinetics, offering an alternative to large-scale variations of oxidation conditions.",
+  "authors": [
+   "Sebastien Charnoz",
+   "Jérome Aleon",
+   "Marc Chaussidon",
+   "Paolo Sossi",
+   "Yves Marrocchi",
+   "Patrick Franco"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted for publication in NATURE",
+  "first_author": "Sebastien Charnoz",
+  "pdf_url": "http://arxiv.org/pdf/2608.26320",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "Non-equilibrium condensation of the first Solar System solids",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26977": {
+  "abstract": "We present a first-principles density functional theory study of substitutional Ga incorporation in an $α$-Al$_2$O$_3$-derived host, isolating chemical embedding effects without explicit geometric quantum confinement. Using a 30-atom $α$-Al$_2$O$_3$ supercell with two substituted Ga atoms, we examine three nonequivalent Ga-pair configurations and combine configuration-dependent energetics, local structural analysis, Ga-centered distortion metrics, and electronic-structure calculations.% to establish the relationship between local coordination distortion and band-edge modification. The energetically preferred configuration is governed not solely by Ga--O bond expansion but by the ability of the host lattice to accommodate bond-length and angular distortions around substituted Ga centers. Ga incorporation narrows the band gap relative to pristine $α$-Al$_2$O$_3$ without generating mid-gap states, primarily modifying the conduction-band manifold while preserving the oxygen-dominated valence edge. Band-edge charge densities and charge-density-difference maps show that the electronic response remains localized around the Ga-centered coordination environment. These results establish a chemically resolved baseline for understanding Ga incorporation in ultrawide-band-gap oxides and for future studies of confinement and interface effects in Ga-containing oxide nanostructures.",
+  "authors": [
+   "Z. S. Machavariani",
+   "R. Ya. Kezerashvili",
+   "T. Tchelidze"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 8 figures",
+  "first_author": "Z. S. Machavariani",
+  "pdf_url": "http://arxiv.org/pdf/2608.26977",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-27",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.27273": {
+  "abstract": "Grain-boundary segregation and thermally induced interfacial disordering were investigated in four high-entropy transition metal carbides using Monte Carlo (MC) sampling and molecular dynamics (MD) with the universal MACE-OMAT-0 machine-learning interatomic potential. MC sampling segregated the group-VI element (Cr, Mo, or W) and Zr to grain boundaries, where the group-VI content reached approximately 45 at.%, consistent with STEM-EDS observations. During MD heating, the grain-boundary Lindemann index, a normalized measure of interatomic distance fluctuations, reached the liquid-like threshold of $δ=0.15$ near $1390^{\\circ}\\mathrm{C}$ for the Cr-containing carbides, $1660^{\\circ}\\mathrm{C}$ for Mo, and $1890^{\\circ}\\mathrm{C}$ for W, while the grain interiors remained below the threshold. A chemically random (Cr,Hf,Ta,Ti,Zr)C reference crossed about $60^{\\circ}\\mathrm{C}$ later and showed less boundary-localized disorder, highlighting the role of interfacial chemistry in premelting. Species-resolved displacements showed enhanced grain-boundary mobility, particularly for carbon. Overall, Cr-rich interfaces showed the earliest and most extensive premelting-like response, followed by Mo- and W-containing boundaries.",
+  "authors": [
+   "Marium M. Mou",
+   "Caleb Schenck",
+   "Samuel E. Daigle",
+   "William G. Fahrenholtz",
+   "Bharat Gwalani",
+   "Stefano Curtarolo",
+   "Donald W. Brenner"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 6 figures",
+  "first_author": "Marium M. Mou",
+  "pdf_url": "http://arxiv.org/pdf/2608.27273",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-27",
+  "tags": [
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Grain-Boundary Premelting in High-Entropy Transition Metal Carbides",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.27314": {
+  "abstract": "Dislocation-grain boundary (GB) interactions govern the mechanical response of polycrystalline materials by controlling dislocation absorption, transmission, and interfacial plasticity. While disconnection climb is conventionally understood to require the absorption or emission of point defects supplied through long range bulk diffusion, GBs possess intrinsic configurational degrees of freedom associated with their atomic structure, or microstate, that may provide an alternative mechanism. Here, using bicrystallography and molecular dynamics simulations, we investigate the interaction of shear dislocation loops with the [1 1 0](-5 5 14) symmetric tilt grain boundary in Al. We show that dislocation absorption generates a mobile extrinsic disconnection with a nonzero climb component that propagates conservatively along the interface without long-range bulk point-defect transport. Its motion is accompanied by a localized GB phase transformation mediated by cooperative atomic rearrangements within the GB core, producing successive metastable GB microstates. These findings establish a direct coupling between lattice dislocations and GB phase evolution and reveal a conservative mechanism for disconnection climb fundamentally distinct from conventional vacancy-mediated climb.",
+  "authors": [
+   "Md Sharier Nazim",
+   "Giacomo Po",
+   "Nikhil Chandra Admal"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Md Sharier Nazim",
+  "pdf_url": "http://arxiv.org/pdf/2608.27314",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-27",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-08-27"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Z. S. Machavariani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="surface-defects-90d.html">surface-defects</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Reza Khakpour et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26314.html">Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation</a></div></td>
+<td>Shashank A. Deshpande et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26314">2608.26314</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24141.html">Neutron scattering evidence for two-dimensionally coupled spin-dimerized antiferromagnetic lattice in α-Cu2P2O7</a></div></td>
@@ -104,6 +122,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17867.html">Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Vrindaa Somjit et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17867">2608.17867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a></div></td>
+<td>Victor M. S. da Conceição et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-17</td>
@@ -1052,23 +1076,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00794.html">Benchmark Dataset for Catalysis on 2D MXenes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Pavlo Melnyk et al.</td>
 <td><a href="http://arxiv.org/abs/2606.00794">2606.00794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31203.html">Rigorous extension of semilocal collinear functionals to noncollinear DFT using $SU(2)$ rotations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Konstantin Gaul</td>
-<td><a href="http://arxiv.org/abs/2605.31203">2605.31203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00264.html">Co-adsorption mechanism drives CO oxidation on defective ZnS</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
-<td>P. R. A. de Oliveira et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00264">2606.00264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00337.html">Imaging the Magnetically Driven Reconstruction of the Electronic States in the Antiferromagnetic Topological Insulator EuSn$_2$As$_2$</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Luka Khizanishvili et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00337">2606.00337</a></td>
 </tr>
 </tbody></table>

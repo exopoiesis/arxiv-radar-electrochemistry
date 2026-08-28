@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Z. S. Machavariani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22925.html">Importance-Reweighted Fock-Space Variational Monte Carlo</a></div></td>
 <td>Zheng Che</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21333.html">Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
 <td>Zafar Sadik Mehrub et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21333">2608.21333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
-<td>Yuxuan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
 </tr>
 </tbody></table>

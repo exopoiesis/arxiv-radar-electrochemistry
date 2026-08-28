@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Z. S. Machavariani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22925.html">Importance-Reweighted Fock-Space Variational Monte Carlo</a></div></td>
 <td>Zheng Che</td>
@@ -68,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="neb-90d.html">neb</a> · <a href="phase-stability-90d.html">phase-stability</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Xiwen Gai et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Victor M. S. da Conceição et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-16</td>
@@ -686,17 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00794.html">Benchmark Dataset for Catalysis on 2D MXenes</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Pavlo Melnyk et al.</td>
 <td><a href="http://arxiv.org/abs/2606.00794">2606.00794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31203.html">Rigorous extension of semilocal collinear functionals to noncollinear DFT using $SU(2)$ rotations</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Konstantin Gaul</td>
-<td><a href="http://arxiv.org/abs/2605.31203">2605.31203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31447.html">Strain-Engineered s-C$_3$N$_6$ Monolayer for Efficient Water Splitting: A first-principles study</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2605.31447">2605.31447</a></td>
 </tr>
 </tbody></table>

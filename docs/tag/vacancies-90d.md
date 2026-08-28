@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vacancies — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <strong>90d</strong> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27314.html">Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Md Sharier Nazim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27314">2608.27314</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="surface-defects-90d.html">surface-defects</a></div></td>
+<td>Reza Khakpour et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22074.html">Cross-Temperature Defect Identification in Atomistic Simulations via Multi-Level Domain Alignment</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -260,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Jonathan S. Evarts et al.</td>
 <td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00337.html">Imaging the Magnetically Driven Reconstruction of the Electronic States in the Antiferromagnetic Topological Insulator EuSn$_2$As$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Luka Khizanishvili et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00337">2606.00337</a></td>
 </tr>
 </tbody></table>

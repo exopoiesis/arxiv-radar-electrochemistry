@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27273.html">Grain-Boundary Premelting in High-Entropy Transition Metal Carbides</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Marium M. Mou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27273">2608.27273</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27314.html">Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Md Sharier Nazim et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27314">2608.27314</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="surface-defects-90d.html">surface-defects</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Reza Khakpour et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22074.html">Cross-Temperature Defect Identification in Atomistic Simulations via Multi-Level Domain Alignment</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Yating Fang et al.</td>
@@ -644,23 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Ying You et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30764.html">Crystal Dislocations as Atomic Scale Ratchets</a></div></td>
-<td>Wu-Rong Jian et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30764">2605.30764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31447.html">Strain-Engineered s-C$_3$N$_6$ Monolayer for Efficient Water Splitting: A first-principles study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2605.31447">2605.31447</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00403.html">Microscopic origin of polytype-dependent melting in SiC revealed by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Ljiljana Stojanović et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00403">2606.00403</a></td>
 </tr>
 </tbody></table>

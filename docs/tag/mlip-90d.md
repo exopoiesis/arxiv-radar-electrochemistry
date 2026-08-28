@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27273.html">Grain-Boundary Premelting in High-Entropy Transition Metal Carbides</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Marium M. Mou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27273">2608.27273</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19041.html">Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -188,23 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00794.html">Benchmark Dataset for Catalysis on 2D MXenes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
 <td>Pavlo Melnyk et al.</td>
 <td><a href="http://arxiv.org/abs/2606.00794">2606.00794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30889.html">MLIPilot: LLM-Driven Auto-Research for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a></div></td>
-<td>Etinosa Osaro et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30889">2605.30889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.31144.html">A Self-Evolving Machine-Learning-Based Kinetic Monte Carlo Method for Modelling Thin-Film Growth</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
-<td>Jyri Kimari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.31144">2605.31144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00403.html">Microscopic origin of polytype-dependent melting in SiC revealed by machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ljiljana Stojanović et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00403">2606.00403</a></td>
 </tr>
 </tbody></table>

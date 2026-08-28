@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">825 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Z. S. Machavariani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26977">2608.26977</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="surface-defects-360d.html">surface-defects</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Reza Khakpour et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26314.html">Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation</a></div></td>
+<td>Shashank A. Deshpande et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26314">2608.26314</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24141.html">Neutron scattering evidence for two-dimensionally coupled spin-dimerized antiferromagnetic lattice in α-Cu2P2O7</a></div></td>
@@ -104,6 +122,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17867.html">Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Vrindaa Somjit et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17867">2608.17867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a></div></td>
+<td>Victor M. S. da Conceição et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-17</td>
@@ -4940,11 +4964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02468.html">Experimental electronic structure of the mineral superconductor covellite CuS</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Alexandre Antezak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02468">2509.02468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.10954.html">Interactive Multiscale Modeling to Bridge Atomic Properties and Electrochemical Performance in Li-CO$_2$ Battery Design</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mohammed Lemaalem et al.</td>
-<td><a href="http://arxiv.org/abs/2501.10954">2501.10954</a></td>
 </tr>
 </tbody></table>
