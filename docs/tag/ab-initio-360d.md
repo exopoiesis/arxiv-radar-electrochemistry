@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">482 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2906,17 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10100.html">Cavity Born-Oppenheimer Coupled Cluster Theory: Towards Electron Correlation in the Vibrational Strong Light-Matter Coupling Regime</a></div><div class="paper-tags"><a href="implicit-solvation-360d.html">implicit-solvation</a></div></td>
 <td>Eric W. Fischer</td>
 <td><a href="http://arxiv.org/abs/2507.10100">2507.10100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02206.html">Theoretical calculation of finite-temperature X-ray absorption fine structure: application to sodium K-edge in NaCl</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Philipp Hönicke et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02206">2509.02206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Márton Guba et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
 </tr>
 </tbody></table>

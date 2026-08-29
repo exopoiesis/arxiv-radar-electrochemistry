@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>co2-reduction — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <strong>360d</strong> <a href="co2-reduction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09357.html">Enhancing Oxygen Reduction Reaction on Pt-Based Electrocatalysts through Surface Decoration for Improved OH Reduction Equilibrium and Reduced H2O Adsorption</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Yu-Jun Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09357">2509.09357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02318.html">Electrode Potential Dependent Differential Capacitance in Electrocatalysis: a Novel, Ab Initio Computational Approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Márton Guba et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02318">2509.02318</a></td>
 </tr>
 </tbody></table>

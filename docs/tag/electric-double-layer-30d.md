@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electric-double-layer — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <strong>30d</strong> <a href="electric-double-layer-90d.html">90d</a> <a href="electric-double-layer-360d.html">360d</a> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23865.html">Wide-Field Opto-Iontronic iSCAT Mapping of Interfacial Charging and Electrical Connectivity</a></div><div class="paper-tags"><a href="electrochemical-interfaces-30d.html">electrochemical-interfaces</a></div></td>
 <td>Zhu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23865">2608.23865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27513.html">Nanobubbles, pristine emulsions, high ionic strength electrokinetics -- paradoxes of Colloid and Interface Science</a></div></td>
-<td>Andrei Dukhin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27513">2607.27513</a></td>
 </tr>
 </tbody></table>

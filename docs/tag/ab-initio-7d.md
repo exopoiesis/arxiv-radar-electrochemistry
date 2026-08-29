@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21973.html">Nudged Elastic Band Method in the CRYSTAL code. Theory and Applications</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="grotthuss-7d.html">grotthuss</a> · <a href="neb-7d.html">neb</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
 <td>Andreha Gelli et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21973">2608.21973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21333.html">Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
-<td>Zafar Sadik Mehrub et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21333">2608.21333</a></td>
 </tr>
 </tbody></table>

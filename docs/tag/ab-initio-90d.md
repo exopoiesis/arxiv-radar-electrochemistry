@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,17 +686,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02917.html">Vibrations Drive Ultrafast Intersystem Crossing of a Photoexcited Cr(III) Complex</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ying You et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02917">2606.02917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00753.html">Thermodynamic origin of medium-entropy stabilization in multicomponent rock-salt oxides</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Supriya Ghosal et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00753">2606.00753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.00794.html">Benchmark Dataset for Catalysis on 2D MXenes</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Pavlo Melnyk et al.</td>
-<td><a href="http://arxiv.org/abs/2606.00794">2606.00794</a></td>
 </tr>
 </tbody></table>
