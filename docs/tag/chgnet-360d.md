@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chgnet — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="chgnet-7d.html">7d</a> <a href="chgnet-30d.html">30d</a> <a href="chgnet-90d.html">90d</a> <strong>360d</strong> <a href="chgnet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05712.html">Unveiling the critical factors in crystal structure graph representation: a comparative analysis using streamlined MLPSets frameworks</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Hongwei Du et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05712">2509.05712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03401.html">A Comprehensive Assessment and Benchmark Study of Large Atomistic Foundation Models for Phonons</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a></div></td>
-<td>Md Zaibul Anam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03401">2509.03401</a></td>
 </tr>
 </tbody></table>

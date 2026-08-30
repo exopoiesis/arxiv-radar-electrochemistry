@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">821 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4940,17 +4940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03854.html">Switching topological states via uniaxial strain in 2D materials</a></div></td>
 <td>Joshua J. Sanchez et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03854">2509.03854</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13389.html">Expanding the search space of high entropy oxides and predicting synthesizability using machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Oliver A. Dicks et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13389">2508.13389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03401.html">A Comprehensive Assessment and Benchmark Study of Large Atomistic Foundation Models for Phonons</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="mace-360d.html">mace</a></div></td>
-<td>Md Zaibul Anam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03401">2509.03401</a></td>
 </tr>
 </tbody></table>

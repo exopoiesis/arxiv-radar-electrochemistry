@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06719.html">Towards Accurate and Scalable High-throughput MOF Adsorption Screening: Merging Classical Force Fields and Universal Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Satyanarayana Bonakala et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06719">2509.06719</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13389.html">Expanding the search space of high entropy oxides and predicting synthesizability using machine learning interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Oliver A. Dicks et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13389">2508.13389</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -956,11 +956,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08418.html">Facet: highly efficient E(3)-equivariant networks for interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Nicholas Miklaucic et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08418">2509.08418</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03401.html">A Comprehensive Assessment and Benchmark Study of Large Atomistic Foundation Models for Phonons</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Md Zaibul Anam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03401">2509.03401</a></td>
 </tr>
 </tbody></table>
