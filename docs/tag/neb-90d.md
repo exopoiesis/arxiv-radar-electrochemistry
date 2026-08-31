@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27850.html">Mode-Specific Dynamics of CO2 Hydrogenation on Copper: The Hidden Role of Molecular Rotation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="formate-90d.html">formate</a></div></td>
+<td>Junfan Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27850">2608.27850</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21973.html">Nudged Elastic Band Method in the CRYSTAL code. Theory and Applications</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Andreha Gelli et al.</td>
@@ -98,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07772.html">Machine learning assisted molecular dynamics of charge-transfer mechanisms at Li/Ga-doped Li$_7$La$_3$Zr$_2$O$_{12}$ (LLZO) interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Arseniy S. Burov et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07772">2606.07772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02084.html">Deep Learning-Accelerated Dynamic Kinetic Monte Carlo Simulation for Hydrogen Transport in Tungsten</a></div></td>
-<td>Seiki Saito et al.</td>
-<td><a href="http://arxiv.org/abs/2606.02084">2606.02084</a></td>
 </tr>
 </tbody></table>

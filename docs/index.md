@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-08-30._
+_Updated 2026-08-31._
 
-**3421** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3427** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27850.html">Mode-Specific Dynamics of CO2 Hydrogenation on Copper: The Hidden Role of Molecular Rotation</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/formate-30d.html">formate</a> · <a href="tag/neb-30d.html">neb</a></div></td>
+<td>Junfan Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27850">2608.27850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.28347.html">Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a></div></td>
+<td>Zacharias Liasi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28347">2608.28347</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26977.html">Electronic Structure and Band-Edge Character of Ga-Substituted $α$-Al$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -33,6 +51,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27314.html">Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
 <td>Md Sharier Nazim et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27314">2608.27314</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Manasa Kaniselvan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27589.html">Atomistic Indicators of the Ductile-to-Brittle Transition in Polycrystalline Tungsten: Temperature and Rhenium Effects on Crack-Tip Plasticity</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Divyesh Mistry et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27589">2608.27589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27690.html">CARDINAL Predicts Cardiovascular Risk From Non-contrast Cardiac CT</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
+<td>Roy Gabriel et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27690">2608.27690</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -159,41 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21604.html">Investigating Sulfur Vacancy Passivation in Monolayer MoS2 FETs via Optically Coupled Low-Frequency Electrical Noise Spectroscopy</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
 <td>Shashwata Chattopadhyay et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21604">2608.21604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a></div></td>
-<td>Yuxuan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20514.html">Revealing the Role of Confined Molecular H$_2$ in the Passivation of Defective Silicon Using First-Principles Simulations</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/neb-30d.html">neb</a></div></td>
-<td>Hania Azzam et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20514">2608.20514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20596.html">Machine Learning Guided Discovery of Corundum High Entropy Oxides</a></div></td>
-<td>Abraham A. Mancilla et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20596">2608.20596</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18505.html">Beyond Idealized PAHs: Infrared Signatures of Carbon-Chain Defects from Shock Synthesis</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xiaoting Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18505">2608.18505</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18629.html">Thickness-dependent degradation and optical access in epitaxial 2H-MoTe2 protected by metallic capping layers</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Wojciech Ryś et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18629">2608.18629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18951.html">Asgard/NOTT: Status of laboratory nulling performance</a></div></td>
-<td>T. Mattheussen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18951">2608.18951</a></td>
 </tr>
 </tbody></table>

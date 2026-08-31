@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">566 papers</span>
+  <span class="paper-count">567 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Théo Jaffrelot Inizan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.28100">2608.28100</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27273.html">Grain-Boundary Premelting in High-Entropy Transition Metal Carbides</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27314.html">Grain Boundary Phase Transitions Enable Diffusionless Climb of Disconnections</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Md Sharier Nazim et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27314">2608.27314</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27589.html">Atomistic Indicators of the Ductile-to-Brittle Transition in Polycrystalline Tungsten: Temperature and Rhenium Effects on Crack-Tip Plasticity</a></div></td>
+<td>Divyesh Mistry et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27589">2608.27589</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-26</td>
@@ -3404,11 +3416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02429.html">Modeling Reactions on the Solid-Liquid Interface With Next Generation Extended Lagrangian Quantum-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a></div></td>
 <td>Rae A. Corrigan Grove et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02429">2502.02429</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04138.html">Shape spectra of elastic shells with surface-adsorbed semiflexible polymers</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Hadiya Abdul Hameed et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04138">2509.04138</a></td>
 </tr>
 </tbody></table>
