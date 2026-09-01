@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">567 papers</span>
+  <span class="paper-count">566 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3410,11 +3410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07197.html">Grain Boundary Anisotropy and Its Influence on Helium Bubble Nucleation, Growth, and Decohesion in Polycrystalline Iron</a></div></td>
 <td>Yang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07197">2509.07197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02429.html">Modeling Reactions on the Solid-Liquid Interface With Next Generation Extended Lagrangian Quantum-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a></div></td>
-<td>Rae A. Corrigan Grove et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02429">2502.02429</a></td>
 </tr>
 </tbody></table>

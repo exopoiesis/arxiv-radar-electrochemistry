@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06691.html">Ultraviolet Radiation Effects on the Optical Properties of Water-Dominated Exoplanet Hazes</a></div></td>
 <td>Lori Huseby et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06691">2606.06691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03313.html">Detection of a four-carbon sugar in interstellar space</a></div></td>
-<td>Izaskun Jimenez-Serra et al.</td>
-<td><a href="http://arxiv.org/abs/2606.03313">2606.03313</a></td>
 </tr>
 </tbody></table>
