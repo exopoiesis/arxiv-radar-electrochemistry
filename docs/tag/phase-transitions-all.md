@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,23 +788,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05718.html">Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Nikita Medvedev et al.</td>
 <td><a href="http://arxiv.org/abs/2406.05718">2406.05718</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16019.html">The mysterious magnetic ground state of Ba14MnBi11 is likely altermagnetic</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Po-Hao Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16019">2407.16019</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15150.html">First-principles study of structural and electronic properties of multiferroic oxide Mn3TeO6 under high pressure</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="dft-u-all.html">dft-u</a></div></td>
-<td>Xiao-Long Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15150">2407.15150</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14706.html">First Order Preemptive Ising-nematic Transition in K$_{5}$Fe$_{4}$Ag$_{6}$Te$_{10}$</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a></div></td>
-<td>N. Giles-Donovan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14706">2407.14706</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mace — all</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">215 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1304,23 +1304,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08174.html">Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
 <td>Philipp Pracht et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08174">2408.08174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09674.html">Accelerating High-Throughput Phonon Calculations via Machine Learning Universal Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Huiju Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09674">2407.09674</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08148.html">SCPNet: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning</a></div></td>
-<td>Runmin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08148">2407.08148</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15224.html">i-PI 3.0: a flexible and efficient framework for advanced atomistic simulations</a></div></td>
-<td>Yair Litman et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15224">2405.15224</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrochemical-interfaces — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="electrochemical-interfaces-7d.html">7d</a> <a href="electrochemical-interfaces-30d.html">30d</a> <a href="electrochemical-interfaces-90d.html">90d</a> <a href="electrochemical-interfaces-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,17 +194,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03175.html">Controlling moving interfaces in solid state batteries</a></div></td>
 <td>Salem Mosleh et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03175">2408.03175</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17740.html">Machine Learning Potential for Electrochemical Interfaces with Hybrid Representation of Dielectric Response</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="corrosion-all.html">corrosion</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Jia-Xin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17740">2407.17740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13472.html">On the origin of univalent Mg$^+$ ions in solution and their role in anomalous anodic hydrogen evolution</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="corrosion-all.html">corrosion</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
-<td>Florian Deißenbeck et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13472">2407.13472</a></td>
 </tr>
 </tbody></table>

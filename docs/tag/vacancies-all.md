@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vacancies — all</h1>
-  <span class="paper-count">337 papers</span>
+  <span class="paper-count">328 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1982,59 +1982,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16469.html">Negative Longitudinal Magnetoresistance in the Dirac Semimetal PtSe$_2$ -- Kondo Effect and Surface Spin Dynamics</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Julian Max Salchegger et al.</td>
 <td><a href="http://arxiv.org/abs/2407.16469">2407.16469</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19891.html">Enhancing heat transport in MoS2 via defect-engineering</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Riccardo Dettori et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19891">2407.19891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19470.html">Crater-shaped Enrichment of $\mathrm{V}_\mathrm{Si}$ Color Centers in $4H$-SiC using Single-Pulse Near-Infrared Femtosecond Laser Processing</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Mengzhi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19470">2407.19470</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17968.html">Spectrally resolved far-field emission pattern of single photon emitters in MoS2</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Katja Barthelmi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17968">2407.17968</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17644.html">Ab initio treatment of molecular Coster-Kronig decay using complex-scaled equation-of-motion coupled-cluster theory</a></div></td>
-<td>Jan Philipp Drennhaus et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17644">2407.17644</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14409.html">Assessing the formation of spin and charge stripes in La$_{3}$Ni$_{2}$O$_{7}$ from first-principles</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Harrison LaBollita et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14409">2407.14409</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13224.html">Vacancy-Induced Boron Nitride Monolayers as Multifunctional Materials for Metal Ion Batteries and Hydrogen Storage Applications</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Wadha Alfalasi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13224">2407.13224</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.03437.html">Surface phase diagram of CsSnI$_3$ from first-principles calculations</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Kejia Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.03437">2407.03437</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02032.html">Molecular dynamics simulation for coalescence of vacancies in tungsten crystal</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Sotaro Tsuru et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02032">2407.02032</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10647.html">Optical lineshapes for orbital singlet to doublet transitions in a dynamical Jahn-Teller system: the NiV$^{-}$ center in diamond</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Rokas Silkinis et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10647">2406.10647</a></td>
 </tr>
 </tbody></table>

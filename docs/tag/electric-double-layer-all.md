@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electric-double-layer — all</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <a href="electric-double-layer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14905.html">A nonlinear phase-field model of corrosion with charging kinetics of electric double layer</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a></div></td>
 <td>M. Makuch et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14905">2408.14905</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18957.html">Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange</a></div><div class="paper-tags"><a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jeongmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18957">2405.18957</a></td>
 </tr>
 </tbody></table>

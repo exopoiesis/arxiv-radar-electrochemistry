@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>origin-of-life — all</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <a href="origin-of-life-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,29 +776,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19108.html">Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction</a></div></td>
 <td>Blaise Agüera y Arcas et al.</td>
 <td><a href="http://arxiv.org/abs/2406.19108">2406.19108</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19006.html">Observations of phosphorus-bearing molecules in the interstellar medium</a></div></td>
-<td>Francesco Fontani</td>
-<td><a href="http://arxiv.org/abs/2407.19006">2407.19006</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15826.html">Statistics and Habitability of F-type Star--Planet Systems</a></div></td>
-<td>Shaan D. Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15826">2407.15826</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07081.html">Pathways to Interstellar Amides via Carbamoyl (NH2CO) Isomers by Radical-Neutral Reactions on Ice Grain Mantles</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a></div></td>
-<td>Gabriela Silva-Vera et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07081">2407.07081</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00428.html">Observation of Complex Organic Molecules Containing Peptide-like Bonds Toward Hot Core G358.93$-$0.03 MM1</a></div></td>
-<td>Arijit Manna et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00428">2406.00428</a></td>
 </tr>
 </tbody></table>

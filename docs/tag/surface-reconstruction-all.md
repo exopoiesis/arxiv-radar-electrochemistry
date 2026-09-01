@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surface-reconstruction — all</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="surface-reconstruction-7d.html">7d</a> <a href="surface-reconstruction-30d.html">30d</a> <a href="surface-reconstruction-90d.html">90d</a> <a href="surface-reconstruction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08126.html">Machine-Learning-Accelerated Surface Exploration of Reconstructed BiVO$_{4}$(010) and Characterization of Their Aqueous Interfaces</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yonghyuk Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2412.08126">2412.08126</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14288.html">Augmentation of Universal Potentials for Broad Applications</a></div><div class="paper-tags"><a href="chgnet-all.html">chgnet</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Joe Pitfield et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14288">2407.14288</a></td>
 </tr>
 </tbody></table>

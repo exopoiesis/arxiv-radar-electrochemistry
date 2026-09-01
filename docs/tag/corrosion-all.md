@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>corrosion — all</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <a href="corrosion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,23 +356,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11127.html">Role of the Adsorption of Alkali Cations on Ultrathin $n$-Layers of Two-dimensional Perovskites</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-stability-all.html">phase-stability</a> · <a href="surface-defects-all.html">surface-defects</a></div></td>
 <td>Israel C. Ribeiro et al.</td>
 <td><a href="http://arxiv.org/abs/2408.11127">2408.11127</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20297.html">An Assessment of Commonly Used Equivalent Circuit Models for Corrosion Analysis: A Bayesian Approach to Electrochemical Impedance Spectroscopy</a></div><div class="paper-tags"><a href="impedance-spectroscopy-all.html">impedance-spectroscopy</a></div></td>
-<td>Runze Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20297">2407.20297</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17740.html">Machine Learning Potential for Electrochemical Interfaces with Hybrid Representation of Dielectric Response</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Jia-Xin Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17740">2407.17740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13472.html">On the origin of univalent Mg$^+$ ions in solution and their role in anomalous anodic hydrogen evolution</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrochemical-interfaces-all.html">electrochemical-interfaces</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
-<td>Florian Deißenbeck et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13472">2407.13472</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>explicit-solvation — all</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="explicit-solvation-7d.html">7d</a> <a href="explicit-solvation-30d.html">30d</a> <a href="explicit-solvation-90d.html">90d</a> <a href="explicit-solvation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10345.html">Elucidating the mechanism of helium evaporation from liquid water</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Kritanjan Polley et al.</td>
 <td><a href="http://arxiv.org/abs/2408.10345">2408.10345</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18957.html">Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange</a></div><div class="paper-tags"><a href="electric-double-layer-all.html">electric-double-layer</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jeongmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18957">2405.18957</a></td>
 </tr>
 </tbody></table>
