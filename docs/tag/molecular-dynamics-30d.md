@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
+<td>Kunik Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Théo Jaffrelot Inizan et al.</td>
@@ -212,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02456.html">Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a></div></td>
 <td>Daeheon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02456">2608.02456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01162.html">From oligomers to entangled polymers: How to train a transferable machine learning interatomic potential</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="active-learning-30d.html">active-learning</a></div></td>
-<td>Mirko Fischer et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01162">2608.01162</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Kunik Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28100.html">uMOF: A Universal Database, Benchmark, and Machine Learning Interatomic Potentials for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -632,17 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06706.html">Plasticity of Neutron Star Crusts</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Matthew E Caplan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06706">2606.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04504.html">Mechanical bistability and hysteresis in graphene-CNT hybrid systems: from atomistic simulations to macroscale structural responses</a></div></td>
-<td>Mingda Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04504">2606.04504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mace-90d.html">mace</a></div></td>
-<td>Qi-Jun Hong</td>
-<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
 </tr>
 </tbody></table>

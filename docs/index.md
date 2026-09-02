@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-09-01._
+_Updated 2026-09-02._
 
-**3349** relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3353** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00528.html">Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/chgnet-30d.html">chgnet</a></div></td>
+<td>Pingbing Ming et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00528">2609.00528</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00724.html">Phase Switchable Photocatalytic Water Splitting via a Paraelectric-Ferroelectric Transition in Zr2Ge2S6 Monolayer: A Comprehensive Theoretical Insights</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00724">2609.00724</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00914.html">Sharp Minimax Limits and Compatibility Spectra for Critical Near-DFT Index-Only Frequency Estimation</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Armon Rasooli et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00914">2609.00914</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Kunik Jang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27850.html">Mode-Specific Dynamics of CO2 Hydrogenation on Copper: The Hidden Role of Molecular Rotation</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/formate-30d.html">formate</a> · <a href="tag/neb-30d.html">neb</a></div></td>
@@ -171,29 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20837.html">First-principles design of main-group dimer defects in ZnO as candidate quantum defects</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
 <td>Taejoon Park et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20837">2608.20837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21037.html">Sulfur-rich Spirofluorene-Bridged N Heterotriangulene Redox-Active Polymers</a></div></td>
-<td>Angelina Jocic et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21037">2608.21037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21333.html">Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
-<td>Zafar Sadik Mehrub et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21333">2608.21333</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21525.html">Machine-learned exchange-correlation functionals for molecules, solids, and reactive surfaces</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Mohamed S. Abdallah et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21525">2608.21525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21604.html">Investigating Sulfur Vacancy Passivation in Monolayer MoS2 FETs via Optically Coupled Low-Frequency Electrical Noise Spectroscopy</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Shashwata Chattopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21604">2608.21604</a></td>
 </tr>
 </tbody></table>

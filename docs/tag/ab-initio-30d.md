@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00724.html">Phase Switchable Photocatalytic Water Splitting via a Paraelectric-Ferroelectric Transition in Zr2Ge2S6 Monolayer: A Comprehensive Theoretical Insights</a></div><div class="paper-tags"><a href="hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-30d.html">oxygen-evolution</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00724">2609.00724</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27850.html">Mode-Specific Dynamics of CO2 Hydrogenation on Copper: The Hidden Role of Molecular Rotation</a></div><div class="paper-tags"><a href="formate-30d.html">formate</a> · <a href="neb-30d.html">neb</a></div></td>
 <td>Junfan Xia et al.</td>
@@ -230,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02456.html">Real-time dynamics of the two-step charge-density-wave transition in bulk 1T-TaS$_2$</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Daeheon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02456">2608.02456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01162.html">From oligomers to entangled polymers: How to train a transferable machine learning interatomic potential</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Mirko Fischer et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01162">2608.01162</a></td>
 </tr>
 </tbody></table>

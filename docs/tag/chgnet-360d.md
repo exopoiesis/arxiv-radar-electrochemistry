@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00528.html">Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials</a></div></td>
+<td>Pingbing Ming et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00528">2609.00528</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07081.html">Local lattice dynamics of hcp zinc from EXAFS and machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Vitalijs Dimitrijevs et al.</td>
@@ -128,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07417.html">Benchmarking Universal Interatomic Potentials on Zeolite Structures</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Shusuke Ito et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07417">2509.07417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05712.html">Unveiling the critical factors in crystal structure graph representation: a comparative analysis using streamlined MLPSets frameworks</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Hongwei Du et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05712">2509.05712</a></td>
 </tr>
 </tbody></table>

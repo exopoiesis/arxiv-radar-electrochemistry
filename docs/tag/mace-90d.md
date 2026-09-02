@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mace — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <strong>90d</strong> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09901.html">On the Controllability-Fidelity Frontier in Diffusion Editing</a></div></td>
 <td>Yi Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09901">2606.09901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Qi-Jun Hong</td>
-<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05361.html">TabSODA: Tabular Diffusion based Imputation with Skip Pattern Detection and Ordinal Awareness</a></div></td>
-<td>Yuyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05361">2606.05361</a></td>
 </tr>
 </tbody></table>

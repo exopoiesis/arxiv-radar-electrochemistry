@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00724.html">Phase Switchable Photocatalytic Water Splitting via a Paraelectric-Ferroelectric Transition in Zr2Ge2S6 Monolayer: A Comprehensive Theoretical Insights</a></div><div class="paper-tags"><a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00724">2609.00724</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27850.html">Mode-Specific Dynamics of CO2 Hydrogenation on Copper: The Hidden Role of Molecular Rotation</a></div><div class="paper-tags"><a href="formate-90d.html">formate</a> · <a href="neb-90d.html">neb</a></div></td>
@@ -656,23 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06706.html">Plasticity of Neutron Star Crusts</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Matthew E Caplan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06706">2606.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04954.html">Triangular Charge-Density Waves (T-CDW) Stabilize Janus Group-VI Chalcogenide Hydrides</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.04954">2606.04954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04973.html">SLUSCHI-UP: A Web Infrastructure for SLUSCHI Melting-Temperature Calculations Using Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Qi-Jun Hong</td>
-<td><a href="http://arxiv.org/abs/2606.04973">2606.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05100.html">Density-functional theory calculation of hydrogen solubility in cubic silicon carbide at finite temperatures</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Jonathan S. Evarts et al.</td>
-<td><a href="http://arxiv.org/abs/2606.05100">2606.05100</a></td>
 </tr>
 </tbody></table>
