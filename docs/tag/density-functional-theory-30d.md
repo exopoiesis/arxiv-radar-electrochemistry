@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Daniel Duarte-Ruiz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div></td>
+<td>Oussama Er-Riyahi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02744">2609.02744</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00914.html">Sharp Minimax Limits and Compatibility Spectra for Critical Near-DFT Index-Only Frequency Estimation</a></div></td>
 <td>Armon Rasooli et al.</td>
@@ -314,17 +326,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03688.html">Machine Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a></div></td>
 <td>Jiadong Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03688">2608.03688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02261.html">Pressure-Driven Evolution of Electronic and Magnetic Correlations in Bilayer Nickelate La3Ni2O7</a></div></td>
-<td>Jian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02261">2608.02261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02770.html">Broken site symmetry of Fe adatoms on Bi$_2$Te$_3$</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
-<td>Duy Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02770">2608.02770</a></td>
 </tr>
 </tbody></table>

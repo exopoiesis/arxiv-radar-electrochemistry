@@ -108,5 +108,144 @@
    "Sulfide Electrocatalysts"
   ],
   "updated": "2026-09-01"
+ },
+ "2609.01879": {
+  "abstract": "Self-interstitial atom (SIA) clustering is a key early step in radiation damage evolution in face-centered cubic (FCC) metals, governing defect transport, recombination, and the long-term microstructural response of irradiated alloys. We combine molecular dynamics (MD) simulations and high-speed (>1000 frames/s) in situ transmission electron microscopy (TEM) to investigate the structure, energetics, and migration dynamics of SIA clusters in FCC Ni. MD simulations show that interstitials initially form disordered dumbbell clusters that evolve into either sessile Frank loops or glissile perfect (prismatic) loops; the latter progressively reorganize into compact ordered configurations with increasing mobility. Direct construction of both loop types over a wide size range, validated against MD-relaxed structures, shows that perfect loops are thermodynamically favored over Frank loops for cluster sizes N greater than or equal to 14, where N is the number of SIAs, with the energetic advantage increasing with cluster size. Nevertheless, substantial kinetic barriers allow Frank loops to persist as metastable defects. For perfect loops, diffusion coefficients computed over N = 16 to 400 reveal a nearly size-independent migration barrier of approximately 0.02 eV, while the diffusion prefactor decreases approximately as N^(-0.54). Trajectory analysis reveals a non-rigid, row-wise relay mechanism in which the number of participating atoms increases systematically with loop size, accounting for much of the observed prefactor scaling. Sub-millisecond in situ TEM observations reveal intermittent loop motion at velocities higher than previously observed but still several orders of magnitude below the intrinsic mobilities predicted by MD, indicating migration through a heterogeneous energy landscape of mobile and pinned states.",
+  "authors": [
+   "Ajay Annamareddy",
+   "Ibrahim Momohjimoh",
+   "Hangyu Li",
+   "Kevin G. Field",
+   "Paul M. Voyles",
+   "Dane Morgan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ajay Annamareddy",
+  "pdf_url": "http://arxiv.org/pdf/2609.01879",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01911": {
+  "abstract": "Machine-learned interatomic potentials have enabled highly accurate atomistic simulations, but extending these capabilities to coarse-grained systems remains challenging due to the loss of geometric and orientational information during coarse-graining. In this work, we present a generalized framework for incorporating molecular geometry and directionality into coarse-grained machine-learned potentials through two complementary approaches: anisotropic density-based descriptors (AniSOAP) and symmetry-adapted equivariant message-passing neural networks (MACE-CG). Using Gay-Berne particles and coarse-grained representations of benzene, formamide, and water, we demonstrate that explicitly retaining molecular anisotropy substantially improves the prediction of energies, forces, and torques relative to isotropic representations. AniSOAP provides an effective linear baseline when molecular shape is well approximated by ellipsoidal symmetry, while symmetry-adapted MACE-CG enables the incorporation of arbitrary molecular point-group symmetries. For water, whose orientational degrees of freedom are poorly represented by ellipsoidal descriptors alone, symmetry-adapted rigid-body features improve energy, force, and torque prediction by resolving orientational degeneracies inherent to isotropic and moment-of-inertia-based representations. These results show that information loss in coarse-grained modeling is governed not only by mapping resolution but also by the symmetry and geometric information retained in the representation, providing a systematic route toward more expressive and transferable coarse-grained machine-learned potentials.",
+  "authors": [
+   "Arthur Y. Lin",
+   "Tejas Dahiya",
+   "Rose K. Cersonsky"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Arthur Y. Lin",
+  "pdf_url": "http://arxiv.org/pdf/2609.01911",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-01",
+  "tags": [
+   "mace"
+  ],
+  "title": "A Generalized Approach for Incorporating Geometry and Directionality into Coarse-Grained Machine-Learned Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.02206": {
+  "abstract": "The degradation of LiNi$_{0.8}$Co$_{0.1}$Mn$_{0.1}$O$_2$ (NCM-811) in Li-ion batteries produces complex transition-metal oxides and binary phases that fundamentally limit cathode performance. While identifying these degradation products via X-ray absorption spectroscopy (XAS) is essential for mitigating electrochemical performance loss, interpretation remains challenging due to the structural complexity of real-world samples. In this work, we present an integrated theoretical-experimental framework combining high-resolution oxygen K-edge XAS with \\textit{ab initio} simulations based on many-body perturbation theory and high-throughput screening from density functional theory. We first evaluate the spectroscopic fingerprints of eight layered, spinel, and nominal rock-salt reference oxides, identifying discrepancies between the idealized single-crystal bulk phase and experimental spectra. Using high-throughput screening to analyze the oxygen $p$-projected density of states of 38 distinct polymorphs of NiO, CoO, and MnO, we propose that the spectral differences can emerge, among other factors, from a structural ensemble of local variations represented here by simplified structural proxies. Our work establishes a viable and rigorous computational pathway to interpret the complex landscape of degraded battery materials.",
+  "authors": [
+   "Daniel Duarte-Ruiz",
+   "Timo Reents",
+   "Elmar Kataev",
+   "Raul Garcia-Diez",
+   "Regan G. Wilks",
+   "Marcus Baer",
+   "Caterina Cocchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daniel Duarte-Ruiz",
+  "pdf_url": "http://arxiv.org/pdf/2609.02206",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02744": {
+  "abstract": "Graphene-derivatives are widely employed materials to improve bulk and interface properties of metal-halide perovskite devices. Yet the implications of their flake chemistry and interactions with the perovskite precursors remain unclear. Here, we show that pristine graphene flakes (GF) and more conventional graphene oxide flakes (GOF) are not interchangeable. Density functional theory calculations reveal that GOF interacts more strongly with the perovskite lattice but induces larger structural distortions, stronger interfacial polarisation, and localised gap states. In contrast, GF forms comparatively non-disruptive contacts, a response retained across a wide compositional range. Machine-learning atomistic simulations further show that GF contacts both Pb- and I-containing regions of solvated perovskite nanocrystals, with a strong solvent dependency. Solution spectroscopic characterization indicates that GF additives serve as scaffold for preorganised Pb/I-containing precursors, favouring film crystallisation. In this sense, GF enhances solar cell performance across perovskite compositions, but particularly those facing a more challenging crystallisation. In mixed Sn-Pb perovskite solar cells, GF raises the champion power-conversion efficiency from 21.5\\% to 23.7\\% with improved storage stability. These results establish pristine GF as a chemically defined additive and connect its atomic-scale interactions with precursor organisation, crystallisation, device performance, and stability.",
+  "authors": [
+   "Oussama Er-Riyahi",
+   "Dorota Biernacka",
+   "Yating Guo",
+   "Mikel Ballarena Tellechea",
+   "Silver-Hamill Turren-Cruz",
+   "Dario Bercioux",
+   "Meng Li",
+   "Agnieszka Lekawa-Raus",
+   "Jorge Pascual",
+   "Karolina Z. Milowska"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "4 figures in main; 21 figures and 3 tables in the SI",
+  "first_author": "Oussama Er-Riyahi",
+  "pdf_url": "http://arxiv.org/pdf/2609.02744",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02824": {
+  "abstract": "Low-temperature operation imposes severe limitations on lithium-ion transport in battery electrolytes, yet the coupled effects of solvent composition and fluorinated additives in the cold-temperature regime remain insufficiently resolved. Here, we combine classical molecular dynamics (MD) and machine learning (ML) to investigate 1 M LiPF$_6$ electrolytes containing ethylene carbonate (EC), ethyl methyl carbonate (EMC), and EC/EMC (3:7), with 0-10 mol% fluoroethylene carbonate (FEC), from 298 to 233 K. MD simulations quantify Li$^+$ self-diffusion, Nernst-Einstein (NE) and Green-Kubo (GK) conductivities and local coordination, while Gaussian-process surrogates model conductivity across composition and temperature. Cooling produces a pronounced transport penalty, particularly in EMC-containing electrolytes, whose GK conductivity decreases by more than 98% at 233 K, compared with approximately 90% in EC-rich systems. Li$^+$ self-diffusion activation energies are 0.49-0.54 eV for EMC-containing systems and 0.27-0.29 eV for EC-based systems. Within the EC family, 0-2 mol% FEC gives comparable cold-temperature transport, whereas 5-10 mol% FEC shows lower conductivity retention at the coldest simulated temperature. The analyzed coordination channels remain solvent dominated, while direct Li$^+$-FEC coordination is not quantified in the present RDF set.The Gaussian-process surrogates achieve composition-disjoint cross-validated RMSE values of 0.56 and 0.57 mS cm$^{-1}$ for NE and GK conductivity. Within the simulated liquid-state trajectories, temperature and host-solvent composition dominate the bulk-transport response, with FEC acting as a secondary modifier.",
+  "authors": [
+   "İpek Yenda Çınar",
+   "Oguzhan Orhan",
+   "M. Oluş Özbek",
+   "Şener Özönder"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.dis-nn",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "İpek Yenda Çınar",
+  "pdf_url": "http://arxiv.org/pdf/2609.02824",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-02",
+  "tags": [
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Low-Temperature Transport in Li-Ion Battery EC/EMC/FEC Electrolytes: Molecular Dynamics and Machine-Learning Modeling",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-02"
  }
 }
