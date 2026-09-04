@@ -247,5 +247,294 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-09-02"
+ },
+ "2609.03041": {
+  "abstract": "Spin-crossover (SCO) compounds offer a route to switchable molecular functionality in reduced dimensions. However, one-dimensional (1D) SCO chains, which offer the possibility to study ligand fields other than the paradigmatic octahedral field, remain comparatively little studied. Here, we use first-principles density functional theory (DFT+$U$) to investigate Fe-indigo coordination-polymer chains synthesized experimentally on Ag(111) and Ag(100) substrates. These display a rich interplay between changes in ligand field (isomerization) and spin crossover. On-surface isomerization on Ag(111) interconverts (N,O)-chelated \\textit{trans} configuration and (N,N)-/(O,O)-chelated \\textit{cis} configurations at the Fe centers. The lowest-energy \\textit{trans} and \\textit{cis} solutions on Ag(111) have different spin configurations over the interval $0.66<U<3.00$~eV. At the reference value $U=1$~eV, the preferred \\textit{trans} solution is the mixed LS--LS--HS configuration, whereas the preferred \\textit{cis} solution is LS--LS--LS. The experimentally observed preference for \\textit{cis} chains on Ag(111) and \\textit{trans} chains on Ag(100) is reproduced for the range $0.88<U<3.75$~eV. To interpret these results, toy models and spin-resolved Fe $3d$ projected densities of states are used, while freestanding-chain calculations reveal a strain-sensitive LS--HS competition. These results provide a microscopic explanation for isomerization-controlled spin-state switching in a 1D coordination polymer.",
+  "authors": [
+   "Ritam Chakraborty",
+   "Hongxiang Xu",
+   "Biao Yang",
+   "Harshdeep Singh Chhabra",
+   "Joachim Reichert",
+   "Johannes V. Barth",
+   "Anthoula C. Papageorgiou",
+   "Shobhana Narasimhan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ritam Chakraborty",
+  "pdf_url": "http://arxiv.org/pdf/2609.03041",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.03044": {
+  "abstract": "Calcium carbonate formation from aqueous solution is central to biomineralization and to carbon sequestration through mineral carbonation. At near-neutral pH, the process is highly reactive, with proton transfer mediating the interconversion between carbonate species. Most atomistic simulations to date either treat carbonate speciation as fixed or consider proton transfer only in small clusters. Here, we combine an ab initio trained atomic cluster expansion (ACE) machine-learning potential for molecular dynamics with enhanced sampling to enable reactive simulations of the early stages of calcium carbonate precipitation at previously inaccessible length and time scales. We study proton transfer and carbonate speciation in ion pairs and triplets, as well as in the collective aggregation of many ions. Our simulations with few ions show that ion association provides a favorable pathway for proton transfer, facilitating interconversion between carbonate, bicarbonate, and carbonic acid. In many-ion systems, proton transfer occurs spontaneously alongside aggregation, and we observe significant changes in the coordination environments as species evolve during the simulations. These results show that ion aggregation and chemical reactivity can be strongly coupled during the early stages of nucleation from solution.",
+  "authors": [
+   "Eslam Ibrahim",
+   "Yury Lysogorskiy",
+   "Ralf Drautz",
+   "Pablo M. Piaggi"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Eslam Ibrahim",
+  "pdf_url": "http://arxiv.org/pdf/2609.03044",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-02",
+  "tags": [
+   "ab-initio",
+   "grotthuss",
+   "molecular-dynamics"
+  ],
+  "title": "Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.03146": {
+  "abstract": "Electrochemical reaction rates are controlled by both interfacial charge-transfer kinetics and reactive-ion transport. In charged porous media, fixed charges enrich reactive counterions near pore walls, enabling transport beyond the classical diffusion limit via surface conduction (SC). Under overlimiting conditions, classical Butler-Volmer kinetics predict indefinitely increasing current with overpotential, contrasting with microscopic electron-transfer theories, which impose a finite reaction-limited current. Here, we couple the one-dimensional leaky membrane model to coupled ion-electron transfer (CIET) kinetics to examine the interplay between transport and reaction limitations. The limiting behavior is governed by the scaled surface charge $(\\tildeρ_s)$ and a Damköhler number $(Da)$ comparing reaction-limited and diffusion-limited currents. We derive analytical limiting-current expressions for neutral, positive, and negatively charged porous media, mapping underlimiting-to-overlimiting transitions in the $(Da,\\tildeρ_s)$ plane. By preventing reactive-ion depletion, SC restores polarization-curve sensitivity to charge-transfer kinetics that would otherwise be obscured by diffusion limitation. Fitting to published Cu electrodeposition data in charged AAO membranes yields $Da\\approx24$. CIET parameters fitted to AAO($-$) also describe AAO($+$) and predict a finite AAO($-$) reaction limit beyond the applied voltage range. These results provide a framework for distinguishing transport-limited and reaction-limited responses in electrochemical systems and establish charged porous media as platforms to reveal electrochemical reaction-kinetic descriptors.",
+  "authors": [
+   "Arjun V. Yennemadi",
+   "Junghyun Yoon",
+   "Martin Z. Bazant"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "39 pages, 8 figures",
+  "first_author": "Arjun V. Yennemadi",
+  "pdf_url": "http://arxiv.org/pdf/2609.03146",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-02",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Overlimiting Ion Transport and Reaction Limitations in Charged Porous Media",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.03486": {
+  "abstract": "Isotopic fractionation factors for oxygen and silicon in selected silicates (quartz, enstatite, forsterite, lizardite, kaolinite) have been calculated using first-principles methods. Good agreement between theory and experiment is obtained in the case of oxygen. In the case of silicon, agreement and differences with existing estimates of equilibrium fractionation factors are discussed. The relationships between silicon fractionation factors and oxygen fractionation factors, silicate polymerization degree and chemical composition is studied. The previously stated relationship with the polymerization degree of the mineral is not confirmed. Nevertheless, our calculation suggests that silicon fractionation depends on the cationic content of the mineral, in a way similar to oxygen.  Oxygen fractionation properties could thus provide some insights on silicon fractionation behavior.",
+  "authors": [
+   "Merlin Méheut",
+   "Michele Lazzeri",
+   "Etienne Balan",
+   "Francesco Mauri"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Merlin Méheut",
+  "pdf_url": "http://arxiv.org/pdf/2609.03486",
+  "primary_category": "q-bio.BM",
+  "published": "2026-09-03",
+  "tags": [
+   "ab-initio",
+   "isotope-geochemistry"
+  ],
+  "title": "Structural control over equilibrium silicon and oxygen isotopic fractionation: A first-principles density-functional theory study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.03518": {
+  "abstract": "We propose an orbital-free density functional theory (OFDFT)-assisted machine-learned molecular dynamics method in which field-independent interatomic forces are evaluated using a machine-learned potential and atomic charges that depend on the local environment are obtained from OFDFT calculations. The atomic charges obtained by Bader partitioning of the OFDFT electron density are multiplied by the electric-field vector and added to the forces from the machine-learned potential. This approach enables molecular dynamics simulations under an electric field at a lower computational cost than Kohn-Sham DFT (KSDFT)-based molecular dynamics.   As a proof of concept, the method was applied to beta-Li3PS4 bulk and an S8/Li3PS4 heterostructure under periodic boundary conditions. For Li3PS4 bulk, OFDFT yielded Li charges and a total charge of the PS4 unit consistent with those obtained using KSDFT. In the heterostructure, Li ions migrated from the Li3PS4 region into the S-rich region within a simulation time of approximately 170 ps. Accompanying this migration, the mean Bader charge of the S atoms that initially formed S8 rings changed from nearly neutral to negative. A comparison with KSDFT for a representative interfacial structure also confirmed that the negative charging of the S atoms upon the arrival of Li and the magnitude of the Li charges were qualitatively reproduced. These results demonstrate the possibility of treating field-driven ionic transport and changes in interfacial charge states using a universal machine-learned potential without training an additional material-specific charge-prediction model.",
+  "authors": [
+   "Yusuke Nishiya",
+   "Hiroya Nakata",
+   "Yosuke Harada",
+   "Yu-ichiro Matsushita"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yusuke Nishiya",
+  "pdf_url": "http://arxiv.org/pdf/2609.03518",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-03",
+  "tags": [
+   "density-functional-theory",
+   "ion-transport",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.03578": {
+  "abstract": "Atomristors, non-volatile resistive switching devices based on two-dimensional (2D) monolayers, are promising building blocks for energy-efficient memory and neuromorphic computing. However, their design remains restricted to a few materials such as MoS2 and h-BN, limiting functional diversity and design flexibility. Here, a high-throughput computational framework combining density functional theory, machine-learning molecular dynamics, and quantum transport simulations screens about 2,900 exfoliable monolayers for vacancy-mediated resistive switching, identifying 17 thermally stable candidates in two mechanistically distinct classes. In Class 1 monolayers, such as GaS, Au adsorption at the native vacancy introduces conducting states, switching the insulating monolayer from a high- to a low-resistance state (HRS-to-LRS). Class 2 monolayers, comprising ionically bonded metal oxyhalides and nitrohalides such as BiOCl, exhibit previously unreported inverted switching. Vacancy-released electrons delocalize and push the Fermi level into the conduction band, placing the device natively in the LRS; Au adsorption re-localizes these carriers and returns the Fermi level to the gap, driving LRS-to-HRS switching. Quantum transport simulations confirm both mechanisms, while migration-barrier calculations identify the electrode-2D separation as a key parameter governing Au migration and the resistance window. These findings expand the atomristor landscape and establish complementary switching as a design paradigm for multifunctional memory and neuromorphic hardware.",
+  "authors": [
+   "Sanchali Mitra",
+   "Arnab Kabiraj",
+   "Benjamin W. J. Chen",
+   "Han Zhang",
+   "Haiyu Meng",
+   "Shi-Jun Liang",
+   "C. S. Lau",
+   "Lei Shen",
+   "Lain-Jong Li",
+   "Kah-Wee Ang",
+   "Yee Sin Ang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "32 pages, 8 Figures",
+  "first_author": "Sanchali Mitra",
+  "pdf_url": "http://arxiv.org/pdf/2609.03578",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-03",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.03587": {
+  "abstract": "Customizing the surface characteristics and stimuli-responsive behavior of nanoparticles with polyelectrolytes ushers in a new era across many aspects of our lives, ranging from advanced diagnostics to practical applications. Here, using hybrid CR Monte Carlo/ molecular dynamics simulations, we investigate how charge regulation can play a crucial role in shaping the adsorption dynamics of polyelectrolyte (PE) on oppositely charged nanoparticle (NP). We systematically investigate the influence of salt density, and polymer chain length on the PE-NP interaction. To complement CR results, we also perform molecular simulations under constant charge conditions. At high salt concentrations, CR enhances the adsorption of PE onto the NP surface, leading to a rapid decrease in the radius of gyration of PE; conversely, CC promotes the extended conformation of PE. No clear effect of PE length is observed at either low or high salt concentrations, whereas in CC simulations, the PE relaxes faster on the NP in the case of short chains. Furthermore, By comparing these results, we demonstrate that the MSD of PE follows a more direct path during adsorption implying a ballistic motion, whereas in the CC case, it exhibits subdiffusive behavior and delayed adsorption in both low and high salt density. Our findings indicates that 'tunable CR' is a robust strategy for controlling nanoparticle stability and interaction within a complex biochemical cues.",
+  "authors": [
+   "Kawaljeet Kaur",
+   "Rashmi Kandari",
+   "Sunita Kumari",
+   "Subhajit Paul"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "page 10,",
+  "first_author": "Kawaljeet Kaur",
+  "pdf_url": "http://arxiv.org/pdf/2609.03587",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-03",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Charge Regulated conformational properties of polyelectrolyte near an oppositely charged nanoparticle",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.03717": {
+  "abstract": "La2Mo2O9 (LAMOX) is a promising oxide-ion conductor for intermediate-temperature solid oxide fuel cells, but its practical application is limited by a first-order monoclinic-to-cubic (alpha to beta) phase transition. Here, we investigate the electronic structure of pristine La2Mo2O9 and the Gd/W co-doped composition La1.6Gd0.4Mo1.7W0.3O9 using spin-polarized density functional theory with an on-site Hubbard correction for the localized Gd-4f states. The projected density of states reveals that pristine La2Mo2O9 is an O-2p/Mo-4d charge-transfer oxide in which La contributes negligibly near the band edges. Gd/W co-doping introduces a strongly exchange-split Gd-4f manifold with a majority-minority separation of approximately 1011 eV, substantially redistributes the Mo-4d electronic states through a threefold increase in crystal-field splitting, and reduces the O-2p contribution near the valence-band maximum from 78% to 66%. These electronic signatures are consistent with the experimentally observed lattice contraction, MoO Raman-mode softening, and the non-monotonic evolution of oxide-ion conductivity across the co-doped series. In particular, the pronounced crystal-field splitting and localized Gd magnetism at the highest doping level provide a microscopic electronic explanation for the observed suppression of ionic conductivity. The present results establish an atomistic electronic-structure framework for understanding dopant-induced phase stabilization and oxide- ion transport in Gd/W co-doped LAMOX electrolytes, providing design principles for improved solid oxide fuel cell materials.",
+  "authors": [
+   "Amogh U. Lanjewar",
+   "Saurabh Shiwankar",
+   "Smita Acharya"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Conference: International Conference on Advanced Functional Materials and Devices (AFMD-2026)",
+  "first_author": "Amogh U. Lanjewar",
+  "pdf_url": "http://arxiv.org/pdf/2609.03717",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-03",
+  "tags": [
+   "density-functional-theory",
+   "ion-transport",
+   "phase-transitions"
+  ],
+  "title": "Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.03757": {
+  "abstract": "Naturally occurring layered silicates offer an abundant yet unexplored class of 2D materials, but their insulating nature limits their functional utility. Here, we demonstrate a chemical strategy that transforms liquid-phase-exfoliated biotite nanosheets into a tunable 2D semiconductor through controlled NaOH treatment. The resulting insulator-to-semiconductor transition originates from Na incorporation, defect generation, and local structural reconstruction while largely preserving the layered framework. Structural and chemical analyses reveal lattice distortion, interlayer reorganization, hydroxylation, and partial Na+-K+ exchange, establishing the origin of the electronic restructuring. This transformation broadens the optical response, shifting the approximately 221 nm absorption toward approximately 280 and 975 nm, reducing the optical bandgap from approximately 5.2 to 3.2-3.5 eV, and introducing low-energy transitions at approximately 1.12-1.17 eV. Electrical measurements reveal nonlinear transport with currents reaching close to 10 microA, demonstrating activated carrier conduction. Ultrafast transient absorption reveals pronounced excited-state absorption, with carrier cooling (0.16-0.38 ps) followed by fast (35-60 ps) and long-lived (336-491 ps) relaxation associated with trap-mediated recombination. Fluence-dependent dynamics reveal a hot-phonon bottleneck at elevated carrier densities. Together with density functional theory calculations, these results establish chemical defect and ion engineering as a powerful route for converting naturally abundant layered minerals into electronically tunable 2D materials for emerging optoelectronic and ultrafast photonic technologies.",
+  "authors": [
+   "Dipanwita Mitra",
+   "Raphael B. de Oliveira",
+   "Guilherme S. L. Fabris",
+   "Debkanta Ghosh",
+   "AyonJyoti Karmakar",
+   "Raphael M. Tromer",
+   "Marcelo L. Pereira Junior",
+   "Douglas S. Galvão",
+   "Chandra Sekhar Tiwary",
+   "Prasanta Kumar Datta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Dipanwita Mitra",
+  "pdf_url": "http://arxiv.org/pdf/2609.03757",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-03",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.03888": {
+  "abstract": "The soft-mode of electro-optic (EO) metal-oxide perovskites plays a critical role in determining their Pockels responses. This is the case of potassium tantalate niobate (KTN), which exhibits an intrinsic Pockels response 2.5 times larger than that of state-of-the-art barium titanate (BTO), highlighting its potential for high-performance EO applications. By combining ab initio calculations at the density-functional theory level and far-IR measurements, we reveal that the harmonic approximation combined with semi-local exchange-correlation functionals fails to accurately capture the soft transverse optical (TO) Slater mode of both potassium niobate and KTN, which dominates the technologically relevant r51 Pockels coefficient. Replacing the calculated mode frequency with its measured value provides an experimentally constrained approach that substantially improves the predicted Pockels response. For that purpose, the previously unreported TO Slater-mode frequency of KTN is extracted from far-IR reflectivity measurements. The results emphasize the potential of KTN-based EO modulators as an alternative to standard lithium niobate and BTO technologies, with a potentially lower energy consumption and device footprint.",
+  "authors": [
+   "Virginie de Mestral",
+   "Lorenzo Bastonero",
+   "Petr Bednyakov",
+   "Fedir Borodavka",
+   "Simon Mellaerts",
+   "Tetyana Ostapchuk",
+   "Alex Pescaru",
+   "Jiri Hlinka",
+   "Mathieu Luisier"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Virginie de Mestral",
+  "pdf_url": "http://arxiv.org/pdf/2609.03888",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-03",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-03"
  }
 }

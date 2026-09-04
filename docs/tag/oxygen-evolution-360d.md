@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oxygen-evolution — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="oxygen-evolution-7d.html">7d</a> <a href="oxygen-evolution-30d.html">30d</a> <a href="oxygen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="oxygen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09803.html">CaCd$_2$P$_2$: A Visible-Light Absorbing Zintl Phosphide Stable under Photoelectrochemical Water Oxidation</a></div></td>
 <td>Guillermo L. Esparza et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09803">2509.09803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07180.html">Effective Atom Theory: Gradient-Driven ab initio Materials Design</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Justin Tahmassebpur et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07180">2509.07180</a></td>
 </tr>
 </tbody></table>
