@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">819 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4928,29 +4928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09002.html">Revisiting intrinsic spin defects in hexagonal boron nitride with r2SCAN</a></div></td>
 <td>Petros-Panagis Filippatos et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09002">2509.09002</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07417.html">Benchmarking Universal Interatomic Potentials on Zeolite Structures</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a></div></td>
-<td>Shusuke Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07417">2509.07417</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07494.html">First-principles study of formic acid decomposition on single Pt atoms supported on heteroatom-doped graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="formate-360d.html">formate</a></div></td>
-<td>Kazuma Sato et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07494">2509.07494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07554.html">Atomic Layer Etching of Aluminum Nitride: Mechanistic Insights from First-Principles Studies of Chlorine Chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Sanjay Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07554">2509.07554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08143.html">Electronic Fluctuations and Ionic Dynamics in Molten Silver Iodide</a></div></td>
-<td>Harender S. Dhattarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08143">2509.08143</a></td>
 </tr>
 </tbody></table>
