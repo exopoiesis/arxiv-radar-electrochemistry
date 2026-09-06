@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,11 +1040,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10251.html">Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors</a></div></td>
 <td>Benhao Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10251">2606.10251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08637.html">Novel 2D Altermagnetic Vanadium Oxide with a Buckled Lieb Structure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Tamer Taşkıran et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08637">2606.08637</a></td>
 </tr>
 </tbody></table>

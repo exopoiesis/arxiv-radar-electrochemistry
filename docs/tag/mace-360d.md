@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,11 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10293.html">OpenCSP: A Deep Learning Framework for Crystal Structure Prediction from Ambient to High Pressure</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Yinan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10293">2509.10293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08418.html">Facet: highly efficient E(3)-equivariant networks for interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Nicholas Miklaucic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08418">2509.08418</a></td>
 </tr>
 </tbody></table>

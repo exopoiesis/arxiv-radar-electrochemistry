@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chgnet — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="chgnet-7d.html">7d</a> <a href="chgnet-30d.html">30d</a> <a href="chgnet-90d.html">90d</a> <strong>360d</strong> <a href="chgnet-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20605.html">Modeling phase transformations in Mn-rich disordered rocksalt cathodes with machine learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Peichen Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20605">2506.20605</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pjotrs Žguns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
 </tr>
 </tbody></table>

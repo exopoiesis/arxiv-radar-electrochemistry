@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">482 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,29 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05542.html">Core-Excited States of Linear and Bent Uranyl Complexes: Insights from High-Energy Resolution X-ray Spectroscopy and Relativistic Quantum Chemistry</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Wilken Aldair Misael et al.</td>
 <td><a href="http://arxiv.org/abs/2504.05542">2504.05542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21749.html">Ge-based Clinopyroxene series: first principles and experimental local probe study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Ricardo P. Moreira et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21749">2407.21749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08223.html">Generative Quasi-Continuum Modeling of Confined Fluids at the Nanoscale</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Bugra Yalcin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08223">2509.08223</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08418.html">Facet: highly efficient E(3)-equivariant networks for interatomic potentials</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
-<td>Nicholas Miklaucic et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08418">2509.08418</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pjotrs Žguns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
 </tr>
 </tbody></table>

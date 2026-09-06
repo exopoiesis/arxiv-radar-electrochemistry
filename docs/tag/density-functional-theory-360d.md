@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">819 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4904,29 +4904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05542.html">Core-Excited States of Linear and Bent Uranyl Complexes: Insights from High-Energy Resolution X-ray Spectroscopy and Relativistic Quantum Chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Wilken Aldair Misael et al.</td>
 <td><a href="http://arxiv.org/abs/2504.05542">2504.05542</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21749.html">Ge-based Clinopyroxene series: first principles and experimental local probe study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Ricardo P. Moreira et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21749">2407.21749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08352.html">Comprehensive Structure Exploration and Thermodynamics of Heteroatom Doped Graphene Superstructures</a></div></td>
-<td>Benedict Saunders et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08352">2509.08352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08498.html">Benchmarking CHGNet Universal Machine Learning Interatomic Potential Against DFT and EXAFS: Case of Layered WS2 and MoS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chgnet-360d.html">chgnet</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pjotrs Žguns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08498">2509.08498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09002.html">Revisiting intrinsic spin defects in hexagonal boron nitride with r2SCAN</a></div></td>
-<td>Petros-Panagis Filippatos et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09002">2509.09002</a></td>
 </tr>
 </tbody></table>

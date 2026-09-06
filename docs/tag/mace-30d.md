@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mace — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <strong>30d</strong> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08295.html">Universality of PVDF-Li$^+$ Ion Interface Chemistry in Lead-free Perovskite Energy Storage Devices</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Arun Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08295">2608.08295</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06118.html">Calculations of the Krypton Phase Diagram and Novel Plasticity</a></div></td>
-<td>Marcin Kirsz et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06118">2608.06118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06582.html">CrystalGRPO: Target-Aligned and Coverage-Preserving Reinforcement Learning for Flow-Based Crystal Structure Prediction</a></div></td>
-<td>Kaixiang Su et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06582">2608.06582</a></td>
 </tr>
 </tbody></table>
