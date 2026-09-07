@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ion-transport — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <strong>30d</strong> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04977.html">Operando imaging of intercalation memory in MXenes</a></div></td>
+<td>Franz Groebmeyer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04977">2609.04977</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -56,23 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12562.html">Diffusion and Solvation Dynamics of Ions in Water: Beyond the Brownian Approximation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="hydration-shell-30d.html">hydration-shell</a> · <a href="ion-water-interactions-30d.html">ion-water-interactions</a></div></td>
 <td>Ian C. Bourg et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12562">2608.12562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06895.html">Local Structure Dictates Ionic Transport and Mechanical Properties in Glassy Solid Electrolytes for Lithium Batteries</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06895">2608.06895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06902.html">Fast Isotropic Li-Ion Diffusion in Zeolitic Imidazolate Framework Glass Electrolytes for Batteries</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Yong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06902">2608.06902</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07130.html">Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation</a></div></td>
-<td>Siqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07130">2608.07130</a></td>
 </tr>
 </tbody></table>

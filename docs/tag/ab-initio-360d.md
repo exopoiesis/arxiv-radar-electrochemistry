@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a></div></td>
+<td>Yiming Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03486.html">Structural control over equilibrium silicon and oxygen isotopic fractionation: A first-principles density-functional theory study</a></div><div class="paper-tags"><a href="isotope-geochemistry-360d.html">isotope-geochemistry</a></div></td>
@@ -2870,17 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10207.html">Magnetism Induced by Azanide and Ammonia Adsorption in Defective Molybdenum Disulfide and Diselenide: A First-Principles Study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Guilherme S. L. Fabris et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10207">2509.10207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02413.html">Electric-Field Driven Nuclear Dynamics of Liquids and Solids from a Multi-Valued Machine-Learned Dipolar Model</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Elia Stocco et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02413">2502.02413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05542.html">Core-Excited States of Linear and Bent Uranyl Complexes: Insights from High-Energy Resolution X-ray Spectroscopy and Relativistic Quantum Chemistry</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Wilken Aldair Misael et al.</td>
-<td><a href="http://arxiv.org/abs/2504.05542">2504.05542</a></td>
 </tr>
 </tbody></table>

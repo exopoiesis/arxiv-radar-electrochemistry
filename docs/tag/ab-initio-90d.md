@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a> · <a href="explicit-solvation-90d.html">explicit-solvation</a></div></td>
+<td>Yiming Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03486.html">Structural control over equilibrium silicon and oxygen isotopic fractionation: A first-principles density-functional theory study</a></div><div class="paper-tags"><a href="isotope-geochemistry-90d.html">isotope-geochemistry</a></div></td>
@@ -620,29 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11685.html">DSpinGNN: A Physics-Informed Equivariant Graph Neural Network for Dynamic Magnetic Exchange Prediction in Strain-Deformed Monolayer CrI$_3$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
 <td>Isam A. Balghari et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11685">2606.11685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09612.html">Revealing Wavelength- and Size-Dependent CO2 Reduction Selectivity via Operando Scanning Photo-Electrochemical Microscopy</a></div><div class="paper-tags"><a href="co2-reduction-90d.html">co2-reduction</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="formate-90d.html">formate</a></div></td>
-<td>Fatemeh Kiani et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09612">2606.09612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09647.html">Ab initio parametrization of distributed polarizable force fields</a></div><div class="paper-tags"><a href="polarizable-water-90d.html">polarizable-water</a></div></td>
-<td>Felix Post et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09647">2606.09647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10101.html">Correlation-driven phonon renormalisation and the equation of state of $γ$-cerium</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Yao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10101">2606.10101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Patrick Müller et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
 </tr>
 </tbody></table>

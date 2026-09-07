@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="electrochemical-interfaces-30d.html">electrochemical-interfaces</a> · <a href="explicit-solvation-30d.html">explicit-solvation</a></div></td>
+<td>Yiming Guan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03486.html">Structural control over equilibrium silicon and oxygen isotopic fractionation: A first-principles density-functional theory study</a></div><div class="paper-tags"><a href="isotope-geochemistry-30d.html">isotope-geochemistry</a></div></td>
@@ -224,11 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08000.html">Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\varepsilon$-LiMnO$_2$ polymorph</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="neb-30d.html">neb</a></div></td>
 <td>Fukuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08000">2608.08000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07782.html">Understanding the Oxygen Reduction Reaction and Oxygen Evolution Reaction in Metal Intercalated Biphenylene Bilayers</a></div><div class="paper-tags"><a href="oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
-<td>Henri G. Mendonça et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07782">2608.07782</a></td>
 </tr>
 </tbody></table>

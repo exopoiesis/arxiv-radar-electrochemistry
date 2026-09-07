@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Wenjie Liu et al.</td>
@@ -698,11 +704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10191.html">Novel 3D Pentagraphene Allotropes: Stability, Electronic, Mechanical, and Optical Properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>I. M. Félix et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10191">2509.10191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02413.html">Electric-Field Driven Nuclear Dynamics of Liquids and Solids from a Multi-Valued Machine-Learned Dipolar Model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Elia Stocco et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02413">2502.02413</a></td>
 </tr>
 </tbody></table>

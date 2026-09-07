@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>corrosion — all</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <a href="corrosion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04734.html">Activated carbon-assisted anionic dye decomposition using a dual-liquid post-double dielectric barrier discharge plasma reactor</a></div></td>
+<td>Krishna V S et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04734">2609.04734</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21604.html">Investigating Sulfur Vacancy Passivation in Monolayer MoS2 FETs via Optically Coupled Low-Frequency Electrical Noise Spectroscopy</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>

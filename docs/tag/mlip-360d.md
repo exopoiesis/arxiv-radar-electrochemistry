@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11960.html">Revealing trends in catalytic activity of adatoms for hydrogen adsorption on carbon: a case study of graphene and carbon nanotube</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Thomas Leiner et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11960">2412.11960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02413.html">Electric-Field Driven Nuclear Dynamics of Liquids and Solids from a Multi-Valued Machine-Learned Dipolar Model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Elia Stocco et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02413">2502.02413</a></td>
 </tr>
 </tbody></table>

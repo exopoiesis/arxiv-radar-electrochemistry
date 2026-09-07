@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>co2-reduction — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <strong>360d</strong> <a href="co2-reduction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11325.html">Pristine and transition metal doped 2D AlSb as high performance electrocatalyst for selective CO2 reduction: A first-principles study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="formate-360d.html">formate</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Md. Mostaqul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11325">2509.11325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09357.html">Enhancing Oxygen Reduction Reaction on Pt-Based Electrocatalysts through Surface Decoration for Improved OH Reduction Equilibrium and Reduced H2O Adsorption</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Yu-Jun Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09357">2509.09357</a></td>
 </tr>
 </tbody></table>

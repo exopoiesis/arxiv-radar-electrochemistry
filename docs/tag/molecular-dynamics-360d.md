@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">567 papers</span>
+  <span class="paper-count">569 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>A. Martinez-Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="mlip-360d.html">mlip</a></div></td>
@@ -32,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03587.html">Charge Regulated conformational properties of polyelectrolyte near an oppositely charged nanoparticle</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Kawaljeet Kaur et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03587">2609.03587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04548.html">From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes</a></div></td>
+<td>Alireza F. Behbahany et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04548">2609.04548</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -3410,11 +3428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10191.html">Novel 3D Pentagraphene Allotropes: Stability, Electronic, Mechanical, and Optical Properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>I. M. Félix et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10191">2509.10191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02413.html">Electric-Field Driven Nuclear Dynamics of Liquids and Solids from a Multi-Valued Machine-Learned Dipolar Model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Elia Stocco et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02413">2502.02413</a></td>
 </tr>
 </tbody></table>

@@ -536,5 +536,259 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-09-03"
+ },
+ "2609.04548": {
+  "abstract": "Dynamic self-consistent field theory (DSCFT) provides an efficient continuum framework for studying structure formation in inhomogeneous polymer systems, but its predictive accuracy depends on the choice of the nonlocal mobilities. Here, we construct mobility functions for moderately and strongly entangled homopolymer and diblock copolymer systems from the relaxation dynamics of single-chain structure factors, based on molecular dynamics (MD) simulations of the Kremer-Grest model and analytical reptation theory. Single- chain mobilities are combined such that the resulting DSCFT accounts for the dependence of fluxes on local chain densities. The theory is then applied to the spinodal decomposition of symmetric homopolymer blends and diblock copolymer melts following a quench into the (micro)phase-separation regime. Predictions of DSCFT are systematically compared with MD simulations. Mobility functions derived from single-chain dynamics are found to reproduce the kinetics of structure formation more accurately than conventional Debye-type mobilities. We additionally investigate the influence of adding stochastic currents (noise) that are correlated according to the fluctuation-dissipation relation. At low noise levels, they enable the generation of equilibrium initial states and facilitate defect annealing. At high noise levels, however, nonolinear effects lead to discrepancies between DSCFT and MD simulations.",
+  "authors": [
+   "Alireza F. Behbahany",
+   "Jafar Charghalizadeh",
+   "Friederike Schmid"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Alireza F. Behbahany",
+  "pdf_url": "http://arxiv.org/pdf/2609.04548",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-03",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04605": {
+  "abstract": "This work presents a density functional theory (DFT) investigation of a two-dimensional (2D) C5N monolayer functionalized with Li, Na, and K for hydrogen storage. Pristine C5N exhibits weak H2 adsorption, while alkali-metal functionalization significantly enhances its storage capability. The C5N monolayer can stably accommodate up to six metal dopants, with binding energies stronger than the corresponding cohesive energies, indicating resistance to metal aggregation. Ab initio molecular dynamics simulations further confirm the thermal stability of the functionalized systems at 300 K. Charge transfer from the metal dopants to C5N enhances polarization and strengthens H2 adsorption. Each dopant can adsorb up to eight H2 molecules, yielding a maximum of 48 H2 molecules per unit cell and gravimetric storage capacities of 9.42, 8.61, and 7.93 wt% for Li-, Na-, and K-functionalized C5N, respectively. The average H2 adsorption energies of -0.16 to -0.17 eV/H2 indicate moderate interactions suitable for reversible storage. Thermodynamic analysis further demonstrates favourable H2 adsorption/desorption under practical operating conditions, while desorption-temperature, recovery-time, and volumetric analyses support the potential reversibility and storage performance of these systems. Overall, alkali-metal-functionalized C5N emerges as a promising 2D material for efficient and reversible H2 storage.",
+  "authors": [
+   "Gom Dorji",
+   "Sonam Peden",
+   "Syed Faraz Hasan",
+   "Kondo-Francois Aguey-Zinsou",
+   "Tanveer Hussain"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": "25 pages, 7 figures and 4 tables",
+  "first_author": "Gom Dorji",
+  "pdf_url": "http://arxiv.org/pdf/2609.04605",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-04",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "adsorption-energy",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04623": {
+  "abstract": "Recently synthesized carbon nanoribbons (CNRs) were investigated for hydrogen (H2) storage using first-principles density functional theory calculations. Pristine CNRs exhibited weak H2 adsorption; therefore, the host structure was modified by substituting carbon atoms at the C-H edges with 12 nitrogen atoms, followed by Mn and Y doping to enhance H2 binding. A maximum of five metal atoms could be accommodated on the 12N-CNRs. Electronic structure analysis revealed strong orbital hybridization between the metal atoms and the CNRs, while binding energy calculations confirmed the structural stability of the doped systems. Bader charge analysis further quantified the charge transfer between the metal atoms and the host structure. The average H2 adsorption energies were calculated to be -0.40 eV/H2 for the Mn-doped system and -0.25 eV/H2 for the Y-doped system, which are within the desirable range for reversible hydrogen storage. The maximum theoretical gravimetric storage capacities at 0 K reached 7.48 wt% for the Mn-doped system and 6.55 wt% for the Y-doped system. Under practical conditions of 30 atm and 298.15 K, the storage capacity of the Y-doped system decreased to 6.04 wt%, whereas the Mn-doped system maintained its full capacity of 7.48 wt%. Thermodynamic analysis indicated that H2 adsorption is favored at low temperatures and high pressures, while desorption becomes feasible at elevated temperatures and lower pressures. These results demonstrate that Mn- and Y-doped CNRs satisfy key U.S. Department of Energy requirements for reversible H2 storage and show promise as potential hydrogen storage materials under near-ambient conditions.",
+  "authors": [
+   "Gom Dorji",
+   "Amrutha M",
+   "Brahmananda Chakraborty",
+   "Sonam Peden",
+   "Syed Faraz Hasan",
+   "Shabbir Ahmad Tanveer Hussain"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 7 figures",
+  "first_author": "Gom Dorji",
+  "pdf_url": "http://arxiv.org/pdf/2609.04623",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-04",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04696": {
+  "abstract": "Modeling electrochemical interfaces under operational non-equilibrium conditions is vital for energy technologies but remains bottlenecked by the expensive cost of ab initio methods. Current machine learning potentials, largely designed for closed systems under homogeneous electric fields, are limited in open quantum transport applications. To overcome this, we present an E(3)-equivariant graph neural network that embeds voltage bias for open-system simulations. Our approach decouples the system energy and forces into zero-bias and bias-dependent contributions, assigning distinct vector encodings to electrode and scattering-region atoms to capture non-equilibrium conditions. Trained on limited discrete bias data, the model achieves high predictive accuracy and robust extrapolation transferability. When applied to a lithium/water interface, our model successfully captures the field-induced dynamic reorientation of water molecules and reproduces asymmetric electrochemical behavior at different electrodes.",
+  "authors": [
+   "Yiming Guan",
+   "Rongzhi Gao",
+   "ChiYung Yam",
+   "GuanHua Chen",
+   "Ziyang Hu"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yiming Guan",
+  "pdf_url": "http://arxiv.org/pdf/2609.04696",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-04",
+  "tags": [
+   "ab-initio",
+   "electrochemical-interfaces",
+   "explicit-solvation"
+  ],
+  "title": "Voltage-embedded equivariant machine learning potential for open system simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04734": {
+  "abstract": "Non-thermal Plasma (NTP) technology, including the Dielectric Barrier Discharge (DBD) reactor, has emerged as an effective advanced oxidation process (AOP) for treating persistent organic pollutants in industrial wastewater. Based on this objective, a dual-liquid dielectric-barrier-discharge plasma reactor was built and used to degrade a ternary anionic dye mixture comprising Reactive Red 120, Congo Red, and Methyl Orange in its post-discharge configuration. The adjustable length of the outer liquid electrode (grounded) provides flexibility in controlling the discharge length and cooling, thereby achieving higher degradation efficiency and greater reactor stability. The conducting-liquid high-voltage electrode (a dielectric tube filled with a conductive solution) helps mitigate metal corrosion and oxidation caused by reactive species in the discharge zone. A detailed study of the degradation of ternary anionic dye mixtures (simulated dye wastewater samples) in the presence of activated carbon (AC) was performed to explore the potential applications of post-discharge treatment. The activated carbon (granules) enhances the degradation rate of ternary anionic dye mixtures in basic solutions rather than in acidic or neutral solutions. A comparative study of the degradation reaction kinetics of the ternary anionic dye mixtures in acidic and basic solutions was conducted after analyzing UV-Vis absorption spectra. The role of other parameters, such as solution pH, the mass and size of AC particles, dye concentrations, and AC reuse, was investigated in relation to degradation efficiency. The degradation mechanism was elucidated by the formation of strong oxidizer (hydroxyl radicals) on the surface of activated carbon during post-discharge treatment. However, in acidic or neutral anionic dye solutions, the degradation mechanism was dominated by ozone.",
+  "authors": [
+   "Krishna V S",
+   " Surya",
+   "Mangilal Choudhary"
+  ],
+  "categories": [
+   "physics.plasm-ph",
+   "physics.app-ph",
+   "physics.chem-ph",
+   "physics.ins-det"
+  ],
+  "comment": null,
+  "first_author": "Krishna V S",
+  "pdf_url": "http://arxiv.org/pdf/2609.04734",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-09-04",
+  "tags": [
+   "corrosion"
+  ],
+  "title": "Activated carbon-assisted anionic dye decomposition using a dual-liquid post-double dielectric barrier discharge plasma reactor",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.04977": {
+  "abstract": "Ion intercalation enables reversible control of charge, structure and function in layered solids. Yet layered materials contain nanosheets with different thicknesses and stacking, whose intercalation pathways are averaged out in ensemble measurements. This becomes critical under Angstrom-scale confinement, where ion transport couples to solvent reorganization and host deformation, leaving the origins of kinetics, reversibility and activation unresolved. Here we combine operando interferometric scattering and interference reflection microscopy to resolve proton-driven dynamics in individual single- and multilayer Ti3C2Tx MXene flakes and show that even a few stacked layers introduce a significant kinetic barrier. Cycling then separates nanosheets into three persistent behaviors: reversible monolayers, restacked multilayers with incomplete recovery and delayed deintercalation, and coherently stacked multilayers that self-stabilize through reversible folding. Operando synchrotron X-ray diffraction shows this memory at electrode scale, where the interlayer structure converges towards a reproducible state. Our findings reveal cycling-induced structural memory that governs subsequent intercalation in layered MXenes.",
+  "authors": [
+   "Franz Groebmeyer",
+   "Mohsen Beladi",
+   "Christoph G. Gruber",
+   "Ruocun Wang",
+   "Pol Salles",
+   "Nhu Quynh Nguyen",
+   "Jakub Drnec",
+   "Yury Gogotsi",
+   "Emiliano Cortes"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "36 pages, 5 figures",
+  "first_author": "Franz Groebmeyer",
+  "pdf_url": "http://arxiv.org/pdf/2609.04977",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-04",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Operando imaging of intercalation memory in MXenes",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05030": {
+  "abstract": "ANT.UI is a Python graphical interface that automates the construction of molecular-junction geometries for NEGF-DFT quantum transport calculations. Through a real-time 3D viewer, users interactively position electrodes and molecules and generate complete, ready-to-run input files for Gaussian and ANT.Gaussian without manual scripting. Dedicated Pull, Grid, and Rotation assistants further automate electrode-pulling sequences, surface scans, and step-wise rotation studies, with optional geometry-optimisation chaining across each sequence. By replacing a process that previously demanded days of custom scripting with a point-and-click workflow, ANT.UI accelerates research in theoretical molecular electronics and lowers the barrier to entry for new users. The software also exports all constructed geometries in standard XYZ format, allowing direct reuse in molecular dynamics codes or third-party visualization tools without manual reformatting.",
+  "authors": [
+   "A. Martinez-Garcia",
+   "J. J. Palacios",
+   "C. Sabater"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "A. Martinez-Garcia",
+  "pdf_url": "http://arxiv.org/pdf/2609.05030",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-09-04",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05264": {
+  "abstract": "The launch of JWST has enabled unprecedented atmospheric characterization of exoplanets. In particular, the JWST-MIRI instrument in the mid-infrared enables probing of molecular species that are harder to detect in the near-infrared. This has come to the fore with the first MIRI-LRS observation of a candidate hycean world, K2-18 b, with potential signs of dimethyl sulfide in its atmosphere. The statistical significance of this result has been debated in subsequent works, arguing instead for the possibility of random noise, instrumental systematics, or a different molecule. The same applies to similar spectra reported for several other exoplanets using MIRI-LRS and interpreted with similar retrieval architectures. In this work, we distinguish between these possibilities with a homogeneous survey of MIRI-LRS transmission spectra of 10 diverse exoplanets, from temperate sub-Neptunes to hot rocky planets and gas giants. We first perform a comparative assessment of the spectra, considering fits with featureless models and pairwise correlations, followed by extensive atmospheric retrievals. With the retrievals, we search for over 150 trace species in the atmosphere of each planet. We find hints of complex molecules in the temperate sub-Neptunes and candidate hycean worlds K2-18 b, TOI-732 c and TOI-270 d, similar to previous works, but not in the other seven planets. Our results indicate that the observed spectral features are likely due to molecular absorption rather than instrument systematics or noise, and underscore these temperate sub-Neptunes as a unique class of planets. More observations are required to robustly identify the specific molecules and constrain the underlying chemical processes, biotic or abiotic.",
+  "authors": [
+   "Martin Binet",
+   "Nikku Madhusudhan",
+   "Måns Holmberg",
+   "Subhajit Sarkar"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted for publication in ApJL",
+  "first_author": "Martin Binet",
+  "pdf_url": "http://arxiv.org/pdf/2609.05264",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-09-04",
+  "tags": [],
+  "title": "A Homogeneous Survey of JWST MIRI Transmission Spectra of 10 Exoplanets",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05392": {
+  "abstract": "Glyphosate is a widely used herbicide whose persistence and toxicity in aquatic and terrestrial environments demand efficient removal strategies. Here we employ GFN2 xTB calculations with implicit ALPB aqueous solvation and automated docking to investigate the adsorption of all five pH dependent ionized forms of glyphosate (G1-G5) on (10,0) single walled carbon nanotubes covalently functionalized with carboxyl groups at 0-25% coverage. Adsorption energies reveal a clear charge dependent trend: the dianionic (G4) and trianionic (G5) species exhibit the most negative binding energies over the entire functionalization range, while the protonated and neutral forms (G1, G2) bind weakly, approaching reversible adsorption at high COOH contents. The deprotonated form G5 strengthens from -2.17 eV on pristine CNT to about -5.7 eV at 10% and 25% functionalization, with a local minimum near 15-20% COOH due to steric and electrostatic crowding of adjacent groups. Decomposition of the solvation free energy shows dominant electrostatic stabilization complemented by increasingly favorable hydrogen bond contributions as carboxyl density grows. All complexes display very small HOMO-LUMO gaps (0.02-0.22 eV), indicating high electronic sensitivity to adsorption and functionalization. Overall, CNT+COOH systems can operate in both strong capture and regenerable regimes depending on glyphosate ionization state, offering a tunable platform for pH responsive remediation.",
+  "authors": [
+   "H. T. Silva",
+   "L. C. S. Faria",
+   "C. Aguiar",
+   "T. A. Aversi-Ferreira",
+   "I. Camps"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "H. T. Silva",
+  "pdf_url": "http://arxiv.org/pdf/2609.05392",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-04",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "solvation-thermodynamics"
+  ],
+  "title": "From Electronic Structure to Environmental Remediation: Adsorption of Ionized Glyphosate on COOH-Modified Carbon Nanotube",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-04"
  }
 }

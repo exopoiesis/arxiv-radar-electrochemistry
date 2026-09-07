@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">104 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>A. Martinez-Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -32,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03587.html">Charge Regulated conformational properties of polyelectrolyte near an oppositely charged nanoparticle</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
 <td>Kawaljeet Kaur et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03587">2609.03587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04548.html">From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes</a></div></td>
+<td>Alireza F. Behbahany et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04548">2609.04548</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -620,29 +638,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17078.html">Limitations of Using BCA Codes for Modeling the Sputtering Behavior of Planetary Surfaces</a></div></td>
 <td>Noah Jäggi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17078">2606.17078</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Minaam Qamar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09341">2606.09341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09566.html">Deviations from Debye&#x27;s specific heat due to excess energy fluctuations</a></div></td>
-<td>Ralph V. Chamberlin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09566">2606.09566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09575.html">k-Means Clustering in Fingerprint-Based Configuration Selection for Fitting Interatomic Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Miroslav Lebeda et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09575">2606.09575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10221.html">Finite-temperature Fe K-edge X-ray absorption simulations reveal local structural dynamics of an iron(II) photosensitizer in solution and the crystalline phase</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
-<td>Patrick Müller et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10221">2606.10221</a></td>
 </tr>
 </tbody></table>

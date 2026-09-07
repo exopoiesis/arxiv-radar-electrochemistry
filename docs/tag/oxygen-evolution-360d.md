@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oxygen-evolution — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="oxygen-evolution-7d.html">7d</a> <a href="oxygen-evolution-30d.html">30d</a> <a href="oxygen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="oxygen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15665.html">Correlation Effects on Magnetic Structure and Lattice Dynamics of LaMn$_7$O$_{12}$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
 <td>Haeyoon Jung et al.</td>
 <td><a href="http://arxiv.org/abs/2509.15665">2509.15665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09803.html">CaCd$_2$P$_2$: A Visible-Light Absorbing Zintl Phosphide Stable under Photoelectrochemical Water Oxidation</a></div></td>
-<td>Guillermo L. Esparza et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09803">2509.09803</a></td>
 </tr>
 </tbody></table>

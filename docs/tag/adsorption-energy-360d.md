@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption-energy — 360d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04605">2609.04605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04623.html">Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Gom Dorji et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04623">2609.04623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05392.html">From Electronic Structure to Environmental Remediation: Adsorption of Ionized Glyphosate on COOH-Modified Carbon Nanotube</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
+<td>H. T. Silva et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05392">2609.05392</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28347.html">Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
@@ -356,11 +374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12020.html">Tuning the Magnetic Anisotropy Energy of MoS$_2$-supported Mn$_{12}$ complexes by Electric Field: A First-Principles Study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Shuanglong Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12020">2509.12020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09357.html">Enhancing Oxygen Reduction Reaction on Pt-Based Electrocatalysts through Surface Decoration for Improved OH Reduction Equilibrium and Reduced H2O Adsorption</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="co2-reduction-360d.html">co2-reduction</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Yu-Jun Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09357">2509.09357</a></td>
 </tr>
 </tbody></table>
