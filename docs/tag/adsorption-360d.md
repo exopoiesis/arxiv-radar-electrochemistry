@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,11 +1328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11960.html">Revealing trends in catalytic activity of adatoms for hydrogen adsorption on carbon: a case study of graphene and carbon nanotube</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Thomas Leiner et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11960">2412.11960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10207.html">Magnetism Induced by Azanide and Ammonia Adsorption in Defective Molybdenum Disulfide and Diselenide: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Guilherme S. L. Fabris et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10207">2509.10207</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>aimd — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <strong>360d</strong> <a href="aimd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14828.html">Statistics makes a difference: Machine learning adsorption dynamics of functionalized cyclooctine on Si(001) at DFT accuracy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hendrik Weiske et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14828">2509.14828</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10191.html">Novel 3D Pentagraphene Allotropes: Stability, Electronic, Mechanical, and Optical Properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>I. M. Félix et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10191">2509.10191</a></td>
 </tr>
 </tbody></table>

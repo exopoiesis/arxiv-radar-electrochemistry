@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,17 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11240.html">Nitrogen-vacancy centre in lonsdaleite: a novel nanoscale sensor?</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Anjay Manian et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11240">2505.11240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10101.html">Intrinsic disorder in the candidate quantum spin ice Pr$_2$Zr$_2$O$_7$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>T. J. Hicken et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10101">2509.10101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10207.html">Magnetism Induced by Azanide and Ammonia Adsorption in Defective Molybdenum Disulfide and Diselenide: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Guilherme S. L. Fabris et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10207">2509.10207</a></td>
 </tr>
 </tbody></table>
