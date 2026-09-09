@@ -790,5 +790,479 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-09-04"
+ },
+ "2609.05671": {
+  "abstract": "Tailoring Li+ solvation structures has emerged as a promising design principle across multiple Li metal battery (LMB) electrolytes, with localized high concentration electrolytes (LHCE) emerging as a leading candidate. However, rational design of these electrolytes remains limited by a poor quantitative understanding of how molecular properties govern Li+ solvation shell composition. Here we introduce a mean field modeling framework, built on an Ising model, that predicts solvation shell composition from donor number (DN), acceptor number (AN), molar ratio, and molecular size. This framework is end-to-end differentiable, which enables parameterization directly from molecular dynamics (MD) solvation structures via gradient-based optimization. Focusing on LHCE, the model achieves 10.7% RMSE and R2=0.87 for shell composition, 2.3% RMSE on free solvent ratio, and further reproduces solvation trends in real LHCE electrolytes, at a fraction of MD's cost. Our model also shows good generalizability on other electrolyte systems in addition to LHCE. Analysis of its interaction terms shows that DN dominates Li+ solvation energetics, providing a thermodynamic basis for empirical DN-based design rules. We further demonstrate the model's design utility on the LiTFSI/tetraglyme (G4) system absent from training. The model identifies fluorobenzene (FB) as a promising diluent and predicts a salt-concentration window with anion-rich solvation shells and low free solvent, favorable for stable anion-derived SEIs and high oxidative stability, respectively. This prediction is validated by higher-fidelity MD. This work establishes an interpretable differentiable framework for predicting Li+ solvation shell composition, with potential to extend to other electrolyte classes.",
+  "authors": [
+   "Hancheng Zhao",
+   "Hongyi Lin",
+   "Celia Kelly",
+   "Venkatasubramanian Viswanathan"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Hancheng Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2609.05671",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-04",
+  "tags": [
+   "hydration-shell",
+   "molecular-dynamics"
+  ],
+  "title": "Differentiable Solvation Shell Model for Rational Electrolyte Design",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05673": {
+  "abstract": "Davemaoite (CaSiO3 perovskite) is the third most abundant mineral in Earth's lower mantle and a dominant phase in subducted oceanic crust. Its crystal structure is distorted (tetragonal or orthorhombic) at ambient conditions but is considered to transform to cubic at high temperatures. Previous experiments reported low, nearly pressure-independent transition temperatures (approximately 600 K), demonstrating a long-standing discrepancy with theoretical predictions that mostly exceed 1000 K. Here, we determine the phase stability and thermal equation of state of CaSiO3 davemaoite and its titanium-bearing solid solution [Ca(Si0.75,Ti0.25)O3] under simultaneous high-pressure and high-temperature conditions using a laser-heated diamond anvil cell combined with synchrotron X-ray diffraction. We find that the tetragonal-to-cubic transition occurs at substantially higher temperatures than previously reported, with the titanium substitution further stabilizing the tetragonal phase and shifting the transition boundary to even higher temperatures. These findings indicate that CaSiO3 davemaoite in subducted oceanic crust likely undergoes its ferroelastic transition in the mid-lower mantle, whereas Ti-rich davemaoite may remain tetragonal throughout most of the lower mantle, transforming to cubic near the core-mantle boundary. Our results demonstrate that the compositionally dependent phase behaviour of davemaoite can account for the seismic anomalies observed in both the mid-lower mantle and the lowermost mantle.",
+  "authors": [
+   "Yoshiyuki Okuda",
+   "Bin Chen",
+   "Juliana Peckenpaugh",
+   "Keng-Hsien Chao",
+   "Saori Kawaguchi-Imada",
+   "Hirokazu Kadobayashi",
+   "Zhenxian Liu",
+   "Dongzhou Zhang"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Yoshiyuki Okuda",
+  "pdf_url": "http://arxiv.org/pdf/2609.05673",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-09-04",
+  "tags": [
+   "phase-stability"
+  ],
+  "title": "The tetragonal-cubic transition of davemaoite: Implications for lower mantle seismic anomalies",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05714": {
+  "abstract": "Foundation potentials (FPs) have emerged as a new basis for atomistic modeling. While their evaluation using average energy and force errors often indicates near-DFT accuracy, their performance in practical computational studies remains inconsistent. Here, we present FPBench, an application-oriented benchmark that evaluates FPs on representative computational tasks. Multiple state-of-the-art FPs are assessed on three fundamental tasks: force prediction for atomistic simulations, energy ranking for substitutional and vacancy orderings, and ion/vacancy migration. Benchmarking these FPs shows that average force and energy errors often fail to predict task performance, revealing substantial differences in practical reliability. FPBench introduces application-oriented error decomposition through metrics that resolve performance according to the physically consequential quantities and configurations governing computational tasks, including the fractions of highly accurate and large-force-error atoms, far-from-equilibrium atoms, relative phase-stability and convex-hull agreement, and along-path errors in ion migration. These error-decomposition metrics identify where FP errors arise within specific computational tasks, providing targeted guidance for model development. FPBench provides an open benchmark, evaluation code, and a public leaderboard for rigorous FP assessment and development.",
+  "authors": [
+   "Kiyan Amirian",
+   "Ramanuja Srinivasan Saravanan",
+   "Felix Adams",
+   "Charles E Schwarz",
+   "Yifei Mo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Kiyan Amirian",
+  "pdf_url": "http://arxiv.org/pdf/2609.05714",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-04",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "FPBench: Application-Oriented Error Decomposition for Foundation Potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-04"
+ },
+ "2609.05877": {
+  "abstract": "Selecting compact training sets for machine-learned interatomic potentials requires deciding whether to preserve structural diversity or target configurations on which models disagree. The better choice can depend on how much data is retained, making a comparison at one training-set size insufficient. Here we link selection criteria to prediction accuracy through a budget-resolved comparison of retrained MACE models on GAP-20 Carbon and pooled revised MD17. Structural coverage is compared with a response-guided selector that targets disagreement between a coverage-trained model and a full-data reference. This retrospective response witness tests the value of model disagreement for compressing an already labelled pool. At 5\\%, coverage gives smaller absolute deviations from the full-data error than random sampling across four force endpoints in both datasets. The witness has larger deviations than coverage at 1\\% and 5\\%, but the ordering reverses at 20\\%. At 20\\%, witness-selected models also lower direct held-out force errors by 0.46--5.89\\% relative to coverage, with all eight paired training-seed intervals favouring the witness. Six errors fall below the full-data reference. Mean force-error reductions are 0.164--0.167~meV~$\\textÅ^{-1}$, with larger gains for tail and masked endpoints. Complementary analyses show that learned similarity preserves the coverage ranking, while selecting by frozen-model error gives higher error than embedding coverage. These findings establish retained-data budget as a deciding variable in atomistic training-set selection and provide a direct test of when response-guided compression improves on structural coverage.",
+  "authors": [
+   "Jia Bi",
+   "Alin-Marin Elena"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jia Bi",
+  "pdf_url": "http://arxiv.org/pdf/2609.05877",
+  "primary_category": "cs.LG",
+  "published": "2026-09-05",
+  "tags": [
+   "mace"
+  ],
+  "title": "A budget-dependent crossover between coverage- and response-based training-set selection for machine-learned interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-05"
+ },
+ "2609.06120": {
+  "abstract": "Evaporating sessile water droplets universally deposit surface charges while simultaneously becoming self-charged---a phenomenon that remains under-appreciated despite its potentially important consequences. Here, we investigate one such consequence: droplet self-propulsion driven by self-charging. This self-propulsion arises spontaneously in the absence of external stimuli and produces self-avoiding trajectories that can displace droplets by many times their own diameter. Our results have important practical implications for processes requiring spatial precision, such as inkjet printing. The coupling between self-charging and self-propulsion produces mosaic surface charge patterns characterized by alternating polarities, which we explain with a physical model based on properties of the electric double layer.",
+  "authors": [
+   "Nitish Singh",
+   "Aaron D. Ratschow",
+   "Syed N. R. Kazmi",
+   "Dan Daniel"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Nitish Singh",
+  "pdf_url": "http://arxiv.org/pdf/2609.06120",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-05",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "Coupled self-charging and self-propulsion of evaporating sessile droplets",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-05"
+ },
+ "2609.06335": {
+  "abstract": "Grain-boundary chemistry is central to the coercivity and thermal stability of Nd2Fe14B permanent magnets, particularly in recycled magnets where recovery of the hard-magnetic phase does not by itself restore the intergranular microstructure. Our recent experimental study showed that nanoscale ZrB2 precipitates can emerge at grain boundaries and triple junctions during recycling despite an overall Zr concentration of only about 0.1 at.%, where they are associated with boundary stabilization and suppression of grain coarsening. Here we use spin-polarized density-functional theory with a Hubbard correction (DFT+U) to determine the atomistic thermodynamics underlying this preferential localization. A systematic set of composition-matched bulk/grain-boundary DFT+U supercells provides a common correlated-electron description across boundary chemistries. We compare B, Zr, Dy, and ZrB2-like local configurations in bulk and grain-boundary environments of Nd2Fe14B. Excess B is strongly stabilized at the boundary, while Zr also shows an independent thermodynamic preference for the interfacial region. When Zr and B are combined in a ZrB2-like configuration, the boundary preference is retained, indicating that the interface remains favorable as Zr-B coordination develops. These results establish a thermodynamic pathway for the co-localization of Zr and B prior to ZrB2 formation. Magnetic-state analysis further shows that all compared structures remain within the same high-moment Fe-sublattice regime, and boundary-localized defects generally perturb the normalized magnetization less than their matrix counterparts. The calculations therefore provide a first-principles explanation for why Zr-B chemistry concentrates at intergranular regions and how such boundary-localized states can support the microstructural stability required for high-coercivity recycled Nd-Fe-B magnets.",
+  "authors": [
+   "Avik Mahata",
+   "Miha Zakotnik"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Avik Mahata",
+  "pdf_url": "http://arxiv.org/pdf/2609.06335",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-06",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "First Principles Thermodynamics of Zr B Segregation at Grain Boundaries in Recycled Nd2Fe14B",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-06"
+ },
+ "2609.06350": {
+  "abstract": "Water dissociation on metal oxide surfaces is a key elementary step in heterogeneous catalysis, photocatalysis, and radiation chemistry, yet its mechanistic details on rare-earth (RE) sesquioxides remain poorly understood. Here, we investigate water dissociation on the (110) surfaces of three cubic bixbyite oxides, Sc$_2$O$_3$, Y$_2$O$_3$, and Lu$_2$O$_3$, using molecular dynamics combining ab initio calculations with on-the-fly machine-learning force field acceleration. By sampling 25 independent trajectories per material, we obtain an unbiased picture of the reaction landscape inaccessible to conventional static calculations. Two distinct dissociation pathways are identified: a conventional proximal mechanism with a small but finite barrier of $\\sim$0.1 eV, and a previously unreported distal mechanism that is effectively barrierless and energetically preferred at both the adsorption and dissociation stages. The low barriers are consistent with the periodic array of inherently undercoordinated RE$^{3+}$ sites in the bixbyite lattice, suggesting that ordered intrinsic coordination defects play a role analogous to stochastic oxygen vacancies in conventional oxides.",
+  "authors": [
+   "Shuxiang Zhou",
+   "Jay A. LaVerne",
+   "Hanna Hlushko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Shuxiang Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2609.06350",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-06",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-06"
+ },
+ "2609.06655": {
+  "abstract": "Machine-learning-based inverse design can accelerate the discovery of materials with targeted properties, but conventional structure--property models often require large training datasets and generalize poorly beyond their training distribution. Here, we present a differentiable inverse design framework based on a graph neural network molecular dynamics simulator. By combining a short dynamical initialization with physics-based refinement during simulation, the framework enables optimization well beyond the conditions represented in the training data. Using disordered elastic networks, we show that a simulator trained only on non-auxetic systems with Poisson's ratios between 0.1 and 0.4 can design strongly auxetic networks with values as low as -0.3. The framework also produces stress--strain responses outside the range observed during training, creates localized mechanical defects absent from the training data, and generalizes across system size, enabling optimization of networks tested up to 5000 nodes despite being trained only on networks with fewer than 200 nodes.",
+  "authors": [
+   "Sergey A. Shteingolts",
+   "Salman N. Salman",
+   "Ron Levie",
+   "Dan Mendels"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Sergey A. Shteingolts",
+  "pdf_url": "http://arxiv.org/pdf/2609.06655",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-06",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-06"
+ },
+ "2609.07106": {
+  "abstract": "Spinel chalcogenides provide a platform for investigating the interplay among metallic, superconducting, and pressure-induced insulating states. Here, we combine synchrotron powder X-ray diffraction and electrical-resistivity measurements to investigate the pressure evolution of CuIr2Se4, CuRh2S4, and CuRh2Se4 over pressure ranges extending beyond those previously explored. High-pressure diffraction reveals closely related monoclinic supercells in all three compounds. For CuIr2Se4 and CuRh2S4, constrained profile fits based on structural models relaxed using density functional theory are compatible with Phase-IV-type bond-disproportionated structures, whereas the data for CuRh2Se4 establish a compatible monoclinic unit cell without resolving its atomic-scale ordering pattern. Insulating-like transport develops abruptly over a narrow pressure range in CuIr2Se4 but more gradually over broader pressure ranges in the Rh-based compounds, in close correspondence with their respective structural transformations. We also establish previously unreported bulk superconductivity in CuIr2Se4 at ambient pressure: zero resistance is attained at 0.29 K, and the accompanying ac diamagnetic response is consistent with nearly complete superconducting shielding. These results establish a close relationship between the formation of the high-pressure monoclinic phases and the evolution toward insulating transport, and demonstrate that transition-metal and chalcogen substitutions tune the characteristic pressure scales and the competition with superconductivity within a closely related structural framework.",
+  "authors": [
+   "M. Emi",
+   "M. Shiomi",
+   "K. Kojima",
+   "K. Sugimoto",
+   "T. Karasawa",
+   "H. Suzuki",
+   "M. Takahashi",
+   "K. Oka",
+   "H. Kadobayashi",
+   "S. Kawaguchi-Imada",
+   "N. Hirao",
+   "T. Ohashi",
+   "D. Ito",
+   "T. Kubo",
+   "M. Matsushita",
+   "M. Nohara",
+   "K. Matsubayashi",
+   "N. Katayama"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el",
+   "cond-mat.supr-con",
+   "physics.chem-ph"
+  ],
+  "comment": "19 pages, 8 figures",
+  "first_author": "M. Emi",
+  "pdf_url": "http://arxiv.org/pdf/2609.07106",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-07",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "Coupled structural and electronic evolution under pressure in CuIr2Se4, CuRh2S4, and CuRh2Se4",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-07"
+ },
+ "2609.07477": {
+  "abstract": "Recent developments of universal machine learning interatomic potentials (UMLIPs) offer a fast route for screening molecular crystals based on geometry relaxation and energy ranking, but their reliability across chemically diverse energetic materials remains elusive. In particular, it is unclear whether or not these UMLIPs are over-sensitive to break the desired molecular connectivity for relaxing the periodic crystals. Herein we tested the hypothesis that classical force-field pre-relaxation can provide a more suitable starting geometry for subsequent UMLIP relaxation on a large database of high energy molecular crystals. Three models (MACE, MACE-OFF and UMA) in conjunction with the General Amber Force Field (GAFF) were applied to test this hypothesis. Among them, direct MACE-OFF and UMA showed very high relaxation success and preserved the reference geometries most closely, but they still exhibit failures for some rare cases. Using GAFF pre-relaxation can systematically reduce the number of failed relaxations with lower computational costs. Our comparative failure and robustness analyses revealed distinct trade-offs among the evaluated models. Among them, MACE-OFF achieves a better compromise between potential energy surface smoothness, structural fidelity, and stress convergence, serving as a good choice to provide a reliable foundation for automated structural optimization.",
+  "authors": [
+   "Musiha Mahfuza Mukta",
+   "Osman Goni Ridwan",
+   "Romain Perriot",
+   "Qiang Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 9 figures",
+  "first_author": "Musiha Mahfuza Mukta",
+  "pdf_url": "http://arxiv.org/pdf/2609.07477",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-07",
+  "tags": [
+   "mace"
+  ],
+  "title": "Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-07"
+ },
+ "2609.07509": {
+  "abstract": "A general scheme of evolution from autocatalytic processes to socio-technological system is discussed from the perspective of maximum energy dissipation principle. The scheme treats the emergence of biological systems as an initial stage in the acceleration of global free energy dissipation. The sequential emergence of qualitatively new levels of organisation (biological cell, multicellular organism, social system) has been proposed, the levels are suggested as the results of cooperation (symbiosis) of the dissipative systems at the previous levels. The cooperation/symbiosis provides sufficient complexity for development of the next, essentially a new level of energy dissipation, leading to a new form of free energy utilization and a new form of information mapping. From a thermodynamic perspective, every qualitatively new level of biological organisation provides an additional step to increase the rate of energy dissipation from qualitatively new sources, essentially widening the number of these sources involved in the utilization.",
+  "authors": [
+   "Adam Moroz",
+   "Seng Chong"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Adam Moroz",
+  "pdf_url": "http://arxiv.org/pdf/2609.07509",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-09-07",
+  "tags": [
+   "autocatalysis",
+   "dissipative-systems"
+  ],
+  "title": "Acceleration of energy dissipation by biological systems",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-07"
+ },
+ "2609.07818": {
+  "abstract": "Water worlds with potential deep oceans are at the forefront of currently observable exoplanetary habitability. The standard requirements for habitability are the presence of an energy source, a source of nutrients, and a solvent, all of which can be met in exoplanets with deep liquid water oceans. Such planets may be numerous, ranging from hycean worlds and ocean worlds to terrestrial-size planets with enhanced water content. However, abiogenesis requires additional conditions, namely a mechanism to accumulate nutrients to the high concentrations required for prebiotic chemistry, and an energy source to drive the chemistry. A deep ocean, and in some cases the high-pressure ice layers underneath, has traditionally been thought to prevent the required concentrations. Here we outline a location where nutrients could be concentrated in sufficiently high quantities to make abiogenesis possible -- at the interface between the open ocean and the surface ice shelf. Using a 3D General Circulation Model, we explore cases corresponding to several candidate habitable exoplanets which might have dayside sea ice. We discuss how the planet's climate influences the nature and behaviour of the sea ice. We investigate the ability of small-scale ice formation and melting processes to concentrate nutrients to prebiotically useful levels, and also explore the potential for meteoritic impactor fragments to provide a platform for prebiotic chemistry. We find that both of these mechanisms may plausibly provide concentrated chemical feedstock for prebiotic chemistry, which adds an important new perspective when evaluating the prospects of habitability in planets with deep oceans.",
+  "authors": [
+   "Edouard F. L. Barrier",
+   "Nikku Madhusudhan",
+   "Frances E. Rigby"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted in MNRAS. 25 pages, 12 figures",
+  "first_author": "Edouard F. L. Barrier",
+  "pdf_url": "http://arxiv.org/pdf/2609.07818",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-09-07",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Sea Ice as an Origin of Life Location for Hycean and Ocean Worlds",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-09-07"
+ },
+ "2609.08329": {
+  "abstract": "We present a combined density functional theory (DFT) and density functional tight binding (DFTB) study of zirconia (ZrO2) nanoparticles of experimentally relevant sizes of several nanometers and their interactions with the CO molecule. A hybrid DFTB - Force Field (DFTB-FF) framework is developed, whereby band structure calculations rely on an existing Slater-Koster framework, while the accuracy of structural optimization and adsorption properties is controlled by the introduction of classical long-range interatomic potentials into DFTB instead of the traditional repulsive potentials. Additionally, coordination-dependent Zr-C potentials are introduced to account for the distinct local chemical environments of bulk-like facet sites and under-coordinated tip and edge sites, thereby improving the description of CO adsorption. This hybrid DFTB-FF approach substantially improves the robustness of geometry optimization and provides a practical strategy for extending the applicability of DFTB to complex oxide nanostructures. The calculations reveal that termination stoichiometry can be used to engineer intrinsic, p-type, or n-type electronic structures and thereby tune the adsorption activity of zirconia nanoparticles. While stoichiometric nanoparticles do not activate the C-O bond, low-coordinated sites in Zr-rich (n-type) nanoparticles exhibit chemisorption accompanied by charge donation into a CO antibonding LUMO-derived orbital, resulting in C-O bond activation. These results demonstrate that stoichiometry-controlled electronic structure and under-coordinated surface sites introduced by nanostructuring play a key role in governing the adsorption strength and reactivity of zirconia nanoparticles.",
+  "authors": [
+   "Kexin Chen",
+   "William Dawson",
+   "Aulia Sukma Hutama",
+   "Takahito Nakajima",
+   "Keisuke Kameda",
+   "Manabu Ihara",
+   "Sergei Manzhos"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Kexin Chen",
+  "pdf_url": "http://arxiv.org/pdf/2609.08329",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-08",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.08363": {
+  "abstract": "Combinatorial processing platforms (CPPs), integrating Si microtip arrays with combinatorial thin film synthesis and atom probe tomography (APT), enable near-atomic-scale characterization of compositionally complex solid solutions (CCSSs) under diverse processing and reaction conditions, including oxidation, thermal phase stability and electrocatalytic reactions. Their application at elevated temperatures, however, can be limited when CCSS constituents such as Pd and Pt react with the Si support to form silicides. Although thermally grown SiO2 has proven effective as a diffusion barrier between pure Pt and Si, its performance for multicomponent CCSS thin films is unclear. Here, using Ag-Au-Pd-Pt as a model system, we compare a 25 nm thermally grown SiO2 barrier with native Si oxide during annealing using APT and transmission electron microscopy. Native Si oxide prevents detectable interfacial reactions up to 300°C, but at 400°C Pd and Pt react with Si, causing silicide formation and substantial redistribution of the film constituents. At 600°C, extensive substrate reactions disrupt the CCSS film and produce a pronounced needle-shaped silicide morphology. In contrast, thermally grown SiO2 suppresses CCSS thin film-substrate reactions up to 600°C and retains the CCSS composition. The thermally grown SiO2 thus extends the applicable temperature range of Si-based CPPs to at least 600°C for near-atomic-scale characterization of CCSS thin films.",
+  "authors": [
+   "Elaheh Akbarnejad",
+   "Aleksander Kostka",
+   "Advika Chesetti",
+   "Alan Savan",
+   "Georg Fritz",
+   "Kamen Kozhuharov",
+   "Matthias Karl Klein",
+   "Yujiao Li",
+   "Alfred Ludwig"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Elaheh Akbarnejad",
+  "pdf_url": "http://arxiv.org/pdf/2609.08363",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-08",
+  "tags": [
+   "electrocatalysis",
+   "phase-stability"
+  ],
+  "title": "A thermally grown SiO2 diffusion barrier enabling high-temperature investigation of Ag-Au-Pd-Pt thin films",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.08399": {
+  "abstract": "Universal machine-learning interatomic potentials (u-MLIPs) aim to generalize across diverse configurations. Benchmarks enable reproducible evaluation but may not expose failures outside their predefined scope. Here, we show that physics-informed search can complement benchmark-based evaluation by uncovering hidden failure modes. We introduce MLIP Detective, an agentic framework for active failure mode discovery. Starting from benchmark evidence, MLIP Detective generates falsifiable, physics-informed failure hypotheses, screens them with inexpensive simulations, and escalates only the most suspicious cases to human experts together with proposed verification protocols. Without issue-specific prompting, MLIP Detective identified and characterized a systematic anomaly in MACE-MPA-0: the model predicted some relaxed adsorbate-surface systems involving O- or F-containing adsorbates to be higher in energy than their corresponding separated fragments. Using cross-model comparisons, MLIP Detective further inferred a likely training-data origin for the anomaly, consistent with recent reports.",
+  "authors": [
+   "Ryuhei Okuno",
+   "Nontawat Charoenphakdee",
+   "Kaoru Hisama",
+   "Yuta Tsuboi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Ryuhei Okuno",
+  "pdf_url": "http://arxiv.org/pdf/2609.08399",
+  "primary_category": "cs.LG",
+  "published": "2026-09-08",
+  "tags": [
+   "adsorption",
+   "mace",
+   "mlip"
+  ],
+  "title": "MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.08721": {
+  "abstract": "Aqueous redox-flow batteries based on TEMPO derivatives are promising for large-scale energy storage, but their practical use is limited by the chemical instability of the oxidized N -oxoammonium state. In this work, we investigate the degradation of five TEMPO derivatives using ab initio molecular dynamics combined with enhanced sampling. Two proposed degradation mechanisms, ring opening and Hofmann elimination, are examined and their corresponding activation free energies are compared. For all derivatives considered, ring opening exhibits a lower activation free energy than Hofmann elimination, identifying it as the kinetically preferred degradation pathway. The magnitude of the ring-opening barrier, however, varies significantly between molecules, showing that different functionalizations strongly influence its stability toward degradation. The predicted preference for ring opening is consistent with available experimental studies, which have identified or inferred ring-opening degradation for several TEMPO-based catholytes. These results provide an atomistic picture of degradation pathways that are difficult to resolve experimentally and highlight the importance of molecular structure in controlling the kinetic stability of TEMPO derivatives in aqueous electrolytes.",
+  "authors": [
+   "Line Mouaffac",
+   "Maiwenn Souetre",
+   "Guillaume Jeanmairet",
+   "Mathieu Salanne"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "8 pages, 3 figures",
+  "first_author": "Line Mouaffac",
+  "pdf_url": "http://arxiv.org/pdf/2609.08721",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-08",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.08878": {
+  "abstract": "Hydrogen isotope retention in plasma facing and structural alloys is a central materials challenge for deuterium-tritium fusion. Motivated by ion beam irradiation experiments and first principles calculations, we identify an irradiation-enabled mechanism whereby solute segregation to defect sinks enhances hydrogen isotope trapping. Triple-ion irradiation of reduced activation ferritic-martensitic steel F82H reveals pronounced segregation of Cr and Ta to cavity surfaces. Density functional theory shows that these segregants markedly increase H stability at cavities by strengthening binding energies and increasing migration barriers, leading to substantially higher attention. The effect originates from solute-tuned electronic structure: Ta promotes strong H 1s-metal d orbital hybridization, whereas Cr shifts the surface d-band toward a more favorable bonding configuration. These findings provide an atomistic link between irradiation-induced segregation and elevated-temperature hydrogen isotope retention and alloy chemistry routes to control tritium inventory in fusion environments.",
+  "authors": [
+   "Lihao Shi",
+   "Logan N. Clowers",
+   "Qing Peng",
+   "Gary S. Was",
+   "Fei Gao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "The manuscript is currently under review at Physical Review Letters",
+  "first_author": "Lihao Shi",
+  "pdf_url": "http://arxiv.org/pdf/2609.08878",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-08",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Controlling Hydrogen Isotope Retention at Helium Cavities through Radiation-Induced Segregation in Fusion Steels",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-08"
  }
 }

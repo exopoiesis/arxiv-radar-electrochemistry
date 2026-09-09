@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mace — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <strong>90d</strong> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08399.html">MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Ryuhei Okuno et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08399">2609.08399</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07477.html">Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems</a></div></td>
+<td>Musiha Mahfuza Mukta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07477">2609.07477</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05877.html">A budget-dependent crossover between coverage- and response-based training-set selection for machine-learned interatomic potentials</a></div></td>
+<td>Jia Bi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05877">2609.05877</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01911.html">A Generalized Approach for Incorporating Geometry and Directionality into Coarse-Grained Machine-Learned Potentials</a></div></td>
@@ -218,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="explicit-solvation-90d.html">explicit-solvation</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Xiaoyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12704.html">Fine-tuning MLIP foundation models: strategies for accuracy and transferability</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Tamás Lajos Tompa et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12704">2606.12704</a></td>
 </tr>
 </tbody></table>

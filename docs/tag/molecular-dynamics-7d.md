@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Shuxiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06655.html">Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics</a></div></td>
+<td>Sergey A. Shteingolts et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06655">2609.06655</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
@@ -26,6 +44,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>A. Martinez-Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05671.html">Differentiable Solvation Shell Model for Rational Electrolyte Design</a></div><div class="paper-tags"><a href="hydration-shell-7d.html">hydration-shell</a></div></td>
+<td>Hancheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05671">2609.05671</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
@@ -62,17 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="grotthuss-7d.html">grotthuss</a></div></td>
 <td>Eslam Ibrahim et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="ion-transport-7d.html">ion-transport</a></div></td>
-<td>Kunik Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01879.html">Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel</a></div></td>
-<td>Ajay Annamareddy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01879">2609.01879</a></td>
 </tr>
 </tbody></table>

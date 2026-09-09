@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08878.html">Controlling Hydrogen Isotope Retention at Helium Cavities through Radiation-Induced Segregation in Fusion Steels</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Lihao Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08878">2609.08878</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06335.html">First Principles Thermodynamics of Zr B Segregation at Grain Boundaries in Recycled Nd2Fe14B</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
+<td>Avik Mahata et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06335">2609.06335</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Shuxiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -62,11 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="grotthuss-7d.html">grotthuss</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Eslam Ibrahim et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00724.html">Phase Switchable Photocatalytic Water Splitting via a Paraelectric-Ferroelectric Transition in Zr2Ge2S6 Monolayer: A Comprehensive Theoretical Insights</a></div><div class="paper-tags"><a href="hydrogen-evolution-7d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-7d.html">oxygen-evolution</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
-<td>Jubair Hossan Abir et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00724">2609.00724</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>origin-of-life — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <strong>30d</strong> <a href="origin-of-life-90d.html">90d</a> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07818.html">Sea Ice as an Origin of Life Location for Hycean and Ocean Worlds</a></div></td>
+<td>Edouard F. L. Barrier et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07818">2609.07818</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22348.html">The first major transition: Origin of life from a multilevel selection perspective</a></div></td>

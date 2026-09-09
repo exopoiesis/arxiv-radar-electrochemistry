@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08399.html">MLIP Detective: Active Failure Mode Discovery Beyond Benchmark Scores for Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="mace-90d.html">mace</a></div></td>
+<td>Ryuhei Okuno et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08399">2609.08399</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03518.html">Orbital-Free DFT-Assisted Machine-Learned Molecular Dynamics for Electric-Field-Driven Ionic Transport</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yusuke Nishiya et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15001.html">Distilling latent electrostatics from foundation machine learning interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="explicit-solvation-90d.html">explicit-solvation</a> · <a href="mace-90d.html">mace</a></div></td>
 <td>Xiaoyu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15001">2606.15001</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12704.html">Fine-tuning MLIP foundation models: strategies for accuracy and transferability</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a></div></td>
-<td>Tamás Lajos Tompa et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12704">2606.12704</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">104 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Shuxiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06655.html">Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics</a></div></td>
+<td>Sergey A. Shteingolts et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06655">2609.06655</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
@@ -26,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>A. Martinez-Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05671.html">Differentiable Solvation Shell Model for Rational Electrolyte Design</a></div><div class="paper-tags"><a href="hydration-shell-90d.html">hydration-shell</a></div></td>
+<td>Hancheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05671">2609.05671</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
@@ -632,11 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13833.html">Machine-learned dynamics of surface polarons at reduced oxide surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Luca Leoni et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13833">2606.13833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17078.html">Limitations of Using BCA Codes for Modeling the Sputtering Behavior of Planetary Surfaces</a></div></td>
-<td>Noah Jäggi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.17078">2606.17078</a></td>
 </tr>
 </tbody></table>

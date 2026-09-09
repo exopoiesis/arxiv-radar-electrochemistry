@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08329.html">Band Structure Modulation of ZrO2 Nanoparticles for Control of CO Adsorption Properties: A Combined Density Functional Theory - Density Functional Tight Binding Study</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
+<td>Kexin Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08329">2609.08329</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08878.html">Controlling Hydrogen Isotope Retention at Helium Cavities through Radiation-Induced Segregation in Fusion Steels</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Lihao Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08878">2609.08878</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07106.html">Coupled structural and electronic evolution under pressure in CuIr2Se4, CuRh2S4, and CuRh2Se4</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
+<td>M. Emi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07106">2609.07106</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06335.html">First Principles Thermodynamics of Zr B Segregation at Grain Boundaries in Recycled Nd2Fe14B</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
+<td>Avik Mahata et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06335">2609.06335</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -32,6 +56,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>A. Martinez-Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05714.html">FPBench: Application-Oriented Error Decomposition for Foundation Potentials</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Kiyan Amirian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05714">2609.05714</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
@@ -74,17 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Ritam Chakraborty et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00914.html">Sharp Minimax Limits and Compatibility Spectra for Critical Near-DFT Index-Only Frequency Estimation</a></div></td>
-<td>Armon Rasooli et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00914">2609.00914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Kunik Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
 </tr>
 </tbody></table>

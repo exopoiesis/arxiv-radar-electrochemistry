@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vacancies — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <strong>30d</strong> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Shuxiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05714.html">FPBench: Application-Oriented Error Decomposition for Foundation Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Kiyan Amirian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05714">2609.05714</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -86,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11388.html">Many-Body Destabilization of Intermediate Oxygen-Hole States</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Anirudh Adavi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11388">2608.11388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Zahabul Islam</td>
-<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
 </tr>
 </tbody></table>

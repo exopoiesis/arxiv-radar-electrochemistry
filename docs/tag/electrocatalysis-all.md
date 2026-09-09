@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrocatalysis — all</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <a href="electrocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08363.html">A thermally grown SiO2 diffusion barrier enabling high-temperature investigation of Ag-Au-Pd-Pt thin films</a></div><div class="paper-tags"><a href="phase-stability-all.html">phase-stability</a></div></td>
+<td>Elaheh Akbarnejad et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08363">2609.08363</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="microkinetics-all.html">microkinetics</a> · <a href="oxygen-evolution-all.html">oxygen-evolution</a></div></td>

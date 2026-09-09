@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08721.html">Competing Ring-Opening and Hofmann Elimination Pathways in Aqueous TEMPO Catholytes: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a></div></td>
+<td>Line Mouaffac et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08721">2609.08721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Shuxiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06655.html">Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics</a></div></td>
+<td>Sergey A. Shteingolts et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06655">2609.06655</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04605.html">Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -26,6 +44,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05030.html">ANT:UI: An interactive 3D tool for preparing ANT.Gaussian molecular junction geometries</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>A. Martinez-Garcia et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05030">2609.05030</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05671.html">Differentiable Solvation Shell Model for Rational Electrolyte Design</a></div><div class="paper-tags"><a href="hydration-shell-30d.html">hydration-shell</a></div></td>
+<td>Hancheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05671">2609.05671</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-03</td>
@@ -218,11 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a></div></td>
 <td>Abhishek Raghav et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Zahabul Islam</td>
-<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
 </tr>
 </tbody></table>

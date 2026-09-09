@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06335.html">First Principles Thermodynamics of Zr B Segregation at Grain Boundaries in Recycled Nd2Fe14B</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Avik Mahata et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06335">2609.06335</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15765.html">Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Subhadeep Bandyopadhyay et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Enrico Di Lucente et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08842.html">Light-Stabilized Metastable Electronic State in NiO with Enhanced Orbital Hybridization2</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Thomas C. Rossi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08842">2608.08842</a></td>
 </tr>
 </tbody></table>
