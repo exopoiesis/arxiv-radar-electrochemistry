@@ -28,6 +28,24 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.08878">2609.08878</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09426.html">Josephson energy of superconducting junctions: amorphous versus crystalline tunnel barriers</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Wanting Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09426">2609.09426</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09446.html">Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides</a></div></td>
+<td>Anmol Lamichhane et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09446">2609.09446</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="phase-stability-7d.html">phase-stability</a> · <a href="phase-transitions-7d.html">phase-transitions</a> · <a href="pyrite-7d.html">pyrite</a></div></td>
+<td>Gulshan Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07106.html">Coupled structural and electronic evolution under pressure in CuIr2Se4, CuRh2S4, and CuRh2Se4</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
 <td>M. Emi et al.</td>
@@ -86,23 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03757.html">Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite</a></div></td>
 <td>Dipanwita Mitra et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03757">2609.03757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Daniel Duarte-Ruiz et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div></td>
-<td>Oussama Er-Riyahi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02744">2609.02744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Ritam Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
 </tr>
 </tbody></table>

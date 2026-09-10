@@ -28,6 +28,24 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.08878">2609.08878</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09426.html">Josephson energy of superconducting junctions: amorphous versus crystalline tunnel barriers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Wanting Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09426">2609.09426</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09446.html">Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides</a></div></td>
+<td>Anmol Lamichhane et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09446">2609.09446</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a> · <a href="phase-transitions-360d.html">phase-transitions</a> · <a href="pyrite-360d.html">pyrite</a></div></td>
+<td>Gulshan Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09469">2609.09469</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07106.html">Coupled structural and electronic evolution under pressure in CuIr2Se4, CuRh2S4, and CuRh2Se4</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
 <td>M. Emi et al.</td>
@@ -4910,23 +4928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12020.html">Tuning the Magnetic Anisotropy Energy of MoS$_2$-supported Mn$_{12}$ complexes by Electric Field: A First-Principles Study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
 <td>Shuanglong Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12020">2509.12020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13146.html">A deep learning model for chemical shieldings in molecular organic solids including anisotropy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Matthias Kellner et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13146">2506.13146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11200.html">&quot;Adiabatic&quot; Elastic Constants in Hubbard-Corrected Density-Functional Theory DFT+U: case UO$_2$</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Mahmoud Payami et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11200">2509.11200</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11231.html">Achieving DFT accuracy in short range ordering and stacking fault energy using moment tensor potential for CoCrFeNi and CoCrNi</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Mashroor S. Nitol et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11231">2509.11231</a></td>
 </tr>
 </tbody></table>

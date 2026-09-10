@@ -1264,5 +1264,116 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-09-08"
+ },
+ "2609.09426": {
+  "abstract": "The Josephson energy $E_J$ is a key parameter governing the properties of transmon superconducting qubits. In Al/AlO$_x$/Al junctions, $E_J$ is set by electron tunneling through an ultrathin oxide barrier and therefore depends exponentially on the atomic structure of the barrier. We compute $E_J$ by first-principles device modeling based on the NEGF-DFT quantum-transport method, comparing a junction with a crystalline Al$_2$O$_3$ barrier against ten junctions with melt--quenched amorphous Al$_2$O$_3$ barriers of the same thickness. From the Fermi-level transmission and the Ambegaokar--Baratoff relation, we obtain a mean $E_J/h$ of $2.78$ GHz for the amorphous ensemble, with a standard deviation of $4.67$ GHz, compared with $0.73$ GHz for the crystalline reference; individual amorphous values span nearly two orders of magnitude. Scattering-state analysis shows that transport is quantum tunneling and that the variability originates from stoichiometric inhomogeneity of the amorphous oxide: Al-rich, low-barrier regions can connect into percolation-like tunneling pathways that strongly enhance the conductance. A realistic $200\\times200$ nm$^2$ junction self-averages over more than $2\\times10^4$ such microscopic regions. These results establish a quantitative atomistic route from oxide microstructure to the superconducting-circuit energy scale $E_J$.",
+  "authors": [
+   "Wanting Zhang",
+   "Aldilene Saraiva-Souza",
+   "Félix Beaudoin",
+   "Xianghua Kong",
+   "Hong Guo",
+   "Yu Zhu"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "5 figures",
+  "first_author": "Wanting Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2609.09426",
+  "primary_category": "quant-ph",
+  "published": "2026-09-08",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Josephson energy of superconducting junctions: amorphous versus crystalline tunnel barriers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.09446": {
+  "abstract": "Lutetium hydrides (LuH$_x$, $1.75 \\leq x \\leq 3$) form a diverse series of phases, several of which superconduct under pressure. Characterizing their electronic properties has remained challenging owing to a high propensity for hydrogen defect formation, and recent angle-resolved photoemission (ARPES) measurements reveal puzzling flat-band regions that position these materials as candidates where superconductivity and flat-band physics may intersect. Here, by combining density functional theory, dynamical mean-field theory, and the constrained random-phase approximation, we uncover the microscopic origin and correlation nature of these flat bands. Across all compositions, the screened on-site Coulomb interaction is larger for H-s states than for Lu-$d$ states due to compact hydrogen orbitals. Nevertheless, these systems remain weakly correlated metals: the nearly filled H-$s$ shell admits little charge fluctuation, so its large interaction acts as a static level shift rather than a source of correlation. Although hydrogen primarily occupies tetrahedral sites at $x=2$, we discover that anti-site defects--where hydrogens occupy slightly unfavorable octahedral sites--generate both the ARPES flat-band features and the low-energy optical absorption peak, attesting to the usual defective nature of such materials in experimental samples. We further find that correlation strength is governed primarily by hydrogen orbital filling at these sites rather than the interaction magnitude itself. Consequently, we identify hydrogen orbital filling as the fundamental organizing principle dictating correlation and low-energy flat-band physics in lutetium hydrides.",
+  "authors": [
+   "Anmol Lamichhane",
+   "Adam Denchfield",
+   "Hyeondeok Shin",
+   "Panchapakesan Ganesh",
+   "Russell J. Hemley",
+   "Hyowon Park"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 6 figures",
+  "first_author": "Anmol Lamichhane",
+  "pdf_url": "http://arxiv.org/pdf/2609.09446",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-09-08",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Origin of Flat Bands and Role of Electron Correlation in Lutetium Hydrides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.09469": {
+  "abstract": "We systematically investigated the phase stability and pressure dependence of the elastic properties of four GeO2 polymorphs: rutile-, CaCl2-, alpha-PbO2-, and pyrite-type phases using theoretical calculations based on density functional theory. The elastic constants were calculated at 5 GPa intervals within the respective stability ranges of the four phases, as determined from static enthalpy calculations. We further employed a classical strain-coupled Landau free-energy expansion to describe the pressure evolution of the elastic response associated with the rutile- to CaCl2-type transition and to elucidate the origin of the elastic softening near the transition. The rutile- to CaCl2-type phase transition is consistent with a Landau-type second-order transition, with a critical pressure of 14.6 GPa obtained from the strain-based analysis. As the transition pressure approaches, elastic softening develops in the rutile-type phase, resulting in anomalous pressure dependence of the bulk and shear modulus. The calculated elastic-wave anisotropy increases markedly near the transition, primarily due to the rapid reduction in shear-wave velocity, reaching a maximum of approximately 122% at 22.5 GPa. Following the transition, the anisotropy decreases sharply in the CaCl2-type phase and exhibits a discontinuity at the CaCl2-type/alpha-PbO2 -type phase boundary. The higher-pressure alpha-PbO2- and pyrite-type phases exhibit comparatively weak pressure dependence of anisotropy, with a small discontinuity at their respective phase transition boundaries. The pyrite-type phase has the lowest anisotropy, reaching only approximately 4-5% at high pressure, consistent with the high-symmetry cubic structure and nearly isotropic elastic-wave propagation.",
+  "authors": [
+   "Gulshan Kumar",
+   "Sumit Ghosh",
+   "Sharad Babu Pillai",
+   "Rajkrishna Dutta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Gulshan Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2609.09469",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-08",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability",
+   "phase-transitions",
+   "pyrite"
+  ],
+  "title": "High-pressure elastic properties of GeO2 polymorphs up to 120 GPa",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.09824": {
+  "abstract": "Medical claims data comprise the financial details, including the expenses and billing information, as well as the clinical information, such as the diagnoses and treatments, of patients visiting medical facilities. Recently, it has been acknowledged that large databases can be constructed from medical claims data for medical research purposes. However, the clinical information within these datasets is often medically unstructured, limiting its application in comprehensive analyses. This study enhances predictive model performance for major adverse cardiovascular events (MACE), a leading cause of death worldwide. Models that predict MACE are crucial to clinical practice guidelines. We utilize a cross-attention mechanism to develop a method that effectively weights the relationships between diagnoses and treatments. Effectively repre- senting the clinical information contained in medical claims data, this approach generates more representative features for predicting MACE. The ROC-AUC score of our proposed cross-attention-based model was 0.7720, higher than other benchmark models including the conventional atherosclerotic cardiovascular disease model, the light gradient boosting machine, and a self-attention-based model. These results indicate that integrating the clinical structure of medical claims data using a cross-attention mechanism significantly enhances the performance of predictive models.",
+  "authors": [
+   "Yuhei Fujioka",
+   "Daitaro Misawa",
+   "Tatsuyoshi Ikenoue",
+   "Shingo Fukuma"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "13pages, 3 figures. Accepted to KDD 2024 AIDSH workshop",
+  "first_author": "Yuhei Fujioka",
+  "pdf_url": "http://arxiv.org/pdf/2609.09824",
+  "primary_category": "cs.LG",
+  "published": "2026-09-09",
+  "tags": [
+   "mace"
+  ],
+  "title": "In Medical Claims Data, Enhancing Predictive Performance for Major Adverse Cardiovascular Events Using Cross Attention",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-09"
  }
 }
