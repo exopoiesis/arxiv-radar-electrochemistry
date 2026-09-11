@@ -1375,5 +1375,248 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-09-09"
+ },
+ "2609.10604": {
+  "abstract": "Exploration of planetary bodies within our solar system will be essential for understanding the origin of life on Earth and the distribution of life in the universe. Planetary protection policy is concerned with balancing this desire for exploration against the risks of contaminating alien planets with Earth life, and contaminating Earth with alien life. However, at present, we have no fundamental scientific understanding of life's emergence or its nature beyond Earth. Given this nearly complete ignorance about the possibility of alien life, or Earth life's capacity to expand beyond our planet, it is difficult to reason about the real risks of space exploration. Here we contend that contemporary understandings of the risks of forward contamination are based on arguments which inconsistently apply our incomplete knowledge to the problem. We reason that a more assertive posture towards space exploration, focused on determining whether other planets in the solar system are inhabited, is warranted and explain why such a posture may not increase the epistemic risks of planetary contamination. Finally, we explore the consequences of our arguments for planetary protection protocols, and life detection efforts.",
+  "authors": [
+   "Harrison B. Smith",
+   "Cole Mathis"
+  ],
+  "categories": [
+   "physics.pop-ph",
+   "q-bio.OT"
+  ],
+  "comment": "18 pages, 2 figures",
+  "first_author": "Harrison B. Smith",
+  "pdf_url": "http://arxiv.org/pdf/2609.10604",
+  "primary_category": "physics.pop-ph",
+  "published": "2026-09-08",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "The Epistemic Risk of the 31st Spore: If Planets Aren't Fine Tuned, We're Doing Life Detection Wrong",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.10614": {
+  "abstract": "Generative models now propose millions of \"stable\" crystal structures, and their own referees have shown that stability is not discovery; no public benchmark asks whether a candidate has the physics to do a job. For superconductors the job is twofold: to pair, with a definite gap symmetry, and to become wire. We present a physics judge that answers both from a structure alone (DFT+U, a gated Wannier model, the full rank-4 RPA susceptibility on a $24^3$ mesh, the linearized gap equation, an irreducible-representation classifier, a manufacturability funnel) and measure what it says about what generators propose. With answer keys pre-registered before computing, the judge was calibrated on six known superconductors (Nb, Nb$_3$Sn, MgB$_2$, BaFe$_2$As$_2$, La$_{2-x}$Sr$_x$CuO$_4$, YBa$_2$Cu$_3$O$_7$), recovering the expected class in all six after two dated corrections. On the ruthenium analogue of the iron pnictide, with two runs and their criterion pre-registered the day before, it returns a null verdict at the same physical interaction where iron gives s$\\pm$ ($λ_1 \\le 0.0007$ versus 0.096; critical U 4.17 versus 0.97 eV); the pre-registered equal-alpha run fails the letter of the criterion, and we declare the resolution in favour of absolute U as post-hoc. The funnel reproduces the industrial map with thresholds fixed before running. Three generation audits follow: a descriptor sweep over 150 Materials Project metals re-finds the canon; 1,248 MatterGen structures yield 0 candidates that are new, stable and carry a pairing motif; mechanism filters over 47,893 compounds, validated by a blind hold-out, re-derive the community's analogies: geometry plus d-count is necessary but not sufficient. Generation re-finds what is known; judgment is the bottleneck. We propose a public benchmark over the eleven lists of AI-proposed superconductor candidates, none of which classifies gap symmetry.",
+  "authors": [
+   "Reinaldo Inácio"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 3 figures. Data, dated pre-registrations and supplementary tables S1-S7 at https://doi.org/10.5281/zenodo.22651560",
+  "first_author": "Reinaldo Inácio",
+  "pdf_url": "http://arxiv.org/pdf/2609.10614",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-09-08",
+  "tags": [
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-08"
+ },
+ "2609.11307": {
+  "abstract": "HfO$_2$ exhibits rich polymorphism, and competition among different phases underpins many of its functional properties. Yet bulk free-energy relations alone cannot explain phase selection at mixed-phase boundaries, where interface orientation and structural continuity constrain collective rearrangements. Here, using machine-learning atomistic simulations and a Hf-centered local phase classification scheme, we show that crystallographic interface matching redirects phase competition and accessible transformation pathways. The M(100)/T(100) interface remains pinned as an M/T mixture throughout 3 ns simulations from 300 to 1800 K. M/PO, M/AO, and PO/AO interfaces retain two-phase coexistence up to 900 K, whereas all T/PO interfaces become PO-dominant. At 1800 K, all non-M interfaces become T-dominant, while M-containing interfaces retain a monoclinic majority. Nudged elastic band calculations reveal lower-barrier routes through interface states. For M(100)$\\rightarrow$T(100), the interface-mediated route in a long cell ($\\sim$12 nm) yields a barrier of 136.03 meV/f.u., 29.2 % lower than the direct route in a short cell ($\\sim$3 nm). This difference is associated with sequential phase-front motion absent from the short cell. These results identify phase boundaries as active participants in phase stability and transformation and establish interface orientation and crystallographic matching as variables for stabilizing metastable polymorphs and directing phase conversion in HfO$_2$.",
+  "authors": [
+   "Xudong Zhu",
+   "Junhong Li",
+   "Lixin He"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xudong Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2609.11307",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "neb",
+   "phase-stability"
+  ],
+  "title": "Interface-Controlled Phase Stability in Polymorphic HfO$_2$ Revealed by Machine-Learning Atomistic Simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11346": {
+  "abstract": "Altermagnets (AMs) exhibit momentum-dependent spin splitting without net magnetization, making them promising platforms for spintronic applications. While the symmetry and multipolar origins of nonrelativistic altermagnetic spin splitting (NRASS) are well established, the role of electronic correlations and spin-lattice coupling (SLC) in controlling NRASS remain unexplored. In particular, SLC provides a direct pathway for tuning altermagnetism through lattice degrees of freedom. Here we first investigate the role of electronic correlations on altermagnetic strength in NiAs-type material CrSb using density functional theory (DFT), DFT+$U$, and dynamical mean-field theory (DMFT). We find that increasing electronic correlations substantially enhance NRASS and drive the stabilization of an incommensurate spin-spiral (SS) state, while dynamical correlations further amplify the spin splitting through quasiparticle renormalization of the Cr-$3d$ states. We find that the NRASS remains 12.5\\% larger in DFT+DMFT than in DFT. By evaluating SLC in next step, we establish its direct connection to the evolution of NRASS and identify SLC as a microscopic descriptor between electronic correlation and enhanced altermagnetism in CrSb. Investigating it in another NiAs-type compound MnTe, we show that the SLC-NRASS correlation is generic across AMs and establish SLC as a microscopic descriptor of altermagnetic strength. Our results provide a unified framework for tuning altermagnetism through the interplay between the electronic correlations and lattice degrees of freedom.",
+  "authors": [
+   "Charmi Bhalani",
+   "Banasree Sadhukhan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Charmi Bhalani",
+  "pdf_url": "http://arxiv.org/pdf/2609.11346",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11459": {
+  "abstract": "Copper(I) iodide (CuI) is a wide-bandgap semiconductor crystallizing in the 3D $γ$-phase under ambient conditions; its layered van der Waals bulk phase $β$-CuI is stable only between 643 and 673 K. The two-dimensional (2D) h-CuI form has been obtained via liquid-phase exfoliation of mechanochemically prepared precursors and via encapsulation between graphene sheets, whereas bottom-up growth of 2D h-CuI on open surfaces has not yet been demonstrated. Here, we report a vapor-phase synthesis of h-CuI directly on low-defect, large-area monolayer and within bilayer reduced oxo-graphene (r-oxo-G) at low temperatures. Using a copper TEM grid as the solid-state precursor for copper, HI-vapor exposure at 40 $°$C initiates nucleation, while annealing at 180 $°$C promotes the growth of extended h-CuI domains. Aberration-corrected HRTEM resolves the atomic structure, local twist angles, and lattice anisotropy of the CuI/r-oxo-G nanohybrid, while STEM-EDX yields a Cu:I ratio consistent with 1:1. First-principles calculations show that van der Waals adhesion to graphene stabilizes the supported hexagonal layer. Under the presented low-temperature precursor conditions, pathways for nucleation of the $γ$-phase are not available, allowing the hexagonal phase to form selectively at the graphene interface. Ab initio molecular dynamics simulations show that the heterostructure retains its hexagonal lattice order at 600 K, including on an open monolayer graphene support. The lateral extent of the growth is limited mainly by remaining interfacial adsorbates. These results establish a route to metastable 2D h-CuI on a chemically inert graphene template, which may be useful for wide-bandgap electronic and optoelectronic devices.",
+  "authors": [
+   "David Kaiser",
+   "Guobin Jia",
+   "Janis Köster",
+   "Sadegh Ghaderzadeh",
+   "Christian E. Halbig",
+   "Siegfried Eigler",
+   "Andrey Turchanin",
+   "Benjamin Dietzek-Ivanšić",
+   "Arkady V. Krasheninnikov",
+   "Jonathan Plentz",
+   "Elena Besley",
+   "Ute Kaiser"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.app-ph"
+  ],
+  "comment": "26 pages, 6 figures, Includes Supporting Information with 5 figures and 7 tables",
+  "first_author": "David Kaiser",
+  "pdf_url": "http://arxiv.org/pdf/2609.11459",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11551": {
+  "abstract": "Ferroelectric switching is among the most fundamental and widely studied symmetry-breaking processes in physics. However, the Landauer paradox asserts that an ideal single-domain ferroelectric should be kinetically unswitchable, because a three-dimensional reversed nucleus would carry a prohibitive depolarization penalty, leading to unphysically large coercive field (the electric field required to switch the polarization). Here we show that this long-standing paradox is resolved by topology. In defect-free PbTiO3, large-scale molecular dynamics simulations reveal that the intrinsic critical nucleus is a three-dimensional polar skyrmion. Its continuous polarization rotation and Néel-type boundary walls self-compensate bound charge, suppressing the depolarization energy by orders of magnitude and bringing the predicted coercive field into agreement with experiment. This topological nucleus further overturns the 60-year-old Janovec-Kay-Dunn law. We derive an analytical thickness-dependent coercive-field law governed by field-induced softening of the parent ferroelectric state and controlled by a single material descriptor. This framework captures diverse experimental trends across ferroelectric families and recasts the Kay-Dunn exponent of -2/3 as an effective finite-window behavior. These results establish polar topology as an organizing principle for intrinsic switching and suggest that hidden topological transition states may broadly shape nonequilibrium phase transformations traditionally understood as Landau-type symmetry breaking.",
+  "authors": [
+   "Jiyuan Yang",
+   "Denan Li",
+   "Shi Liu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiyuan Yang",
+  "pdf_url": "http://arxiv.org/pdf/2609.11551",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Skyrmion nucleus resolves the Landauer paradox",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11666": {
+  "abstract": "Hexagonal boron nitride (hBN) has recently become the focus of intense research as a material that can host quantum emitters. It is known that such emission is related to point defects, but in order to conclusively correlate specific defects to their spectra, having control over the defect creation mechanism is required. Here, we prepare freestanding, monolayer hBN samples and irradiate them with ultra-low-energy (150 eV) Ar+ ions. The samples are characterized before and after irradiation via scanning transmission electron microscopy to assess the defect density and distribution. Contrary to what analytical potential molecular dynamics simulations have predicted, we predominantly observe boron single vacancies after ion irradiation, followed by double vacancies at half the count. Moreover, we also observe that vacancy filling with Si and C impurity atoms plays a more significant role in the created defects than previously assumed, potentially posing a problem for selective creation of quantum emitters in hBN.",
+  "authors": [
+   "Shrirang Chokappa",
+   "Manuel Laängle",
+   "Barbara Maria Mayer",
+   "Vladimir Zoba\\vc",
+   "Jacob Madsen",
+   "Diana Propst",
+   "David Lamprecht",
+   "Philipp Irschik",
+   "Arixin Bo",
+   "Clara Kofler",
+   "Vinzent Hana",
+   "Fabian Kraft",
+   "Clemens Mangler",
+   "Lado Filipovic",
+   "Toma Susi",
+   "Jani Kotakoski"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "22 pages, 13 figures (including the supplement)",
+  "first_author": "Shrirang Chokappa",
+  "pdf_url": "http://arxiv.org/pdf/2609.11666",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-10",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Competition between vacancy creation and filling in defect-engineering of hBN",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-10"
+ },
+ "2609.11828": {
+  "abstract": "We present new JWST/NIRSpec IFU high contrast spectroscopic observations of the brown dwarf companion GJ 758 B. Extensive radial velocity monitoring of the primary has enabled high-precision measurements of the companion mass through characterization of their joint orbital dynamics. The combination of prior space- and ground-based photometry and spectroscopic observations in concert with a spectral model-independent mass makes this target an ideal benchmark for calibrating evolutionary models with known mass-age-luminosity degeneracies. A template-matching analysis on the NIRSpec/IFU data (F290LP,G395H; $λ\\in$ [2.87-5.27] $μ$m) detects the companion at the expected orbital position with incredible significance (265.2$σ$). Comprehensive spectral analysis including published datasets over a variety of different spectral model families reveal that an inference using a uniform radius prior is plagued by inaccurate posteriors. The atmospheric model degeneracy between metallicity, gravity, and clouds pull the inferred mass/gravity/radius to an unphysical portion of parameter space for all model families tested. A constrained inference with a gaussian prior on the mass can mitigate this issue but models without clouds still struggle to accurately reproduce the K-band photometry and result in mass inferences which are inconsistent with the dynamics. We explore modifying the spectral models with custom post-processed clouds and molecular abundance perturbations of ammonia and hydrogen sulfide. We find the best-fitting model includes clouds with no patchiness (hole fraction f$_\\mathrm{hole}$ = 0), a small fractional depletion in ammonia and moderate enhancement in hydrogen sulfide.",
+  "authors": [
+   "Alexander Madurowicz",
+   "Emily Rickman",
+   "Daniella Bardalez Gagliuffi",
+   "James Mang",
+   "Kim Ward-Duong",
+   "William O. Balmer",
+   "Brendan P. Bowler",
+   "Emily Calamari",
+   "Henry Dennen",
+   "Jacqueline K Faherty",
+   "Kyle Franson",
+   "Mark R. Giovinazzi",
+   "Lisseth Gonzales Quevedo",
+   "Kielan K. W. Hoch",
+   "Piper Lentz",
+   "Elena Manjavacas",
+   "Klara Matuszewska",
+   "Ashley Messier",
+   "Caroline V. Morley",
+   "Evert Nasedkin",
+   "Marshall Perrin",
+   "Laurent Pueyo",
+   "Jean-Baptiste Ruffio",
+   "Christopher A. Theissen",
+   "Jerry W. Xuan"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.EP",
+   "astro-ph.IM"
+  ],
+  "comment": "Submitted to AJ. 32 pages, 17 figures, 4 tables, 5 appendices",
+  "first_author": "Alexander Madurowicz",
+  "pdf_url": "http://arxiv.org/pdf/2609.11828",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-09-10",
+  "tags": [],
+  "title": "The Dyn-Atmo Survey: JWST/NIRSpec spectroscopy of dynamical benchmark GJ 758 B",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-10"
  }
 }
