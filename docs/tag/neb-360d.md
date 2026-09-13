@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neb — 360d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <a href="neb-30d.html">30d</a> <a href="neb-90d.html">90d</a> <strong>360d</strong> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -398,11 +398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14572.html">Tuning Molecular Motors with Tert-Butyl and Fluorinated Tert-Butyl Groups</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Ivan Tambovtsev et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14572">2509.14572</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14067.html">Reaction dynamics of lithium-mediated electrolyte decomposition using machine learning potentials</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
-<td>Sohang Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14067">2509.14067</a></td>
 </tr>
 </tbody></table>
