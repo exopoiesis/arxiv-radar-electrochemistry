@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,17 +296,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15189.html">Broadband phonon-velocity suppression and a finite anisotropic crossover in twisted bilayer SnSe</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a></div></td>
 <td>Peng Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15189">2608.15189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00704.html">Reconstruction-Dependent Imaging, Reactivity and Local Reduction of the CeO$_2$(100) surface</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Kyungmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00704">2608.00704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14899.html">Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynamics Trajectories</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14899">2608.14899</a></td>
 </tr>
 </tbody></table>

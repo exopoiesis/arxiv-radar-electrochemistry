@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogen-evolution — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="hydrogen-evolution-7d.html">7d</a> <a href="hydrogen-evolution-30d.html">30d</a> <a href="hydrogen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="hydrogen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11325.html">Pristine and transition metal doped 2D AlSb as high performance electrocatalyst for selective CO2 reduction: A first-principles study</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="formate-360d.html">formate</a></div></td>
 <td>Md. Mostaqul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11325">2509.11325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14542.html">S1-MatAgent: A planner driven multi-agent system for material discovery</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Xinrui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14542">2509.14542</a></td>
 </tr>
 </tbody></table>

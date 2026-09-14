@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,11 +1016,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19653.html">Coordination-Sensitive Nanoscale Analysis of Defect-Driven Phase Transformation in Si-Doped (AlXGa1-X)2O3</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Shaon Das et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19653">2606.19653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16994.html">Hydrogen Chemisorption and Current-Induced Spin Polarization on NbP</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
-<td>Luis Martinez-Gomez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16994">2606.16994</a></td>
 </tr>
 </tbody></table>

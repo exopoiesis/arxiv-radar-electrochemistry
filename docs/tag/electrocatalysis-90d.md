@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrocatalysis — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="electrocatalysis-360d.html">360d</a> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25175.html">Operando spectro-ptychography reveals dynamical charge-storage and degradation pathways in redox-active electrodes</a></div></td>
 <td>Xiao Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25175">2606.25175</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16994.html">Hydrogen Chemisorption and Current-Induced Spin Polarization on NbP</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Luis Martinez-Gomez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.16994">2606.16994</a></td>
 </tr>
 </tbody></table>
