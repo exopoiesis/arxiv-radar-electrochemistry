@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft-u — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <strong>360d</strong> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15368.html">Constrained Random Phase Approximation: the spectral method</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Merzuk Kaltak et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15368">2508.15368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15665.html">Correlation Effects on Magnetic Structure and Lattice Dynamics of LaMn$_7$O$_{12}$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Haeyoon Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15665">2509.15665</a></td>
 </tr>
 </tbody></table>

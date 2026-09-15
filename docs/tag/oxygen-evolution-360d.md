@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oxygen-evolution — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="oxygen-evolution-7d.html">7d</a> <a href="oxygen-evolution-30d.html">30d</a> <a href="oxygen-evolution-90d.html">90d</a> <strong>360d</strong> <a href="oxygen-evolution-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02142.html">Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Lena Podina et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02142">2510.02142</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15665.html">Correlation Effects on Magnetic Structure and Lattice Dynamics of LaMn$_7$O$_{12}$: A First-Principles Study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Haeyoon Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15665">2509.15665</a></td>
 </tr>
 </tbody></table>

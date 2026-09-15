@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">815 papers</span>
+  <span class="paper-count">811 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4880,29 +4880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11325.html">Pristine and transition metal doped 2D AlSb as high performance electrocatalyst for selective CO2 reduction: A first-principles study</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="formate-360d.html">formate</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Md. Mostaqul Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11325">2509.11325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15665.html">Correlation Effects on Magnetic Structure and Lattice Dynamics of LaMn$_7$O$_{12}$: A First-Principles Study</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Haeyoon Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15665">2509.15665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15682.html">Direct observation of cation-dependent polarisation switching dynamics in fluorite ferroelectrics</a></div></td>
-<td>Kousuke Ooe et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15682">2509.15682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15875.html">Mechanistic Insights into Complete Methane Oxidation on Single-Atom Pd Supported by SSZ-13 Zeolite: A First-Principles Study</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
-<td>Anuroopa Behatha et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15875">2509.15875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20372.html">AI-Guided Quantum Material Simulator for Education. Case Example: The Neuromorphic Materials Calculator 2025</a></div></td>
-<td>Santiago D. Barrionuevo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20372">2509.20372</a></td>
 </tr>
 </tbody></table>

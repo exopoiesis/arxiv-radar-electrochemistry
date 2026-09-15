@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10614.html">Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a></div></td>
 <td>Reinaldo Inácio</td>
 <td><a href="http://arxiv.org/abs/2609.10614">2609.10614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07106.html">Coupled structural and electronic evolution under pressure in CuIr2Se4, CuRh2S4, and CuRh2Se4</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
-<td>M. Emi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07106">2609.07106</a></td>
 </tr>
 </tbody></table>
