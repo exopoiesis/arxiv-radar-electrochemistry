@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14846.html">Prescreening Point Defects in Semiconductors With Machine Learning</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Paul Karlsson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14846">2609.14846</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11307.html">Interface-Controlled Phase Stability in Polymorphic HfO$_2$ Revealed by Machine-Learning Atomistic Simulations</a></div><div class="paper-tags"><a href="neb-30d.html">neb</a></div></td>
 <td>Xudong Zhu et al.</td>
@@ -50,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="neb-30d.html">neb</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Xiwen Gai et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15882.html">Rare-earth chalcogenide perovskites: A promising class of materials for optoelectronic applications</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="chalcogenides-30d.html">chalcogenides</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Surajit Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15882">2608.15882</a></td>
 </tr>
 </tbody></table>

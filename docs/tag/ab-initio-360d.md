@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">475 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16749.html">Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Hongjing Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16749">2609.16749</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16780.html">Topological spin textures in 2D altermagnetic chromium chalcogenides: Interplay between magnetic frustration and Dzyaloshinskii-Moriya interaction</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
+<td>Zirui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16780">2609.16780</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
+<td>Tsz Wai Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13939.html">Towards a Metal-Organic Framework with Pore-Confined Electrons</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Julia H. Baratta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13939">2609.13939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13542.html">Local Response Theory of Electrified Interfaces from Screened Effective Charges</a></div><div class="paper-tags"><a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a></div></td>
+<td>Nicolas G. Hörmann et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13542">2609.13542</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11459.html">Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>David Kaiser et al.</td>
 <td><a href="http://arxiv.org/abs/2609.11459">2609.11459</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12166.html">Functionalization-Driven Charge Redistribution Enabling Ultra-High-Capacity V2B MBene Anode for Li/Na ion batteries: A First-Principles study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Shaiokh Bin Abi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12166">2609.12166</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-08</td>
@@ -2858,11 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17324.html">Non-excitonic mechanism for electronic and structural phase transitions in Ta2Ni(Se,S)5</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Weichen Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17324">2505.17324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16515.html">Prediction of Li3Fe8B8 compound with rapid one-dimensional ion diffusion channels</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shiya Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16515">2509.16515</a></td>
 </tr>
 </tbody></table>

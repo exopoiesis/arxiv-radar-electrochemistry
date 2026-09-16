@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15340.html">Optical properties of single-crystal As2Se3 from first principles</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a></div></td>
+<td>Juan J. Meléndez</td>
+<td><a href="http://arxiv.org/abs/2609.15340">2609.15340</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16512.html">Discovering Kinetically Significant Reaction Mechanisms Beyond Chemical Intuition in Condensed-Phase Radiolysis</a></div><div class="paper-tags"><a href="reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Nitesh Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16512">2609.16512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16620.html">Application of Regional Chemical Potential Analysis to Si Adsorption on the Diamond (001) Surface</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
+<td>Masahiro Fukuda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16620">2609.16620</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17036.html">How Small is Large Enough? Determining Minimal Cluster Sizes for Molecule Adsorption on Interstellar Amorphous Ice</a></div><div class="paper-tags"><a href="adsorption-energy-30d.html">adsorption-energy</a></div></td>
+<td>Erik C. Neyts et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17036">2609.17036</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17290.html">High-Pressure Refractive Indices of NaCl, KCl, CaO, SrO, and MgO Reveal the Dependence of Anion Polarizability on Coordination Number and Bond Length</a></div></td>
+<td>Konstantin Solovev et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17290">2609.17290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15299.html">Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>M. Usman et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15299">2609.15299</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14846.html">Prescreening Point Defects in Semiconductors With Machine Learning</a></div><div class="paper-tags"><a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Paul Karlsson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14846">2609.14846</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13939.html">Towards a Metal-Organic Framework with Pore-Confined Electrons</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a></div></td>
+<td>Julia H. Baratta et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13939">2609.13939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12300.html">$Ab$ $initio$ Study of Substitutional Defects in Li$_{3}$OCl Solid Electrolyte for Li-ion Batteries</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Carson D. Ziemke et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12300">2609.12300</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11346.html">Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb</a></div></td>
@@ -278,17 +332,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="proton-diffusion-30d.html">proton-diffusion</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Kazuma Ito</td>
 <td><a href="http://arxiv.org/abs/2608.16652">2608.16652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15765.html">Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement</a></div><div class="paper-tags"><a href="dft-u-30d.html">dft-u</a></div></td>
-<td>Subhadeep Bandyopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15765">2608.15765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15882.html">Rare-earth chalcogenide perovskites: A promising class of materials for optoelectronic applications</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="chalcogenides-30d.html">chalcogenides</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>Surajit Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15882">2608.15882</a></td>
 </tr>
 </tbody></table>
