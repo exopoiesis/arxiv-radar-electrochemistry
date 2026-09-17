@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1456 papers</span>
+  <span class="paper-count">1460 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="grotthuss-all.html">grotthuss</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jiajia Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div></td>
+<td>R. Mathew Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
+<td>A. Muheddine et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15340.html">Optical properties of single-crystal As2Se3 from first principles</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a></div></td>
@@ -44,6 +62,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17290.html">High-Pressure Refractive Indices of NaCl, KCl, CaO, SrO, and MgO Reveal the Dependence of Anion Polarizability on Coordination Number and Bond Length</a></div></td>
 <td>Konstantin Solovev et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17290">2609.17290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="corrosion-all.html">corrosion</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Zhengqing Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>

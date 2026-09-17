@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="grotthuss-90d.html">grotthuss</a></div></td>
+<td>Jiajia Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16749.html">Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Hongjing Wang et al.</td>
@@ -674,11 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Jaehong Kwon et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19884.html">Extraction of slip velocity in NEMD Couette flow systems using frictional dissipation</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
-<td>Hiroki Kusudo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19884">2606.19884</a></td>
 </tr>
 </tbody></table>

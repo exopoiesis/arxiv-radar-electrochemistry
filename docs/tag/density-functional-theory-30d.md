@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jiajia Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div></td>
+<td>R. Mathew Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
+<td>A. Muheddine et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15340.html">Optical properties of single-crystal As2Se3 from first principles</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a></div></td>
@@ -44,6 +62,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17290.html">High-Pressure Refractive Indices of NaCl, KCl, CaO, SrO, and MgO Reveal the Dependence of Anion Polarizability on Coordination Number and Bond Length</a></div></td>
 <td>Konstantin Solovev et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17290">2609.17290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Zhengqing Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -326,11 +350,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a></div></td>
 <td>Victor M. S. da Conceição et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="proton-diffusion-30d.html">proton-diffusion</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Kazuma Ito</td>
-<td><a href="http://arxiv.org/abs/2608.16652">2608.16652</a></td>
 </tr>
 </tbody></table>

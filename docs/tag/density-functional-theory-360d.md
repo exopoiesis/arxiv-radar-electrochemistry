@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">820 papers</span>
+  <span class="paper-count">822 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jiajia Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div></td>
+<td>R. Mathew Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
+<td>A. Muheddine et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15340.html">Optical properties of single-crystal As2Se3 from first principles</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
@@ -44,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17290.html">High-Pressure Refractive Indices of NaCl, KCl, CaO, SrO, and MgO Reveal the Dependence of Anion Polarizability on Coordination Number and Bond Length</a></div></td>
 <td>Konstantin Solovev et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17290">2609.17290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Zhengqing Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -4922,17 +4946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21372.html">Polymer-based probabilistic bits for thermodynamic computing</a></div><div class="paper-tags"><a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a></div></td>
 <td>Stephen H. Foulger et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21372">2509.21372</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17324.html">Non-excitonic mechanism for electronic and structural phase transitions in Ta2Ni(Se,S)5</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Weichen Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17324">2505.17324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11325.html">Pristine and transition metal doped 2D AlSb as high performance electrocatalyst for selective CO2 reduction: A first-principles study</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="formate-360d.html">formate</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Md. Mostaqul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2509.11325">2509.11325</a></td>
 </tr>
 </tbody></table>

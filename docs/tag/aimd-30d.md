@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>aimd — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <strong>30d</strong> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <a href="aimd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jiajia Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16749.html">Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>

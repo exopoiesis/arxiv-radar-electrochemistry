@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.16620">2609.16620</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="corrosion-90d.html">corrosion</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Zhengqing Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Tsz Wai Ko et al.</td>
@@ -326,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21284.html">MADField: Multi-fidelity Amortized Density Field for Adsorption in Nanoporous Materials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Yoonho Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21284">2606.21284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19884.html">Extraction of slip velocity in NEMD Couette flow systems using frictional dissipation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hiroki Kusudo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19884">2606.19884</a></td>
 </tr>
 </tbody></table>

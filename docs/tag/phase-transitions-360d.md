@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17945.html">Magnetically coupled charge-transport crossover and giant negative magnetoresistance in iodine-incorporated Cr$_2$Se$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
+<td>Bikash Das et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17945">2609.17945</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09469.html">High-pressure elastic properties of GeO2 polymorphs up to 120 GPa</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a> · <a href="pyrite-360d.html">pyrite</a></div></td>
 <td>Gulshan Kumar et al.</td>
@@ -404,11 +410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23211.html">Selective nonthermal melting in phlogopite under ultrafast energy deposition</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nikita Medvedev</td>
 <td><a href="http://arxiv.org/abs/2509.23211">2509.23211</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17324.html">Non-excitonic mechanism for electronic and structural phase transitions in Ta2Ni(Se,S)5</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Weichen Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17324">2505.17324</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jiajia Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div></td>
+<td>R. Mathew Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
+<td>A. Muheddine et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15340.html">Optical properties of single-crystal As2Se3 from first principles</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
@@ -44,6 +62,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17290.html">High-Pressure Refractive Indices of NaCl, KCl, CaO, SrO, and MgO Reveal the Dependence of Anion Polarizability on Coordination Number and Bond Length</a></div></td>
 <td>Konstantin Solovev et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17290">2609.17290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="corrosion-90d.html">corrosion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Zhengqing Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -1040,17 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23725.html">Computational references are not experiments: pre-registered validation of machine-learned sodium-cathode voltages</a></div></td>
 <td>Krishna Teja Vepa</td>
 <td><a href="http://arxiv.org/abs/2606.23725">2606.23725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19798.html">MinSurf: resolving the atomic-scale stability landscape of mineral surfaces</a></div><div class="paper-tags"><a href="electrochemical-interfaces-90d.html">electrochemical-interfaces</a> · <a href="surface-science-90d.html">surface-science</a></div></td>
-<td>Fengzijun Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19798">2606.19798</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20105.html">Can DFT-trained neural network potentials reproduce structure, solvation, and water-exchange properties in aqueous magnesium solutions?</a></div><div class="paper-tags"><a href="hydration-shell-90d.html">hydration-shell</a> · <a href="ion-pairing-90d.html">ion-pairing</a> · <a href="ion-water-interactions-90d.html">ion-water-interactions</a> · <a href="mace-90d.html">mace</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
-<td>Sebastian Falkner et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20105">2606.20105</a></td>
 </tr>
 </tbody></table>

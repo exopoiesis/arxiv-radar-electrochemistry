@@ -2332,5 +2332,164 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-09-15"
+ },
+ "2609.17876": {
+  "abstract": "The surface chemistry of additively manufactured aluminum alloys plays a critical role in corrosion resistance and joining with external materials. In this work, the near-surface elemental composition of a laser powder bed fusion (PBF-LB/M) processed Al-Mg-Si-Zr alloy was characterized by glow discharge optical emission spectroscopy GDOES depth profiling. The measurements reveal pronounced Mg enrichment within the near-surface region extending to approximately 10 μm, consistent with the characteristic scale of surface roughness, together with an increase in oxygen concentration, whereas Al, Si, and Zr approach stable bulk-like levels at greater depths. To understand this observation on the atomic scale, first-principles calculations based on density functional theory (DFT) were performed on low-index Al surfaces. The calculated results show a strong thermodynamic driving force for Mg surface segregation, with diffusion energy differences ranging from approximately -0.30 eV to -0.41 eV, while Zr exhibits a pronounced preference for remaining in the bulk matrix. Vacancy migration calculations further demonstrate that full structural relaxation substantially reduces the migration barrier for Mg to below that of Si, which makes Mg diffusion kinetically highly favorable. Moreover, the presence of adsorbed surface oxygen dramatically promotes the tendency of Mg to diffuse toward the surface, which lowers the diffusion energy difference of Mg to as much as -3.0 eV. This promotes the formation of a locally reconstructed Mg-O-Al coordinated precursor structure accompanied by localized electron transfer shown by an electron localization function analysis.",
+  "authors": [
+   "Zhengqing Wei",
+   "Philip Grimm",
+   "Inna Plyushchay",
+   "Volker Hoffmann",
+   "Nebahat Bulut",
+   "Lutfi Caglar Ege",
+   "Julia Kristin Hufenbach",
+   "Sibylle Gemming"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 6 figures",
+  "first_author": "Zhengqing Wei",
+  "pdf_url": "http://arxiv.org/pdf/2609.17876",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-15",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "corrosion",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17945": {
+  "abstract": "We report the synthesis and comprehensive investigation of iodine-incorporated $Cr_2Se_3$, a non-van der Waals quasi-two-dimensional magnetic material, using structural, magnetic, transport, spectroscopic, and first-principles methods. Magnetization and electron spin resonance measurements reveal an antiferromagnetically ordered state below $T_N \\approx 52$ K. At higher temperatures, a second, broader anomaly emerges near $T^* \\approx 150$ K, coinciding with a shallow minimum in the temperature-dependent resistivity that resembles a metal-to-insulator-like crossover. Hall measurements indicate predominantly hole-like conduction at high temperatures ($\\geq$ 150 K), while the nonlinear Hall response below T*, together with an anomaly in the third-harmonic electrical signal, suggests the emergence of mobility-dependent multichannel and spatially inhomogeneous transport. A large, non-saturating negative magnetoresistance reaching approximately -78\\% at 25 K and 12 T further demonstrates strong coupling between charge transport and the magnetic state. Temperature-dependent Raman spectroscopy reveals no symmetry-changing structural transition near T*, whereas angle resolved photoemission spectroscopy (ARPES) measurements show no major reconstruction of the electronic structure occupied across the crossover. Taken together, these results identify the high-temperature anomaly as a broad magnetically coupled transport crossover arising from the interplay of short-range magnetic correlations, chemical disorder, and redistribution among competing conduction channels. These findings demonstrate that anion incorporation provides an effective route to tuning the coupled electronic and magnetic properties of non-layered Cr$_2$Se$_3$, establishing this system as a promising platform for investigating correlated transport and emergent spintronic functionalities in transition-metal chalcogenides.",
+  "authors": [
+   "Bikash Das",
+   "Shibnath Mandal",
+   "Kapildeb Dolui",
+   "Oleksi Laguta",
+   "Sambit Choudhury",
+   "Suvadip Masanta",
+   "Tanima Kundu",
+   "Jorge Andres Navarro Giraldo",
+   "Alexey Barinov",
+   "Shibabrata Nandi",
+   "Kai Rossnagel",
+   "Sanjoy Kr Mahatha",
+   "Rajib Mondal",
+   "Petr Neugebauer",
+   "Subhadeep Datta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Bikash Das",
+  "pdf_url": "http://arxiv.org/pdf/2609.17945",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-16",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "phase-transitions"
+  ],
+  "title": "Magnetically coupled charge-transport crossover and giant negative magnetoresistance in iodine-incorporated Cr$_2$Se$_3$",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.18183": {
+  "abstract": "The properties of water under high pressure and high temperature (HP-HT) are critical in multiple geochemical processes in deep Earth. Ab initio molecular dynamics (AIMD) is a promising approach to study water under extreme conditions without any empirical parameters. However, the accuracy of AIMD simulations is determined by the exchange-correlation (XC) functional including the dispersion correction used in density functional theory calculations. While van der Waals (vdW) interactions are well known to be critically important for water under ambient conditions, the influence of the dispersion correction on the properties of HP-HT water as found in Earth's mantle remains largely unexplored. To address this, we carried out AIMD simulations for supercritical water at 1, 5, and 10 GPa, and 1000 K. We compared PBE, PBE-D3, RPBE-D3, and SCAN functionals, where D3 means Grimme's D3 dispersion correction. We compared the structural, diffusion, and vibrational properties of water as computed with these XC functionals. Overall, the discrepancies between the functionals are reduced under extreme P-T conditions relative to ambient conditions. PBE and PBE-D3 exhibit higher proton-transfer rates than RPBE-D3 and SCAN, suggesting that while vdW interactions do not significantly affect the water structure under extreme conditions, the oxygen-hydrogen bond strength does influence proton transfer. Our results provide molecular-level insight into water in Earth's mantle and offer valuable guidance for selecting appropriate XC functionals in AIMD simulations of aqueous solutions under extreme conditions.",
+  "authors": [
+   "Jiajia Huang",
+   "Rui Hou",
+   "Ding Pan"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiajia Huang",
+  "pdf_url": "http://arxiv.org/pdf/2609.18183",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "grotthuss",
+   "molecular-dynamics"
+  ],
+  "title": "Van der Waals interactions in supercritical water under Earth's mantle conditions",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.18744": {
+  "abstract": "Using optical spectroscopy and density functional theory, we provide evidence that electron-electron interactions strongly affect the properties of the kagome antiferromagnet Mn$_3$Sn, since its low-energy optical interband transitions arise exclusively from the correlation-modified electronic band structure. Mn$_3$Sn possesses an optical effective mass about three times larger than that of its isostructural analog Mn$_3$Ge. The DFT+$U$ treatment in the Lichtenstein formulation, with an on-site Coulomb repulsion $U = 4$~eV and Hund's coupling $J = 0.25$~eV, accounts for the optical transitions in Mn$_3$Sn, whereas those in Mn$_3$Ge are already reproduced without Hubbard corrections ($U, J = 0$). The near-isotropic electronic structure of Mn$_3$Sn reveals a three-dimensional metal whose electronic response is shaped prominently by the Mn $d$-states. The apparent linear regime in $σ_1(ω)$ observed in Mn$_3$Sn and Mn$_3$Ge arises from several overlapping interband transitions and therefore should not be interpreted as the optical signature of the Weyl cones. The optical response does not alter with magnetic field up to 17 T, consistent with strong free-carrier screening. Our findings establish a comprehensive-correlated picture of Mn$_3$Sn and Mn$_3$Ge that offers a template for other correlated topological metals.",
+  "authors": [
+   "R. Mathew Roy",
+   "Bo Tai",
+   "Maxim Wenzel",
+   "Achyut Tiwari",
+   "Mykhaylo Ozerov",
+   "Chandra Shekhar",
+   "Claudia Felser",
+   "Artem V. Pronin",
+   "Xiaolong Feng",
+   "Martin Dressel"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "R. Mathew Roy",
+  "pdf_url": "http://arxiv.org/pdf/2609.18744",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-09-16",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.18787": {
+  "abstract": "We introduce here a new approach to the study of isolated chlorophyll pigments with the electronic spectroscopy of their deprotonated anions in a cold environment at 9K. These anions are isoelectronic to the corresponding neutral molecules, therefore their electronic properties are comparable. This comparison is pursued through this article. The electronic spectrum of the Q bands of deprotonated pheophorbide and methyl pheophorbide are recorded by resonant two photon electron detachment with vibrational resolution and show well-resolved bands extending through the visible spectrum in a very similar fashion to their neutral counterparts in solution. The results are compared with data of neutral pheophytin obtained by fluorescence line narrowing spectroscopy at 4K and resonance Raman spectroscopy and found very similar. The theoretical analysis is achieved by density functional (ground state DFT WB97XD, hybrid exchange-correlation functionals and 6-311++G(d,p) basis sets) and time dependent density functional (TDDFT) calculations. The comparison of the active orbitals in the Q transitions shows a great similarity between neutral and anionic forms together with some orbital and related level inversions. The vibronic spectra are simulated by Franck-Condon calculations to assign the dominant transitions of the electronic spectrum. Globally, this is a new perspective in the electronic spectroscopy of chlorophyll pigments that has been opened.",
+  "authors": [
+   "A. Muheddine",
+   "B. Robert",
+   "N. Shafizadeh",
+   "B. Soep"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.atm-clus"
+  ],
+  "comment": null,
+  "first_author": "A. Muheddine",
+  "pdf_url": "http://arxiv.org/pdf/2609.18787",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-16"
  }
 }
