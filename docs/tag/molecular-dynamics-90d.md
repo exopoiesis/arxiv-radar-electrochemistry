@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20391.html">Universal 1/f Noise in the Power Spectra of Energy Time-series in Solvated DNA Dynamics</a></div><div class="paper-tags"><a href="hydration-shell-90d.html">hydration-shell</a></div></td>
+<td>Harsh Sahu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20391">2609.20391</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20777.html">Global Minima of the Thomson Problem in a Disk: A Molecular Dynamics Approach with Fixed Border Charges</a></div></td>
+<td>Georgiy K. Lavrov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20777">2609.20777</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="grotthuss-90d.html">grotthuss</a></div></td>
 <td>Jiajia Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -32,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16783.html">Room-temperature 1/3 suppression of diffusive shot noise</a></div><div class="paper-tags"><a href="redox-cycles-90d.html">redox-cycles</a></div></td>
 <td>Henri Vo Van Qui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16783">2609.16783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -674,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23214.html">Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Jonas Hänseroth et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23214">2606.23214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Jaehong Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
 </tr>
 </tbody></table>

@@ -16,10 +16,28 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20391.html">Universal 1/f Noise in the Power Spectra of Energy Time-series in Solvated DNA Dynamics</a></div><div class="paper-tags"><a href="hydration-shell-7d.html">hydration-shell</a></div></td>
+<td>Harsh Sahu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20391">2609.20391</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20777.html">Global Minima of the Thomson Problem in a Disk: A Molecular Dynamics Approach with Fixed Border Charges</a></div></td>
+<td>Georgiy K. Lavrov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20777">2609.20777</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="grotthuss-7d.html">grotthuss</a></div></td>
 <td>Jiajia Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -32,6 +50,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16783.html">Room-temperature 1/3 suppression of diffusive shot noise</a></div><div class="paper-tags"><a href="redox-cycles-7d.html">redox-cycles</a></div></td>
 <td>Henri Vo Van Qui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16783">2609.16783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -56,29 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12555.html">Interfacial Packing of DNA Nanostars Regulates Dynamics on Synthetic Cell Membranes</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
 <td>Kazutoshi Masuda et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12555">2609.12555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11459.html">Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a></div></td>
-<td>David Kaiser et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11459">2609.11459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11551.html">Skyrmion nucleus resolves the Landauer paradox</a></div></td>
-<td>Jiyuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11551">2609.11551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11666.html">Competition between vacancy creation and filling in defect-engineering of hBN</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Shrirang Chokappa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11666">2609.11666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12166.html">Functionalization-Driven Charge Redistribution Enabling Ultra-High-Capacity V2B MBene Anode for Li/Na ion batteries: A First-Principles study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="aimd-7d.html">aimd</a> · <a href="ion-transport-7d.html">ion-transport</a></div></td>
-<td>Shaiokh Bin Abi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12166">2609.12166</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">819 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Nguyen Tran Gia Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20019">2609.20019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20486.html">Strain-Induced Metal-to-Insulator Transition in Antiferromagnetic SrCrO$_3$ Thin Films</a></div></td>
+<td>S. Jöhr et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20486">2609.20486</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -32,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
 <td>A. Muheddine et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -68,6 +86,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Zhengqing Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -4904,47 +4928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19132.html">Exploring Cation Selection and Disorder within Entropy-Driven $A_{6}B_{2}$O$_{17}$ ($A$=Zr/Hf, $B$=Nb/Ta) Oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Jacob T. Sivak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19132">2509.19132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17448.html">Monitoring Nitric Oxide in Trigeminal Neuralgia Rats with a Cerium Single-Atom Nanozyme Electrochemical Biosensor</a></div></td>
-<td>Kangling Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17448">2509.17448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17736.html">Melanin-Based Compounds as Low-Cost Sensors for Nitroaromatics: Theoretical Insights on Molecular Interactions and Optoelectronic Responses</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jo{ã}o Paulo Cachaneski-Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17736">2509.17736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17825.html">Role of Oxygen during Methane Oxidation on Pd$_1$/PdO$_1$@CeO$_2$ Surface: A Combined Density Functional Theory, Microkinetic, and Machine Learning Approach</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="microkinetics-360d.html">microkinetics</a></div></td>
-<td>Shalini Tomar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17825">2509.17825</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17833.html">How Realistic are Idealized Copper Surfaces? A Machine Learning Study of Rough Copper-Water Interfaces</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="co2-reduction-360d.html">co2-reduction</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Linus C. Erhard et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17833">2509.17833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17862.html">The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces</a></div><div class="paper-tags"><a href="explicit-solvation-360d.html">explicit-solvation</a></div></td>
-<td>Sushree Jagriti Sahoo et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17862">2509.17862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18299.html">Cyclo-Graphyne: A Highly Porous and Semimetallic 2D Carbon Allotrope with Dirac Cones</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jhionathan de Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18299">2509.18299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21372.html">Polymer-based probabilistic bits for thermodynamic computing</a></div><div class="paper-tags"><a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a></div></td>
-<td>Stephen H. Foulger et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21372">2509.21372</a></td>
 </tr>
 </tbody></table>

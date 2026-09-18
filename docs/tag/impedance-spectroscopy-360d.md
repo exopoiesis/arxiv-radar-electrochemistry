@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <a href="impedance-spectroscopy-30d.html">30d</a> <a href="impedance-spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="impedance-spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17835.html">Robust interpretation of electrochemical impedance spectra using numerical complex analysis</a></div></td>
 <td>Jithin D. George et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17835">2510.17835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21372.html">Polymer-based probabilistic bits for thermodynamic computing</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Stephen H. Foulger et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21372">2509.21372</a></td>
 </tr>
 </tbody></table>

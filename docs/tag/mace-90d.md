@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19385.html">Mammography Foundation Models for Opportunistic Prediction of Major Adverse Cardiovascular Events</a></div></td>
+<td>Paula Feldman et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19385">2609.19385</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15299.html">Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>M. Usman et al.</td>
@@ -206,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24922.html">Constraint-Aware Quantum Optimization of Defect Configurations in Doped ZrO2: XY-Mixer QAOA and Grover Adaptive Search</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Huajing Song</td>
 <td><a href="http://arxiv.org/abs/2606.24922">2606.24922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21311.html">Property-Specific Molecular Representations via Feature-Space Transfer Compression</a></div></td>
-<td>Ali Banjafar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21311">2606.21311</a></td>
 </tr>
 </tbody></table>

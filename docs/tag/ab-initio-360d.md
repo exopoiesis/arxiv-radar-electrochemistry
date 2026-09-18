@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20616.html">Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides</a></div></td>
+<td>Yogendra Limbu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20616">2609.20616</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17945.html">Magnetically coupled charge-transport crossover and giant negative magnetoresistance in iodine-incorporated Cr$_2$Se$_3$</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Bikash Das et al.</td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jiajia Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -44,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Zhengqing Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-13</td>
@@ -2888,23 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19132.html">Exploring Cation Selection and Disorder within Entropy-Driven $A_{6}B_{2}$O$_{17}$ ($A$=Zr/Hf, $B$=Nb/Ta) Oxides</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Jacob T. Sivak et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19132">2509.19132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17364.html">Protection of metal interfaces against hydrogen-assisted cracking</a></div></td>
-<td>Guillaume Hachet et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17364">2509.17364</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18299.html">Cyclo-Graphyne: A Highly Porous and Semimetallic 2D Carbon Allotrope with Dirac Cones</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jhionathan de Lima et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18299">2509.18299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18409.html">Er$_\mathrm{Al}$:Al$_2$O$_3$ for Telecom-Band Photonics: Electronic Structure and Optical Properties</a></div></td>
-<td>Mahtab A. Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18409">2509.18409</a></td>
 </tr>
 </tbody></table>

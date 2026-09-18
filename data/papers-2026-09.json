@@ -2491,5 +2491,233 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-09-16"
+ },
+ "2609.19192": {
+  "abstract": "The exploration of non-hexagonal two-dimensional topologies has opened new possibilities for tailoring the properties of group III-V monolayers beyond those accessible through conventional honeycomb phases. In this context, we have investigated the structural, mechanical, electronic, and optical properties of T-GaN, a two-dimensional tetragonal gallium nitride monolayer composed of alternating four- and eight-membered rings featuring coexisting homoelemental (Ga-Ga, N-N) and heteropolar (Ga-N) bonds, using density functional theory (DFT) within the generalized gradient approximation (GGA/PBE) and the hybrid HSE06 functional. The dynamical stability of T-GaN was confirmed by phonon dispersion calculations, which revealed the absence of imaginary frequencies throughout the Brillouin zone, and was further supported by \\textit{ab initio} molecular dynamics (AIMD) simulations. The mechanical characterization reveals a pronounced in-plane anisotropy, with critical strains of approximately 16.5\\% and 7.0\\% along the $x$- and $y$-directions, respectively. The electronic band structure analysis indicates that T-GaN is a nonmagnetic semiconductor with an indirect band gap of 0.35~eV (PBE) and 1.15~eV (HSE06), with the valence band maximum dominated by nitrogen 2\\textit{p} orbitals and the conduction band minimum governed by gallium 4\\textit{s} and 4\\textit{p} states. The optical response was evaluated along three crystallographic directions, exhibiting considerable anisotropy in the absorption coefficient, refractive index, and reflectivity. These findings provide new insights into the physical properties of tetragonal group III-V monolayers and suggest that T-GaN may serve as a promising candidate for anisotropic nanoelectronic and optoelectronic applications.",
+  "authors": [
+   "Djardiel S. Gomes",
+   "Isaac M. Félix",
+   "Jorge O. A. L. Torres",
+   "Fabio L. L. de Mendonça",
+   "Sergio Azevedo",
+   "Marcelo L. Pereira Junior"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages and 8 figures",
+  "first_author": "Djardiel S. Gomes",
+  "pdf_url": "http://arxiv.org/pdf/2609.19192",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-15",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.19385": {
+  "abstract": "Cardiovascular disease (CVD) remains the leading cause of death among women, yet cardiovascular risk assessment often relies on clinical variables that may be missing, outdated, or unavailable in routine care. Screening mammography offers an opportunity for opportunistic cardiovascular risk stratification because it is routinely acquired and contains vascular features, including breast arterial calcifications (BAC), that are associated with cardiovascular risk and events. We evaluate whether mammography specific foundation models, originally pretrained for breast cancer-related tasks, can transfer to cardiovascular risk prediction without cardiovascular specific supervision or explicit BAC annotation. We constructed a 5-year major adverse cardiovascular event (MACE) cohort of 22,497 women linked to electronic health record outcomes, including 500 events (2.22% prevalence). The foundation models achieved AUROCs of 0.823 and 0.822 substantially exceeding an age-only model (AUROC 0.765), despite using only the screening mammogram as input, with no clinical variables. Both foundation models evaluated assigned substantially higher predicted risk to patients with radiologist-documented BAC, despite BAC never being used as a training label, and showed activation patterns consistent with vascular findings. Together, these findings suggest that mammography foundation models can recover clinically relevant cardiovascular risk information directly from mammographic pixels and suggest that screening mammography may provide an opportunistic source of cardiovascular risk information to complement conventional clinical assessment without additional imaging. Code is available in https://github.com/PauFeld/MammoCVD",
+  "authors": [
+   "Paula Feldman",
+   "Nusrat Binta Nizam",
+   "Sunwoo Kwak",
+   "Batuhan Karaman",
+   "Katerina Dodelzon",
+   "Mert Sabuncu"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Paula Feldman",
+  "pdf_url": "http://arxiv.org/pdf/2609.19385",
+  "primary_category": "eess.IV",
+  "published": "2026-09-16",
+  "tags": [
+   "mace"
+  ],
+  "title": "Mammography Foundation Models for Opportunistic Prediction of Major Adverse Cardiovascular Events",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.19469": {
+  "abstract": "We present in this article data on the computed potential energy surface, permanent moment surface (from dipole to hexadecapole) and polarizability surface (from dipole-dipole to quadrupole-quadrupole) for the H$_2$O molecule, calculated at the level of the generalized gradient approximation (GGA) in Kohn-Sham density functional theory (KS-DFT) in the grid-based projector augmented wave code GPAW, using the charge perturbation code C-pol. The GGA-based functionals are PBE, RPBE and BLYP. The monomer surfaces are composed of systematic, symmetry-reduced deformations of the H$_2$O monomer and comprise 10,000 configurations per functional, with traceless Cartesian tensor moment values reported as data strings in the xyz file format. In addition, we provide cluster datasets for n-H$_2$O aggregates (n = 2-6), sampled from liquid-like configurations and computed with the same KS-DFT settings, where each extended xyz file encodes the total interaction energy of the cluster in the comment line. Finally, ab initio molecular dynamics (AIMD) trajectories of periodic liquid water boxes, containing between 25 to 150 H$_2$O molecules at ambient conditions, are included, furnishing time series of atomic configurations and energies that are consistent with the monomer and cluster data and suitable for validating classical and machine-learned water models.",
+  "authors": [
+   "Anoop Ajaya Kumar Nair",
+   "Elvar Örn Jónsson"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "8 pages, 2 figures",
+  "first_author": "Anoop Ajaya Kumar Nair",
+  "pdf_url": "http://arxiv.org/pdf/2609.19469",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.20019": {
+  "abstract": "Monolayer tin selenide (SnSe) exhibits phase-dependent anharmonic lattice dynamics, yet their consequences for the thermoelectric power factor (PF) and point-defect tolerance remain unresolved. We combine density functional theory, the stochastic self-consistent harmonic approximation (SSCHA), and Boltzmann transport calculations including electron-phonon and electron-defect scattering to investigate monolayer $α$-SnSe (Pnma) and $β$-SnSe (Cmcm). In dynamically stable $α$-SnSe, SSCHA renormalizes the finite-temperature phonons without changing the qualitative n-type transport picture. In $β$-SnSe, SSCHA removes the harmonic soft-mode instability of the Cmcm phase at 800-1000 K, and thereby enables high-temperature transport calculations; LO/TO-2 is the principal electron-scattering channel. In the lower-density window near $10^{12}$ cm$^{-2}$, the n-type PF reaches 15-19 $μ\\mathrm{W}/(\\mathrm{K}^{2}\\cdot\\mathrm{cm})$ at 800-900 K and exceeds the p-type PF primarily because of the higher electrical conductivity. Se vacancies ($V_{\\mathrm{Se}}$) produce weaker electron-defect scattering than Sn vacancies ($V_{\\mathrm{Sn}}$), and p-type transport is less defect tolerant than n-type transport in both phases. We define an operational critical defect concentration, $C_{\\mathrm{crit}}$, at which the PF decreases by 15% relative to the corresponding defect-free value. The lowest $C_{\\mathrm{crit}}$ is $8.841\\times10^{-5}$ (approximately 88 ppm) for p-type $α$-SnSe with $V_{\\mathrm{Sn}}$; for n-type $β$-SnSe with $V_{\\mathrm{Se}}$, the 15% threshold is not reached up to $5\\times10^{-3}$ (5000 ppm). These results distinguish finite-temperature phonon renormalization in stable $α$-SnSe from anharmonic stabilization in $β$-SnSe and provide defect-concentration limits for preserving the PF.",
+  "authors": [
+   "Nguyen Tran Gia Bao",
+   "Thang Bach Phan",
+   "Vu Thi Hanh Thu",
+   "Nguyen Tuan Hung"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "13 pages, 4 figures, 1 table",
+  "first_author": "Nguyen Tran Gia Bao",
+  "pdf_url": "http://arxiv.org/pdf/2609.20019",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20391": {
+  "abstract": "We investigate energy fluctuations of solvated DNA in three conformations: G-quadruplex, Hairpin, and Duplex. Our comprehensive molecular dynamics (MD) simulations demonstrate that the time-series of interaction energies for DNA self, DNA-water and DNA-ion show 1/f noise with a universal decay exponent $β\\simeq 0.90$. We show that DNA topology and structural rigidity modulate its dynamic coupling with the surrounding hydration shell and mobile counter-ions. This coupling critically shapes the 1/f noise profile: DNA self energies in flexible structures (G-quadruplex, Hairpin) display pronounced low-frequency modes absent in the rigid Duplex. These findings reveal how the interplay between DNA topology and environmental coupling governs different stochastic behavior in biologically relevant forms of DNA.",
+  "authors": [
+   "Harsh Sahu",
+   "Deepika Sardana",
+   "Pramod Kumar",
+   "Ajay Kumar Chand",
+   "Sobhan Sen",
+   "Sanjay Puri"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Harsh Sahu",
+  "pdf_url": "http://arxiv.org/pdf/2609.20391",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-17",
+  "tags": [
+   "hydration-shell",
+   "molecular-dynamics"
+  ],
+  "title": "Universal 1/f Noise in the Power Spectra of Energy Time-series in Solvated DNA Dynamics",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20486": {
+  "abstract": "Antiferromagnetic (AF) metals are rare, yet they combine properties attractive for spintronic devices like robustness against stray fields and electrical readout. Among AF metal oxide candidates, SrCrO$_3$ remains largely unexplored due to its notoriously difficult synthesis. In this paper, we demonstrate the growth of high-quality SrCrO$_3$ thin films by magnetron sputtering on substrates that impose a wide range of tensile and compressive strains. Muon spin relaxation experiments, supported by x-ray magnetic dichroism, unveil the emergence of an AF phase with dilute magnetic disorder at low temperatures, while resistivity measurements confirm the simultaneous metallic ground state of SrCrO$_3$ under low strain. As both compressive and tensile strain increase, a metal-to-insulator transition is induced in the films, while the onset of the magnetic transition temperature remains unchanged. Moreover, an intriguing resistivity upturn, accompanied by a change in the dominant charge-carrier type, occurs at a temperature that correlates with strain. These observations suggest a complex strain-dependent band structure, with strain-induced Jahn-Teller distortions or tilting of the CrO$_6$ octahedra that emerge depending on the sign of the strain, as inferred from density functional theory calculations.",
+  "authors": [
+   "S. Jöhr",
+   "A. Carta",
+   "J. Moreno",
+   "A. Suter",
+   "Z. Salman",
+   "A. Panda",
+   "J. Spring",
+   "G. De Luca",
+   "J. Herrero-Martin",
+   "B. Mundet",
+   "C. Piamonteze",
+   "M. Gabay",
+   "C. Ederer",
+   "M. Gibert"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 Pages, 4 figures, Supplement Information with additional 5 pages, 7 figures",
+  "first_author": "S. Jöhr",
+  "pdf_url": "http://arxiv.org/pdf/2609.20486",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Strain-Induced Metal-to-Insulator Transition in Antiferromagnetic SrCrO$_3$ Thin Films",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20616": {
+  "abstract": "Antiferromagnetic oxides offer a compelling paradigm for magnonics. Combining ab initio and spin Hamiltonian modeling, we map Cr2O3 from bulk to monolayer limits, verifying stability via phonon spectra. Contrary to previously predicted half-metallic ferromagnetic monolayer phases, we conclusively demonstrate that monolayer and bilayer configurations preserve an antiferromagnetic semiconductor ground state despite systematic gap narrowing. Intersecting magnon and phonon branches drive strong hybridization, establishing low-dimensional Cr2O3 as an ideal platform for quantum spintronics.",
+  "authors": [
+   "Yogendra Limbu",
+   "Michael E. Flatté",
+   "Durga Paudyal"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 pages, 4 figures",
+  "first_author": "Yogendra Limbu",
+  "pdf_url": "http://arxiv.org/pdf/2609.20616",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20777": {
+  "abstract": "We report improved global-minimum configurations for the classical Thomson problem of $N=60$, $61$, $92$, and $99$ repulsive Coulomb charges confined to a disk. By combining the quenched molecular dynamics (QMD) method with the fixed-border heuristic introduced by Amore and Zarate, we systematically obtain configurations with energies $E_{\\mathrm{QMD}}(60)=2159.3584240930$, $E_{\\mathrm{QMD}}(61)=2237.19264190$, $E_{\\mathrm{QMD}}(92)=5358.35353314$, and $E_{\\mathrm{QMD}}(99)=6254.83029083$, which improve upon the previously best-known values. For $N=60$, the Voronoi diagram of our configuration differs from the one reported earlier. The symmetries for $N=61$ $(C_{2})$ and $N=99$ $(D_{1})$ are confirmed and are consistent with the known symmetry patterns for these configurations. For $N=92$, whereas the previously reported Voronoi diagram has lower symmetry, our solution exhibits a clear $D_{1}$ (axial) symmetry of defects. The results are highly reproducible across multiple independent runs, providing strong evidence that these configurations are robust global-minimum candidates.",
+  "authors": [
+   "Georgiy K. Lavrov",
+   "Eduard G. Nikonov"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "math-ph",
+   "math.OC",
+   "physics.class-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "10 pages, 1 figure, 1 table",
+  "first_author": "Georgiy K. Lavrov",
+  "pdf_url": "http://arxiv.org/pdf/2609.20777",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-17",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Global Minima of the Thomson Problem in a Disk: A Molecular Dynamics Approach with Fixed Border Charges",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-17"
  }
 }

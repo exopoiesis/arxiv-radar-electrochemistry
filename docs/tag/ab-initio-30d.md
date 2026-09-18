@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20616.html">Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides</a></div></td>
+<td>Yogendra Limbu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20616">2609.20616</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17945.html">Magnetically coupled charge-transport crossover and giant negative magnetoresistance in iodine-incorporated Cr$_2$Se$_3$</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
 <td>Bikash Das et al.</td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jiajia Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -44,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Zhengqing Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-13</td>
@@ -224,23 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19041.html">Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Tiancheng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19041">2608.19041</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Wenjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17408">2608.17408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="neb-30d.html">neb</a> · <a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Xiwen Gai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Victor M. S. da Conceição et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 </tbody></table>

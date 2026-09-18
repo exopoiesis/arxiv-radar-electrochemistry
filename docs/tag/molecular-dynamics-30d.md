@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20391.html">Universal 1/f Noise in the Power Spectra of Energy Time-series in Solvated DNA Dynamics</a></div><div class="paper-tags"><a href="hydration-shell-30d.html">hydration-shell</a></div></td>
+<td>Harsh Sahu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20391">2609.20391</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20777.html">Global Minima of the Thomson Problem in a Disk: A Molecular Dynamics Approach with Fixed Border Charges</a></div></td>
+<td>Georgiy K. Lavrov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20777">2609.20777</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="grotthuss-30d.html">grotthuss</a></div></td>
 <td>Jiajia Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -32,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16783.html">Room-temperature 1/3 suppression of diffusive shot noise</a></div><div class="paper-tags"><a href="redox-cycles-30d.html">redox-cycles</a></div></td>
 <td>Henri Vo Van Qui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16783">2609.16783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -212,23 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19041.html">Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Tiancheng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19041">2608.19041</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a></div></td>
-<td>Wenjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17408">2608.17408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="neb-30d.html">neb</a> · <a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Xiwen Gai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17814.html">Electron transport in amorphous materials: from localization to predictive transport modeling</a></div></td>
-<td>Yeonghun Lee</td>
-<td><a href="http://arxiv.org/abs/2608.17814">2608.17814</a></td>
 </tr>
 </tbody></table>

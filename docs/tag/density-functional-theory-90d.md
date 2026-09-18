@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Nguyen Tran Gia Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20019">2609.20019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20486.html">Strain-Induced Metal-to-Insulator Transition in Antiferromagnetic SrCrO$_3$ Thin Films</a></div></td>
+<td>S. Jöhr et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20486">2609.20486</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -32,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
 <td>A. Muheddine et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -68,6 +86,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="corrosion-90d.html">corrosion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Zhengqing Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -1028,41 +1052,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22234.html">Fine-Tuned Machine-Learned Interatomic Potentials for Structural and Vibrational Properties of Twisted 2D Materials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a></div></td>
 <td>Viet-Anh Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22234">2606.22234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21284.html">MADField: Multi-fidelity Amortized Density Field for Adsorption in Nanoporous Materials</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
-<td>Yoonho Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21284">2606.21284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21323.html">Importance of effective Coulomb interactions for $T_c$ in cuprates</a></div></td>
-<td>Jakša Vučičević et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21323">2606.21323</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21441.html">Bulk Photovoltaic Effect in Two-Dimensional Perovskite Oxides</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Chunmei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21441">2606.21441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21632.html">Fine-Tuning a Universal Machine-Learned Interatomic Potential for Oxygen Plasma Interactions with WS$_2$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jaehong Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21632">2606.21632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21796.html">The FAST Framework: Developing a Data-Efficient Machine Learning Potential to Decode Superionic Transition-Induced Thermophysical and Kinetic Anomalies in UO2 under Extreme Conditions</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Fengnian Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21796">2606.21796</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23725.html">Computational references are not experiments: pre-registered validation of machine-learned sodium-cathode voltages</a></div></td>
-<td>Krishna Teja Vepa</td>
-<td><a href="http://arxiv.org/abs/2606.23725">2606.23725</a></td>
 </tr>
 </tbody></table>

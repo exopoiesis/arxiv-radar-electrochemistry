@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Nguyen Tran Gia Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20019">2609.20019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20486.html">Strain-Induced Metal-to-Insulator Transition in Antiferromagnetic SrCrO$_3$ Thin Films</a></div></td>
+<td>S. Jöhr et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20486">2609.20486</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -32,6 +44,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
 <td>A. Muheddine et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -68,6 +86,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Zhengqing Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -332,23 +356,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19116.html">JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Denis Blessing et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19116">2608.19116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17786.html">Polarization-Dependent Raman Selection Rules in Sb$_2$S$_3$ from First Principles and Experiment</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a></div></td>
-<td>Tobias Dierke et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17786">2608.17786</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17867.html">Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Vrindaa Somjit et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17867">2608.17867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a></div></td>
-<td>Victor M. S. da Conceição et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 </tbody></table>

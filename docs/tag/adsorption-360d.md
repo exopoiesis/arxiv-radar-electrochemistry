@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">223 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,17 +1340,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19232.html">Atomistic mechanisms of oxidation and chlorine corrosion in Ni-based superalloys: The role of boron and light interstitial segregation</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Tyler D. Doležal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19232">2509.19232</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17736.html">Melanin-Based Compounds as Low-Cost Sensors for Nitroaromatics: Theoretical Insights on Molecular Interactions and Optoelectronic Responses</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jo{ã}o Paulo Cachaneski-Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17736">2509.17736</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17825.html">Role of Oxygen during Methane Oxidation on Pd$_1$/PdO$_1$@CeO$_2$ Surface: A Combined Density Functional Theory, Microkinetic, and Machine Learning Approach</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="microkinetics-360d.html">microkinetics</a></div></td>
-<td>Shalini Tomar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17825">2509.17825</a></td>
 </tr>
 </tbody></table>

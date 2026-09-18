@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vacancies — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <strong>30d</strong> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Nguyen Tran Gia Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20019">2609.20019</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -86,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19116.html">JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Denis Blessing et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19116">2608.19116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="neb-30d.html">neb</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>Xiwen Gai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17867.html">Optical decoherence in Er$^{3+}$-doped CeO$_2$ spin qubit platforms</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Vrindaa Somjit et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17867">2608.17867</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Nguyen Tran Gia Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20019">2609.20019</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Zhengqing Wei et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12300.html">$Ab$ $initio$ Study of Substitutional Defects in Li$_{3}$OCl Solid Electrolyte for Li-ion Batteries</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="ion-transport-7d.html">ion-transport</a></div></td>
 <td>Carson D. Ziemke et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12300">2609.12300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11666.html">Competition between vacancy creation and filling in defect-engineering of hBN</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Shrirang Chokappa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11666">2609.11666</a></td>
 </tr>
 </tbody></table>

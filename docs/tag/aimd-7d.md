@@ -22,21 +22,21 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Anoop Ajaya Kumar Nair et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16749.html">Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Hongjing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.16749">2609.16749</a></td>
 </tr>
 <tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11459.html">Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>David Kaiser et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11459">2609.11459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12166.html">Functionalization-Driven Charge Redistribution Enabling Ultra-High-Capacity V2B MBene Anode for Li/Na ion batteries: A First-Principles study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="ion-transport-7d.html">ion-transport</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Shaiokh Bin Abi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12166">2609.12166</a></td>
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 </tbody></table>
