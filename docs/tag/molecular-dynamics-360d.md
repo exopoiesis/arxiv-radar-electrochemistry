@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">568 papers</span>
+  <span class="paper-count">565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3404,23 +3404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20845.html">Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>H. Laltlanmawii et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20845">2509.20845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16266.html">Vibrational Fingerprints of Strained Polymers: A Spectroscopic Pathway to Mechanical State Prediction</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
-<td>Julian Konrad et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16266">2509.16266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19765.html">Computation of the heat capacity of water from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Motoyuki Shiga et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19765">2509.19765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19922.html">Phase Stability and Superconductivity in Hydrogenated and Lithiated Janus GaXS2 (X = Ga, In) Monolayers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19922">2509.19922</a></td>
 </tr>
 </tbody></table>

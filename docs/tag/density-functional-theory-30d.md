@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,17 +326,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21604.html">Investigating Sulfur Vacancy Passivation in Monolayer MoS2 FETs via Optically Coupled Low-Frequency Electrical Noise Spectroscopy</a></div><div class="paper-tags"><a href="corrosion-30d.html">corrosion</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Shashwata Chattopadhyay et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21604">2608.21604</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19933.html">Building atomistic models of heterointerfaces with optimal transport</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mace-30d.html">mace</a></div></td>
-<td>Yuxuan Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19933">2608.19933</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20514.html">Revealing the Role of Confined Molecular H$_2$ in the Passivation of Defective Silicon Using First-Principles Simulations</a></div><div class="paper-tags"><a href="corrosion-30d.html">corrosion</a> · <a href="neb-30d.html">neb</a></div></td>
-<td>Hania Azzam et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20514">2608.20514</a></td>
 </tr>
 </tbody></table>

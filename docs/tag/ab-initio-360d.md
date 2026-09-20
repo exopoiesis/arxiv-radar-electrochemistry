@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">477 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2852,29 +2852,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20845.html">Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>H. Laltlanmawii et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20845">2509.20845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11933.html">Lifelong Machine Learning Potentials for Chemical Reaction Network Explorations</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Marco Eckhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11933">2504.11933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19765.html">Computation of the heat capacity of water from first principles</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Motoyuki Shiga et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19765">2509.19765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19922.html">Phase Stability and Superconductivity in Hydrogenated and Lithiated Janus GaXS2 (X = Ga, In) Monolayers</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19922">2509.19922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19948.html">Type-II Band Alignment in the $β$-Ga$_2$O$_3$/Rutile GeO$_2$ Heterojunction toward Solar-Blind Photodetection: A first-principles study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>D. Q. Fang</td>
-<td><a href="http://arxiv.org/abs/2509.19948">2509.19948</a></td>
 </tr>
 </tbody></table>

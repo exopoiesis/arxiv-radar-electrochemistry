@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">810 papers</span>
+  <span class="paper-count">807 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4856,23 +4856,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21678.html">Direct Deoxygenation of Phenol over Fe-based Bimetallic Surfaces using On-the-fly Surrogate Models</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
 <td>Isaac Onyango et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21678">2509.21678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05025.html">Energy dependent Chemical Interface Damping induced by 1-Decanethiol Self-Assembled Monolayer on Au(111)</a></div></td>
-<td>Maurice Pfeiffer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05025">2509.05025</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19765.html">Computation of the heat capacity of water from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Motoyuki Shiga et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19765">2509.19765</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19948.html">Type-II Band Alignment in the $β$-Ga$_2$O$_3$/Rutile GeO$_2$ Heterojunction toward Solar-Blind Photodetection: A first-principles study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>D. Q. Fang</td>
-<td><a href="http://arxiv.org/abs/2509.19948">2509.19948</a></td>
 </tr>
 </tbody></table>
