@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>serpentinization — 360d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="serpentinization-7d.html">7d</a> <a href="serpentinization-30d.html">30d</a> <a href="serpentinization-90d.html">90d</a> <strong>360d</strong> <a href="serpentinization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22009.html">Insights into the long-standing controversy over sound velocities in lizardite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Chenxing Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22009">2609.22009</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16860.html">Tidal Rock Grinding as a Source of H2 on Enceladus</a></div><div class="paper-tags"><a href="origin-of-life-360d.html">origin-of-life</a></div></td>

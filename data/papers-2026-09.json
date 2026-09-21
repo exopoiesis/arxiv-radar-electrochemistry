@@ -2719,5 +2719,314 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-09-17"
+ },
+ "2609.20986": {
+  "abstract": "We present a molecular dynamics (MD) study of Al implantation in 4H-SiC to determine how implantation temperature and dose affect defect evolution and dopant activation during annealing. Simulations use the Gao-Weber potential with a Morse Al-SiC interaction reparameterized to density functional theory diffusion and kick-in/kick-out barriers. At Al concentrations above the saturation limit of ~2e20/cm3, implantation at 900 K promotes interstitial-rich planar clusters already during implantation. During annealing, these clusters trap Al and evolve into faulted interstitial loops, reducing substitutional Al incorporation. In contrast, lower implantation temperatures preserve stronger local disorder that is consumed during epitaxial regrowth, resulting in higher chemical activation within MD-accessible annealing times. Atomistic trajectories show a thermally activated transition to faulted loops once planar clusters reach about 60 interstitials. Rather than nucleating as a single coherent disk, several locally faulted regions form first and subsequently merge. The activation energy is ~1.1 eV for dislocation nucleation and ~2.1 eV for stacking-fault growth. Frank-type loops dominate at high temperature, while transient Shockley partials occur mainly at early stages and below 2000 K. As large planar defects form and dissolve, stable compensating Al-C complexes also emerge. These findings support the experimental hypothesis that secondary defects contribute to the reduced Al activation observed under supersaturation during annealing.",
+  "authors": [
+   "Sabine Leroch",
+   "Robert Stella",
+   "Andreas Hössinger",
+   "Lado Filipovic"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sabine Leroch",
+  "pdf_url": "http://arxiv.org/pdf/2609.20986",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.21065": {
+  "abstract": "Complex metallic alloys exhibit rich disorder-driven electronic, magnetic, and vibrational behavior arising from strong chemical disorder, leading to unconventional structure-property relationships with applications in extreme-environment materials, catalysis, spintronics, and thermoelectrics. Despite their technological relevance, the microscopic nature of charge redistribution and electrostatic fluctuations in chemically disordered alloys remains incompletely understood. Here, we develop a theoretical framework that uncovers universal statistical trends of disorder-driven charge transfer and Madelung-field fluctuations. Our analytical formalism demonstrates that local charge transfer and electrostatic potentials exhibit Gaussian-like statistics and universal linear charge-potential (qV) correlations emerging directly from the underlying disorder landscape. We identify the physical origin of these correlations in the interplay between electronic screening and impurity scattering and show how their statistical properties depend on carrier density, disorder strength, and compositional complexity. We further derive scaling relations governing qV trends across binary and multicomponent alloys, including high-entropy materials. Large-supercell density-functional theory (DFT) calculations show good quantitative agreement with the predicted statistical behavior for representative metallic alloys. Our results provide a computationally efficient framework for incorporating disorder-driven electrostatic fluctuations into effective-medium electronic-structure theories and establish a statistical-physics foundation for the predictive design of complex alloys.",
+  "authors": [
+   "Wai-Ga D. Ho",
+   "Wasim Raja Mondal",
+   "Swarnava Ghosh",
+   "Hanna Terletska",
+   "Ka-Ming Tam",
+   "Mariia Karabin",
+   "Markus Eisenbach",
+   "Yang Wang",
+   "Vladimir Dobrosavljević"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "39 pages, 59 images",
+  "first_author": "Wai-Ga D. Ho",
+  "pdf_url": "http://arxiv.org/pdf/2609.21065",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-17",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.21533": {
+  "abstract": "LLM-based multi-agent systems generate collaboration traces that record how agents plan tasks, verify intermediate results, and repair failures. Reusing these procedures requires preserving an action's prerequisites and the outputs needed by subsequent agents. Our empirical studies show that grouping these dependencies into functional memory units improves their retention, while connecting units increases retrieval of the units and links jointly required by a task. The preferred combination of units also changes between instructions and checklists, even when each combination's content is fixed across formats. Updating choices from the outcomes of each combination and format pairing outperforms scoring combinations and formats separately. These findings motivate MACE, a memory-agent co-evolution framework that adapts memory organization and agent memory use through execution feedback. Its MemGoG structure represents functional units as subgraphs of related conditions, actions, and outputs, connecting them through support, conflict, and repair relations. MACE Loop selects task-relevant units and relations within a memory budget and provides each agent with instructions or checklists for its current operation. It records the selected units, presentation formats, agent outputs, and task outcomes to update unit scores and relations for retrieval and inform subsequent presentation choices. Across eight benchmarks, MACE outperforms ten baselines with an average score of 81.11%, compared with 78.97% for the strongest baseline, SAGE.",
+  "authors": [
+   "Kairui Yang",
+   "Minghao An",
+   "Xunkai Li",
+   "Ziheng Yi",
+   "Zekai Chen",
+   "Guangyuan He",
+   "Rong-Hua Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Kairui Yang",
+  "pdf_url": "http://arxiv.org/pdf/2609.21533",
+  "primary_category": "cs.LG",
+  "published": "2026-09-18",
+  "tags": [
+   "mace"
+  ],
+  "title": "MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21536": {
+  "abstract": "We propose a framework for incorporating quantum-computing-based electronic-structure calculations into universal machine-learning interatomic potentials (uMLIPs). Rather than constructing an interatomic potential from scratch, we refine a pretrained DFT-based uMLIP using a small set of accurate reference energies obtained from quantum computing. We demonstrate the approach for three chemically distinct applications: the Menshutkin reaction, water adsorption in the metal-organic framework HKUST-1, and CO hopping on a high-entropy-alloy nanoparticle. For the Menshutkin reaction, fine-tuning on gas-phase configurations improves the transition-state energy inside a carbon nanotube but not the product energy. For water adsorption in HKUST-1, fine-tuning with only 14 reference configurations brings adsorption thermodynamics obtained from millions of configurations sampled by Widom insertion into closer agreement with reference values. For CO hopping on an IrPdPtRhRu nanoparticle, the preference for on-top over bridge adsorption is recovered in the finite-temperature free-energy profile obtained from enhanced-sampling molecular dynamics, even though the reference data contain only energies. These results demonstrate that the proposed framework provides a practical route for incorporating quantum-computing calculations into realistic atomistic simulations and that quantum-computing reference data can improve pretrained uMLIPs.",
+  "authors": [
+   "Tuan Minh Do",
+   "Yuichiro Yoshida",
+   "Kenji Ishihara",
+   "Wataru Mizukami"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Tuan Minh Do",
+  "pdf_url": "http://arxiv.org/pdf/2609.21536",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "mlip",
+   "molecular-dynamics",
+   "water-adsorption"
+  ],
+  "title": "From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21551": {
+  "abstract": "Orbital transport in light transition metals has emerged as a promising route toward angular-momentum electronics, with Hanle magnetoresistance (HMR) providing a direct electrical probe of the orbital Hall effect (OHE) in non-magnetic conductors. Here we report magnetoresistance signatures consistent with orbital HMR in epitaxial SrVO$*3$ (SVO), a narrow-band $d^1$ oxide grown on (001)-oriented (LaAlO$*3$)$*{0.3}$(Sr$*2$TaAlO$*6$)$*{0.7}$ substrates. In films of different thickness and longitudinal resistivity, field-dependent measurements reveal a reproducible positive, even-in-field, and approximately quadratic $Δρ*{x-y}$ response, as expected for HMR. Angular measurements characterize the corresponding magnetoresistance anisotropy and reveal an additional non-Hanle contribution. Density functional theory (DFT) calculations yield an intrinsic orbital Hall conductivity $σ*{\\mathrm{OH}}^{\\mathrm{DFT}} = 390,(\\hbar/e),Ω^{-1}\\mathrm{cm}^{-1}$ and a spin Hall conductivity $σ_{\\mathrm{SH}}^{\\mathrm{DFT}} = -12,(\\hbar/e),Ω^{-1}\\mathrm{cm}^{-1}$ at the Fermi level, corresponding to $|σ_{\\mathrm{OH}}^{\\mathrm{DFT}}/σ_{\\mathrm{SH}}^{\\mathrm{DFT}}| \\approx 33$, thus indicating a predominantly orbital response. Using the diffusive HMR framework with $λ_{\\mathrm{OD}} = 2$ nm as a reference value, the 20.8 nm film gives conservative saturation-limit lower-bound (LB) estimates $θ_{\\mathrm{OH,LB}} = 0.0144 \\pm 0.0004$ and $σ_{\\mathrm{OH,LB}} = (460 \\pm 11),(\\hbar/e),Ω^{-1}\\mathrm{cm}^{-1}$, comparable to the DFT value. Across the series, lower-bound estimates obtained with the same $λ_{\\mathrm{OD}}$ increase overall with longitudinal conductivity. These results suggest that narrow-band $d^1$ metallic oxides are a promising platform for orbital transport.",
+  "authors": [
+   "Julien Brehin",
+   "Montserrat X. Aguilar-Pujol",
+   "Dongwook Go",
+   "F. Casanova",
+   "J. Fontcuberta",
+   "E. Longo"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "14 pages, 5 Figures",
+  "first_author": "Julien Brehin",
+  "pdf_url": "http://arxiv.org/pdf/2609.21551",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Orbital angular momentum accumulation in SrVO3 thin films",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21678": {
+  "abstract": "This study examines phosgene (COCl2) adsorption on pristine and noble metal-doped (Ag, Au, Pd, Pt) B12N12 nanocages using dispersion-corrected density functional theory [B3LYP-D3(BJ)]. Boron-site substitution narrows the HOMO-LUMO gap far more than nitrogen-site substitution (69-82% vs 41-67%) and was adopted throughout. All systems were fully optimized; multiple starting geometries converged to two stable minima per dopant, X-O and X-Cl. Pristine B12N12 binds phosgene weakly (Eads = -12.8 to -24.9 kJ mol^-1). Doping strengthens binding, spanning -14.0 to -60.7 kJ mol^-1 after counterpoise correction, with platinum exhibiting the highest affinity and structural stability. Natural population analysis indicates phosgene donates at most 0.33 e, and QTAIM classifies all cage-adsorbate bond critical points as closed-shell or intermediate, confirming physisorption. Vibrational frequency analysis confirms all structures as true minima and reveals that the adsorption entropy penalty (59-161 J mol^-1 K^-1) is decisive. Under Grimme's quasi-harmonic approximation, pristine cages fail to bind phosgene (Delta G = +23.8 to +27.9 kJ mol^-1), whereas only Pt-O (Delta G = -8.8 kJ mol^-1) and Pd-O (-7.2 kJ mol^-1) adsorb phosgene spontaneously at 298 K. Transition-state theory indicates rapid room-temperature recovery (tau = 43 ms for Pt-O), while thermodynamic desorption occurs at 69.6 deg C, ensuring a practical regeneration window. Silver-doped cages provide narrow post-adsorption gaps and high electrophilicity but cannot retain phosgene at ambient conditions. Platinum doping is therefore the most effective strategy for reversible phosgene detection using B12N12 nanocages.",
+  "authors": [
+   "Shahariar Chowdhury",
+   "Mohammad Abdul Matin",
+   "Samiran Bhattacharjee",
+   "Ishtiaque M. Syed"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "Keywords: Density functional theory, B12N12 nanocages, Transition metal doping, Phosgene gas sensing, Adsorption",
+  "first_author": "Shahariar Chowdhury",
+  "pdf_url": "http://arxiv.org/pdf/2609.21678",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Adsorption of Phosgene Gas on Pristine and Noble Metal-Doped B12N12 Nanocages: Insights from Density Functional Theory",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21819": {
+  "abstract": "Prussian blue (PB) and its analogues (PBAs) are interesting materials for electrochemical applications due to their tunable redox chemistry and open framework structure. In this study, hexacyanoferrates (HCF) containing iron (FeHCF), cobalt (CoHCF) and nickel (NiHCF) were synthesized via potentiostatic electrodeposition. Cyclic voltammetry revealed distinct redox behaviors. Morphological characterization (SEM, EDX) demonstrated uniform, pyramidal film growth for FeHCF and CoHCF. Otherwise, NiHCF presented a cracked film with cubic clusters on top due to residual stress. Despite this, homogeneous element distribution was found for all samples. Structural characterization (TEM and XRD) confirmed a cubic lattice crystal structure for all films, with systematic lattice contraction from Fe to Co to Ni due to decreasing atomic radius. Raman and XPS data revealed a shift toward Fe2+ dominant oxidation states and modifications in CN bonding with the influence of K+ and water occupancy in the PBAs framework. These findings illustrate how metal substitution and deposition parameters can tune the structural and electrochemical properties of PBA films, presenting a strategic route to design tailored electrodes.",
+  "authors": [
+   "Larissa de O. Garcia",
+   "Michael Pohlitz",
+   "Mohammed F. Kalady",
+   "Falk Röder",
+   "Axel Lubk",
+   "Daniel Wolfmand Christian K. Müller"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Larissa de O. Garcia",
+  "pdf_url": "http://arxiv.org/pdf/2609.21819",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [],
+  "title": "Electrodeposited Co and Ni Hexacyanoferrates: Insights into Structure and Morphology",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21935": {
+  "abstract": "Accurate simulations of electrochemical interfaces require the simultaneous treatment of constant-potential conditions, nuclear quantum effects, and sufficient configurational sampling. Integrating these capabilities within a general and efficient molecular dynamics (MD) framework remains challenging. In this work, we implement fix uvt and fix pimd/uvt in LAMMPS for constant-potential classical MD and path integral molecular dynamics (PIMD), respectively. We organize the class hierarchy to reuse LAMMPS's existing Nosé--Hoover chain thermostat routines and share nuclear propagation routines across PIMD integrators. A common interface connects these integrators to models that provide the electron-number derivative of the potential energy. We present three examples with accompanying input commands to guide users through constant-potential classical MD, thermostatted PIMD, and constant-potential PIMD, covering analytical models, liquid water, and electrochemical interfaces described by machine learning potentials. This work provides practical tools and guidance for large-scale constant-potential simulations incorporating nuclear quantum effects.",
+  "authors": [
+   "Li Fu",
+   "Yifan Li",
+   "Shenzhen Xu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Li Fu",
+  "pdf_url": "http://arxiv.org/pdf/2609.21935",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "electrochemical-interfaces",
+   "molecular-dynamics"
+  ],
+  "title": "fix uvt and fix pimd/uvt: A Unified LAMMPS Framework for Constant-Potential Constant-Temperature Molecular Dynamics",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21984": {
+  "abstract": "High-throughput first-principles property calculations are often constrained by costly post-processing and dense Brillouin-zone sampling, impeding the creation of large, internally consistent materials-property datasets and limiting AI-driven discovery workflows. Pseudo-atomic-orbital (PAO) Hamiltonians provide an exact tight-binding representation of first-principles electronic structure that enables the calculation of a wide range of electronic, optical, topological, and transport properties at negligible cost, thereby supporting scalable generation of training-quality data and AI-ready data infrastructures. In this work, we present PAOFLOW 3.0 -- an open-source Python suite that automates the construction and analysis of PAO Hamiltonians from plane-wave density functional theory calculations performed with either Quantum ESPRESSO or VASP. The resulting Hamiltonians enable efficient electronic structure interpolation, Fermi surface analysis, optical and dielectric response, transport coefficients, Berry phase and topological quantities, quantum transport, and other materials properties. Compared with previous releases, PAOFLOW 3.0 substantially extends the scope of the package through the introduction of internal projections enabling support for VASP calculations, self-consistent Hubbard U and V corrections obtained using ACBN0 and eACBN0 methods, generation of environment-dependent Slater-Koster tight-binding models, Landauer--BÃŒttiker quantum transport, and calculation of quantum oscillations using the integrated PySKEAF module. The theoretical foundations and the software architecture are presented together with representative calculations illustrating the current capabilities of the package.",
+  "authors": [
+   "Anooja Jayaraj",
+   "Sergio Alvarruiz",
+   "Mia Falatko",
+   "Zhiren He",
+   "Jonathan Red",
+   "Caua F. Schuch",
+   "Karma Tenzin",
+   "Chao Chen Ye",
+   "Davide Ceresoli",
+   "Marcio Costa",
+   "Stefano Curtarolo",
+   "Jagoda Slawinska",
+   "Marco Buongiorno Nardelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Anooja Jayaraj",
+  "pdf_url": "http://arxiv.org/pdf/2609.21984",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21999": {
+  "abstract": "Bent-core liquid crystals are a canonical example of a soft matter system whose behavior is controlled by a local preference for order that cannot be universally achieved. This geometric frustration, arising from the rod's curved shape, has been shown to stabilize a variety of equilibrium phases, such as the helically ordered nematic twist-bend phase ($N_{\\rm TB}$). Unlike a traditional nematic, the twist-bend state has 1D translational order arising from a periodic rotation of bend orientation along the helical axis. Here, we use molecular dynamics simulations to study the effect of shearing the $N_{\\rm TB}$ phase along directions parallel and perpendicular to the helical axis. In the case of shear perpendicular to the helical axis, the nematic twist-bend phase is stable and flows without disordering. Conversely, shear along the helical axis disrupts order and leads to the emergence of fractionally charged Skyrmion defects, i.e. merons. These defects act as topological machines, locally rotating rods into a re-ordered and stable orientation of the $N_{\\rm TB}$ phase. These findings reveal a new mechanism to create and control merons and highlight the potential application of bent-core liquid crystals in designing functional material with specific optical and computational properties.",
+  "authors": [
+   "Nicholas W. Hackney",
+   "Joel T. Clemmer",
+   "Thomas O'Connor",
+   "Gary S. Grest"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "15 pages, 10 figures",
+  "first_author": "Nicholas W. Hackney",
+  "pdf_url": "http://arxiv.org/pdf/2609.21999",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Merons Mediate Re-Ordering of Curved Rods Under Shear Flow",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.22009": {
+  "abstract": "Serpentine minerals are abundant H-bearing phases in the upper mantle and play a central role in water transport in subduction zones. Lizardite is the low-temperature polymorph expected in cold slabs and shallow serpentinized mantle. Using an ab initio thermoelastic framework combining density-functional theory with the r2SCAN meta-GGA and the quasiharmonic approximation, we calculate its compression curve, elastic tensor, and acoustic velocities at 300 K. r2SCAN reproduces the measured compression curve and equilibrium volume to within 0.2%. Weak interlayer hydrogen bonding gives rise to pronounced axial softening, with $C_{33} \\simeq 0.21C_{11}$ and $C_{44} \\simeq 0.13C_{66}$ at 0 GPa. Solving the Christoffel equation over all propagation directions, we construct the velocity density of states (VelDOS), which reveals a high density of slow acoustic modes and other directional features obscured by Voigt-Reuss-Hill (VRH) aggregate averages. Reported experimental velocities preferentially sample the slower portion of this distribution rather than clustering near the VRH values, a correspondence consistent with subtle crystallographic texture or preferential orientation not resolved experimentally. Thus, the appropriate seismic-velocity endmember for lizardite depends on its orientational state, and reliance on VRH velocities alone may lead to overestimation of the degree of serpentinization when seismic observations preferentially sample slow crystallographic directions. Direction-resolved single-crystal measurements and aggregate measurements with independently quantified texture would provide direct tests of this interpretation.",
+  "authors": [
+   "Chenxing Luo",
+   "Timothy Liao",
+   "Hongjin Wang",
+   "Renata M. Wentzcovitch"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Chenxing Luo",
+  "pdf_url": "http://arxiv.org/pdf/2609.22009",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-18",
+  "tags": [
+   "ab-initio",
+   "serpentinization"
+  ],
+  "title": "Insights into the long-standing controversy over sound velocities in lizardite",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Mineral Surfaces and Geochemistry",
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-09-18"
  }
 }
