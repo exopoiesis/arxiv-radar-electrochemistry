@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23602.html">Minimality in Reflexive and Stoichiometric Autocatalysis</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
+<td>Richard Golnik et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23602">2609.23602</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10604.html">The Epistemic Risk of the 31st Spore: If Planets Aren&#x27;t Fine Tuned, We&#x27;re Doing Life Detection Wrong</a></div></td>
 <td>Harrison B. Smith et al.</td>
@@ -68,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27184.html">Chemical Complexity in the Early Stages of Star Formation in the SKAO Era</a></div></td>
 <td>Eleonora Bianchi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27184">2606.27184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24246.html">Hierarchical models for large chemical reaction networks</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
-<td>J. Unterberger et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24246">2606.24246</a></td>
 </tr>
 </tbody></table>

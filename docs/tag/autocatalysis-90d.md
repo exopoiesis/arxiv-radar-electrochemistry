@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23602.html">Minimality in Reflexive and Stoichiometric Autocatalysis</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
+<td>Richard Golnik et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23602">2609.23602</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07509.html">Acceleration of energy dissipation by biological systems</a></div><div class="paper-tags"><a href="dissipative-systems-90d.html">dissipative-systems</a></div></td>
 <td>Adam Moroz et al.</td>
@@ -56,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30235.html">Surviving the Attack of the Clones</a></div></td>
 <td>Denis S. Grebenkov</td>
 <td><a href="http://arxiv.org/abs/2606.30235">2606.30235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24246.html">Hierarchical models for large chemical reaction networks</a></div><div class="paper-tags"><a href="origin-of-life-90d.html">origin-of-life</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
-<td>J. Unterberger et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24246">2606.24246</a></td>
 </tr>
 </tbody></table>
