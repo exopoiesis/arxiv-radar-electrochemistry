@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">569 papers</span>
+  <span class="paper-count">568 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Bilvin Varughese et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26657">2609.26657</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23564.html">Dual Role of Mobile Interstitials in Defect Kinetics: From Retardation to Acceleration</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
@@ -3410,23 +3422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24742.html">Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems</a></div><div class="paper-tags"><a href="constant-potential-360d.html">constant-potential</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
 <td>Weihang Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24742">2509.24742</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10745.html">Investigation of Softer Lattice Dynamics in Defect Engineered GeTe Crystals</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Saptak Majumder et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10745">2502.10745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23089.html">Insights into Ionic Diffusion in C-S-H Gel Pore from Molecular Dynamics Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Weiqiang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23089">2506.23089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23211.html">Selective nonthermal melting in phlogopite under ultrafast energy deposition</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Nikita Medvedev</td>
-<td><a href="http://arxiv.org/abs/2509.23211">2509.23211</a></td>
 </tr>
 </tbody></table>

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16780.html">Topological spin textures in 2D altermagnetic chromium chalcogenides: Interplay between magnetic frustration and Dzyaloshinskii-Moriya interaction</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Zirui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16780">2609.16780</a></td>
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25523.html">Learning continuous reaction paths for transition-state prediction</a></div></td>
+<td>Yexiang Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25523">2609.25523</a></td>
 </tr>
 </tbody></table>

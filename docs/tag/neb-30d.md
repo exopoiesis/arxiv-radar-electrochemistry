@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>neb — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <strong>30d</strong> <a href="neb-90d.html">90d</a> <a href="neb-360d.html">360d</a> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25523.html">Learning continuous reaction paths for transition-state prediction</a></div></td>
+<td>Yexiang Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25523">2609.25523</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16780.html">Topological spin textures in 2D altermagnetic chromium chalcogenides: Interplay between magnetic frustration and Dzyaloshinskii-Moriya interaction</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>

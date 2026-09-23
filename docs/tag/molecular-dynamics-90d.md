@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Bilvin Varughese et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26657">2609.26657</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23564.html">Dual Role of Mobile Interstitials in Defect Kinetics: From Retardation to Acceleration</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Shihao Zhang et al.</td>
@@ -716,17 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26646.html">Dynamic heterogeneity in sodium silicate melts via machine-learning potential</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
 <td>Kumpei Shiraishi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26646">2606.26646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25742.html">Barocaloric phase transformation from data efficient fine-tuning of machine learned interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
-<td>Ludwig Hedin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25742">2606.25742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="co2-adsorption-90d.html">co2-adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Jiwen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
 </tr>
 </tbody></table>

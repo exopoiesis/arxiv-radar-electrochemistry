@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ab-initio — all</h1>
-  <span class="paper-count">857 papers</span>
+  <span class="paper-count">859 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
+<td>S. Huyan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="electric-double-layer-all.html">electric-double-layer</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mlip-all.html">mlip</a></div></td>

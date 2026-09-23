@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">192 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26008.html">Electrolyte Dependent Structure Transport Relationships in Electrodeposited Prussian Blue Analogue Thin Films</a></div><div class="paper-tags"><a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a> · <a href="ion-transport-360d.html">ion-transport</a></div></td>
+<td>Larissa de O. Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26008">2609.26008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Bilvin Varughese et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26657">2609.26657</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23564.html">Dual Role of Mobile Interstitials in Defect Kinetics: From Retardation to Acceleration</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1160,11 +1172,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00473.html">Atomic networks as highways for holes in oxygen-deficient amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Rafael Costa-Amaral et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00473">2510.00473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.10745.html">Investigation of Softer Lattice Dynamics in Defect Engineered GeTe Crystals</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Saptak Majumder et al.</td>
-<td><a href="http://arxiv.org/abs/2502.10745">2502.10745</a></td>
 </tr>
 </tbody></table>

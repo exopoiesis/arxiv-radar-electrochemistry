@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-09-22._
+_Updated 2026-09-23._
 
-**3466** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3474** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,48 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25523.html">Learning continuous reaction paths for transition-state prediction</a></div><div class="paper-tags"><a href="tag/neb-30d.html">neb</a></div></td>
+<td>Yexiang Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25523">2609.25523</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25997.html">Interplay of Composition, Crystallinity, and Chemical Structure in CoHCF and NiHCF Thin Films Prepared at Different Temperatures</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>Larissa de O. Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25997">2609.25997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26008.html">Electrolyte Dependent Structure Transport Relationships in Electrodeposited Prussian Blue Analogue Thin Films</a></div><div class="paper-tags"><a href="tag/impedance-spectroscopy-30d.html">impedance-spectroscopy</a> · <a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Larissa de O. Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26008">2609.26008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26601.html">Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Hediyeh Soltanizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26601">2609.26601</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>S. Huyan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Bilvin Varughese et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26657">2609.26657</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/electric-double-layer-30d.html">electric-double-layer</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.24281.html">Electronic-Entropy-Driven Phase Transitions in Compressed Iron Oxides</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -33,6 +75,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.24843.html">Electronic Reconstruction Towards Topological Superconductivity in FeTe</a></div><div class="paper-tags"><a href="tag/chalcogenides-30d.html">chalcogenides</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
 <td>Hongtao Rong et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24843">2609.24843</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25293.html">Silk-templated Nanostrips as Superprotonic Fibre Sensors</a></div><div class="paper-tags"><a href="tag/proton-transport-30d.html">proton-transport</a></div></td>
+<td>Jianhui Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25293">2609.25293</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-20</td>
@@ -147,53 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20391.html">Universal 1/f Noise in the Power Spectra of Energy Time-series in Solvated DNA Dynamics</a></div><div class="paper-tags"><a href="tag/hydration-shell-30d.html">hydration-shell</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Harsh Sahu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20391">2609.20391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20486.html">Strain-Induced Metal-to-Insulator Transition in Antiferromagnetic SrCrO$_3$ Thin Films</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>S. Jöhr et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20486">2609.20486</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20616.html">Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
-<td>Yogendra Limbu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20616">2609.20616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20777.html">Global Minima of the Thomson Problem in a Disk: A Molecular Dynamics Approach with Fixed Border Charges</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Georgiy K. Lavrov et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20777">2609.20777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20986.html">Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sabine Leroch et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20986">2609.20986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21065.html">Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Wai-Ga D. Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21065">2609.21065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.17945.html">Magnetically coupled charge-transport crossover and giant negative magnetoresistance in iodine-incorporated Cr$_2$Se$_3$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chalcogenides-30d.html">chalcogenides</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Bikash Das et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17945">2609.17945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/grotthuss-30d.html">grotthuss</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>R. Mathew Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
 </tr>
 </tbody></table>

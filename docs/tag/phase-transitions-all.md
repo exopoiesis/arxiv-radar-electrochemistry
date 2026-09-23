@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25997.html">Interplay of Composition, Crystallinity, and Chemical Structure in CoHCF and NiHCF Thin Films Prepared at Different Temperatures</a></div><div class="paper-tags"><a href="ion-transport-all.html">ion-transport</a></div></td>
+<td>Larissa de O. Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25997">2609.25997</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>S. Huyan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24843.html">Electronic Reconstruction Towards Topological Superconductivity in FeTe</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>

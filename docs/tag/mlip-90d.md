@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Bilvin Varughese et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26657">2609.26657</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Zhenxing Dai et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="active-learning-90d.html">active-learning</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Sheng Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="co2-adsorption-90d.html">co2-adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jiwen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
 </tr>
 </tbody></table>

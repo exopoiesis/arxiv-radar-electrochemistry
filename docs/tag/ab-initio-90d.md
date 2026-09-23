@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
+<td>S. Huyan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="electric-double-layer-90d.html">electric-double-layer</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Thorben Eggert et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -668,35 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30402.html">Quantum Computations on Fusion Blanket Molten Salts</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Susanta Das et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30402">2606.30402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25408.html">Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study</a></div><div class="paper-tags"><a href="phase-stability-90d.html">phase-stability</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Youjeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25408">2606.25408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="co2-adsorption-90d.html">co2-adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jiwen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25862.html">First-Principles Quantum-Spectral framework for Elementary Vortex Pinning in superconductors</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Haozhe Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25862">2606.25862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26243.html">Bobkingite, a new coupled sawtooth chain platform</a></div></td>
-<td>P. Peter Stavropoulos et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26243">2606.26243</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26269.html">Challenging the $p$-type Paradigm: Intrinsic $n$-type Mobility in Antiferromagnetic Cr$_2$O$_3$</a></div></td>
-<td>Á. A. Carrasco Álvarez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26269">2606.26269</a></td>
 </tr>
 </tbody></table>

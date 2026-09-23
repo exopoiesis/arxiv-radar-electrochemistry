@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26601.html">Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition</a></div></td>
+<td>Hediyeh Soltanizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26601">2609.26601</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
+<td>S. Huyan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24281.html">Electronic-Entropy-Driven Phase Transitions in Compressed Iron Oxides</a></div></td>
@@ -1046,23 +1058,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26834.html">A Hybrid Quantum Mechanics Machine Learning Forcefield (QM/ML) Framework for Accurate Solute-Dislocation Interaction Simulations</a></div></td>
 <td>Junting Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26834">2606.26834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25742.html">Barocaloric phase transformation from data efficient fine-tuning of machine learned interatomic potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ludwig Hedin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25742">2606.25742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25853.html">A Combined Tight Binding with Machine Learning Potential Model for Magnesium Compounds</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="co2-adsorption-90d.html">co2-adsorption</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jiwen Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25853">2606.25853</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25862.html">First-Principles Quantum-Spectral framework for Elementary Vortex Pinning in superconductors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Haozhe Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25862">2606.25862</a></td>
 </tr>
 </tbody></table>

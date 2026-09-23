@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26008.html">Electrolyte Dependent Structure Transport Relationships in Electrodeposited Prussian Blue Analogue Thin Films</a></div><div class="paper-tags"><a href="impedance-spectroscopy-90d.html">impedance-spectroscopy</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Larissa de O. Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26008">2609.26008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Bilvin Varughese et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26657">2609.26657</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23564.html">Dual Role of Mobile Interstitials in Defect Kinetics: From Retardation to Acceleration</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Shihao Zhang et al.</td>
@@ -248,17 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04200.html">Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Baihong Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04200">2607.04200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25408.html">Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Youjeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25408">2606.25408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25862.html">First-Principles Quantum-Spectral framework for Elementary Vortex Pinning in superconductors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Haozhe Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25862">2606.25862</a></td>
 </tr>
 </tbody></table>

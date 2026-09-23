@@ -3366,5 +3366,238 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-09-21"
+ },
+ "2609.25293": {
+  "abstract": "Transforming textile fibres into sensors can facilitate continuous physiological monitoring for improving human healthcare. Coating fibres with electronic conductors can help detect physiological stimuli but their sensitivity scales with thickness and often lowers the fibre mechanical flexibility. Proton conductors are potential alternatives; however, they suffer from fragile physical interfaces, and sluggish kinetics. Here, we report a bio-templated, scalable strategy to create superprotonic interfaces using natural silk fibres. We exploit ordered nanofibrils on silk fibres to selectively grow continuous metal-organic framework (MOF) nanostrips. This patterned, ca. $10\\,μ\\mathrm{m}$-diameter fibre-structure provides low-defect interfacial pathways for ultrafast proton transport, yielding conductivities up to 40 $S\\,cm^{-1}$ - two orders of magnitude above the state of the art - with millisecond response and high mechanical robustness. The individual micro-thread sensors facilitate respiratory monitoring with a mean bias of 0.01 breaths $min^{-1}$ in volunteer testing, unaffected by human movement and readily capture breathing signature in high-flow oxygen therapy devices. We integrate arrays of micro-thread sensors in textiles and exploit deep learning to demonstrate high-resolution spatiotemporal humidity mapping in dynamic flow-fields and resolve asymmetric respiratory patterns that elude conventional single-point detectors. Our results should have broad-ranging implications, e.g. in wearable health monitoring, bioelectronics, and human-machine interfaces.",
+  "authors": [
+   "Jianhui Zhang",
+   "Ahmed Salem",
+   "Robert Tidswell",
+   "Haowei Wang",
+   "Vikramjeet Singh",
+   "Laurence B. Lovat",
+   "Manish K. Tiwari"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.mtrl-sci",
+   "physics.app-ph",
+   "physics.med-ph"
+  ],
+  "comment": "69 pages, 32 figures,",
+  "first_author": "Jianhui Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2609.25293",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-21",
+  "tags": [
+   "proton-transport"
+  ],
+  "title": "Silk-templated Nanostrips as Superprotonic Fibre Sensors",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-21"
+ },
+ "2609.25523": {
+  "abstract": "Transition states are defined by reaction pathways, yet most machine-learning methods predict them as isolated geometries. We introduce MARC-TS, a two-stage framework that learns a continuous, endpoint-conditioned path, queries it at any resolution and uses local path context to refine a transition-state candidate. We construct T1x-IRC-8K, a dataset of 8,209 reactions and 1,088,725 path-resolved geometries. On held-out reactions, the path model reduced complete-path error by 48.4% relative to endpoint interpolation, and the localizer achieved a mean aligned structural error of 0.127 Å. Quantum-chemical optimization and vibrational analysis yielded 405 frequency-confirmed first-order saddle-point candidates from 410 predictions. In a 100-reaction nudged elastic band comparison, learned-path initialization reached a joint geometry-and-force target for 66% of reactions, compared with 12% for geometric interpolation after 100 optimizer steps. By treating the path as a reusable representation rather than an auxiliary output, MARC-TS connects transition-state prediction, mechanistic interpretation and quantum-chemical refinement.",
+  "authors": [
+   "Yexiang Yang",
+   "Linlin Zhong"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "32 pages, 16 figures",
+  "first_author": "Yexiang Yang",
+  "pdf_url": "http://arxiv.org/pdf/2609.25523",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-09-22",
+  "tags": [
+   "neb"
+  ],
+  "title": "Learning continuous reaction paths for transition-state prediction",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.25997": {
+  "abstract": "Understanding how growth conditions govern structural order and ion transport in Prussian blue analogues (PBAs) thin films is essential for optimizing their electrochemical performance. Here, cobalt and nickel hexacyanoferrate (CoHCF and NiHCF) thin films were electrodeposited potentiostatically at temperatures between 20 and 60 degrees C. A combination of cyclic voltammetry, scanning electron microscopy, X-ray diffraction, and Raman spectroscopy was employed to elucidate the interplay between composition, crystallinity, and chemical structure. Under identical conditions, CoHCF exhibits a maximum current density approximately 2.2 times higher than NiHCF, indicating significantly faster electrochemical kinetics. X-ray diffraction reveals temperature-dependent lattice expansion without phase transitions, with a maximum near 40 degrees C, associated with structural relaxation and compositional variations. Raman spectroscopy further reveals temperature-dependent local structural evolution, where cyanide band narrowing at intermediate temperatures indicates improved short-range order, while band broadening at higher temperatures reflects increased defect density. These findings demonstrate that temperature-controlled defect redistribution governs both short- and long-range structural order in PBA thin films, directly influencing ion transport and electrochemical response. This work provides new insights into structure-property relationships in PBAs and establishes deposition temperature as a key parameter for tuning electrochemical functionality in hexacyanoferrate-based electrodes.",
+  "authors": [
+   "Larissa de O. Garcia",
+   "Michael Pohlitz",
+   "Mohammed F. Kalady",
+   "Christian K. Muller"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Larissa de O. Garcia",
+  "pdf_url": "http://arxiv.org/pdf/2609.25997",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-22",
+  "tags": [
+   "ion-transport",
+   "phase-transitions"
+  ],
+  "title": "Interplay of Composition, Crystallinity, and Chemical Structure in CoHCF and NiHCF Thin Films Prepared at Different Temperatures",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26008": {
+  "abstract": "Understanding how electrolyte composition influences charge storage in Prussian blue analogues (PBAs) requires clarifying the coupled effects of structural disorder and ion transport. Here, we investigate Fe-, Co-, and Ni-based hexacyanoferrate thin films electrodeposited from KCl, NaCl, NH4Cl, and LiCl electrolytes under identical electrochemical conditions. Although all films retain the cubic PBA structure, electrolyte identity produces pronounced differences in lattice parameters, defect concentration, and local coordination environments. Na+ promotes lattice expansion accompanied by increased vacancy formation, microstrain, and structural heterogeneity, whereas K+ and NH4+ yield more structurally coherent frameworks. Raman spectroscopy shows that increasing structural disorder broadens the distribution of local coordination environments and correlates with increasingly dispersed electrochemical behavior. Electrochemical impedance spectroscopy further reveals coupled ion-electron transport, with impedance increasing by more than one order of magnitude from FeHCF to NiHCF. Notably, the CPE exponent decreases systematically with Raman band broadening, establishing a direct correlation between structural disorder and transport dispersion. These results demonstrate that electrolyte identity controls not only lattice dimensions but also the organization and connectivity of defect networks, highlighting structural coherence and accessible transport pathways as key factors governing electrochemical performance in PBA thin films.",
+  "authors": [
+   "Larissa de O. Garcia",
+   "Michael Pohlitz",
+   "Mohammed F. Kalady",
+   "Christian K. Muller"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Larissa de O. Garcia",
+  "pdf_url": "http://arxiv.org/pdf/2609.26008",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-22",
+  "tags": [
+   "impedance-spectroscopy",
+   "ion-transport",
+   "vacancies"
+  ],
+  "title": "Electrolyte Dependent Structure Transport Relationships in Electrodeposited Prussian Blue Analogue Thin Films",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26601": {
+  "abstract": "Intelligent reflecting surface (IRS)-assisted mobile Internet of Things uplinks require joint control of channel aging, costly cascaded channel state information (CSI) acquisition, and coupled IRS/radio resources. This investigation develops a unified prediction-aware deterministic framework for partitioned IRS-assisted massive multiple-input multiple-output (mMIMO) uplinks. Direct channels are recursively tracked, whereas cascaded channels are selectively refreshed by differential semi-blind acquisition reusing the same unknown data block across a minimum-reflection baseline and DFT-coded IRS states. Moreover, finite-block acquisition covariances initialize reduced-order beam-domain prediction, which propagates only unit-beam means online and retrieves age-dependent covariances from precomputed tables. A mixed-integer nonconvex formulation captures net throughput, fairness, outage, uncertainty, switching cost, and sliding-window IRS service. The causal controller integrates covariance-floor actionability, feasible equal-size granularity, residual-feasible ownership, isolated-beam one-sweep refinement, same-block fresh-payload accounting, and service-first allocation using recomputed uncertainty-aware ZF rates and bidirectional receiver-consistent risk. Analysis establishes service-feasibility preservation, effective-channel error bounds, distribution-free reliability, and polynomial online scaling. In unseen environments, the predicted acquisition floor matches the practical semi-blind error, actionable recalibration reduces the mean recalibration rate by 31.5%, and IRS-assisted control achieves a 14.09% mean net-rate gain over direct-only transmission. Receiver-consistent allocation improves realized rate, while ablations support equal-size partitioning and single-sweep refinement; zero post-action service violations occur under nominal, mobility, and load-stress conditions.",
+  "authors": [
+   "Hediyeh Soltanizadeh",
+   "Ardavan Rahimian"
+  ],
+  "categories": [
+   "eess.SP",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Hediyeh Soltanizadeh",
+  "pdf_url": "http://arxiv.org/pdf/2609.26601",
+  "primary_category": "eess.SP",
+  "published": "2026-09-22",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26628": {
+  "abstract": "Understanding how lattice geometry enables superconductivity in oxides remains a central challenge. Here, we report a systematic study of ReO3 up to 80 GPa. Synchrotron X-ray diffraction, Raman spectroscopy, electrical transport, dc magnetic susceptibility, and first-principles calculations establish a sequence of pressure-induced structural transitions, from cubic Pm-3m to Im-3 followed by the emergence of a rhombohedral R-3c phase accompanied by bulk superconductivity with a maximum Tc, onset ~17.5 K. DC magnetic susceptibility and trapped-flux magnetization measurements demonstrate that bulk superconductivity is confined to the pressure range where R-3c phase is dominant. Density functional theory calculations show strong electron-phonon coupling in the hR24-R-3c structure, with substantial contributions from both low-frequency Re vibrations and high-frequency oxygen-related phonon modes, yielding a calculated Tc comparable with the experiment. Upon further compression above ~35-40 GPa, powder X-ray diffraction results indicate a symmetry-lowering structural transition. Whereas the experimental diffraction patterns can be best described by a rhombohedral-derived R32-like average distortion with effective enlargement of the crystallographic unit cell, enthalpy calculations identify a lower-symmetry mP16-P2/c structure driven by phonon instability of the R-3c phase. This reconstructed higher-coordination phase has a reduced density of states at the Fermi level, weaker electron-phonon coupling, and a much lower calculated Tc, providing a microscopic explanation for the loss of bulk superconductivity in the higher-pressure phase. These results show that bulk superconductivity is stabilized within the rhombohedral structure, where pressure-induced lattice reconstruction supports enhanced electron-phonon coupling through cooperative Re-O lattice dynamics.",
+  "authors": [
+   "S. Huyan",
+   "R. F. S. Penacchio",
+   "L-L. Wang",
+   "J. Schmidt",
+   "D. Zhang",
+   "B. Lavina",
+   "Z. Li",
+   "R. A. Ribeiro",
+   "T. J. Slade",
+   "J. Zhao",
+   "S. L. Morelhão",
+   "P. C. Canfield",
+   "S. L. Bud'ko"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "29 pages, 8 figures",
+  "first_author": "S. Huyan",
+  "pdf_url": "http://arxiv.org/pdf/2609.26628",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-09-22",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "phase-transitions"
+  ],
+  "title": "The observation of bulk superconductivity in Rhombohedral ReO3 under pressure",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26657": {
+  "abstract": "Interatomic potentials underpin MD and govern predictive atomistic-model fidelity for metals, semiconductors, oxides, liquids, and reactive systems. A potential has limited practical value until reliably implemented in production MD code. Slow, expertise-intensive implementation requires more than equation-to-C++ translation: it must select the neighbor-list architecture, evaluate and distribute many-body derivatives, manage interprocessor communication, and preserve host-code energy, force, and virial conventions. We introduce Agent-E2MD, a knowledge-guided agentic workflow that translates user-specified interatomic models into executable LAMMPS pair styles. It combines architectural classification, code generation, autonomous build-test-fix cycles, simulation execution, and hierarchical physical validation. We test Agent-E2MD on seven material-potential pairs: Lennard--Jones Ar, EAM/FS Ag, MEAM Bi, Tersoff Si, GAP Ni, ReaxFF C/H/N/O, and a recently developed Symbolic Regression EAM (Symb EAM) model for Al, currently unavailable in LAMMPS. Single-point results match reference energies and forces for all seven models. Five crystalline many-body benchmarks recover reference relaxed lattice properties, vacancy formation energies, and elastic constants. Ag, Bi, Si, and Ni are stable at finite temperature in nanosecond-scale simulations; ReaxFF extends validation to reactive dynamics with evolving bond order and charge equilibration. Results demonstrate that the software architecture for an interatomic potential can be inferred from its physical and mathematical structure. Agent-E2MD does not replace scientific judgment; it shifts users' effort from routine implementation to model definition, rigorous validation, and physical interpretation. The framework provides a practical, traceable bridge between emerging AI-driven potential discovery methods and production-scale atomistic simulations.",
+  "authors": [
+   "Bilvin Varughese",
+   "Orcun Yildiz",
+   "Aditya Koneru",
+   "Henry Chan",
+   "Tom Peterka",
+   "Subramanian Sankaranarayanan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Bilvin Varughese",
+  "pdf_url": "http://arxiv.org/pdf/2609.26657",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-22",
+  "tags": [
+   "mlip",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26685": {
+  "abstract": "The structure of interfacial water at electrified metal electrodes is known to affect electrocatalysis, and experiments highlight its sensitivity to electrolyte ion identity and applied bias. To disentangle generic charge-controlled structural changes from ion-specific effects, we compare ab initio molecular dynamics water structures at electrified Pt(111) generated with two very different biasing schemes: an explicit ion imbalance in the double layer and homogeneously distributed partially charged hydrogen atoms. Despite these distinct counter-charge representations, both approaches yield a consistent average response of the first water bilayer, in particular of the chemisorbed first layer, when compared on a common surface-charge scale. Method-dependent differences, in particular those associated with explicit electrolyte ions, become apparent only in more local structural descriptors. The hydrogen-bond topology reveals charge-dependent chain-to-ring rearrangements, with explicit ions enhancing ring populations near the potential of zero charge. Layer-resolved vibrational density of states (VDOS) assigns the strongest O-H stretching perturbation to chemisorbed first-layer water and identifies high-frequency signatures of ion-coordinated water, while computed vibrational sum-frequency generation (VSFG) spectra show that the physisorbed, electrolyte-facing region is particularly sensitive to the counter-charge representation. These results suggest that surface charge controls the average structural response, whereas electrolyte ions and their solvation shells become visible only when locally refined descriptors are investigated or probed, e.g. the H-bond network topology and vibrational fingerprints of the interfacial bilayer.",
+  "authors": [
+   "Thorben Eggert",
+   "Lang Li",
+   "Yair Litman",
+   "Karsten Reuter",
+   "Nicolas G. Hoermann",
+   "Clotilde S. Cucinotta"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "32 pages, 5 figures, 1 table. Supporting Information (14 pages, 14 figures, 1 table) appended",
+  "first_author": "Thorben Eggert",
+  "pdf_url": "http://arxiv.org/pdf/2609.26685",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-22",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "electric-double-layer",
+   "electrocatalysis",
+   "molecular-dynamics"
+  ],
+  "title": "Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-22"
  }
 }

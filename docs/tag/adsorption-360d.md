@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">219 papers</span>
+  <span class="paper-count">218 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1322,11 +1322,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24195.html">Effect of Tube Radius on the Adsorption of Chlorothalonil on Single-Walled Carbon and Boron Nitride Nanotube Surfaces: A Theoretical Study for Environmental Remediation</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Francisco Gleidson de S. Ferreira et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24195">2509.24195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23089.html">Insights into Ionic Diffusion in C-S-H Gel Pore from Molecular Dynamics Simulations: Spatial Distributions, Energy Barriers, and Structural Descriptor</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Weiqiang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23089">2506.23089</a></td>
 </tr>
 </tbody></table>

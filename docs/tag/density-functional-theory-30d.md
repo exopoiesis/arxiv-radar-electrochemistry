@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26601.html">Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition</a></div></td>
+<td>Hediyeh Soltanizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26601">2609.26601</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
+<td>S. Huyan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24281.html">Electronic-Entropy-Driven Phase Transitions in Compressed Iron Oxides</a></div></td>
@@ -362,11 +374,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24655.html">Efficient, precise DFT calculations of NMR shieldings: Revisiting the finite field approach</a></div></td>
 <td>Xiao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24655">2608.24655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22464.html">A test drive for exchange-correlation functionals on noncollinear magnets: Mn$_3$Ir, Mn$_3$Ge, NiS$_2$, and YMnO$_3$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="millerite-30d.html">millerite</a> · <a href="nickel-sulfides-30d.html">nickel-sulfides</a></div></td>
-<td>Marie-Therese Huebsch et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22464">2608.22464</a></td>
 </tr>
 </tbody></table>

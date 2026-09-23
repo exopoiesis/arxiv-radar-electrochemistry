@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26601.html">Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition</a></div></td>
+<td>Hediyeh Soltanizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26601">2609.26601</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
+<td>S. Huyan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24281.html">Electronic-Entropy-Driven Phase Transitions in Compressed Iron Oxides</a></div></td>
@@ -122,47 +134,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Anoop Ajaya Kumar Nair et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15340.html">Optical properties of single-crystal As2Se3 from first principles</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a></div></td>
-<td>Juan J. Meléndez</td>
-<td><a href="http://arxiv.org/abs/2609.15340">2609.15340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16512.html">Discovering Kinetically Significant Reaction Mechanisms Beyond Chemical Intuition in Condensed-Phase Radiolysis</a></div><div class="paper-tags"><a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Nitesh Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16512">2609.16512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16620.html">Application of Regional Chemical Potential Analysis to Si Adsorption on the Diamond (001) Surface</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
-<td>Masahiro Fukuda et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16620">2609.16620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17036.html">How Small is Large Enough? Determining Minimal Cluster Sizes for Molecule Adsorption on Interstellar Amorphous Ice</a></div><div class="paper-tags"><a href="adsorption-energy-7d.html">adsorption-energy</a></div></td>
-<td>Erik C. Neyts et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17036">2609.17036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17290.html">High-Pressure Refractive Indices of NaCl, KCl, CaO, SrO, and MgO Reveal the Dependence of Anion Polarizability on Coordination Number and Bond Length</a></div></td>
-<td>Konstantin Solovev et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17290">2609.17290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Zhengqing Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Djardiel S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 </tbody></table>
