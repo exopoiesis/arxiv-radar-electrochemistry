@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26601.html">Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition</a></div></td>
@@ -26,6 +32,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
 <td>S. Huyan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27000.html">First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a></div></td>
+<td>Liwen Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27000">2609.27000</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -110,29 +122,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21065.html">Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys</a></div></td>
 <td>Wai-Ga D. Ho et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21065">2609.21065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="grotthuss-7d.html">grotthuss</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div></td>
-<td>R. Mathew Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
-<td>A. Muheddine et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 </tbody></table>

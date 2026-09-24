@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23134.html">ECENet: An Edge Cluster Expansion Line-Graph Neural Network</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>R. Allen LaCour et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21533.html">MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems</a></div></td>
 <td>Kairui Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21533">2609.21533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19385.html">Mammography Foundation Models for Opportunistic Prediction of Major Adverse Cardiovascular Events</a></div></td>
-<td>Paula Feldman et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19385">2609.19385</a></td>
 </tr>
 </tbody></table>

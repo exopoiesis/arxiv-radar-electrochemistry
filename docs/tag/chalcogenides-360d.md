@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28446.html">Field-induced incipient spin-density phase stabilized inside the nematic phase of FeSe$_{1-x}$S$_x$</a></div></td>
+<td>I. Paulescu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28446">2609.28446</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24843.html">Electronic Reconstruction Towards Topological Superconductivity in FeTe</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Hongtao Rong et al.</td>
@@ -326,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16603.html">Spatially-Controlled Planar Guided Crystallization of Low-Loss Phase Change Materials for Programmable Photonics</a></div></td>
 <td>Fouad Bentata et al.</td>
 <td><a href="http://arxiv.org/abs/2504.16603">2504.16603</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07125.html">FeTaX2: A ferrimagnetic quantum anomalous Hall insulator</a></div></td>
-<td>Yadong Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07125">2506.07125</a></td>
 </tr>
 </tbody></table>

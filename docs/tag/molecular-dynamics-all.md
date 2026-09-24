@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">978 papers</span>
+  <span class="paper-count">980 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="corrosion-all.html">corrosion</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mace-all.html">mace</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28186.html">State-Resolved Integral of First-Passage Times for Multi-Site Polymer Adsorption</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a></div></td>
+<td>Yifan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28186">2609.28186</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="vacancies-all.html">vacancies</a></div></td>

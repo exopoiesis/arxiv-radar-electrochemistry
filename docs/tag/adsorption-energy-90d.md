@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>adsorption-energy — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <strong>90d</strong> <a href="adsorption-energy-360d.html">360d</a> <a href="adsorption-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28186.html">State-Resolved Integral of First-Passage Times for Multi-Site Polymer Adsorption</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Yifan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28186">2609.28186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27031.html">Laboratory Evidence that Methanol-Rich Ice Mantles Lower Methyl Formate Binding Energies</a></div><div class="paper-tags"><a href="formate-90d.html">formate</a> · <a href="origin-of-life-90d.html">origin-of-life</a></div></td>
+<td>Rachel E. Gross et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27031">2609.27031</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17036.html">How Small is Large Enough? Determining Minimal Cluster Sizes for Molecule Adsorption on Interstellar Amorphous Ice</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
@@ -104,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03375.html">Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Morteza Roostaeinia et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03375">2607.03375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26833.html">Theoretical determination of the binding energies of methanol and related species onto amorphous solid water ice</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="formate-90d.html">formate</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Aneesa Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26833">2606.26833</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="corrosion-90d.html">corrosion</a> · <a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26601.html">Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>S. Huyan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27000.html">First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a></div></td>
+<td>Liwen Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27000">2609.27000</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -1040,23 +1052,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29919.html">High-order tensor neural network for iteration-free structure relaxation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Shaobo Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29919">2606.29919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26501.html">Ductility Design Rules for Tungsten based Refractory High Entropy Alloys from Sparse Experimental Datasets</a></div></td>
-<td>Avik Mahata et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26501">2606.26501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26833.html">Theoretical determination of the binding energies of methanol and related species onto amorphous solid water ice</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="formate-90d.html">formate</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Aneesa Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26833">2606.26833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26834.html">A Hybrid Quantum Mechanics Machine Learning Forcefield (QM/ML) Framework for Accurate Solute-Dislocation Interaction Simulations</a></div></td>
-<td>Junting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26834">2606.26834</a></td>
 </tr>
 </tbody></table>

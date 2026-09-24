@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-09-23._
+_Updated 2026-09-24._
 
-**3474** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3480** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28166.html">The dust in Sauron&#x27;s eye - Observational and experimental results on the debris disk around HR 4796</a></div><div class="paper-tags"><a href="tag/iron-sulfides-30d.html">iron-sulfides</a> · <a href="tag/weathering-30d.html">weathering</a></div></td>
+<td>M. Bonduelle et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28166">2609.28166</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28186.html">State-Resolved Integral of First-Passage Times for Multi-Site Polymer Adsorption</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yifan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28186">2609.28186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28446.html">Field-induced incipient spin-density phase stabilized inside the nematic phase of FeSe$_{1-x}$S$_x$</a></div><div class="paper-tags"><a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
+<td>I. Paulescu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28446">2609.28446</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25523.html">Learning continuous reaction paths for transition-state prediction</a></div><div class="paper-tags"><a href="tag/neb-30d.html">neb</a></div></td>
@@ -57,6 +81,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/electric-double-layer-30d.html">electric-double-layer</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Thorben Eggert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.27000.html">First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Liwen Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27000">2609.27000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.27031.html">Laboratory Evidence that Methanol-Rich Ice Mantles Lower Methyl Formate Binding Energies</a></div><div class="paper-tags"><a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/formate-30d.html">formate</a> · <a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
+<td>Rachel E. Gross et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27031">2609.27031</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -159,41 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/dft-u-30d.html">dft-u</a></div></td>
 <td>Anooja Jayaraj et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21999.html">Merons Mediate Re-Ordering of Curved Rods Under Shear Flow</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nicholas W. Hackney et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21999">2609.21999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22009.html">Insights into the long-standing controversy over sound velocities in lizardite</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/serpentinization-30d.html">serpentinization</a></div></td>
-<td>Chenxing Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22009">2609.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22509.html">Experiments and Modeling of Defect Dynamics and BTI Behavior in Doped InO TFTs during $400^\circ$C Post-Processing Forming Gas Annealing</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yu-Hsin Kuo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22509">2609.22509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22580.html">Vanadium doping induced valley asymmetries in WS$_2$ monolayers</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Frederico B. Sousa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22580">2609.22580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Nguyen Tran Gia Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20019">2609.20019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20391.html">Universal 1/f Noise in the Power Spectra of Energy Time-series in Solvated DNA Dynamics</a></div><div class="paper-tags"><a href="tag/hydration-shell-30d.html">hydration-shell</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Harsh Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20391">2609.20391</a></td>
 </tr>
 </tbody></table>

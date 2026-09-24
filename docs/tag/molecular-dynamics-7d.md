@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28186.html">State-Resolved Integral of First-Passage Times for Multi-Site Polymer Adsorption</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a></div></td>
+<td>Yifan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28186">2609.28186</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Bilvin Varughese et al.</td>
@@ -80,17 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20986.html">Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Sabine Leroch et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20986">2609.20986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="grotthuss-7d.html">grotthuss</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mace — all</h1>
-  <span class="paper-count">226 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="corrosion-all.html">corrosion</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23134.html">ECENet: An Edge Cluster Expansion Line-Graph Neural Network</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>

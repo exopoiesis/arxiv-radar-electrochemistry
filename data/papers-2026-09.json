@@ -3599,5 +3599,204 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-09-22"
+ },
+ "2609.27000": {
+  "abstract": "We develop a first-principles theory for nonadiabatic surface dynamics, providing a fit-free connection between density functional theory (DFT) calculations and the effective multi-orbital Anderson-Newns (AN) theory. Our theory contains two main advances. First, we outline the multi-orbital AN theory with orbital overlap and derive closed-form expressions for the hybridization energy, electronic dynamics, and electronic friction. Second, we describe a procedure to map the DFT Hamiltonian into the effective AN Hamiltonian with nuclear-position dependence. We obtain the electronic part of the AN Hamiltonian solely from the adsorbate-projected density-of-states matrix. We then define the bare nuclear potential as the difference between the total energy and the hybridization energy. The theory is applied to H and CO on the Cu surface, where widely used assumptions about the hybridization function, including the wide-band limit, semi-elliptical forms, and separability in energy and nuclear coordinate, are found to fail, and the single-orbital description breaks down qualitatively for CO. We expect this work to be broadly useful for first-principles modeling of coupled nuclear-electronic dynamics and chemical reactions at metallic surfaces.",
+  "authors": [
+   "Liwen Ko",
+   "Joonho Lee"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Liwen Ko",
+  "pdf_url": "http://arxiv.org/pdf/2609.27000",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-22",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.27031": {
+  "abstract": "Complex organic molecules are widely detected in star-forming regions and are important precursors to prebiotic species. Because these molecules are thought to form primarily within icy grain mantles, their desorption is assumed to be regulated by the sublimation of the surrounding H$_2$O ice matrix. However, observations increasingly reveal gas-phase abundances of methyl formate (MF) at temperatures well below the sublimation temperature of water ice (T ~ 100K), challenging this view. To investigate how ice composition and phase influence MF desorption, we present laboratory temperature-programmed desorption measurements of MF from four astrophysically relevant substrates: amorphous and crystalline H$_2$O and CH$_3$OH. Desorption kinetics were analyzed using pre-exponential factors derived from transition-state theory with leading-edge analysis and non-negative least-squares inversion to recover binding-energy distributions. We find that MF binds more weakly to CH$_3$OH ice than to H$_2$O-rich substrates, with representative binding energies of ~6247K for amorphous H$_2$O, ~6213K for crystalline H$_2$O, and ~5469K for amorphous CH$_3$OH. MF deposited on crystalline CH$_3$OH exhibits coverage-independent leading edges consistent with multilayer or island desorption, yielding an effective binding energy of 5333K. Enhanced surface mobility and reduced trapping efficiency on methanol ice, combined with weaker MF binding, provide a natural explanation for the early appearance of gas-phase MF observed in star-forming environments, with characteristic desorption temperatures of ~85K on CH$_3$OH and ~95-100K on H$_2$O. Together, these effects support a two-step thermal desorption pathway in which MF associated with CH$_3$OH-rich ice can be released prior to bulk H$_2$O sublimation.",
+  "authors": [
+   "Rachel E. Gross",
+   "Jeroen Terwisscha van Scheltinga",
+   "L. Ilsedore Cleeves",
+   "Catherine A. Dukes",
+   "Robin T. Garrod",
+   "Alexia Simon",
+   "Shane Sawyer",
+   "Adam Woodson"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.EP",
+   "astro-ph.GA"
+  ],
+  "comment": null,
+  "first_author": "Rachel E. Gross",
+  "pdf_url": "http://arxiv.org/pdf/2609.27031",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-09-22",
+  "tags": [
+   "adsorption-energy",
+   "formate",
+   "origin-of-life"
+  ],
+  "title": "Laboratory Evidence that Methanol-Rich Ice Mantles Lower Methyl Formate Binding Energies",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.28013": {
+  "abstract": "Machine-learned interatomic potentials (MLIPs) for solid-liquid interfaces in advanced materials applications, e.g., electrochemistry, catalysis and corrosion, require training data that samples both liquid environments, the solid and the interface itself. We present SoLiD26, a curated solid-liquid interface dataset, containing 15.4 million first-principles atomic structures with up to 576 atoms and 15 chemical elements for training and evaluating MLIPs. The structures were compiled from density functional theory (DFT) calculations performed in studies of solid-liquid interfaces, with most configurations originating from ab initio molecular dynamics (AIMD) simulations. Each record contains atomic species, positions, simulation cell, periodic boundary conditions, potential energy and atomic forces. SoLiD26 includes aqueous coinage metal interfaces, electrode-electrolyte systems, and selected bulk reference structures, calculated with VASP using the PBE functional and D3 dispersion corrections. We describe the data ingestion and preparation pipeline used to construct the dataset. The application of SoLiD26 for training and evaluating MLIPs is demonstrated with a suite of MACE models on a simple training, validation and test split. The dataset enables development and benchmarking of MLIPs for structurally and chemically heterogeneous solid-liquid interfaces.",
+  "authors": [
+   "Jonas Busk",
+   "Emil J. P. Frost",
+   "Yogeshwaran Krishnan",
+   "Henrik H. Kristoffersen",
+   "August E. G. Mikkelsen",
+   "Xueping Qin",
+   "Xin Yang",
+   "Heine A. Hansen",
+   "Arghya Bhowmik",
+   "Tejs Vegge"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Jonas Busk",
+  "pdf_url": "http://arxiv.org/pdf/2609.28013",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-23",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "corrosion",
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.28166": {
+  "abstract": "The optical properties (scattering phase function SPF; degree of linear polarization DoLP; reflectance) of the dust particles orbiting in debris disks can be retrieved through scattered light imaging and are linked to the physicochemical properties of the dust (size, shape, composition...). Among debris disks, the bright, narrow disk surrounding HR 4796A presents several peculiarities, in particular unusually high DoLP values at small scattering angles. We aim at improving the constraints on the properties of the dust particles orbiting in HR 4796. We use new observational data (SPHERE/ZIMPOL and IRDIS) in scattered light of HR 4796, for lambda = 0.63 um; 0.79 um and 1.25 um. We modeled the disk at each of these wavelengths and found geometric parameters consistent with previous results. We obtained the parametrized SPF and DoLP over the whole range of scattering angles (13 degrees to 167 degrees) and extracted the DoLP and spectral reflectance at 90 degrees (without any parametrization) from the visible to the NIR wavelength range. We compared the reflectance and polarimetric properties of HR 4796 to those measured on a laboratory dust sample and find that the sample providing the best match appears to be large iron sulfides particles. We confirm that the DoLP of HR 4796 peaks at high values (> 45 percent) and for small scattering angles (< 55 degrees). At a 90 degrees scattering angle, we observe a red spectral slope in the visible and NIR wavelength range, as well as a blue polarimetric slope. These results are compatible with large (a few um to 100 um) absorbents being the main scatterers in the disk. We show that the DoLP of HR 4796 is notably different from that of Solar System comets and seems closer to that of some more processed near-Earth orbit asteroids, possibly indicating devolatilization and/or melting induced by space weathering on the dust particles of HR 4796.",
+  "authors": [
+   "M. Bonduelle",
+   "J. Milli",
+   "O. Poch",
+   "N. Engler",
+   "M. Rigouleau",
+   "R. Tazaki",
+   "J. Ma",
+   "J. Olofsson",
+   "J-B. Renard",
+   "J. Lasue",
+   "R. Sultana",
+   "G. Duchêne",
+   "L. Martinien",
+   "M. Roumesy",
+   "C. H. Chen",
+   "C. Lisse",
+   "J-C. Augereau"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": null,
+  "first_author": "M. Bonduelle",
+  "pdf_url": "http://arxiv.org/pdf/2609.28166",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-09-23",
+  "tags": [
+   "iron-sulfides",
+   "weathering"
+  ],
+  "title": "The dust in Sauron's eye - Observational and experimental results on the debris disk around HR 4796",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.28186": {
+  "abstract": "Understanding the interfacial structure of multi-site polymer adsorption is critical for the rational design of functional nanomaterials. However, the distribution of chains attached via one, two, or more anchor points has remained inaccessible to experiments and conventional simulations. Experiments typically measure ensemble averages such as total adsorbed mass, while molecular dynamics simulations are limited to timescales far shorter than the relevant adsorption processes. To address this challenge, we introduce the State-Resolved Integral of First-Passage Times (SR-IFS) method. This approach decouples fast intra-layer conformational adjustments from the slow kinetics of external chain exchange, enabling quantitative prediction of the time-dependent distribution of attachment states ($p_1$, $p_2$, $p_3$) within a multi-site adsorbed layer. Using 3-arm star-like polymers as a model system, we show that the interfacial state distribution evolves from an initial prevalence of three-point attachments to a more heterogeneous mixture over long time scales, and that the equilibrium distribution can be systematically tuned by adjusting the monomer binding energy. The SR-IFS method provides access to this state-resolved information, offering a connection between microscopic kinetics and macroscopic interfacial properties.",
+  "authors": [
+   "Yifan Huang",
+   "Qiyun Tang"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Yifan Huang",
+  "pdf_url": "http://arxiv.org/pdf/2609.28186",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-23",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "molecular-dynamics"
+  ],
+  "title": "State-Resolved Integral of First-Passage Times for Multi-Site Polymer Adsorption",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.28446": {
+  "abstract": "Spin-density wave (SDW) order and superconductivity frequently compete and coexist in unconventional superconductors, where spin fluctuations often mediate superconducting pairing. In iron-chalcogenide superconductors, FeSe$_{1-x}$S$_x$, SDW order has only been detected under applied pressure, while both spin and nematic fluctuations are involved in determining their rich superconducting phase diagrams. Here, we report evidence for an incipient SDW phase, within the nematic state of FeSe$_{1-x}$S$_x$, revealed in magnetic fields up to 68~T. Once superconductivity is quenched, we observe sharp upturns in longitudinal resistivity accompanied by anomalies in tunnel diode oscillator frequency response and torque anisotropy, consistent with a field-induced electronic order. Dominant low-frequency quantum oscillations reveal a small reconstructed Fermi surface, consistent with a field-induced SDW order. Direct experimental comparisons with a pressure-tuned nematic, analogue, FeSe$_{0.96}$S$_{0.04}$, demonstrate that SDW phases are stabilized within the nematic phase of FeSe$_{1-x}$S$_x$ via both chemical substitution and applied pressure. These findings reveal that by weakening nematicity, the SDW orders are stabilised, which promotes the dominant superconducting pairing mechanism in iron chalcogenides.",
+  "authors": [
+   "I. Paulescu",
+   "R. M. Abedin",
+   "J. S. Pearce",
+   "W. H. Fong",
+   "Z. Zajicek",
+   "A. Morfoot",
+   "W. Knafo",
+   "O. Squire",
+   "D. Graf",
+   "A. A. Haghighirad",
+   "A. I. Coldea"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "10 pages, 4 figures",
+  "first_author": "I. Paulescu",
+  "pdf_url": "http://arxiv.org/pdf/2609.28446",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-09-23",
+  "tags": [
+   "chalcogenides"
+  ],
+  "title": "Field-induced incipient spin-density phase stabilized inside the nematic phase of FeSe$_{1-x}$S$_x$",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-23"
  }
 }

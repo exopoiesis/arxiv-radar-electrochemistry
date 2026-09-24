@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="corrosion-90d.html">corrosion</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28186.html">State-Resolved Integral of First-Passage Times for Multi-Site Polymer Adsorption</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a></div></td>
+<td>Yifan Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28186">2609.28186</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
@@ -722,11 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30402.html">Quantum Computations on Fusion Blanket Molten Salts</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Susanta Das et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30402">2606.30402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26646.html">Dynamic heterogeneity in sodium silicate melts via machine-learning potential</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
-<td>Kumpei Shiraishi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26646">2606.26646</a></td>
 </tr>
 </tbody></table>

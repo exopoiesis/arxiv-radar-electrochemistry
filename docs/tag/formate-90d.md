@@ -16,15 +16,15 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27031.html">Laboratory Evidence that Methanol-Rich Ice Mantles Lower Methyl Formate Binding Energies</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="origin-of-life-90d.html">origin-of-life</a></div></td>
+<td>Rachel E. Gross et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27031">2609.27031</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27850.html">Mode-Specific Dynamics of CO2 Hydrogenation on Copper: The Hidden Role of Molecular Rotation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="neb-90d.html">neb</a></div></td>
 <td>Junfan Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27850">2608.27850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26833.html">Theoretical determination of the binding energies of methanol and related species onto amorphous solid water ice</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Aneesa Ahmad et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26833">2606.26833</a></td>
 </tr>
 </tbody></table>

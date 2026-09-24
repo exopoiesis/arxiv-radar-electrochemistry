@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23134.html">ECENet: An Edge Cluster Expansion Line-Graph Neural Network</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>R. Allen LaCour et al.</td>
@@ -986,11 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00721.html">Flexible Uncertainty Calibration for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Cheuk Hin Ho et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00721">2510.00721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03283.html">MACE: A Hybrid LLM Serving System with Colocated SLO-aware Continuous Retraining Alignment</a></div></td>
-<td>Yufei Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03283">2510.03283</a></td>
 </tr>
 </tbody></table>

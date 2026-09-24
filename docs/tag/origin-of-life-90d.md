@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27031.html">Laboratory Evidence that Methanol-Rich Ice Mantles Lower Methyl Formate Binding Energies</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="formate-90d.html">formate</a></div></td>
+<td>Rachel E. Gross et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27031">2609.27031</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23602.html">Minimality in Reflexive and Stoichiometric Autocatalysis</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
 <td>Richard Golnik et al.</td>
@@ -68,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13867.html">Cradle of Life: From the Formation of Stars to Habitable Worlds with the SKAO</a></div></td>
 <td>Eleonora Bianchi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13867">2607.13867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27184.html">Chemical Complexity in the Early Stages of Star Formation in the SKAO Era</a></div></td>
-<td>Eleonora Bianchi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27184">2606.27184</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1478 papers</span>
+  <span class="paper-count">1480 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="corrosion-all.html">corrosion</a> · <a href="mace-all.html">mace</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26601.html">Prediction-Aware Structured Resource Control for Partitioned IRS-Assisted Mobile IoT Uplinks With Semi-Blind Cascaded-Channel Acquisition</a></div></td>
@@ -26,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
 <td>S. Huyan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26628">2609.26628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27000.html">First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a></div></td>
+<td>Liwen Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27000">2609.27000</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>

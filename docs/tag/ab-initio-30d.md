@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jonas Busk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26628.html">The observation of bulk superconductivity in Rhombohedral ReO3 under pressure</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="electric-double-layer-30d.html">electric-double-layer</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Thorben Eggert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27000.html">First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Liwen Ko et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27000">2609.27000</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-21</td>
@@ -242,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Manasa Kaniselvan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22925.html">Importance-Reweighted Fock-Space Variational Monte Carlo</a></div></td>
-<td>Zheng Che</td>
-<td><a href="http://arxiv.org/abs/2608.22925">2608.22925</a></td>
 </tr>
 </tbody></table>
