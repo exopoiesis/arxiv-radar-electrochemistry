@@ -3798,5 +3798,148 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-09-23"
+ },
+ "2609.28671": {
+  "abstract": "Tin monosulfide (SnS) is a layered IV-VI semiconductor with strong in-plane anisotropy and promising properties for optoelectronic and ferroic applications. However, obtaining large, continuous, and morphologically well-defined SnS crystals remains challenging. Here, we report the growth of large-area SnS crystals using chemical vapor deposition with separate elemental Sn and S precursors. By controlling the precursor temperatures, source positions, substrate temperature, carrier-gas flow, and hydrogen flow, we obtain SnS crystals with lateral dimensions approaching 350 micrometers. The optimized growth occurs with the Sn source at approximately 750 degrees C, the S source at approximately 230 degrees C, and the substrate maintained near 650-680 degrees C, using Ar/H2 flow rates of 120/10 sccm. X-ray diffraction shows a dominant SnS (111) reflection with no detectable secondary crystalline tin-sulfide phase within the measurement sensitivity. Raman spectroscopy reveals six characteristic SnS phonon modes at approximately 39.3, 48.8, 95.2, 165.0, 193.1, and 219.1 cm^-1. In particular, the low-frequency modes near 39 and 49 cm^-1 are clearly resolved with FWHM values of approximately 2.52 and 2.37 cm^-1, respectively. SEM and AFM measurements further show large continuous crystals and a relatively smooth nanoscale surface. Growth on mica produces more regular square and rectangular flakes, with lateral dimensions approaching 300 x 300 micrometers, while crystals grown on SiO2/Si are more frequently fractured or irregular at their edges. These results demonstrate a practical growth window for obtaining large-area SnS crystals suitable for further optical, electrical, and device studies.",
+  "authors": [
+   "Bilal Ahmed"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Bilal Ahmed",
+  "pdf_url": "http://arxiv.org/pdf/2609.28671",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-23",
+  "tags": [],
+  "title": "Large-Area SnS Crystals by Controlled Sn-S Chemical Vapor Deposition: Growth Optimization, Morphology, and Raman Characterization",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.28768": {
+  "abstract": "A new simulation approach ({\\it J. Chem. Phys.} {\\bf 163}, 164113), based on the seamless combination of the electron transfer at the electrode/electrolyte interface with the charge and mass transport in electrolyte solutions, holds the promise to advance the comprehensive modeling of basic electrochemical devices such as electrolytic cells and batteries. The underlying model also includes a fully consistent treatment of structural, thermodynamic and statistical properties of the electrical double-layer at non-ideal electron-conducting interfaces. As a result, subtle aspects such as Tafel and Butler-Volmer equations, the overpotential concept, as well as (stationary) non-equilibrium features such as the entropy production, arise naturally from the model, with a minimum of ad-hoc assumptions and elaborations of the simulation results. We illustrate these aspects for a simple model of electrochemical interface, and discuss further improvements of the method meant to enhance its ability to model systems and phenomena of interest for electrochemistry. One such improvement, concerning the effect of fluctuating electric fields on the electron transfer rate, is explicitly developed.",
+  "authors": [
+   "Diego Veloza-Diaz",
+   "Robinson Cortes-Huerto",
+   "Pietro Ballone",
+   "Nancy C. Forero-Martinez"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "38 pages, 9 figures",
+  "first_author": "Diego Veloza-Diaz",
+  "pdf_url": "http://arxiv.org/pdf/2609.28768",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-23",
+  "tags": [
+   "electrochemical-interfaces"
+  ],
+  "title": "A kinetic model of electron transfer at the electrode-electrolyte interface: Statistical mechanics and electrochemical aspects",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.29105": {
+  "abstract": "General-purpose machine-learning interatomic potentials (MLIPs) for organic reactions need to be accurate on both the minimum energy path (MEP) for static evaluation of basic properties and the broader configurational space for simulating reaction dynamics. Existing general datasets for gas-phase organic reactions rely on quasi-static relaxation that confines configurations to the MEP vicinity, so models trained on them could fail on direct molecular-dynamics trajectories; the gap is methodological, not a question of dataset size. We introduce a spatiotemporally resolved, system-independent collective variable (CV): Cartesian RMSD within randomly partitioned local domains against an expanding list of time-averaged reference geometries. The CV drives metadynamics as the main exploration engine, supplemented by structural relaxation towards transition state (TS) to augment the coverage around TS. Within a concurrent-learning workflow, this produces OpenRxn26, a dataset of 1.8~M DFT-labeled configurations covering neutral singlet unimolecular reactions in the H/C/N/O chemical space ($N_\\mathrm{heavy} \\leq 30$), containing reactive atomic environments underrepresented in community datasets. Trained on OpenRxn26, a DPA3 model (denoted DPA3_rxn) achieves transferable accuracy on barrier heights and reaction energies. On off-MEP reactive trajectories, DPA3_rxn is the only model in the benchmark suite to reach 1.0 kcal/mol energy accuracy compared with the labeling method, where the domain MLIP leading on static benchmarks degrades several-fold (e.g. MACE_OMol25), showing the insufficiency of quasi-static sampling and MEP-anchored benchmarks for guaranteeing dynamics reliability of MLIPs. OpenRxn26 thus provides MD-ready reactive training data for gas-phase neutral singlet organic reactions, verifying the generality and efficiency of the sampling strategy.",
+  "authors": [
+   "Wanrun Jiang",
+   "Jinzhe Zeng",
+   "Manyi Yang",
+   "Tong Zhu",
+   "Han Wang"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Wanrun Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2609.29105",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-24",
+  "tags": [
+   "density-functional-theory",
+   "mlip",
+   "molecular-dynamics",
+   "neb"
+  ],
+  "title": "A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.29900": {
+  "abstract": "Precise conditions are provided for the existence and criticality of Turing bifurcations in a general class of activator-inhibitor reaction-diffusion equations on a one-dimensional infinite domain. The class includes generalised Schnakenberg and Brusselator models, as well as other models with cubic autocatalytic nonlinear terms. Previous numerical work suggests the existence of a bifurcation structure containing localised patterns due to the so-called homoclinic snaking mechanism. This paper provides explicit calculations to justify those results. Two distinct scalings of parameters that lead to tractable normal-form coefficients are considered in the limit that the diffusion ratio $δ\\to 0$. First, under a small-parameter scaling, the Turing bifurcation is shown to be always subcritical. Second, a large-parameter scaling reveals the Turing bifurcation to be supercritical, leading, by continuity, to the existence of a codimension-two degenerate bifurcation. The sign of a 5th-order normal form coefficient is also computed, which is shown to have the correct sign for the local birth of homoclinic snaking. For the case of the Brusselator, two such codimension-two points can be found explicitly, as can the leading-order expression for the Maxwell point, in a parameter wedge about which localised patterns emerge. Numerical results are found to be consistent with the theory.",
+  "authors": [
+   "Edgardo Villar-Sepúlveda",
+   "Alan R. Champneys"
+  ],
+  "categories": [
+   "nlin.PS"
+  ],
+  "comment": null,
+  "first_author": "Edgardo Villar-Sepúlveda",
+  "pdf_url": "http://arxiv.org/pdf/2609.29900",
+  "primary_category": "nlin.PS",
+  "published": "2026-09-24",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30133": {
+  "abstract": "Catalyzing acidic oxygen evolution at the proton-exchange-membrane water electrolysis (PEMWE) anode relies almost entirely on iridium or ruthenium, drawn from concentrated supply chains that constrain gigawatt-scale deployment. We report an artificial intelligence (AI)-guided, human-supervised closed-loop platform (>90% automation) integrating combinatorial sputter synthesis, high-throughput screening, machine-learning composition-property models, adaptive multi-objective optimization, and context-aware large-language-model reasoning, where lead catalysts advanced to long-term validation in 1 M H2SO4 at 10 mA cm-2. Navigating a combinatorial metal oxide space, the platform iteratively evaluated the activity-stability trade-off of 2,942 catalysts across 53 material systems and 26 elements, surfacing Ir- and Ru-free complex oxides such as InMnPdOx and NiTaPdOx that conventional design logic, and off-the-shelf language models, would not predict. In retrospective benchmarking, our sequential learning agent advanced the activity-stability frontier faster than fixed-policy Bayesian optimization or in-context language-model selection. During long-term testing, NiTaPdOx operated at lower overpotential than PdOx, but both eventually exceeded 0.5 V: PdOx at ~200 h and NiTaPdOx at ~470 h. InMnPdOx showed a similar overpotential improvement in addition to a dramatic increase in operational stability, retaining overpotential below 0.5 V over 1,000 h of operation. The additive elements promote the formation of a nanostructure that is associated with catalytic activity while stabilizing Pd against corrosion. The results highlight the power of AI-driven science in addressing long-standing challenges in materials chemistry, and the greater availability of Pd relative to incumbent Ir and Ru offers a near-term option to ease supply constraints on scaled electrochemical H2 generation.",
+  "authors": [
+   "Ken J. Jenewein",
+   "Faezeh Habib Zadeh",
+   "Xiaoxiao Wang",
+   "Gustavo Malkomes",
+   "Huafan Zhang",
+   "Natalie Page",
+   "Jae Jin Bang",
+   "Peter J. Santiago",
+   "Karla V. Contreras",
+   "Katherine K. Li",
+   "Allison Perna",
+   "Lorena M. Britton",
+   "Fahrettin Kilic",
+   "Kevin J. Cruse",
+   "Armin Taheri",
+   "Krishnanand Mallayya",
+   "Harley Quinn",
+   "Rebecca A. Durr",
+   "Peter A. Beaucage",
+   "John M. Gregoire",
+   "Rafael Gómez-Bombarelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ken J. Jenewein",
+  "pdf_url": "http://arxiv.org/pdf/2609.30133",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-24",
+  "tags": [
+   "corrosion",
+   "oxygen-evolution"
+  ],
+  "title": "AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-24"
  }
 }

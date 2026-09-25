@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>autocatalysis — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <strong>30d</strong> <a href="autocatalysis-90d.html">90d</a> <a href="autocatalysis-360d.html">360d</a> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29900.html">Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems</a></div></td>
+<td>Edgardo Villar-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29900">2609.29900</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23602.html">Minimality in Reflexive and Stoichiometric Autocatalysis</a></div><div class="paper-tags"><a href="origin-of-life-30d.html">origin-of-life</a> · <a href="reaction-networks-30d.html">reaction-networks</a></div></td>

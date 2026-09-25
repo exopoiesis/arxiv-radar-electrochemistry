@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">570 papers</span>
+  <span class="paper-count">569 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Wanrun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a></div></td>
@@ -3422,17 +3428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26199.html">Improved capabilities of the TurboGAP code for radiation induced cascade simulations: an illustration with silicon</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Uttiyoarnab Saha et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26199">2509.26199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24195.html">Effect of Tube Radius on the Adsorption of Chlorothalonil on Single-Walled Carbon and Boron Nitride Nanotube Surfaces: A Theoretical Study for Environmental Remediation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Francisco Gleidson de S. Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24195">2509.24195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24742.html">Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems</a></div><div class="paper-tags"><a href="constant-potential-360d.html">constant-potential</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
-<td>Weihang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24742">2509.24742</a></td>
 </tr>
 </tbody></table>

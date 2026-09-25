@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-09-24._
+_Updated 2026-09-25._
 
-**3480** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3485** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/neb-30d.html">neb</a></div></td>
+<td>Wanrun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.29900.html">Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
+<td>Edgardo Villar-Sepúlveda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29900">2609.29900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
+<td>Ken J. Jenewein et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -39,6 +57,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28446.html">Field-induced incipient spin-density phase stabilized inside the nematic phase of FeSe$_{1-x}$S$_x$</a></div><div class="paper-tags"><a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
 <td>I. Paulescu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28446">2609.28446</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28671.html">Large-Area SnS Crystals by Controlled Sn-S Chemical Vapor Deposition: Growth Optimization, Morphology, and Raman Characterization</a></div></td>
+<td>Bilal Ahmed</td>
+<td><a href="http://arxiv.org/abs/2609.28671">2609.28671</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28768.html">A kinetic model of electron transfer at the electrode-electrolyte interface: Statistical mechanics and electrochemical aspects</a></div><div class="paper-tags"><a href="tag/electrochemical-interfaces-30d.html">electrochemical-interfaces</a></div></td>
+<td>Diego Veloza-Diaz et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28768">2609.28768</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-22</td>
@@ -165,35 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21536.html">From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/water-adsorption-30d.html">water-adsorption</a></div></td>
 <td>Tuan Minh Do et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21536">2609.21536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21551.html">Orbital angular momentum accumulation in SrVO3 thin films</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Julien Brehin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21551">2609.21551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21678.html">Adsorption of Phosgene Gas on Pristine and Noble Metal-Doped B12N12 Nanocages: Insights from Density Functional Theory</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Shahariar Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21678">2609.21678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21819.html">Electrodeposited Co and Ni Hexacyanoferrates: Insights into Structure and Morphology</a></div></td>
-<td>Larissa de O. Garcia et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21819">2609.21819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21935.html">fix uvt and fix pimd/uvt: A Unified LAMMPS Framework for Constant-Potential Constant-Temperature Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/electrochemical-interfaces-30d.html">electrochemical-interfaces</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Li Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21935">2609.21935</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/dft-u-30d.html">dft-u</a></div></td>
-<td>Anooja Jayaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
 </tr>
 </tbody></table>

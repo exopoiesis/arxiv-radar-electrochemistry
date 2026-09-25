@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electric-double-layer — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <strong>360d</strong> <a href="electric-double-layer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16296.html">A finite element solver for a thermodynamically consistent electrolyte model</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
 <td>Jan Habscheid et al.</td>
 <td><a href="http://arxiv.org/abs/2505.16296">2505.16296</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24742.html">Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems</a></div><div class="paper-tags"><a href="constant-potential-360d.html">constant-potential</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Weihang Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24742">2509.24742</a></td>
 </tr>
 </tbody></table>

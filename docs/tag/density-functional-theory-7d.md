@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="neb-7d.html">neb</a></div></td>
+<td>Wanrun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -98,29 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22580.html">Vanadium doping induced valley asymmetries in WS$_2$ monolayers</a></div></td>
 <td>Frederico B. Sousa et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22580">2609.22580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20019.html">Anharmonic Phonon Renormalization and Defect Tolerance of the Thermoelectric Power Factor in Monolayer SnSe</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Nguyen Tran Gia Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20019">2609.20019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20486.html">Strain-Induced Metal-to-Insulator Transition in Antiferromagnetic SrCrO$_3$ Thin Films</a></div></td>
-<td>S. Jöhr et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20486">2609.20486</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20986.html">Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Sabine Leroch et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20986">2609.20986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21065.html">Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys</a></div></td>
-<td>Wai-Ga D. Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21065">2609.21065</a></td>
 </tr>
 </tbody></table>

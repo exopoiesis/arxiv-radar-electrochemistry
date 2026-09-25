@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22009.html">Insights into the long-standing controversy over sound velocities in lizardite</a></div><div class="paper-tags"><a href="serpentinization-7d.html">serpentinization</a></div></td>
 <td>Chenxing Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22009">2609.22009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20616.html">Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides</a></div></td>
-<td>Yogendra Limbu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20616">2609.20616</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcogenides — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <strong>360d</strong> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13814.html">Origin and stability of generalized Wigner crystallinity in triangular moiré systems</a></div></td>
 <td>Aman Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2409.13814">2409.13814</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.16603.html">Spatially-Controlled Planar Guided Crystallization of Low-Loss Phase Change Materials for Programmable Photonics</a></div></td>
-<td>Fouad Bentata et al.</td>
-<td><a href="http://arxiv.org/abs/2504.16603">2504.16603</a></td>
 </tr>
 </tbody></table>

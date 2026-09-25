@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mlip-7d.html">mlip</a> · <a href="neb-7d.html">neb</a></div></td>
+<td>Wanrun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
@@ -74,23 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22509.html">Experiments and Modeling of Defect Dynamics and BTI Behavior in Doped InO TFTs during $400^\circ$C Post-Processing Forming Gas Annealing</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Yu-Hsin Kuo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22509">2609.22509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20391.html">Universal 1/f Noise in the Power Spectra of Energy Time-series in Solvated DNA Dynamics</a></div><div class="paper-tags"><a href="hydration-shell-7d.html">hydration-shell</a></div></td>
-<td>Harsh Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20391">2609.20391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20777.html">Global Minima of the Thomson Problem in a Disk: A Molecular Dynamics Approach with Fixed Border Charges</a></div></td>
-<td>Georgiy K. Lavrov et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20777">2609.20777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20986.html">Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Sabine Leroch et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20986">2609.20986</a></td>
 </tr>
 </tbody></table>

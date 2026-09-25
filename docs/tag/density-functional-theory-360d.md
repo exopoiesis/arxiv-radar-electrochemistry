@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">819 papers</span>
+  <span class="paper-count">817 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Wanrun Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -4910,23 +4916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00278.html">Search for Active and Inactive Ion Insertion Sites in Organic Crystalline Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="ion-transport-360d.html">ion-transport</a></div></td>
 <td>Harshan Reddy Gopidi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00278">2510.00278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04052.html">EAC-Net: Predicting real-space charge density via equivariant atomic contributions</a></div></td>
-<td>Xuejian Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04052">2508.04052</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24195.html">Effect of Tube Radius on the Adsorption of Chlorothalonil on Single-Walled Carbon and Boron Nitride Nanotube Surfaces: A Theoretical Study for Environmental Remediation</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Francisco Gleidson de S. Ferreira et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24195">2509.24195</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24455.html">High-energy electron-beam induced defect engineering of monolayer MoS2 for tunable optical properties</a></div></td>
-<td>Anagha Gopinath et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24455">2509.24455</a></td>
 </tr>
 </tbody></table>
