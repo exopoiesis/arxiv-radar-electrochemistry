@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2852,35 +2852,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14990.html">Incorporating Si into Sb2Se3: Tailoring Optical Phase Change Materials via Nanocomposites</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Chih-Yu Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14990">2510.14990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00473.html">Atomic networks as highways for holes in oxygen-deficient amorphous oxides</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Rafael Costa-Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00473">2510.00473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00863.html">Orbital-Engineered Spin Asymmetry and Multifunctionality in Eu-Activated CaAlSiN$_3$: A First-Principles Roadmap to Optical-Thermoelectric Fusion</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Muhammad Tayyab et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00863">2510.00863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00867.html">Efficient spectra from atomistic simulation: a generalized master equation study of the air-water interface</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Thomas Sayer</td>
-<td><a href="http://arxiv.org/abs/2510.00867">2510.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00955.html">Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Ahmad Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00955">2510.00955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01042.html">Macro-Dipole-Constrainted Learning of Atomic Charges for Accurate Electrostatic Potentials at Electrochemical Interfaces</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jing Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01042">2510.01042</a></td>
 </tr>
 </tbody></table>

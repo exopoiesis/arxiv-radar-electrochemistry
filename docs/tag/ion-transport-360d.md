@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,11 +566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05598.html">Unveiling the Lithium-Ion Transport Mechanism in Li2ZrCl6 Solid-State Electrolyte via Deep Learning-Accelerated Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hanzeng Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05598">2508.05598</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16296.html">A finite element solver for a thermodynamically consistent electrolyte model</a></div><div class="paper-tags"><a href="electric-double-layer-360d.html">electric-double-layer</a></div></td>
-<td>Jan Habscheid et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16296">2505.16296</a></td>
 </tr>
 </tbody></table>

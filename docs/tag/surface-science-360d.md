@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>surface-science — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="surface-science-7d.html">7d</a> <a href="surface-science-30d.html">30d</a> <a href="surface-science-90d.html">90d</a> <strong>360d</strong> <a href="surface-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15194.html">CO on a Rh/Fe3O4 single-atom catalyst: high-resolution infrared spectroscopy and near-ambient-pressure scanning tunnelling microscopy</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Nail El Hocine Barama et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15194">2512.15194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01018.html">Molecular Mobility of Extraterrestrial Ices: Surface Diffusion in Astrochemistry and Planetary Science</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="origin-of-life-360d.html">origin-of-life</a></div></td>
-<td>N. F. W. Ligterink et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01018">2510.01018</a></td>
 </tr>
 </tbody></table>

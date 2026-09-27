@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">219 papers</span>
+  <span class="paper-count">218 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1322,11 +1322,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02550.html">Quantum simulation of carbon capture in periodic metal-organic frameworks</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="co2-adsorption-360d.html">co2-adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Dario Rocca et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02550">2510.02550</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01018.html">Molecular Mobility of Extraterrestrial Ices: Surface Diffusion in Astrochemistry and Planetary Science</a></div><div class="paper-tags"><a href="origin-of-life-360d.html">origin-of-life</a> · <a href="surface-science-360d.html">surface-science</a></div></td>
-<td>N. F. W. Ligterink et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01018">2510.01018</a></td>
 </tr>
 </tbody></table>

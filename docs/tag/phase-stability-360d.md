@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-stability — 360d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <a href="phase-stability-30d.html">30d</a> <a href="phase-stability-90d.html">90d</a> <strong>360d</strong> <a href="phase-stability-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05928.html">High- and medium-entropy nitride coatings from the Cr-Hf-Mo-Ta-W-N system: properties and high-temperature stability</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Pavel Souček et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05928">2510.05928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00863.html">Orbital-Engineered Spin Asymmetry and Multifunctionality in Eu-Activated CaAlSiN$_3$: A First-Principles Roadmap to Optical-Thermoelectric Fusion</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Muhammad Tayyab et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00863">2510.00863</a></td>
 </tr>
 </tbody></table>

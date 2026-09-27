@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,23 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04589.html">Investigating into mechanisms of high temperature strength of refractory high-entropy alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sai Anandhi Seetharaman et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04589">2510.04589</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10407.html">Magneto-optical properties of Group-IV--vacancy centers in diamond upon hydrostatic pressure</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Meysam Mohseni et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10407">2408.10407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03541.html">Defect analysis of the $β$- to $γ$-Ga$_{2}$O$_{3}$ phase transition</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Umutcan Bektas et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03541">2505.03541</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00473.html">Atomic networks as highways for holes in oxygen-deficient amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rafael Costa-Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00473">2510.00473</a></td>
 </tr>
 </tbody></table>

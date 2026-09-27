@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>origin-of-life — 360d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <strong>360d</strong> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -434,11 +434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10266.html">Harvesting chemical power from cyclic environments</a></div></td>
 <td>Pranay Jaiswal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10266">2510.10266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01018.html">Molecular Mobility of Extraterrestrial Ices: Surface Diffusion in Astrochemistry and Planetary Science</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="surface-science-360d.html">surface-science</a></div></td>
-<td>N. F. W. Ligterink et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01018">2510.01018</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">814 papers</span>
+  <span class="paper-count">809 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4868,35 +4868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02550.html">Quantum simulation of carbon capture in periodic metal-organic frameworks</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="co2-adsorption-360d.html">co2-adsorption</a></div></td>
 <td>Dario Rocca et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02550">2510.02550</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10407.html">Magneto-optical properties of Group-IV--vacancy centers in diamond upon hydrostatic pressure</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Meysam Mohseni et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10407">2408.10407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03541.html">Defect analysis of the $β$- to $γ$-Ga$_{2}$O$_{3}$ phase transition</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Umutcan Bektas et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03541">2505.03541</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00424.html">Metallic Oxides and the Overlooked Role of Bandwidth</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Aurland K. Watkins et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00424">2510.00424</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00863.html">Orbital-Engineered Spin Asymmetry and Multifunctionality in Eu-Activated CaAlSiN$_3$: A First-Principles Roadmap to Optical-Thermoelectric Fusion</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Muhammad Tayyab et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00863">2510.00863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00955.html">Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Ahmad Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00955">2510.00955</a></td>
 </tr>
 </tbody></table>

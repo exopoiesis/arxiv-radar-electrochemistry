@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrochemical-interfaces — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="electrochemical-interfaces-7d.html">7d</a> <a href="electrochemical-interfaces-30d.html">30d</a> <a href="electrochemical-interfaces-90d.html">90d</a> <strong>360d</strong> <a href="electrochemical-interfaces-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05925.html">First principles approaches and concepts for electrochemical systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Mira Todorova et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05925">2411.05925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01042.html">Macro-Dipole-Constrainted Learning of Atomic Charges for Accurate Electrostatic Potentials at Electrochemical Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jing Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01042">2510.01042</a></td>
 </tr>
 </tbody></table>

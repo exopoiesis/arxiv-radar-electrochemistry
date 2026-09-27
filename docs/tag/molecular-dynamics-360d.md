@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">568 papers</span>
+  <span class="paper-count">565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3404,23 +3404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01583.html">Electride behavior at high pressure in silicon and other elements in solid and liquid phases</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Salma Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01583">2510.01583</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00473.html">Atomic networks as highways for holes in oxygen-deficient amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Rafael Costa-Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00473">2510.00473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00867.html">Efficient spectra from atomistic simulation: a generalized master equation study of the air-water interface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a></div></td>
-<td>Thomas Sayer</td>
-<td><a href="http://arxiv.org/abs/2510.00867">2510.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01042.html">Macro-Dipole-Constrainted Learning of Atomic Charges for Accurate Electrostatic Potentials at Electrochemical Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a></div></td>
-<td>Jing Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01042">2510.01042</a></td>
 </tr>
 </tbody></table>

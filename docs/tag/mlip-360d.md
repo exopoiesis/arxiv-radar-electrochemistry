@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,11 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13055.html">Reciprocal Space Attention for Learning Long-Range Interactions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mace-360d.html">mace</a></div></td>
 <td>Hariharan Ramasubramanian et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13055">2510.13055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25763.html">Discovery of oxide Li-conducting electrolytes in uncharted chemical space via topology-constrained crystal structure prediction</a></div></td>
-<td>Seungwoo Hwang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25763">2509.25763</a></td>
 </tr>
 </tbody></table>

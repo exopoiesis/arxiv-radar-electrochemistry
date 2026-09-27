@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23391.html">Ultralow-Barrier Ion Transport in the Subnitride Electride Ba$_3$N for High-Rate Sodium Storage</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a></div></td>
 <td>Seulbi Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23391">2609.23391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23134.html">ECENet: An Edge Cluster Expansion Line-Graph Neural Network</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a></div></td>
-<td>R. Allen LaCour et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23134">2609.23134</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>aimd — 360d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <strong>360d</strong> <a href="aimd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,23 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10692.html">Achieving accurate entropy and melting point by ab initio molecular dynamics and zentropy theory: Application to fluoride and chloride molten salts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Shun-Li Shang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10692">2505.10692</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00473.html">Atomic networks as highways for holes in oxygen-deficient amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Rafael Costa-Amaral et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00473">2510.00473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00867.html">Efficient spectra from atomistic simulation: a generalized master equation study of the air-water interface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Thomas Sayer</td>
-<td><a href="http://arxiv.org/abs/2510.00867">2510.00867</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01042.html">Macro-Dipole-Constrainted Learning of Atomic Charges for Accurate Electrostatic Potentials at Electrochemical Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jing Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01042">2510.01042</a></td>
 </tr>
 </tbody></table>
