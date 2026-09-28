@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30970.html">Large-deviations theory for growing chemical reaction networks</a></div><div class="paper-tags"><a href="reaction-networks-90d.html">reaction-networks</a></div></td>
+<td>Praful Gagrani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30970">2609.30970</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29900.html">Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems</a></div></td>
 <td>Edgardo Villar-Sepúlveda et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09525.html">Chemical Frequency Combs in Reaction-Diffusion Oscillators</a></div></td>
 <td>Krishnesh Krishnakumar Nair et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09525">2607.09525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30235.html">Surviving the Attack of the Clones</a></div></td>
-<td>Denis S. Grebenkov</td>
-<td><a href="http://arxiv.org/abs/2606.30235">2606.30235</a></td>
 </tr>
 </tbody></table>

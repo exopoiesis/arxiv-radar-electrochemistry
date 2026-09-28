@@ -3941,5 +3941,365 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-09-24"
+ },
+ "2609.30432": {
+  "abstract": "Transition metal dichalcogenides (TMDCs) have emerged as highly tunable platforms for electrocatalysis, particularly for the CO2 reduction reaction (CO2RR). While TMDC edge sites exhibit catalytic activity, the basal plane is typically inert, severely limiting the overall active site density. In this work, we show that sulfur vacancies activate the basal plane of 1H-TMDCs, while concurrent solid-solution alloying provides a mechanism to broadly tune intermediate adsorption energies. We evaluate a library of quasi-binary TMDC sulfide alloys comprising V, Nb, Ta, Mo, and W, screening them by stability, defect energetics, and competitive selectivity to identify the most effective catalysts for CO2RR. Electronic-structure analysis reveals that a d-band center closer to the Fermi energy weakens intermediate binding by leaving key bonding states unoccupied above the Fermi energy. Our calculations identify (Nb,Ta)S2 as a promising catalyst with low sulfur vacancy formation energies, near-optimal CO2RR intermediate binding, and selectivity against the hydrogen evolution reaction. Overall, this work establishes a rational design framework for TMDC alloy catalysts through the simultaneous use of defect engineering and alloying.",
+  "authors": [
+   "Eric Montufar-Morales",
+   "Daniel Rinder",
+   "Pravan Omprakash",
+   "Rohan Mishra",
+   "Gwan Yeong Jung"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Eric Montufar-Morales",
+  "pdf_url": "http://arxiv.org/pdf/2609.30432",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-24",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "co2-reduction",
+   "electrocatalysis",
+   "hydrogen-evolution",
+   "vacancies"
+  ],
+  "title": "Activating Basal Planes in Transition Metal Dichalcogenides for CO2 Reduction to CO through Alloying",
+  "topics": [
+   "CO2 Reduction and Formate",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30549": {
+  "abstract": "We study the structural, thermophysical and dynamical properties of molten MgCl2 over a wide temperature range using Ab Initio Molecular Dynamics (AIMD) and molecular dynamics simulations based on machine-learning interaction potentials (MLIPs). MLIPs can achieve near-AIMD accuracy at a fraction of the computational cost, enabling simulations of larger systems and longer timescales. This opens up the possibility of studying the system under out-of-equilibrium conditions, which in turn allows for the calculation of physical properties, such as the thermal conductivity or viscosity, that cannot be obtained reliably for the typical time and length scales accessible to AIMD. We follow two complementary approaches to develop and evaluate the MLIPs. Firstly, we develop a Deep Potential (DP) from scratch using AIMD trajectories at different temperatures. Secondly, we also evaluate two out-of-the-box foundation models and a fine-tuned version of one of them. The fine-tuning is performed using configurations from the AIMD trajectories originally used to train the Deep Potential. We compare the predictions of the trained DP, the foundation models and AIMD simulations with the available experimental data and provide a comprehensive calculation of the most important physical quantities of molten MgCl2. We compute densities, radial and angular distribution functions, thermal conductivity, heat capacity, viscosity and diffusion coefficients over the 1000-1600 K temperature range. This range is relevant to important technological applications such as thermal energy storage, generation IV nuclear reactors and concentrated solar power systems. Finally, we briefly review the accuracy and performance of the different MLIPs versions used throughout the work.",
+  "authors": [
+   "Roberto Llovera",
+   "María Andrea Barral",
+   "Verónica Vildosola",
+   "Florencia Cantargi",
+   "Claudio Pastorino"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 12 figures",
+  "first_author": "Roberto Llovera",
+  "pdf_url": "http://arxiv.org/pdf/2609.30549",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-24",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Material and thermal properties of MgCl2 molten salt by ab initio and machine-learning molecular-dynamics simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30574": {
+  "abstract": "The infrared spectra of many carbon-rich post-asymptotic giant branch stars are dominated by emission features from aromatic and aliphatic hydrocarbons, but the chemical structure of the carriers remains unidentified. Class D sources show unusual emission profiles with strong aliphatic emission, providing a stringent test of carrier candidates. Here we investigate whether hydrogenated carbonaceous molecular particles can be the carriers of these features. Rather than assuming candidate geometries we generate the initial structures using ab initio molecular dynamics simulations and optimize them using density functional theory. We then compare the computed emission spectra to JWST NIRSpec and MIRI/MRS observations of Class D sources. The structures providing the best agreements contain sizeable domains with defect-bearing aromatics and hydrogenated-aromatics connected by aliphatic bridges, in contrast to the \"arophatic\" cluster model of isolated two- to three-ring aromatics connected by aliphatic and olefinic bridges. As a representative example, we discuss in detail the molecular particle C130H96 (radius of 5.5 A) and compare its computed spectrum to the JWST spectra of IRAS 05110-6616, a Class D2 source with apparent shifts of the aromatic C-H out-of-plane bands. The calculated spectra are in qualitative agreement with the observed 3 micron profile, the aliphatic C-H bending bands, the broad 8 micron feature, the 11-14 micron C-H out-of-plane region, and the bands at 16 and 21 microns. We hypothesize that UV photo-driven fragmentation of such molecular particles releases aromatics linked by aliphatics, followed by the formation of polycyclic aromatic hydrocarbons and fullerenes as these objects evolve into planetary nebulae.",
+  "authors": [
+   "A. Ricca",
+   "G. C. Sloan",
+   "E. Peeters",
+   "J. Cami",
+   "N. Clark",
+   "M. Matsuura",
+   "R. Sahai",
+   "J. Bernard-Salas",
+   "D. A. Garcìa-Hernàndez",
+   "J. Li",
+   "C. Bhatt"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": null,
+  "first_author": "A. Ricca",
+  "pdf_url": "http://arxiv.org/pdf/2609.30574",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-09-24",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "The JWST Proto-PAH project. Computational modeling of the emission carriers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30621": {
+  "abstract": "Foundation machine learning interatomic potentials (MLIPs) promise near-density functional theory (DFT) accuracy across broad areas of chemistry and materials science. However, their performance in describing systems and processes relevant to heterogeneous catalysis remains underexplored. Here, we introduce HetCat26, a collection of benchmark tests designed to assess pre-trained MLIPs across key aspects of catalytic modeling, including surface energetics, metal-metal oxide interactions, adsorption, and catalytic reaction networks. Evaluating fifteen foundation models, we find that performance on existing general materials benchmarks is only weakly predictive of performance on HetCat26; transferability to heterogeneous catalysis cannot be inferred from these general benchmarks. Across the benchmark tests, current models describe surface energetics and, perhaps surprisingly, reaction barriers well, whereas larger errors are observed for adsorption, and DFT site preferences are often not reproduced. Two models, eSEN-30M-OAM and MACE-MH-1-OMAT, nevertheless achieve high accuracy across the properties evaluated. Beyond model benchmarking, HetCat26 highlights the importance of training data consistency: PBE and PBE+U calculations should not be mixed within a training set. Overall, we identify challenges limiting the transferability of current foundation MLIPs to heterogeneous catalysis and, more broadly, to chemical reactions at interfaces, providing guidance for the development of the next generation of foundation models.",
+  "authors": [
+   "Alexandre Peuch",
+   "Giaan Kler-Young",
+   "Kaifeng Niu",
+   "Jinwoo Hwang",
+   "Manos Mavrikakis",
+   "Angelos Michaelides",
+   "Fabian Berger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Alexandre Peuch",
+  "pdf_url": "http://arxiv.org/pdf/2609.30621",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-24",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "mace",
+   "reaction-networks"
+  ],
+  "title": "Assessing the Transferability of General-Purpose MachineLearning Interatomic Potentials for Heterogeneous Catalysis with HetCat26",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30815": {
+  "abstract": "Spintronics drives the search for functional materials, pursuing room-temperature dilute magnetic semiconductors to realize practical, energy-efficient devices. This paper presents a theoretical investigation into the magnetic properties of w-AlN doped with Cr, Ru, and Rh atoms, using spin-polarized density functional theory calculations with supercell models. Calculations of point-defect formation energies as a function of the Fermi level predict that Cr4+, Ru4+, and Rh3+ are the most favorable charge states substituting Al in w-AlN. With these preferred charge states, Cr-doped AlN is stable in the ferromagnetic state, preferable for spintronic devices, across a wide concentration range (1.85 to 16.67% of Al). Conversely, Ru- and Rh-doped AlN are unstable in the ferromagnetic state relative to the antiferromagnetic state. Further investigation into the electronic density of states reveals a fascinating evolution: for Cr concentrations below 5.56%, the Fermi level resides within the band gap directly above the valence band maximum, keeping the system insulating. It transitions to a high-spin half-metallic state between 7.40% and 12.96%, and finally transforms into a normal metal at 16.67% Cr. This behavior is absent in the DOS of the antiferromagnetic model of Ru- and Rh-doped systems, where insulating and metallic behaviors instead appear non-sequentially with varying concentrations.",
+  "authors": [
+   "Chinnappan Ravi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 14 figures, Revised and Expanded Version of the Previous Account",
+  "first_author": "Chinnappan Ravi",
+  "pdf_url": "http://arxiv.org/pdf/2609.30815",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-25",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Engineering Ferromagnetism in Wide Bandgap w-AlN for Spintronic Applications: Insights from DFT Calculations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.30848": {
+  "abstract": "Molecular dynamics is widely used to predict ionic conductivity in solid electrolytes, but the reliability of these predictions is often difficult to assess. Our analysis identifies finite trajectory length, limited cell size, and insufficient sampling as intrinsic limitations of finite atomistic ion-transport calculations. Cubic Li7La3Zr2O12 is used as a representative solid electrolyte to quantify their consequences. These limitations can remain hidden behind apparently linear mean-squared displacements and well-behaved Arrhenius relations, leading to inaccurate diffusivities, activation energies, and extrapolated ionic conductivities. Such inaccuracies can misrank candidate solid electrolytes and consequently misdirect computational screening and experimental validation. Here, we establish the local mean-squared-displacement exponent, α(t), as a quantitative reliability criterion that links dynamical convergence to errors in diffusivity and Nernst-Einstein ionic conductivity. The criterion further determines the minimum trajectory length required to achieve a prescribed accuracy as a function of temperature. Independent replicas reduce statistical uncertainty, while selective single-axis expansion mitigates finite-size effects. By establishing when simulated ionic conductivity is quantitatively trustworthy, this approach enables more reliable materials ranking and more efficient use of computational and experimental resources, thereby accelerating the development of high-performance solid electrolytes for solid-state batteries.",
+  "authors": [
+   "Yiwei You",
+   "Shaofei Chen",
+   "Zhifeng Wu",
+   "Pushun Lu",
+   "Eric Jianfeng Cheng",
+   "Songyan Chen",
+   "Shunqing Wu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 5 figures",
+  "first_author": "Yiwei You",
+  "pdf_url": "http://arxiv.org/pdf/2609.30848",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-25",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.30958": {
+  "abstract": "Selective activation of dinitrogen (N$_2$) under mild conditions is difficult: N$\\equiv$N is one of the strongest bonds in chemistry, and most heterogeneous catalysts capable of breaking it require high temperature and pressure. Atomically dispersed transition-metal sites offer a computationally tractable route to studying the strongly correlated intermediates involved. We connect periodic DFT calculations with correlated active-space calculations on a finite, non-periodic surface fragment, demonstrating the workflow for the hydrogenation step RuH$_2$(N$_2$)* $\\rightarrow$ RuH(NNH)* at an isolated Ru$_1$ site on Ru(0001). A first-shell fragment is extracted from the periodically relaxed structure, an active space is selected with Active Atomic Valence Space (AVAS) around the Ru-N/N-H bond reorganization, and natural-orbital truncation reduces its cost while retaining the relevant correlated degrees of freedom. The reduced Hamiltonian is mapped to qubits with the Jordan-Wigner transformation and solved with the adaptive derivative-assembled pseudo-Trotter variational quantum eigensolver (ADAPT-VQE). Dynamic correlation beyond the active space is examined with strongly contracted NEVPT2 and DSRG-MRPT2. AVAS gives a 22-qubit active space, which natural-orbital truncation compresses to 16 qubits, reproducing the untruncated CASCI state energies to within 0.21 kcal/mol (reaction-energy error 0.2 kcal/mol). Statevector ADAPT-VQE in this reduced space converges for both reaction states under a fixed pool-gradient stopping criterion. NEVPT2 yields anomalously large, state-imbalanced corrections for the finite Ru fragment, while DSRG-MRPT2 retains an endothermic reaction energy at its default flow parameter, although its magnitude depends strongly on that parameter.",
+  "authors": [
+   "Geet Gupta"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Geet Gupta",
+  "pdf_url": "http://arxiv.org/pdf/2609.30958",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-09-25",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Active-Space Quantum Simulation of N$_2$ Hydrogenation at a Ru Single-Atom Site on Ru(0001)",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.30970": {
+  "abstract": "Growing biochemical systems are intrinsically noisy, with one important source of stochasticity arising from the discrete reaction events of the underlying biochemical network. Because growing systems do not generally admit stationary abundance distributions, it is unclear how to separate this intrinsic chemical noise from other sources of variability in population and single-cell data. Here we develop a large-deviation theory for exponentially growing stochastic chemical reaction networks by decomposing abundance into volume and composition. In these coordinates, balanced growth corresponds to a stable composition together with exponentially increasing volume. We show that composition fluctuations satisfy a large-deviation principle with speed equal to the volume of the growing system, and the corresponding quasipotential is selected by a solution of the contact Hamilton--Jacobi equation. We also derive a fluctuation theory for accumulated observables and show that their covariances decay with accumulated-volume, rather than with physical time. Applications to a minimal autocatalytic network and a coarse-grained cellular growth model demonstrate how the theory predicts composition quasipotentials, growth-rate fluctuations, and correlations between observables. The framework therefore provides a stochastic null model for single-cell heterogeneity generated by the intrinsic stochasticity of the underlying chemical reaction network.",
+  "authors": [
+   "Praful Gagrani",
+   "Ignacio Madrid",
+   "Tetsuya J Kobayashi"
+  ],
+  "categories": [
+   "q-bio.MN",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Praful Gagrani",
+  "pdf_url": "http://arxiv.org/pdf/2609.30970",
+  "primary_category": "q-bio.MN",
+  "published": "2026-09-25",
+  "tags": [
+   "autocatalysis",
+   "reaction-networks"
+  ],
+  "title": "Large-deviations theory for growing chemical reaction networks",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.31079": {
+  "abstract": "Rare-earth orthoferrites such as DyFeO$_3$ exhibit a rich interplay between localized rare-earth and transition-metal moments, giving rise to complex magnetic phases and magnetoelectric phenomena. Understanding their electronic and spectroscopic properties from first principles requires an accurate description of the localized Fe-$3d$ and Dy-$4f$ states and their hybridization with O-$2p$ states. Here, we combine first-principles calculations and x-ray absorption near-edge structure (XANES) measurements to investigate the electronic structure and the O $K$-edge spectrum of DyFeO$_3$. We employ density-functional theory (DFT) with Hubbard $U$ corrections (DFT+$U$) determined from first principles using density-functional perturbation theory, the HSE06 hybrid functional, and orbital-resolved DFT+$U$ with Hubbard parameters calibrated to reproduce the electronic structure computed using HSE06. We find that standard DFT+$U$, despite improving the band gap, substantially underestimates the crystal-field splitting of the unoccupied Fe-$3d$ states and consequently fails to accurately reproduce the separation of the two lowest-energy features in the O $K$-edge spectrum. HSE06 provides a more balanced description of the relevant electronic states, including the Fe-$3d$ crystal-field splitting. Mapping the corresponding electronic structure onto orbital-resolved DFT+$U$ yields a spectrum that remarkably reproduces the two lowest-energy experimental features and captures the main characteristics of the spectrum at higher energies. These results establish the low-energy O $K$-edge features as a sensitive probe of the Fe-$3d$ crystal-field splitting, while showing that the localized Dy-$4f$ states leave no distinct spectral fingerprints despite their importance for the magnetic properties.",
+  "authors": [
+   "G. Gebreyesus",
+   "Eric Macke",
+   "Pietro Delugas",
+   "Weiguo Jing",
+   "Banani Biswas",
+   "Carlos A. F. Vaz",
+   "Christof W. Schneider",
+   "Iurii Timrov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "G. Gebreyesus",
+  "pdf_url": "http://arxiv.org/pdf/2609.31079",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-25",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Unraveling the electronic structure and the oxygen $K$-edge x-ray absorption near-edge structure spectrum of DyFeO$_3$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.31265": {
+  "abstract": "Strong light-matter coupling offers exciting opportunities for controlling molecular properties, yet resolving single-molecule behavior from collective effects remains a challenge. Recent experiments in scanning tunneling microscope break junctions (STM-BJs) have demonstrated strong light-matter coupling at the single-molecule level. Because STM-BJs provide direct access to molecular-junction currents, we investigate whether strong coupling leaves a measurable fingerprint in transport, potentially probing polaritonic states beyond optical spectroscopy. Using a semiclassical mapping approach for nonequilibrium quantum transport, we find that steady-state current indeed carries a direct signature of single-molecule strong coupling. We test the robustness of this signature against electrode connectivity, nuclear motion, spatially structured electromagnetic modes, and solvent effects. While environmental factors and nuclear motion reshape the signature, the current is not a passive response but is actively influenced by coupled molecular dynamics. Our work establishes current as a tool to interpret and control strong light-matter interactions in nanoscale junctions.",
+  "authors": [
+   "Kritanjan Polley",
+   "Norah M. Hoffmann"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "19 pages, 8 figures",
+  "first_author": "Kritanjan Polley",
+  "pdf_url": "http://arxiv.org/pdf/2609.31265",
+  "primary_category": "quant-ph",
+  "published": "2026-09-25",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Steady--State Current Signatures of Strong Light--Matter Coupling in Single--Molecule Junctions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.31270": {
+  "abstract": "Polymers are widely used as functional insulating materials, but predicting their dielectric behavior is challenging because multiple mechanisms, acting across different spatial and temporal scales, contribute to their response. In polyethylene (PE), one of the most common polymers, electronic, atomic, and mesoscale dynamics must all be considered.   In this work, semicrystalline models of polyethylene were developed and investigated using a multiscale approach. Quantum simulations were employed to describe electronic and vibrational contributions to the dielectric response, while classical molecular dynamics simulations captured the behavior of polymer chains at room temperature and frequencies down to the 10-100 MHz range.   The study focuses on the impact of radio-oxidation defects on the dielectric properties of polyethylene. Quantum calculations reveal how electronic and vibrational contributions depend on the local atomic environment surrounding these defects. Comparison with molecular dynamics results highlights the influence of temperature on the static dielectric constant. Structural analyses further assess the effect of each defect type on PE crystallinity.   Analysis of dipolar correlation functions shows that different defects interact with one another and with the polymer matrix in distinct ways, affecting permittivity and dielectric loss peaks. For all defect types, defect-defect interactions provide the largest contribution to dielectric response. While most oxidized groups exhibit positive coupling with the PE matrix, alcohol defects display a negative cross-correlation, partially offsetting their impact on the dielectric properties.   Our results also show that ketone groups produce the largest dielectric loss between the defects studied.",
+  "authors": [
+   "Roshal Perepadan Shaju",
+   "Guido Roma",
+   "Xavier Colin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "physics.app-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "36 pages, 11 figures",
+  "first_author": "Roshal Perepadan Shaju",
+  "pdf_url": "http://arxiv.org/pdf/2609.31270",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-25",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.31277": {
+  "abstract": "P-type transparent conducting materials (TCMs) remain scarce, limiting progress in transparent electronics and tandem photovoltaics. Here, we perform a high-throughput computational search across CuI-based ternary X--Cu--I compounds using the minima hopping method combined with density functional theory. Filtering for thermodynamic stability, optical transparency, and light hole effective mass, we identify 58 candidate p-type TCMs, of which 49 are previously unreported. Twenty are p-type degenerate semiconductors with intrinsic hole carriers, including Cu$_2$FI$_2$ (calculated gap 3.75 eV, hole effective mass $0.262\\,m_0$). We further use this dataset to revisit the chemical modulation of the valence band (CMVB) design rules, originally formulated for Cu-based delafossite oxides. Four generalizations emerge: linear Cu coordination is not required, as tetrahedral coordination (CN = 4) is compatible with p-type TCM character; the mechanism extends to halide-based systems with I $5p$ anion states; the Cu $d$ state energy center $ε_d$ is a quantitative descriptor for valence band dispersion; and Cu undercoordination in monovalent-anion hosts drives intrinsic p-type carrier generation through stoichiometric charge balance. These results establish a generalized computational framework for the design of p-type halide TCMs.",
+  "authors": [
+   "Michael Seifert",
+   "Miguel A. L. Marques",
+   "Silvana Botti"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Michael Seifert",
+  "pdf_url": "http://arxiv.org/pdf/2609.31277",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-25",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "High-throughput computational discovery of CuI-based ternary $p$-type transparent conductors",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.31533": {
+  "abstract": "The structural and optical properties of the doubly yttrium-doped boron cluster B$_{18}$Y$_2$ have been systematically investigated using density functional theory calculations. The lowest-energy structure was identified through extensive basin-hopping searches accelerated by a pre-trained MACE machine-learning potential and subsequently refined and validated at the DFT level. The resulting global-minimum structure adopts a double-ring geometry, consisting of two fused B$_9$ rings stabilized by yttrium atoms positioned above and below the boron framework. Vibrational frequency calculations confirm the dynamical stability of the optimized structure, while the calculated infrared and UV--Vis spectra provide characteristic signatures of the Y--B interactions and the electronic structure of the boron framework. These results demonstrate how yttrium doping can stabilize unusual double-ring boron architectures and highlight the effectiveness of machine-learning-assisted basin-hopping searches for exploring the complex potential-energy landscapes of doped boron clusters.",
+  "authors": [
+   "Peter Ludwig Rodríguez-Kessler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "5 pages, 4 figures",
+  "first_author": "Peter Ludwig Rodríguez-Kessler",
+  "pdf_url": "http://arxiv.org/pdf/2609.31533",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-25",
+  "tags": [
+   "density-functional-theory",
+   "mace"
+  ],
+  "title": "Structural prediction of B$_{18}$Y$_{2}$ cluster: A Machine-Learning-Assisted Basin-Hopping Study",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-25"
  }
 }

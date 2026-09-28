@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>co2-adsorption — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="co2-adsorption-7d.html">7d</a> <a href="co2-adsorption-30d.html">30d</a> <a href="co2-adsorption-90d.html">90d</a> <strong>360d</strong> <a href="co2-adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13918.html">Carbon Capture from wet vapors</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Silvina Gatica</td>
 <td><a href="http://arxiv.org/abs/2512.13918">2512.13918</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02550.html">Quantum simulation of carbon capture in periodic metal-organic frameworks</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Dario Rocca et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02550">2510.02550</a></td>
 </tr>
 </tbody></table>
