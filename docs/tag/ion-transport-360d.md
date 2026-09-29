@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32707.html">Site-Selective Yttrium Substitution in Ti3AlC2 Enables Interlayer Engineering and Li Transport in Ti3C2Tx cathodes for High-Power Energy Storage</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Tetiana Boichuk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32707">2609.32707</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25997.html">Interplay of Composition, Crystallinity, and Chemical Structure in CoHCF and NiHCF Thin Films Prepared at Different Temperatures</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>

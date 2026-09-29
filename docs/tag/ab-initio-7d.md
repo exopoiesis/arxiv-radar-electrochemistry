@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34869.html">Chemical site bases and average-atom potentials for the atomic cluster expansion</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Lorenzo Piersante et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34869">2609.34869</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Chuntian Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31079.html">Unraveling the electronic structure and the oxygen $K$-edge x-ray absorption near-edge structure spectrum of DyFeO$_3$</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
@@ -56,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27000.html">First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Liwen Ko et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27000">2609.27000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Zhenxing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24293">2609.24293</a></td>
 </tr>
 </tbody></table>

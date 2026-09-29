@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">815 papers</span>
+  <span class="paper-count">817 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Thi Hai Yen Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33116">2609.33116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33617.html">Accelerating Quantum Simulations of Materials Through Parameter and Ansatz Transfer Strategies</a></div></td>
+<td>Saurabh Shivpuje et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33617">2609.33617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Chuntian Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32707.html">Site-Selective Yttrium Substitution in Ti3AlC2 Enables Interlayer Engineering and Li Transport in Ti3C2Tx cathodes for High-Power Energy Storage</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
+<td>Tetiana Boichuk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32707">2609.32707</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32894.html">Composition-Driven Metal-to-Semiconductor Transition and Enhanced Phonon Transport in B-C substituted Clathrate</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
+<td>Ghulam Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32894">2609.32894</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30815.html">Engineering Ferromagnetism in Wide Bandgap w-AlN for Spintronic Applications: Insights from DFT Calculations</a></div></td>
@@ -4886,23 +4916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03975.html">Finding the temperature window for atomic layer deposition of ruthenium metal via efficient phonon calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Alexandr Fonari et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03975">2510.03975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02064.html">Ab initio calculation of atomic solid hydrogen phases based on Gutzwiller many-body wave functions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Zhuo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02064">2510.02064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02875.html">Redox Chemistry of LiCoO$_2$, LiNiO$_2$, and LiNi$_{1/3}$Mn$_{1/3}$Co$_{1/3}$O$_2$ Cathodes: Deduced via XPS, DFT+DMFT, and Charge Transfer Multiplet Simulations</a></div></td>
-<td>Ruiwen Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02875">2510.02875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03114.html">Electrochemical insights into manganese-cobalt doped $α-Fe_2O_3$ nanomaterial for cholesterol detection: A comparative approach</a></div></td>
-<td>Sushmitha S et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03114">2510.03114</a></td>
 </tr>
 </tbody></table>

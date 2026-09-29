@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>chalcogenides — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <a href="chalcogenides-360d.html">360d</a> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28446.html">Field-induced incipient spin-density phase stabilized inside the nematic phase of FeSe$_{1-x}$S$_x$</a></div></td>
 <td>I. Paulescu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28446">2609.28446</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24843.html">Electronic Reconstruction Towards Topological Superconductivity in FeTe</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
-<td>Hongtao Rong et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24843">2609.24843</a></td>
 </tr>
 </tbody></table>

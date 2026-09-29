@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="phase-transitions-7d.html">phase-transitions</a></div></td>
+<td>Thi Hai Yen Pham et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33116">2609.33116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33617.html">Accelerating Quantum Simulations of Materials Through Parameter and Ansatz Transfer Strategies</a></div></td>
+<td>Saurabh Shivpuje et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33617">2609.33617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Chuntian Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32707.html">Site-Selective Yttrium Substitution in Ti3AlC2 Enables Interlayer Engineering and Li Transport in Ti3C2Tx cathodes for High-Power Energy Storage</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a></div></td>
+<td>Tetiana Boichuk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32707">2609.32707</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32894.html">Composition-Driven Metal-to-Semiconductor Transition and Enhanced Phonon Transport in B-C substituted Clathrate</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a></div></td>
+<td>Ghulam Hussain et al.</td>
+<td><a href="http://arxiv.org/abs/2609.32894">2609.32894</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30815.html">Engineering Ferromagnetism in Wide Bandgap w-AlN for Spintronic Applications: Insights from DFT Calculations</a></div></td>
@@ -86,23 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27000.html">First-Principles Nonadiabatic Dynamics via the Multi-Orbital Anderson-Newns Model</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a></div></td>
 <td>Liwen Ko et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27000">2609.27000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24281.html">Electronic-Entropy-Driven Phase Transitions in Compressed Iron Oxides</a></div></td>
-<td>S. Azadi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24281">2609.24281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24293.html">Small-supercell and Small-dataset Training Strategy of Machine Learning Interatomic Potentials for Point Defects</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Zhenxing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24293">2609.24293</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24843.html">Electronic Reconstruction Towards Topological Superconductivity in FeTe</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
-<td>Hongtao Rong et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24843">2609.24843</a></td>
 </tr>
 </tbody></table>

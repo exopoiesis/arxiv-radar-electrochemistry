@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25293.html">Silk-templated Nanostrips as Superprotonic Fibre Sensors</a></div></td>
-<td>Jianhui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25293">2609.25293</a></td>
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34758.html">The precipitation of protons and electrons in Jupiter&#x27;s auroral regions: a statistical comparison based on Juno/JEDI data</a></div></td>
+<td>B. Benmahi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.34758">2609.34758</a></td>
 </tr>
 </tbody></table>

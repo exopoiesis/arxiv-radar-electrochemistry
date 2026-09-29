@@ -64,6 +64,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.28186">2609.28186</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31743.html">ElectrolyteMD-Bench: How Well Do AI Agents Conduct Molecular Dynamics Studies across Electrolyte Solvation Regimes?</a></div></td>
+<td>Shukai Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.31743">2609.31743</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26657.html">Agent-E2MD: Autonomous Translation of Interatomic Potential Equations into Physically Validated Pair Styles for Molecular Dynamics in LAMMPS</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Bilvin Varughese et al.</td>
@@ -3416,11 +3422,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04227.html">A Universal Deep Learning Force Field for Molecular Dynamic Simulation and Vibrational Spectra Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
 <td>Shengjiao Ji et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04227">2510.04227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03479.html">Active learning and explicit electrostatics enable accurate modeling of electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Olga Chalykh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03479">2510.03479</a></td>
 </tr>
 </tbody></table>
