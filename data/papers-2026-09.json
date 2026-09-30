@@ -4569,5 +4569,263 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-09-28"
+ },
+ "2609.36269": {
+  "abstract": "We study one-sided, two-sided and reflected exit problems for a finite-state Markov-modulated additive-increase and multiplicative-decrease process. For upward passage, a first-jump decomposition and a spatial Laplace transform lead to a recursion indexed by finite words of phases and to a convergent Green series. For downward passage, the first-jump operator is a strict contraction and the known contribution from $[p_i b,b]$ becomes an explicit boundary forcing term in the same spatial recursion. These allow to derive the corresponding Green representation of the first passage matrix and its finite-dimensional compatibility condition. The derivation of the two-sided exit identity is based on the Markov property, which in this context is equivalent to the cocycle property of the Laplace transform, together with the recursive equation at the upper level. For reflection at the running infimum, a finite $\\bar p$-geometric method of steps realizes a certain Picard map that allows to find the exit matrix. As a result, we construct a Doob martingale related to the first passage time of the reflected Markov-modulated AIMD.",
+  "authors": [
+   "Bernardo D'Auria",
+   "Zbigniew Palmowski"
+  ],
+  "categories": [
+   "math.PR"
+  ],
+  "comment": "15 page, 4 figures",
+  "first_author": "Bernardo D'Auria",
+  "pdf_url": "http://arxiv.org/pdf/2609.36269",
+  "primary_category": "math.PR",
+  "published": "2026-09-28",
+  "tags": [
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Exit problems for additive-increase and multiplicative-decrease Markov-modulated processes",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-28"
+ },
+ "2609.36682": {
+  "abstract": "Developing molecular scale structural descriptors that can quantitatively predict the macroscopic transport properties of ionic liquids remains a longstanding question, owing to the complex interplay between molecular interactions, nanoscale organization, and collective ion dynamics. Here, we use all atom molecular dynamics simulations to establish quantitative structure property relationships between the equilibrium microstructure and two key transport properties viscosity and ionic conductivity in a series of imidazolium based ILs with chemically distinct anions and varying alkyl chain lengths. While viscosity and ionic conductivity exhibit distinct dependencies on alkyl chain length and anion chemistry, these seemingly different trends largely collapse onto unified correlations when expressed in terms of the mean polar-domain volume. In particular, both transport properties exhibit systematic power-law scaling with the mean polar domain volume fraction, revealing a common structural origin underlying the variations in ion and momentum transport across chemically distinct ILs. These results establish polar-domain volume as a physically motivated molecular-scale descriptor and provide a general structure property framework for connecting nanoscale organization to macroscopic transport properties in ILs.",
+  "authors": [
+   "Ganesh K. Rajahmundry",
+   "Tarak K. Patra"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ganesh K. Rajahmundry",
+  "pdf_url": "http://arxiv.org/pdf/2609.36682",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-29",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Polar-Domain Volume as a Unified Descriptor of Transport in Ionic Liquids",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.36694": {
+  "abstract": "Hamiltonian simulation is a central application of quantum computing. Randomized Hamiltonian simulation approximates the target dynamics by sampling quantum circuits and often allows simpler circuit implementations. We develop a framework for randomized Hamiltonian simulation in which Hamiltonian terms are sampled with arbitrary probabilities and the corresponding short-time evolutions are implemented sequentially. The leading channel error relative to ideal time evolution is governed by the variance of the sampled generators. Minimizing the variance-based upper bound on the worst-case error recovers qDRIFT, a leading randomized Hamiltonian simulation algorithm that samples terms in proportion to their operator norms. For typical input states, however, this sampling distribution need not be optimal. Minimizing Haar-averaged error bounds instead yields sampling probabilities proportional to the Hilbert-Schmidt norms of the terms. This choice can provide smaller average-error bounds than conventional qDRIFT. For Hamiltonians expressed as sums of Pauli strings, we combine this framework with commuting Pauli grouping to obtain smaller error bounds than conventional qDRIFT at fixed $R_z$ depth. Numerical benchmarks for the Sachdev-Ye-Kitaev model show error-bound improvement factors consistent with linear scaling in the number of qubits. For the 108-qubit FeMoco Hamiltonian, the error bounds are reduced by a factor of about 5.65. These results establish average-error optimization as a practical design principle for randomized Hamiltonian simulation.",
+  "authors": [
+   "Hayata Morisaki",
+   "Keisuke Fujii"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "9 pages, 2 figures",
+  "first_author": "Hayata Morisaki",
+  "pdf_url": "http://arxiv.org/pdf/2609.36694",
+  "primary_category": "quant-ph",
+  "published": "2026-09-29",
+  "tags": [],
+  "title": "Optimized Randomized Hamiltonian Simulation via Average-Error Analysis",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.36706": {
+  "abstract": "$\\mathrm{UTe}_2$ has emerged as one of the most intensively studied strongly correlated materials in recent years owing to its unconventional superconductivity and the possible realization of a spin-triplet, topologically nontrivial pairing state. A central open issue concerns the nature of the $\\mathrm{U}\\,5f$ electrons and their participation in low-energy quasiparticle states. In this review, we summarize recent spectroscopic studies of $\\mathrm{UTe}_2$ using momentum-resolved angle-resolved photoemission spectroscopy (ARPES) and element- and configuration-sensitive X-ray probes, including X-ray absorption spectroscopy (XAS), X-ray absorption near-edge structure (XANES), X-ray magnetic circular dichroism (XMCD), resonant X-ray emission spectroscopy (RXES), and resonant inelastic X-ray scattering (RIXS). A key finding is the pronounced technique dependence of the inferred electronic structure. We synthesize the present spectroscopic picture by integrating these results with modern electronic-structure calculations such as density functional theory plus dynamical mean-field theory (DFT+DMFT). These findings support an intermediate-valence ground state with significant admixture of $5f^2$ and $5f^3$ configurations in $\\mathrm{UTe}_2$, and they delineate key experimental and theoretical benchmarks needed to connect the normal-state electronic structure to the superconducting mechanism.",
+  "authors": [
+   "Shin-ichi Fujimori"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "38 pages, 17 figures, accepted to Electronic Structure",
+  "first_author": "Shin-ichi Fujimori",
+  "pdf_url": "http://arxiv.org/pdf/2609.36706",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-09-29",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Probing the electronic structure of $\\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.36749": {
+  "abstract": "The use of a thin solid electrolyte layer on polyethylene (PE) separators has been explored as a potential strategy to mitigate the polysulfide shuttle effect in lithium-sulfur (Li-S) batteries, a phenomenon responsible for significantly reducing their lifespan. While some solid electrolytes, such as LAGP , have demonstrated the ability to effectively suppress the shuttle effect, their brittle ceramic nature limits their application, particularly in flexible electronics. Coating PE separators with LAGP nanofilms offers a promising solution by combining the mechanical flexibility and thinness of polymer separators with the electrochemical advantages of LAGP, due to its NASICON-like structure and high ionic conductivity. In this study, PE separators were coated with LAGP nanofilms using the ion sputtering technique and further modified with ferroic elements such as Ni and Co. The surface morphology of the coated separators was analyzed using scanning electron microscopy (SEM), and staircase voltammetry was employed to evaluate the electrochemical performance and modifications induced by the coatings. The results demonstrate that the use of PE separators with a thin LAGP layer significantly influences polysulfide diffusion and suppresses the shuttle effect, thereby reducing unwanted processes in Li-S batteries.",
+  "authors": [
+   "Giovanni Ceccio",
+   "Jiri Vacik"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Giovanni Ceccio",
+  "pdf_url": "http://arxiv.org/pdf/2609.36749",
+  "primary_category": "physics.app-ph",
+  "published": "2026-09-29",
+  "tags": [],
+  "title": "Study of LAGP coating on polyethylene separator for polysulfide suppression in thin Li-S batteries",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.36758": {
+  "abstract": "Solid electrolytes (SEs) for sodium-based superionic conductors (NaSICON) were first introduced in 1976 and quickly recognized for their excellent ionic conductivity. While considerable effort has been made to develop thin electrolytes for all-solid-state batteries (ASSBs), only a few sodium-based SEs have been successfully fabricated as thin films. These thin films are particularly desirable for their reduced electrical resistance, which typically increases with the thickness of the SE. By reducing the thickness of the SEs to the nanometer scale, their ionic conductivity can be significantly enhanced. In this study, the NASICON composite was initially prepared in the form of pellets using the mixed oxide technique with a planetary ball mill and synthesized by the solid-state method at 1300 °C. The resulting pellets were used as sputtering targets in a low-energy ion facility to prepare continuous NASICON nanofilms. To explore the effect of ion implantation on the electrical properties of NASICON, the prepared films were bombarded with Ni ions at 1.1 MeV and varying fluences, using the Tandetron accelerator at the CANAM infrastructure (NPI Řež). The electrical properties of both the synthesized and implanted films were analyzed through electrochemical impedance spectroscopy (EIS). The results, describing the impact of irradiation on NASICON's properties, are presented here.",
+  "authors": [
+   "Giovanni Ceccio",
+   "Jiri Vacik",
+   "Ivan Mastronardo",
+   "Clausia D Urso",
+   "Eva Stepanovska",
+   "Romana Miksova"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Giovanni Ceccio",
+  "pdf_url": "http://arxiv.org/pdf/2609.36758",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-29",
+  "tags": [
+   "impedance-spectroscopy"
+  ],
+  "title": "Synthesis and modification of thin NaSICON solid electrolytes using ion beams",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.37058": {
+  "abstract": "Quantum transport simulations that combine density functional theory (DFT) with the nonequilibrium Green's function formalism (DFT-NEGF) are important to modern technology, yet their unfavorable scaling has long confined predictive simulations to small, idealized systems far below the ten-thousand-atom scale of realistic devices. Here, we introduce HamGNN-NEGF, a linear-scaling framework with DFT-level fidelity. An E(3)-equivariant graph neural network trained on conventional DFT Hamiltonians of small structures predicts Hamiltonians for large devices, avoiding costly DFT-NEGF training data. The predicted Hamiltonians are integrated with DFT-derived electrode self-energies, a nonorthogonal kernel polynomial method for Fermi-level determination, and a recursive Green's function algorithm, yielding a computational cost that scales linearly with device length at fixed cross section. Even for devices containing fewer than 500 atoms, HamGNN-NEGF achieves speedups exceeding three orders of magnitude over fully self-consistent DFT-NEGF, with the advantage increasing further with system size. Benchmarks on pristine Pt-Si-Pt, doped Pt-Si:P-Pt, and Pt-molecule-Pt junctions demonstrate meV-level Hamiltonian accuracy, faithful transmission spectra, and predictive simulations beyond 10,000 atoms. Eliminating transport self-consistency also enables hybrid functionals such as HSE06 without additional NEGF overhead, while a zero-bias Hamiltonian approximation extends the framework to finite-bias transport in weakly nonlinear regimes. HamGNN-NEGF thus bridges first-principles accuracy and device-scale simulation, providing a practical route toward predictive modeling of realistic nanoelectronic and quantum devices.",
+  "authors": [
+   "Bang Liu",
+   "Yang Zhong",
+   "Zhi-Xin Guo",
+   "Xin-Gao Gong",
+   "Hongjun Xiang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "22 pages, 4 figures",
+  "first_author": "Bang Liu",
+  "pdf_url": "http://arxiv.org/pdf/2609.37058",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-29",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.37075": {
+  "abstract": "Thin chromium nitride (CrN) films were deposited by RF magnetron sputtering in a reactive atmosphere of Ar-N$_2$ on fused silica and MgO (001) substrates at temperatures between 400 $^o$C and 800 $^o$C. The influence of nitrogen content and substrate temperature on structural, electrical, and optical properties was systematically investigated. The overstoichiometric CrN films exhibited a reduced resistivity below 6 m$Ω\\cdot$cm with stable p-type behavior, while increasing the substrate temperature above 600 $^o$C induced a transition to n-type conductivity. Spectroscopic ellipsometry in the UV-Vis-NIR and infrared spectral ranges revealed a strong dependence of the dielectric function and the absorption edge on film stoichiometry and deposition conditions. Structural characterization using X-ray diffraction and atomic force microscopy confirmed substrate-dependent crystallinity and grain growth. Density functional theory calculations showed that cation and anion vacancies strongly modify the electronic structure and optical response, explaining the experimentally observed conductivity transitions. The results demonstrate that the deposition parameters provide an effective means to tailor CrN thin films via defect engineering.",
+  "authors": [
+   "J. Bulíř",
+   "U. D. Wdowik",
+   "J. More-Chevalier",
+   "P. Hubík",
+   "E. de Prado",
+   "M. Vondráček",
+   "L. Fekete",
+   "M. Novotný",
+   "J. Lančok",
+   "D. Legut"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 14 figures",
+  "first_author": "J. Bulíř",
+  "pdf_url": "http://arxiv.org/pdf/2609.37075",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-29",
+  "tags": [
+   "density-functional-theory",
+   "reaction-networks",
+   "vacancies"
+  ],
+  "title": "Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.37638": {
+  "abstract": "Current explanation methods for contrastive vision--language models such as CLIP mainly identify important regions without showing how to change the input in order to get a target prediction. We introduce \\textbf{M}ask-guided \\textbf{A}daptive \\textbf{C}ounterfactual \\textbf{E}xplanations (\\mace), a targeted visual counterfactual method designed specifically for CLIP zero-shot classification. \\mace constructs an editable region from either source attribution or source--target attribution differences and expands the mask only when needed to reach a specified target class. A latent diffusion inpainting model then modifies the selected region, while a frozen CLIP model provides modification guidance and anchors the remaining image content to the original input. We evaluate \\mace on ImageNet, Food-101, Oxford Pets, and CUB-200. The source-mask variant achieves the highest target top-1 success rate across all four datasets, while the difference-mask variant produces the smallest pixel-level and perceptual changes and the best realism scores. Both variants improve proximity and realism over a Stable Diffusion-only baseline using the same generative backbone. These results show that adaptive mask-guided editing produces effective CLIP counterfactuals. They further reveal a tradeoff between counterfactual validity and source-image preservation.",
+  "authors": [
+   "Van Bach Nguyen",
+   "Jörg Schlötterer",
+   "Christin Seifer"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Van Bach Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2609.37638",
+  "primary_category": "cs.CV",
+  "published": "2026-09-29",
+  "tags": [
+   "mace"
+  ],
+  "title": "Targeted Visual Counterfactual Explanations for Contrastive Vision-Language Model",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-09-29"
+ },
+ "2609.37827": {
+  "abstract": "Understanding and controlling charge transfer at graphene-semiconductor interfaces is essential for the integration of two-dimensional materials into silicon-compatible technologies. Here, we combine ultraviolet photoelectron spectroscopy (UPS), Kelvin probe force microscopy (KPFM), angle-resolved photoemission spectroscopy (ARPES), scanning tunneling spectroscopy (STS) and density functional theory (DFT) to resolve work-function modulation and electronic coupling in graphene grown on Ge(001)/Si(001). UPS and KPFM reveal a spatially non-uniform work-function landscape correlated with the nanofaceted morphology of the substrate. ARPES and DFT calculations for the pristine interface consistently indicate n-type doping and electron transfer from Ge to graphene. In contrast, modeling of the oxidized interface predicts a reversal to p-type doping, providing a plausible explanation for the different doping polarities reported in the literature. Machine-learning-assisted classification of the STS data resolves distinct local electronic regimes, ranging from nearly free-standing graphene on nanofacet tops to more strongly coupled inter-facet regions and nanoribbon-like regions with distinct local electronic responses. By identifying the mechanisms governing local graphene-substrate interactions and charge transfer, our study provides guidelines for tailoring the synthesis process and minimizing defect formation during delamination. These insights support the production of high-quality graphene layers for electronic devices and for transfer as protective coatings for air-sensitive materials.",
+  "authors": [
+   "Pawel Dabrowski",
+   "Przemysław Przybysz",
+   "Maciej Rogala",
+   "Iaroslav Lutsyk",
+   "Paweł Krukowski",
+   "Witold Kozłowski",
+   "Michał Piskorski",
+   "Piotr Milczarski",
+   "Iwona Pasternak",
+   "Jakub Sitek",
+   "Marek Kopciuszyński",
+   "Ryszard Zdyb",
+   "Jagoda Sławińska",
+   "Pawel J. Kowalczyk"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pawel Dabrowski",
+  "pdf_url": "http://arxiv.org/pdf/2609.37827",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-29",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-09-29"
  }
 }

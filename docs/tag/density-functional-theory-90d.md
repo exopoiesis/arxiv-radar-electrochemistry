@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div></td>
+<td>Shin-ichi Fujimori</td>
+<td><a href="http://arxiv.org/abs/2609.36706">2609.36706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37058.html">Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Bang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37058">2609.37058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="reaction-networks-90d.html">reaction-networks</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>J. Bulíř et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37827.html">Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning</a></div></td>
+<td>Pawel Dabrowski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37827">2609.37827</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Thi Hai Yen Pham et al.</td>
@@ -1100,29 +1124,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02114.html">Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Dirk Wulferding et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02114">2607.02114</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00540.html">A general-purpose atomic cluster expansion interatomic potential for niobium</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Aleksei Egorov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00540">2607.00540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00717.html">Atomic Cluster Expansion Potentials for Screw Dislocations in BCC Refractory Metals</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00717">2607.00717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01362.html">Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
-<td>Weiliang Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01362">2607.01362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01407.html">Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jonathon Cottom et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01407">2607.01407</a></td>
 </tr>
 </tbody></table>

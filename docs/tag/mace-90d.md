@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37638.html">Targeted Visual Counterfactual Explanations for Contrastive Vision-Language Model</a></div></td>
+<td>Van Bach Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37638">2609.37638</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35099.html">E3J: An Efficient and Open-Source Backend for Euclidean Equivariant Operations on GPU and TPU</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Olivier Peltre et al.</td>
@@ -224,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03249.html">Probing a 146 GeV cLFV scalar using the LHC and low-energy experiments</a></div></td>
 <td>Christina Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03249">2607.03249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01408.html">Spin-Weighted Spherical Harmonics Enable Complete and Scalable $\mathrm{E}(3)$-Equivariant Networks</a></div></td>
-<td>Chenxing Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01408">2607.01408</a></td>
 </tr>
 </tbody></table>

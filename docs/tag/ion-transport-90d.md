@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ion-transport — 90d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <strong>90d</strong> <a href="ion-transport-360d.html">360d</a> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08224.html">Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Dereje Bekele Tekliye et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08224">2607.08224</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00932.html">Dynamics of charge fluctuations in nanocapacitors: effects of salt concentration and electrode metallicity from Brownian dynamics</a></div></td>
-<td>Paul Desmarchelier et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00932">2607.00932</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electrocatalysis — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <a href="electrocatalysis-360d.html">360d</a> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30432.html">Activating Basal Planes in Transition Metal Dichalcogenides for CO2 Reduction to CO through Alloying</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="co2-reduction-7d.html">co2-reduction</a> · <a href="hydrogen-evolution-7d.html">hydrogen-evolution</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Eric Montufar-Morales et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30432">2609.30432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="electric-double-layer-7d.html">electric-double-layer</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Thorben Eggert et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
 </tr>
 </tbody></table>

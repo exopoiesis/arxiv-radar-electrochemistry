@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26008.html">Electrolyte Dependent Structure Transport Relationships in Electrodeposited Prussian Blue Analogue Thin Films</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Larissa de O. Garcia et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26008">2609.26008</a></td>
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36758.html">Synthesis and modification of thin NaSICON solid electrolytes using ion beams</a></div></td>
+<td>Giovanni Ceccio et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36758">2609.36758</a></td>
 </tr>
 </tbody></table>

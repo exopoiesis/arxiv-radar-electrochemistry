@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36682.html">Polar-Domain Volume as a Unified Descriptor of Transport in Ionic Liquids</a></div></td>
+<td>Ganesh K. Rajahmundry et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36682">2609.36682</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36269.html">Exit problems for additive-increase and multiplicative-decrease Markov-modulated processes</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a></div></td>
+<td>Bernardo D&#x27;Auria et al.</td>
+<td><a href="http://arxiv.org/abs/2609.36269">2609.36269</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div></td>
@@ -746,29 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02316.html">Molecular interpretability of the bulk electrochemical impedance of concentrated electrolytes</a></div><div class="paper-tags"><a href="impedance-spectroscopy-90d.html">impedance-spectroscopy</a></div></td>
 <td>Connie J. Fairchild et al.</td>
 <td><a href="http://arxiv.org/abs/2607.02316">2607.02316</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00540.html">A general-purpose atomic cluster expansion interatomic potential for niobium</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Aleksei Egorov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00540">2607.00540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00613.html">Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Sheng Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00613">2607.00613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00805.html">Prediction of coherent interfaces between diamond and clathrate structures</a></div></td>
-<td>Eva Pospíšilová et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00805">2607.00805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01407.html">Vitriflow: calibrated amorphous structure ensembles from melt-quench simulation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Jonathon Cottom et al.</td>
-<td><a href="http://arxiv.org/abs/2607.01407">2607.01407</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">817 papers</span>
+  <span class="paper-count">819 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div></td>
+<td>Shin-ichi Fujimori</td>
+<td><a href="http://arxiv.org/abs/2609.36706">2609.36706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37058.html">Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Bang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37058">2609.37058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>J. Bulíř et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37827.html">Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning</a></div></td>
+<td>Pawel Dabrowski et al.</td>
+<td><a href="http://arxiv.org/abs/2609.37827">2609.37827</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
@@ -4904,17 +4928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02593.html">Spin-dependent orbital selectivity and partial Kondo-screening in magnetically ordered Hund&#x27;s metal</a></div></td>
 <td>Shivani Bhardwaj et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02593">2510.02593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05133.html">Coherent Spins in van der Waals Semiconductor GeS2 at Ambient Conditions</a></div></td>
-<td>Sumukh Vaidya et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05133">2507.05133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03975.html">Finding the temperature window for atomic layer deposition of ruthenium metal via efficient phonon calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Alexandr Fonari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03975">2510.03975</a></td>
 </tr>
 </tbody></table>
