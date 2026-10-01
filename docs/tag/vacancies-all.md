@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vacancies — all</h1>
-  <span class="paper-count">343 papers</span>
+  <span class="paper-count">336 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2030,47 +2030,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08947.html">Effect of helium bubbles on the mobility of edge dislocations in copper</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Minh Tam Hoang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.08947">2405.08947</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10156.html">Stacking Polymorphism of PtSe$_{2}$: Its Implication to Layer-dependent Metal-insulator Transitions</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10156">2408.10156</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08858.html">Large Bandgap Observed on the Surfaces of EuZn2As2 Single Crystals</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Dejia Kong et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08858">2408.08858</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06560.html">Influence of Point Defects on Laser-Induced Excitation in Silicon</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Tomohito Otobe et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06560">2408.06560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07270.html">Orientation-dependent surface radiation damage in $β$-Ga2O3 explored by multiscale atomic simulations</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Taiqiao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07270">2408.07270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00639.html">Vacancy-mediated transport and segregation tendencies of solutes in FCC nickel under diffusional creep: A density functional theory study</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Shehab Shousha et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00639">2405.00639</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03549.html">Enhanced hydrogen evolution reaction activity of nitrogen deficient $hg-C_{3}N_{4}$ quantum dot</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03549">2408.03549</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.16469.html">Negative Longitudinal Magnetoresistance in the Dirac Semimetal PtSe$_2$ -- Kondo Effect and Surface Spin Dynamics</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Julian Max Salchegger et al.</td>
-<td><a href="http://arxiv.org/abs/2407.16469">2407.16469</a></td>
 </tr>
 </tbody></table>

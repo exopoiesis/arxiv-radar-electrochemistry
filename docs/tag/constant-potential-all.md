@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>constant-potential — all</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="constant-potential-7d.html">7d</a> <a href="constant-potential-30d.html">30d</a> <a href="constant-potential-90d.html">90d</a> <a href="constant-potential-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00783.html">Microscopic origin of twist-dependent electron transfer rate in bilayer graphene</a></div></td>
 <td>Leonardo Coello Escalante et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00783">2405.00783</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12458.html">A Machine-Learning Accelerated Grand Canonical Sampling Framework for Nuclear Quantum Effects in Constant Potential Electrochemistry</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
-<td>Menglin Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12458">2407.12458</a></td>
 </tr>
 </tbody></table>

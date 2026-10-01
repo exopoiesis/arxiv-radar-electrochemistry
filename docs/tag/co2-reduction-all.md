@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>co2-reduction — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <a href="co2-reduction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11648.html">On the electrochemical CO2 reduction by Bi-based catalysts: single crystals or mixture phases</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="formate-all.html">formate</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
 <td>Mengting Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2409.11648">2409.11648</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11373.html">Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a></div></td>
-<td>Kangwang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11373">2408.11373</a></td>
 </tr>
 </tbody></table>

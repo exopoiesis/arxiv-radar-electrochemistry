@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surface-defects — all</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="surface-defects-7d.html">7d</a> <a href="surface-defects-30d.html">30d</a> <a href="surface-defects-90d.html">90d</a> <a href="surface-defects-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,23 +122,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02204.html">Defects in graphite engineered by ion implantation for the self-assembly of gold nanoparticles</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Yumeng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2411.02204">2411.02204</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03344.html">Molecular dynamics simulations of the defect evolution in tungsten on successive collision cascades</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Utkarsh Bhardwaj et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03344">2405.03344</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12776.html">Surface plasmon-mediated photoluminescence boost in graphene-covered CsPbBr$_3$ quantum dots</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Youngsin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12776">2408.12776</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11127.html">Role of the Adsorption of Alkali Cations on Ultrathin $n$-Layers of Two-dimensional Perovskites</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Israel C. Ribeiro et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11127">2408.11127</a></td>
 </tr>
 </tbody></table>

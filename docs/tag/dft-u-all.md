@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft-u — all</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">92 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <a href="dft-u-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -566,17 +566,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05565.html">Exploring the role of nonlocal Coulomb interactions in perovskite transition metal oxides</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Indukuru Ramesh Reddy et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05565">2407.05565</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12896.html">Identifying band structure changes of FePS3 across the antiferromagnetic phase transition</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Benjamin Pestka et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12896">2408.12896</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07014.html">Exploring the Coexistence of Spin States in [Fe-(tpy-ph)$_2$]$^{2+}$ Complexes on Au(111) using ab initio calculations</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Naveen K. Dandu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07014">2408.07014</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>neb — all</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <a href="neb-30d.html">30d</a> <a href="neb-90d.html">90d</a> <a href="neb-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,17 +674,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00932.html">Stabilization of a transition state by excited vibration and impact on the reaction rate in the three-body Lennard-Jones system</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yoshiyuki Y. Yamaguchi</td>
 <td><a href="http://arxiv.org/abs/2409.00932">2409.00932</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12222.html">Formation mechanism of the (2 x 1) reconstruction of calcite (104)</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="surface-science-all.html">surface-science</a></div></td>
-<td>Haojun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12222">2408.12222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12358.html">Unraveling the Atomic-Scale Pathways Driving Pressure-Induced Phase Transitions in Silicon</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Fabrizio Rovaris et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12358">2408.12358</a></td>
 </tr>
 </tbody></table>

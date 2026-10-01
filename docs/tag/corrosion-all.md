@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>corrosion — all</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <a href="corrosion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,17 +368,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07320.html">Development of an embedded-atom method potential of Ni-Mo alloys for electrocatalysis / surface compositional studies</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Ambesh Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2409.07320">2409.07320</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14905.html">A nonlinear phase-field model of corrosion with charging kinetics of electric double layer</a></div><div class="paper-tags"><a href="electric-double-layer-all.html">electric-double-layer</a></div></td>
-<td>M. Makuch et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14905">2408.14905</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11127.html">Role of the Adsorption of Alkali Cations on Ultrathin $n$-Layers of Two-dimensional Perovskites</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="phase-stability-all.html">phase-stability</a> · <a href="surface-defects-all.html">surface-defects</a></div></td>
-<td>Israel C. Ribeiro et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11127">2408.11127</a></td>
 </tr>
 </tbody></table>

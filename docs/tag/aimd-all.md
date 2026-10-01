@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>aimd — all</h1>
-  <span class="paper-count">221 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,35 +1310,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04219.html">Nano-size nature of the $α$-FAPbI$_3$ by means of large-scale ab initio simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Virginia Carnevali et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04219">2409.04219</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16998.html">Significantly Enhanced Interfacial Thermal Transport between Single-layer Graphene and Water Through Basal-plane Oxidation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Haoran Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16998">2408.16998</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16943.html">Molecular interaction volume model of mixing enthalpy for molten salt system: An integrated calorimetry-model case study of LaCl$_3$-(LiCl-KCl)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Vitaliy G. Goncharov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16943">2408.16943</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12908.html">Carrier Mobility of Strongly Anharmonic Materials from First Principles</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jingkai Quan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12908">2408.12908</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07979.html">Role of host/guest coupling in stabilizing the phases of the over-tolerant hybrid perovskite MHyPbX3</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Pradhi Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07979">2408.07979</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02886.html">Strain-modulated Intercalated Phases of Pb Monolayer with Dual Periodicity in SiC(0001)-Graphene Interface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Lin-Lin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02886">2408.02886</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,23 +818,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17337.html">Raman Spectroscopic Study on Bi2Rh3Se2: Two-dimensional-Ising Charge Density Wave and Quantum Fluctuations</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a></div></td>
 <td>Fei Jiao et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17337">2407.17337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12896.html">Identifying band structure changes of FePS3 across the antiferromagnetic phase transition</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="dft-u-all.html">dft-u</a></div></td>
-<td>Benjamin Pestka et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12896">2408.12896</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07979.html">Role of host/guest coupling in stabilizing the phases of the over-tolerant hybrid perovskite MHyPbX3</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Pradhi Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07979">2408.07979</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05718.html">Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Nikita Medvedev et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05718">2406.05718</a></td>
 </tr>
 </tbody></table>

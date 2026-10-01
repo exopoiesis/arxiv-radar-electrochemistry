@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chalcogenides — all</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <a href="chalcogenides-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,23 +686,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17337.html">Raman Spectroscopic Study on Bi2Rh3Se2: Two-dimensional-Ising Charge Density Wave and Quantum Fluctuations</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
 <td>Fei Jiao et al.</td>
 <td><a href="http://arxiv.org/abs/2407.17337">2407.17337</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00189.html">From ferromagnetic semiconductor to anti-ferromagnetic metal in epitaxial Cr$_x$Te$_y$ monolayers</a></div></td>
-<td>Naina Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00189">2409.00189</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15464.html">Ultrafast symmetry control in photoexcited quantum dots</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Burak Guzelturk et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15464">2408.15464</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03786.html">Understanding the transport behaviour of PbSe: A combined experimental and computational study</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Isha Sihmar et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03786">2408.03786</a></td>
 </tr>
 </tbody></table>

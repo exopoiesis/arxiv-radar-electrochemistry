@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>origin-of-life — all</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <a href="origin-of-life-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,29 +776,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04217.html">The Spatial Distribution of $\rm CH_4$ and $\rm CO_2$ Ice around Protostars IRAS 16253-2429 and IRAS 23385+6053</a></div></td>
 <td>Lei Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04217">2409.04217</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12137.html">Self-Organization in Computation &amp; Chemistry: Return to AlChemy</a></div><div class="paper-tags"><a href="reaction-networks-all.html">reaction-networks</a></div></td>
-<td>Cole Mathis et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12137">2408.12137</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10544.html">A dynamical systems perspective on the celestial mechanical contribution to the emergence of life</a></div></td>
-<td>Fan Zhang</td>
-<td><a href="http://arxiv.org/abs/2408.10544">2408.10544</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08608.html">Formation of the interstellar sugar precursor, (Z)-1,2-ethenediol, through radical reactions on dust grains</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a></div></td>
-<td>Juan Carlos del Valle et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08608">2408.08608</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19108.html">Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction</a></div></td>
-<td>Blaise Agüera y Arcas et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19108">2406.19108</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-stability — all</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <a href="phase-stability-30d.html">30d</a> <a href="phase-stability-90d.html">90d</a> <a href="phase-stability-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,29 +836,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09793.html">Assessing carrier mobility, dopability, and defect tolerance in the chalcogenide perovskite BaZrS$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="chalcogenides-all.html">chalcogenides</a> · <a href="vacancies-all.html">vacancies</a></div></td>
 <td>Zhenkun Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2405.09793">2405.09793</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11127.html">Role of the Adsorption of Alkali Cations on Ultrathin $n$-Layers of Two-dimensional Perovskites</a></div><div class="paper-tags"><a href="corrosion-all.html">corrosion</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="surface-defects-all.html">surface-defects</a></div></td>
-<td>Israel C. Ribeiro et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11127">2408.11127</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10156.html">Stacking Polymorphism of PtSe$_{2}$: Its Implication to Layer-dependent Metal-insulator Transitions</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Jeonghwan Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2408.10156">2408.10156</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07270.html">Orientation-dependent surface radiation damage in $β$-Ga2O3 explored by multiscale atomic simulations</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Taiqiao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07270">2408.07270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02886.html">Strain-modulated Intercalated Phases of Pb Monolayer with Dual Periodicity in SiC(0001)-Graphene Interface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lin-Lin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02886">2408.02886</a></td>
 </tr>
 </tbody></table>

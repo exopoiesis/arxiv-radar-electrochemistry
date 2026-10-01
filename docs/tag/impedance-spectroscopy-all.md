@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — all</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <a href="impedance-spectroscopy-30d.html">30d</a> <a href="impedance-spectroscopy-90d.html">90d</a> <a href="impedance-spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,11 +380,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15842.html">Correlation between Electrochemical Relaxations and Morphologies of Conducting Polymer Dendrites</a></div></td>
 <td>Antoine Baron et al.</td>
 <td><a href="http://arxiv.org/abs/2409.15842">2409.15842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03469.html">Performance Classification and Remaining Useful Life Prediction of Lithium Batteries Using Machine Learning and Early Cycle Electrochemical Impedance Spectroscopy Measurements</a></div></td>
-<td>Christian Parsons et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03469">2408.03469</a></td>
 </tr>
 </tbody></table>

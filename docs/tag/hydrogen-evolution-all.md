@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogen-evolution — all</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="hydrogen-evolution-7d.html">7d</a> <a href="hydrogen-evolution-30d.html">30d</a> <a href="hydrogen-evolution-90d.html">90d</a> <a href="hydrogen-evolution-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,29 +338,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02749.html">Doping-Induced Enhancement of Hydrogen Evolution at MoS2 Electrodes</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
 <td>Sander Ø. Hanslin et al.</td>
 <td><a href="http://arxiv.org/abs/2409.02749">2409.02749</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00515.html">Electrolyte spraying within H$_2$ bubbles during water electrolysis</a></div></td>
-<td>Aleksandr Bashkatov et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00515">2409.00515</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12458.html">A Machine-Learning Accelerated Grand Canonical Sampling Framework for Nuclear Quantum Effects in Constant Potential Electrochemistry</a></div><div class="paper-tags"><a href="constant-potential-all.html">constant-potential</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Menglin Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2407.12458">2407.12458</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12160.html">Mapping Hydrogen Evolution Activity Trends of V-based A15 Superconducting Alloys</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
-<td>Peifeng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12160">2408.12160</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03549.html">Enhanced hydrogen evolution reaction activity of nitrogen deficient $hg-C_{3}N_{4}$ quantum dot</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03549">2408.03549</a></td>
 </tr>
 </tbody></table>

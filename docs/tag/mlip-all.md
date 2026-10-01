@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">246 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1448,47 +1448,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08174.html">Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials</a></div><div class="paper-tags"><a href="mace-all.html">mace</a></div></td>
 <td>Philipp Pracht et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08174">2408.08174</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03344.html">Molecular dynamics simulations of the defect evolution in tungsten on successive collision cascades</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="surface-defects-all.html">surface-defects</a></div></td>
-<td>Utkarsh Bhardwaj et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03344">2405.03344</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14577.html">Accelerated structure-stability energy-free calculator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Alexandre Boucher et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14577">2408.14577</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12358.html">Unraveling the Atomic-Scale Pathways Driving Pressure-Induced Phase Transitions in Silicon</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="neb-all.html">neb</a></div></td>
-<td>Fabrizio Rovaris et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12358">2408.12358</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08654.html">Accelerating ab initio melting property calculations with machine learning: Application to the high entropy alloy TaVCrW</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Li-Fang Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08654">2408.08654</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08006.html">Hessian QM9: A quantum chemistry database of molecular Hessians in implicit solvents</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="implicit-solvation-all.html">implicit-solvation</a></div></td>
-<td>Nicholas J. Williams et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08006">2408.08006</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06908.html">Optical line shapes of color centers in solids from classical autocorrelation functions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Christopher Linderälv et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06908">2408.06908</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05718.html">Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Nikita Medvedev et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05718">2406.05718</a></td>
 </tr>
 </tbody></table>

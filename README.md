@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3517 papers across 26 months.
+**Total corpus:** 3436 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,9 +18,6 @@
     <li><a href=#sulfidation-phase-stability-and-corrosion>Sulfidation, Phase Stability, and Corrosion</a> (50)</li>
     <li><a href=#aqueous-chemistry-and-solvation>Aqueous Chemistry and Solvation</a> (50)</li>
     <li><a href=#origin-of-life-and-prebiotic-mineral-catalysis>Origin of Life and Prebiotic Mineral Catalysis</a> (50)</li>
-    <li><a href=#atomistic-modeling-of-sulfides>Atomistic Modeling of Sulfides</a> (50)</li>
-    <li><a href=#viaauthor-whitelistorigin-of-life-biochemistry-autotrophy>via:author-whitelist:origin of life biochemistry, autotrophy</a> (5)</li>
-    <li><a href=#viaauthor-whitelistiron-sulfide-mineral-surfaces>via:author-whitelist:iron sulfide, mineral surfaces</a> (5)</li>
     <li><a href=#adsorption-and-ion-transport>Adsorption and Ion Transport</a> (24)</li>
     <li><a href=#viaauthor-whitelistaimd-proton-transfer-in-water>via:author-whitelist:AIMD, proton transfer in water</a> (3)</li>
     <li><a href=#viaauthor-whitelistgap-mace-ace>via:author-whitelist:GAP, MACE, ACE</a> (19)</li>
@@ -29,6 +26,8 @@
     <li><a href=#sulfidation-and-phase-stability>Sulfidation and Phase Stability</a> (44)</li>
     <li><a href=#viaauthor-whitelistvdw-ml-force-fields>via:author-whitelist:vdW, ML force fields</a> (10)</li>
     <li><a href=#viaauthor-whitelistneural-network-potentials>via:author-whitelist:neural network potentials</a> (14)</li>
+    <li><a href=#atomistic-modeling-of-sulfides>Atomistic Modeling of Sulfides</a> (50)</li>
+    <li><a href=#viaauthor-whitelistorigin-of-life-biochemistry-autotrophy>via:author-whitelist:origin of life biochemistry, autotrophy</a> (4)</li>
     <li><a href=#viaauthor-whitelistjdftx-electrochemistry-dft-solvation>via:author-whitelist:JDFTx, electrochemistry-DFT, solvation</a> (2)</li>
     <li><a href=#viaauthor-whitelistaimd-proton-transfer>via:author-whitelist:AIMD, proton transfer</a> (3)</li>
     <li><a href=#fe-ni-s-mineral-surfaces>Fe-Ni-S Mineral Surfaces</a> (9)</li>
@@ -47,6 +46,7 @@
     <li><a href=#viaauthor-whitelistproton-transport-ms-evb>via:author-whitelist:proton transport, MS-EVB</a> (2)</li>
     <li><a href=#viaauthor-whitelistmineral-water-interface-dft>via:author-whitelist:mineral-water interface DFT</a> (1)</li>
     <li><a href=#viaauthor-whitelistprebiotic-photochemistry-atmospheric-chem>via:author-whitelist:prebiotic photochemistry, atmospheric chem</a> (3)</li>
+    <li><a href=#viaauthor-whitelistiron-sulfide-mineral-surfaces>via:author-whitelist:iron sulfide, mineral surfaces</a> (4)</li>
     <li><a href=#viaauthor-whitelistreaxff-electrochemistry-co2rr>via:author-whitelist:ReaxFF, electrochemistry, CO2RR</a> (2)</li>
     <li><a href=#viaauthor-whitelistvent-geochemistry-ph-gradients>via:author-whitelist:vent geochemistry, pH gradients</a> (2)</li>
     <li><a href=#viaauthor-whitelistelectrocatalysis-dft>via:author-whitelist:electrocatalysis DFT</a> (2)</li>
@@ -682,87 +682,6 @@
 
 <p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
-## Atomistic Modeling of Sulfides
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-04-15**|**Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3**|Erik Fransson et al.|[2604.13768](http://arxiv.org/abs/2604.13768)|[md](abstracts/2604.13768.md)|
-|**2026-04-10**|**Multiscale simulations guided advances for all-optical phase-change waveguides**|Hanyi Zhang et al.|[2603.18468](http://arxiv.org/abs/2603.18468)|[md](abstracts/2603.18468.md)|
-|**2026-04-10**|**Structural Motif Selection in Fluorinated Metal-Organic Chalcogenides Driven by Ligand Electrostatics**|Md. Saiful Islam et al.|[2604.09864](http://arxiv.org/abs/2604.09864)|[md](abstracts/2604.09864.md)|
-|**2026-03-24**|**Fine-tuning of universal machine-learning interatomic potentials for 2D high-entropy alloys**|Chun Zhou et al.|[2603.23029](http://arxiv.org/abs/2603.23029)|[md](abstracts/2603.23029.md)|
-|**2026-03-23**|**Invariant ionic conductance in an atomically thin polar nanopore**|Shengping Zhang et al.|[2603.21827](http://arxiv.org/abs/2603.21827)|[md](abstracts/2603.21827.md)|
-|**2026-03-12**|**First-principles insights into the optoelectronic and thermoelectric properties of X3NbY4(X= Cu, Ag, Au; Y=S, Se, Te) sulvanite compounds for energy applications**|Sadeya Sabnam Emo et al.|[2603.11733](http://arxiv.org/abs/2603.11733)|[md](abstracts/2603.11733.md)|
-|**2026-03-12**|**Symmetry-Driven Floquet Engineering in Multivalley SnS**|Sotirios Fragkos et al.|[2603.11878](http://arxiv.org/abs/2603.11878)|[md](abstracts/2603.11878.md)|
-|**2026-03-06**|**Real-time exciton dynamics in two-dimensional materials under ultrashort laser pulses**|Dmitry Tumakov et al.|[2603.06446](http://arxiv.org/abs/2603.06446)|[md](abstracts/2603.06446.md)|
-|**2026-03-05**|**Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals**|Junchi Chen et al.|[2603.05420](http://arxiv.org/abs/2603.05420)|[md](abstracts/2603.05420.md)|
-|**2026-03-02**|**Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals**|Fernando M. Fernandes et al.|[2603.02121](http://arxiv.org/abs/2603.02121)|[md](abstracts/2603.02121.md)|
-|**2026-02-27**|**Diverse polymorphism in Ruddlesden-Popper chalcogenides**|Prakriti Kayastha et al.|[2507.11300](http://arxiv.org/abs/2507.11300)|[md](abstracts/2507.11300.md)|
-|**2026-02-25**|**Mimicking the earth core conditions with ultrafast laser materials interaction**|Mohamed Yaseen Noor et al.|[2602.22460](http://arxiv.org/abs/2602.22460)|[md](abstracts/2602.22460.md)|
-|**2026-02-20**|**The Plastic Origin of van der Waals material GaGeTe**|Qiao Wang et al.|[2511.16474](http://arxiv.org/abs/2511.16474)|[md](abstracts/2511.16474.md)|
-|**2026-01-29**|**Synthetic control over marcasite-pyrite polymorph formation in the Fe1-xCoxSe2 series**|Luqman Mustafa et al.|[2601.21790](http://arxiv.org/abs/2601.21790)|[md](abstracts/2601.21790.md)|
-|**2026-01-08**|**Goldene monolayer as a highly effective catalyst for polysulfide anchoring and conversion: A theoretical study**|Nicolas F. Martins et al.|[2601.04952](http://arxiv.org/abs/2601.04952)|[md](abstracts/2601.04952.md)|
-|**2026-01-07**|**Li+/H+ exchange in solid-state oxide Li-ion conductors**|Zhuohan Li et al.|[2509.13477](http://arxiv.org/abs/2509.13477)|[md](abstracts/2509.13477.md)|
-|**2025-12-22**|**Orbital mixing as key ingredient for magnetic order in a van der Waals ferromagnet**|Alessandro De Vita et al.|[2507.04144](http://arxiv.org/abs/2507.04144)|[md](abstracts/2507.04144.md)|
-|**2025-12-04**|**Fate of amine-based selenenyl sulfides during interaction with glutathione reductase: a molecular dynamics perspective**|Vishnu Rama Chari et al.|[2512.04664](http://arxiv.org/abs/2512.04664)|[md](abstracts/2512.04664.md)|
-|**2025-11-19**|**Design Rules for Optimizing Quaternary Mixed-Metal Chalcohalides**|Pascal Henkel et al.|[2505.19882](http://arxiv.org/abs/2505.19882)|[md](abstracts/2505.19882.md)|
-|**2025-11-18**|**5d-mediated indirect exchange and effective spin Hamiltonians in Ce triangular-lattice delafossites**|Leonid V. Pourovskii|[2511.14904](http://arxiv.org/abs/2511.14904)|[md](abstracts/2511.14904.md)|
-|**2025-11-10**|**Bridging the Synthesizability Gap in Perovskites by Combining Computations, Literature Data, and PU Learning**|Rushik Desai et al.|[2510.06166](http://arxiv.org/abs/2510.06166)|[md](abstracts/2510.06166.md)|
-|**2025-10-31**|**Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications**|David Rovira et al.|[2510.27546](http://arxiv.org/abs/2510.27546)|[md](abstracts/2510.27546.md)|
-|**2025-10-20**|**First-Principles Investigation of the Physical and Thermoelectric Properties of Chalcogenide Compounds for Waste-Heat Recovery**|Md Hasan Shahriar Rifat et al.|[2510.18078](http://arxiv.org/abs/2510.18078)|[md](abstracts/2510.18078.md)|
-|**2025-10-14**|**Anharmonic Effects in Ge2Sb2Te5 and Consequences on Thermodynamic Stability**|Owain T. Beynon et al.|[2510.12526](http://arxiv.org/abs/2510.12526)|[md](abstracts/2510.12526.md)|
-|**2025-10-10**|**Quasiparticle effects and strong excitonic features in exfoliable 1D semiconducting materials**|Simone Grillo et al.|[2510.09194](http://arxiv.org/abs/2510.09194)|[md](abstracts/2510.09194.md)|
-|**2025-10-01**|**Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT**|Ahmad Ali et al.|[2510.00955](http://arxiv.org/abs/2510.00955)|[md](abstracts/2510.00955.md)|
-|**2025-09-25**|**Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation**|H. Laltlanmawii et al.|[2509.20845](http://arxiv.org/abs/2509.20845)|[md](abstracts/2509.20845.md)|
-|**2025-09-21**|**Non-excitonic mechanism for electronic and structural phase transitions in Ta2Ni(Se,S)5**|Weichen Tang et al.|[2505.17324](http://arxiv.org/abs/2505.17324)|[md](abstracts/2505.17324.md)|
-|**2025-08-29**|**Origins of chalcogenide perovskite instability**|Adelina Carr et al.|[2506.11224](http://arxiv.org/abs/2506.11224)|[md](abstracts/2506.11224.md)|
-|**2025-08-16**|**Microscopic model of the operation of the Single-chalcogenide X-point Memory**|P. Fantini et al.|[2508.12118](http://arxiv.org/abs/2508.12118)|[md](abstracts/2508.12118.md)|
-|**2025-08-13**|**Raman and IR Signatures of Mo3S4 and Mo3S13 Molybdenum Sulphide Molecular Catalysts for Solar Hydrogen Evolution**|Pardis Adams et al.|[2505.01772](http://arxiv.org/abs/2505.01772)|[md](abstracts/2505.01772.md)|
-|**2025-08-12**|**Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting**|Karthik R et al.|[2508.09317](http://arxiv.org/abs/2508.09317)|[md](abstracts/2508.09317.md)|
-|**2025-08-08**|**Observation of momentum dependent charge density wave gap in EuTe4**|Iftakhar Bin Elius et al.|[2508.06464](http://arxiv.org/abs/2508.06464)|[md](abstracts/2508.06464.md)|
-|**2025-07-15**|**Which chromium-sulfur compounds exist as 2D material?**|Affan Safeer et al.|[2501.09510](http://arxiv.org/abs/2501.09510)|[md](abstracts/2501.09510.md)|
-|**2025-07-10**|**Pressure induced ferromagnetic to antiferromagnetic phase transition in transition metal chalcogenide Cr$_{3}$Te$_4$**|Asish Kumar Mishra et al.|[2507.07650](http://arxiv.org/abs/2507.07650)|[md](abstracts/2507.07650.md)|
-|**2025-07-08**|**Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$**|Jyoti Duhan et al.|[2507.05831](http://arxiv.org/abs/2507.05831)|[md](abstracts/2507.05831.md)|
-|**2025-07-07**|**BaZrS$_\text{3}$ Lights Up: The Interplay of Electrons, Photons, and Phonons in Strongly Luminescent Single Crystals**|Rasmus Svejstrup Nielsen et al.|[2503.16180](http://arxiv.org/abs/2503.16180)|[md](abstracts/2503.16180.md)|
-|**2025-06-30**|**Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study**|Selva Chandrasekaran Selvaraj et al.|[2506.11199](http://arxiv.org/abs/2506.11199)|[md](abstracts/2506.11199.md)|
-|**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et al.|[2506.15223](http://arxiv.org/abs/2506.15223)|[md](abstracts/2506.15223.md)|
-|**2025-05-16**|**Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries**|Vijay Choyal et al.|[2505.10967](http://arxiv.org/abs/2505.10967)|[md](abstracts/2505.10967.md)|
-|**2025-05-14**|**Towards Atomic-Scale Control over Structural Modulations in Quasi-1D Chalcogenides for Colossal Optical Anisotropy**|Guodong Ren et al.|[2505.09717](http://arxiv.org/abs/2505.09717)|[md](abstracts/2505.09717.md)|
-|**2025-05-12**|**Pyrite Bismuth Telluride Heterojunction for Hybrid Electromagnetic to Thermoelectric Energy Harvesting**|Karthik R et al.|[2505.07732](http://arxiv.org/abs/2505.07732)|[md](abstracts/2505.07732.md)|
-|**2025-05-12**|**Electronic structure of monolayer-CrTe$_2$: an antiferromagnetic 2D van der Waals material**|Olivia Armitage et al.|[2505.07942](http://arxiv.org/abs/2505.07942)|[md](abstracts/2505.07942.md)|
-|**2025-05-06**|**Role of seed layer in growing atomically flat TiTe2/Sb2Te3 heterostructure thin films at the wafer scale**|Chao Nie et al.|[2503.00459](http://arxiv.org/abs/2503.00459)|[md](abstracts/2503.00459.md)|
-|**2025-04-16**|**Effect of pressure, doping and magnetism on electronic structure and phonon dispersion of FeSe**|Abyay Ghosh et al.|[2504.12043](http://arxiv.org/abs/2504.12043)|[md](abstracts/2504.12043.md)|
-|**2025-04-02**|**One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges**|Mikel Iraola et al.|[2504.02063](http://arxiv.org/abs/2504.02063)|[md](abstracts/2504.02063.md)|
-|**2025-03-22**|**Phonon-mediated relaxation in nanomaterials from combining Density Functional Theory based non-adiabatic molecular dynamics with Kadanoff-Baym-Keldysh technique**|Hadassah Griffin et al.|[2503.17607](http://arxiv.org/abs/2503.17607)|[md](abstracts/2503.17607.md)|
-|**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et al.|[2503.09092](http://arxiv.org/abs/2503.09092)|[md](abstracts/2503.09092.md)|
-|**2025-03-01**|**Post-Transition Metal Sn-Based Chalcogenide Perovskites: A Promising Lead-Free and Transition Metal Alternative for Stable, High-Performance Photovoltaics**|Surajit Adhikari et al.|[2409.16657](http://arxiv.org/abs/2409.16657)|[md](abstracts/2409.16657.md)|
-|**2025-02-27**|**Electronic Structure, mass fluctuation, and Localized Bond Properties of two-dimensional double-layer transition metal chalcogenide MX$_2$ (M = Mo, W; X = S, Se, Te) Calculated Based on Density Functional Theory and BBC model**|Yaorui Tan et al.|[2412.00792](http://arxiv.org/abs/2412.00792)|[md](abstracts/2412.00792.md)|
-
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
-
-## via:author-whitelist:origin of life biochemistry, autotrophy
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-05-07**|**Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent**|Natalia Mrnjavac et al.|[2510.08410](http://arxiv.org/abs/2510.08410)|[md](abstracts/2510.08410.md)|
-|**2025-10-09**|**GTP before ATP: The energy currency at the origin of genes**|Natalia Mrnjavac et al.|[2403.08744](http://arxiv.org/abs/2403.08744)|[md](abstracts/2403.08744.md)|
-|**2025-06-09**|**Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy**|Yu Liu et al.|[2506.08073](http://arxiv.org/abs/2506.08073)|[md](abstracts/2506.08073.md)|
-|**2024-10-03**|**Insights into Chemical and Structural Order at Planar Defects in a Functional Oxide Using Multislice Electron Ptychography**|Menglin Zhu et al.|[2403.04904](http://arxiv.org/abs/2403.04904)|[md](abstracts/2403.04904.md)|
-|**2024-08-21**|**Bridging experiment and theory of relaxor ferroelectrics at the atomic scale with multislice electron ptychography**|Menglin Zhu et al.|[2408.11685](http://arxiv.org/abs/2408.11685)|[md](abstracts/2408.11685.md)|
-
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
-
-## via:author-whitelist:iron sulfide, mineral surfaces
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-06-26**|**In-liquid Plasma Catalysis for Nitrogen Reduction**|P. Grosse et al.|[2506.21791](http://arxiv.org/abs/2506.21791)|[md](abstracts/2506.21791.md)|
-|**2025-05-19**|**Variability analysis in memristors based on electrodeposited prussian blue**|L. B. Avila et al.|[2505.12956](http://arxiv.org/abs/2505.12956)|[md](abstracts/2505.12956.md)|
-|**2025-04-24**|**The need for statistical physics in Africa: perspective and an illustration in drug delivery problems**|Mtabazi G. Sahini et al.|[2504.17452](http://arxiv.org/abs/2504.17452)|[md](abstracts/2504.17452.md)|
-|**2025-04-07**|**Realizing Scalable Chemical Vapour Deposition of Monolayer Graphene Films on Iron with Concurrent Surface Hardening by in situ Observations**|Bernhard Fickl et al.|[2504.05417](http://arxiv.org/abs/2504.05417)|[md](abstracts/2504.05417.md)|
-|**2024-08-26**|**Accelerated structure-stability energy-free calculator**|Alexandre Boucher et al.|[2408.14577](http://arxiv.org/abs/2408.14577)|[md](abstracts/2408.14577.md)|
-
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
-
 ## Adsorption and Ion Transport
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -940,6 +859,74 @@
 |**2024-10-14**|**Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water**|Nore Stolte et al.|[2410.10698](http://arxiv.org/abs/2410.10698)|[md](abstracts/2410.10698.md)|
 |**2024-10-04**|**Machine learning potentials for redox chemistry in solution**|Emir Kocer et al.|[2410.03299](http://arxiv.org/abs/2410.03299)|[md](abstracts/2410.03299.md)|
 |**2024-09-17**|**A High-Dimensional Neural Network Potential for Co$_3$O$_4$**|Amir Omranpour et al.|[2409.11037](http://arxiv.org/abs/2409.11037)|[md](abstracts/2409.11037.md)|
+
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+
+## Atomistic Modeling of Sulfides
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-04-15**|**Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3**|Erik Fransson et al.|[2604.13768](http://arxiv.org/abs/2604.13768)|[md](abstracts/2604.13768.md)|
+|**2026-04-10**|**Multiscale simulations guided advances for all-optical phase-change waveguides**|Hanyi Zhang et al.|[2603.18468](http://arxiv.org/abs/2603.18468)|[md](abstracts/2603.18468.md)|
+|**2026-04-10**|**Structural Motif Selection in Fluorinated Metal-Organic Chalcogenides Driven by Ligand Electrostatics**|Md. Saiful Islam et al.|[2604.09864](http://arxiv.org/abs/2604.09864)|[md](abstracts/2604.09864.md)|
+|**2026-03-24**|**Fine-tuning of universal machine-learning interatomic potentials for 2D high-entropy alloys**|Chun Zhou et al.|[2603.23029](http://arxiv.org/abs/2603.23029)|[md](abstracts/2603.23029.md)|
+|**2026-03-23**|**Invariant ionic conductance in an atomically thin polar nanopore**|Shengping Zhang et al.|[2603.21827](http://arxiv.org/abs/2603.21827)|[md](abstracts/2603.21827.md)|
+|**2026-03-12**|**First-principles insights into the optoelectronic and thermoelectric properties of X3NbY4(X= Cu, Ag, Au; Y=S, Se, Te) sulvanite compounds for energy applications**|Sadeya Sabnam Emo et al.|[2603.11733](http://arxiv.org/abs/2603.11733)|[md](abstracts/2603.11733.md)|
+|**2026-03-12**|**Symmetry-Driven Floquet Engineering in Multivalley SnS**|Sotirios Fragkos et al.|[2603.11878](http://arxiv.org/abs/2603.11878)|[md](abstracts/2603.11878.md)|
+|**2026-03-06**|**Real-time exciton dynamics in two-dimensional materials under ultrashort laser pulses**|Dmitry Tumakov et al.|[2603.06446](http://arxiv.org/abs/2603.06446)|[md](abstracts/2603.06446.md)|
+|**2026-03-05**|**Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals**|Junchi Chen et al.|[2603.05420](http://arxiv.org/abs/2603.05420)|[md](abstracts/2603.05420.md)|
+|**2026-03-02**|**Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals**|Fernando M. Fernandes et al.|[2603.02121](http://arxiv.org/abs/2603.02121)|[md](abstracts/2603.02121.md)|
+|**2026-02-27**|**Diverse polymorphism in Ruddlesden-Popper chalcogenides**|Prakriti Kayastha et al.|[2507.11300](http://arxiv.org/abs/2507.11300)|[md](abstracts/2507.11300.md)|
+|**2026-02-25**|**Mimicking the earth core conditions with ultrafast laser materials interaction**|Mohamed Yaseen Noor et al.|[2602.22460](http://arxiv.org/abs/2602.22460)|[md](abstracts/2602.22460.md)|
+|**2026-02-20**|**The Plastic Origin of van der Waals material GaGeTe**|Qiao Wang et al.|[2511.16474](http://arxiv.org/abs/2511.16474)|[md](abstracts/2511.16474.md)|
+|**2026-01-29**|**Synthetic control over marcasite-pyrite polymorph formation in the Fe1-xCoxSe2 series**|Luqman Mustafa et al.|[2601.21790](http://arxiv.org/abs/2601.21790)|[md](abstracts/2601.21790.md)|
+|**2026-01-08**|**Goldene monolayer as a highly effective catalyst for polysulfide anchoring and conversion: A theoretical study**|Nicolas F. Martins et al.|[2601.04952](http://arxiv.org/abs/2601.04952)|[md](abstracts/2601.04952.md)|
+|**2026-01-07**|**Li+/H+ exchange in solid-state oxide Li-ion conductors**|Zhuohan Li et al.|[2509.13477](http://arxiv.org/abs/2509.13477)|[md](abstracts/2509.13477.md)|
+|**2025-12-22**|**Orbital mixing as key ingredient for magnetic order in a van der Waals ferromagnet**|Alessandro De Vita et al.|[2507.04144](http://arxiv.org/abs/2507.04144)|[md](abstracts/2507.04144.md)|
+|**2025-12-04**|**Fate of amine-based selenenyl sulfides during interaction with glutathione reductase: a molecular dynamics perspective**|Vishnu Rama Chari et al.|[2512.04664](http://arxiv.org/abs/2512.04664)|[md](abstracts/2512.04664.md)|
+|**2025-11-19**|**Design Rules for Optimizing Quaternary Mixed-Metal Chalcohalides**|Pascal Henkel et al.|[2505.19882](http://arxiv.org/abs/2505.19882)|[md](abstracts/2505.19882.md)|
+|**2025-11-18**|**5d-mediated indirect exchange and effective spin Hamiltonians in Ce triangular-lattice delafossites**|Leonid V. Pourovskii|[2511.14904](http://arxiv.org/abs/2511.14904)|[md](abstracts/2511.14904.md)|
+|**2025-11-10**|**Bridging the Synthesizability Gap in Perovskites by Combining Computations, Literature Data, and PU Learning**|Rushik Desai et al.|[2510.06166](http://arxiv.org/abs/2510.06166)|[md](abstracts/2510.06166.md)|
+|**2025-10-31**|**Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications**|David Rovira et al.|[2510.27546](http://arxiv.org/abs/2510.27546)|[md](abstracts/2510.27546.md)|
+|**2025-10-20**|**First-Principles Investigation of the Physical and Thermoelectric Properties of Chalcogenide Compounds for Waste-Heat Recovery**|Md Hasan Shahriar Rifat et al.|[2510.18078](http://arxiv.org/abs/2510.18078)|[md](abstracts/2510.18078.md)|
+|**2025-10-14**|**Anharmonic Effects in Ge2Sb2Te5 and Consequences on Thermodynamic Stability**|Owain T. Beynon et al.|[2510.12526](http://arxiv.org/abs/2510.12526)|[md](abstracts/2510.12526.md)|
+|**2025-10-10**|**Quasiparticle effects and strong excitonic features in exfoliable 1D semiconducting materials**|Simone Grillo et al.|[2510.09194](http://arxiv.org/abs/2510.09194)|[md](abstracts/2510.09194.md)|
+|**2025-10-01**|**Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT**|Ahmad Ali et al.|[2510.00955](http://arxiv.org/abs/2510.00955)|[md](abstracts/2510.00955.md)|
+|**2025-09-25**|**Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation**|H. Laltlanmawii et al.|[2509.20845](http://arxiv.org/abs/2509.20845)|[md](abstracts/2509.20845.md)|
+|**2025-09-21**|**Non-excitonic mechanism for electronic and structural phase transitions in Ta2Ni(Se,S)5**|Weichen Tang et al.|[2505.17324](http://arxiv.org/abs/2505.17324)|[md](abstracts/2505.17324.md)|
+|**2025-08-29**|**Origins of chalcogenide perovskite instability**|Adelina Carr et al.|[2506.11224](http://arxiv.org/abs/2506.11224)|[md](abstracts/2506.11224.md)|
+|**2025-08-16**|**Microscopic model of the operation of the Single-chalcogenide X-point Memory**|P. Fantini et al.|[2508.12118](http://arxiv.org/abs/2508.12118)|[md](abstracts/2508.12118.md)|
+|**2025-08-13**|**Raman and IR Signatures of Mo3S4 and Mo3S13 Molybdenum Sulphide Molecular Catalysts for Solar Hydrogen Evolution**|Pardis Adams et al.|[2505.01772](http://arxiv.org/abs/2505.01772)|[md](abstracts/2505.01772.md)|
+|**2025-08-12**|**Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting**|Karthik R et al.|[2508.09317](http://arxiv.org/abs/2508.09317)|[md](abstracts/2508.09317.md)|
+|**2025-08-08**|**Observation of momentum dependent charge density wave gap in EuTe4**|Iftakhar Bin Elius et al.|[2508.06464](http://arxiv.org/abs/2508.06464)|[md](abstracts/2508.06464.md)|
+|**2025-07-15**|**Which chromium-sulfur compounds exist as 2D material?**|Affan Safeer et al.|[2501.09510](http://arxiv.org/abs/2501.09510)|[md](abstracts/2501.09510.md)|
+|**2025-07-10**|**Pressure induced ferromagnetic to antiferromagnetic phase transition in transition metal chalcogenide Cr$_{3}$Te$_4$**|Asish Kumar Mishra et al.|[2507.07650](http://arxiv.org/abs/2507.07650)|[md](abstracts/2507.07650.md)|
+|**2025-07-08**|**Strong acoustic phonon suppression leads to ultralow thermal conductivity and enhanced thermoelectric performance in BaCuGdTe$_3$**|Jyoti Duhan et al.|[2507.05831](http://arxiv.org/abs/2507.05831)|[md](abstracts/2507.05831.md)|
+|**2025-07-07**|**BaZrS$_\text{3}$ Lights Up: The Interplay of Electrons, Photons, and Phonons in Strongly Luminescent Single Crystals**|Rasmus Svejstrup Nielsen et al.|[2503.16180](http://arxiv.org/abs/2503.16180)|[md](abstracts/2503.16180.md)|
+|**2025-06-30**|**Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study**|Selva Chandrasekaran Selvaraj et al.|[2506.11199](http://arxiv.org/abs/2506.11199)|[md](abstracts/2506.11199.md)|
+|**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et al.|[2506.15223](http://arxiv.org/abs/2506.15223)|[md](abstracts/2506.15223.md)|
+|**2025-05-16**|**Exploration of amorphous V$_2$O$_5$ as cathode for magnesium batteries**|Vijay Choyal et al.|[2505.10967](http://arxiv.org/abs/2505.10967)|[md](abstracts/2505.10967.md)|
+|**2025-05-14**|**Towards Atomic-Scale Control over Structural Modulations in Quasi-1D Chalcogenides for Colossal Optical Anisotropy**|Guodong Ren et al.|[2505.09717](http://arxiv.org/abs/2505.09717)|[md](abstracts/2505.09717.md)|
+|**2025-05-12**|**Pyrite Bismuth Telluride Heterojunction for Hybrid Electromagnetic to Thermoelectric Energy Harvesting**|Karthik R et al.|[2505.07732](http://arxiv.org/abs/2505.07732)|[md](abstracts/2505.07732.md)|
+|**2025-05-12**|**Electronic structure of monolayer-CrTe$_2$: an antiferromagnetic 2D van der Waals material**|Olivia Armitage et al.|[2505.07942](http://arxiv.org/abs/2505.07942)|[md](abstracts/2505.07942.md)|
+|**2025-05-06**|**Role of seed layer in growing atomically flat TiTe2/Sb2Te3 heterostructure thin films at the wafer scale**|Chao Nie et al.|[2503.00459](http://arxiv.org/abs/2503.00459)|[md](abstracts/2503.00459.md)|
+|**2025-04-16**|**Effect of pressure, doping and magnetism on electronic structure and phonon dispersion of FeSe**|Abyay Ghosh et al.|[2504.12043](http://arxiv.org/abs/2504.12043)|[md](abstracts/2504.12043.md)|
+|**2025-04-02**|**One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges**|Mikel Iraola et al.|[2504.02063](http://arxiv.org/abs/2504.02063)|[md](abstracts/2504.02063.md)|
+|**2025-03-22**|**Phonon-mediated relaxation in nanomaterials from combining Density Functional Theory based non-adiabatic molecular dynamics with Kadanoff-Baym-Keldysh technique**|Hadassah Griffin et al.|[2503.17607](http://arxiv.org/abs/2503.17607)|[md](abstracts/2503.17607.md)|
+|**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et al.|[2503.09092](http://arxiv.org/abs/2503.09092)|[md](abstracts/2503.09092.md)|
+|**2025-03-01**|**Post-Transition Metal Sn-Based Chalcogenide Perovskites: A Promising Lead-Free and Transition Metal Alternative for Stable, High-Performance Photovoltaics**|Surajit Adhikari et al.|[2409.16657](http://arxiv.org/abs/2409.16657)|[md](abstracts/2409.16657.md)|
+|**2025-02-27**|**Electronic Structure, mass fluctuation, and Localized Bond Properties of two-dimensional double-layer transition metal chalcogenide MX$_2$ (M = Mo, W; X = S, Se, Te) Calculated Based on Density Functional Theory and BBC model**|Yaorui Tan et al.|[2412.00792](http://arxiv.org/abs/2412.00792)|[md](abstracts/2412.00792.md)|
+
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+
+## via:author-whitelist:origin of life biochemistry, autotrophy
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-05-07**|**Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent**|Natalia Mrnjavac et al.|[2510.08410](http://arxiv.org/abs/2510.08410)|[md](abstracts/2510.08410.md)|
+|**2025-10-09**|**GTP before ATP: The energy currency at the origin of genes**|Natalia Mrnjavac et al.|[2403.08744](http://arxiv.org/abs/2403.08744)|[md](abstracts/2403.08744.md)|
+|**2025-06-09**|**Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy**|Yu Liu et al.|[2506.08073](http://arxiv.org/abs/2506.08073)|[md](abstracts/2506.08073.md)|
+|**2024-10-03**|**Insights into Chemical and Structural Order at Planar Defects in a Functional Oxide Using Multislice Electron Ptychography**|Menglin Zhu et al.|[2403.04904](http://arxiv.org/abs/2403.04904)|[md](abstracts/2403.04904.md)|
 
 <p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
@@ -1182,6 +1169,17 @@
 |**2025-06-30**|**Testing Origin-of-Life Theories with the Habitable Worlds Observatory (HWO)**|Sukrit Ranjan et al.|[2507.00164](http://arxiv.org/abs/2507.00164)|[md](abstracts/2507.00164.md)|
 |**2025-06-30**|**Prebiosignatures with the Habitable Worlds Observatory (HWO)**|Sukrit Ranjan et al.|[2507.00165](http://arxiv.org/abs/2507.00165)|[md](abstracts/2507.00165.md)|
 |**2025-04-05**|**Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life**|Martin Schlecker et al.|[2504.04261](http://arxiv.org/abs/2504.04261)|[md](abstracts/2504.04261.md)|
+
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+
+## via:author-whitelist:iron sulfide, mineral surfaces
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-06-26**|**In-liquid Plasma Catalysis for Nitrogen Reduction**|P. Grosse et al.|[2506.21791](http://arxiv.org/abs/2506.21791)|[md](abstracts/2506.21791.md)|
+|**2025-05-19**|**Variability analysis in memristors based on electrodeposited prussian blue**|L. B. Avila et al.|[2505.12956](http://arxiv.org/abs/2505.12956)|[md](abstracts/2505.12956.md)|
+|**2025-04-24**|**The need for statistical physics in Africa: perspective and an illustration in drug delivery problems**|Mtabazi G. Sahini et al.|[2504.17452](http://arxiv.org/abs/2504.17452)|[md](abstracts/2504.17452.md)|
+|**2025-04-07**|**Realizing Scalable Chemical Vapour Deposition of Monolayer Graphene Films on Iron with Concurrent Surface Hardening by in situ Observations**|Bernhard Fickl et al.|[2504.05417](http://arxiv.org/abs/2504.05417)|[md](abstracts/2504.05417.md)|
 
 <p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>surface-science — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="surface-science-7d.html">7d</a> <a href="surface-science-30d.html">30d</a> <a href="surface-science-90d.html">90d</a> <a href="surface-science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13836.html">Fool&#x27;s gold: ligand-receptor interactions and the origins of life</a></div><div class="paper-tags"><a href="autocatalysis-all.html">autocatalysis</a> · <a href="origin-of-life-all.html">origin-of-life</a> · <a href="pyrite-all.html">pyrite</a></div></td>
 <td>Betony Adams et al.</td>
 <td><a href="http://arxiv.org/abs/2412.13836">2412.13836</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12222.html">Formation mechanism of the (2 x 1) reconstruction of calcite (104)</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="neb-all.html">neb</a></div></td>
-<td>Haojun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12222">2408.12222</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12790.html">Dissociative Electron Attachment on Metal Surfaces: The Case of HCl$^-$ on Au(111)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Robin E. Moorby et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12790">2406.12790</a></td>
 </tr>
 </tbody></table>

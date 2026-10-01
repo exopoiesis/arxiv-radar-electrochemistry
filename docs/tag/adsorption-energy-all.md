@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption-energy — all</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <a href="adsorption-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,17 +614,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03857.html">Factors influencing quantum evaporation of helium from polar semiconductors from first principles</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Lakshay Dheer et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03857">2409.03857</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11238.html">GAP-DFT: A graph-based alchemical perturbation density functional theory for catalytic high-entropy alloys</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Mohamed Hendy et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11238">2408.11238</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03549.html">Enhanced hydrogen evolution reaction activity of nitrogen deficient $hg-C_{3}N_{4}$ quantum dot</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Khushboo Dange et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03549">2408.03549</a></td>
 </tr>
 </tbody></table>
