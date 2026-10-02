@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-10-01._
+_Updated 2026-10-02._
 
-**3436** relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3444** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,54 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.00963.html">Topological robustness of thermally disordered lattices: From average structures to ensemble electronic properties</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Oleg Rubel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.00963">2610.00963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01036.html">Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
+<td>Lei Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01036">2610.01036</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Diptendu Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01070">2610.01070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Mengyi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01432">2610.01432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01549.html">Molecular Dynamics with Nuclear Effects on Quantum Computers</a></div><div class="paper-tags"><a href="tag/grotthuss-30d.html">grotthuss</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Lukas Haßfurth et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01549">2610.01549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01636.html">Autocatalysis and Boundary Stability in Chemical Reaction Systems</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Matthew D. Johnston et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01636">2610.01636</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01990.html">Frustration-induced multiferroicity in hauerite MnS2</a></div><div class="paper-tags"><a href="tag/pyrite-30d.html">pyrite</a></div></td>
+<td>Vilmos Kocsis et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01990">2610.01990</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.36682.html">Polar-Domain Volume as a Unified Descriptor of Transport in Ionic Liquids</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -147,53 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30970.html">Large-deviations theory for growing chemical reaction networks</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
 <td>Praful Gagrani et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30970">2609.30970</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.31079.html">Unraveling the electronic structure and the oxygen $K$-edge x-ray absorption near-edge structure spectrum of DyFeO$_3$</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>G. Gebreyesus et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31079">2609.31079</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.31265.html">Steady--State Current Signatures of Strong Light--Matter Coupling in Single--Molecule Junctions</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Kritanjan Polley et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31265">2609.31265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.31270.html">Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Roshal Perepadan Shaju et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31270">2609.31270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.31277.html">High-throughput computational discovery of CuI-based ternary $p$-type transparent conductors</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
-<td>Michael Seifert et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31277">2609.31277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.31533.html">Structural prediction of B$_{18}$Y$_{2}$ cluster: A Machine-Learning-Assisted Basin-Hopping Study</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a></div></td>
-<td>Peter Ludwig Rodríguez-Kessler</td>
-<td><a href="http://arxiv.org/abs/2609.31533">2609.31533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/neb-30d.html">neb</a></div></td>
-<td>Wanrun Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.29900.html">Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
-<td>Edgardo Villar-Sepúlveda et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29900">2609.29900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="tag/corrosion-30d.html">corrosion</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
-<td>Ken J. Jenewein et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
 </tr>
 </tbody></table>

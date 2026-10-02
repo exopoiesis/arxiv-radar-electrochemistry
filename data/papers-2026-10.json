@@ -1,0 +1,223 @@
+{
+ "2610.00963": {
+  "abstract": "Band topology is usually assigned to a single crystal structure, yet at finite temperature a crystal is an ensemble of thermally disordered configurations with a fluctuating band gap. We ask whether the thermally averaged structure is a faithful proxy for this ensemble, taking Bi$_2$Se$_3$ as a representative topological insulator and classifying band ordering in each ab initio molecular dynamics snapshot by scaling the spin-orbit coupling. The averaged structure fails in two ways: it misses the Rashba-like spin splitting that instantaneous symmetry breaking produces in individual configurations, and it substantially underestimates the band-gap renormalization, whereas a small ensemble of harmonic Monte Carlo configurations reproduces both the mean and the spread of the gap. Using a band-inversion survival probability, we find that the band inversion of Bi$_2$Se$_3$ holds in every sampled configuration up to 600 K, above which individual configurations cross into normal band ordering well before the average gap closes. Topological robustness at finite temperature is thus a property of the distribution over configurations rather than of any single structure.",
+  "authors": [
+   "Oleg Rubel",
+   "Karekin Sadikian"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "23 pages, 7 figures. Data available at https://doi.org/10.5281/zenodo.23067045",
+  "first_author": "Oleg Rubel",
+  "pdf_url": "http://arxiv.org/pdf/2610.00963",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-01",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Topological robustness of thermally disordered lattices: From average structures to ensemble electronic properties",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01036": {
+  "abstract": "Equivariant atomistic foundation models provide broadly transferable interatomic potentials trained against quantum-mechanical reference data, but their repeated execution at simulation scale remains computationally and memory intensive. We present Symmetrix-XL, an inference engine that scales pretrained MACE checkpoints without retraining, distillation, or modification of their learned weights. It combines streamed-edge execution to avoid graph-wide materialization of expanded edge intermediates, model-specialized code generation to compile checkpoint-specific operators, and tiled execution to reuse a bounded device-memory workspace. On complete LAMMPS-step benchmarks, Symmetrix-XL reduces inference time by 3.1-5.0 times relative to ML-IAP + cuEquivariance across tested A100 and RTX 5090 workloads. On a single A100 80 GB GPU, the tested MACE-OMAT-0 capacity boundary increases from 24,565 atoms to 11.24 million atoms. This substantially lowers the hardware threshold for simulations that would otherwise require spatial decomposition across many GPUs and compute nodes. The same backend weak-scales to 703 million atoms on 64 A800 GPUs at 93.8 percent efficiency. Energy, force, stress, molecular-dynamics stability, and Matbench Discovery evaluations reproduce reference MACE behavior within measured tolerances. Case studies spanning solid-state, interfacial, and reactive systems demonstrate the increased capacity in realistic workflows. These results establish post-training execution as a scaling axis complementary to model redesign, compression, and distributed scale-out, and show that the practical accuracy-cost frontier depends on both model architecture and inference execution.",
+  "authors": [
+   "Lei Fu",
+   "Zihui Feng",
+   "Yongheng Li",
+   "Hongwei Du",
+   "Xin He",
+   "Junyi Wu",
+   "Kejie Bao",
+   "Yueyu Zhang",
+   "Zeyu Deng",
+   "Ziheng Lu",
+   "Bonan Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Lei Fu",
+  "pdf_url": "http://arxiv.org/pdf/2610.01036",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-01",
+  "tags": [
+   "mace"
+  ],
+  "title": "Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01070": {
+  "abstract": "Ion transport controls the macroscopic performance of solid electrolytes, battery electrodes, ion-selective membranes, electrolysis ceramics, mixed conductors, porous sorbents, and biological channels. In each case, ion transport is determined by structural characteristics, namely the available diffusion pathways and the specific bottleneck atoms that limit the ionic jumps. These are intrinsic properties of the crystalline framework, whereas temperature, carrier concentration, and correlated motion govern the transport rate. Ab initio molecular dynamics (AIMD) resolves the mechanism directly but is too costly for materials screening, and most surrogate models give only a single transport number. Here we present a calibration-free method for determining the mechanism, based on Topo-Spectral Percolation Descriptors (TSPD). TSPD obtains the transport mechanism from a single static structure in seconds. It constructs a periodic migration network whose edge barriers are computed from physics-based energetics. We then analyze the barrier-threshold topology of this network and the spectrum of its barrier-weighted graph Laplacian. To establish its validity for computational solid-state ionics, we test TSPD against AIMD ion densities and neutron diffraction data for eight materials, including cathodes and solid electrolytes, whose transport ranges from one- to three-dimensional. TSPD reproduces the established mechanism in every case and correctly identifies structures in which geometric openness does not imply viable ion percolation. The method is most informative for pathway-limited, direction-dependent transport, and it complements full dynamical simulations for strongly cooperative or nearly isotropic transport.",
+  "authors": [
+   "Diptendu Roy",
+   "Chiku Parida",
+   "Juan María García-Lastra",
+   "Arghya Bhowmik"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Diptendu Roy",
+  "pdf_url": "http://arxiv.org/pdf/2610.01070",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-01",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01432": {
+  "abstract": "Simulating microstructure evolution requires quantum-mechanical accuracy and mesoscopic reach in length and time scales, a combination that no current method achieves. Classical phase-field models provide this reach, but their accuracy is limited by phenomenological free energies and mobilities. Here we develop a framework for learning ab initio phase-field models, where the mesoscopic equation is not postulated but derived from a Mori-Zwanzig projection of molecular dynamics onto species-density fields under explicit assumptions. The nonlocal free energy and mobility left unspecified by this equation are parametrized by neural networks and learned from short molecular dynamics trajectories generated with machine-learning interatomic potentials of ab initio accuracy. We demonstrate the framework on an iron-boron melt and on hydrogen-helium mixtures under planetary conditions. For iron-boron, the model shows that the melt at the FeB$_4$ composition is spinodally unstable at ambient pressure but stabilized at 10 GPa, offering a thermodynamic rationale for why FeB$_4$ has been synthesized only under high pressure. For hydrogen-helium, the model predicts the immiscibility boundary and captures droplet nucleation and growth in helium-rain simulations of a column corresponding to 2.2 million atoms, far beyond the scale of atomistic modeling at comparable accuracy. Trained across compositions and conditions, such models could provide a mesoscopic counterpart to ab initio molecular dynamics.",
+  "authors": [
+   "Mengyi Chen",
+   "Peichen Zhong",
+   "Zihan Zhang",
+   "Qianxiao Li"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mengyi Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.01432",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-10-01",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Learning ab initio phase-field models",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01549": {
+  "abstract": "Nuclear quantum effects are critical for describing proton transfer and hydrogen bonding, but their incorporation into quantum chemistry calculations is often computationally prohibitive on classical hardware. A promising alternative are quantum computers due to their linear scaling in the space requirements with system size. We introduce a novel hybrid quantum-classical algorithm for ab-initio molecular dynamics that incorporates nuclear quantum effects via the nuclear-electronic orbital method. The proposed algorithm evaluates ground state energies and forces on the quantum computer using a variational quantum eigensolver, while the molecular geometries are updated classically. We validate our approach through simulations of $\\text{H}_2$, $\\text{H}_2\\text{O}$ and the Zundel ion $\\text{H}_5\\text{O}_2^+$, comparing the simulated vibrational spectra with experimental data. Upon inclusion of nuclear quantum effects, the proton shuttling movement in the Zundel ion becomes effectively barrierless, and errors in the simulated frequencies improve significantly. Employing compact hardware-efficient ansatz circuits we achieve results comparable to the more accurate UCCSD ansatzes, which hints towards the feasibility of executing our algorithm on near-term quantum devices.",
+  "authors": [
+   "Lukas Haßfurth",
+   "Juliane Heitkämper",
+   "Elias Walter",
+   "Birger Horstmann"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "21 pages, 14 figures",
+  "first_author": "Lukas Haßfurth",
+  "pdf_url": "http://arxiv.org/pdf/2610.01549",
+  "primary_category": "quant-ph",
+  "published": "2026-10-01",
+  "tags": [
+   "grotthuss",
+   "molecular-dynamics"
+  ],
+  "title": "Molecular Dynamics with Nuclear Effects on Quantum Computers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01576": {
+  "abstract": "Phyllosilicate clays are widely used in polymer nanocomposites owing to their high anisotropy and tunable surface polarity. Their distribution and interface localization in polymer blends can be used to tune the properties of polymer-clay nanocomposites (PCNCs). A coarse-grained (CG) force field for clays can aid molecular simulations in PCNC development. Here, we developed MARTINI-3 parameters, a CG force field with high chemical specificity, for phyllosilicate clays with diverse surface polarities. Initial interactions for the clay functional groups were determined from hydration free energies, obtained by applying the Lifshitz theory to experimental surface tension data. These were fine-tuned using the structural, thermodynamic, and dynamic properties of thermoplastic starch (TPS)-clay composites from all-atom (AA) molecular dynamics (MD) simulations. The radial distribution function and two-body excess entropy of TPS components, not used in CG parameterization, were accurately estimated, establishing the robustness of the parameters. We investigated the effect of clay surface polarity on polymer segmental dynamics and structure-property relationships. The CG parameters were then used to study the effect of dodecyltrimethylammonium (C12TAB)-modified montmorillonite (MMT), an organically-modified MMT, on TPS-polyethylene (PE) blend morphology using large time- and length-scale MD simulations. We observed compatibilization of the TPS-PE interphase by the amphiphilic clay particle, reducing the TPS-PE interfacial tension from 45 mN/m to 13.06 mN/m. We found good agreement between MARTINI-3 estimates for properties of model MMT-based PCNCs and those from AA simulations and experimental data, establishing grounds for the transferability of the parameters to other systems.",
+  "authors": [
+   "Ankit Patidar",
+   "Gaurav Goel"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Ankit Patidar",
+  "pdf_url": "http://arxiv.org/pdf/2610.01576",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01636": {
+  "abstract": "The next-generation matrix method is a powerful tool for computing the basic reproduction number in compartmental mathematical models of infectious diseases. The method has been recently extended to mathematical biochemistry, where it can be used to establish parameter regions of stability and instability for boundary steady states. Several significant challenges in its application remain, however, particularly around establishing conditions under which the method is mathematically valid, computationally tractable, and biologically meaningful in the biochemical setting. In this paper, we address these challenges by shifting the interpretation from new infections in the epidemiological setting to autocatalysis in the biochemical setting. We introduce a graph, called the ALT-graph (autocatalysis-leak-transition graph), which decomposes the contribution of each reaction to the Jacobian as autocatalytic, leak, or transition edges. We then present a systematic algorithm for splitting the ALT-graph, which is guaranteed to produce a valid reproduction number, $ρ(FV^{-1})$, while also decreasing computational complexity by lowering the rank of $FV^{-1}$. We apply the method to models of both biochemical reaction networks and infectious disease spread.",
+  "authors": [
+   "Matthew D. Johnston",
+   "Pol Jarne Cupons"
+  ],
+  "categories": [
+   "math.DS",
+   "q-bio.MN"
+  ],
+  "comment": null,
+  "first_author": "Matthew D. Johnston",
+  "pdf_url": "http://arxiv.org/pdf/2610.01636",
+  "primary_category": "math.DS",
+  "published": "2026-10-01",
+  "tags": [
+   "autocatalysis",
+   "reaction-networks"
+  ],
+  "title": "Autocatalysis and Boundary Stability in Chemical Reaction Systems",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01990": {
+  "abstract": "Pyrite-type mineral hauerite MnS$_2$ is a magnetic insulator with localized $S=\\frac52$ moments. Below 48 K, it develops a collinear antiferromagnetic order, accompanied by unit-cell doubling and breaking the inversion symmetry. We demonstrate that the latter gives rise to a ferroelectric polarization of up to 360 $μ$C/m$^2$ rendering MnS$_2$ a type-II multiferroic. Microscopically, the electronic polarization originates from S$_2$ dimers that acquire a dipole moment induced by the frustrated magnetic ordering of neighboring Mn sites. We show that time-reversal symmetry leaves ferroelectric domains intact, and that domain switching necessitates overcoming a high energy barrier set by the magnetic exchange energy scale.",
+  "authors": [
+   "Vilmos Kocsis",
+   "Harish K. Singh",
+   "Kranthi K. Bestha",
+   "Yaqian Guo",
+   "Maxim Mostovoy",
+   "Jeroen van den Brink",
+   "Oleg Janson"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "5+2 pages, 5 figures",
+  "first_author": "Vilmos Kocsis",
+  "pdf_url": "http://arxiv.org/pdf/2610.01990",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-10-01",
+  "tags": [
+   "pyrite"
+  ],
+  "title": "Frustration-induced multiferroicity in hauerite MnS2",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-10-01"
+ }
+}

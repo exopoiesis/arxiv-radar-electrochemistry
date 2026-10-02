@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01036.html">Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models</a></div></td>
+<td>Lei Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01036">2610.01036</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37638.html">Targeted Visual Counterfactual Explanations for Contrastive Vision-Language Model</a></div></td>
 <td>Van Bach Nguyen et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31533.html">Structural prediction of B$_{18}$Y$_{2}$ cluster: A Machine-Learning-Assisted Basin-Hopping Study</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Peter Ludwig Rodríguez-Kessler</td>
 <td><a href="http://arxiv.org/abs/2609.31533">2609.31533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30621.html">Assessing the Transferability of General-Purpose MachineLearning Interatomic Potentials for Heterogeneous Catalysis with HetCat26</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Alexandre Peuch et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30621">2609.30621</a></td>
 </tr>
 </tbody></table>

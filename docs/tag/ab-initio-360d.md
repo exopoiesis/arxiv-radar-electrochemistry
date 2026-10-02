@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00963.html">Topological robustness of thermally disordered lattices: From average structures to ensemble electronic properties</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Oleg Rubel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.00963">2610.00963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Diptendu Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01070">2610.01070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Mengyi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01432">2610.01432</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37058.html">Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Bang Liu et al.</td>
@@ -2822,23 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05928.html">High- and medium-entropy nitride coatings from the Cr-Hf-Mo-Ta-W-N system: properties and high-temperature stability</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Pavel Souček et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05928">2510.05928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04795.html">Mixed-precision ab initio tensor network state methods adapted for NVIDIA Blackwell technology via emulated FP64 arithmetic</a></div></td>
-<td>Cole Brower et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04795">2510.04795</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04922.html">Atomistic Insights into the Degradation of Metal Phthalocyanine Catalysts during Oxygen Reduction Reaction</a></div><div class="paper-tags"><a href="microkinetics-360d.html">microkinetics</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Huanhuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04922">2510.04922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05357.html">Photoluminescence excitation spectroscopy of quantum wire-like dislocation states in ZnS</a></div></td>
-<td>Alexander Blackston et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05357">2510.05357</a></td>
 </tr>
 </tbody></table>

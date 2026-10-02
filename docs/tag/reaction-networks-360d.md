@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-networks — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <a href="reaction-networks-90d.html">90d</a> <strong>360d</strong> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01636.html">Autocatalysis and Boundary Stability in Chemical Reaction Systems</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>
+<td>Matthew D. Johnston et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01636">2610.01636</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
@@ -230,17 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15273.html">Stoichiometric recipes for periodic oscillations in reaction networks</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>
 <td>Alexander Blokhuis et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15273">2508.15273</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08875.html">Large Differences Between Stochastic and Deterministic Kinetics in a Simple Autocatalytic Reaction Network</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>
-<td>Tomasz Bednarek et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08875">2409.08875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04922.html">Atomistic Insights into the Degradation of Metal Phthalocyanine Catalysts during Oxygen Reduction Reaction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="microkinetics-360d.html">microkinetics</a></div></td>
-<td>Huanhuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04922">2510.04922</a></td>
 </tr>
 </tbody></table>

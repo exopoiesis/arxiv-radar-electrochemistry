@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01036.html">Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models</a></div></td>
+<td>Lei Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01036">2610.01036</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37638.html">Targeted Visual Counterfactual Explanations for Contrastive Vision-Language Model</a></div></td>
 <td>Van Bach Nguyen et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05877.html">A budget-dependent crossover between coverage- and response-based training-set selection for machine-learned interatomic potentials</a></div></td>
 <td>Jia Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05877">2609.05877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01911.html">A Generalized Approach for Incorporating Geometry and Directionality into Coarse-Grained Machine-Learned Potentials</a></div></td>
-<td>Arthur Y. Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01911">2609.01911</a></td>
 </tr>
 </tbody></table>

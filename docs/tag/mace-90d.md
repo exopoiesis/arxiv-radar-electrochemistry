@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01036.html">Train for Accuracy, Execute at Scale: Architecture-Preserving Inference for Equivariant Atomistic Foundation Models</a></div></td>
+<td>Lei Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01036">2610.01036</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37638.html">Targeted Visual Counterfactual Explanations for Contrastive Vision-Language Model</a></div></td>
 <td>Van Bach Nguyen et al.</td>
@@ -224,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Samuel Sahel-Schackis et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03249.html">Probing a 146 GeV cLFV scalar using the LHC and low-energy experiments</a></div></td>
-<td>Christina Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03249">2607.03249</a></td>
 </tr>
 </tbody></table>

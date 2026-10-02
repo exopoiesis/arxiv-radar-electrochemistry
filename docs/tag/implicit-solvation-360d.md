@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>implicit-solvation — 360d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="implicit-solvation-7d.html">7d</a> <a href="implicit-solvation-30d.html">30d</a> <a href="implicit-solvation-90d.html">90d</a> <strong>360d</strong> <a href="implicit-solvation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24063.html">Benchmarking foundation potentials against quantum chemistry methods for predicting molecular redox potentials</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a></div></td>
 <td>Yicheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24063">2510.24063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15705.html">Gaussian-Based Periodic Grand Canonical Density Functional Theory with Implicit Solvation for Computational Electrochemistry</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Anton Z. Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15705">2508.15705</a></td>
 </tr>
 </tbody></table>

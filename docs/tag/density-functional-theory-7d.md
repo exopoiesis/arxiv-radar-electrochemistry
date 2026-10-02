@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,23 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31533.html">Structural prediction of B$_{18}$Y$_{2}$ cluster: A Machine-Learning-Assisted Basin-Hopping Study</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a></div></td>
 <td>Peter Ludwig Rodríguez-Kessler</td>
 <td><a href="http://arxiv.org/abs/2609.31533">2609.31533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29105.html">A System-Independent Metadynamics Strategy for Reactive Training Data: Application to Gas-Phase Organic Reactions</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="neb-7d.html">neb</a></div></td>
-<td>Wanrun Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29105">2609.29105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30574.html">The JWST Proto-PAH project. Computational modeling of the emission carriers</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>A. Ricca et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30574">2609.30574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30621.html">Assessing the Transferability of General-Purpose MachineLearning Interatomic Potentials for Heterogeneous Catalysis with HetCat26</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="mace-7d.html">mace</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Alexandre Peuch et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30621">2609.30621</a></td>
 </tr>
 </tbody></table>

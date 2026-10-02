@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00963.html">Topological robustness of thermally disordered lattices: From average structures to ensemble electronic properties</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a></div></td>
+<td>Oleg Rubel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.00963">2610.00963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
+<td>Diptendu Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01070">2610.01070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a></div></td>
+<td>Mengyi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01432">2610.01432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01549.html">Molecular Dynamics with Nuclear Effects on Quantum Computers</a></div><div class="paper-tags"><a href="grotthuss-30d.html">grotthuss</a></div></td>
+<td>Lukas Haßfurth et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01549">2610.01549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36682.html">Polar-Domain Volume as a Unified Descriptor of Transport in Ionic Liquids</a></div></td>
@@ -296,17 +326,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03044.html">Reactive calcium carbonate precipitation from an atomic cluster expansion potential and enhanced sampling</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="grotthuss-30d.html">grotthuss</a></div></td>
 <td>Eslam Ibrahim et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03044">2609.03044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01088.html">Pressure-regulated mechanochemistry at lithium metal-sulfide electrolyte interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
-<td>Kunik Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01088">2609.01088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01879.html">Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel</a></div></td>
-<td>Ajay Annamareddy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01879">2609.01879</a></td>
 </tr>
 </tbody></table>

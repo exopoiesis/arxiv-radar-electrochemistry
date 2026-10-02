@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00963.html">Topological robustness of thermally disordered lattices: From average structures to ensemble electronic properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
+<td>Oleg Rubel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.00963">2610.00963</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01070.html">Topo-Spectral Percolation Descriptors for Mechanistic Ion Transport Pathways from Static Crystal Structures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Diptendu Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01070">2610.01070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
+<td>Mengyi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01432">2610.01432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01549.html">Molecular Dynamics with Nuclear Effects on Quantum Computers</a></div><div class="paper-tags"><a href="grotthuss-90d.html">grotthuss</a></div></td>
+<td>Lukas Haßfurth et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01549">2610.01549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36682.html">Polar-Domain Volume as a Unified Descriptor of Transport in Ionic Liquids</a></div></td>
@@ -728,17 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04200.html">Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Baihong Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04200">2607.04200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03375.html">Improving Jet A-1 Thermal-Oxidative Stability through Selective Removal of Unwanted Trace Species via 3.7 Å Chabazite Filtration</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Morteza Roostaeinia et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03375">2607.03375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03513.html">AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms</a></div><div class="paper-tags"><a href="explicit-solvation-90d.html">explicit-solvation</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
-<td>Emmanuel Bengio et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03513">2607.03513</a></td>
 </tr>
 </tbody></table>

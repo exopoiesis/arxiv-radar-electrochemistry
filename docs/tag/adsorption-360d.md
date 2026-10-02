@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">218 papers</span>
+  <span class="paper-count">217 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1316,11 +1316,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12176.html">Nanoscale surface morphology controls charge storage at stepped Pt-water interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Matthew T. Darby et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12176">2510.12176</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08474.html">When Surface Dynamics Fakes Symmetry -- Oxygen on Rh(100) Revisited</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Lutz Hammer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08474">2508.08474</a></td>
 </tr>
 </tbody></table>

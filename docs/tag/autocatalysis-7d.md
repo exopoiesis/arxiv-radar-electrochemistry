@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01636.html">Autocatalysis and Boundary Stability in Chemical Reaction Systems</a></div><div class="paper-tags"><a href="reaction-networks-7d.html">reaction-networks</a></div></td>
+<td>Matthew D. Johnston et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01636">2610.01636</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30970.html">Large-deviations theory for growing chemical reaction networks</a></div><div class="paper-tags"><a href="reaction-networks-7d.html">reaction-networks</a></div></td>
 <td>Praful Gagrani et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30970">2609.30970</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29900.html">Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems</a></div></td>
-<td>Edgardo Villar-Sepúlveda et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29900">2609.29900</a></td>
 </tr>
 </tbody></table>

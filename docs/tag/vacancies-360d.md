@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1172,11 +1172,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05928.html">High- and medium-entropy nitride coatings from the Cr-Hf-Mo-Ta-W-N system: properties and high-temperature stability</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Pavel Souček et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05928">2510.05928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04589.html">Investigating into mechanisms of high temperature strength of refractory high-entropy alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sai Anandhi Seetharaman et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04589">2510.04589</a></td>
 </tr>
 </tbody></table>

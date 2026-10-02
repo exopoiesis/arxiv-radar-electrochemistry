@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>microkinetics — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="microkinetics-7d.html">7d</a> <a href="microkinetics-30d.html">30d</a> <a href="microkinetics-90d.html">90d</a> <strong>360d</strong> <a href="microkinetics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14305.html">Estimating Reaction Rate Constants from Impedance Spectra: Simulating the Multistep Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Freja Vandeputte et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14305">2512.14305</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04922.html">Atomistic Insights into the Degradation of Metal Phthalocyanine Catalysts during Oxygen Reduction Reaction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Huanhuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04922">2510.04922</a></td>
 </tr>
 </tbody></table>

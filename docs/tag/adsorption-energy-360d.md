@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption-energy — 360d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09587.html">Ab initio study on photocatalytic properties of PtSSe-WXY Janus heterostructures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Shivprasad S. Shastri et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09587">2510.09587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08474.html">When Surface Dynamics Fakes Symmetry -- Oxygen on Rh(100) Revisited</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Lutz Hammer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08474">2508.08474</a></td>
 </tr>
 </tbody></table>
