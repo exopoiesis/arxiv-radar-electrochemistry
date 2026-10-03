@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,23 +416,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03757.html">Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite</a></div></td>
 <td>Dipanwita Mitra et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03757">2609.03757</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02206.html">Decoding Oxygen K-edge Fingerprints of NCM-811 Degradation via Ab Initio Many-Body Theory and High-Throughput Screening of Crystal Proxies</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Daniel Duarte-Ruiz et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02206">2609.02206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02744.html">Understanding Graphene-Perovskite Interactions: From Flake Chemistry to Crystallisation and Solar Cell Performance</a></div></td>
-<td>Oussama Er-Riyahi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02744">2609.02744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03041.html">Interplay between Isomerization and Spin Crossover in 1D Fe-Indigo Coordination Polymers on Ag substrates</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Ritam Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03041">2609.03041</a></td>
 </tr>
 </tbody></table>

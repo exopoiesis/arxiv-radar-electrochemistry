@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36269.html">Exit problems for additive-increase and multiplicative-decrease Markov-modulated processes</a></div><div class="paper-tags"><a href="aimd-7d.html">aimd</a></div></td>
 <td>Bernardo D&#x27;Auria et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36269">2609.36269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div></td>
-<td>Yiwei You et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30848">2609.30848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31265.html">Steady--State Current Signatures of Strong Light--Matter Coupling in Single--Molecule Junctions</a></div></td>
-<td>Kritanjan Polley et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31265">2609.31265</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31270.html">Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects</a></div></td>
-<td>Roshal Perepadan Shaju et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31270">2609.31270</a></td>
 </tr>
 </tbody></table>
