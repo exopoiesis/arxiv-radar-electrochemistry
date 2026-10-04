@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">180 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,29 +1070,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05559.html">EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature-wise Linear Modulation</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Samuel Sahel-Schackis et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05559">2607.05559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04116.html">Electronic Structure, Optical Response, Thermal and Mechanical Behavior of B6X (X = S, Se) under Pressure: A Comprehensive Ab-initio Exploration</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
-<td>Sourav Kumar Sutradhar et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04116">2607.04116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04122.html">Hall Coefficient Sign Reversal Driven by Orbital-Selective Oxygen-Vacancy Scattering in Nickelate Films</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Jian-Jian Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04122">2607.04122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04200.html">Tellurium sublattice instability driven amorphization in the chalcogenide AgSbTe2 under pressure</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Baihong Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04200">2607.04200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04502.html">Data-Driven Prediction of NaCl-Type Entropy-Stabilized Oxide Compositions from First-Principles and Supervised Learning</a></div></td>
-<td>Sebastien Junier et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04502">2607.04502</a></td>
 </tr>
 </tbody></table>

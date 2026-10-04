@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>adsorption — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <strong>30d</strong> <a href="adsorption-90d.html">90d</a> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05392.html">From Electronic Structure to Environmental Remediation: Adsorption of Ionized Glyphosate on COOH-Modified Carbon Nanotube</a></div><div class="paper-tags"><a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
 <td>H. T. Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05392">2609.05392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03578.html">High-Throughput Computational Discovery of Inverted Resistive Switching in Two-Dimensional Materials</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Sanchali Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03578">2609.03578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03587.html">Charge Regulated conformational properties of polyelectrolyte near an oppositely charged nanoparticle</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Kawaljeet Kaur et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03587">2609.03587</a></td>
 </tr>
 </tbody></table>

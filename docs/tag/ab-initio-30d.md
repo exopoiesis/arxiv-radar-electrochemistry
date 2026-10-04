@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,17 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04696.html">Voltage-embedded equivariant machine learning potential for open system simulations</a></div><div class="paper-tags"><a href="electrochemical-interfaces-30d.html">electrochemical-interfaces</a> · <a href="explicit-solvation-30d.html">explicit-solvation</a></div></td>
 <td>Yiming Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04696">2609.04696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03486.html">Structural control over equilibrium silicon and oxygen isotopic fractionation: A first-principles density-functional theory study</a></div><div class="paper-tags"><a href="isotope-geochemistry-30d.html">isotope-geochemistry</a></div></td>
-<td>Merlin Méheut et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03486">2609.03486</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03888.html">Experimentally constrained modeling of the Pockels response of KNbO3 and KTaNbO3</a></div></td>
-<td>Virginie de Mestral et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03888">2609.03888</a></td>
 </tr>
 </tbody></table>
