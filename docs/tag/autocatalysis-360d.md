@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>autocatalysis — 360d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14282.html">Evolvable Chemotons: Toward the Integration of Autonomy and Evolution</a></div></td>
 <td>Kazuya Horibe et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14282">2510.14282</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15273.html">Stoichiometric recipes for periodic oscillations in reaction networks</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Alexander Blokhuis et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15273">2508.15273</a></td>
 </tr>
 </tbody></table>

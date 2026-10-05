@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-10-04._
+_Updated 2026-10-05._
 
-**3444** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3448** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.02905.html">Preparation sequence controls oxygen partitioning between boron and lithium on tungsten</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Predrag S Krstic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02905">2610.02905</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.03167.html">Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a></div></td>
+<td>Zhiwei Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03167">2610.03167</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.03293.html">Illuminating early ZrC oxidation using ensemble small-cell DFT with dynamic gas management</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Philip Wurzner et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03293">2610.03293</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.00963.html">Topological robustness of thermally disordered lattices: From average structures to ensemble electronic properties</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -63,6 +81,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.01990.html">Frustration-induced multiferroicity in hauerite MnS2</a></div><div class="paper-tags"><a href="tag/pyrite-30d.html">pyrite</a></div></td>
 <td>Vilmos Kocsis et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01990">2610.01990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.02411.html">Distinguishing sodium-ion penetration and sustained transport in realistic hard carbon nanostructures</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Carolina Cruz-Cardona et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02411">2610.02411</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-29</td>
@@ -171,29 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.32894.html">Composition-Driven Metal-to-Semiconductor Transition and Enhanced Phonon Transport in B-C substituted Clathrate</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a></div></td>
 <td>Ghulam Hussain et al.</td>
 <td><a href="http://arxiv.org/abs/2609.32894">2609.32894</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30815.html">Engineering Ferromagnetism in Wide Bandgap w-AlN for Spintronic Applications: Insights from DFT Calculations</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Chinnappan Ravi</td>
-<td><a href="http://arxiv.org/abs/2609.30815">2609.30815</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30848.html">When Is Molecular-Dynamics-Predicted Ionic Conductivity Reliable in Solid Electrolytes?</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yiwei You et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30848">2609.30848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30958.html">Active-Space Quantum Simulation of N$_2$ Hydrogenation at a Ru Single-Atom Site on Ru(0001)</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Geet Gupta</td>
-<td><a href="http://arxiv.org/abs/2609.30958">2609.30958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30970.html">Large-deviations theory for growing chemical reaction networks</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
-<td>Praful Gagrani et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30970">2609.30970</a></td>
 </tr>
 </tbody></table>

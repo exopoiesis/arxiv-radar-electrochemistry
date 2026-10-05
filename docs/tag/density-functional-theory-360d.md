@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">813 papers</span>
+  <span class="paper-count">812 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4886,11 +4886,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09495.html">Precoder Design in Multi-User FDD Systems with VQ-VAE and GNN</a></div></td>
 <td>Srikar Allaparapu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09495">2510.09495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18345.html">Fine Tuning of the Rotational Rate of Light-Driven, Second Generation Molecular Motors by Fluorine Substitutions</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
-<td>Ivan Tambovtsev et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18345">2405.18345</a></td>
 </tr>
 </tbody></table>

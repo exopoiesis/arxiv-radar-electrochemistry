@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>co2-reduction — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <strong>360d</strong> <a href="co2-reduction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15528.html">Facet Specific Electron Conduction in Pentavalent (W5+) WO3 Drives Superior Photocatalytic CO 2 Reduction in (002) Plane</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Muhammad Rizwan Kamal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15528">2510.15528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.08744.html">GTP before ATP: The energy currency at the origin of genes</a></div></td>
-<td>Natalia Mrnjavac et al.</td>
-<td><a href="http://arxiv.org/abs/2403.08744">2403.08744</a></td>
 </tr>
 </tbody></table>

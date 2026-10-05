@@ -219,5 +219,122 @@
    "Sulfide Electrocatalysts"
   ],
   "updated": "2026-10-01"
+ },
+ "2610.02411": {
+  "abstract": "Hard carbons are promising anodes for sodium-ion energy storage, yet the relationship between their heterogeneous microstructure and sodium transport remains poorly understood. Here, we combine machine-learning-generated hard-carbon structures with molecular dynamics simulations of explicit 1 M NaPF6 in ethylene carbonate/dimethyl carbonate electrolyte to investigate sodium storage and transport across carbon structures with densities from 0.5 to 2.0 g cm-3. Increasing carbon density produces less accessible pore networks and greater graphitic local ordering, allowing the influence of microstructure on electrochemical response and Na+ transport to be examined systematically. Sodium uptake increases with applied potential but decreases strongly with carbon density, while electrode charging persists even in the densest structure, where Na+ uptake remains very small. Coordination analysis shows increasing interaction with the carbon framework under applied potential, while Na+ retains a partially solvated environment. Three-dimensional trajectory analysis reveals heterogeneous, predominantly tortuous transport pathways, with the more open HC-C1 structure supporting broader penetration and greater sustained displacement. Maximum penetration depth and retained displacement are not equivalent: ions can transiently reach deep regions of denser carbon structures before returning towards the electrolyte interface. Potential-of-mean-force analysis further shows that deep penetration occurs across a range of projected free-energy changes and cannot be described by a single energetic criterion. These results show that Na+ storage and transport are governed by the interplay between electrostatic driving force, electrolyte solvation, pore accessibility and confinement, highlighting carbon microstructure as a key determinant of sustained ionic penetration.",
+  "authors": [
+   "Carolina Cruz-Cardona",
+   "Andreea Hedes",
+   "Patrick Rowe",
+   "Anderson Arboleda-Lamus",
+   "Raul Arenal",
+   "Zhenyu Guo",
+   "Heather Au",
+   "Magda M. Titirici",
+   "Celine Merlet",
+   "Carla de Tomas"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Carolina Cruz-Cardona",
+  "pdf_url": "http://arxiv.org/pdf/2610.02411",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-01",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Distinguishing sodium-ion penetration and sustained transport in realistic hard carbon nanostructures",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.02905": {
+  "abstract": "Classical reactive molecular dynamics of boron- and lithium-conditioned tungsten surfaces show that the order in which boron and oxygen are introduced - not the boron inventory - controls surface chemistry. On a thin engineered tungsten oxide, boron captures 81% of oxygen and consumes the oxide; on an engineered ~2 nm mixed WO3/WO2 film, boron captures only 20% and leaves 52% of reaction-zone tungsten in WO3-like coordination; and in a co-deposited W-B substrate later exposed to oxygen, boron captures only 28% despite a tenfold larger inventory. Adding lithium leaves the oxide-first cases unchanged but transforms the co-deposited case, where lithium becomes the dominant oxygen captor (58%) and a lithium-borate-glass-like network form. We outline the expected, divergent responses of the boron-only and boron-plus-lithium materials to deuterium irradiation.",
+  "authors": [
+   "Predrag S Krstic",
+   "Meral Sharkass",
+   "Swarit Dwivedi",
+   "Dalia Sayed Ahmed",
+   "Yun Kyung Shin",
+   "Adri CT van Duin"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.plasm-ph"
+  ],
+  "comment": "Datasets, interatomic potential parameters, and MD input scripts available at https://doi.org/10.5281/zenodo.21494702",
+  "first_author": "Predrag S Krstic",
+  "pdf_url": "http://arxiv.org/pdf/2610.02905",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-02",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Preparation sequence controls oxygen partitioning between boron and lithium on tungsten",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.03167": {
+  "abstract": "Cross-modal image matching establishes stable and accurate geometric correspondences across modalities for planar registration. Existing semantic representations provide cross-modal consistency, but semantic similarity does not necessarily imply geometric correspondence. Meanwhile, fine-grained CNN features provide accurate local details but lack global cross-modal semantic guidance for stable refinement. To address these issues, we propose CDPM, which first establishes geometrically consistent semantic representations and then preserves their dominant role in correspondence estimation during fine-grained localization. Specifically, we progressively adapt DINOv3 using geometrically consistent cross-modal patch pairs, enabling feature similarity to better reflect true cross-modal spatial correspondences. We then construct a DINO-Centric Feature Pyramid, where multi-scale DINO representations maintain stable cross-modal correspondences, while a lightweight CNN branch provides auxiliary structural details for precise local refinement. Extensive experiments on three cross-modal datasets demonstrate the superior performance of CDPM. On VIS-IR, compared with the dense matcher RoMa, CDPM improves AUC@3/5/10/20 by 7.36, 13.40, 13.75, and 10.42 percentage points, respectively, and reduces mACE from 5.83 to 2.78 pixels. It also outperforms RoMa v2 across all metrics while requiring 45.6% fewer FLOPs. The online demo and dataset are available, and the code will be released on our project page at https://warren-wzw.github.io/CDPM/.",
+  "authors": [
+   "Zhiwei Wang",
+   "Defeng He",
+   "Yuxing Li",
+   "Meilu Zhu",
+   "Edmund Y. Lam"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Zhiwei Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.03167",
+  "primary_category": "cs.CV",
+  "published": "2026-10-02",
+  "tags": [
+   "mace"
+  ],
+  "title": "Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.03293": {
+  "abstract": "During zirconium carbide oxidation, liberated carbon can remain beneath the oxide or escape as gas, complicating the interpretation of mass measurements. We adapt the small-cell ensemble method using sixteen 140 ps ab initio molecular dynamics trajectories at 873-1273 K under a sustained high oxygen flux with gas removal. The average rates of net mass gain and total carbon transfer into gas or retained chains follow Arrhenius trends. Above 973 K, gas evolution levels off while total carbon transfer increases. The fraction of transferred carbon retained in chains rises from 40 % at 973 K to 66 % at 1273 K. Fits after 40 ps suggest declining carbon transfer rates over time, although not in every trajectory. These results show that carbon partitioning during early oxidation depends on temperature, with increasing temperature above 973 K favouring chain formation over gasification.",
+  "authors": [
+   "Philip Wurzner",
+   "Boyang Chen",
+   "Matthias Möller",
+   "Sebastian Feld",
+   "Qi-Jun Hong",
+   "Yinglu Tang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Philip Wurzner",
+  "pdf_url": "http://arxiv.org/pdf/2610.03293",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-02",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Illuminating early ZrC oxidation using ensemble small-cell DFT with dynamic gas management",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-02"
  }
 }
