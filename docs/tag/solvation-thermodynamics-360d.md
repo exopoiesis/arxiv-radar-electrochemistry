@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>solvation-thermodynamics — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="solvation-thermodynamics-7d.html">7d</a> <a href="solvation-thermodynamics-30d.html">30d</a> <a href="solvation-thermodynamics-90d.html">90d</a> <strong>360d</strong> <a href="solvation-thermodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09774.html">Solvaformer: an SE(3)-equivariant graph transformer for small molecule solubility prediction</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Jonathan Broadbent et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09774">2511.09774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09900.html">Hydration Free Energies of Linear Alkanes: Evaluating and Correcting Classical Force Field Predictions with Different Water Models</a></div></td>
-<td>Yalda Ramezani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09900">2510.09900</a></td>
 </tr>
 </tbody></table>

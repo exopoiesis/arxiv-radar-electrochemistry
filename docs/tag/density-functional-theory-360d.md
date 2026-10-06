@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">812 papers</span>
+  <span class="paper-count">813 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04892.html">Identification and Structural Decomposition of Hidden Defect Configurations: A Case Study of Charged Oxygen Divacancies in HfO$_2$</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
+<td>Hyunjin Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04892">2610.04892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div></td>
@@ -4874,17 +4892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12648.html">A Unified Framework for Adaptive Waveform Processing in Next Generation Wireless Networks</a></div></td>
 <td>Abdelali Arous et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12648">2510.12648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09194.html">Quasiparticle effects and strong excitonic features in exfoliable 1D semiconducting materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Simone Grillo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09194">2510.09194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09495.html">Precoder Design in Multi-User FDD Systems with VQ-VAE and GNN</a></div></td>
-<td>Srikar Allaparapu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09495">2510.09495</a></td>
 </tr>
 </tbody></table>

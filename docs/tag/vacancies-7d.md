@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="ion-transport-7d.html">ion-transport</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
 <td>J. Bulíř et al.</td>
 <td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34869.html">Chemical site bases and average-atom potentials for the atomic cluster expansion</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Lorenzo Piersante et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34869">2609.34869</a></td>
 </tr>
 </tbody></table>

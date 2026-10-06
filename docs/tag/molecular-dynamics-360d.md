@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
+<td>Jia-Wen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05941">2610.05941</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02905.html">Preparation sequence controls oxygen partitioning between boron and lithium on tungsten</a></div></td>
 <td>Predrag S Krstic et al.</td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03293.html">Illuminating early ZrC oxidation using ensemble small-cell DFT with dynamic gas management</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
 <td>Philip Wurzner et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03293">2610.03293</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -3446,17 +3458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10326.html">Atomic-Scale Origins of Oxidation Resistance in Amorphous Boron Nitride</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a></div></td>
 <td>Onurcan Kaya et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10326">2510.10326</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09587.html">Ab initio study on photocatalytic properties of PtSSe-WXY Janus heterostructures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="aimd-360d.html">aimd</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Shivprasad S. Shastri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09587">2510.09587</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09789.html">Dipole Alignment and Layered Flow Structure in Pressure-Driven Water Transport through MoS$_{2}$ Membranes</a></div></td>
-<td>João Victor Lemos Vale et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09789">2510.09789</a></td>
 </tr>
 </tbody></table>

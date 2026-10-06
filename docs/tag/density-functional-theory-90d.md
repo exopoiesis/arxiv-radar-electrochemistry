@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04892.html">Identification and Structural Decomposition of Hidden Defect Configurations: A Case Study of Charged Oxygen Divacancies in HfO$_2$</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a></div></td>
+<td>Hyunjin Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04892">2610.04892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div></td>
 <td>Shin-ichi Fujimori</td>
@@ -1046,23 +1064,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07894.html">Bulk Boundary Condition for Surface Calculations in Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a></div></td>
 <td>Sayan Bhowmik et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07894">2607.07894</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06053.html">Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Meiyang Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06053">2607.06053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06057.html">Stabilization of Stone-Wales Defects in Metal-supported Graphene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
-<td>Rob H. Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06057">2607.06057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06645.html">BatteryMat: a hierarchical machine-learning and DFT framework for average-voltage screening of lithium-ion cathode materials</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06645">2607.06645</a></td>
 </tr>
 </tbody></table>

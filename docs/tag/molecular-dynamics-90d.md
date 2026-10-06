@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Jia-Wen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05941">2610.05941</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02905.html">Preparation sequence controls oxygen partitioning between boron and lithium on tungsten</a></div></td>
 <td>Predrag S Krstic et al.</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03293.html">Illuminating early ZrC oxidation using ensemble small-cell DFT with dynamic gas management</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Philip Wurzner et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03293">2610.03293</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -734,17 +746,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07110.html">Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics</a></div><div class="paper-tags"><a href="polarizable-water-90d.html">polarizable-water</a></div></td>
 <td>Nohad Gresh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07110">2607.07110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Daniel Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06470.html">Phonon-Mediated Thermal Transport in Nanocrystalline Silicon Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a></div></td>
-<td>Houssem Rezgui et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06470">2607.06470</a></td>
 </tr>
 </tbody></table>

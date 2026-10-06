@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-10-05._
+_Updated 2026-10-06._
 
-**3448** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3455** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,36 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jia-Wen Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.05941">2610.05941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.06346.html">Tentative Detection of FeS toward Orion SrcI</a></div><div class="paper-tags"><a href="tag/iron-sulfides-30d.html">iron-sulfides</a> · <a href="tag/pyrite-30d.html">pyrite</a></div></td>
+<td>Aitana Tasa-Chaveli et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06346">2610.06346</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.04843.html">Multicatalyst reactions induce abrupt transition in a dense catalytic reaction network model</a></div><div class="paper-tags"><a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Kota Mitsumoto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04843">2610.04843</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.04892.html">Identification and Structural Decomposition of Hidden Defect Configurations: A Case Study of Charged Oxygen Divacancies in HfO$_2$</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/neb-30d.html">neb</a></div></td>
+<td>Hyunjin Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04892">2610.04892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.02905.html">Preparation sequence controls oxygen partitioning between boron and lithium on tungsten</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -33,6 +63,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.03293.html">Illuminating early ZrC oxidation using ensemble small-cell DFT with dynamic gas management</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Philip Wurzner et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03293">2610.03293</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/ion-transport-30d.html">ion-transport</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Md Salman Rabbi Limon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.04105.html">Transparent 3D-printed flow cells for porous media studies with proof-of-concept on two-phase flow-reversal asymmetry</a></div><div class="paper-tags"><a href="tag/flow-cells-30d.html">flow-cells</a></div></td>
+<td>Yann Dumay et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04105">2610.04105</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>
@@ -153,47 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.34869.html">Chemical site bases and average-atom potentials for the atomic cluster expansion</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
 <td>Lorenzo Piersante et al.</td>
 <td><a href="http://arxiv.org/abs/2609.34869">2609.34869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.35099.html">E3J: An Efficient and Open-Source Backend for Euclidean Equivariant Operations on GPU and TPU</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Olivier Peltre et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35099">2609.35099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.36269.html">Exit problems for additive-increase and multiplicative-decrease Markov-modulated processes</a></div><div class="paper-tags"><a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Bernardo D&#x27;Auria et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36269">2609.36269</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Thi Hai Yen Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33116">2609.33116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.33617.html">Accelerating Quantum Simulations of Materials Through Parameter and Ansatz Transfer Strategies</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Saurabh Shivpuje et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33617">2609.33617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Chuntian Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.32707.html">Site-Selective Yttrium Substitution in Ti3AlC2 Enables Interlayer Engineering and Li Transport in Ti3C2Tx cathodes for High-Power Energy Storage</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
-<td>Tetiana Boichuk et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32707">2609.32707</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.32894.html">Composition-Driven Metal-to-Semiconductor Transition and Enhanced Phonon Transport in B-C substituted Clathrate</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a></div></td>
-<td>Ghulam Hussain et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32894">2609.32894</a></td>
 </tr>
 </tbody></table>

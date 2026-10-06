@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03293.html">Illuminating early ZrC oxidation using ensemble small-cell DFT with dynamic gas management</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -2828,17 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12526.html">Anharmonic Effects in Ge2Sb2Te5 and Consequences on Thermodynamic Stability</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Owain T. Beynon et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12526">2510.12526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09194.html">Quasiparticle effects and strong excitonic features in exfoliable 1D semiconducting materials</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Simone Grillo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09194">2510.09194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09587.html">Ab initio study on photocatalytic properties of PtSSe-WXY Janus heterostructures</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="aimd-360d.html">aimd</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
-<td>Shivprasad S. Shastri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09587">2510.09587</a></td>
 </tr>
 </tbody></table>

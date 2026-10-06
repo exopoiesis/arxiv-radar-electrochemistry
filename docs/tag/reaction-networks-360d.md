@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-networks — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <a href="reaction-networks-90d.html">90d</a> <strong>360d</strong> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04843.html">Multicatalyst reactions induce abrupt transition in a dense catalytic reaction network model</a></div></td>
+<td>Kota Mitsumoto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04843">2610.04843</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01636.html">Autocatalysis and Boundary Stability in Chemical Reaction Systems</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>

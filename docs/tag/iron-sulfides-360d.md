@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>iron-sulfides — 360d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="iron-sulfides-7d.html">7d</a> <a href="iron-sulfides-30d.html">30d</a> <a href="iron-sulfides-90d.html">90d</a> <strong>360d</strong> <a href="iron-sulfides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06346.html">Tentative Detection of FeS toward Orion SrcI</a></div><div class="paper-tags"><a href="pyrite-360d.html">pyrite</a></div></td>
+<td>Aitana Tasa-Chaveli et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06346">2610.06346</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28166.html">The dust in Sauron&#x27;s eye - Observational and experimental results on the debris disk around HR 4796</a></div><div class="paper-tags"><a href="weathering-360d.html">weathering</a></div></td>
