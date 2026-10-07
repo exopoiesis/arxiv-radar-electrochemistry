@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>corrosion — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <strong>360d</strong> <a href="corrosion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13545.html">Unraveling the Corrosion Mechanism of Boro-Alumino-Phospho-Silicate Glass: Advanced Insights from Solid-State NMR Spectroscopy</a></div></td>
 <td>Muhammad Amer Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13545">2510.13545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10326.html">Atomic-Scale Origins of Oxidation Resistance in Amorphous Boron Nitride</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Onurcan Kaya et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10326">2510.10326</a></td>
 </tr>
 </tbody></table>

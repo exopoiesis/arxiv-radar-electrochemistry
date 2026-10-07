@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
 <td>Jia-Wen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05941">2610.05941</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04934.html">Effect of Added Salts on the Interfacial Dynamics of Monovalent Metal Ions and Model Water-Soluble Polymers</a></div></td>
+<td>Soumik Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04934">2610.04934</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-02</td>
@@ -3446,17 +3458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12176.html">Nanoscale surface morphology controls charge storage at stepped Pt-water interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a></div></td>
 <td>Matthew T. Darby et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12176">2510.12176</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10061.html">High-Contrast Interferometric Imaging of Single-Molecule Dynamics on Optical Fibers</a></div></td>
-<td>Guifeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10061">2510.10061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10326.html">Atomic-Scale Origins of Oxidation Resistance in Amorphous Boron Nitride</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a></div></td>
-<td>Onurcan Kaya et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10326">2510.10326</a></td>
 </tr>
 </tbody></table>

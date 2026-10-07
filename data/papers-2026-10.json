@@ -363,7 +363,36 @@
   ],
   "title": "Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces",
   "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
    "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.03973": {
+  "abstract": "Amorphous materials are statistical ensembles rather than definitive structures, and conventional density-functional (DFT) and machine-learned-potential simulations sample only a small part of that ensemble. We present an $SE(3)$-equivariant denoising-diffusion model that learns the configurational distribution of amorphous oxides, so the model itself is the structure database. The learning is data efficient. A model trained on $1{,}781$ DFT configurations suffices to reproduce partial radial distribution functions, coordination statistics and bond-angle distributions, and to generate models of over $3\\times10^{5}$ atoms at a cost comparable to that of the cheapest classical pair potentials. The trained model can propose amorphous atomic structures for first-principles relaxation to explore the configuration space. For example, it locates an amorphous Zr-Ta-O structure $36$ meV/atom below the previously known minimum. Generation can also extend beyond trained conditions to non-stoichiometric compositions, other mass densities, interfaces, and doping. First-principles verification confirms that generation can be steered to a requested energy, and shows that the denoising training loss does not rank generative quality, because the two measure different things.",
+  "authors": [
+   "Jun Jiang",
+   "Ian Berry",
+   "James N. Fry",
+   "Hai-Ping Cheng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "40 pages, 5 figures",
+  "first_author": "Jun Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2610.03973",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-02",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-10-02"
  },
@@ -392,6 +421,40 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-10-02"
+ },
+ "2610.04205": {
+  "abstract": "Narrow linewidth (high-Q) quantum discriminators are essential for realizing solid-state $^{229}$Th nuclear clocks, yet the observed transition linewidths remain at the tens-to-hundreds-of-kilohertz level, far exceeding the sub-Hertz linewidth set by the radiative lifetime of the nuclear isomer. Here, we investigate the origin of this broadening in $^{229}$Th:CaF$_2$ through systematic measurements of the linewidth as functions of temperature, thorium concentration, and quadrupole state, accompanied by theoretical analysis and first-principle simulations. We find that the linewidth is independent of temperature, increases linearly with thorium concentration, and depends strongly on the quadrupole state. Data analysis identifies variations of the local electric-field gradient (EFG) as the dominant source of inhomogeneous broadening and reveals that the EFG disorder increases linearly with thorium concentration. The observed Lorentzian line shapes and linewidth linear concentration dependence are explained naturally from the $1/r^3$ scaling of a random distribution of long-range dopant-induced perturbations. Complementary atomistic and \\textit{ab initio} density-functional-theory calculations reproduce these characteristic features and provide insights into the microscopic defect configurations responsible for the broadening. These results establish the dominant broadening mechanism in solid-state $^{229}$Th and provide guidance for engineering nuclear-clock materials with reduced inhomogeneous broadening.",
+  "authors": [
+   "Kai Li",
+   "Tian Ooi",
+   "Jack F. Doyle",
+   "Konstantin Herb",
+   "Emil Pellett",
+   "Martin Pimon",
+   "Thorsten Schumm",
+   "Steven M. Girvin",
+   "Leo Radzihovsky",
+   "Jun Ye"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "cond-mat.mtrl-sci",
+   "physics.optics",
+   "quant-ph"
+  ],
+  "comment": "16 pages, 6 figures",
+  "first_author": "Kai Li",
+  "pdf_url": "http://arxiv.org/pdf/2610.04205",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-10-03",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Origin of the inhomogeneous linewidth in a solid state $^{229}$Th:CaF$_2$ nuclear clock",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-03"
  },
  "2610.04290": {
   "abstract": "We investigate Sb square net-based Dirac semimetallic ternary antimonides La$T$Sb$_2$ ($T$ = Cu, Ag) using magnetotransport and photoelectron spectroscopic studies, complemented by density functional theory (DFT) based ab initio calculations. Our results show that both compounds exhibit a positive temperature coefficient of resistivity, linear magnetoresistance (MR), and a deviation from Fermi liquid behaviour at low temperatures (2-30 K). But only $T$ = Ag compound exhibit signature of charge density wave (CDW) phenomena and the results of its temperature dependent MR data suggest that single-band semiclassical transport is not sufficient to understand the transport behaviour. $\\text{DFT}+U$ studies show that in both samples, an on-site Coulomb interaction ($U$) for Cu 3$d$ and Ag 4$d$ electrons, in the presence of spin-orbit coupling (SOC) is required to reproduce experimental valence band spectra. Sb 3$d$, 4$d$ core-level spectra combined with $\\text{DFT}+U$ calculations and La 3$d$ spectra confirm the presence and effects of inequivalent Sb sites for both the samples. In contrast to the $T$ = Cu compound, which follows expected temperature-dependent core-level sharpening, the $T$ = Ag compound exhibits an anomalous low-temperature broadening in the CDW phase. The analysis of Sb 3$d$ spectra suggests Sb square nets are linked to CDW phenomena in the $T$ = Ag compound. Temperature-dependent ultraviolet photoemission spectroscopic studies on $T$ = Ag show a small decrement in spectral DOS at the $ε_F$ for the temperature below the CDW transition temperature. These core-level studies provide a valuable spectroscopic benchmark for comparing CDW and non-CDW systems and clarifying the role of local electronic environments in CDW formation.",
@@ -422,6 +485,7 @@
   ],
   "title": "Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)",
   "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-10-03"
@@ -474,9 +538,59 @@
   ],
   "title": "Identification and Structural Decomposition of Hidden Defect Configurations: A Case Study of Charged Oxygen Divacancies in HfO$_2$",
   "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-10-04"
+ },
+ "2610.04934": {
+  "abstract": "Traditional theories of electrolyte and polyelectrolyte solutions overlook ion and polymer hydration, yielding an overly idealized perspective of the thermodynamic and dynamic properties of these solutions. In particular, the propensity of certain ions to increase or decrease the water diffusion coefficient at low solution concentrations, is poorly understood, a phenomenon that correlates strongly with the Hofmeister series describing the influence of salts on the solubility and self-assembly of synthetic and biomacromolecules as well as colloidal particles. These ion-specific effects have profound ramifications in diverse biological, medical science and technological applications. We address the general problem of understanding ion and uncharged water-soluble polymer hydration through molecular dynamics (MD) simulations of representative water-soluble polymers, polyacrylamide (PAM) and polyethylene oxide (PEO), in aqueous salt solutions. Careful attention is given to the capacity of our model to reproduce observed trends of added monovalent salts on the diffusion coefficient of water. Reproducing these ion-specific trends in the mobility of water has been a recurrent challenge in prior MD simulations of aqueous solutions based on a physically realistic model of water. Our work on salt solutions represents an important advance on which we build our modeling of aqueous polymer solutions with added salts. Simulations of our model polymers reveal an extended nanoscale dynamic hydration layer having a scale on the order of one nanometer (nm) in which the mobility is perturbed from its bulk value, and the mobility gradient in this layer appears to obey a near universal functional form.",
+  "authors": [
+   "Soumik Ghosh",
+   "Jack F. Douglas",
+   "Francis W. Starr"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "25 pages, 10 figures",
+  "first_author": "Soumik Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2610.04934",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-04",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Effect of Added Salts on the Interfacial Dynamics of Monovalent Metal Ions and Model Water-Soluble Polymers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-04"
+ },
+ "2610.05917": {
+  "abstract": "In this work, we study bimerons (in-plane skyrmions) and their clusters composed of states with mixed topological indices. These clusters provide flexibility in controlling the skyrmion Hall angle, which depends on the cluster's total topological charge. First, using the simplest such cluster, a bimeron-antibimeron pair, we examine its stability with the geodesic nudged elastic band method and identify three mechanisms -- bimeron separation, interchange, and annihilation -- with comparable energy barriers that determine the pair's overall stability. This provides an upper bound for the stability of more sophisticated clusters of bimerons and antibimerons. Then, we numerically study the clusters' dynamics for currents applied in-plane and perpendicular to the plane, corresponding to the Zhang-Li and Slonczewski mechanisms. Finally, we analyze the dynamics of a wide variety of bimeron clusters within the Thiele approach and show that their velocities always lie on a specific ellipse whose parameters are fully governed by the model Hamiltonian.",
+  "authors": [
+   "Philippe Heymes",
+   "Thomas L. Schmidt",
+   "Vladyslav M. Kuchkin"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.str-el"
+  ],
+  "comment": "7 pages, 3 figures",
+  "first_author": "Philippe Heymes",
+  "pdf_url": "http://arxiv.org/pdf/2610.05917",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-10-05",
+  "tags": [
+   "neb"
+  ],
+  "title": "Stability and current-driven dynamics of mixed-topology bimeron clusters",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-05"
  },
  "2610.05941": {
   "abstract": "Superionic conductors enable exceptionally fast ion transport in solids and offer broad technological potential. However, their highly conductive states are typically accessed only above the order-disorder transition of the mobile-ion sublattice, which limits low-temperature operation. Here, electric-field-responsive machine-learning molecular dynamics reveals a nonequilibrium route to superionic transport in quasi-two-dimensional AgCrSe2 driven by an out-of-plane oscillating electric field. At 300 K, far below the transition temperature near 475 K, the field activates fast in-plane Ag+ transport with an ionic conductivity reaching ~1.7 S/cm. This originates from field-driven dynamic disorder of Ag+ across two equivalent sublattices rather than thermally induced disordering. With increasing frequency, the Ag occupation evolves from complete switching to a highly conductive dynamically disordered state and finally to an ordered state with weak field response. These regimes shift to higher frequencies with increasing temperature or field amplitude, consistent with competition between the driving period and Ag-sublattice response time. At strong fields, this timescale is consistent with field-assisted thermal activation, while weak-field deviations suggest additional dynamics beyond single-ion activation. These results suggest timescale-matched periodic driving as a route to transport-active ionic disorder far below an equilibrium superionic transition.",
@@ -504,6 +618,35 @@
   "title": "Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2",
   "topics": [
    "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.06283": {
+  "abstract": "Compact, reliable, and cost-effective gas sensors have become a highly demanding subject for safety management in the medical sector, chemical manufacturing, food quality monitoring, agriculture, and industrial safety. Hazardous gas emissions need to be controlled and monitored with fast-responsive and highly sensitive sensing devices. A first-principles study employing density functional theory (DFT) was used to investigate the adsorption behavior of Cl2, CO, CO2, NO, NO2, and HCN gas molecules with our proposed alloys, which consisted of hexagonal boron nitride (hBN) and graphene (Gr). The alloy consisting of 22% carbon (BNGr-2) was found to be most competent for sensing Cl2, CO, CO2, and HCN with sufficient adsorption energy, charge transfer, and bandgap alteration. However, NO and NO2 gas molecules showed more engagement with 33% carbon-proportioned alloy (BNGr-3) in terms of adequate gas sensing properties. NOx gases exhibited the most chemiresistive sensitivity towards the adsorbents. Other gases also showed significant chemiresistive sensitivity and distinct selectivity ratios, which would facilitate these alloys as chemiresistive sensors. Besides, noticeable work function variation (~20%) of these systems manifested potential as work function based sensors. Cl2 and NO2 showed strong physical adsorption, while the rest of the gases were weakly to moderately physisorbed, resulting in very short recovery times (10-1 ~ 10-6 seconds). Additionally, the distinctive absorption spectra observed for the gas analyte systems highlighted the potential of the proposed alloys as optical gas sensors. Temperature variation revealed that all gas molecules can be freed from the adsorbent BNGr-2 at 425 K. These findings imply hBN-Gr alloys as promising gas sensors for pollution auditing.",
+  "authors": [
+   "Tanjuma Shikder Jhumu",
+   "Ahmed Zubair"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Tanjuma Shikder Jhumu",
+  "pdf_url": "http://arxiv.org/pdf/2610.06283",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-05",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-10-05"
  },
@@ -535,5 +678,215 @@
    "Sulfide Electrocatalysts"
   ],
   "updated": "2026-10-05"
+ },
+ "2610.06409": {
+  "abstract": "Machine-learned interatomic potentials extend atomistic simulations beyond the length- and timescales accessible to electronic-structure methods. However, the computational cost of equivariant architectures limits the local correlations they can represent in practice and therefore their achievable accuracy. Here we introduce FlashCart, which makes higher-order correlations affordable by combining generated GPU kernels with an architecture that recursively builds equivariant features and compresses them to a fixed width at each step. We express tensor products in independent Cartesian components and symbolically simplify them and their derivatives, producing fused kernels that often outperform optimized spherical counterparts. We then show that increasing correlation order improves accuracy more efficiently than increasing width, depth, or tensor rank. On SPICE-MACE-OFF, FlashCart models advance the measured accuracy-efficiency frontier: a model with $5.6$ million parameters achieves lower energy and force errors and $10\\times$ faster inference than a transformer with $189$ million parameters.",
+  "authors": [
+   "Viktor Zaverkin",
+   "Payman Goodarzi",
+   "Sergey V. Sukhomlinov",
+   "Davit Hovhannisyan",
+   "Roland Aydin",
+   "Martin H. Müser",
+   "Mathias Niepert"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Viktor Zaverkin",
+  "pdf_url": "http://arxiv.org/pdf/2610.06409",
+  "primary_category": "cs.LG",
+  "published": "2026-10-05",
+  "tags": [
+   "mace"
+  ],
+  "title": "FlashCart: Fast Cartesian Tensor Products for Equivariant Interatomic Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.06568": {
+  "abstract": "The magnetic properties of Sm-based intermetallics are governed by a delicate interplay between localized $4f$ states, exchange interactions, and valence fluctuations, yet the role of dynamical $4f$ correlations remains poorly understood. Here we investigate the electronic structure and magnetic anisotropy of SmCo$_5$ and SmCu$_5$ using self-consistent DFT+$U$(ED), which explicitly treats dynamical fluctuations of the Sm $4f$ shell. We find that SmCo$_5$ exhibits pronounced Sm$^{2+}$--Sm$^{3+}$ valence fluctuations, with the $4f$ ground state dominated by $f^5$ and $f^6$ configurations. The resulting dynamical $4f$ correlations yield near compensation of the Sm spin and orbital moments and provide a quantitative description of the electronic structure, magnetic moments, and large uniaxial magnetic anisotropy of SmCo$_5$. Upon replacing Co with Cu, the balance shifts toward the $f^6$ configuration, with substantial changes in the Sm spin and orbital moments. In SmCu$_5$, this evolution of the $4f$ configuration is accompanied by a pronounced reduction of both the total magnetic moment and magnetic anisotropy. These results demonstrate that dynamical $4f$ valence fluctuations are essential for understanding the contrasting magnetic properties of SmCo$_5$ and SmCu$_5$ and provide a microscopic framework for describing magnetic anisotropy upon Co to Cu substitution in Sm(Co,Cu)$_5$.",
+  "authors": [
+   "Alexander B. Shick",
+   "Alexander V. Andreev",
+   "Evgenia A. Tereshina-Chitrova",
+   "Institute of Physics",
+   "the Czech Academy of Sciences",
+   "Na Slovance 2",
+   "CZ-18221 Prague",
+   "Czech Republic"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "2 figures",
+  "first_author": "Alexander B. Shick",
+  "pdf_url": "http://arxiv.org/pdf/2610.06568",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-10-05",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Dynamical Valence Fluctuations and Magnetic Anisotropy in Sm(Co,Cu)$_5$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.06912": {
+  "abstract": "Monolayer $1\\mathrm{H}\\text{-}\\mathrm{NbS}_2$ hosts a well-separated metallic band of predominant Nb-$d_{z^2}$ character, providing an ideal platform to probe electronic correlations within a single-band setting. In this work, we present a comprehensive study of $1\\mathrm{H}\\text{-}\\mathrm{NbS}_2$ by combining first-principles Wannier interpolation, constrained random-phase approximation (cRPA), and DFT+DMFT. We show that an effective single-band model accurately captures the low-energy electronic structure, reproducing key experimental features from ARPES and STS $dI/dV$ spectra, including a characteristic Van Hove singularity. While static DFT+$U$ fails to describe the correlated metallic nature of the system, DFT+DMFT successfully accounts for the spectral weight redistribution and dynamic correlations. By defining the cRPA target subspace directly within the isolated Nb-$d_{z^2}$ band, we obtain a renormalized local interaction of $U_{\\mathrm{cRPA}} = 1.138~\\mathrm{eV}$. This interaction stabilizes a strongly correlated metallic state that remains robust upon cooling. Remarkably, this minimal single-band model captures a spectral broadening similar to that previously reported in more elaborate treatments - incorporating larger local interactions ($U \\sim 1.8~\\mathrm{eV}$, derived from a multiorbital cRPA construction), intersite Coulomb terms ($V$), and electron-phonon coupling - demonstrating that a consistently downfolded local interaction alone can already capture key aspects of the experimentally observed low-energy behavior of monolayer $1\\mathrm{H}\\text{-}\\mathrm{NbS}_2$.",
+  "authors": [
+   "Karollaine C. Leite",
+   "Jorge L. B. de Faria",
+   "Luiz Antonio Ribeiro Junior",
+   "Alexandre C. Dias",
+   "Helena Bragança",
+   "Alberto S. de Arruda"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "12 pages",
+  "first_author": "Karollaine C. Leite",
+  "pdf_url": "http://arxiv.org/pdf/2610.06912",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-10-02",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Correlated Low-Energy Model of Monolayer 1H-NbS$_2$: A cRPA+DMFT Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-02"
+ },
+ "2610.06990": {
+  "abstract": "Design-dependent wall velocities are difficult to treat in density-based fluid topology optimization. This difficulty arises because the fluid-solid interface is represented implicitly and evolves with the design. This paper proposes a diffuse-interface formulation for topology optimization of steady incompressible Navier-Stokes flows with design-dependent wall actuation. A continuous topological description field parameterized by compactly supported radial basis functions (CS-RBFs) provides the local interface orientation, and its regularized projection defines the pseudo-density for Brinkman flow analysis. The wall velocity is imposed on a fixed mesh through an equivalent volumetric momentum source, which is localized by a diffuse-interface measure constructed from the pseudo-density and the gradient of the description field. Assuming a locally planar interface and uniformly distributed Wendland radial basis functions, the source coefficient is determined analytically by balancing the equivalent momentum input with the Brinkman resistance at the interface center. These assumptions also yield a characteristic transition-width estimate in terms of the projection steepness and support radius. Continuous adjoint analysis is performed to derive the design sensitivities. Two- and three-dimensional examples formulated using the analogy equation demonstrate the effectiveness of the proposed topology optimization method for flow-rate maximization. Body-fitted re-simulations verify the flow fields and transport performance of the optimized designs. The formulation is further extended to electroosmotic transport under the thin electric double layer (EDL) assumption using the Helmholtz-Smoluchowski relation.",
+  "authors": [
+   "Limin Chen",
+   "Yuan Liang",
+   "Yongbo Deng",
+   "Chong Wang",
+   "Youming Zhang"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Limin Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.06990",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-04",
+  "tags": [
+   "electric-double-layer"
+  ],
+  "title": "A density-based topology optimization framework for steady Navier-Stokes flow with design-dependent wall actuation",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-04"
+ },
+ "2610.07222": {
+  "abstract": "In this work, cadmium telluride (CdTe), cadmium selenide (CdSe), and antimony sulfide (Sb\\(_2\\)S\\(_3\\)) thin films were deposited using the thermal evaporation technique by varying the source-to-substrate distance (SSD) from 15 to 24 cm (15, 18, 21, and 24 cm). The influence of the SSD on the structural, compositional, optical and electrical properties of the deposited films was systematically investigated. XRD analysis revealed the polycrystalline nature of the CdTe and CdSe thin films, whereas the Sb$_2$S$_3$ thin films exhibited an amorphous nature. EDX spectroscopy confirmed the presence of the constituent elements in the deposited films. Optical analysis revealed a marginal variation in the optical band gap with increasing SSD, while the film thickness, determined using the envelope method, decreased with increasing SSD. The optical band gap energies of CdTe and CdSe were found to be below 2 eV, whereas Sb$_2$S$_3$ exhibited a relatively higher band gap. The relatively low band gap energies and high absorption coefficients of the CdTe and CdSe films make them promising candidates for absorber layer applications in thin film solar cells (TFSCs). The films exhibited relatively low optical transmittance, which is desirable for efficient light absorption in absorber layers. Electrical characterization confirmed the semiconducting nature of all the deposited thin films. Overall, the results demonstrate that the optical and electrical properties of CdTe, CdSe and Sb$_2$S$_3$ thin films can be effectively modified by varying the SSD. The findings indicate that, in addition to the well established CdTe absorber, CdSe thin films show potential for application as absorber materials in TFSCs.",
+  "authors": [
+   "Himanshu Sharma Pathok",
+   "Prasanta Kumar Saikia"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 Pages, 9 Figures",
+  "first_author": "Himanshu Sharma Pathok",
+  "pdf_url": "http://arxiv.org/pdf/2610.07222",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-05",
+  "tags": [],
+  "title": "Effect of Source-to-Substrate Distance on the Optical and Electrical Properties of Thermally Deposited CdTe, CdSe and Sb$_2$S$_3$ Thin Films",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-05"
+ },
+ "2610.08013": {
+  "abstract": "Aluminum nitride (AlN) is an important thermal management material whose high lattice thermal conductivity is strongly suppressed by oxygen impurities. We investigate phonon scattering by oxygen-related defects using pretrained universal machine-learning interatomic potentials (MLIPs), molecular dynamics (MD), and phonon Boltzmann transport calculations. Several pretrained MLIPs are benchmarked against density functional theory for phonon dispersions and pristine thermal conductivity. To balance accuracy and computational speed, we use a fine-tuned version of the compact SevenNet-Nano model for MD simulations. Monte Carlo annealing supports the formation of bound $V_{\\mathrm{Al}}(\\mathrm{O_N})_3$ complexes, whose scattering differs from that of their isolated constituents. Defect scattering rates extracted from excess spectral energy density (SED) linewidths agree reasonably with harmonic $T$-matrix predictions at low oxygen contents, supporting the independent-scatterer approximation. Incorporating these rates into an iterative Boltzmann transport equation with Bose--Einstein statistics yields thermal conductivities comparable to experimental values and captures their observed decrease with oxygen content. At high concentrations, however, the scattering rate deviates from linear scaling with oxygen content, suggesting limitations of independent-defect and pristine-phonon descriptions. These results demonstrate an efficient approach using pretrained MLIPs to quantify defect-limited thermal transport and provide insights into impurity effects beyond the dilute-defect approximation.",
+  "authors": [
+   "Minseok Moon",
+   "Wonjun Choi",
+   "Seungwu Han",
+   "Youngho Kang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages, 15 figures",
+  "first_author": "Minseok Moon",
+  "pdf_url": "http://arxiv.org/pdf/2610.08013",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-06",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-06"
+ },
+ "2610.08291": {
+  "abstract": "Machine-learning interatomic potentials enable large-scale atomistic simulations of vanadium alloys relevant to fusion applications, but reliable training and validation remain challenging in multicomponent systems. Here, we develop a descriptor-based DeepMD-DPA1 potential for the V-Ti-Cr system using a two-stage workflow: broad configuration sampling driven by the MatterSim foundation model followed by fine-tuning to density-functional-theory data computed with VASP. The model achieves root-mean-square errors of 9.2 meV/atom for energies and 0.23 eV/angstrom for force components. Using this potential in large-cell LAMMPS simulations, we compute Young's modulus, bulk modulus, and Poisson's ratio for V-4Ti-xCr and V-xTi-4Cr alloys at T = 300 K and T = 1073 K. We find that increasing Cr fraction increases the elastic moduli of the alloy, while increasing Ti fraction decreases them; all compositions are softer at 1073 K than at 300 K. Two-phase simulations give a melting temperature for pure V of 1950 K, in good agreement with experimental data.",
+  "authors": [
+   "G. S. Demyanov",
+   "D. V. Minakov",
+   "S. B. Saltykov",
+   "P. R. Levashov",
+   "N. M. Chtchelkatchev"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 pages, 5 figures, 1 table",
+  "first_author": "G. S. Demyanov",
+  "pdf_url": "http://arxiv.org/pdf/2610.08291",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-06",
+  "tags": [],
+  "title": "Mechanical properties of V-4Ti-4Cr alloy from molecular dynamics with a neural-network potential",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-06"
+ },
+ "2610.08762": {
+  "abstract": "Lead-free ferroelectric BaTiO3 (BTO) nanoparticles with stabilized tetragonal distortion were synthesized via a ligand-assisted sol-gel method to serve as the active piezoelectric phase in high-performance hybrid piezoelectric nanogenerators (PENGs) operating with triboelectric synergy. XRD, Raman spectroscopy, and Pair Distribution Function (PDF) analysis confirmed pseudo-cubic tetragonal BTO nanoparticle, annealed at 900°C (BTO-900, ~54nm) and well-defined tetragonal BTO annealed at 1200°C (BTO-1200, ~104nm). Density Functional Theory (DFT) calculations confirmed enhanced Ti-O covalency, stronger Ti 3d-O 2p hybridization, narrower HOMO-LUMO gap, and improved dipole coherence in BTO-900, indicating superior ferroelectric polarization, piezoelectric activity, and charge retention. BTO-900-PDMS PENG device generated a high open-circuit voltage of ~100 V and stored ~29 μJ energy, and superior capacitor-charging performance of BTO-900, while the optimized BTO-1200 based device showed a higher power density of ~649 μW cm-2 and short-circuit current of ~181 μA. The superior performance of BTO-900 was attributed to enhanced defect-assisted charge trapping, interfacial polarization, and impedance-controlled charge retention. By coupling the intrinsic piezoelectric response of covalency-engineered tetragonal BTO with triboelectric charge generation at the BTO-PDMS interface, this work establishes nanoparticle size and bonding engineering as an effective route to high-output, lead-free piezoelectric nanogenerators for self-powered electronics.",
+  "authors": [
+   "Shivshankar Jokare",
+   "Vikash Kushwaha",
+   "Mandar Shirolkar",
+   "Shruti Kharadkar",
+   "R. Boomishankar",
+   "Smita Chaturvedi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 6 figures",
+  "first_author": "Shivshankar Jokare",
+  "pdf_url": "http://arxiv.org/pdf/2610.08762",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-06",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-06"
  }
 }
