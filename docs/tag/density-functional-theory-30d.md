@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09837.html">Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
+<td>Hongwei Du et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09837">2610.09837</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Minseok Moon et al.</td>
@@ -410,11 +416,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10614.html">Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control</a></div><div class="paper-tags"><a href="dft-u-30d.html">dft-u</a></div></td>
 <td>Reinaldo Inácio</td>
 <td><a href="http://arxiv.org/abs/2609.10614">2609.10614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07106.html">Coupled structural and electronic evolution under pressure in CuIr2Se4, CuRh2S4, and CuRh2Se4</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a></div></td>
-<td>M. Emi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07106">2609.07106</a></td>
 </tr>
 </tbody></table>
