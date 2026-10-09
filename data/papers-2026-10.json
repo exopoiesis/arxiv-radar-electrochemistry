@@ -1062,5 +1062,189 @@
    "CO2 Reduction and Formate"
   ],
   "updated": "2026-10-07"
+ },
+ "2610.10725": {
+  "abstract": "Confined epitaxy has recently emerged as a novel methodology for controlled growth of high-quality monolayer two-dimensional (2D) materials. However, mechanistic understanding remains limited to analysing nucleus adsorption and diffusion barriers. Here, I discover that van der Waals (vdW) confinement not only affects the specific adsorption and diffusion of nuclei on confined substrates but also induces strong coupling to atomic forces at the interface. Using artificial intelligence (AI) assisted density functional theory (DFT) calculations, I study how vdW confinement couples to the atomic motion of monolayer NbSe2 grown between c-plane sapphire and hexagonal boron nitride (h-BN). The calculated force-electronic landscape yields large mechanical forces of +0.070 and -0.04 eV per Angstrom on Nb and Se, respectively, giving rise to a unit-cell interfacial interaction energy up to 2.4 eV, comparable to reported adsorption and diffusion energies on similar substrates. The results indicate that interfacial mechanics may explain the success of confined epitaxy. The findings suggest that tuning interfacial mechanics, and related vdW mechanochemistry, could be a promising route to high-throughput, high-quality materials synthesis.",
+  "authors": [
+   "Ye Wang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ye Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.10725",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-07",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Resolving the interfacial mechanical landscape of monolayer NbSe2 grown by confined epitaxy",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.11246": {
+  "abstract": "The Crystallography Open Database (COD) contains over half a million experimentally determined crystal structures. Validation of crystallographic data proceeds at three hierarchical levels, the third of which assesses the physical plausibility of structures. This level has typically relied on empirical heuristics or expert judgment, which are slow and error-prone given the size of crystallographic databases and the rate at which new structures are deposited. Here we assess whether universal machine-learning interatomic potentials (MLIPs) can automate this level of validation. Of the 522 086 COD entries, 317 457 (60.8\\%) passed a data-quality filter removing disordered structures, formula mismatches and unmodelled solvent. These structures were relaxed with M3GNet, and 314 153 (99.0\\%) converged without a large change in cell volume. For most entries the relaxed and deposited volumes are nearly identical. Convergence and volume change thus provide simple criteria for identifying relaxations that do not confirm the deposited structure. A manual inspection of 327 structures showed that no single descriptor threshold (energy, largest force, or atomic displacement) separates valid from invalid structures. A comparison of M3GNet, CHGNet, PET-MAD and PET-OAM on 524 selected structures revealed model-specific failures: M3GNet distorts cyclopentadienyl and other $π$ ligands, and both M3GNet and CHGNet distort thiophene and thiazole rings, whereas the PET models preserve these motifs. All models detected missing hydrogen atoms, and at least some detected spurious hydrogens, incorrectly assigned atom types, and two previously unreported coordinate errors. No single model detected all error types. MLIP relaxation is therefore a useful but model-dependent screening tool, and combining several models is preferable to relying on any single one.",
+  "authors": [
+   "Justinas Šlepavičius",
+   "Antanas Vaitkus",
+   "Andrius Merkys",
+   "Saulius Gražulis",
+   "Linas Vilčiauskas"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": "33 pages, 12 figures, 5 tables",
+  "first_author": "Justinas Šlepavičius",
+  "pdf_url": "http://arxiv.org/pdf/2610.11246",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "chgnet",
+   "m3gnet",
+   "mlip"
+  ],
+  "title": "Assessing the Reliability of Foundational Machine Learning Potentials for Evaluating the Veracity of the Crystallography Open Database",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.11878": {
+  "abstract": "Accurate prediction of temperature-dependent elasticity is important for assessing refractory carbides under high-temperature conditions, but the computational cost of ab initio molecular dynamics (AIMD) limits systematic investigations across compositions and temperatures. Universal machine-learning interatomic potentials (uMLIPs) offer an efficient alternative, yet their accuracy for this task remains insufficiently established. Here, we benchmark nine uMLIPs against consistent AIMD reference data for five binary and two high-entropy (HE) carbides between 300 and 1200 K. Elastic constants and the corresponding bulk, shear, and Young's moduli are obtained using stress-strain molecular dynamics, explicitly sampling thermal atomic motion and anharmonic effects beyond thermal expansion alone. We assess absolute elastic properties and normalized thermal softening separately. MACE-MH-1 achieves the lowest overall mean absolute percentage error (5.7%). MACE-MH-1 and DPA4-Mini reproduce thermal softening most accurately, with mean deviations of 2.5 and 2.3 percentage points, respectively. All models generally underestimate stiffness, with larger equilibrium volumes relative to the AIMD reference likely contributing to this trend for most models. C12 exhibits the largest model-dependent errors. The HE carbides are described with accuracy comparable to that of the binary carbides, indicating no apparent accuracy penalty from chemical complexity. Accuracy instead varies with transition-metal composition, with group-V carbides, particularly TaC, presenting the greatest challenge. These results identify promising pretrained models for finite-temperature elasticity in carbides and show why accurate absolute stiffness and thermal softening must be assessed independently.",
+  "authors": [
+   "Miroslav Lebeda",
+   "Jan Drahokoupil",
+   "Šimon Svoboda",
+   "Petr Vlčák"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Miroslav Lebeda",
+  "pdf_url": "http://arxiv.org/pdf/2610.11878",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.11882": {
+  "abstract": "Predicting the finite-temperature stability of a disordered phase requires its free energy. It is traditionally approximated by combining the energy of a special quasirandom structure (a small cell mimicking a random alloy) with the ideal configurational entropy. This approximation neglects the short-range order that develops on cooling. In this study, we show that the conventional approximation is the first term of an infinite expansion of the free energy in energy cumulants. Higher-order cumulants are estimated from energies of random arrangements, without Monte Carlo or molecular dynamics. In a nine-element refractory system, adding the second cumulant reduced free energy errors by about an order of magnitude. The expansion gives phase diagrams with order--disorder transitions, defect concentrations, and short-range order. To demonstrate its utility, we used a foundation interatomic potential to screen lithium-excess rocksalt oxides across 26 elements for synthesizable disordered phases rich in the Li$_4$ clusters needed for lithium percolation. The approach applies to any lattice and chemistry, and brings disordered phases within reach of routine screening.",
+  "authors": [
+   "Yann L. Müller",
+   "Anirudh Raju Natarajan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yann L. Müller",
+  "pdf_url": "http://arxiv.org/pdf/2610.11882",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Beyond special quasirandom structures: free energies from energy cumulants",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.11910": {
+  "abstract": "Massively overlapping cascades simulations were carried out in 21 elemental metals: Be, Al, Ti, V, Cr, Fe, Co, Ni, Cu, Zr, Nb, Mo, Rh, Pd, Ag, Hf, Ta, W, Pt, Au and Pb. These elements have simple FCC, BCC and HCP lattice structures. For each element, 2000 cumulative 5 keV cascades were simulated using molecular dynamics. The overlapping cascades were simulated using various classical analytical interatomic potentials as well as with machine-learning interatomic potentials for many of the elements. The general conclusion is that results from massively overlapping cascades simulations are very sensitive to the choice of interatomic potential across the periodic table. Furthermore, we see that FCC metals all form stacking fault tetrahedra due to irradiation, and also typically include interstitial type Shockley partial and Frank type dislocations. In BCC materials typically form interstitial 1/2$\\langle$1 1 1$\\rangle$ dislocations, but vacancy type 1/2$\\langle$1 1 1$\\rangle$ dislocations were also observed in V and Nb. HCP materials tend to form complex dislocation structures mainly consisting of a-type dislocations that can be of both vacancy or interstitial type. Correlations between saturated defect concentrations and fundamental underlying material properties are explored.",
+  "authors": [
+   "Aslak Fellman",
+   "Jesper Byggmästar",
+   "Fredric Granberg"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Aslak Fellman",
+  "pdf_url": "http://arxiv.org/pdf/2610.11910",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "mlip",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Comprehensive study of massively overlapping cascades in common elemental metals",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.12055": {
+  "abstract": "Carbon dioxide (CO$_2$) is among the most abundant interstellar ices and has been observed by JWST in water-rich mixtures and pure CO$_2$ environments. Astrochemical models adopt binding energies (BEs) measured on water ice because few BEs are available for CO$_2$ ice. We calculate BE distributions for twelve adsorbates (N$_2$, CH$_4$, HCl, C$_2$H$_2$, H$_2$S, HF, HCN, H$_2$CO, HCOOH, HNC, CH$_3$OH, H$_2$O) on CO$_2$ clusters containing two to five molecules using DFT calibrated against CCSD(T)/CBS, a coupled-cluster treatment extrapolated to the complete-basis-set limit. Binding strength depends on whether the adsorbate requires the surface to donate a hydrogen bond (H-bond). CO$_2$ can accept an H-bond but cannot donate one, and all six species compared with water ice from Ahmad et al. (2026) bind more weakly on CO$_2$. The ratio of the BE on CO$_2$ to water ice ranges from 0.66 for H$_2$CO and 0.75 for H$_2$O to 0.87 for CH$_3$OH, 0.89 for HCOOH and 0.92 for C$_2$H$_2$. Formaldehyde is predicted to desorb near 57 K from CO$_2$-rich ice, compared with 85 K from water-rich ice, and could contribute to cold gas-phase H$_2$CO. Although the mean binding energies are changing with cluster size for several species, the differences can be traced to local binding interactions likely to remain important in larger ice models. The BEs vary by more than 500 K between sites, while the desorption peaks range from 11 K for CH$_4$ to 132 K for HCOOH. The limited H-bonding capacity of CO$_2$ may favour separation of mixed H$_2$O:CO$_2$ ice into CO$_2$-rich domains.",
+  "authors": [
+   "Aneesa Ahmad",
+   "Catherine Walsh",
+   "Stefan Vogt-Geisse"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "In revision at The Astrophysical Journal",
+  "first_author": "Aneesa Ahmad",
+  "pdf_url": "http://arxiv.org/pdf/2610.12055",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-10-08",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "formate"
+  ],
+  "title": "Binding Energies of Astrophysically Relevant Molecules on CO$_2$ Clusters: Benchmarking and the Donor-Acceptor Origin of Surface-Dependent Binding",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.12151": {
+  "abstract": "Machine learning interatomic potentials (MLIPs) are transforming atomistic simulations by accessing unprecedented length and time scales. While pretrained equivariant graph neural networks achieve robust zero-shot performance for near-equilibrium properties across broad chemical spaces, their translation to complex materials dynamics remains fundamentally challenged by out-of-distribution reactive states, representation biases, and computational scaling limits. In this Review, we examine how physics-driven specialization extends the applicability of MLIPs to complex dynamical systems. We systematically evaluate the structural trade-offs in MLIP design: the undersampling of highly strained configurations, the prohibitive computational overhead of high-order message-passing architectures, and the necessity of nonlocal interactions for open and field-coupled systems. Through four demanding application contexts - electrified interfaces, compositionally fluctuating open systems, multiphase evolution, and large-scale fracture - we establish a framework for observable-specific validation. Highlighting the complementary roles of universal foundation models and task-specific potentials, we emphasize that targeted adaptations must be rigorously benchmarked against intended observables. We conclude with a roadmap for developing physically consistent, hardware-aware force fields that seamlessly connect electronic-structure accuracy to macroscopic materials phenomena.",
+  "authors": [
+   "Yue Wu",
+   "Haoyu Wan",
+   "Yuan Tian",
+   "Deng Pan",
+   "Mingwei Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yue Wu",
+  "pdf_url": "http://arxiv.org/pdf/2610.12151",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Specialized machine learning force fields for materials dynamics",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-08"
  }
 }
