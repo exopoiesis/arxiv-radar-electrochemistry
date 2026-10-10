@@ -15,14 +15,14 @@
   count: 17
   total: 388
   group: surfaces
-- name: mace
-  count: 17
-  total: 236
-  group: ml-methods
 - name: aimd
   count: 16
   total: 221
   group: methods
+- name: mace
+  count: 16
+  total: 236
+  group: ml-methods
 - name: vacancies
   count: 14
   total: 338

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcopyrite — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="chalcopyrite-7d.html">7d</a> <a href="chalcopyrite-30d.html">30d</a> <a href="chalcopyrite-90d.html">90d</a> <strong>360d</strong> <a href="chalcopyrite-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18331.html">Chemical States and Local Structure in Cu-Deficient CuInSe2 Thin Films: Insights into Engineering and Bandgap Narrowing</a></div></td>
 <td>Ahmed Yousef Mohamed et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18331">2510.18331</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02934.html">Electronic structure and exchange interactions in altermagnetic MnGeP$_2$ in the quasiparticle-self-consistent $GW$ approach</a></div><div class="paper-tags"><a href="surface-defects-360d.html">surface-defects</a></div></td>
-<td>Ilteris K. Turan et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02934">2505.02934</a></td>
 </tr>
 </tbody></table>

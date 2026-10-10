@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">820 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4934,17 +4934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02123.html">Engineering Quantum Wire States for Atom Scale Circuitry</a></div></td>
 <td>Max Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02123">2507.02123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12526.html">Anharmonic Effects in Ge2Sb2Te5 and Consequences on Thermodynamic Stability</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chalcogenides-360d.html">chalcogenides</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Owain T. Beynon et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12526">2510.12526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12648.html">A Unified Framework for Adaptive Waveform Processing in Next Generation Wireless Networks</a></div></td>
-<td>Abdelali Arous et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12648">2510.12648</a></td>
 </tr>
 </tbody></table>
