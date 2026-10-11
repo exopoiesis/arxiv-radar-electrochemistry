@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ion-transport — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <strong>30d</strong> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12300.html">$Ab$ $initio$ Study of Substitutional Defects in Li$_{3}$OCl Solid Electrolyte for Li-ion Batteries</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Carson D. Ziemke et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12300">2609.12300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12166.html">Functionalization-Driven Charge Redistribution Enabling Ultra-High-Capacity V2B MBene Anode for Li/Na ion batteries: A First-Principles study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Shaiokh Bin Abi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12166">2609.12166</a></td>
 </tr>
 </tbody></table>

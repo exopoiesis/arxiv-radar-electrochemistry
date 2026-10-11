@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>aimd — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <strong>30d</strong> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <a href="aimd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Djardiel S. Gomes et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11459.html">Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>David Kaiser et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11459">2609.11459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12166.html">Functionalization-Driven Charge Redistribution Enabling Ultra-High-Capacity V2B MBene Anode for Li/Na ion batteries: A First-Principles study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="ion-transport-30d.html">ion-transport</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Shaiokh Bin Abi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12166">2609.12166</a></td>
 </tr>
 </tbody></table>

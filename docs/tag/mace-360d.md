@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,11 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14251.html">MACE: Mixture-of-Experts Accelerated Coordinate Encoding for Large-Scale Scene Localization and Rendering</a></div></td>
 <td>Mingkai Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14251">2510.14251</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13055.html">Reciprocal Space Attention for Learning Long-Range Interactions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Hariharan Ramasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13055">2510.13055</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,11 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15608.html">Calculations of pathways of precise P incorporation into chlorinated Si(100) surface</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>T. V. Pavlova</td>
 <td><a href="http://arxiv.org/abs/2510.15608">2510.15608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14012.html">CBVB-nH complexes as prevalent defects in metal-organic vapor-phase epitaxy-grown hexagonal boron nitride</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Marek Maciaszek et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14012">2510.14012</a></td>
 </tr>
 </tbody></table>
