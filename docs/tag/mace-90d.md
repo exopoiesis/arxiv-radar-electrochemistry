@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12517.html">TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering</a></div></td>
+<td>Jingwen Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12517">2610.12517</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06409.html">FlashCart: Fast Cartesian Tensor Products for Equivariant Interatomic Potentials</a></div></td>
 <td>Viktor Zaverkin et al.</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Prathami Divakar Kamath et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18594">2607.18594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11250.html">Multi-Agent LLMs Fail to Explore Each Other</a></div></td>
-<td>Hyeong Kyu Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11250">2607.11250</a></td>
 </tr>
 </tbody></table>

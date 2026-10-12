@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div></td>
+<td>Pascal Brault et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13509">2610.13509</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="mace-30d.html">mace</a></div></td>
@@ -32,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11910.html">Comprehensive study of massively overlapping cascades in common elemental metals</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Aslak Fellman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11910">2610.11910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>
@@ -290,11 +302,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15429.html">Effect of Near-surface Thermal Spikes on Radiation Hardness of Gallium Oxide</a></div></td>
 <td>Tomás Fernández Bouvier et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15429">2609.15429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12555.html">Interfacial Packing of DNA Nanostars Regulates Dynamics on Synthetic Cell Membranes</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
-<td>Kazutoshi Masuda et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12555">2609.12555</a></td>
 </tr>
 </tbody></table>

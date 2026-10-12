@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13523.html">How Fluctuations Control Chiral Symmetry Breaking in Reacting Mixtures of Chiral Molecules</a></div><div class="paper-tags"><a href="origin-of-life-360d.html">origin-of-life</a></div></td>
+<td>Leonardo Silva-Dias et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13523">2610.13523</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01636.html">Autocatalysis and Boundary Stability in Chemical Reaction Systems</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
 <td>Matthew D. Johnston et al.</td>
@@ -272,11 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11073.html">General multi-scale estimates for Lyapunov data of Perron-Frobenius matrices. The case of diluted autocatalytic chemical reaction networks</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
 <td>Jeremie Unterberger</td>
 <td><a href="http://arxiv.org/abs/2511.11073">2511.11073</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14282.html">Evolvable Chemotons: Toward the Integration of Autonomy and Evolution</a></div></td>
-<td>Kazuya Horibe et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14282">2510.14282</a></td>
 </tr>
 </tbody></table>

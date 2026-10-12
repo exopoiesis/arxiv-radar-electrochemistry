@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Natalia Goncharova et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05917.html">Stability and current-driven dynamics of mixed-topology bimeron clusters</a></div></td>
 <td>Philippe Heymes et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05917">2610.05917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04892.html">Identification and Structural Decomposition of Hidden Defect Configurations: A Case Study of Charged Oxygen Divacancies in HfO$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Hyunjin Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04892">2610.04892</a></td>
 </tr>
 </tbody></table>

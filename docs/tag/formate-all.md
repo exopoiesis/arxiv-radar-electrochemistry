@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>formate — all</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="formate-7d.html">7d</a> <a href="formate-30d.html">30d</a> <a href="formate-90d.html">90d</a> <a href="formate-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="microkinetics-all.html">microkinetics</a> · <a href="reaction-networks-all.html">reaction-networks</a></div></td>
+<td>Karsten Walz Jensen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12055.html">Binding Energies of Astrophysically Relevant Molecules on CO$_2$ Clusters: Benchmarking and the Donor-Acceptor Origin of Surface-Dependent Binding</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>

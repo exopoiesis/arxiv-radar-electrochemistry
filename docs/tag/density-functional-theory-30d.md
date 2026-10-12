@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-u-30d.html">dft-u</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13410.html">The Stone-Wales trefoil: a new topological defect in graphene</a></div><div class="paper-tags"><a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td>M. V. Kondrin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13410">2610.13410</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="formate-30d.html">formate</a> · <a href="microkinetics-30d.html">microkinetics</a> · <a href="reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Karsten Walz Jensen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="neb-30d.html">neb</a></div></td>
+<td>Natalia Goncharova et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12055.html">Binding Energies of Astrophysically Relevant Molecules on CO$_2$ Clusters: Benchmarking and the Donor-Acceptor Origin of Surface-Dependent Binding</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="formate-30d.html">formate</a></div></td>
 <td>Aneesa Ahmad et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12055">2610.12055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
+<td>Kirill Sobolev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>
@@ -380,11 +416,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13939.html">Towards a Metal-Organic Framework with Pore-Confined Electrons</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a></div></td>
 <td>Julia H. Baratta et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13939">2609.13939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12300.html">$Ab$ $initio$ Study of Substitutional Defects in Li$_{3}$OCl Solid Electrolyte for Li-ion Batteries</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Carson D. Ziemke et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12300">2609.12300</a></td>
 </tr>
 </tbody></table>

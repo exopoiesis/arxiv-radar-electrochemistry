@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Miroslav Lebeda et al.</td>
@@ -2834,11 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00090.html">Migration as a Probe: A Generalizable Benchmark Framework for Specialist vs. Generalist Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Yi Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00090">2509.00090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14370.html">Frustration-driven unconventional magnetism in the Mn$^{2+}$ ($S=\frac{5}{2}$) based two-dimensional triangular-lattice antiferromagnet Ba$_{3}$MnTa$_{2}$O$_{9}$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Romario Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14370">2510.14370</a></td>
 </tr>
 </tbody></table>

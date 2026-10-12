@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13410.html">The Stone-Wales trefoil: a new topological defect in graphene</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>M. V. Kondrin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13410">2610.13410</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31277.html">High-throughput computational discovery of CuI-based ternary $p$-type transparent conductors</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Michael Seifert et al.</td>
@@ -110,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14795.html">Computing binary alloy phase diagrams with explicit configurational and vibrational entropy</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Sarath Menon et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14795">2607.14795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11996.html">Coordination-Resolved Surrogate Models for Thermodynamic Stability, Band Gaps, and Magnetic Moments of Spinel Oxides, Sulfides, and Selenides</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Keltoum Khallouq et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11996">2607.11996</a></td>
 </tr>
 </tbody></table>

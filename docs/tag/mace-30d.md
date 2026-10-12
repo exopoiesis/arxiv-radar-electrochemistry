@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12517.html">TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering</a></div></td>
+<td>Jingwen Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12517">2610.12517</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06409.html">FlashCart: Fast Cartesian Tensor Products for Equivariant Interatomic Potentials</a></div></td>
 <td>Viktor Zaverkin et al.</td>
@@ -104,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13670.html">Enhancing Event Candidate Acquisition for Event Linking</a></div></td>
 <td>Ziyang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13670">2609.13670</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12502.html">Communication-Constrained Multi-Robot Exploration With Adaptive Communication Windows</a></div></td>
-<td>Ben Rossano et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12502">2609.12502</a></td>
 </tr>
 </tbody></table>

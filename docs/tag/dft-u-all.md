@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft-u — all</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <a href="dft-u-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>

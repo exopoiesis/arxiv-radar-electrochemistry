@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="dft-u-30d.html">dft-u</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Miroslav Lebeda et al.</td>
@@ -224,11 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13939.html">Towards a Metal-Organic Framework with Pore-Confined Electrons</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Julia H. Baratta et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13939">2609.13939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13542.html">Local Response Theory of Electrified Interfaces from Screened Effective Charges</a></div><div class="paper-tags"><a href="electrochemical-interfaces-30d.html">electrochemical-interfaces</a></div></td>
-<td>Nicolas G. Hörmann et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13542">2609.13542</a></td>
 </tr>
 </tbody></table>

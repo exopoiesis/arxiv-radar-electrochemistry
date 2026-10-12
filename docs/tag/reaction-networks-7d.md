@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04843.html">Multicatalyst reactions induce abrupt transition in a dense catalytic reaction network model</a></div></td>
-<td>Kota Mitsumoto et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04843">2610.04843</a></td>
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="formate-7d.html">formate</a> · <a href="microkinetics-7d.html">microkinetics</a></div></td>
+<td>Karsten Walz Jensen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
 </tr>
 </tbody></table>

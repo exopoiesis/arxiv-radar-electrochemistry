@@ -1246,5 +1246,329 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-10-08"
+ },
+ "2610.12517": {
+  "abstract": "Remote sensing visual question answering (RS-VQA) requires answers that truly depend on image evidence, yet current remote sensing multimodal large language models (RS MLLMs) are still evaluated mainly by accuracy, which cannot reveal whether a correct answer was produced without using the image. This setting introduces three challenges: demonstrations retrieved across different ground sample distances (GSD), sensors, and city textures may be poorly matched; real queries often involve long visual contexts from multi-scale tiles, multi-temporal frames, and retrieved knowledge, where evidence can be diluted and errors can propagate through multi-step reasoning; and prior-only answering remains invisible to standard metrics. We present AVA, a training-free framework that wraps a frozen RS MLLM with three modules. GDR performs GSD-bucketed, scene-graph-based demonstration retrieval and filters demonstrations whose answers are unsupported by their images. MACE decomposes each query into an evidence-typed sub-question DAG, routes sub-questions to suitable perception tools, and records verified provenance in a shared evidence ledger with bounded re-perception. CVA audits the final answer through counterfactual perturbations of cited evidence, including ablation and swap, and computes a visual-dependency score for confidence calibration and evidence-forcing re-query. On RSVQA-LR/HR, VRSBench, and LHRS-Bench, AVA improves average accuracy by up to 2.40 points over the strongest same-setting baselines, raises the visual-dependency score from 0.28 to 0.49, reduces the prior-only answer rate from 46.2 percent to 21.7 percent, and lowers the hallucination rate from 17.1 percent to 9.8 percent, with 2.6x the cost of a single backbone forward pass and no fine-tuning.",
+  "authors": [
+   "Jingwen Huang",
+   "Yiming Fang",
+   "Hanxiao Wu",
+   "Boyuan He",
+   "Keyi Luo"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Jingwen Huang",
+  "pdf_url": "http://arxiv.org/pdf/2610.12517",
+  "primary_category": "cs.CV",
+  "published": "2026-10-07",
+  "tags": [
+   "mace"
+  ],
+  "title": "TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.12771": {
+  "abstract": "The integration of two-dimensional Ti3C2Tx MXenes into Halide Perovskite (HaP) optoelectronics has shown immense potential for enhancing device performance, yet the fundamental chemical interactions within the precursor ink (a critical stage determining the final material state) remain largely unexplored. This study presents a comprehensive investigation into the chemical stability and surface evolution of Ti3C2Tx MXenes when exposed to the individual and combined components of a model methylammonium lead iodide (MAPbI3) solution. By combining detailed X-ray Photoelectron Spectroscopy (XPS) analysis with Density Functional Theory (DFT) calculations, we decouple the complex interactions between MXenes and the ink constituents. We demonstrate that elemental iodine (I2) and polyiodides (In-) act as aggressive oxidizers, triggering rapid degradation and dissolution of the MXene flakes. Conversely, lead iodide (PbI2) induces a slower oxidation process driven by the strong adsorption of Pb2+ ions onto oxygen terminated sites. In stark contrast, methylammonium iodide (MAI) exhibits a stabilizing effect: it adsorbs onto the MXene surface via hydrogen bonding, effectively passivating the flakes and retarding degradation. In addition, our results reveal that the sequence of precursor addition governs the MXene surface state, requiring extra caution, but also enabling further tunability. These findings provide a critical view on how MXene integration with materials, in general, and HaP in particular, should be perceived, providing a fundamental for their rational engineering.",
+  "authors": [
+   "Kirill Sobolev",
+   "Nagaprasad Reddy Samala",
+   "Mariela J. Pavan",
+   "Sharon Hazan",
+   "Vladimir Ezersky",
+   "Shakked Schwartz",
+   "Omer Bartov",
+   "Adi Yakir",
+   "Michal Leskes",
+   "Tamar Goldzak Mizrachi",
+   "Yevgeny Rakita"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Kirill Sobolev",
+  "pdf_url": "http://arxiv.org/pdf/2610.12771",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.12799": {
+  "abstract": "Molecular dynamics simulations of solid polymer electrolytes require force fields that are fast enough to converge ion transport over hundreds of nanoseconds, yet accurately describe the ion-polymer interactions that govern it. Fixed-charge force fields meet the first requirement but neglect electronic polarization, an effect often approximated by scaling ionic charges using empirically chosen factors. Here we present AutoDrude, a differentiable framework that parametrizes polarizable Drude force fields directly from DFT energies, forces, and dipoles, with no empirical tuning and at only 1.20 times the cost of a fixed-charge simulation. For PEO-LiTFSI, the dipole-constrained (hard-constraint) AutoDrude model reproduces the experimental ionic conductivity as accurately as the best charge-scaled model (17% versus 16% mean absolute percentage error). We compare the polarizable forcefield to fixed charge ones models by fitting a fixed charge model. Unlike the charge-scaled models tested here, however, AutoDrude also reproduces the dilute-limit cation transference number, its increase with salt concentration, and the absence of Li-TFSI contact ion pairs at low concentration. A penalty-based (soft-constraint) variant yields a closer fit to the DFT reference yet underestimates the conductivity by up to an order of magnitude, demonstrating that closer agreement with DFT training data alone does not guarantee accurate ion transport. These results indicate that although charge scaling can reproduce ionic conductivity the explicit inclusion of polarization is necessary to capture the concentration dependence of cation transport in PEO-LiTFSI.",
+  "authors": [
+   "Artur Lyssenko",
+   "KyuJung Jun",
+   "Rafael Gomez-Bombarelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Artur Lyssenko",
+  "pdf_url": "http://arxiv.org/pdf/2610.12799",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "density-functional-theory",
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Drude, Where's My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.13155": {
+  "abstract": "The degree of oxygen vacancy in A-site-doped layered double perovskite oxides can lead to anion vacancy ordering, which subsequently results in distinct superstructures. We have studied oxygen deficient double perovskite oxide, NdBaCo$2$O$_{5+δ}$ ($δ\\sim$ 0.65), utilising X-ray absorption near edge structure (XANES) spectroscopy complemented by multiple scattering and first-principles calculations based on density functional theory (DFT+U). The present results establish a direct correlation between oxygen-vacancy distribution, magnetic inhomogeneity, and charge transport in layered cobaltates. Our investigations on the Co K, Ba, and Nd $L_{\\mathrm{III}}$ edges suggest that the near-edge spectra, based on the number and shape of the spectral features, indicate the value of $δ$ for the compound under study lies closer to 0.75. The analysis of the Ba $L_{\\mathrm{III}}$ edge spectrum confirms the +2 oxidation state for Ba ions. The Co K-edge near-edge spectra suggest the possibility of oxygen vacancies arising at the basal sites in addition to the apical sites. This is counterintuitive to the common understanding that oxygen vacancies usually occur at the apical sites, i.e., in the lanthanide (Nd) layer in these compounds. Such a distribution of oxygen vacancies naturally explains the Griffith phase and the conduction mechanism of variable range hopping observed in the compound. The vacancy distribution, when at the optimum level, can also bring about easier oxygen ion mobility and a more sensitive and faster oxygen sensor. We believe that our results will help in tailoring oxygen-ion mobility and enhancing oxygen-sensing performance.",
+  "authors": [
+   "Himanshu Pant",
+   "S. Khalid",
+   "R. Bindu"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 10 figures",
+  "first_author": "Himanshu Pant",
+  "pdf_url": "http://arxiv.org/pdf/2610.13155",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-10-09",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u",
+   "vacancies"
+  ],
+  "title": "X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\\sim 0.65$)",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13189": {
+  "abstract": "Understanding volume changes in high-voltage spinel cathodes is essential for mitigating mechanical degradation and improving cycling stability. However, linking these changes to cation-specific redox processes remains challenging. Here, we combine operando X-ray diffraction (XRD) and X-ray absorption spectroscopy (XAS) to investigate the LiCoxMn2-xO4 spinel system, which exhibits a cubic structure and isotropic lattice response, in order to correlate the evolution of the local and long-range structure. Five compositions (x = 0, 0.25, 0.5, 0.75, and 1.0) were synthesized and electrochemically characterized, with x = 0, 0.5, and 1.0 examined in detail under identical cycling conditions. XAS at the Mn and Co K-edges reveals distinct Mn4+/Mn3+ and Co4+/Co3+ redox processes, with Mn redox activity dominating below 4.7 V and Co redox triggered at higher potentials. Chemometric tools for XAS data analysis further resolve the evolution of local structure during cycling. Both XRD and XAS capture consistent trends in volume evolution, despite probing different structural length scales. Increasing Co content progressively decreases the overall volume change, from 5.0 % to 1.6 % by XAS and from 5.8 % to 2.1 % by XRD. These results demonstrate that Co substitution suppresses electrochemically induced structural strain and establish a direct link between cation-specific redox activity and volumetric evolution. The correlative operando XRD/XAS approach provides a framework to investigate newly designed low-strain, high-energy cathodes with improved cycling stability.",
+  "authors": [
+   "Eunike Mahayoni",
+   "Louiza Larbi",
+   "Romain Batiot",
+   "Anatole Weill",
+   "Damien Brégiroux",
+   "Antonella Iadecola",
+   "Arnaud Perez"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Eunike Mahayoni",
+  "pdf_url": "http://arxiv.org/pdf/2610.13189",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-09",
+  "tags": [],
+  "title": "Insights on the volume variation of LiCoxMn2-xO4 electrode upon cycling: a correlative operando XRD and XAS study",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13410": {
+  "abstract": "Specific heat of graphite at high temperatures demonstrates significant deviation from the ``3R'' Dulong-Petite law. It can be explained by accumulation of defects with formation energy as low as 1.45 eV. Based on the density functional theory calculations, we propose a possible candidate of topological defects, whose energy is comparable to the growth activation energy.",
+  "authors": [
+   "M. V. Kondrin",
+   "Y. B. Lebed",
+   "V. V. Brazhkin"
+  ],
+  "categories": [
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "M. V. Kondrin",
+  "pdf_url": "http://arxiv.org/pdf/2610.13410",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-10-09",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability"
+  ],
+  "title": "The Stone-Wales trefoil: a new topological defect in graphene",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13434": {
+  "abstract": "Saturn's icy moon Enceladus is a prime target in the search for life beyond Earth. Abundant H2 and CH4 in Enceladus's south-polar plume have been shown to be consistent with hydrogenotrophic methanogens feeding on products of long-lived serpentinization. However, thermo-permeability models make sustained core-wide H2 production by serpentinization uncertain. We therefore explore whether an alternative metabolism based on fermentation-driven heterotrophy could reproduce Cassini H2 and CH4 escape fluxes under limited serpentinization. We develop a coupled ecosystem model of fermentation and methanogenesis in a hydrothermal-ocean-plume framework, using glycine as a proxy for amino-acid-like fermentable organics. With effectively no abiotic H2 and CH4 input, purely heterotrophic communities with fermenters and methanogens can reproduce both Cassini-derived flux intervals given sufficient hydrothermal glycine-equivalent supply, while the estimated organic stock could sustain the required H2 production on gigayear timescales if fully available. We then test a scenario with input ranges for fermentable organic matter, H2, and CH4 informed by asteroid-sample measurements and geochemical estimates of limited serpentinization. Simulations within both Cassini-derived flux intervals are concentrated in communities with acetoclastic methanogens; Bayesian model comparison favors the same communities. This holds even allowing for greater abiotic H2 and CH4 inputs that reduce the fermentable-organic supply required to reproduce the plume. We therefore identify fermentation heterotrophy as a testable alternative to purely hydrogenotrophic, serpentinization-dominated biotic interpretations and motivate future plume searches for co-exported fermentation products, including acetate and ammonium, together with measurements of methane carbon isotopes.",
+  "authors": [
+   "Sam Nasreldine",
+   "Antonin Affholder",
+   "Laura Molares Moncayo",
+   "Régis Ferrière",
+   "François Guyot"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "53 pages, 4 Main Figures, 6 SI Figures, 3 SI Tables",
+  "first_author": "Sam Nasreldine",
+  "pdf_url": "http://arxiv.org/pdf/2610.13434",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-10-09",
+  "tags": [
+   "serpentinization"
+  ],
+  "title": "Fermentation heterotrophy can reproduce Enceladus's H2 and CH4 under limited serpentiniaztion",
+  "topics": [
+   "Mineral Surfaces and Geochemistry",
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13482": {
+  "abstract": "When investigating the performance of supercapacitors (SCs), it was found that they offer high-power density and long life but are limited in capacity and energy density. Water-in-salt electrolytes, i.e., 21___m lithium bis(trifluoromethanesulfonyl) imide (LiTFSI), offer a solution by expanding the electrochemical window compared to a diluted aqueous environment. While significant research has been dedicated to improving these electrolytes, the impact of carbon properties on energy storage remains relatively underexplored. This study investigated the influence of carbon structures, defects, and surface functional groups on supercapacitive performance in LiTFSI electrolytes. For this purpose, a series of carbon materials, including carbon nano-onions and porous conductive carbon black (ENSACO), were synthesized and systematically modified by oxidative and reductive thermal treatments. Our results indicated that higher specific surface area and active surface area improve the ion adsorption and capacitance, while specific oxygen functionalities, such as carboxylic and anhydride groups, were found to significantly enhance capacitance. Furthermore, crystallinity and graphitic characteristics play a role in capacitance, with smaller graphene domains and greater disorder promoting ion storage. The study demonstrates a direct correlation between carbon microstructure and electrochemical behavior, providing insights into the rational design of carbon electrodes in high-performance SCs.",
+  "authors": [
+   "Phongphot Sakulaue",
+   "Bénédicte Réty",
+   "Takafumi Ishii",
+   "Camelia Matei Ghimbeu",
+   "Khanin Nueangnoraj"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Phongphot Sakulaue",
+  "pdf_url": "http://arxiv.org/pdf/2610.13482",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-09",
+  "tags": [
+   "adsorption"
+  ],
+  "title": "Unveiling the Influence of Graphitic Nanocarbon Structures, Defects, and Surface Functional Groups on Supercapacitive Performance in LiTFSI Electrolyte",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13509": {
+  "abstract": "Helium incorporation during magnetron sputtering can strongly affect thin film growth and lead to the formation of gas/solid nanocomposites and nanoporous structures. Here, molecular dynamics (MD) simulations are used to investigate the trapping mechanism of helium atoms (He) and the subsequent formation of He bubbles during the sputter deposition of aluminum (Al) and titanium (Ti) thin films. The simulations account for the kinetic energy distributions of sputtered metal atoms and backscattered gas species. Results indicate that He is efficiently incorporated into the growing films, leading to the formation of high-pressure, dense He bubbles, with a much higher He-to-metal atomic ratio in Ti ($\\sim$ 60%) than in Al ($\\sim$ 12%). More importantly, the simulations reveal a clear energy dependence of He trapping in Ti: background He atoms at thermal energies are essentially not incorporated, whereas efficient trapping starts at an incident energy of approximately 20 eV and increases up to a saturation regime near 100 eV. Simulated thermal desorption spectroscopy (TDS) further reveals distinct release mechanisms in the two investigated metals: He desorption from Al occurs at higher temperatures and is preceded by the removal of surface Al atoms, whereas He and Ti atom desorption starts continuously around 950 K, leading to a porous structure. Comparative simulations with argon (Ar) demonstrate negligible trapping even at comparable kinetic energy or momentum, showing that neither parameter alone accounts for the strong He incorporation observed in Ti. The above results are in very good agreement with what is reported in literature for low-kinetic energy He ion implantation in metal surfaces, suggesting similar insertion mechanisms. They clarify the atomistic conditions governing noble gas trapping during film growth and provide a basis for controlling He incorporation and porosity in films synthesized by magnetron sputtering.",
+  "authors": [
+   "Pascal Brault",
+   "Anne-Lise Thomann",
+   "Alejandro Borroto"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Pascal Brault",
+  "pdf_url": "http://arxiv.org/pdf/2610.13509",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-09",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13523": {
+  "abstract": "The pronounced chiral asymmetry of biomolecules is a defining feature of living systems, yet the mechanisms by which such asymmetry emerged remain unresolved. Chiral symmetry breaking may have occurred under prebiotic conditions in systems with sufficiently small molecular populations for intrinsic fluctuations to play an important role. Here, we investigate how finite-population fluctuations affect chiral-state selection, the characteristic time for symmetry breaking, and stochastic switching between chiral states in a system driven by autocatalysis and mutual antagonism. We determine how these dynamical processes scale with particle number and derive an analytical expression for the probability of selecting either chiral state as a function of the initial enantiomeric bias. We further calculate the mean selection time for different initial biases and show that, for weak mutual antagonism, fluctuations can induce transitions between opposite chiral states. These results characterize how finite-population fluctuations control both the emergence and stability of molecular chirality in autocatalytic chemical systems.",
+  "authors": [
+   "Leonardo Silva-Dias",
+   "Christoph A. Weber"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Leonardo Silva-Dias",
+  "pdf_url": "http://arxiv.org/pdf/2610.13523",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-09",
+  "tags": [
+   "autocatalysis",
+   "origin-of-life"
+  ],
+  "title": "How Fluctuations Control Chiral Symmetry Breaking in Reacting Mixtures of Chiral Molecules",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13795": {
+  "abstract": "Dopants can tune the activity of zirconia-based CO$_2$ hydrogenation catalysts through changes in adsorbate and transition-state (TS) energetics. Computing these quantities with density functional theory (DFT) becomes expensive when several dopants, reaction intermediates, and TSs must be screened. Here, we further develop the graph-based machine learning method Wasserstein Weisfeiler-Lehman Gaussian Process Regression (WWL-GPR): we introduce additional electronic-structure and local-environment features relevant for oxide surfaces and use the resulting model to predict adsorption and TS energies on ZrO$_2$(101) surfaces doped with Al$^{3+}$, Cd$^{2+}$, Ga$^{3+}$, In$^{3+}$, and Zn$^{2+}$. Adsorbate-surface structures are represented as attributed graphs that combine bonds connectivity and features. We benchmark WWL-GPR against thermodynamic scaling relations (TSR) for reaction intermediates and Bronsted-Evans-Polanyi relations (BEP) for TSs, and then propagate the predicted energies to microkinetic CH$_3$OH-yield estimates. WWL-GPR consistently improves the prediction of reaction intermediate energetics relative to linear scaling approaches and provides TS estimates that are competitive with BEP-based models. These improvements become especially relevant when the predicted energetics are propagated through the reaction network. Microkinetic calculations show that WWL-GPR-derived energies give CH$_3$OH yields closer to DFT-derived yields than the linear-relation workflow. Degree-of-rate-control analysis links the activity errors to dopant-dependent rate-controlling steps, including HCOO* formation, H$_2$COOH* dissociation, and H$_3$CO* formation. These results support WWL-GPR as a data-efficient surrogate for connecting atomistic energetics with catalyst-screening observables on doped oxide surfaces.",
+  "authors": [
+   "Karsten Walz Jensen",
+   "Mie Andersen",
+   "Raffaele Cheula"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Karsten Walz Jensen",
+  "pdf_url": "http://arxiv.org/pdf/2610.13795",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-09",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "formate",
+   "microkinetics",
+   "reaction-networks"
+  ],
+  "title": "Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.13902": {
+  "abstract": "Machine-learning force fields (MLFFs) enable the calculation of transformation pathways in molecular crystals at a fraction of the computational cost of density functional theory (DFT). However, a good agreement in energies and structures does not necessarily imply an accurate description of vibrational properties, which are essential for characterizing transition states and determining free energies at finite temperatures. Herein, we assess the accuracy of system-specific SO3krates MLFFs trained on PBE+MBD reference data for describing vibrational properties of molecular crystal transformations. As examples, we consider a polymorph transition of 1,4-diiodobenzene and a single-crystal-to-single-crystal Diels-Alder reaction. The transition state structures obtained from solid-state nudged-elastic-band (NEB) calculations with the MLFFs exhibit a single imaginary $Γ$-point frequency associated with the respective transformation. Compared with PBE+MBD, the mean absolute errors of $Γ$-point vibrational frequencies and relative harmonic free energies at 300 K are about 3 cm$^{-1}$ and 1 kJ/mol, respectively. Furthermore, we compare for the Diels-Alder reaction a collective transformation pathway with a sequential one, in which individual diene-dienophile pairs react successively, and demonstrate that PBE0+MBD single-point corrections can significantly affect the predicted reaction energetics. These results demonstrate that system-specific MLFFs can reproduce not only the energies and forces but also the local curvature of the potential-energy surface with high accuracy, enabling reliable calculations of harmonic vibrational free energies, providing a basis for extending the studies of molecular crystal transformations to larger supercells.",
+  "authors": [
+   "Natalia Goncharova",
+   "Oskar Schweighofer",
+   "Johannes Hoja"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Natalia Goncharova",
+  "pdf_url": "http://arxiv.org/pdf/2610.13902",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-09",
+  "tags": [
+   "density-functional-theory",
+   "neb"
+  ],
+  "title": "Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-09"
  }
 }

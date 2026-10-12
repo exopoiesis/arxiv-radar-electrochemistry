@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1472 papers</span>
+  <span class="paper-count">1478 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-u-all.html">dft-u</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13410.html">The Stone-Wales trefoil: a new topological defect in graphene</a></div><div class="paper-tags"><a href="phase-stability-all.html">phase-stability</a></div></td>
+<td>M. V. Kondrin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13410">2610.13410</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="formate-all.html">formate</a> · <a href="microkinetics-all.html">microkinetics</a> · <a href="reaction-networks-all.html">reaction-networks</a></div></td>
+<td>Karsten Walz Jensen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="neb-all.html">neb</a></div></td>
+<td>Natalia Goncharova et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12055.html">Binding Energies of Astrophysically Relevant Molecules on CO$_2$ Clusters: Benchmarking and the Donor-Acceptor Origin of Surface-Dependent Binding</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="formate-all.html">formate</a></div></td>
 <td>Aneesa Ahmad et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12055">2610.12055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a></div></td>
+<td>Kirill Sobolev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="ion-transport-all.html">ion-transport</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>

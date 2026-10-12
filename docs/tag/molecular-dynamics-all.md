@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">984 papers</span>
+  <span class="paper-count">986 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div></td>
+<td>Pascal Brault et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13509">2610.13509</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="mace-all.html">mace</a></div></td>
@@ -32,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11910.html">Comprehensive study of massively overlapping cascades in common elemental metals</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="vacancies-all.html">vacancies</a></div></td>
 <td>Aslak Fellman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11910">2610.11910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="ion-transport-all.html">ion-transport</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>

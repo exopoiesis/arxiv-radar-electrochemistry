@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div></td>
+<td>Pascal Brault et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13509">2610.13509</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="mace-90d.html">mace</a></div></td>
@@ -32,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11910.html">Comprehensive study of massively overlapping cascades in common elemental metals</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Aslak Fellman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11910">2610.11910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>
@@ -728,23 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13966.html">Confinement effects on protein stability in a freezing water environment</a></div></td>
 <td>Yanis R. Espinosa et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13966">2607.13966</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11135.html">Molecular Dynamics-Derived Coloured Noise Mediates Anderson Localisation and Environment-Assisted Transport of Tryptophan Excitons in Tubulin</a></div></td>
-<td>Chen Xin</td>
-<td><a href="http://arxiv.org/abs/2607.11135">2607.11135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11217.html">Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</a></div></td>
-<td>Seenivasan Hariharan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11217">2607.11217</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11253.html">Impact of Electronic Energy Dissipation on Primary Radiation Damage Formation in Silicon</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Nadezda Korepanova et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11253">2607.11253</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">819 papers</span>
+  <span class="paper-count">824 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13410.html">The Stone-Wales trefoil: a new topological defect in graphene</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
+<td>M. V. Kondrin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13410">2610.13410</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="formate-360d.html">formate</a> · <a href="microkinetics-360d.html">microkinetics</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
+<td>Karsten Walz Jensen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
+<td>Natalia Goncharova et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12055.html">Binding Energies of Astrophysically Relevant Molecules on CO$_2$ Clusters: Benchmarking and the Donor-Acceptor Origin of Surface-Dependent Binding</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="formate-360d.html">formate</a></div></td>
 <td>Aneesa Ahmad et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12055">2610.12055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
+<td>Kirill Sobolev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>
@@ -4922,11 +4958,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15608.html">Calculations of pathways of precise P incorporation into chlorinated Si(100) surface</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>T. V. Pavlova</td>
 <td><a href="http://arxiv.org/abs/2510.15608">2510.15608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14370.html">Frustration-driven unconventional magnetism in the Mn$^{2+}$ ($S=\frac{5}{2}$) based two-dimensional triangular-lattice antiferromagnet Ba$_{3}$MnTa$_{2}$O$_{9}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Romario Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14370">2510.14370</a></td>
 </tr>
 </tbody></table>

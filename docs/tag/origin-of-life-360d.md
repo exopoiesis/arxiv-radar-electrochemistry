@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>origin-of-life — 360d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <strong>360d</strong> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13523.html">How Fluctuations Control Chiral Symmetry Breaking in Reacting Mixtures of Chiral Molecules</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>
+<td>Leonardo Silva-Dias et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13523">2610.13523</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27031.html">Laboratory Evidence that Methanol-Rich Ice Mantles Lower Methyl Formate Binding Energies</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="formate-360d.html">formate</a></div></td>

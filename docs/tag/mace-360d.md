@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12517.html">TerraAgent: Demonstration-Grounded Multi-Agent Reasoning for Long-Context Remote Sensing Visual Question Answering</a></div></td>
+<td>Jingwen Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12517">2610.12517</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06409.html">FlashCart: Fast Cartesian Tensor Products for Equivariant Interatomic Potentials</a></div></td>
 <td>Viktor Zaverkin et al.</td>
@@ -1022,11 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00090.html">Migration as a Probe: A Generalizable Benchmark Framework for Specialist vs. Generalist Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Yi Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00090">2509.00090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14251.html">MACE: Mixture-of-Experts Accelerated Coordinate Encoding for Large-Scale Scene Localization and Rendering</a></div></td>
-<td>Mingkai Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14251">2510.14251</a></td>
 </tr>
 </tbody></table>

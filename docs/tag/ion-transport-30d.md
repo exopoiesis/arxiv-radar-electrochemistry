@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jia-Wen Li et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13978.html">Sodium Incorporation in CsPbBr$_{3-x}$I$_x$ Nanocrystal Electrodes: Lattice Contraction and the Suppression of Field-Driven Iodine Expulsion</a></div><div class="paper-tags"><a href="adsorption-energy-30d.html">adsorption-energy</a></div></td>
 <td>Arun Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13978">2609.13978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12300.html">$Ab$ $initio$ Study of Substitutional Defects in Li$_{3}$OCl Solid Electrolyte for Li-ion Batteries</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Carson D. Ziemke et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12300">2609.12300</a></td>
 </tr>
 </tbody></table>
