@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">190 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1154,23 +1154,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16982.html">A first-principles investigation of the diffusivities of oxygen and oxygen defects in ThO$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Maniesha Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16982">2510.16982</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13245.html">Ab initio study of strain-driven vacancy clustering in aluminum</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Sayan Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13245">2505.13245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15524.html">CoNi-MOF laccase-like nanozymes prepared by dielectric barrier discharge plasma for treatment of antibiotic pollution</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Chao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15524">2510.15524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15608.html">Calculations of pathways of precise P incorporation into chlorinated Si(100) surface</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>T. V. Pavlova</td>
-<td><a href="http://arxiv.org/abs/2510.15608">2510.15608</a></td>
 </tr>
 </tbody></table>

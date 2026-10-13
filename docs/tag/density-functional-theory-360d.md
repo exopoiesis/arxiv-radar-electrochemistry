@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">824 papers</span>
+  <span class="paper-count">816 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4910,53 +4910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05424.html">Design and Modeling of CdGa2Te4 and ZnGa2Te4 Chalcogenide Compound-Based Photovoltaic Devices: A DFT Study along with SCAPS-1D Simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Md Hasan Shahriar Rifat et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05424">2510.05424</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13245.html">Ab initio study of strain-driven vacancy clustering in aluminum</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Sayan Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13245">2505.13245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15322.html">Magnetic fluctuations and anisotropy in UTe2: a multi-orbital study based on GGA+U and RPA</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
-<td>Makoto Shimizu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15322">2510.15322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15397.html">Unravelling the Catalytic Activity of Dual-Metal Doped N6-Graphene for Sulfur Reduction via Machine Learning-Accelerated First-Principles Calculations</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
-<td>Sahil Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15397">2510.15397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15523.html">Synergistic modulation of band structure and phonon transport for higher thermoelectric performance of WSe2</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mazhar Hussain Danish et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15523">2510.15523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15524.html">CoNi-MOF laccase-like nanozymes prepared by dielectric barrier discharge plasma for treatment of antibiotic pollution</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Chao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15524">2510.15524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15528.html">Facet Specific Electron Conduction in Pentavalent (W5+) WO3 Drives Superior Photocatalytic CO 2 Reduction in (002) Plane</a></div><div class="paper-tags"><a href="co2-reduction-360d.html">co2-reduction</a></div></td>
-<td>Muhammad Rizwan Kamal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15528">2510.15528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15599.html">Surface diffusion of phosphorus on Si(100) after PBr3 adsorption</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="water-adsorption-360d.html">water-adsorption</a></div></td>
-<td>T. V. Pavlova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15599">2510.15599</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15608.html">Calculations of pathways of precise P incorporation into chlorinated Si(100) surface</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>T. V. Pavlova</td>
-<td><a href="http://arxiv.org/abs/2510.15608">2510.15608</a></td>
 </tr>
 </tbody></table>
