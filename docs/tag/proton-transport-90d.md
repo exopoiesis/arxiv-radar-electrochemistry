@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16296.html">Direct Observational Constraint on Upstream Magnetic Field Amplification Reveals the Particle Acceleration Limit in a Supernova Remnant</a></div><div class="paper-tags"><a href="proton-diffusion-90d.html">proton-diffusion</a></div></td>
+<td>Yuya Kawabata et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16296">2610.16296</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34758.html">The precipitation of protons and electrons in Jupiter&#x27;s auroral regions: a statistical comparison based on Juno/JEDI data</a></div></td>
 <td>B. Benmahi et al.</td>
@@ -38,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24823.html">Unveiling neutron and gamma spectrum at Martian surface in presence and absence of hydrogen: A computational study based on GEANT4 simulations</a></div></td>
 <td>A. Ilker Topuz</td>
 <td><a href="http://arxiv.org/abs/2607.24823">2607.24823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13657.html">Role of small-radius and high-electronegativity A-Site dopants in enhancing proton transport and stability of perovskite electrolytes</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Hang Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13657">2607.13657</a></td>
 </tr>
 </tbody></table>

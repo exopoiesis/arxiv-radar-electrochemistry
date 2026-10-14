@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">474 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17611.html">A grand potential for molten-salt electrochemical phase diagrams from first principles</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Lorenzo Bastonero et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17611">2610.17611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17943.html">WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Oscar Moreno Segura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17943">2610.17943</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16467.html">Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Markus E. Gruner et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16467">2610.16467</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Kazutaka Nishiguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16850.html">Trust-Limited Machine-Learning-Accelerated Nudged Elastic Band Calculations for Small-Polaron Hopping in Rutile TiO2</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Ashish Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16850">2610.16850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15986.html">Extreme anharmonicity determines the superionic transition in the prototypical antifluorite Li$_2$O</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
+<td>Lorenzo Bastonero et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15986">2610.15986</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14429.html">Large Out-of-plane Polarization in Two-dimensional Bi2O3 Monolayers Predicted by an AI-driven Inverse-design Workflow</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Hongmei Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14429">2610.14429</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="dft-u-360d.html">dft-u</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
@@ -2816,11 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16878.html">Deep Learning Accelerated First-Principles Quantum Transport Simulations at Nonequilibrium State</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Zili Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16878">2510.16878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05424.html">Design and Modeling of CdGa2Te4 and ZnGa2Te4 Chalcogenide Compound-Based Photovoltaic Devices: A DFT Study along with SCAPS-1D Simulation</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Md Hasan Shahriar Rifat et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05424">2510.05424</a></td>
 </tr>
 </tbody></table>

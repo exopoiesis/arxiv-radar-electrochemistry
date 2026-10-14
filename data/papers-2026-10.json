@@ -1570,5 +1570,753 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-10-09"
+ },
+ "2610.14172": {
+  "abstract": "Understanding the reservoirs of iron (Fe) in our Galaxy is crucial for probing the mechanisms that drive dust grain growth in the interstellar medium (ISM). High-resolution X-ray absorption spectroscopy offers a powerful tool to investigate the chemistry of dust grains, particularly those containing Fe, through spectroscopic features near photoabsorption edges known as X-ray Absorption Fine Structures (XAFS). With the Resolve spectrometer aboard XRISM, we can now examine the Fe K-edge (7.1 keV) owing to its improved spectral resolution in this energy range. This enabled us to probe the dust grain chemistry in high Galactic column densities. In this work, we present a pilot study on dust grain chemistry through the Fe K-edge of the XRISM Performance Verification target GX 340+0. This source is a persistently bright low-mass X-ray binary with a hydrogen column density of 6.6x10^22 cm^-2 along the line of sight, providing sufficient optical depth at the Fe K-edge. By fitting combined dust and gas models, we find that Fe is depleted by 95% into dust along the line of sight towards the source. Moreover, we find evidence that 38% of the solid-phase Fe is in metallic iron, 47% in iron sulfides, and the remainder in silicates. The large contribution from metallic iron and iron sulfides differs from what is typically inferred from X-ray studies of diffuse ISM and may suggest that that these compounds become more significant reservoirs of Fe in higher column density Galactic sightlines.",
+  "authors": [
+   "I. Psaradaki",
+   "L. Corrales",
+   "E. Costantini",
+   "M. Mehdipour",
+   "D. Rogantini",
+   "H. Takahasi",
+   "R. Ballhausen",
+   "P. Chakraborty",
+   "T. Nakagawa",
+   "R. K. Smith",
+   "S. Zeegers"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.HE"
+  ],
+  "comment": "Accepted for publication at the Astrophysical Journal",
+  "first_author": "I. Psaradaki",
+  "pdf_url": "http://arxiv.org/pdf/2610.14172",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-10-09",
+  "tags": [
+   "iron-sulfides"
+  ],
+  "title": "A first view of interstellar Fe-bearing dust grains with XRISM",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.14239": {
+  "abstract": "We propose a rational comparison between several well-known machine-learning interatomic potentials (linear atomic cluster expansion, the Behler-Parrinello high-dimensional neural network potential, and the graph neural network-based MACE potential) by testing their performance for fitting classical potentials such as the Lennard-Jones and Stillinger-Weber potential. With this we assess their advantages and limitations regarding several aspects: varying training dataset size, robustness to noise, carbon footprint, as well as the ability to reproduce the radial distribution function as an example observable. Overall the MACE models are shown to most accurately reproduce the potential energy surface, with little sign of overfitting, but at a significant computational cost, highlighting important questions regarding the choice of models in computational materials science.",
+  "authors": [
+   "Johannes Sandberg",
+   "Geneviève Dusson",
+   "Julien Lam"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Johannes Sandberg",
+  "pdf_url": "http://arxiv.org/pdf/2610.14239",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-09",
+  "tags": [
+   "mace"
+  ],
+  "title": "Benchmarking machine-learning interatomic potentials using classical force fields",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.14392": {
+  "abstract": "General-purpose machine-learning force fields (MLFFs) for materials are now trained on the order of $100$ million structures, assuming transferability requires such scale. We test this premise on OMat24, the largest available materials dataset, by training MACE models on subsets of $6.5$ million atoms, less than $1\\%$ of OMat24, selected in three complementary ways: at random, by latent-space clustering of a pretrained MLFF (DIRECT), and by a new model-free method maximizing the diversity of discrete, interpretable local environments (EnvTok). All three models approach the full-data reference MACE-OMAT-0 model to within a few tens of $\\mathrm{meV}/\\mathring{\\mathrm{A}}$ in forces, and remain close to or exceed it on formation energies, elastic moduli, heat capacities, Li$^{+}$ migration barriers, and molecular-dynamics stability up to $3000\\,$K and $500\\,$GPa. This near-independence from the selection strategy shows that chemical environment diversity, not size, defines OMat24's information content: the remaining $99\\%$ of structures are largely redundant. Broad sampling of chemical space thus remains essential, but reference labels are needed only for structurally and chemically distinct configurations. Using atomic positions and species, optionally augmented by magnetic moments, EnvTok identifies these before any labelling or training, yielding compact, architecture-independent datasets. This hundredfold reduction makes hybrid-DFT or higher-level relabelling of general-purpose training sets feasible, and frees computational budget for extending environmental coverage and multi-fidelity learning.",
+  "authors": [
+   "Evgeny Moerman",
+   "Igor Poltavsky",
+   "Anton Charkin-Gorbulin",
+   "Alexandre Tkatchenko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages (+ 11 pages supplementary), 5+6 figures",
+  "first_author": "Evgeny Moerman",
+  "pdf_url": "http://arxiv.org/pdf/2610.14392",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-09",
+  "tags": [
+   "density-functional-theory",
+   "mace"
+  ],
+  "title": "Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.14429": {
+  "abstract": "Two-dimensional (2D) polar oxides with built-in electric fields offer promising opportunities for nanoscale electronics, optoelectronics, and surface charge engineering. However, their discovery remains challenging due to the enormous structural complexity of nonlayered oxide networks. Here, we combine inverse structural design with a machine-learning interatomic potential and first-principles calculations to explore 2D oxide configurations. Using Bi2O3 as a representative system, we identify two previously unreported polar monolayers with tetragonal and orthorhombic symmetries. Both structures exhibit vertically separated Bi and O sublayers, giving rise to pronounced intrinsic polarity with Berry-phase 2D polarizations of 34.12 and 37.15 pC/m, respectively. Notably, the o-Bi2O3 monolayer exhibits one of the largest reported out-of-plane polarizations among 2D oxides. Both monolayers exhibit dynamical stability, finite-temperature structural integrity, and wide band gaps (~3.8 eV). The large polarization originates from dimensionality-induced reconstruction of the nonlayered Bi-O network, which breaks local coordination symmetry and produces out-of-plane charge redistribution, while the stereochemically active Bi 6s2 lone pair further favors asymmetric Bi-O bonding. These findings suggest dimensionality-induced local-coordination symmetry breaking as a promising design motif for high-polarization 2D oxides, and demonstrate the utility of combining inverse design with machine-learning-assisted screening to explore unconventional polar phases in nonlayered oxide networks.",
+  "authors": [
+   "Hongmei Tan",
+   "Jing Zhang",
+   "Shan Gao",
+   "Yueyu Zhang",
+   "Xiangmei Duan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 6 figures",
+  "first_author": "Hongmei Tan",
+  "pdf_url": "http://arxiv.org/pdf/2610.14429",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-10",
+  "tags": [
+   "ab-initio",
+   "mlip"
+  ],
+  "title": "Large Out-of-plane Polarization in Two-dimensional Bi2O3 Monolayers Predicted by an AI-driven Inverse-design Workflow",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.14992": {
+  "abstract": "The empirical pseudopotential method (EPM) computes band structures with one diagonalization per $k$ point and no self-consistency, but its fixed atomic form factors do not transfer between crystal structures. To address this limitation, we introduce EpNet-Si, an EPM for silicon in which an equivariant network predicts each atom's plane-wave form factor from its local environment: a species potential plus monopole, dipole and quadrupole corrections, mixed by a learned router over atomic densities, together with an $s/p$ nonlocal projector. With 6{,}195 parameters, the model is trained through the eigensolver on reference density functional theory (DFT) band energies of only 77 cells. Among 231 distortions of the trained structure types, the 142 gapped cells have mean band and gap errors of 15 and 8\\,meV; among 192 unseen structures, the 165 gapped cells have mean errors of 38 and 49\\,meV. Physical properties derived from EpNet-Si, including effective masses, gap pressure coefficients, deformation potentials and the density of states at the Fermi level, agree with those obtained from the reference DFT calculations. These results suggest that the classical EPM, fitted to a small set of reference data, can be extended into a fast alternative for modern electronic band-structure calculations.",
+  "authors": [
+   "Qiang Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 14 figures",
+  "first_author": "Qiang Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2610.14992",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-10",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "EpNet-Si: Atomic Form Factors Learned from Band Structures",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.15089": {
+  "abstract": "Corrosion of structural alloys remains a critical challenge for advanced molten salt reactors, where aggressive fluoride salts promote continuous dissolution at the salt-metal interface. While most mitigation strategies emphasize thermodynamic stability, kinetic control of atomic transport has received comparatively less attention. Here, we propose a corrosion mitigation strategy based on diffusion control and vacancy trapping by dilute yttrium (Y) solutes and yttrium oxide (Y$_2$O$_3$) dispersions in Ni alloys. A combined computational and experimental approach integrates density functional theory (DFT), self-consistent mean-field (SCMF) diffusion modeling, and an impurity trapping model to quantify the impact of defect trapping on effective vacancy mobility. Strong first-nearest-neighbor vacancy-Y binding, off-lattice vacancy configurations, and elevated rotational and dissociation barriers result in pronounced suppression of vacancy diffusivity, while Y$_2$O$_3$-associated sites treated as fixed traps in the model further reduce the mobile vacancy population. Ni-Mo (NM), Y-modified (NMY), and Y$_2$O$_3$-containing (NMYO) alloys were tested in molten fluoride salt at 750°C. Corrosion penetration decreases systematically from NM to NMY to NMYO, consistent with the predicted reduction in vacancy-mediated transport. The same trend is observed in mass change, with net weight loss decreasing from 0.52% for NM to 0.23% for NMY and 0.09% for NMYO. These results are consistent with an alloy-side transport contribution from defect trapping and reduced atomic transport. This study therefore suggests point defect engineering as a promising alloy design strategy for extreme nuclear environments.",
+  "authors": [
+   "Jia-Hong Ke",
+   "Xinchang Zhang",
+   "Jingfan Yang",
+   "Qiufeng Yang",
+   "Ruchi Gakhar",
+   "Rongjie Song"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "33 pages, 8 figures, 6 tables",
+  "first_author": "Jia-Hong Ke",
+  "pdf_url": "http://arxiv.org/pdf/2610.15089",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-10",
+  "tags": [
+   "corrosion",
+   "density-functional-theory",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Role of defect trapping in the enhanced corrosion resistance of Ni-Mo alloys with yttrium and yttrium oxide additions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.15214": {
+  "abstract": "Subnanometer transition-metal chalcogenide nanowires provide a one-dimensional platform in which electronic functionality and mechanical response can be tuned through chemical composition. Here, density functional theory calculations are combined with machine-learning force-field (MLFF) molecular dynamics to investigate MoS, MoSe, MoTe, WS, WSe, and WTe nanowires. The optimized structures are dynamically stable within the harmonic approximation, and their electronic character evolves systematically across the chalcogen series: MoS, MoSe, WS, and WSe are metallic, whereas MoTe and WTe are semiconducting, with HSE06 band gaps of 0.52 and 0.20 eV, respectively. The effective axial stiffness decreases from sulfides to selenides and tellurides, consistent with the increase in metal--chalcogen bond length; using a circular effective cross section, the corresponding Young moduli range from 392 to 718 GPa. All six nanowires have negative formation energies relative to the selected elemental reference phases. MLFF trajectories extending to 2.5 ns at 300 K preserve the one-dimensional morphology and local atomic order, providing evidence of finite-temperature dynamical stability on the simulated time scale. The corresponding MLFF molecular-dynamics energy traces are shown in. We further examine the response of the nanowires to axial strain and curvature, including strain-induced band-gap modulation in the tellurides. These results establish composition and mechanical deformation as complementary routes for tuning the electronic and mechanical properties of ultrathin transition-metal chalcogenide nanowires and support their further investigation as components of flexible nanoelectronic systems.",
+  "authors": [
+   "Danilo de Araújo Moura",
+   "Flavio Bento de Oliveira",
+   "Andreia Luisa da Rosa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Danilo de Araújo Moura",
+  "pdf_url": "http://arxiv.org/pdf/2610.15214",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-10",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.15733": {
+  "abstract": "How charge rearranges within an electrode shapes the behavior of batteries, supercapacitors, and other electrochemical devices. Molecular simulations can capture this response by allowing the charge on each electrode atom to adjust to its surroundings, but repeatedly calculating these charges adds substantial computational cost. We present an open-source implementation of the constant-potential method in GROMACS that integrates these calculations into the program's optimized CPU and GPU routines. Comparisons with established codes validate the electrode charges, while charging, voltammetry, and impedance simulations demonstrate the response to changing electrical conditions. The implementation also supports electrodes that move or deform and models of finite metallic screening and electron spillover. In a pair of charged carbon nanotubes, allowing charge to move away from the facing surfaces reduces the repulsive force at contact by about half at an intermediate charge and keeps the pair bound where a uniform-charge model opens within the simulated time. These capabilities make the electrical response of electrodes accessible within GROMACS for studies of interfacial structure, charging dynamics, and electrode motion.",
+  "authors": [
+   "Sheng Bi",
+   "Mathieu Salanne",
+   "Jun Cheng",
+   "Guang Feng"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "24 pages",
+  "first_author": "Sheng Bi",
+  "pdf_url": "http://arxiv.org/pdf/2610.15733",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "Kernel-Level Constant-Potential Molecular Dynamics in GROMACS",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15986": {
+  "abstract": "Superionic conductors are promising electrolyte candidates for all-solid-state batteries, thanks to their liquid-like ionic mobility. In the prototypical lithium-ion oxide superionic conductor with antifluorite structure, the high-temperature transition to the fast-ion regime has long been attributed to volume-driven harmonic phonon softening. However, this quasi-harmonic picture neglects the strong lattice anharmonicity inherent to the fast-ion regime, leaving the microscopic origin of the transition unresolved. Here, we apply non-perturbative lattice dynamics combined with a first-principles-accurate machine-learning interatomic potential to study the phase transition in Li$_2$O. We demonstrate that anharmonicity, rather than volume expansion alone as commonly assumed, plays the decisive role in determining the transition temperature and the underlying mechanism. Finally, we analyze the spectral properties using the time-dependent self-consistent harmonic approximation, revealing the breakdown of the quasi-particle picture in this material. The spectral function and the infrared response provide signtures of the phase transition that can be investigated experimentally using inelastic neutron or X-ray scattering and infrared spectroscopy. All these results establish the extreme anharmonicity of Li$_2$O near the superionic regime and provide a lattice-dynamic framework for understanding and engineering the fast-ion transition in this type of materials.",
+  "authors": [
+   "Lorenzo Bastonero",
+   "Chiara Cignarella",
+   "Nicola Marzari",
+   "Lorenzo Monacelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Lorenzo Bastonero",
+  "pdf_url": "http://arxiv.org/pdf/2610.15986",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-11",
+  "tags": [
+   "ab-initio",
+   "mlip",
+   "phase-transitions"
+  ],
+  "title": "Extreme anharmonicity determines the superionic transition in the prototypical antifluorite Li$_2$O",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.16296": {
+  "abstract": "The origin of Galactic cosmic rays up to the knee energy (PeV) remains a long-standing open question in astrophysics. Supernova remnant shocks are leading candidates for accelerating particles to PeV energies, yet this requires strong magnetic field amplification in the upstream region to confine the highest energy particles. Despite its importance, the upstream magnetic field strength has long lacked direct observational constraints. Here we report the observation of numerous synchrotron X-ray hotspots extending into the upstream of the supernova remnant RX J1713.7$-$3946 in archival Chandra data. These hotspots show spatial and temporal properties consistent with synchrotron emission from secondary electrons produced by hadronic interactions between accelerated protons and dense molecular clumps. Using the spatial extent of these upstream hotspots as a physical scale, we estimate the proton diffusion length to be $\\sim 1~\\mathrm{pc}$. This measurement provides a constraint on the upstream magnetic field strength of $\\sim 10~μ\\mathrm{G}$, which is consistent with recent simulations of Bell-instability-driven magnetic field amplification. Our results indicate that the current amplification is insufficient to reach PeV energies, explaining the observed TeV gamma-ray spectral cutoff and providing a diagnostic for assessing PeVatron capability in stellar shocks.",
+  "authors": [
+   "Yuya Kawabata",
+   "Takaaki Tanaka",
+   "Hiromasa Suzuki",
+   "Tsuyoshi Inoue"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": "17 pages, 6 figures. Published in Communications Physics",
+  "first_author": "Yuya Kawabata",
+  "pdf_url": "http://arxiv.org/pdf/2610.16296",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-10-12",
+  "tags": [
+   "proton-diffusion",
+   "proton-transport"
+  ],
+  "title": "Direct Observational Constraint on Upstream Magnetic Field Amplification Reveals the Particle Acceleration Limit in a Supernova Remnant",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16467": {
+  "abstract": "The martensitic transformations in stoichiometric Ni$_2$MnGa and related Heusler alloys are governed by a delicate interplay between electronic structure, magnetism, and lattice dynamics. While density functional theory (DFT) has successfully mapped the energy landscape of modulated martensites, it remains computationally prohibitive for capturing finite-temperature dynamics across relevant length and time scales. Here, we bridge this gap by constructing DFT-trained machine-learning force-fields (ML-FF) interpolated from ab initio molecular dynamics. We demonstrate that ML-FF trained on DFT data can reproduce key features of Ni$_2$MnGa, including the soft TA$_2$ phonon and a preference for nanotwinned martensites. Using classical molecular dynamics simulations, we explore the impact of adaptive nanotwinning on the austenite-martensite transition, which facilitates the dynamics of both, forward and backward transformation. We demonstrate, that the negative twin boundary energy along the entire transformations path predicted by DFT for $T=0$, supports the formation of ordered modulated martensites at finite temperatures. Our results pave the way for large-scale simulations of magnetic shape memory alloys with near-DFT accuracy.",
+  "authors": [
+   "Markus E. Gruner",
+   "Yulia Klunnikova",
+   "Mike J. Bruckhoff",
+   "Konstatin P. Skokov",
+   "Olga N. Miroshkina"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 7 figures",
+  "first_author": "Markus E. Gruner",
+  "pdf_url": "http://arxiv.org/pdf/2610.16467",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16521": {
+  "abstract": "Oxygen-vacancy formation and diffusion play important roles in determining the electronic and atomic transport properties of SrTiO$_3$ (STO). Accurate analysis of such point defects requires sufficiently large-scale and long-time molecular dynamics (MD) simulations; however, direct investigations of oxygen-vacancy dynamics using {\\it ab initio} MD (AIMD) based on density functional theory (DFT) are limited to relatively small systems and short time scales because of their high computational cost. In this study, we develop a neural network potential (NNP) for pristine and oxygen-deficient STO using a reference dataset generated from AIMD simulations. The trained NNP model accurately reproduces the DFT reference energies, atomic forces, and virials for both pristine STO and STO containing an oxygen vacancy. The NNP also reproduces the supercell-size dependence of the total energies and oxygen-vacancy formation energies, including the formation energy extrapolated to the dilute limit. Large-scale and long-time MD simulations using the NNP (NNP-MD) are then performed to investigate oxygen-vacancy diffusion. The resulting oxygen-vacancy diffusion coefficients show substantially better agreement with experimental data than those obtained from conventional classical MD simulations. An Arrhenius analysis yields an oxygen-vacancy migration enthalpy of 0.64 eV, in close agreement with the experimental value of 0.67 eV. These results demonstrate that NNPs trained on first-principles data provide an accurate and computationally efficient framework for investigating defect formation and long-time vacancy transport in perovskite oxides.",
+  "authors": [
+   "Kazutaka Nishiguchi",
+   "Ryota Yamamoto",
+   "Seiichiro Ten-no"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 6 figures. to be submitted in The Journal of Physical Chemistry C",
+  "first_author": "Kazutaka Nishiguchi",
+  "pdf_url": "http://arxiv.org/pdf/2610.16521",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16581": {
+  "abstract": "Smart insulation is a turn-to-turn layer that insulates in normal operation and conducts only near a hot spot. It could combine the fast ramping of insulated coils with the passive energy dump of non-insulated coils. Metal-insulator transition (MIT) oxides are natural candidates, but the only one tested in a coil so far, V2O3, switches at 150-170 K, far above the 30-70 K window useful for REBCO magnets. We explore the vanadium-oxygen system to lower the transition. TGA redox processing produced multi-phase powders with an effective transition near 127 K, about 25 K below V2O3. Hydrothermal V3O7, hydrated or annealed, was far too resistive and showed no usable transition. V2O3-epoxy specimens provided a robust reference and an acceptance criterion. Cryogenic measurements revealed a reproducible thermal hysteresis, and the measured specific heat of V2O3 corrects earlier model inputs by close to two orders of magnitude. A first electro-thermal model reproduces current sharing through the smart-insulation layer. Doped V2O3 and V8O15 are identified as the next targets.",
+  "authors": [
+   "Mattia Ortino",
+   "Davide Uglietti",
+   "Andrea Testino",
+   "Nicola Casati",
+   "Alexander Steppke",
+   "Wiktoria Wnetkowska",
+   "Andrea Masi",
+   "Kamil Sedlak"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "Submitted to Superconductor Science and Technology",
+  "first_author": "Mattia Ortino",
+  "pdf_url": "http://arxiv.org/pdf/2610.16581",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-10-12",
+  "tags": [],
+  "title": "Tailored VxOy Metal--Insulator-Transition Oxides for Temperature-Triggered Smart Insulation in Superconducting Coils",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16831": {
+  "abstract": "The structural characteristics of carbon nanotubes are usually discussed in terms of processes occurring during nanotube nucleation and subsequent growth from an already formed catalyst nanoparticle. Here, we show that their structural trajectory can begin much earlier, within the first nanoseconds of precursor decomposition and catalyst formation. We combine experiment and reactive molecular dynamics to compare nitrogen-free CNT synthesis with two closely related aromatic nitrogen precursors, pyridine and pyrazine, containing one and two nitrogen atoms per molecule, respectively. Experimentally, both nitrogen-containing precursors promote bamboo-like CNT formation and produce substantially more structurally disordered CNTs than the nitrogen-free reference. Notably, nitrogen incorporation does not scale simply with the amount of nitrogen supplied, demonstrating a strong contribution from precursor chemistry. Reactive molecular dynamics reveals that nitrogen-containing precursors significantly modify local Fe-carbon and Fe-SiO2 interactions during catalyst evolution, while pyridine and pyrazine exhibit distinct decomposition pathways, with pyrazine showing significantly greater decomposition within the simulated timescale. These results demonstrate that precursor chemistry influences the local chemical environment and early catalyst evolution, highlighting its potential role in the initial stages of CNT growth.",
+  "authors": [
+   "Narayan N. Som",
+   "Lukasz Nowicki",
+   "Tomasz Gizewski",
+   "Karolina Z. Milowska",
+   "Anna Wroblewska",
+   "Caghan Tuncer",
+   "Maciej Trzaskowski",
+   "Olga Iwasinska-Kowalska",
+   "Tomasz Plocinski",
+   "Mariusz Zdrojek",
+   "Krzysztof K. Koziol",
+   "Malgorzata Jakubowska",
+   "Agnieszka Lekawa-Raus"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Narayan N. Som",
+  "pdf_url": "http://arxiv.org/pdf/2610.16831",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Molecular Precursor Chemistry Shapes Early-Stage Reaction Pathways in Nitrogen-Doped Carbon Nanotube Synthesis",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16850": {
+  "abstract": "Nudged elastic band (NEB) calculations of small-polaron hopping are demanding because nuclear motion is coupled to a self-consistent localized electronic state. Near the charge-transfer region, slow self-consistent-field convergence, localization switching, and competing electronic solutions complicate surrogate-assisted optimization. We develop a Gaussian-process-assisted NEB workflow for this regime and demonstrate electron small-polaron hopping in rutile TiO2 using spin-polarized density functional theory with a Hubbard U correction (DFT+U ) with SIESTA. A joint energy-force Gaussian process (GP) with a Matérn covariance model advances the elastic band, while active-atom root-mean-square and maximum-atom displacement limits constrain surrogate motion relative to evaluated configurations. Reaching these limits triggers first-principles sampling without requiring full surrogate convergence. Three independently DFT-verified 96-atom [001] calculations using 11, 13, and 15 images and different surrogate settings and GP parameterizations yield barriers of 0.1645, 0.1637, and 0.1640 eV, respectively, spanning 0.793 meV. In the 15-image calculation, repeated central-image sampling activates a separately calibrated local GP during surrogate optimization. Final full-band DFT verification gives a maximum projected NEB force of 0.0346 eV/Å. A 324-atom calculation yields a lower barrier of 0.1302 eV, indicating supercell sensitivity and demonstrating feasibility at larger GP observation dimension. The workflow combines controlled surrogate extrapolation, targeted charge-transfer-region interpolation, and independent DFT verification to obtain polaron migration pathways, emphasizing reproducible barriers and full-band force convergence.",
+  "authors": [
+   "Ashish Kumar Singh",
+   "Irina V. Lebedeva"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ashish Kumar Singh",
+  "pdf_url": "http://arxiv.org/pdf/2610.16850",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u",
+   "neb"
+  ],
+  "title": "Trust-Limited Machine-Learning-Accelerated Nudged Elastic Band Calculations for Small-Polaron Hopping in Rutile TiO2",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17226": {
+  "abstract": "Most machine-learning interatomic potentials (MLIPs) are trained on gas-phase data, which limits their use for chemistry in solution. Here, we introduce AnySolv, a transferable implicit solvation potential that provides solvent-dependent energy and force corrections to existing gas-phase potentials without retraining them. It is trained on 1.4 million solvation energies and forces computed with density functional theory (DFT) and SMD in 36 solvents, spanning charged, open-shell, and transition-state structures. Because solvents are represented by continuous physical descriptors, AnySolv supports 179 solvents, including those absent from training. On external benchmarks, AnySolv reproduces DFT-SMD solvation energies to 2-4 meV mean absolute error at more than three orders of magnitude lower cost, and it matches the accuracy of DFT-SMD against experimental solvation free energies. This enables screening of the mechanisms of 120 nucleophilic aromatic substitution reactions in six phases as well as molecular dynamics simulations that reproduce the experimentally observed solvent-dependent conformational preferences of alanine dipeptide. By providing transferable solvation corrections to existing MLIPs, AnySolv enables scalable simulations of solvent-dependent chemical reactivity and molecular dynamics.",
+  "authors": [
+   "Anton Z. Ni",
+   "Joonho Lee"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG"
+  ],
+  "comment": "19 pages, 7 figures, 11 tables",
+  "first_author": "Anton Z. Ni",
+  "pdf_url": "http://arxiv.org/pdf/2610.17226",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-12",
+  "tags": [
+   "density-functional-theory",
+   "implicit-solvation",
+   "molecular-dynamics"
+  ],
+  "title": "Solvating machine-learning interatomic potentials for solution-phase chemistry",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17352": {
+  "abstract": "Small polarons, formed when excess electrons become localized through lattice distortions, play a critical role in charge transport, catalysis, and degradation processes in transition-metal (TM) oxides. Whether universal machine-learning interatomic potentials (uMLIPs), which lack explicit electronic degrees of freedom, can describe them remains unclear. Here, we investigate H-induced electron localization across a range of TM oxides using a geometric descriptor based on TM-O bond-length expansion (Z-score) to identify polaronic distortions. We find that uMLIPs exhibit varying degrees of electron localization, from delocalized states to metastable small polarons, with their behavior strongly dependent on the training data and treatment of electronic correlations. In particular, the absence of Hubbard U corrections for specific TM cations in the training data leads to electron delocalization, in contrast to DFT+U predictions. Although some uMLIPs reproduce polaron hopping barriers during coupled proton-polaron transfer, all of them fail to stabilize spatially separated polaron-donor configurations, instead favoring localization near the H dopant.",
+  "authors": [
+   "Vladislav Korostelev",
+   "Pjotrs Žguns",
+   "Konstantin Klyukin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "19 pages, 5 figures; Supporting Information (11 pages, 6 figures) appended at the end",
+  "first_author": "Vladislav Korostelev",
+  "pdf_url": "http://arxiv.org/pdf/2610.17352",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17361": {
+  "abstract": "Collision cascades and defect-formation mechanisms in pure W and the WTaCrV refractory high-entropy alloy were investigated using molecular dynamics simulations over primary knock-on atom (PKA) energies of 0.1-100 keV. Machine-learning tabulated Gaussian approximation potentials (tabGAP), complemented by short-range Ziegler-Biersack-Littmark (ZBL) interactions, were employed. Analysis of the heat spike lifetime, affected region, atomic relocations and surviving defects reveals an importance of subcascade formation and presence of light elements in the alloy. Cascade splitting into subcascades contributes to the distribution of the PKA energy over a larger region in the material, nucleating less dislocations and smaller voids - latter being present only in W and absent in WTaCrV. Since cascade splitting is more frequently observed in WTaCrV, the alloy shows better resistance to primary irradiation damage compared to pure W. Apart from cascade splitting, analysis of interstitials shows that Cr and to lesser extent V, being lighter and smaller elements, accommodate the damage in form of point defects, contributing to the mitigation of formation of the dislocation loops.",
+  "authors": [
+   "Mark Fedorov",
+   "Francisco Javier Dominguez-Gutierrez"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 10 figures, 1 table",
+  "first_author": "Mark Fedorov",
+  "pdf_url": "http://arxiv.org/pdf/2610.17361",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Collision Cascade Morphology and Defect Nucleation in Pure Tungsten and an Equimolar Refractory W-Ta-Cr-V Alloy",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17366": {
+  "abstract": "General-purpose molecular dynamics software supports diverse interatomic potentials and simulation requirements. Within a simulation stage, the loaded potential model and the required calculations typically remain fixed as the atomic configuration evolves. We present the Wisevolve Potential Engine (WPE), which uses this information from GPUMD to select and reuse a GPU execution policy tailored to the model and simulation stage. GPUMD retains simulation control and ownership of the simulation data. On a single NVIDIA RTX 5090, WPE-enabled GPUMD (GPUMD-WPE) achieves a median throughput of 109 million atom-step/s across 106 neuroevolution potential (NEP) workloads. For a 15.1-million-atom diamond Si system, it sustains 142 million atom-step/s. Relative to GPUMD, geometric-mean speedups are 3.49x across these NEP workloads, 3.61x across 16 workloads using NEP with dynamic charges (qNEP), 1.24x across 28 classical-potential workloads, and 10.5x across 56 path-integral molecular dynamics (PIMD) configurations. End-to-end calculations of water structure, lattice thermal conductivity, and PIMD thermal expansion show close agreement with corresponding GPUMD results and published simulation results. A separate 12.5-million-atom Cu shock-compression simulation demonstrates its applicability to large-scale nonequilibrium dynamics. These results support model- and stage-specific specialization as a practical way to accelerate GPU potential evaluation in general-purpose molecular dynamics workflows.",
+  "authors": [
+   "Hekai Bu",
+   "Zheyong Fan"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Hekai Bu",
+  "pdf_url": "http://arxiv.org/pdf/2610.17366",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-12",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Wisevolve Potential Engine: Machine-Learning Molecular Dynamics at 100 Million Atom-Steps per Second on a Single GPU",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17611": {
+  "abstract": "The clean-energy transition is driving unprecedented demand for metals, whose extraction is among the largest industrial sources of carbon emissions. Molten-salt electrolysis offers a path toward carbon-free production of aluminum, iron, titanium, and critical metals. However, corrosive operating conditions and complex, multicomponent feedstocks make experimental development costly and challenging. Here, we introduce a first-principles framework for constructing electrochemical phase diagrams of multicomponent systems to accelerate electrode and electrolyte design and guide the selection of compatible materials and operating conditions for electrochemical cells. We derive a grand potential that generates these diagrams at scale, and supply free energies using first-principles data obtained through a fine-tuned foundation machine-learned interatomic potential. For silicon in molten CaCl$_2$, the construction not only recovers the experimental diagram when using the first-principles framework on a limited set of structures, but also predicts further domains when extended to a larger set of crystal structures. Finally, we demonstrate the predictive power of the approach by screening ten alkali and alkaline-earth halide electrolytes for aluminum electrowinning. Three thermodynamic criteria identify NaF, where cryolite emerges as the stable aluminum-bearing phase, recovering the chemistry that Hall and Héroult established empirically in 1886. The framework provides a first-principles basis for selecting compatible electrodes, electrolytes, and operating conditions toward low-carbon metal production from complex source materials.",
+  "authors": [
+   "Lorenzo Bastonero",
+   "Lucio Colombi Ciacchi",
+   "Nicola Marzari"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Lorenzo Bastonero",
+  "pdf_url": "http://arxiv.org/pdf/2610.17611",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-13",
+  "tags": [
+   "ab-initio",
+   "mlip"
+  ],
+  "title": "A grand potential for molten-salt electrochemical phase diagrams from first principles",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.17775": {
+  "abstract": "We determine explicit bulk and worst-case total variation cutoff profiles for the configuration law of a two-species Togashi--Kaneko model with a fixed population of $n$ particles and weak mutations. Boundary initial conditions introduce an additional logarithmic growth phase and change both the leading mixing-time coefficient and the limiting cutoff profile.   Let $κ_1,κ_2>0$ be the autocatalytic rate constants and put $λ_*=κ_1κ_2/(κ_1+κ_2)$. For deterministic initial configurations whose density converges to $m\\in(0,1)$, the total variation distance to equilibrium at time $t_n(s)=\\frac{\\log n}{2λ_*}+\\frac{s}{λ_*}$ converges to $\\mathcal G(r(m)e^{-s})$ for every fixed $s\\in\\mathbb R$, where $\\mathcal G(r)=d_{\\mathrm{TV}}(\\mathcal N(r,1),\\mathcal N(0,1))$, $r(m)>0$ is explicit, and $\\mathcal N(a,b^2)$ denotes the Gaussian distribution with mean $a$ and variance $b^2$. For the worst-case distance $\\mathscr D_n(t)$ over all initial configurations, we prove $\\mathscr D_n(T_n+s/λ_*)\\to\\mathcal P(s)$, where $T_n=\\left(\\frac{1}{\\min\\{κ_1,κ_2\\}}+\\frac{1}{2λ_*}\\right)\\log n$.The profile $\\mathcal P$ is the total variation distance between the equilibrium Gaussian and a Gaussian mixture whose random displacement is determined by a gamma-distributed amplitude arising from early growth at the boundary. Unlike the bulk profile, $\\mathcal P$ depends on the mutation parameters. Both cutoffs have windows of constant order, and we identify the asymptotically worst boundary configurations.",
+  "authors": [
+   "Yangrui Xiang",
+   "Wasiur R. KhudaBukhsh"
+  ],
+  "categories": [
+   "math.PR"
+  ],
+  "comment": "60 pages, 1 figure",
+  "first_author": "Yangrui Xiang",
+  "pdf_url": "http://arxiv.org/pdf/2610.17775",
+  "primary_category": "math.PR",
+  "published": "2026-10-13",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Cutoff profiles and boundary effects in the Togashi-Kaneko model of autocatalytic reactions with weak mutations",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.17943": {
+  "abstract": "We present a Python-based program that combines maximally localized Wannier functions-based first-principles electronic structure with the nonequilibrium Green's function formalism to enable efficient simulations of scanning tunneling microscopy (STM). The workflow builds upon standard density functional theory packages to construct compact transport Hamiltonians that preserve the properties of realistic materials. Superconductivity is incorporated via an effective pairing potential within the Nambu-spinor formalism, while coupling to the STM tip and substrate electrodes is treated using the wide-band limit approximation. Within this formulation, transport quantities such as current-voltage characteristics and differential conductance are evaluated in a closed analytical form. This avoids explicit numerical energy integrations and enables rapid spectroscopic calculations over broad parameter spaces. The framework provides a unified and computationally efficient approach for modeling superconducting hybrid nanostructures with spin-orbit coupling, magnetic textures, and spin polarization. Representative applications in spin chains, two-dimensional and molecular magnets on a superconductor demonstrate its robust capabilities for both simple model systems and realistic ab initio molecular structures relevant to modern STM experiments.",
+  "authors": [
+   "Oscar Moreno Segura",
+   "Dorye L. Esteras",
+   "Andrei Shumilin",
+   "Gonzalo Rivero-Carracedo",
+   "Riku Tuovinen",
+   "José J. Baldoví"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "physics.chem-ph",
+   "physics.comp-ph",
+   "quant-ph"
+  ],
+  "comment": "23 pages, 9 figures",
+  "first_author": "Oscar Moreno Segura",
+  "pdf_url": "http://arxiv.org/pdf/2610.17943",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-10-13",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18020": {
+  "abstract": "Singlet--triplet gaps set the energy scale of the two-spin manifold in molecular quantum information materials, and such systems frequently carry diradical character: metal nanoclusters, metal--organic frameworks with radical linkers, and the nitrogen--vacancy center in diamond. Time-dependent density functional theory is the standard tool at this size but describes multireference systems poorly. A closed-shell reference is inadequate for a multiconfigurational ground state, and the adiabatic kernel excludes doubly excited configurations. The particle--particle random phase approximation (\\pprpa{}) changes the particle number rather than the spin. Singlet and triplet states descend from one closed-shell reference, and double excitations enter on the same footing as single ones. Computational cost has confined \\pprpa{} to small systems, and the two-electron integrals that drive it are factorized through an auxiliary basis. We develop \\pprpa{}--as, which reduces that basis to a minimal set of atom-centered Gaussian shells whose exponents follow from free-atom radii and one global scaling factor. The approximation enters only the excited-state step, so both calculations proceed from the same self-consistent reference. We test molecules and clusters of up to 286 atoms, including heavy elements, and seven point defects in four periodic hosts, obtaining both multiplicities and their splitting without symmetry breaking or spin projection. We optimize the scaling factor and give guidance on choosing it. An order-of-magnitude smaller auxiliary basis delivers a speed-up of up to eightfold while staying within $0.03$~eV of conventional \\pprpa{}, bringing diradical nanoclusters and periodic systems within reach.",
+  "authors": [
+   "Yuchen Wang",
+   "Zhenyu Li"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuchen Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.18020",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-13",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18137": {
+  "abstract": "Kohn-Sham density-functional theory is expensive because it needs orbitals that extend over the whole system. For insulators this can be avoided by using only the diagonal of the one-electron resolvent, $g(\\mathbf{r},z)=\\langle\\mathbf{r}|(z-\\hat h)^{-1}|\\mathbf{r}\\rangle$, at a few complex energies $z$. We call the scheme local-resolvent density-functional theory (LRes-DFT). The density and the band energy are linear in $g$, so neither orbitals nor a kinetic-energy functional are needed. The complex energies are $M$ equally spaced points on a circle that encloses the occupied levels, offset by half a spacing so that no point lies on the real axis. Summing the resolvent over them is equivalent to occupying each level with $1/(1+u^M)$, where $u$ is the level's energy measured from the circle's center in units of its radius. This is a smooth step that is near 1 inside the circle and near 0 outside, and it stays between 0 and 1 for every $M$. If the circle moves with the chemical potential, forces at fixed electron number are exact. Gauss-Legendre and Zolotarev rules need fewer points when the gap is small. In three dimensions we use eigenpairs of small windows around each molecule instead of resolvents. This is divide-and-conquer (DC) with a different occupation function, and it is as accurate as DC with Fermi-Dirac occupations. For H$_2$ molecular crystals of up to 1024 electrons it agrees with Kohn-Sham to $2.5\\times10^{-7}$ Ha per electron. On one core it is slower than dense diagonalization below about 500 electrons and 3.5 times faster at 1024 electrons. It loses accuracy for disordered or compressed systems and for diffuse basis functions.",
+  "authors": [
+   "Albert Linda"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Albert Linda",
+  "pdf_url": "http://arxiv.org/pdf/2610.18137",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-13",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Local-resolvent formulation and assessment of linear-scaling Kohn-Sham calculations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18220": {
+  "abstract": "Atomistic simulations of minerals are limited by the accuracy and transferability of the force field. We introduce MINFF, a force field family for layered and non-layered oxides and hydroxides of M being Si, Al, Fe, Mg, Ca, Ti, Li and F. MINFF has no M-O bond terms. Instead M-O distances follow from electrostatics and dispersion, while a single harmonic angle term on all M-O triplets controls coordination geometry. Metal charges are DDEC6 charges from reference mineral structures, and oxygen charges are assigned by nearest-neighbour charge smearing, covering basal, apical, hydroxyl and edge sites and sites adjacent to isomorphous substitutions. The oxygen Lennard-Jones parameters are based on the OPC3 water model and change by less than 5% when re-optimised per mineral, so compatibility with OPC3 and related ion-pair potentials is measured rather than assumed. Metal Lennard-Jones parameters were fitted to unit-cell metrics, bond distances and angles, both synchronously across more than 30 reference minerals (general, GMINFF) and for individual minerals (tailored, TMINFF), each at four angle force constants (0, 250, 500 and 1500 kJ/mol/rad^2). With angle terms, MINFF reproduces experimental unit-cells metrics to within 0.5% and atom-type distances and angles to within 0.7-1.4% and 0.1-0.4%, with Global Instability Index values as low as 0.11, below those of CLAYFF (0.34) and INTERFACE (0.21). A moderate angle constant reproduces the stiff in-plane and soft shear elastic constants of phyllosilicates and improves the Kaolinite librational bands, and in hydrated Na-Montmorillonite MINFF gives the lowest residual factor against the 2W 00l pattern of the models tested. The general and tailored sets at four angle stiffnesses give direct control over the transferability-fidelity trade-off. Topologies can be generated with the atom (MATLAB) and atomipy (Python) libraries and at www.atomipy.io.",
+  "authors": [
+   "Michael Holmboe",
+   "Nathan Lavauzelle",
+   "Rogers E. Swai"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "63 pages, 7 figures and 3 tables in the main text. Supporting information (included in the same file) has 19 pages with 9 figures and 5 tables. Parameters, reference structures, misc. scripts and topology generators available via https://github.com/mholmboe/minff and https://www.atomipy.io",
+  "first_author": "Michael Holmboe",
+  "pdf_url": "http://arxiv.org/pdf/2610.18220",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "MINFF: A Family of Classical Force Fields for Minerals with Tunable Angle Terms",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18251": {
+  "abstract": "Large-area molecular junctions combining photochromic and redox-active functionalities provide an attractive platform for controlling charge transport by light. In this work, we study Au/DAEVIO/Ti/Au molecular junctions incorporated with electro-grafted layers of diarylethene-viologen with thicknesses of 12-16 nm. In the initial OFF state, the junctions exhibit low current densities and strong rectification, with a rectification ratio of 300 at 1V. Temperature-dependent measurements reveal a thermally assisted contribution at higher temperatures and a much weaker temperature dependence below 160-180K, consistent with multistep charge transport through molecular and/or interfacial states rather than direct coherent tunneling across the entire molecular layer. Under continuous in situ 385 nm irradiation, the electrical response is strongly and asymmetrically modified. The current density at +1V increases by a factor of 200, while the negative-bias current is only weakly modified, reducing the rectification ratio from 300 to 2. Illumination also produces a nonzero short-circuit current density of + 0.006mA cm-2 and an open-circuit voltage of -0.45V. These results indicate that irradiation simultaneously modifies molecular charge transport and generates a measurable photoelectric response. This behavior is consistent with light-induced changes in electronic coupling associated with DAE photocyclization, combined with photoinduced charge generation and field-dependent charge separation involving the redox-active viologen units and asymmetric electrode interfaces.",
+  "authors": [
+   "Sofyan Tahri",
+   "Samuel Decorps",
+   "Stephane Lenfant",
+   "Denis Frath",
+   "Imen Hnid"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Sofyan Tahri",
+  "pdf_url": "http://arxiv.org/pdf/2610.18251",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-13",
+  "tags": [
+   "electrochemical-interfaces"
+  ],
+  "title": "Photoinduced Modulation of Rectification and Charge Transport in Diarylethene-Viologen Molecular Junction",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18791": {
+  "abstract": "Engineered transport architectures can improve electrolyte distribution and active-material utilization in porous electrodes, yet their implementation remains limited by fabrication methods that compromise precision, throughput, active-material preservation, or scalability. Here, an integrated embossing-calendering method is introduced to pattern Prussian blue analog (PBA) porous electrodes with embedded, micro-interdigitated flow fields (e$μ$-IDFFs) for electrochemical desalination. This non-subtractive, roll-to-roll compatible method forms channels by controlling plastic deformation while simultaneously calendering the electrode, preserving active material and reducing patterning time by 100-fold relative to mechanical milling. Indentation experiments and a closed-form model further show that embossing requires 15-fold less force than stamping, while electrode microstructures show local densification beneath embossed channels. PBA electrodes are embossed with novel e$μ$-IDFFs that use continuous width-tapering with isometric flow paths that promote uniform electrolyte distribution, increase rate capability, and reduce polarization. Compared with e$μ$-IDFFs patterned using less scalable means and non-isometric flow paths, these e$μ$-IDFFs desalinate seawater-salinity feeds near to potable levels with 1.5-fold of its thermodynamic energy efficiency and water recovery. Brackish desalination benefits similarly. Tapered, isometric e$μ$-IDFFs and the embossing method introduced to pattern them are readily translated other electrochemical energy storage and separations systems.",
+  "authors": [
+   "Md Habibur Rahman",
+   "Sadia Afrin",
+   "Kyle C. Smith"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": "79 pages, 20 figures",
+  "first_author": "Md Habibur Rahman",
+  "pdf_url": "http://arxiv.org/pdf/2610.18791",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Embossing of Tapered, Isometric Micro-Interdigitated Flow Fields for Enhanced Desalination by Faradaic Deionization",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18825": {
+  "abstract": "Simulation-based Bayesian inference for Chemical Reaction Networks (CRNs) must simultaneously solve two computationally demanding problems: discriminating between overlapping reaction pathways and estimating reaction rate constants. Classical approaches, such as Sequential Monte Carlo ABC, rely on handcrafted summary statistics and scale poorly across large parameter spaces. To overcome this, we introduce a neural inference architecture. Our pipeline utilizes shared 1D-CNNs and a permutation-invariant Set Attention mechanism to learn low-dimensional summary statistics from variable-length, multi-experiment time-series data. These statistics simultaneously condition a model selection network to compute posterior model probabilities and model-specific conditional Invertible Neural Networks (cINNs) that estimate parameter posterior distributions. We demonstrate the practical utility of our approach on a real protodeboronation example, illustrating how it handles structural ambiguity and extracts kinetic parameters from competing catalyst deactivation pathways.",
+  "authors": [
+   "J. Arturo Esquivel",
+   "Jorge A. Campos-Gonzalez-Angulo",
+   "Sergio Pablo-García",
+   "Alán Aspuru-Guzik",
+   "Vianey Leos-Barajas"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "40 pages total (11 pages main text, 29 pages appendix), 18 figures. Code available at: https://github.com/Esquivel-Arturo/JNPE",
+  "first_author": "J. Arturo Esquivel",
+  "pdf_url": "http://arxiv.org/pdf/2610.18825",
+  "primary_category": "stat.ML",
+  "published": "2026-10-13",
+  "tags": [
+   "reaction-networks"
+  ],
+  "title": "Joint Neural Posterior Estimation and Model Selection for Chemical Reaction Networks",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-13"
  }
 }

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>adsorption — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <strong>30d</strong> <a href="adsorption-90d.html">90d</a> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Zhengqing Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14840.html">El Agente Potente: High-Throughput Agentic Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Tsz Wai Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14840">2609.14840</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>origin-of-life — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <strong>90d</strong> <a href="origin-of-life-360d.html">360d</a> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26814.html">An interstellar energetic and non-aqueous pathway to peptide formation</a></div></td>
 <td>Alfred Thomas Hopkinson et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26814">2607.26814</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13867.html">Cradle of Life: From the Formation of Stars to Habitable Worlds with the SKAO</a></div></td>
-<td>Eleonora Bianchi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13867">2607.13867</a></td>
 </tr>
 </tbody></table>

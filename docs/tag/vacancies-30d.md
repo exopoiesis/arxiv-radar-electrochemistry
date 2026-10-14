@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vacancies — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <strong>30d</strong> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18020.html">Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Yuchen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18020">2610.18020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td>Kazutaka Nishiguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15089.html">Role of defect trapping in the enhanced corrosion resistance of Ni-Mo alloys with yttrium and yttrium oxide additions</a></div><div class="paper-tags"><a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td>Jia-Hong Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15089">2610.15089</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="dft-u-30d.html">dft-u</a></div></td>
@@ -86,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="adsorption-30d.html">adsorption</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Zhengqing Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14846.html">Prescreening Point Defects in Semiconductors With Machine Learning</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>Paul Karlsson et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14846">2609.14846</a></td>
 </tr>
 </tbody></table>

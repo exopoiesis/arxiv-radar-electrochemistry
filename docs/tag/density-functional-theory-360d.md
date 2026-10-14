@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">816 papers</span>
+  <span class="paper-count">827 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,72 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17943.html">WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Oscar Moreno Segura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17943">2610.17943</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18020.html">Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Yuchen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18020">2610.18020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18137.html">Local-resolvent formulation and assessment of linear-scaling Kohn-Sham calculations</a></div></td>
+<td>Albert Linda</td>
+<td><a href="http://arxiv.org/abs/2610.18137">2610.18137</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16467.html">Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Markus E. Gruner et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16467">2610.16467</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Kazutaka Nishiguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16850.html">Trust-Limited Machine-Learning-Accelerated Nudged Elastic Band Calculations for Small-Polaron Hopping in Rutile TiO2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Ashish Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16850">2610.16850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17226.html">Solvating machine-learning interatomic potentials for solution-phase chemistry</a></div><div class="paper-tags"><a href="implicit-solvation-360d.html">implicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Anton Z. Ni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17226">2610.17226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Vladislav Korostelev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14992.html">EpNet-Si: Atomic Form Factors Learned from Band Structures</a></div></td>
+<td>Qiang Zhu</td>
+<td><a href="http://arxiv.org/abs/2610.14992">2610.14992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15089.html">Role of defect trapping in the enhanced corrosion resistance of Ni-Mo alloys with yttrium and yttrium oxide additions</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Jia-Hong Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15089">2610.15089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Danilo de Araújo Moura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
@@ -38,6 +104,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
 <td>Natalia Goncharova et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14392.html">Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
+<td>Evgeny Moerman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14392">2610.14392</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -4904,11 +4976,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16982.html">A first-principles investigation of the diffusivities of oxygen and oxygen defects in ThO$_2$</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Maniesha Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16982">2510.16982</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05424.html">Design and Modeling of CdGa2Te4 and ZnGa2Te4 Chalcogenide Compound-Based Photovoltaic Devices: A DFT Study along with SCAPS-1D Simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Md Hasan Shahriar Rifat et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05424">2510.05424</a></td>
 </tr>
 </tbody></table>

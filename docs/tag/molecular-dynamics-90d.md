@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16467.html">Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Markus E. Gruner et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16467">2610.16467</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Kazutaka Nishiguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16831.html">Molecular Precursor Chemistry Shapes Early-Stage Reaction Pathways in Nitrogen-Doped Carbon Nanotube Synthesis</a></div></td>
+<td>Narayan N. Som et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16831">2610.16831</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17226.html">Solvating machine-learning interatomic potentials for solution-phase chemistry</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="implicit-solvation-90d.html">implicit-solvation</a></div></td>
+<td>Anton Z. Ni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17226">2610.17226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17361.html">Collision Cascade Morphology and Defect Nucleation in Pure Tungsten and an Equimolar Refractory W-Ta-Cr-V Alloy</a></div></td>
+<td>Mark Fedorov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17361">2610.17361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17366.html">Wisevolve Potential Engine: Machine-Learning Molecular Dynamics at 100 Million Atom-Steps per Second on a Single GPU</a></div></td>
+<td>Hekai Bu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17366">2610.17366</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Danilo de Araújo Moura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div></td>
@@ -728,17 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14951.html">Self-organized defect clustering and concentration-dependent vacancy diffusion in MoS$_2$</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Aaron Flötotto et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14951">2607.14951</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13777.html">Accurate Solvation Properties in supercritical CO$_2$ with Molecular Density Functional Theory</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
-<td>Mohamed Houssein Mohamed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13777">2607.13777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13966.html">Confinement effects on protein stability in a freezing water environment</a></div></td>
-<td>Yanis R. Espinosa et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13966">2607.13966</a></td>
 </tr>
 </tbody></table>
