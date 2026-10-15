@@ -2318,5 +2318,203 @@
    "Redox and Autocatalytic Electrochemical Networks"
   ],
   "updated": "2026-10-13"
+ },
+ "2610.19383": {
+  "abstract": "In this work, we investigate the phase stability, electronic structure, and superconducting properties of the two-dimensional ternary borocarbides MB$_4$C$_2$ (M = Ca, Mg) using first-principles calculations and fully anisotropic Migdal-Eliashberg theory. Ab initio molecular dynamics, phonon dispersion, and elastic constant calculations confirm that both monolayers are dynamically, thermally, and mechanically stable. Electronic structure analysis reveals an intrinsic metallic nature with a multiband Fermi surface, where states near the $Γ$ point are dominated by in-plane B-$p_x$, $p_y$ orbitals, while zone-boundary states are primarily derived from out-of-plane B-$p_z$ orbitals. The electron-phonon coupling is determined to be $λ= 0.64$ for both materials, driven by the rigid covalent B-B and B-C honeycomb networks. By solving the anisotropic Eliashberg equations, we predict that CaB$_4$C$_2$ and MgB$_4$C$_2$ are nodeless two-gap superconductors with critical temperatures ($T_c$) of 33.4 K and 33.8 K, respectively, at a Coulomb pseudopotential of $μ= 0.10$. Furthermore, the superconducting state remains robust under increased Coulomb repulsion ($μ= 0.13$), retaining elevated $T_c$ values of 31.2 K and 30.9 K, respectively. These findings establish MB$_4$C$_2$ monolayers as promising candidates for nanoscale superconducting applications and enrich the family of two-dimensional multigap superconductors.",
+  "authors": [
+   "Jakkapat Seeyangnok",
+   "Udomsilp Pinsook",
+   "Graeme J Ackland"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "9 pages, 8 figures",
+  "first_author": "Jakkapat Seeyangnok",
+  "pdf_url": "http://arxiv.org/pdf/2610.19383",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-10-14",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics",
+   "phase-stability"
+  ],
+  "title": "Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19842": {
+  "abstract": "The formation and motion of small polarons are ubiquitous in energy materials and influence photoinduced processes. Polaron transport is governed by thermally activated lattice dynamics and rare hopping events, requiring spatial and temporal scales only attainable with machine-learning molecular dynamics, which enables extensive sampling of atomic trajectories and polaron configurations over nanoseconds. Moreover, the Born-Oppenheimer approximation underlying standard ab initio molecular dynamics cannot describe the nonadiabatic coupling between electronic states mediated by nuclear motion, which controls energy exchange and excited-state relaxation. Here, we develop a simulation framework that combines machine-learning-assisted polaron dynamics with nonadiabatic molecular dynamics to bridge these complementary aspects of polaron physics, and determine how different polaron-hopping mechanisms affect excited-state dynamics. The enlarged trajectory space allows us to provide the first direct dynamical confirmation of the adiabatic or nonadiabatic classification of polaron hopping regimes originally proposed on the basis of static Marcus-theory arguments, and to connect individual hopping events directly to nonadiabatic electronic transitions. In bulk TiO$_2$, nonadiabatic hoppings occur preferentially when the energy of the polaron-induced gap state approaches the conduction-band manifold, promoting both electronic de-excitation and, via a Landau-Zener mechanism, excitation from the ground state. In MgO, the predominantly adiabatic character of hole-polaron hopping suppresses these effects, leading to longer charge-carrier lifetimes and an absence of thermally activated excitations. At the rutile TiO$_2$(110) surface, hopping events are rarer than in bulk because the excess electron is strongly stabilized in the subsurface region, leading to correspondingly longer de-excitation times.",
+  "authors": [
+   "Daniela Mangano",
+   "Luca Leoni",
+   "Zhongfei Xu",
+   "Li-Min Liu",
+   "Cesare Franchini"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "main text: 22 pages, 13 figures; supplement: 7 pages, 7 figures",
+  "first_author": "Daniela Mangano",
+  "pdf_url": "http://arxiv.org/pdf/2610.19842",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Nonadiabatic polaron dynamics from machine-learned hopping trajectories",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19846": {
+  "abstract": "Amorphous alkali oxychlorides are fast ion conductors, but their atomic structure remains unresolved. Total scattering sums all partial pair correlations into one curve that has no unique inversion, so the structure must be modeled. Melt-quench molecular dynamics builds a model from the interatomic potential alone, and reverse Monte Carlo (RMC) builds one from the measurement alone. The two have rarely been compared with all else held fixed. We benchmark both routes and two hybrid schemes on amorphous \\ce{Li_{0.9}NbO_{0.9}Cl_{4.1}} against one neutron pair distribution function with one foundation potential. The hybrid schemes put the energy either in the acceptance rule (inline) or in short relaxations between blocks of refinement (alternating). Each refinement starts from a melt-quench glass or from a random packing of isolated units. The glass has the lowest energy and places the first-shell peaks correctly, but carries almost none of the oscillation beyond 6~Å (goodness of fit $R^{2} = 0.29$). Pure RMC fits the measurement to within its counting noise ($R^{2} = 0.99$), but at more than $1.3$~eV/atom above the glass, and niobium loses about half of its first-shell chlorine. Started from the glass, both hybrid schemes reach $R^{2} = 0.92$ within $0.1$~eV/atom of its energy and keep its coordination chemistry. Structures from the two inputs fit almost equally well and differ in energy by a tenth of the RMC penalty, yet they differ in whether their polyhedra are connected. The input is therefore part of the method. We recommend quenching a glass with a foundation potential and refining it against the measurement with a hybrid scheme. The resulting structure carries both the local chemistry and the medium-range order, and it is the starting point for modeling ion transport in these conductors.",
+  "authors": [
+   "Xintian Wang",
+   "Xinyu Zhang",
+   "Denys Butenko",
+   "Bolong Hong",
+   "Jinlong Zhu",
+   "Peichen Zhong"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Xintian Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.19846",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "ion-transport",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "A practical route to amorphous solid-state electrolyte structures by hybrid reverse Monte Carlo with foundation potentials",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20063": {
+  "abstract": "Defect engineering is a crucial tool for tuning and tailoring the properties of two-dimensional (2D) materials. A key challenge is identifying which defects are kinetically stable at room temperature and sufficiently promising to warrant further investigation. However, identifying stable defects with suitable properties using first-principles calculations, such as density functional theory (DFT) is computationally demanding, effectively limiting the scope of high-throughput studies. In this work, we investigate whether the machine learning interatomic potential MACE can reproduce sorption trends (adsorption vs. absorption) previously obtained from high-throughput DFT calculations and extend the analysis to elevated temperatures. A total of 17,624 defect structures from the ADAQ database are simulated using MACE-accelerated molecular dynamics (MD) at both 0 K and 300 K. The results show that MACE successfully reproduces the overall sorption trends observed in DFT calculations at 0 K at a fraction of the computational cost. Simulations performed at 300 K further indicate that the qualitative sorption trends remain largely the same when including finite-temperature effects. These findings demonstrate that MACE-driven MD can be used as an effective high-throughput prescreening tool for defect-related studies in 2D materials, specially related to sorption. While conventional first-principles methods, such as DFT, remain necessary for accurate and quantitative validation, the use of MLIPs enables MD simulations of finite-temperature defect behavior at a fraction of the computational cost of DFT-based MD.",
+  "authors": [
+   "Nils-Ruben Skogemyr",
+   "Albin Sjöstedt",
+   "Isak Wernroth",
+   "Isak Häggqvist",
+   "Isac Ljungwald",
+   "Hans-Ove Åkesson",
+   "Henricus R. A. ten Eikelder",
+   "Rickard Armiento",
+   "Joel Davidsson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nils-Ruben Skogemyr",
+  "pdf_url": "http://arxiv.org/pdf/2610.20063",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "density-functional-theory",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20154": {
+  "abstract": "Fluorite-structured ferroelectrics, such as hafnium zirconium oxide ($Hf_{1-x}Zr_{x}O_{2}$), are among the most promising materials for developing the next generation of low-power nonvolatile memories. Emulating realistic operating scenarios for ferroelectric memories requires performing access rate-dependent endurance tests. The access rate-dependent reduction of the switched polarization cannot be described as a mere superposition of fatigue and imprint effects, which are observed in conventional endurance and retention tests, respectively. The interplay between these degradation mechanisms and its correlation with the delay time in between the programming pulses remains unclear. Combining electrical testing through voltage pulses with ab initio and drift-diffusion simulations provides a comprehensive perspective on the microscopic origin of the access rate-dependent reduction of the switched polarization of ferroelectric capacitors based on product-relevant 5 nm thick $Hf_{0.5}Zr_{0.5}O_{2}$ films. The role of oxygen vacancy defects accumulating at the electrode-ferroelectric interface with delay time in reducing the fraction of switchable domains is elucidated considering electron transfer processes which change the defect charge state. Building upon this theoretical understanding, a physics-based model to extrapolate the long-term access rate-dependent endurance performance is developed and experimentally verified for temperatures up to 135°C and delay times up to 2 ms.",
+  "authors": [
+   "Roberto Guido",
+   "Julie Laguerre",
+   "Pramoda Vishnumurthy",
+   "Florian Wunderwald",
+   "Kristina Holsgrove",
+   "Thomas Mikolajick",
+   "Sou-Chi Chang",
+   "Alfred Kersch",
+   "Uwe Schroeder"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Roberto Guido",
+  "pdf_url": "http://arxiv.org/pdf/2610.20154",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "ab-initio",
+   "vacancies"
+  ],
+  "title": "Access Rate-Dependent Endurance Behavior of Ferroelectric Hafnium Zirconium Oxide Capacitors",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20211": {
+  "abstract": "Classical film theory predicts a finite diffusion-limited current at porous electrodes. However, over-limiting currents (OLCs), which exceed this limit, are often observed and have been attributed to surface charge, confinement, or electrokinetic effects. Here, we use a frequency-domain framework to identify a different mechanism governed by the time scale of concentration variation. For perfectly reactive interfaces, the spectral Sherwood number, a frequency-dependent dimensionless measure of interfacial mass transfer relative to molecular diffusion, grows as $\\Shnd\\simω^{1/2}$ at high frequency, while its phase approaches $π/4$. This response corresponds to the semi-infinite Warburg limit of the electrochemical impedance. A scaling analysis shows that the exponent and prefactor are determined by diffusion within a thin layer adjacent to the interface and are therefore independent of the global pore geometry. Numerical results for parallel plates, circular tubes, and twelve porous microstructures confirm this scaling. Geometry, flow strength, and flow direction affect the low-frequency response and crossover frequency, but not the asymptotic scaling in the high-frequency limit. This temporal route to OLCs requires neither surface charge nor confinement and could inform the design of systems for pulsed electrodeposition, mineral recovery and renewable-energy storage.",
+  "authors": [
+   "Md Abdul Hamid",
+   "Kyle C. Smith"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Md Abdul Hamid",
+  "pdf_url": "http://arxiv.org/pdf/2610.20211",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "High-Frequency Mass Transfer Enabling Over-Limiting Currents in Porous Electrodes",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20216": {
+  "abstract": "We introduce a compact Topological-Geometrical Descriptor (TGD) for planar two-dimensional carbon networks. Atomic coordinates are mapped to a periodic planar graph and represented through ring populations, topological-charge statistics, projected ring geometry, and dual-graph defect adjacency. The resulting modeling vector contains 19 physically interpretable features. We evaluate TGD on 120 published planar carbon allotropes using the DFT relative energy per atom with respect to graphene as the target. Repeated five-fold cross-validation with gradient boosting yields a mean absolute error (MAE) of 0.0826 +/- 0.0138 eV/atom and R2 = 0.803 +/- 0.074. Under the same validation protocol, TGD gives a mean MAE of 0.0828 eV/atom, compared with 0.0929 eV/atom for a 203-feature Matminer representation. We further analyze 360 vacancy-defected graphene configurations spanning 12 vacancy concentrations from 2 to 24 percent. When entire vacancy concentrations are held out, TGD gives a pooled MAE of 0.269 eV/vacancy and R2 = 0.861, outperforming simple baselines based on vacancy concentration alone or non-hexagonal-ring fraction alone. Sensitivity tests show that the inferred edge sets are stable to moderate changes in the adaptive bond factor. Finally, the mean absolute topological charge is examined as a one-variable empirical surrogate for the allotrope dataset and is treated explicitly as dataset-specific rather than universal. These results show that TGD combines compact prediction with direct structural interpretation while making clear the present restriction to single-layer planar carbon networks.",
+  "authors": [
+   "Rômulo Uriel Liberal de Oliveira",
+   "Raphael Matozo Tromer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rômulo Uriel Liberal de Oliveira",
+  "pdf_url": "http://arxiv.org/pdf/2610.20216",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "A Topological\\-Geometrical Descriptor (TGD) for Scalable and Interpretable Modeling of Two\\-Dimensional Carbon Networks",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-14"
  }
 }
