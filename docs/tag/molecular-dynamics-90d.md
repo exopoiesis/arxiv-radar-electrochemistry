@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21625.html">Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass</a></div></td>
+<td>Nannan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21625">2610.21625</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
@@ -764,11 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16589.html">Beyond Janus Atomic Ordering: High-Throughput First-Principles Search for Hidden MoSO Monolayer Structures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Zhijing Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16589">2607.16589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16167.html">Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK</a></div><div class="paper-tags"><a href="corrosion-90d.html">corrosion</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Sadia Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16167">2607.16167</a></td>
 </tr>
 </tbody></table>

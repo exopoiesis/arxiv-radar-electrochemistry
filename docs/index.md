@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-10-15._
+_Updated 2026-10-16._
 
-**3527** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3530** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21542.html">Imaging defects in two-dimensional crystals by convergent beam electron diffraction</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Tatiana Latychevskaia et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21542">2610.21542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21625.html">Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Nannan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21625">2610.21625</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.21849.html">Frontiers of chemical complexity in the interstellar medium: unveiling the cosmic origins of life</a></div><div class="paper-tags"><a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
+<td>Víctor M. Rivilla et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21849">2610.21849</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
@@ -177,23 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.15733.html">Kernel-Level Constant-Potential Molecular Dynamics in GROMACS</a></div></td>
 <td>Sheng Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15733">2610.15733</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.15986.html">Extreme anharmonicity determines the superionic transition in the prototypical antifluorite Li$_2$O</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Lorenzo Bastonero et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15986">2610.15986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14429.html">Large Out-of-plane Polarization in Two-dimensional Bi2O3 Monolayers Predicted by an AI-driven Inverse-design Workflow</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Hongmei Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14429">2610.14429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14992.html">EpNet-Si: Atomic Form Factors Learned from Band Structures</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Qiang Zhu</td>
-<td><a href="http://arxiv.org/abs/2610.14992">2610.14992</a></td>
 </tr>
 </tbody></table>

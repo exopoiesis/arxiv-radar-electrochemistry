@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">827 papers</span>
+  <span class="paper-count">823 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21542.html">Imaging defects in two-dimensional crystals by convergent beam electron diffraction</a></div></td>
+<td>Tatiana Latychevskaia et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21542">2610.21542</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20063.html">Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -4946,35 +4952,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18754.html">Interplay of Magnetism, Band Gap Tuning, Optical, and Thermoelectric Responses in Fe-Doped YMnO$_3$: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Kazi Mazba Kamal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18754">2510.18754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17336.html">Chemically tailored planar defect phases in the Ta-Fe μ-phase</a></div></td>
-<td>Christina Gasper et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17336">2510.17336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17356.html">A Computational Study for Screening High-Selectivity Inhibitors in Area-Selective Atomic Layer Deposition on Amorphous Surfaces</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Gijin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17356">2510.17356</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17606.html">Sub-unit cell engineering of CrVO$_3$ superlattice thin films</a></div></td>
-<td>Claudio Bellani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17606">2510.17606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18061.html">Oxidation State Dynamics and Emerging Patterns in Magnetite</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Emre Gürsoy et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18061">2510.18061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18078.html">First-Principles Investigation of the Physical and Thermoelectric Properties of Chalcogenide Compounds for Waste-Heat Recovery</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Md Hasan Shahriar Rifat et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18078">2510.18078</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1172,11 +1172,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19486.html">Active high-entropy photocatalyst designed by incorporating alkali metals to achieve d0+d10+s0 cationic configurations and wide electronegativity mismatch</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
 <td>Jacqueline Hidalgo-Jimenez et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19486">2510.19486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18033.html">Benchmarking 34 OpenKIM Nickel Potentials with an Emphasis on Surfaces and Extended Defects</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Matthew Thoms et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18033">2510.18033</a></td>
 </tr>
 </tbody></table>

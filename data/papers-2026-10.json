@@ -2516,5 +2516,117 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-10-14"
+ },
+ "2610.21542": {
+  "abstract": "Convergent beam electron diffraction (CBED), recently demonstrated on two-dimensional (2D) materials, offers a number of interesting applications such as imaging atomic in- and out-of plane shifts, interlayer distances, and individual adsorbates. In this study, we show how CBED allows for atomic-precision imaging of individual defects in 2D materials using one single-shot intensity measurement. In combination with structural calculations using density functional theory, we present simulated CBED patterns for various defects in graphene, each of which exhibits a unique fingerprint distribution. We also show how atomic positions, including the individual atomic defects in graphene, can be reconstructed by iterative phase retrieval from a single CBED pattern.",
+  "authors": [
+   "Tatiana Latychevskaia",
+   "Pengru Huang",
+   "Kostya S. Novoselov"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "physics.comp-ph",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Tatiana Latychevskaia",
+  "pdf_url": "http://arxiv.org/pdf/2610.21542",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-10-15",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Imaging defects in two-dimensional crystals by convergent beam electron diffraction",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21625": {
+  "abstract": "Whether sub-yield aging and over-yield rejuvenation in cyclically deformed amorphous solids share a common physical origin or arise from distinct microscopic mechanisms remains a fundamental yet unresolved debate. Using molecular dynamics simulations of a metallic glass, we resolve this duality by uncovering a unified dynamic clock that dictates energy landscape navigation across both regimes. We show that the transition between regimes reflects a fundamental shift in energy injection pathways: (i) In the over-yield regime, rejuvenation is driven as a first-order response to macroscopic plastic shear work derived from Herschel-Bulkley non-linear rheological scaling. (ii) In contrast, this macroscopic work scaling fails in the sub-yield regime, where early-stage energy landscape elevation and subsequent cyclic aging are instead governed by second-order localized elastic stress fluctuations acting as a mechanical catalyst and noise source, respectively. Intense high-rate agitation increases the escape probability from deeper potential energy minima, thereby suppressing the retention efficiency of structural relaxation. By identifying these localized fluctuations as the primary origin of rate-attenuated sub-yield relaxation, we establish an exact scaling identity relating the relaxation attenuation exponent to the stress fluctuation exponent. This work directly bridges non-linear rheology with stress fluctuation dynamics, providing a unified framework to predict and manipulate structural evolution in amorphous solids.",
+  "authors": [
+   "Nannan Ren",
+   "Hongfei Zhang",
+   "Rui Wan",
+   "Pengfei Guan",
+   "Limin Wang",
+   "Baoshuang Shang"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nannan Ren",
+  "pdf_url": "http://arxiv.org/pdf/2610.21625",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-15",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21849": {
+  "abstract": "The interstellar medium (ISM) contains a rich molecular inventory that provides a unique window into the chemistry operating during star and planet formation and its connection to prebiotic chemistry. More than 350 interstellar molecules are currently known, including increasingly complex organic molecules and species containing elements beyond the second row of the periodic table. Yet the limits that interstellar chemical complexity can reach, its evolution from molecular clouds to planetary systems, and its contribution to the molecular feedstock of life remain poorly constrained. Addressing these questions requires sensitive, broadband observations capable of detecting multiple weak rotational transitions of molecular species, such as amino acids, nucleobases, sugars and lipids, towards star- and planet-forming environments. Current facilities, including ALMA, are limited by instantaneous spectral coverage, sensitivity (especially on extended spatial scales), and the trade-off between total bandwidth and integration time. The proposed ALMA2040 facility would overcome these limitations through at least a tenfold improvement in spectral-line sensitivity, high-fidelity imaging from sub-arcsecond to tens-of-arcsecond scales, and ultra-broad instantaneous frequency coverage from 35 to 950 GHz at high spectral resolution. These capabilities would allow systematic detections of species with molecular abundances with respect to H$_2$ below 10$^{-11}$, facilitating the identification of new complex and heavy-element-bearing species through multiple transitions, and providing complete molecular inventories across evolutionary stages. ALMA2040 would thus make it possible to comprehensively investigate the emergence and evolution of chemical complexity, and to determine whether molecular precursors of prebiotic chemistry are widespread throughout the Galaxy.",
+  "authors": [
+   "Víctor M. Rivilla",
+   "Miguel Sanz-Novo",
+   "Maite Beltrán",
+   "Jes Jørgensen",
+   "Laura Colzi",
+   "Alain Baudry",
+   "Maria Drozdovskaya",
+   "Timea Csengeri",
+   "Sébastien Maret",
+   "Frederique Motte",
+   "Maryvonne Gerin",
+   "Sergio Martín",
+   "Audrey Coutens",
+   "Claudia Toci",
+   "Katharine Johnston",
+   "Pamela Klaassen",
+   "Eleonora Bianchi",
+   "Claudio Codella",
+   "Linda Podio",
+   "Giovanni Sabatini",
+   "Marta de Simone",
+   "Francesco Fontani",
+   "Álvaro Sánchez-Monge",
+   "Izaskun Jiménez-Serra",
+   "Aurore Bacmann",
+   "Gary Fuller",
+   "Peter Schilke",
+   "Michael Küffmeier",
+   "Shaoshang Zeng",
+   "Adam Ginsburg",
+   "Brett McGuire",
+   "Pablo García",
+   "Nami Sakai",
+   "Maxime Tanious",
+   "Korash Assani",
+   "Miguel A. Requena-Torres"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.GA"
+  ],
+  "comment": "Part of the ALMA2040 White Paper Series",
+  "first_author": "Víctor M. Rivilla",
+  "pdf_url": "http://arxiv.org/pdf/2610.21849",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-10-15",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Frontiers of chemical complexity in the interstellar medium: unveiling the cosmic origins of life",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-15"
  }
 }
