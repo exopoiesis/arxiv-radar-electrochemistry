@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">475 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2840,29 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20659.html">Kinetics of Peierls dimerization transition: Machine learning force-field approach</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Ho Jang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20659">2510.20659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18637.html">Measuring vacancy-type defect density in monolayer semiconductors</a></div></td>
-<td>Aleksandar Radic et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18637">2409.18637</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16654.html">Structure and stability of 7:3 rare earth oxide-phosphates: a combined ab initio and experimental study</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Ligen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16654">2510.16654</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18426.html">Ideal Nodal-Sphere Semimetal in the Three-Dimensional Boron Allotrope CT-B$_{24}$</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Xiao-jing Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18426">2510.18426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18754.html">Interplay of Magnetism, Band Gap Tuning, Optical, and Thermoelectric Responses in Fe-Doped YMnO$_3$: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Kazi Mazba Kamal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18754">2510.18754</a></td>
 </tr>
 </tbody></table>

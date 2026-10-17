@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,29 +422,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21065.html">Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys</a></div></td>
 <td>Wai-Ga D. Ho et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21065">2609.21065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div></td>
-<td>R. Mathew Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18787.html">Spectroscopy of deprotonated anions of cold chlorophyll pigments, an approach to their photosynthetic properties</a></div></td>
-<td>A. Muheddine et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18787">2609.18787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 </tbody></table>

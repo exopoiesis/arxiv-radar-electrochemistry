@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcopyrite — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="chalcopyrite-7d.html">7d</a> <a href="chalcopyrite-30d.html">30d</a> <a href="chalcopyrite-90d.html">90d</a> <strong>360d</strong> <a href="chalcopyrite-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01459.html">Silver Alloyed Wide Bandgap (Ag,Cu)(In,Ga)S2 Thin Film Solar Cells With 15.5% Efficiency</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a></div></td>
 <td>Yucheng Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01459">2512.01459</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18331.html">Chemical States and Local Structure in Cu-Deficient CuInSe2 Thin Films: Insights into Engineering and Bandgap Narrowing</a></div></td>
-<td>Ahmed Yousef Mohamed et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18331">2510.18331</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,17 +326,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20986.html">Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Sabine Leroch et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20986">2609.20986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="grotthuss-30d.html">grotthuss</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 </tbody></table>

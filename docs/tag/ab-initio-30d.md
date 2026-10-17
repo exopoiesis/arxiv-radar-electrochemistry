@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,23 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20616.html">Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides</a></div></td>
 <td>Yogendra Limbu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20616">2609.20616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17945.html">Magnetically coupled charge-transport crossover and giant negative magnetoresistance in iodine-incorporated Cr$_2$Se$_3$</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a> · <a href="phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Bikash Das et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17945">2609.17945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="grotthuss-30d.html">grotthuss</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
 </tr>
 </tbody></table>

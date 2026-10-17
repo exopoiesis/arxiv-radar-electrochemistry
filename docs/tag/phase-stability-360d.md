@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-stability — 360d</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <a href="phase-stability-30d.html">30d</a> <a href="phase-stability-90d.html">90d</a> <strong>360d</strong> <a href="phase-stability-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27429.html">Hexagonal BeX (X: S, Te) monolayer as potential electrode material for alkali metal-ion batteries: A DFT perspective</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Hetvi Jadav et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27429">2510.27429</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16654.html">Structure and stability of 7:3 rare earth oxide-phosphates: a combined ab initio and experimental study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Ligen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16654">2510.16654</a></td>
 </tr>
 </tbody></table>
