@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,11 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20426.html">Vacancy diffusion on a brominated Si(100) surface: Critical effect of the dangling bond charge state</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>T. V. Pavlova et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20426">2510.20426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19486.html">Active high-entropy photocatalyst designed by incorporating alkali metals to achieve d0+d10+s0 cationic configurations and wide electronegativity mismatch</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a></div></td>
-<td>Jacqueline Hidalgo-Jimenez et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19486">2510.19486</a></td>
 </tr>
 </tbody></table>

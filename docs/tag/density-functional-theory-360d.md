@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">820 papers</span>
+  <span class="paper-count">818 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4922,17 +4922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20426.html">Vacancy diffusion on a brominated Si(100) surface: Critical effect of the dangling bond charge state</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>T. V. Pavlova et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20426">2510.20426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17151.html">Achieving Empirical Potential Efficiency with DFT Accuracy: A Neuroevolution Potential for the $α$-Fe--C--H System</a></div></td>
-<td>Fan-Shun Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17151">2510.17151</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19774.html">How Accurate Are DFT Forces? Unexpectedly Large Uncertainties in Molecular Datasets</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Domantas Kuryla et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19774">2510.19774</a></td>
 </tr>
 </tbody></table>

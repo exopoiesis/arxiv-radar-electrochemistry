@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">580 papers</span>
+  <span class="paper-count">578 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3482,17 +3482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23621.html">Speeding Up MACE: Low-Precision Tricks for Equivarient Force Fields</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
 <td>Alexandre Benoit</td>
 <td><a href="http://arxiv.org/abs/2510.23621">2510.23621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12143.html">Asymmetric Effects Underlying Dynamic Heterogeneity in Miscible Blends of Poly(methyl methacrylate) with Poly(ethylene oxide)</a></div></td>
-<td>Shannon Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12143">2506.12143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13568.html">Rippled Moire Superlattices for Decoupled Ferroelectric Bits</a></div></td>
-<td>Di Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13568">2510.13568</a></td>
 </tr>
 </tbody></table>
