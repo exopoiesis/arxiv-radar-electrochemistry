@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22850.html">Interplay between high-entropy effects and the superionic transition in fluorite oxides: A liquid-like perspective</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a></div></td>
+<td>Fengnian Zhuang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22850">2610.22850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23291.html">Electrochemical Molecular Dynamics within the Finite-Field Framework</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Krystof Brezina et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23291">2610.23291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a></div></td>
+<td>Xiaoqing Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23371">2610.23371</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21625.html">Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass</a></div></td>
@@ -284,29 +302,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23575.html">Multiscale Modeling of Ion Transport in Nanopores: Fitting Implicit-Water Radial Diffusion Profiles to Explicit-Water Molecular Dynamics</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a></div></td>
 <td>Mónika Valiskó et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23575">2609.23575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21536.html">From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mlip-30d.html">mlip</a> · <a href="water-adsorption-30d.html">water-adsorption</a></div></td>
-<td>Tuan Minh Do et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21536">2609.21536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21935.html">fix uvt and fix pimd/uvt: A Unified LAMMPS Framework for Constant-Potential Constant-Temperature Molecular Dynamics</a></div><div class="paper-tags"><a href="electrochemical-interfaces-30d.html">electrochemical-interfaces</a></div></td>
-<td>Li Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21935">2609.21935</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21999.html">Merons Mediate Re-Ordering of Curved Rods Under Shear Flow</a></div></td>
-<td>Nicholas W. Hackney et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21999">2609.21999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22509.html">Experiments and Modeling of Defect Dynamics and BTI Behavior in Doped InO TFTs during $400^\circ$C Post-Processing Forming Gas Annealing</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Yu-Hsin Kuo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22509">2609.22509</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reaction-networks — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <a href="reaction-networks-90d.html">90d</a> <strong>360d</strong> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11073.html">General multi-scale estimates for Lyapunov data of Perron-Frobenius matrices. The case of diluted autocatalytic chemical reaction networks</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a></div></td>
 <td>Jeremie Unterberger</td>
 <td><a href="http://arxiv.org/abs/2511.11073">2511.11073</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20593.html">The Long-Term Impact of Direct Capture Approaches to Carbon Dioxide Removal</a></div><div class="paper-tags"><a href="carbonate-silicate-cycle-360d.html">carbonate-silicate-cycle</a></div></td>
-<td>Al Jay Lan J. Alamin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20593">2510.20593</a></td>
 </tr>
 </tbody></table>

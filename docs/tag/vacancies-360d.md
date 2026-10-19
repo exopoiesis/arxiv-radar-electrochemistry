@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.20216">2610.20216</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Xiaoya He et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22394">2610.22394</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18020.html">Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Yuchen Wang et al.</td>
@@ -1160,11 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16568.html">Defects at Play: Shaping the Photophysics and Photochemistry of Ice</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Marta Monti et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16568">2506.16568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20426.html">Vacancy diffusion on a brominated Si(100) surface: Critical effect of the dangling bond charge state</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>T. V. Pavlova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20426">2510.20426</a></td>
 </tr>
 </tbody></table>

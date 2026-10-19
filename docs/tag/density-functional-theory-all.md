@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1493 papers</span>
+  <span class="paper-count">1495 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="mace-all.html">mace</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Xiaoqing Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23371">2610.23371</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21542.html">Imaging defects in two-dimensional crystals by convergent beam electron diffraction</a></div></td>
@@ -32,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20216.html">A Topological\-Geometrical Descriptor (TGD) for Scalable and Interpretable Modeling of Two\-Dimensional Carbon Networks</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
 <td>Rômulo Uriel Liberal de Oliveira et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20216">2610.20216</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
+<td>Xiaoya He et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22394">2610.22394</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>

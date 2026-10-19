@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">818 papers</span>
+  <span class="paper-count">817 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Xiaoqing Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23371">2610.23371</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21542.html">Imaging defects in two-dimensional crystals by convergent beam electron diffraction</a></div></td>
@@ -32,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20216.html">A Topological\-Geometrical Descriptor (TGD) for Scalable and Interpretable Modeling of Two\-Dimensional Carbon Networks</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Rômulo Uriel Liberal de Oliveira et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20216">2610.20216</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Xiaoya He et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22394">2610.22394</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>
@@ -4904,23 +4916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22000.html">Tracking Microhydration of the NaCl Rocksalt Molecule in Helium Nanodroplets by Penning Ionization Electron Spectroscopy</a></div><div class="paper-tags"><a href="hydration-shell-360d.html">hydration-shell</a> · <a href="ion-pairing-360d.html">ion-pairing</a></div></td>
 <td>Ltaief Ben Ltaief et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22000">2510.22000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20179.html">A follow-up on the sulphur atom popping model for MoS$_2$ memristor</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sanchali Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20179">2509.20179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20420.html">PBr3 Adsorption and Dissociation on the Si(100) Surface</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Vladimir M. Shevlyuga et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20420">2510.20420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20426.html">Vacancy diffusion on a brominated Si(100) surface: Critical effect of the dangling bond charge state</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>T. V. Pavlova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20426">2510.20426</a></td>
 </tr>
 </tbody></table>

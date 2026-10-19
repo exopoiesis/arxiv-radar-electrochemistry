@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23291.html">Electrochemical Molecular Dynamics within the Finite-Field Framework</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Krystof Brezina et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23291">2610.23291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23643.html">Scalable long-range machine learning interatomic potentials with electrical response for atomistic material modeling</a></div></td>
+<td>Yicheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23643">2610.23643</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
@@ -2828,17 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05925.html">First principles approaches and concepts for electrochemical systems</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a></div></td>
 <td>Mira Todorova et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05925">2411.05925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12888.html">aims-PAX: Parallel Active eXploration for the automated construction of Machine Learning Force Fields</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Tobias Henkes et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12888">2508.12888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20659.html">Kinetics of Peierls dimerization transition: Machine learning force-field approach</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ho Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20659">2510.20659</a></td>
 </tr>
 </tbody></table>

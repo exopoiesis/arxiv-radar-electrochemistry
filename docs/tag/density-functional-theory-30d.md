@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Xiaoqing Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23371">2610.23371</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21542.html">Imaging defects in two-dimensional crystals by convergent beam electron diffraction</a></div></td>
@@ -32,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20216.html">A Topological\-Geometrical Descriptor (TGD) for Scalable and Interpretable Modeling of Two\-Dimensional Carbon Networks</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Rômulo Uriel Liberal de Oliveira et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20216">2610.20216</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Xiaoya He et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22394">2610.22394</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>
@@ -362,41 +374,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23641.html">Computational investigation of a perovskite LaBiO$_{3}$ for photovoltaic, thermoelectric, and optoelectronic applications</a></div></td>
 <td>M. M. Woldemariam et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23641">2609.23641</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21536.html">From sparse quantum-computing data to atomistic simulation with universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="water-adsorption-30d.html">water-adsorption</a></div></td>
-<td>Tuan Minh Do et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21536">2609.21536</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21551.html">Orbital angular momentum accumulation in SrVO3 thin films</a></div></td>
-<td>Julien Brehin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21551">2609.21551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21678.html">Adsorption of Phosgene Gas on Pristine and Noble Metal-Doped B12N12 Nanocages: Insights from Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
-<td>Shahariar Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21678">2609.21678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21984.html">PAOFLOW: an automated suite for ab initio electronic, transport, and topological properties of materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-u-30d.html">dft-u</a></div></td>
-<td>Anooja Jayaraj et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21984">2609.21984</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22509.html">Experiments and Modeling of Defect Dynamics and BTI Behavior in Doped InO TFTs during $400^\circ$C Post-Processing Forming Gas Annealing</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yu-Hsin Kuo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22509">2609.22509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22580.html">Vanadium doping induced valley asymmetries in WS$_2$ monolayers</a></div></td>
-<td>Frederico B. Sousa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22580">2609.22580</a></td>
 </tr>
 </tbody></table>
