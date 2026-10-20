@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">817 papers</span>
+  <span class="paper-count">819 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26301.html">Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Grace Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26301">2610.26301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Joseph Hart et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25194.html">Electronic structure, magnetic order and anisotropic magnetoresistance in $\mathbf{Eu_{1-x}Gd_xCd_2P_2}$ (0 $\le$ x $\le$1)</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Yogendra Singh Negi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25194">2610.25194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25295.html">Instability-driven segregation of V group transition metals on HEB$_2$ grain boundaries influencing enhanced mechanical properties</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Daniil Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25295">2610.25295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24616.html">SIESTA-QCOMP: Bridging Classical and Quantum Computing for Strongly Correlated Systems</a></div></td>
+<td>Yann Pouillon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24616">2610.24616</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24768.html">Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths</a></div></td>
+<td>Sadhvikas Addamane et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24768">2610.24768</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -4892,29 +4928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06250.html">Phase transitions in the inner crust of neutron stars within the superfluid band theory: Competition between $^1\text{S}_0$ pairing and spin polarization under finite temperature and magnetic field</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Kenta Yoshimura et al.</td>
 <td><a href="http://arxiv.org/abs/2503.06250">2503.06250</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16568.html">Defects at Play: Shaping the Photophysics and Photochemistry of Ice</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Marta Monti et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16568">2506.16568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23003.html">First-Principles Nanocapacitor Simulations of the Optical Dielectric Constant in Water Ice</a></div></td>
-<td>Anthony Mannino et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23003">2506.23003</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12406.html">Machine Learning Prediction of Magnetic Proximity Effect in van der Waals Heterostructures: From Atoms to Moiré</a></div></td>
-<td>Lukas Cvitkovich et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12406">2508.12406</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22000.html">Tracking Microhydration of the NaCl Rocksalt Molecule in Helium Nanodroplets by Penning Ionization Electron Spectroscopy</a></div><div class="paper-tags"><a href="hydration-shell-360d.html">hydration-shell</a> · <a href="ion-pairing-360d.html">ion-pairing</a></div></td>
-<td>Ltaief Ben Ltaief et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22000">2510.22000</a></td>
 </tr>
 </tbody></table>

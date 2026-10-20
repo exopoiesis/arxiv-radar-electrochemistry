@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26301.html">Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Grace Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26301">2610.26301</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19846.html">A practical route to amorphous solid-state electrolyte structures by hybrid reverse Monte Carlo with foundation potentials</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xintian Wang et al.</td>
@@ -188,11 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21726.html">Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="ion-transport-90d.html">ion-transport</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
 <td>Mary Kathleen Caucci et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21726">2607.21726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18594.html">Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mace-90d.html">mace</a></div></td>
-<td>Prathami Divakar Kamath et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18594">2607.18594</a></td>
 </tr>
 </tbody></table>

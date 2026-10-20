@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26301.html">Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Grace Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26301">2610.26301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Joseph Hart et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25194.html">Electronic structure, magnetic order and anisotropic magnetoresistance in $\mathbf{Eu_{1-x}Gd_xCd_2P_2}$ (0 $\le$ x $\le$1)</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Yogendra Singh Negi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25194">2610.25194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25295.html">Instability-driven segregation of V group transition metals on HEB$_2$ grain boundaries influencing enhanced mechanical properties</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Daniil Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25295">2610.25295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24616.html">SIESTA-QCOMP: Bridging Classical and Quantum Computing for Strongly Correlated Systems</a></div></td>
+<td>Yann Pouillon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24616">2610.24616</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24768.html">Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths</a></div></td>
+<td>Sadhvikas Addamane et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24768">2610.24768</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -62,35 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18137.html">Local-resolvent formulation and assessment of linear-scaling Kohn-Sham calculations</a></div></td>
 <td>Albert Linda</td>
 <td><a href="http://arxiv.org/abs/2610.18137">2610.18137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16467.html">Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Markus E. Gruner et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16467">2610.16467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-stability-7d.html">phase-stability</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Kazutaka Nishiguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16850.html">Trust-Limited Machine-Learning-Accelerated Nudged Elastic Band Calculations for Small-Polaron Hopping in Rutile TiO2</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-u-7d.html">dft-u</a> · <a href="neb-7d.html">neb</a></div></td>
-<td>Ashish Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16850">2610.16850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17226.html">Solvating machine-learning interatomic potentials for solution-phase chemistry</a></div><div class="paper-tags"><a href="implicit-solvation-7d.html">implicit-solvation</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Anton Z. Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17226">2610.17226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a></div></td>
-<td>Vladislav Korostelev et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
 </tr>
 </tbody></table>

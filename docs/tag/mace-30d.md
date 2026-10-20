@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mace — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <strong>30d</strong> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26612.html">Degree Bounds for Separating Polynomial and Neural Invariants for Point Clouds</a></div></td>
+<td>Snir Hordan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26612">2610.26612</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Joseph Hart et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25295.html">Instability-driven segregation of V group transition metals on HEB$_2$ grain boundaries influencing enhanced mechanical properties</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Daniil Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25295">2610.25295</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -104,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jonas Busk et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23134.html">ECENet: An Edge Cluster Expansion Line-Graph Neural Network</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>R. Allen LaCour et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23134">2609.23134</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26502.html">Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Mary K Chessey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26502">2610.26502</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a></div></td>
+<td>Joseph Hart et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25105.html">Generative marginal learning for finite-size molecular simulation with application to stress calculation</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Cheng Yuan</td>
+<td><a href="http://arxiv.org/abs/2610.25105">2610.25105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25295.html">Instability-driven segregation of V group transition metals on HEB$_2$ grain boundaries influencing enhanced mechanical properties</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a></div></td>
+<td>Daniil Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25295">2610.25295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24418.html">Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
+<td>Francesco Tavani et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24418">2610.24418</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22850.html">Interplay between high-entropy effects and the superionic transition in fluorite oxides: A liquid-like perspective</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a></div></td>

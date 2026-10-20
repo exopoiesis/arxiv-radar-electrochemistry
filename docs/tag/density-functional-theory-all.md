@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1495 papers</span>
+  <span class="paper-count">1501 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26301.html">Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Grace Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26301">2610.26301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="mace-all.html">mace</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Joseph Hart et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25194.html">Electronic structure, magnetic order and anisotropic magnetoresistance in $\mathbf{Eu_{1-x}Gd_xCd_2P_2}$ (0 $\le$ x $\le$1)</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
+<td>Yogendra Singh Negi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25194">2610.25194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25295.html">Instability-driven segregation of V group transition metals on HEB$_2$ grain boundaries influencing enhanced mechanical properties</a></div><div class="paper-tags"><a href="mace-all.html">mace</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Daniil Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25295">2610.25295</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24616.html">SIESTA-QCOMP: Bridging Classical and Quantum Computing for Strongly Correlated Systems</a></div></td>
+<td>Yann Pouillon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24616">2610.24616</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24768.html">Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths</a></div></td>
+<td>Sadhvikas Addamane et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24768">2610.24768</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="mace-all.html">mace</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

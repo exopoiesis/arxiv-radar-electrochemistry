@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>origin-of-life — 360d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <strong>360d</strong> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26308.html">The Central Molecular Zone of our Galaxy, a chemical complexity factory: first interstellar detections of molecules towards G+0.693</a></div></td>
+<td>Víctor M. Rivilla</td>
+<td><a href="http://arxiv.org/abs/2610.26308">2610.26308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24242.html">A Chiral Superlattice Route to Spin-Split Topological Antiferromagnetism</a></div></td>
+<td>Thao Dinh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24242">2610.24242</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21849.html">Frontiers of chemical complexity in the interstellar medium: unveiling the cosmic origins of life</a></div></td>
@@ -434,11 +446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11471.html">Amides from the carbonaceous asteroid (162173) Ryugu: nanoscale spectral and isotopic characterizations</a></div><div class="paper-tags"><a href="hydrothermal-alteration-360d.html">hydrothermal-alteration</a></div></td>
 <td>L. G. Vacher et al.</td>
 <td><a href="http://arxiv.org/abs/2503.11471">2503.11471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08232.html">Experimental demonstration of kinetic proofreading inherited in ligation-based information replication</a></div></td>
-<td>Hiroyuki Aoyanagi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08232">2505.08232</a></td>
 </tr>
 </tbody></table>

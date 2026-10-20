@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25029.html">Extrinsic Bulk Photovoltaic Effect from Asymmetric Defect Scattering</a></div></td>
+<td>Zixun Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25029">2610.25029</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23291.html">Electrochemical Molecular Dynamics within the Finite-Field Framework</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Krystof Brezina et al.</td>
@@ -230,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23391.html">Ultralow-Barrier Ion Transport in the Subnitride Electride Ba$_3$N for High-Rate Sodium Storage</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a></div></td>
 <td>Seulbi Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23391">2609.23391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23134.html">ECENet: An Edge Cluster Expansion Line-Graph Neural Network</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a></div></td>
-<td>R. Allen LaCour et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23134">2609.23134</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-pairing — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="ion-pairing-7d.html">7d</a> <a href="ion-pairing-30d.html">30d</a> <a href="ion-pairing-90d.html">90d</a> <strong>360d</strong> <a href="ion-pairing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22540.html">Anomalous double-layer restructuring in water-in-salt electrolytes at graphitic interfaces governs capacitance</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hannah O. Wood et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22540">2511.22540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22000.html">Tracking Microhydration of the NaCl Rocksalt Molecule in Helium Nanodroplets by Penning Ionization Electron Spectroscopy</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="hydration-shell-360d.html">hydration-shell</a></div></td>
-<td>Ltaief Ben Ltaief et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22000">2510.22000</a></td>
 </tr>
 </tbody></table>

@@ -2779,5 +2779,401 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-10-16"
+ },
+ "2610.24242": {
+  "abstract": "The interplay between chirality and magnetism is a profound topic, spanning particle physics, condensed matter, chemistry and origin of life. In this paper, we study this interplay in the new antiferromagnet (AFM) UOTe, and we report a chiral superlattice route to spin-split topological phenomena from collinear antiferromagnetism. Pristine UOTe is a collinear AFM without Berry curvature or spin-split bands. However, we identify the spontaneous formation of a chiral superlattice in UOTe, which can be viewed as frozen chiral phonons at finite wave vector. When electrons move through the chiral superlattice, their orbital Bloch wavefunction and quantum geometry are modulated by the strong chiral superlattice potential, generating large Berry curvature in the chiral superlattice, which we detect by the nonlinear Hall effect. At 150 K, the chiral superlattice induced Berry curvature couples to the collinear AFM order, generating a giant anomalous Hall angle ~0.14 abruptly near $T_N$ that is among the largest in bulk magnets. Moreover, our spin Hanle precession measurement shows that the chiral superlattice also generates spin-polarized current from the collinear AFM, a long-standing goal in spintronics. We shed light on the supermodulation formation mechanism based on chemical ion size and physical interlayer-intralayer energy competitions, using which we propose a design principle to discover similar bond-mismatch superlattices, providing a chiral superlattice pathway through real space engineering of quantum geometry.",
+  "authors": [
+   "Thao Dinh",
+   "Mengke Liu",
+   "Jian-Xiang Qiu",
+   "Sougata Mardanya",
+   "Suk Hyun Sung",
+   "Xuan Hoang Le",
+   "Christopher Broyles",
+   "Chengfeng Zhu",
+   "Qiaozhi Xu",
+   "Haotian Chen",
+   "Zack Rehfuss",
+   "Yu-Fei Liu",
+   "Xiaoyu Zeng",
+   "Houchen Li",
+   "Peng Guo",
+   "Jinchen Liu",
+   "Tianye Huang",
+   "Jingtian Shi",
+   "Michael Smith",
+   "Joanna M. Blawat",
+   "John Singleton",
+   "Ross McDonald",
+   "Ivan E. Arvizo",
+   "Dongtao Cui",
+   "Shao-Liang Zheng",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Vineet Kumar Sharma",
+   "Sudip Ghorai",
+   "Barun Ghosh",
+   "Hsin Lin",
+   "Ting Yong Lim",
+   "Tay-Rong Chang",
+   "Arun Bansil",
+   "Ivar Martin",
+   "Ashvin Vishwanath",
+   "Weiwei Xie",
+   "Claudia Felser",
+   "Jairo Sinova",
+   "Anyuan Gao",
+   "Mikhail D. Lukin",
+   "Jennifer E. Hoffman",
+   "Sugata Chowdhury",
+   "Qiong Ma",
+   "Kai Sun",
+   "Ismail El Baggari",
+   "Sheng Ran",
+   "Talieh S. Ghiasi",
+   "Hongkun Park",
+   "Philip Kim",
+   "Su-Yang Xu"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Thao Dinh",
+  "pdf_url": "http://arxiv.org/pdf/2610.24242",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-10-16",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "A Chiral Superlattice Route to Spin-Split Topological Antiferromagnetism",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-16"
+ },
+ "2610.24418": {
+  "abstract": "In covalent organic frameworks (COFs), the geometry of the building units predetermines the structure of the framework, yet comparable design principles relating the COF linkers to the local motions that govern guest adsorption and diffusion as well as mechanical response have remained beyond reach. Here, we combine synchrotron X-ray pair distribution function (PDF) analysis with molecular dynamics (MD) simulations accelerated by machine learning interatomic potentials to resolve and compare the local dynamics of two three-dimensional imine-linked COFs, chosen to differ in the geometry and rigidity of one of their two building units. Both are constructed from the same 4-connected square planar linker, $4,4',4'',4'''$-(pyrene-1,3,6,8-tetrayl)tetraaniline (PyTTA), reticulated with the 12-connected nanographene hexakis{[3,5-bis($p$-formylphenyl)-4,6-dimethoxyphenyl]}hexabenzocoronene to give COF-412, {[(HBC-LA$_{12}$)(PyTTA)$_3$]}$_{\\mathit{imine}}$, and with the 6-connected triptycene 2,3,6,7,14,15-hexakis(4-formylphenyl)triptycene to give COF-564, {[(Trip-CHO)$_2$(PyTTA)$_3$]}$_{\\mathit{imine}}$. The PDF-MD approach resolves the amplitude, the time scale, and the spatial extent of the motion of all COF linkers, separating the limited libration of the fused aromatic cores from the larger reorientational tilts of the pendant aryl rings they carry and from the translation of whole linkers within the net. The simulations further reveal that exchanging the nanographene- for the triptycene-based linker tunes the equilibrium tilt and the positional probability density of PyTTA, raising the tilt amplitude of its linker partner, and, notably, strengthens the coupling between the translations of neighbouring linkers. This approach provides a blueprint for understanding local dynamical properties in COFs, and shows them to be selectable through the choice of building unit and amenable to design.",
+  "authors": [
+   "Francesco Tavani",
+   "Saber Mirzaei",
+   "M. Saeed Mirzaei",
+   "Jian Yin",
+   "Yen-hsu Lin",
+   "Caden Myers",
+   "Cheng-Hung Lin",
+   "AM Milinda Abeykoon",
+   "Simon J. L. Billinge",
+   "Omar M. Yaghi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "This research acknowledges funding from the EU Horizon Europe research and innovation program under the Marie Sklodowska-Curie grant agreement No. 101201413",
+  "first_author": "Francesco Tavani",
+  "pdf_url": "http://arxiv.org/pdf/2610.24418",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-17",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-17"
+ },
+ "2610.24616": {
+  "abstract": "Density Functional Theory (DFT) is the established workhorse of computational materials science, yet it faces fundamental challenges with strongly correlated electrons, such as in transition metal complexes and bond-breaking processes. While quantum computing offers a theoretically exact path to resolve these problems, current hardware limitations prohibit fully quantum simulations of realistic material systems. To bridge this gap, we present SIESTA-QCOMP, a modular suite embedding quantum methodologies within DFT. Harnessing SIESTA's localised basis set, we implement a projection-based embedding scheme that treats the bulk environment classically while mapping the strongly correlated \"impurity\" subspace to a quantum processor. The architecture uses a socket-based driver to orchestrate workflows between the Fortran-based SIESTA engine and Python-based frameworks like Qiskit, ensuring high interoperability. We detail the hybrid workflow, currently utilising a Variational Quantum Eigensolver (VQE), and discuss the road map toward methods such as Sample-based Quantum Diagonalisation (SQD). We illustrate the framework on an hypothetical iron porphyrin calculation and argue that such hybrid architectures are not merely interim solutions but essential foundations for integrating quantum utility into materials design, as envisioned by our broader QCOMP4DFT initiative.",
+  "authors": [
+   "Yann Pouillon",
+   "Federico Marchesin",
+   "Ivano Tavernelli",
+   "Emilio Artacho"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": "17 pages, 5 figures",
+  "first_author": "Yann Pouillon",
+  "pdf_url": "http://arxiv.org/pdf/2610.24616",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-17",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "SIESTA-QCOMP: Bridging Classical and Quantum Computing for Strongly Correlated Systems",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-17"
+ },
+ "2610.24768": {
+  "abstract": "Semiconductor quantum dots (QDs) are essential components for integrated photonic and quantum information systems, yet current epitaxial growth techniques face significant limitations in complexity of growth, material selection, and density tunability. Here we report a displacement etch technique that enables controlled formation of GaAsSb QDs with emission at telecommunications wavelengths. Our approach uses arsenic molecular flux (As$_2$) to react with antimonide surfaces through thermodynamically favorable displacement reactions, creating three-dimensional quantum confined nanostructures without requiring strain-driven growth or complex droplet-based processes. Density functional theory shows the two competing As-for-Sb exchange pathways to be nearly equivalent in both reaction energy and activation barrier, which places morphological control in the subsequent adatom kinetics rather than in the surface reaction itself. A single process parameter, the As$_2$ exposure, sets the QD areal density across three orders of magnitude, from 10$^2$ to 10$^5$ $μm^{-2}$, covering both isolated emitters and dense gain media. Structural analysis reveals well-defined GaAsSb QDs with a mixed GaAs/GaSb composition and no extended defects. Temperature-dependent photoluminescence measurements confirm emission at 1550 nm (0.8 eV) within the telecommunications C-band, with characteristic QD-like temperature dependence. Because the QDs form on a lattice-matched GaSb surface in a single growth step, the technique offers a practical route to C-band emitters built into the GaSb/AlGaSb device family already used for mid-infrared sources and detectors.",
+  "authors": [
+   "Sadhvikas Addamane",
+   "Sanghyeok Park",
+   "Quinn T. Campbell",
+   "Evan M. Anderson",
+   "Thomas Rotter",
+   "Darryl Shima",
+   "Julia Deitz",
+   "Paul Kotula",
+   "Ganesh Balakrishnan",
+   "Oleg Mitrofanov",
+   "Igal Brener",
+   "Prasad P. Iyer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.chem-ph"
+  ],
+  "comment": "Manuscript plus supplementary information",
+  "first_author": "Sadhvikas Addamane",
+  "pdf_url": "http://arxiv.org/pdf/2610.24768",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-17",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-17"
+ },
+ "2610.25029": {
+  "abstract": "The extrinsic bulk photovoltaic effect from asymmetric electron-defect scattering can make an important contribution to the total photocurrent and is highly diagnostic of defect type. We present an ab initio Boltzmann framework combining optical excitation with electron-phonon and symmetric and skew electron-defect scattering, and we apply it to monolayer GeS. Because the defects that generate the current also relax the anisotropy that sustains it, the response peaks at a finite defect fraction. Within the scattering-limited model, cooling to $0$~K shifts the peak position toward lower defect fractions and yields a maximum enhancement of more than six orders of magnitude at fixed defect fraction. At selected low-temperature defect fractions, the total extrinsic current can exceed the intrinsic shift current by more than an order of magnitude, so that the defect fraction itself becomes a tunable parameter.",
+  "authors": [
+   "Zixun Wang",
+   "Andrew M. Rappe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zixun Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.25029",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-18",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Extrinsic Bulk Photovoltaic Effect from Asymmetric Defect Scattering",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-18"
+ },
+ "2610.25105": {
+  "abstract": "We propose generative marginal learning (GML), a framework for equilibrium sampling and local observable estimation in molecular simulations. By training a conditional diffusion model on large-system simulations, GML learns the marginal distribution of a retained region, enabling configuration generation without explicitly simulating the surrounding environment or imposing periodic boundary conditions on the retained region. We derive a marginal effective potential and the associated conditional mean-force identity, which provide the basis for both denoising and force-alignment training. As an application, we estimate the spatially averaged Irving--Kirkwood stress near a vacancy defect. Numerical results demonstrate that GML substantially improves pair structure and local stress accuracy compared with small periodic molecular dynamics simulations, mitigating finite-size effects in calculating local molecular observables.",
+  "authors": [
+   "Cheng Yuan"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Cheng Yuan",
+  "pdf_url": "http://arxiv.org/pdf/2610.25105",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-18",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Generative marginal learning for finite-size molecular simulation with application to stress calculation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-18"
+ },
+ "2610.25194": {
+  "abstract": "Recently, $\\text{EuCd}_2\\text{P}_2$ has attracted increased attention for its colossal magnetoresistive (CMR) property, the mechanism of which seems to deviate from that of known canonical CMR compounds such as manganites. Many studies underscore the role of low density of hole carriers caused by Eu vacancies, particularly in stabilizing ferromagnetic (FM) order and modifying electrical transport and magnetoresistive responses in this compound. A magnetic polaron based mechanism rather than double exchange based mechanism is being proposed to explain the CMR effect for this compound. In this work, we explore the effect of elctron doping on the magnetic transition and CMR behaviour via Gd substitution at Eu sites with varying concentration (x) in Eu$_{1-x}$Gd$_{x}$Cd$_2$P$_2$. Our Density Functional Theory (DFT) and Monte Carlo-based calculations reveal an oscillating ground state magnetic order as a function of electron carrier density. The ground state is found to be A-AFM metal for x=0.056, 0.125 and 0.5 while it becomes ferromagnetic metal at x= 0.33, 0.67 and 1. Most importantly, we predict colossal anisotropic magnetoresistance in this compound for x=0.125 and 0.5. The underlying mechanism of anisotropic CMR in this compound looks similar to double exchange like due to the presence of a strong intra-site 4\\textit{f}-5\\textit{d} ferromagnetic exchange interaction and an itinerant electron in the hybridized conduction states. The oscillating ground state magnetic order and the enhancement of transition temperature (as high as 150K for x=0.67) as a function of electron carrier density offers a new avenue to tune the magnetotransport property in this compound and offers an excellent platform for designing future spintronics devices.",
+  "authors": [
+   "Yogendra Singh Negi",
+   "Tulika Maitra"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "12 pages, 10 figures",
+  "first_author": "Yogendra Singh Negi",
+  "pdf_url": "http://arxiv.org/pdf/2610.25194",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-18",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Electronic structure, magnetic order and anisotropic magnetoresistance in $\\mathbf{Eu_{1-x}Gd_xCd_2P_2}$ (0 $\\le$ x $\\le$1)",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-18"
+ },
+ "2610.25295": {
+  "abstract": "Five metals share a common sublattice in the (Hf,Ta,Ti,Nb,Zr)B$_2$ (HEB$_2$). Most high-entropy materials are produced as polycrystalline materials in the form of sintered ceramics. The question of which metal species are located at grain boundaries is still unknown. Here, we calculated the grain-boundary energy $γ_{GB}$ of four types of boundaries in five binary diborides and HEB$_2$ using density functional theory (DFT). We analyzed the bonding at these boundaries using COHP and sampled cation segregation at six boundaries of HEB$_2$, ordered and general, using Monte Carlo / molecular dynamics with a MACE potential that was fine-tuned for this system. According to our results $γ_{GB}$ splits by group: the group V diborides NbB$_2$ and TaB$_2$ form boundaries with about half the energy of the group IV at three of the four types of GBs, ranging from 0.8 to 2.7 compared to 2.5--4.8~J/m$^2$. COHP shows a significant difference at the Fermi level, namely the Me--B bonds of NbB$_2$ and TaB$_2$ are antibonding at Fermi energy ($E_F$) in the bulk but bonding at the GB, while their integrated strength hardly changes. In HEB$_2$ the segregation follows a similar pattern: Nb and Ta are enriched at five of the six grain boundaries, including general boundaries, up to 23--35~at.\\% at 2000~K, although the size of the atoms would favor Zr and Hf in the expanded sites. A segregated $Σ193$ grain boundary can withstand 26 against 20~GPa for a random boundary in tension at 300~K. The grain boundaries of HEB$_2$ are composed of group V metals, as suggested by the boundary energies of binaries compounds and their bonding at the Fermi level. Grain boundaries of the (Hf,Ta,Ti,Nb,Zr)B$_2$ preferentially include Nb and Ta. This lowers the grain boundary energy and strengthens the boundaries. This consists of the lower boundary energy and changes Fermi level bonding in NbB$_2$ and TaB$_2$.",
+  "authors": [
+   "Daniil Alekseev",
+   "Viktor S. Baidyshev",
+   "Alexander G. Kvashnin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "29 pages 7 figures",
+  "first_author": "Daniil Alekseev",
+  "pdf_url": "http://arxiv.org/pdf/2610.25295",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-18",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Instability-driven segregation of V group transition metals on HEB$_2$ grain boundaries influencing enhanced mechanical properties",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-18"
+ },
+ "2610.26301": {
+  "abstract": "Diamond is an important host material for functional defects such as solid-state spin qubits. During the defect creation by irradiation and subsequent thermal annealing, carbon-related defects, including vacancies and interstitials, are generated and can migrate to form new defect complexes. To investigate this kinetically driven process and reveal the formation mechanisms of the di-interstitials and di-vacancies in the neutral charge state, we fine-tuned a universal machine learning interatomic potential using a small dataset generated from density functional theory calculations. We obtained a barrier of 1.84 eV for mono-interstitial migration and found that two initially separated mono-interstitials only need to overcome a lower barrier to form di-interstitial configurations. Beyond the training data, the MLIP also identified the formation pathway for an additional di-interstitial configuration and a stepwise divacancy dissociation mechanism. These results reveal migration-assisted defect complex formation mechanisms and demonstrate how targeted MLIP training can identify reaction pathways.",
+  "authors": [
+   "Grace Huang",
+   "Christopher Fivecoat",
+   "Xun Xu",
+   "Mengen Wang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Grace Huang",
+  "pdf_url": "http://arxiv.org/pdf/2610.26301",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-19",
+  "tags": [
+   "density-functional-theory",
+   "mlip",
+   "vacancies"
+  ],
+  "title": "Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-19"
+ },
+ "2610.26308": {
+  "abstract": "The Central Molecular Zone (CMZ) of our Galaxy is a prime laboratory for interstellar chemistry because of its extreme conditions, such as shocks and high cosmic-ray ionisation rates. It is an efficient factory of molecules, with many species first discovered in CMZ sources. This document reviews key results from the study of the CMZ G+0.693-0.027 molecular cloud. Using ultra-sensitive broadband spectral surveys together with laboratory spectroscopy, more than 140 molecules have been identified, including 28 detected for the first time in the interstellar medium (ISM). These discoveries include prebiotic precursors of biomolecules, increasingly complex members of known molecular families, molecules containing periodic third-row elements (S, P, Na, Mg), high-energy stereo- and structural isomers, and new cations. Overall, these findings extend the known limits of interstellar chemical complexity and highlight the CMZ's potential to provide the molecular ingredients for prebiotic chemistry.",
+  "authors": [
+   "Víctor M. Rivilla"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "Part of \"Traversing the Galactic Center in Space and Time Proceedings IAU Symposium No. 405\", M. Zajaček, T. Jerábková, V. Karas, R. Schödel & P. Suková, eds",
+  "first_author": "Víctor M. Rivilla",
+  "pdf_url": "http://arxiv.org/pdf/2610.26308",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-10-19",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "The Central Molecular Zone of our Galaxy, a chemical complexity factory: first interstellar detections of molecules towards G+0.693",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-19"
+ },
+ "2610.26502": {
+  "abstract": "Plasma-facing components (PFCs) in future fusion reactors must withstand extreme environments, making tungsten (W) a prime candidate material due to its high thermal conductivity, high melting temperature, low sputtering yield, low tritium absorption. However, neutron irradiation introduces complex nanostructural defects that severely degrade these critical properties. In this work, we use Non-Equilibrium Molecular Dynamics (NEMD) simulations coupled with the Creation Relaxation Algorithm (CRA) to investigate the lattice thermal conductivity (kappa) of W across a wide range of irradiation doses. Systems treated with different doses up to 1.8 canonical displacements per atom (cdpa) were simulated to generate and study diverse defect structures, including vacancies and self-interstitial atom (SIA) clusters. By correlating spatially-resolved temperature gradients with local defect concentrations, we show that even small changes in defect type and distribution significantly affect thermal transport. We employ Machine Learning (ML) models to develop a quantitative relationship between the defect features and the resulting thermal conductivity degradation. The ML analysis identifies vacancy density as the dominant structural factor controlling thermal transport. We found a significant, nonlinear suppression of kappa with increasing defect density. Predictive multi-defect mapping built upon our ML model resolved a step-like degradation transition at a critical vacancy threshold of 0.05 at.%, beyond which phonon scattering completely saturated and capped the maximum relative lattice thermal conductivity degradation at approximately 30 at.%. This integrated simulation and ML approach provides a powerful, predictive framework for quantifying the complex relationship between structure and thermal conductivity in irradiated fusion materials.",
+  "authors": [
+   "Mary K Chessey",
+   "José Julio Gutiérrez Moreno",
+   "Sajjan Singh Mehta",
+   "Paolo Settembri",
+   "Arda Erbasan",
+   "Dominik Freinberger",
+   "Marina García Romero",
+   "Mervi J Mantsinen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Mary K Chessey",
+  "pdf_url": "http://arxiv.org/pdf/2610.26502",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-19",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-19"
+ },
+ "2610.26612": {
+  "abstract": "Neural networks that respect the symmetries of point clouds commonly compute high-order representations of the rotation group to improve their expressivity. Such models are known to be universal, and thus able to separate any pair of point clouds, when using representations of sufficiently high order, yet no precise bound on this order, as a function of the number of points, was previously known. We establish the first quadratic lower and upper degree bounds for polynomials that separate point clouds of n points up to rotations and permutations. By showing Tensor Field Networks and MACE can express all invariant polynomials of a given degree with sufficient representation order, we additionally derive the first explicit, quadratic bound on the representation order sufficient for these architectures to be complete, replacing previous existence results with concrete guarantees. We further show that, under local regularity assumptions, point cloud separation can be achieved with a message-passing-based model using invariants whose degree depends only on the size of a local neighborhood, rather than on the size of the full point cloud. Finally, we provide counterexamples showing MACE must compute high order irreducible representations to separate locally regular point clouds.",
+  "authors": [
+   "Snir Hordan",
+   "Harm Derksen",
+   "Mircea Petrache",
+   "Nadav Dym"
+  ],
+  "categories": [
+   "cs.LG",
+   "math.AC"
+  ],
+  "comment": "34 pages, 2 figures",
+  "first_author": "Snir Hordan",
+  "pdf_url": "http://arxiv.org/pdf/2610.26612",
+  "primary_category": "cs.LG",
+  "published": "2026-10-19",
+  "tags": [
+   "mace"
+  ],
+  "title": "Degree Bounds for Separating Polynomial and Neural Invariants for Point Clouds",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-19"
+ },
+ "2610.26701": {
+  "abstract": "Foundation machine-learned interatomic potentials (MLIPs) promise broad transferability, yet their out-of-domain reliability is hard to establish. Here, we use pure and O/H-containing disordered carbon spanning multiple phases, competing hybridisations and porous frameworks to stress-test six popular foundation MLIPs. We first screen all six on density functional theory (DFT) energy and force errors and binding curves, then subject four to melt-quench-anneal molecular dynamics and evaluate the resulting structural observables. Binding curves and O/H-containing trajectories reveal unphysical extrapolation and dynamical failures that low DFT energy and force errors fail to reveal. Of the models tested, MACE-MH-1 is the most consistently robust, with low DFT errors and stable MD. Despite differing architectures, OMAT-based models share structural biases, highlighting the importance of training coverage. All four models generate structures of nanoporous carbon that reproduce the principal experimental and specialised carbon potential signatures. Incorporating O/H leaves short-range order largely unchanged but shifts pore-size distributions towards larger pores. These results emphasise the need for application-specific validation and extend molecular dynamics modelling of nanoporous carbon towards experimentally realistic structures.",
+  "authors": [
+   "Joseph Hart",
+   "Samuel G. H. Brookes",
+   "Fabian L. Thiemann",
+   "Christoph Schran"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "40th Conference on Neural Information Processing Systems (NeurIPS 2026). Workshop: Sim2Science: ML with Imperfect Scientific Models",
+  "first_author": "Joseph Hart",
+  "pdf_url": "http://arxiv.org/pdf/2610.26701",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-19",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Challenging Atomistic Foundation Models on Disordered Carbons",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-19"
  }
 }
