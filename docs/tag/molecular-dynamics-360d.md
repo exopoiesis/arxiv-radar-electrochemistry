@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">581 papers</span>
+  <span class="paper-count">580 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>K. Starkey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28493">2610.28493</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26502.html">Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
@@ -3488,17 +3494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22749.html">Novel A2CrH6 (A = Ca, Sr, Ba) hydrides explored by first-principles calculations for hydrogen storage applications</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a></div></td>
 <td>Zakaria El Fatouaki et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22749">2510.22749</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11569.html">The dark side of the forces: assessing non-conservative force models for atomistic machine learning</a></div></td>
-<td>Filippo Bigi et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11569">2412.11569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22435.html">Computing Solvation Shell Dynamics and Energetics in Electron Transfer Reactions via Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="hydration-shell-360d.html">hydration-shell</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Zhenyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22435">2510.22435</a></td>
 </tr>
 </tbody></table>

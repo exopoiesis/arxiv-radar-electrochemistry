@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydration-shell — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="hydration-shell-7d.html">7d</a> <a href="hydration-shell-30d.html">30d</a> <a href="hydration-shell-90d.html">90d</a> <strong>360d</strong> <a href="hydration-shell-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27653.html">Local ion environment in polyamide membranes revealed by molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nathanael S. Schwindt et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27653">2510.27653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22435.html">Computing Solvation Shell Dynamics and Energetics in Electron Transfer Reactions via Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Zhenyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22435">2510.22435</a></td>
 </tr>
 </tbody></table>

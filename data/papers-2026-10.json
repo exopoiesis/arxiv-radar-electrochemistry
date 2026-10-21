@@ -3175,5 +3175,95 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-10-19"
+ },
+ "2610.27808": {
+  "abstract": "Distinguishing atomic species is an ongoing challenge in the field of scanning probe microscopy. Typically, atomic force microscopy makes use of electrostatic interactions to perform atomic identification. Here we perform lateral force microscopy (LFM) measurements with a CO terminated tip of a partially oxidized Cu(110) surface and show clear differences between the metal and oxygen sites over a large z-range. This allows for atomic identification on a typical metal oxide. Density functional theory based calculations show that the tip-sample interaction is dominated by short-ranged orbital interactions and that the electrostatic contribution is negligible. At small tip-sample distances, LFM can probe the Prandtl-Tomlinson stick-slip mechanism on the single-atom scale. It is visible as a striking asymmetry in the forward and backward scan directions, experimentally revealing this fundamental model for nanotribology on the single-atom scale.",
+  "authors": [
+   "Sophia E. Schweiss",
+   "Lukas Hoermann",
+   "Franz J. Giessibl",
+   "Alfred J. Weymouth"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sophia E. Schweiss",
+  "pdf_url": "http://arxiv.org/pdf/2610.27808",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-20",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Atomic identification via the Prandtl-Tomlinson stick-slip mechanism",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.28152": {
+  "abstract": "The growing demand for high-capacity, fast-charging, and durable rechargeable batteries has intensified the search for advanced electrode materials, with two-dimensional materials offering large surface-to-mass ratios and short ion-diffusion pathways. Here, pristine and Co-doped Janus HfSSe monolayers were investigated as anode materials for Li-ion and Na-ion batteries using first-principles density functional theory. Pristine HfSSe was found to be dynamically stable and exhibited a 0.85 eV band gap, while Co substitution shifted the Fermi level toward the valence-band region. Adsorption of the first Li or Na layer induced metallic behavior, thereby improving charge transport. Co doping strengthened alkali-metal binding, with the most favorable Li and Na adsorption energies changing from -2.6125 and -1.9800 eV to -3.7405 and -3.0529 eV, respectively. Co doping created electron-deficient sites that enhanced Li/Na binding. Co-doped HfSSe accommodated up to four Li layers and three Na layers, increasing the theoretical capacities from 555.43 to 776.19 mAh/g for Li and from 370.29 to 582.14 mAh/g for Na. The average open-circuit voltages were 0.62 V for Li and 0.29-0.30 V for Na, with minimum migration barriers of 0.2153 and 0.1044 eV, respectively. These results identified Co-doped Janus HfSSe as a promising anode material for Li-ion and Na-ion batteries.",
+  "authors": [
+   "Md. Muktadir Hasan",
+   "Md. Mafizul Islam",
+   "Ahmed Zubair"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.app-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Md. Muktadir Hasan",
+  "pdf_url": "http://arxiv.org/pdf/2610.28152",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-20",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Enhancement of Li and Na Storage in Janus HfSSe Monolayers by Co-Induced Electron-Deficient Chalcogen Sites: A First-Principles Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.28493": {
+  "abstract": "A first-principles-informed multiscale modeling approach is reported for oxide formation during corrosion of zirconium. The present simulations reproduce the columnar corrosion film microstructure and grain size distribution seen in micrographs of oxidized Zr surfaces. This structural feature emerges from a hexagonal ZrO layer adjacent to the $α$-Zr/ZrO$_{2-x}$ interface, which is dynamically stabilized by continuous heterogeneous grain nucleation and grain boundary mass diffusion. This ZrO layer is identified as a significant oxygen diffusion barrier and a potential contributor to sub-parabolic pretransition corrosion kinetics. The simulations also reproduce the undulatory nature of the metal/oxide interface, leading to regions with tensile stress components capable of nucleating cracks, despite the overall state of compressive hydrostatic stress within the oxide film. First principles density functional theory (DFT) computations of fundamental ZrO$_x$ properties were combined with molecular dynamics simulations using a machine-learned potential based on a DFT training set to provide extensive input to an advanced phase field model for oxide formation and its microstructure, as implemented in the new MedeA PhaseField module. The phase field simulations reported herein incorporated computed stoichiometry-dependent thermochemical data, anisotropic elastic properties, interface energies, bulk and grain boundary mass transport processes, multiphase heterogeneous grain nucleation, and strain energy-dependent phase stabilities.",
+  "authors": [
+   "K. Starkey",
+   "L. Kahle",
+   "M. Christensen",
+   "V. Eyert",
+   "A. El-Azab",
+   "C. B. Geller",
+   "A. P. Shivprasad",
+   "E. Wimmer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "42 pages, 22 figures, 4 tables. Accepted manuscript of the article published in Journal of Nuclear Materials 625 (2026) 156521, under a CC BY 4.0 license",
+  "first_author": "K. Starkey",
+  "pdf_url": "http://arxiv.org/pdf/2610.28493",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-20",
+  "tags": [
+   "ab-initio",
+   "corrosion",
+   "density-functional-theory",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-20"
  }
 }
