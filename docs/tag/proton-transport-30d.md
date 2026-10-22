@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>proton-transport — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="proton-transport-7d.html">7d</a> <strong>30d</strong> <a href="proton-transport-90d.html">90d</a> <a href="proton-transport-360d.html">360d</a> <a href="proton-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34758.html">The precipitation of protons and electrons in Jupiter&#x27;s auroral regions: a statistical comparison based on Juno/JEDI data</a></div></td>
 <td>B. Benmahi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.34758">2609.34758</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25293.html">Silk-templated Nanostrips as Superprotonic Fibre Sensors</a></div></td>
-<td>Jianhui Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25293">2609.25293</a></td>
 </tr>
 </tbody></table>

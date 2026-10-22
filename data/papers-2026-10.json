@@ -3265,5 +3265,117 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-10-20"
+ },
+ "2610.28967": {
+  "abstract": "Silicon nanowires (Si NWs) have emerged as promising candidates for next-generation nanoelectronic devices due to their tunable electronic properties, and compatibility with aggressive scaling requirements. The integration of strain further enhances their performance by modulating carrier mobility, band structure, and transport behavior without altering material chemistry. Within the NW, the silicon-silicon dioxide (Si-SiO$_{2}$) interface serves as a critical region where strain redistribution and suboxide bonding collectively influence the mechanical and electronic response. Here, we combine reactive force field molecular dynamics and first-principles calculations to investigate how oxidation-induced interfacial structure and crystallographic facet orientation govern strain-dependent bond evolution and facet-dependent strain response of electronic properties in oxidized Si NWs. Simulated dry thermal oxidation generates chemically realistic Si-SiO$_{2}$ interfaces, enabling direct characterization of bond order redistribution and stress gradient development across the interface under tensile strain. Interfacial Si-Si bonds exhibit elongation and reduced bond order associated with partial oxidation states, leading to localized stress concentration and preferential bond rupture. Complementary density functional theory calculations on facet-specific models reveal that orientation-dependent interfacial bonding modulates facet-dependent strain response of electronic properties. Together, these results establish a direct coupling between interfacial suboxide chemistry, mechanical deformation, and electronic structure, providing atomistic insight into strain-modulated behavior at oxidized silicon interfaces in faceted NWs.",
+  "authors": [
+   "Yasir Mahmood",
+   "Daniel Wines",
+   "Viviana Dovale-Farelo",
+   "Kamal Choudhary",
+   "Lucas M Hale"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yasir Mahmood",
+  "pdf_url": "http://arxiv.org/pdf/2610.28967",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-20",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Strain-Induced Interfacial Bond Evolution and Facet-dependent Strain Response of Electronic Properties in Oxidized Silicon Nanowires",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.29653": {
+  "abstract": "Molecular modelling of electrochemical systems at larger than atomic scales poses particular challenges, not least the ability to represent correct thermodynamic, hydrodynamic and dielectric properties while still being computationally viable for large scale applications. In the case of aqueous electrolytes such as those used in vanadium-based batteries with oxidation-reduction (redox) reactions, both a background medium that can respond to localised electric fields due to high-valence ions and control over ion transport properties are crucial to embed consistently in the model. To this end, we propose the use of Dissipative Particle Dynamics (DPD) combined with a newly-devised highly coarse-grained polarisable water model with pairwise interactions designed to produce realistic thermodynamic behaviour as the basis for the aqueous electrolytes found in vanadium redox flow batteries (VRFB). We consider how the core water model can be modified to incorporate the ionic species found in VRFB catholytes and anolytes, as well as how the DPD pairwise thermostat forces can be parameterised to attain realistic diffusivities for those species.",
+  "authors": [
+   "Michael A. Seaton",
+   "Benjamin T. Speake",
+   "Tristan Rimmer",
+   "Ilian T. Todorov"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Michael A. Seaton",
+  "pdf_url": "http://arxiv.org/pdf/2610.29653",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-21",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Construction of highly coarse-grained molecular models for aqueous electrolytes",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30030": {
+  "abstract": "Understanding the adsorption of alkanes on mineral surfaces is important for industrial processes such as oil and gas recovery from shale reservoirs. Previous studies have examined the adsorption of functionalized and non-functionalized alkanes on calcite, as well as adsorption under confinement. However, real surfaces commonly exhibit defects that can influence adsorption behavior. In this work, molecular dynamics (MD) simulations and the three-dimensional reference interaction site model (3D-RISM) are used to investigate the adsorption of methane and ethane on calcite surfaces with step defects. MD simulations were carried out with and without positional restraints to investigate the effects of carbonate reorientation. 3D-RISM calculations were performed on these structures and on energy-minimized configurations of the relaxed crystal. Both methods show adsorption enhanced at step defects relative to flat regions, with methane exhibiting higher excess adsorption than ethane. Carbonate reorientation at the relaxed step edges reduces the local density peaks at specific step sites in both methods, while the integrated excess adsorption from MD remains comparable to that of the restrained surface. 3D-RISM predicts lower maxima for the highest density peaks and larger excess adsorption than MD, but reproduces the spatial organization and overall adsorption trends at a fraction of the computational cost. These results highlight the importance of surface heterogeneity in fluid-mineral interactions and demonstrate that 3D-RISM is an efficient tool for semi-quantitative screening of adsorption across complex surface geometries",
+  "authors": [
+   "Felipe Silva Carvalho",
+   "Tyler Luchko",
+   "Zhen-Gang Wang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "27 pages, 7 figures",
+  "first_author": "Felipe Silva Carvalho",
+  "pdf_url": "http://arxiv.org/pdf/2610.30030",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-21",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics",
+   "surface-science"
+  ],
+  "title": "Methane and ethane adsorption on calcite surfaces: effects of surface morphology from molecular dynamics and 3D-RISM",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Mineral Surfaces and Geochemistry"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30094": {
+  "abstract": "Though ion solvation is well understood for the standard Stockmayer fluid, the effect of displacing the point dipole of a Stockmayer particle, a simple geometric modification, on ion-solvent structuring and solvation thermodynamics remains less understood. We use molecular dynamics simulations to describe how a dipole shift affects radial and orientational solvent structure around centered ions, how strongly the solvent distinguishes cations and anions, and how the solvent mediates ion-ion pairing. We show that, with a centered dipole, cations and anions have equal preferences for the local solvent environment. Shifting the dipole breaks the fore-aft symmetry of the local electrostatic field, leading to a stronger preference for a Stockmayer particle's dipole to orient towards an anion and a weaker preference to orient away from a cation. These structural asymmetries propagate to the solvation free energies: increasing dipole displacement makes anion solvation more favorable, while cation solvation becomes less favorable overall across dipole strengths. The same asymmetry also manifests in the effective ion-ion interaction-increasing the dipole shift reorganizes the local solvation environment, enhancing solvent shielding of short-range cation-anion contact while weakening screening at longer range. As a result, solvent-separated configurations become comparatively more favorable, whereas increasing dipole strength produces the opposite trend. Such effects cannot be explained by bulk dielectric screening alone, indicating that molecular charge geometry plays an important role in both single-ion solvation and solvent-mediated ion-ion interactions. This work demonstrates that dipole location, not only magnitude, provides a geometric control on ion-specific solvation and ion pairing in general polar fluids.",
+  "authors": [
+   "Ananya Venkatachalam",
+   "Pierre J. Walker",
+   "Samuel Varner",
+   "Bilin Zhuang",
+   "Zhen-Gang Wang"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Ananya Venkatachalam",
+  "pdf_url": "http://arxiv.org/pdf/2610.30094",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-10-21",
+  "tags": [
+   "ion-pairing",
+   "ion-water-interactions",
+   "molecular-dynamics",
+   "solvation-thermodynamics"
+  ],
+  "title": "Stockmayer Fluid with a Shifted Dipole. III. Ion Solvation",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-21"
  }
 }
