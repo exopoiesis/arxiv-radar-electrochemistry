@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31084.html">Nitrogen vacancy cluster-mediated ferroelectric domain growth in wurtzite AlN</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Zijian Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31084">2610.31084</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30030.html">Methane and ethane adsorption on calcite surfaces: effects of surface morphology from molecular dynamics and 3D-RISM</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="surface-science-90d.html">surface-science</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30094.html">Stockmayer Fluid with a Shifted Dipole. III. Ion Solvation</a></div><div class="paper-tags"><a href="ion-pairing-90d.html">ion-pairing</a> · <a href="ion-water-interactions-90d.html">ion-water-interactions</a> · <a href="solvation-thermodynamics-90d.html">solvation-thermodynamics</a></div></td>
 <td>Ananya Venkatachalam et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30094">2610.30094</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30513.html">Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
+<td>Junhan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30513">2610.30513</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -788,11 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26018.html">Extracting Atomic Environments for Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Jared C. Stimac et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26018">2607.26018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22364.html">Mechanisms of Microstructural Evolution and Degradation in Aluminum under High-Damage Irradiation</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Alhassan S. Issaka et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22364">2607.22364</a></td>
 </tr>
 </tbody></table>

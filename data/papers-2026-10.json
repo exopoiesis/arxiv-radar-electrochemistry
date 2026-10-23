@@ -3377,5 +3377,212 @@
    "Electrochemical Interfaces and Solvation"
   ],
   "updated": "2026-10-21"
+ },
+ "2610.30210": {
+  "abstract": "Donor substitution can tune the coupled ferroelectric, dielectric, electronic, and optical properties of perovskite oxides by modifying lattice distortions and electronic screening. We investigate these effects in La-doped BaTiO3 using density functional theory, density-functional perturbation theory, and the Berry-phase formalism for polarization. For a model with 12.5% La substitution at the Ba site, La incorporation induces anisotropic lattice contraction, reduces tetragonality and Ti off-centering, and weakens the energetic stabilization of the tetragonal ferroelectric phase. The accompanying reduction in polarization is associated with enhanced electronic screening and reduced anomalous Born effective charges. Phonon calculations indicate that the relaxed doped structure is dynamically stable, while hardening of a low-frequency polar mode is consistent with weakened ferroelectricity. The high-frequency dielectric response increases moderately, whereas the static dielectric response decreases as the lattice contribution is suppressed. Electronic-structure calculations show a Fermi-level shift toward the conduction band without mid-gap defect states. The optical spectra exhibit an absorption-edge shift consistent with a Burstein-Moss-type mechanism, enhanced near-edge transparency, and reduced birefringence. Together, these results suggest a microscopic connection between donor-induced screening, polar-mode hardening, reduced dynamical charges, polarization suppression, and decreased optical anisotropy. The conclusions apply to the investigated 12.5% composition; calculations at additional concentrations are needed to establish quantitative doping trends.",
+  "authors": [
+   "Sikandar Azam",
+   "Muhammad Fareed",
+   "Qaiser Rafiq",
+   "Jan Minar",
+   "Abed Alataway"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sikandar Azam",
+  "pdf_url": "http://arxiv.org/pdf/2610.30210",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-21",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Electronic Screening as a Design Lever in La-Doped BaTiO$_3$: Coupled Polarization, Dielectric Response, and Optical Anisotropy",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30278": {
+  "abstract": "The variational two-electron reduced density matrix (v2RDM) method provides a wave-function-free approach to the description of strong electron correlation whose computational cost scales polynomially with the number of correlated orbitals. Here, we present an automated pipeline for the generation and execution of semidefinite programs (SDPs) associated with the v2RDM problem. Algebraic constraints encoding ensemble $N$-representability conditions are generated via the p$^\\dagger$q second-quantized algebra package, and the p$^\\dagger$q-generated expressions are automatically translated into a sparse-matrix representation that can be digested by an appropriate SDP solver. We have implemented a boundary-point SDP (BPSDP) solver in the libsdp package that can execute the v2RDM SDPs on either CPU or GPU hardware. We apply the code in several contexts. First, two-particle conditions are used to describe the 76-orbital model of the iron-molybdenum cofactor (FeMoco) of nitrogenase, the simulation of which requires roughly 25 hours of compute time on a single Nvidia H100 GPU. Second, the performance of high-order (four-particle positivity) conditions is evaluated on a challenging two-dimensional H$_{10}$ cluster problem. Lastly, new classes of positivity constraints for mixed fermion-boson systems are generated and applied within the context of ab initio cavity quantum electrodynamics simulations.",
+  "authors": [
+   "A. Eugene DePrince",
+   "Nicholas C. Rubin"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "A. Eugene DePrince",
+  "pdf_url": "http://arxiv.org/pdf/2610.30278",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-21",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Automated generation and execution of large-scale semidefinite programs for variational two-electron reduced density matrix theory",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30371": {
+  "abstract": "Using first-principles calculations, we show that altermagnetism emerges in (LaVO$_3$)$_n$/(LaNiO$_3$)$_m$ superlattices, with $(n,m) = (1,1), (2,2)$ and $(2,4)$, from the interplay of interfacial charge transfer and octahedral tilts. Charge transfer drives the system towards the V$^{4+}$ and Ni$^{2+}$ configuration, turning the otherwise paramagnetic nickelate layers into a magnetically active sublattice. The resulting $C$-type antiferromagnetic order, combined with $a^-b^+c^-$ or $a^-b^-c^-$ octahedral tilts, links opposite-spin sublattices only through nonsymmorphic operations, yielding a $d$-wave spin splitting without spin-orbit coupling. Within DFT+U, the splitting reaches 118 meV in the insulating (LVO)$_1$/(LNO)$_1$ superlattice, about twice that calculated for bulk LaVO$_3$, and decreases as the nickelate layers become thicker. Our findings indicate that this splitting is hosted by both the V and Ni sublattices, with nearly half of its weight on oxygen $2p$ states through $p$-$d$ covalency. Interfacial charge transfer thus emerges as a \\textit{design} principle for engineering altermagnetism in oxide heterostructures.",
+  "authors": [
+   "Gustavo H. Cassemiro",
+   "Walber H. Brito"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Gustavo H. Cassemiro",
+  "pdf_url": "http://arxiv.org/pdf/2610.30371",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-10-21",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Emergent altermagnetism in (LaVO$_3$)$_n$/(LaNiO$_3$)$_m$ superlattices from interfacial charge transfer and octahedral tilts",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30513": {
+  "abstract": "Predicting speciation in concentrated electrolytes requires accurate ion interactions and adequate sampling of slowly interconverting coordination environments. We combine Zn K-edge extended X-ray absorption fine structure (EXAFS) measurements with long-timescale molecular dynamics (MD) using machine-learning interatomic potentials to study aqueous ZnCl2 from dilute conditions to 30 m. We train revPBE-based DeepMD models with D3 corrections included or excluded for Zn-containing pairs and compare them with DPMD-SCAN, classical MD (CMD), and MACE-MATPES-r2SCAN. EXAFS calculations are benchmarked against hydrated and chloride-coordinated Zn reference complexes, then applied to MD ensembles alongside Zn-Cl coordination free-energy analysis. Increasing concentration reduces octahedral coordination, replaces water with chloride, and promotes chloride-bridged association. All three DeepMD models yield similar EXAFS at 3 m, but DPMD-SCAN shows greater transferability across concentrations, reproducing measured spectral trends, key features of mixed ZnCl2/LiCl spectra, and octahedral fractions consistent with other studies. DFT treatment strongly affects coordination free energies and aggregation; excluding Zn-related D3 corrections does not systematically improve EXAFS agreement. CMD shows larger spectral discrepancies and less consistent coordination trends. MACE-MATPES-r2SCAN improves upon CMD and yields spectra comparable to DPMD-SCAN, which provides more consistent agreement and greater computational efficiency. Neighbor-resolved analysis shows that distance disorder and scattering-path interference can produce similar EXAFS signatures for distinct coordination ensembles, highlighting the need for rigorous sampling and ensemble-averaged spectra to distinguish isolated from chloride-bridged Zn species.",
+  "authors": [
+   "Junhan Chen",
+   "Luke D. Gibson",
+   "Nadia N. Intan",
+   "Darren M Driscoll",
+   "Mahalingam Balasubramanian",
+   "John L. Fulton",
+   "Gregory K. Schenter",
+   "Christopher J. Mundy",
+   "Mohammadhasan Dinpajooh"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Junhan Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.30513",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-21",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30591": {
+  "abstract": "Layered sodium transition-metal (TM) oxides, Na$_x$TMO$_2$, are among the most promising sodium-ion positive electrode materials, yet their Na/vacancy orderings, layer stacking sequences, and cooperative Jahn--Teller distortions are known only for a few single-TM compounds. We compile the Na/vacancy orderings reported in earlier studies into a single library of 41 unique orderings and apply this uniformly to five single-TM and all ten Na$_x$TM$_{0.5}$TM$'_{0.5}$O$_2$ oxides (TM = Ti, Mn, Fe, Co, Ni), screening more than 120,000 structures with machine-learning interatomic potentials prior to 1,025 accurate first-principles calculations. The phase diagrams explain the observed O3/P3/O1 sequences and voltages, and the O3-to-P3 competition hinges on ordering energies of a few meV per atom that scalar descriptors, such as the cationic potential and the interlayer-slab distance, miss. Our extensive analysis reveals that the redox couples form a nearly partner-independent ladder, Ti$^{3+/4+}$ $<$ Mn$^{3+/4+}$ $<$ Co$^{3+/4+}$ $<$ Ni$^{2+/3+}$ $<$ Fe$^{3+/4+}$, explaining pristine charge transfer and the oxidation sequence. Van Vleck analysis of every TMO$_6$ octahedron reveals that TM mixing suppresses the cooperative Jahn--Teller distortions of Mn$^{3+}$ and Ni$^{3+}$ through charge transfer to Jahn--Teller-inactive states or dilution of Jahn--Teller-active centers. We formulate an energy-density-versus-strain map that yields a design rule: a high-voltage couple without Jahn--Teller strain, which Mn$^{4+}$/Ni$^{2+}$ charge transfer realizes in Na$_x$Mn$_{0.5}$Ni$_{0.5}$O$_2$, the most practical composition. We release the ordering-resolved dataset as a training set for subsequent training of accurate machine-learning interatomic potentials.",
+  "authors": [
+   "Yunyeong Choi",
+   "Hasindhi H. Lokuge",
+   "Joshua D. Bocarsly",
+   "Pieremanuele Canepa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yunyeong Choi",
+  "pdf_url": "http://arxiv.org/pdf/2610.30591",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-22",
+  "tags": [
+   "ab-initio",
+   "vacancies"
+  ],
+  "title": "Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31084": {
+  "abstract": "Aluminum nitride-based ferroelectrics combine high remanent polarization, thermal stability, weak size effects, a wide bandgap and back-end process compatibility, making them promising for high density non-volatile memory. However, their high coercive field ($E_\\mathrm{c}$) and unclear polarization switching mechanism limit further applications. Theoretical predictions indicate preferential reversed domain growth along the polar axis, whereas experiments show nearly isotropic growth or preferential growth perpendicular to this axis. Here, we combine density functional theory, Deep Potential molecular dynamics and experimental characterization to determine how nitrogen vacancies ($V_\\mathrm{N}$) regulate domain growth and $E_\\mathrm{c}$. In ideal crystal, strong lattice coupling along the polar axis drives preferential domain growth in this direction. $V_\\mathrm{N}$ locally weakens this coupling and promotes polarization nucleation. The spatial distribution of $V_\\mathrm{N}$ and the temporal sequence of vacancy induced switching jointly determine the direction and morphology of reversed domain growth. We further show that scandium doping promotes $V_\\mathrm{N}$ formation, thereby enhancing defect mediated nucleation and reducing $E_\\mathrm{c}$. These findings establish a multiscale mechanism governing thin-film domain-growth kinetics and macroscopic $E_\\mathrm{c}$, reconciling experimental observations with ideal crystal simulations and providing defect engineering principles for low-voltage, reliable and scalable ferroelectric devices.",
+  "authors": [
+   "Zijian Zhou",
+   "Kan-Hao Xue",
+   "Ziqi Pang",
+   "Heng Yu",
+   "Shanzhong Xie",
+   "Hang Liu",
+   "Haiming Qin",
+   "Yi Tong",
+   "Bowen Su",
+   "Yi Yang",
+   "Tian-Ling Ren",
+   "Xiangshui Miao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 4 figures, with Supplementary Information",
+  "first_author": "Zijian Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2610.31084",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-22",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Nitrogen vacancy cluster-mediated ferroelectric domain growth in wurtzite AlN",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31591": {
+  "abstract": "We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the materials problem in terms of interface observables including oxygen-vacancy formation energies, vacancy migration barriers, and electronic conductivity. We describe how these observables can be obtained using a diagrammatic GW-based embedding, either GW+DMFT or self-energy embedding theory (SEET), applied to a DFT-screened shortlist. The atomistic electrode/electrolyte interface defines the electronic structure problem from which the correlated impurity models are constructed. Quantum impurity solvers would provide the finite-temperature impurity Green's functions required by the embedding. The computational challenges that classical solvers may encounter as the interacting active space grows, together with the polynomial scaling of quantum Hamiltonian simulation for efficiently represented discretized models, open an opportunity for quantum advantage. We identify the benchmarks needed to assess this opportunity through convergence of vacancy and migration energetics and comparison with the best applicable classical solvers. We provide illustrative logical qubit counts and identify the thermal state preparation, simulation, measurement, and repeated-solve costs needed for a complete resource assessment. We connect microscopic observables to macroscopic engineering metrics using a continuum model for mixed ionic--electronic conducting oxygen electrodes that couples oxygen surface exchange, solid-state oxygen transport, electrode microstructure, and finite electrode thickness. Finally, we estimate the potential worldwide business value of improved electrode materials under SOFC and SOEC deployment scenarios informed by public technical targets and electrolyser deployment data.",
+  "authors": [
+   "Ouns El Harzli",
+   "Jelle Bor",
+   "Linde Wester",
+   "Leonid Zhukov",
+   "Hanl Park",
+   "Jean-François Bobier",
+   "Matt Langione",
+   "Antonino Marco Saitta",
+   "Jonathan Owens",
+   "Richard Hart",
+   "Yudong Cao",
+   "François Jamet"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "52 pages and 4 figures, including 36 pages of main text",
+  "first_author": "Ouns El Harzli",
+  "pdf_url": "http://arxiv.org/pdf/2610.31591",
+  "primary_category": "quant-ph",
+  "published": "2026-10-22",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Screening strongly correlated materials in solid oxide cells with quantum simulation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-22"
  }
 }

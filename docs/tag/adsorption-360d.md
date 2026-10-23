@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">220 papers</span>
+  <span class="paper-count">219 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1328,11 +1328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25620.html">Combined ab initio and experimental study of phosphorus-based anti-wear additives interacting with iron and iron oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Francesca Benini et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25620">2510.25620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23328.html">User-defined Electrostatic Potentials in DFT Supercell Calculations: Implementation and Application to Electrified Interfaces</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Samuel Mattoso et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23328">2510.23328</a></td>
 </tr>
 </tbody></table>
