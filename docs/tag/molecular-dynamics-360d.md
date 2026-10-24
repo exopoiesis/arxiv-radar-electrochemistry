@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">584 papers</span>
+  <span class="paper-count">578 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3482,41 +3482,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25620.html">Combined ab initio and experimental study of phosphorus-based anti-wear additives interacting with iron and iron oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a></div></td>
 <td>Francesca Benini et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25620">2510.25620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23098.html">Topological Control of Transition Metal Networks for Reversible High-Capacity Li-rich Cathodes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Changming Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23098">2510.23098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24324.html">Energy evolution in nanocrystalline iron driven by collision cascades</a></div></td>
-<td>Ivan Tolkachev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24324">2510.24324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24343.html">Molecular Dynamics Study of Irradiation-Induced Defect and Dislocation Evolution in Strained Nickel</a></div></td>
-<td>Maciej Wilczynski et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24343">2510.24343</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24523.html">Unsupervised Machine-Learning Pipeline for Data-Driven Defect Detection and Characterisation: Application to Displacement Cascades</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Samuel Del Fré et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24523">2510.24523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24952.html">Stabilisation of hBN/SiC Heterostructures with Vacancies and Transition-Metal Atoms</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Arsalan Hashemi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24952">2510.24952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24956.html">The Fate of Hydrogen and Helium: From Planetary Embryos to Earth- and Neptune-like Worlds</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Akash Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24956">2510.24956</a></td>
 </tr>
 </tbody></table>

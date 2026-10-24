@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>corrosion — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <strong>30d</strong> <a href="corrosion-90d.html">90d</a> <a href="corrosion-360d.html">360d</a> <a href="corrosion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30133.html">AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</a></div><div class="paper-tags"><a href="oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
 <td>Ken J. Jenewein et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30133">2609.30133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28013.html">SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jonas Busk et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28013">2609.28013</a></td>
 </tr>
 </tbody></table>

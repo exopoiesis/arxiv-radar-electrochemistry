@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26667.html">Computational Study of Water Adsorption and Dissociative Mechanisms Impacting g-C3N4&#x27;s Optical and Electronic Properties</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Amil Aligayev et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26667">2607.26667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22992.html">Role of $p$-$d$ Hybridization on Optical Properties of Chalcopyrite Semiconductors</a></div><div class="paper-tags"><a href="chalcopyrite-90d.html">chalcopyrite</a> · <a href="surface-defects-90d.html">surface-defects</a></div></td>
-<td>Neunghee Han et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22992">2607.22992</a></td>
 </tr>
 </tbody></table>
