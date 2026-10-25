@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,11 +584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27021.html">Defect Engineered Hexagonal-Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Yecun Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27021">2510.27021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25325.html">Two Orders of Magnitude Enhancement in Oxide Ion Conductivity in Cu2P2O7 via Vanadium Substitution: A Pathway Toward SOFC Electrolytes</a></div><div class="paper-tags"><a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a></div></td>
-<td>Bibhas Ghanta et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25325">2510.25325</a></td>
 </tr>
 </tbody></table>
