@@ -3584,5 +3584,165 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-10-22"
+ },
+ "2610.31727": {
+  "abstract": "We investigate the nonequilibrium vibrational dynamics of CO adsorbed on Pt(111), a prototypical adsorbate-surface system for ultrafast vibrational spectroscopy, using a first-principles framework that combines many-body perturbation theory with density functional theory. Within this methodology we explicitly account for electron-hole pair excitations and electron-mediated phonon-phonon coupling. For the latter mechanism, we evaluate the vertex-correction screening, what constitutes a methodological novelty. Our calculations qualitatively reproduce the transient evolution of the internal stretch vibrational mode observed in femtosecond pump-probe experiments, allowing us to identify in the experimental measurements a small transient blueshift after excitation with a femtosecond laser pulse. As predicted in a previous work, the reduction in the number of electronic states available for electron-phonon coupling when the electronic temperature raises at a group 10 transition metal surface, effectively screens the electron-phonon interaction giving rise to an anomalous transient blue-shift.",
+  "authors": [
+   "Raúl Bombín",
+   "Iñaki Fernández Tena",
+   "J. Iñaki Juaristi",
+   "Maite Alducin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "7 figures, 1 table",
+  "first_author": "Raúl Bombín",
+  "pdf_url": "http://arxiv.org/pdf/2610.31727",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-22",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Nonadiabatic vibrational dynamics of CO on Pt(111) studied with first-principles many-body perturbation theory",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31830": {
+  "abstract": "Perovskites have been studied for a wide range of applications, from oxide-based ferroelectrics to halide-perovskite photovoltaics. Despite their diverse functionalities, these materials share strong lattice anharmonicity arising from structural instabilities such as polar off-centering and octahedral tilting. These anharmonic distortions strongly influence the low-frequency vibrational response and can be observed in infrared (IR) and Raman spectra. However, low-frequency IR and Raman signatures are typically investigated separately, hindering the development of a unified understanding of vibrational spectroscopy across perovskite classes. In this work, we use machine-learning-based molecular dynamics to simulate the IR and Raman spectra of oxide perovskites (SrTiO$_3$ and BaTiO$_3$), halide perovskites (CsPbBr$_3$, CsSnBr$_3$, and CsGeBr$_3$) and double halide perovskites (Cs$_2$AgAlBr$_6$ and Cs$_2$AgBiBr$_6$). By comparing materials exhibiting polar, tilt-driven and mixed instabilities, we find that polar off-centering leads to enhanced low-frequency IR and dielectric responses, whereas nonpolar modes, particularly octahedral tilting, are associated with Raman central peaks. The strength of the low-frequency features also depends on how strongly the underlying modes couple to polarization or dielectric susceptibility. Finally, we show that the dynamics of these instabilities play an important role, with slow polar reorientations shifting the dielectric response to very low frequencies and overdamped tilting modes producing persistent Raman central peaks. These results establish a unified framework connecting low-frequency IR and Raman spectra to the symmetry, coupling and dynamics of their underlying anharmonic lattice instabilities.",
+  "authors": [
+   "Ethan Berger",
+   "Erik Fransson",
+   "Apinya Ngoipala",
+   "Lucas Svensson",
+   "Priyanka Deswal",
+   "Mehmet Baskurt",
+   "Paul Erhart",
+   "Julia Wiktor"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ethan Berger",
+  "pdf_url": "http://arxiv.org/pdf/2610.31830",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-22",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Unifying Low-Frequency Raman and Infrared Signatures across Perovskites",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.32903": {
+  "abstract": "Organic molecules are versatile building blocks for the formation of complex low-dimensional nanostructures on surfaces. Recently, interest has grown in translating on-surface synthetic protocols from noble metal surfaces to insulating surfaces, which offer technological relevance, and to magnetic or superconducting surfaces, which offer new routes to correlated phases. It is important, therefore, to understand how these alternative surfaces may alter the properties of adsorbates through processes like charge transfer and screening. Evidence for charge transfer is often obtained experimentally via scanning tunneling microscopy (STM) and spectroscopy (STS), and theoretically via density functional theory (DFT). In this work, we systematically compare the properties of isolated macrocyclic emeraldine (Me$_6$) molecules on three different surfaces: metallic Au(111), a semiconducting ferromagnetic monolayer of FeCl$_2$, and a cleaved superconducting surface of bulk 2H-NbSe$_2$. We show that STS and DFT alone are insufficient to quantify charge transfer for these cases. Instead, we complement these methods with Kelvin probe force microscopy (KPFM) measurements and model Hamiltonian calculations to demonstrate that on Au(111) and FeCl$_2$, Me$_6$ molecules donate a single electron to the substrate, whereas on NbSe$_2$ two electrons are transferred from molecule to substrate. Our work provides insight into the interplay of charge transfer, screening, and molecule-substrate coupling, and develops experimental and theoretical methods for comparing the properties of adsorbates across different surfaces for future studies.",
+  "authors": [
+   "Benjamin Lowe",
+   "Jan Berger",
+   "Martin Ondráček",
+   "Oleksandr Stetsovych",
+   "Shayan Louie",
+   "Marco Lozano",
+   "Diego Soler-Polo",
+   "Shiladitya Karmarkar",
+   "Andrés Pinar Solé",
+   "Iva Plutnarová",
+   "Pingo Mutombo",
+   "Manish Kumar",
+   "Michael Píro",
+   "Ali Cem Demirok",
+   "Michael L. Steigerwald",
+   "Zdeněk Sofer",
+   "Colin Nuckolls",
+   "Pavel Jelínek"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "32 pages, 5 figures",
+  "first_author": "Benjamin Lowe",
+  "pdf_url": "http://arxiv.org/pdf/2610.32903",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-23",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Rationalizing charge transfer: a single-molecule case study across three distinct surfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.32905": {
+  "abstract": "Sulfide solid electrolytes are attractive for all-solid-state batteries because of their high Li-ion conductivity and favorable processability, but their practical use is limited by electrochemical instability and moisture-induced degradation. Molecular surface coatings offer a scalable strategy to improve humidity tolerance and interfacial stability, yet there is limited understanding of the molecular-level factors governing surface interactions. By combining large-scale atomistic simulations enabled by a machine-learning potential with targeted experiments, we present a comprehensive framework for designing molecular coatings on Li$_6$PS$_5$Cl (LPSCl). Using a PET-MAD interatomic potential fine-tuned on an r$^2$SCAN reference dataset covering LPSCl surfaces, molecular adsorbates, and their interactions, we model surface adsorption of carboxylic (CA), sulfonic (SA), and phosphonic (PA) acids with alkyl chains of varying lengths and the interaction of these coated surfaces with water at finite temperature. The simulations show that lithiated head groups generally exhibit more favorable adsorption energies. Impedance spectroscopy shows that the lithiated coatings maintain 40--55\\% of the initial ionic conductivity after powder processing. While adsorption strength is largely controlled by head-group chemistry and lithiation state, coating morphology depends primarily on alkyl-chain length and surface coverage. In particular, long-chain lithiated carboxylates form dense, brush-like hydrophobic layers that reduce water access to reactive Li surface sites, with protection setting in at a coating thickness of approximately 0.8 nm. Consistent with these predictions, longer carboxylate chains suppress H$_2$S evolution more effectively. Because thicker coatings also hinder Li-ion transport, intermediate chain lengths offer the best balance between moisture protection and ionic conductivity.",
+  "authors": [
+   "Zhiyi Wang",
+   "Leonie Braks",
+   "Michele Ceriotti",
+   "Ali Coskun",
+   "Hanna Türk",
+   "Davide Tisi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages main paper, 22 pages SI",
+  "first_author": "Zhiyi Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.32905",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-23",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "impedance-spectroscopy",
+   "ion-transport",
+   "mlip"
+  ],
+  "title": "Combining Simulations and Spectroscopy to Design Protective Coatings on Sulfide Solid Electrolytes",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.32938": {
+  "abstract": "Sluggish vacancy-mediated self-diffusion in lithium metal limits the critical current density (CCD) of Li anodes in solid-state batteries by promoting interfacial void formation during stripping. To enhance the effective vacancy concentration while preserving the bcc Li host, we screen 50 substitutional solutes using density functional theory (DFT) within a funnel based on automatic phase diagram construction, solution energies, solute-vacancy binding energies, and experimental solubility limits. Using an adaptation of the Lomer model for the dilute limit, we show that only Ag, Ge, and Cd solid solutions are predicted to reach $1~\\mathrm{mA~cm^{-2}}$ within their solubility limits. The thermodynamically estimated CCD of Ag at $\\sim 9$ at.% reaches $\\sim 4~\\mathrm{mA~cm^{-2}}$ at a theoretical capacity of $1522~\\mathrm{mAh~g^{-1}}$. Migration barrier calculations indicate that the enhancement may be partially offset by vacancy trapping, necessitating further validation via molecular dynamics simulations. Notably, Hume-Rothery rules alone prove insufficient as prefilters, whereas machine-learning models trained on the DFT data can eliminate most unsuitable solutes early in the funnel and extend the workflow to related solid-solution searches.",
+  "authors": [
+   "Arseniy S. Burov",
+   "Nadezhda A. Ashikhmina",
+   "Nurlan Zhanabayev",
+   "Anton O. Boev",
+   "Aleksandra D. Radina",
+   "Ilya V. Chepkasov",
+   "Alexander G. Kvashnin",
+   "Dmitry A. Aksyonov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Arseniy S. Burov",
+  "pdf_url": "http://arxiv.org/pdf/2610.32938",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-23",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Vacancy-enhanced Li solid-solution anodes for solid-state batteries: computational screening enabling high critical current density",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-23"
  }
 }

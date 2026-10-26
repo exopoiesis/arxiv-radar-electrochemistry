@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">576 papers</span>
+  <span class="paper-count">575 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32938.html">Vacancy-enhanced Li solid-solution anodes for solid-state batteries: computational screening enabling high critical current density</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Arseniy S. Burov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32938">2610.32938</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31084.html">Nitrogen vacancy cluster-mediated ferroelectric domain growth in wurtzite AlN</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Zijian Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31084">2610.31084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31830.html">Unifying Low-Frequency Raman and Infrared Signatures across Perovskites</a></div></td>
+<td>Ethan Berger et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31830">2610.31830</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-21</td>
@@ -3452,23 +3464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00283.html">Ambient-Induced Selenium Segregation and Nanoparticle Formation in 2H-HfSe2: An Experimental and Theoretical Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Stefany P. Carvalho et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00283">2511.00283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16398.html">Multiscale Growth Kinetics of Model Biomolecular Condensates Under Passive and Active Conditions</a></div><div class="paper-tags"><a href="dissolution-kinetics-360d.html">dissolution-kinetics</a></div></td>
-<td>Tamizhmalar Sundararajan et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16398">2508.16398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04699.html">Stability of graphene hyperbolic pseudospheres under harsh conditions</a></div></td>
-<td>T. P. C. Klaver et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04699">2510.04699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26998.html">Stability and Dynamics of Sn-based Halide Perovskites: Insights from MACE-MP-0 and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Thiago Puccinelli et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26998">2510.26998</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32905.html">Combining Simulations and Spectroscopy to Design Protective Coatings on Sulfide Solid Electrolytes</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Zhiyi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32905">2610.32905</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29653.html">Construction of highly coarse-grained molecular models for aqueous electrolytes</a></div></td>
 <td>Michael A. Seaton et al.</td>
@@ -578,11 +584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00362.html">Cooperative Ion Conduction Enabled by Site Percolation in Random Substitutional Crystals</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Rikuya Ishikawa et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00362">2505.00362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27021.html">Defect Engineered Hexagonal-Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Yecun Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27021">2510.27021</a></td>
 </tr>
 </tbody></table>
