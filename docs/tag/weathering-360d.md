@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>weathering — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="weathering-7d.html">7d</a> <a href="weathering-30d.html">30d</a> <a href="weathering-90d.html">90d</a> <strong>360d</strong> <a href="weathering-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03904.html">Speciation and hydration forces in sodium carbonate/bicarbonate aqueous solutions nanoconfined between mica sheets</a></div></td>
 <td>Daria Turculet et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03904">2512.03904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27092.html">Micrometeoroid Impacts: Dual Pathways for Iron Reduction and Oxidation on Lunar and Asteroidal Surfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ziyu Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27092">2510.27092</a></td>
 </tr>
 </tbody></table>

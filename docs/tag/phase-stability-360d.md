@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34551.html">A thermodynamic correction layer for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Sarath Menon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34551">2610.34551</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jakkapat Seeyangnok et al.</td>
@@ -488,11 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02159.html">Equivalence of charged and neutral density functional formulations for correcting the many-body self-interaction of polarons</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Stefano Falletta et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02159">2511.02159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27429.html">Hexagonal BeX (X: S, Te) monolayer as potential electrode material for alkali metal-ion batteries: A DFT perspective</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Hetvi Jadav et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27429">2510.27429</a></td>
 </tr>
 </tbody></table>

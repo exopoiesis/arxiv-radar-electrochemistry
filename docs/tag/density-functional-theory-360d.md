@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">817 papers</span>
+  <span class="paper-count">822 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>J. W. González et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19168">2610.19168</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35547.html">High-efficiency solid-state electrochemical thermal switching through phonon engineering of 2D materials</a></div></td>
+<td>Harry Mclean et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35547">2610.35547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35653.html">Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yue Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35653">2610.35653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34543.html">Role of site-specific coordination for the structural and electronic properties of a Co-HATCN network on silver</a></div></td>
+<td>Martin Anstett et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34543">2610.34543</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34584.html">Methyl radicals dynamics on (100)--(2x1):H diamond surfaces based on refined variational transition state calculations of gas-surface reaction rate coefficients</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Emerick Y. Guillaume et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34584">2610.34584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33457.html">First-Principles Investigation of the Structural, Electronic, Optical, Elastic, and Thermoelectric Properties of X2MoSeO6 (X = K, Rb, Cs)</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Sha Ajharul Islam Forhat et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33457">2610.33457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33469.html">Charge state and hydration of vacancies in silicon and silicon carbide in contact with water: A grand-canonical first-principles stability map</a></div><div class="paper-tags"><a href="corrosion-360d.html">corrosion</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Abhirup Patra</td>
+<td><a href="http://arxiv.org/abs/2610.33469">2610.33469</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32903.html">Rationalizing charge transfer: a single-molecule case study across three distinct surfaces</a></div></td>
@@ -4904,17 +4946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09543.html">Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Karnik Ram et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09543">2505.09543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22486.html">Electric Field-Induced Kerr Rotation on Metallic Surfaces</a></div></td>
-<td>Farzad Mahfouzi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22486">2510.22486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27546.html">Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>David Rovira et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27546">2510.27546</a></td>
 </tr>
 </tbody></table>

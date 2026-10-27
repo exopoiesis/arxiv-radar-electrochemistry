@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34354.html">Transition Metal-Anchored Newly Synthesized Aza-Triphenylene Monolayer for Efficient Hydrogen Evolution Reaction: Insights from DFT</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="hydrogen-evolution-360d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Soumendra Kumar Das et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34354">2610.34354</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34584.html">Methyl radicals dynamics on (100)--(2x1):H diamond surfaces based on refined variational transition state calculations of gas-surface reaction rate coefficients</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Emerick Y. Guillaume et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34584">2610.34584</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32905.html">Combining Simulations and Spectroscopy to Design Protective Coatings on Sulfide Solid Electrolytes</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="impedance-spectroscopy-360d.html">impedance-spectroscopy</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Zhiyi Wang et al.</td>
@@ -1316,17 +1328,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09543.html">Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Karnik Ram et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09543">2505.09543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27429.html">Hexagonal BeX (X: S, Te) monolayer as potential electrode material for alkali metal-ion batteries: A DFT perspective</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Hetvi Jadav et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27429">2510.27429</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27433.html">Density functional investigations on 2D-Be2C as an anode for alkali Metal-ion batteries</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Hetvi Jadav et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27433">2510.27433</a></td>
 </tr>
 </tbody></table>

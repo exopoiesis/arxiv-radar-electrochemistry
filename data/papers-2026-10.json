@@ -2319,6 +2319,33 @@
   ],
   "updated": "2026-10-13"
  },
+ "2610.19168": {
+  "abstract": "Extreme stiffness contrasts between loading modes usually require architected metamaterials with compliant hinges, whereas covalent crystals rarely exhibit such behavior intrinsically. Here, density functional theory calculations of the complete in-plane elastic tensors of four tetragonal carbon monolayers reveal a more than 50-fold spread in shear stiffness, despite less than a twofold variation in axial stiffness and the same symmetry-allowed tensor form. Twin T-graphene shows the strongest contrast: its shear constant, $C_{66}=3.03$~N m$^{-1}$, is 47 times smaller than in graphene and yields a shear Kelvin eigenvalue 29 times below the two normal-strain eigenvalues, while the Born stability criteria hold. This shear constant revises an earlier inference of elastic isotropy based on normal strains alone. Constrained relaxations and symmetry-resolved mode analysis identify the mechanism as a $B_{2g}$ counter-torsion of the carbon sublayers about the mid-plane bonds, which removes 96.3% of the clamped-ion shear stiffness with bond-length changes below 0.15%. An internal-coordinate model quantifies this cancellation, identifying internal relaxation, rather than weak bonding, as the origin of the soft channel. The resulting anisotropy predicts transverse sound velocities of 1.95 km s$^{-1}$ along [100] and 10.62 km s$^{-1}$ along [110], a testable acoustic signature. Phonon calculations, ab initio molecular dynamics at 300 K, and large-deformation simulations indicate that the soft channel is dynamically stable, preserves the local bonding, and persists beyond the harmonic regime. Our results show how bonding topology enables extreme mode-selective elasticity through internal relaxation in a mechanically stable covalent crystal.",
+  "authors": [
+   "J. W. González",
+   "M. Pacheco",
+   "J. D. Correa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 5 Figures",
+  "first_author": "J. W. González",
+  "pdf_url": "http://arxiv.org/pdf/2610.19168",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-13",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Symmetry-selected extreme shear compliance in a stable carbon monolayer",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-26"
+ },
  "2610.19383": {
   "abstract": "In this work, we investigate the phase stability, electronic structure, and superconducting properties of the two-dimensional ternary borocarbides MB$_4$C$_2$ (M = Ca, Mg) using first-principles calculations and fully anisotropic Migdal-Eliashberg theory. Ab initio molecular dynamics, phonon dispersion, and elastic constant calculations confirm that both monolayers are dynamically, thermally, and mechanically stable. Electronic structure analysis reveals an intrinsic metallic nature with a multiband Fermi surface, where states near the $Γ$ point are dominated by in-plane B-$p_x$, $p_y$ orbitals, while zone-boundary states are primarily derived from out-of-plane B-$p_z$ orbitals. The electron-phonon coupling is determined to be $λ= 0.64$ for both materials, driven by the rigid covalent B-B and B-C honeycomb networks. By solving the anisotropic Eliashberg equations, we predict that CaB$_4$C$_2$ and MgB$_4$C$_2$ are nodeless two-gap superconductors with critical temperatures ($T_c$) of 33.4 K and 33.8 K, respectively, at a Coulomb pseudopotential of $μ= 0.10$. Furthermore, the superconducting state remains robust under increased Coulomb repulsion ($μ= 0.13$), retaining elevated $T_c$ values of 31.2 K and 30.9 K, respectively. These findings establish MB$_4$C$_2$ monolayers as promising candidates for nanoscale superconducting applications and enrich the family of two-dimensional multigap superconductors.",
   "authors": [
@@ -3744,5 +3771,324 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-10-23"
+ },
+ "2610.33457": {
+  "abstract": "Understanding how alkali-metal substitution influences the coupled physical properties of molybdenum selenite oxides is essential for establishing their composition-structure-property relationships. Although the lighter members of the X2MoSeO6 family have been investigated, the heavier alkali-metal compounds remain comparatively unexplored, particularly regarding their integrated electronic, mechanical, optical, and thermoelectric responses. Here, a comprehensive first-principles investigation of X2MoSeO6 (X = K, Rb, and Cs) is presented using density functional theory and semi-classical Boltzmann transport calculations. The optimized structures exhibit progressive unit-cell expansion with increasing alkali-metal ionic size, while their indirect electronic bandgaps vary non-monotonically, reaching 2.646, 2.216, and 2.427 eV for K2MoSeO6, Rb2MoSeO6, and Cs2MoSeO6, respectively. All three structures satisfy the elastic stability criteria, with Hill-averaged bulk moduli increasing from 16.332 to 20.975 GPa across the series. K2MoSeO6 exhibits the strongest elastic anisotropy, whereas Rb2MoSeO6 possesses the highest static electronic dielectric constant (4.614) and maximum absorption coefficient (2.291*106 cm-1). Thermoelectric calculations reveal pronounced carrier-polarity-dependent behavior, with Rb2MoSeO6 attaining a positive Seebeck coefficient of 390.55e-6 V/K at 100 K and an electronic-only figure of merit (ZTe) of 7.286 at 300 K under the selected positive-Seebeck condition. By extending the investigation to the K-Rb-Cs series, this work establishes a comparative foundation for understanding and further exploring the functional characteristics of molybdenum selenite oxides.",
+  "authors": [
+   "Sha Ajharul Islam Forhat",
+   "Md. Rakibul Hasan Rakib",
+   "Md. Al Noman Ruhin",
+   "Md Tashfiq Bin Kashem"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sha Ajharul Islam Forhat",
+  "pdf_url": "http://arxiv.org/pdf/2610.33457",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-24",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "First-Principles Investigation of the Structural, Electronic, Optical, Elastic, and Thermoelectric Properties of X2MoSeO6 (X = K, Rb, Cs)",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-24"
+ },
+ "2610.33469": {
+  "abstract": "The state of a vacancy in a semiconductor is normally described by the Fermi level alone. In wet-etched, electrochemically processed, or humid silicon and silicon carbide, a vacancy also takes up hydrogen and oxygen from water, in amounts set by pH and electrode potential. We treat both effects together by minimizing the grand potential of a vacancy complex over its charge state and hydrogen/oxygen content. The result is a stability map in Fermi level and hydrogen chemical potential, which the computational hydrogen electrode relates to pH and potential. We parameterize it with spin-polarized density functional theory in 64-atom cells, including the vibrational free energy of bound H and O, for the silicon vacancy, its H, O, and OH complexes, and both vacancies of 3C-SiC. Hydrogen binds cooperatively to the silicon vacancy, which goes directly from bare to fully passivated $V$H$_4$. In contact with water the bare vacancy is never the lowest-energy state. Near neutral pH it binds oxygen from water as the A center, the paramagnetic hydroxyl complex forms below about pH 5 at zero bias, and full passivation to $V$H$_4$ requires cathodic bias. In PBE the Fermi level barely moves these boundaries, because the acceptor levels lie at or above the conduction-band edge. In SiC the first hydrogen binds to the silicon vacancy by 1.97 eV but is unbound at the carbon vacancy (the $Z_{1/2}$ center), so hydrogen from water alone should not passivate it except under cathodic bias.",
+  "authors": [
+   "Abhirup Patra"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Abhirup Patra",
+  "pdf_url": "http://arxiv.org/pdf/2610.33469",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-24",
+  "tags": [
+   "corrosion",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Charge state and hydration of vacancies in silicon and silicon carbide in contact with water: A grand-canonical first-principles stability map",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-24"
+ },
+ "2610.33834": {
+  "abstract": "Compiling classically optimized matrix product states (MPSs) into quantum circuits is a promising route to initial-state preparation for strongly correlated molecules, but the accuracy, gate cost, and classical scalability of existing MPS compilation methods have not been systematically assessed. Here, we benchmark representative analytical, variational, and hybrid MPS compilation methods for strongly correlated systems including hydrogen chains and iron-sulfur clusters. We compare state infidelity, CNOT gate count, classical runtime, and parallel scalability across different system sizes and bond dimensions. We also introduce a divide-and-conquer environment-aware compilation algorithm (DCE), which optimizes each local isometry approximation according to its contribution to the prepared-state fidelity. The results reveal complementary operating regimes: direct variational compilation methods are gate-efficient for some smaller molecular systems with $O(10)$ qubits and $O(10)$ bond dimensions or moderate accuracy targets with infidelity of order $10^{-1}$, whereas divide-and-conquer methods scale more favorably for larger systems and relatively higher bond dimensions of $O(10\\text{-}10^2)$, particularly when target infidelities below $10^{-1}$ are required. Within the latter family, environment-aware optimization improves accuracy over unitary-distance-based compilation while retaining task-level parallelism. For the FeMo-cofactor (FeMoco), we find the DCE algorithm together with the MPS obtained in the entanglement-minimized orbitals (EMOs) provides a resource-efficient route to initial-state preparation. Our results provide practical guidance for selecting and developing MPS compilation methods for strongly correlated molecular simulations.",
+  "authors": [
+   "Haiqi Liu",
+   "Longfei Chang",
+   "Zhendong Li",
+   "Wei-Hai Fang"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Haiqi Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.33834",
+  "primary_category": "quant-ph",
+  "published": "2026-10-24",
+  "tags": [],
+  "title": "Initial-State Preparation for Strongly Correlated Molecules from Matrix Product States: Benchmarking and Environment-Aware Divide-and-Conquer Compilation",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-24"
+ },
+ "2610.34354": {
+  "abstract": "First-principles calculations were employed to explore the hydrogen evolution reaction (HER) activity in two-dimensional aza-triphenylene monolayers functionalized with transition metals. Among the various metals studied, Co, Ru, and Y demonstrate outstanding catalytic efficacy, lowering the hydrogen adsorption free energy from -0.78 eV for pure aza-triphenylene to 0.05, 0.20, and 0.06 eV, respectively. Volcano plot analysis corroborates their enhanced HER activity. Ab initio molecular dynamics simulations confirm thermal stability, while the electronic structure and charge transfer analysis reveal the strong catalyst-surface interaction. Metal decoration also improves the carrier mobility, particularly for Ru-functionalized aza-triphenylene. The climbing-image nudged elastic band calculations for Co-functionalized aza-triphenylene exhibit activation barriers of 1.61, 2.29, and 5.88 eV for the Volmer, Heyrovsky, and Tafel reactions, respectively, highlighting a preferred Volmer-Heyrovsky route with the Heyrovsky being the rate-determining step. These findings highlight the potential of transition-metal-functionalized aza-triphenylene as a promising platform for developing efficient HER electrocatalysts.",
+  "authors": [
+   "Soumendra Kumar Das",
+   "Jagannath Pradhan",
+   "Prasanjit Samal",
+   "Sridhar Sahu",
+   "Brahmananda Chakraborty"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Soumendra Kumar Das",
+  "pdf_url": "http://arxiv.org/pdf/2610.34354",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-25",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "aimd",
+   "electrocatalysis",
+   "hydrogen-evolution",
+   "molecular-dynamics",
+   "neb"
+  ],
+  "title": "Transition Metal-Anchored Newly Synthesized Aza-Triphenylene Monolayer for Efficient Hydrogen Evolution Reaction: Insights from DFT",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-25"
+ },
+ "2610.34505": {
+  "abstract": "Amorphous solid-state electrolytes (SSEs) are attractive candidates for safe, high-energy-density all-solid-state batteries. The recent discovery that amorphous LiTaCl$_6$ and LiNbCl$_6$ reach room-temperature ionic conductivities above 10 mS cm$^{-1}$ with activation energies below 0.2 eV has spurred a broad search for new amorphous halide Li conductors. Here we report a computational screening of amorphous lithium trivalent-metal chlorides (Li-M(III)-Cl) using molecular dynamics driven by a universal machine-learning force field. For the sixteen Li-M(III)-Cl compositions spanning fifteen rare-earth elements and indium, all phases exhibit fast room-temperature Li$^+$ diffusion, with diffusivities of roughly $2$-$5 \\times 10^{-7}$ cm$^2$ s$^{-1}$. After scaling the conductivity versus diffusivity relation to an experimental LiTaCl$_6$ reference, the estimated room-temperature conductivities range from 7.7 mS cm$^{-1}$ for amorphous Li$_3$InCl$_6$ to 14 mS cm$^{-1}$ for amorphous Li$_3$ScCl$_6$. With a low activation energy of 0.18 eV, amorphous Li$_3$ScCl$_6$ is predicted to be among the most conductive amorphous halide electrolytes. To rationalize the composition-dependent transport, we identify two descriptors: the Li$^+$ vibrational density of states (VDOS) center, which correlates inversely with diffusivity, and the average number of correlated bodies in string-like Li$^+$ motion. Compositions in which Li$^+$ has a lower VDOS center and migrates more by individual hopping rather than by concerted motion exhibit higher Li-ion diffusivities. These results suggest rich Li-ion transport characteristics in amorphous halide SSEs.",
+  "authors": [
+   "Xiaolin Liu",
+   " Shuang",
+   " Xia",
+   "De-en Jiang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 6 figures",
+  "first_author": "Xiaolin Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.34505",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-25",
+  "tags": [
+   "ion-transport",
+   "molecular-dynamics"
+  ],
+  "title": "Computational screening of amorphous lithium trivalent-metal chloride solid-state electrolytes",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-25"
+ },
+ "2610.34543": {
+  "abstract": "Two-dimensional metal-organic porous networks (2DMOPNs) on metal surfaces provide a versatile platform for exploring emergent electronic and magnetic phenomena in designed surface nanostructures. While the porous architecture is governed by coordination between molecular building blocks and metal centers, most 2DMOPNs utilize only one type of coordination site, leaving the impact of multiple coordination sites largely unexplored. We address this question by investigating the structural formation of a Co-coordinated 2DMOPN on Ag(111) with the linker molecule hexaazatriphenylene-hexacarbonitrile (HATCN), which has two chemically distinct nitrogen coordination sites at the peripheral nitrile groups and pyrazine-type core nitrogen atoms. Scanning tunneling microscopy (STM) reveals the transformation from a simple honeycomb HATCN structure to a Co-coordinated porous network with three structurally and electronically inequivalent molecules in a 6:3:1 ratio. The existence of two distinct coordination sites leads to selective Co coordination geometries for all three molecules, accompanied by site-specific charge transfer from Co into the former lowest unoccupied molecular orbital (LUMO), as revealed by momentum-resolved photoemission and density functional theory. Our results demonstrate that site-selective Co coordination not only controls the overall architecture of the porous network structure but also strongly influences the local electronic properties through site-specific metal-molecule interaction, providing a route to tailor the site-specific electronic structure of 2DMOPNs at the molecular level.",
+  "authors": [
+   "Martin Anstett",
+   "Ariyan Tavakoli",
+   "Simone Mearini",
+   "Yan Yan Grisan Qiu",
+   "Vitaliy Feyer",
+   "Peter Puschnig",
+   "Martin Aeschlimann",
+   "Lu Lyu",
+   "Hans Christian Schneider",
+   "Benjamin Stadtmüller"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Martin Anstett",
+  "pdf_url": "http://arxiv.org/pdf/2610.34543",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-25",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Role of site-specific coordination for the structural and electronic properties of a Co-HATCN network on silver",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-25"
+ },
+ "2610.34551": {
+  "abstract": "Machine learning interatomic potentials enable atomistic simulations with near \\textit{ab initio} accuracy over large length and time scales. Foundation models extend this capability across the periodic table but inherit the thermodynamic description of the electronic structure methods used to generate their training data. Small errors in relative phase stability can therefore produce large errors in transformation temperatures. We introduce an additive thermodynamic correction layer that shifts phase free energies towards an assessed reference without retraining or modifying the base potential. A first order thermodynamic construction converts the required phase free energy shifts directly into configuration energy targets, which are fitted using a linear atomic cluster expansion and refined iteratively from measured free energies. We apply the method to melting and solid to solid transformations across elements with different crystal structures using a foundation GRACE model. After the correction, all transformation temperatures lie within the prescribed tolerance of the assessed values, including Ca, Ti, and Zr, where a solid to solid transition and melting are corrected together. Static energy curves, bulk moduli, and liquid structure remain close to those of the base model. Vacancy formation energies, thermal expansion, and liquid density depend on the corrected phase balance and change where the correction is large. The method requires neither retraining, differentiable dynamics, nor access to the parameters of the base potential. It provides a modular route for combining transferable atomistic models with assessed phase thermodynamics.",
+  "authors": [
+   "Sarath Menon",
+   "Braulio Sanchez Ortega",
+   "Ralf Drautz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sarath Menon",
+  "pdf_url": "http://arxiv.org/pdf/2610.34551",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-25",
+  "tags": [
+   "ab-initio",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "A thermodynamic correction layer for machine learning interatomic potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-25"
+ },
+ "2610.34584": {
+  "abstract": "Theoretical modelling of diamond growth should ideally provide estimates of the growth rate depending on experimental conditions. To that end, a description of all possible reactions related to the competing adsorption, desorption and migration mechanisms is required. Here, we provide precise calculations of the reaction rate coefficient of methyl-related reactions on hydrogen-terminated (100) diamond surface, as $\\mathrm{CH_3}$ is known to be the main growth precursor in chemical vapor deposition (CVD) growth of diamond. To achieve this goal, we successfully combined Density Functional Theory (DFT) and variational transition state theory (VTST), allowing to extend our analysis to barrierless reaction. Our rigorous treatment of the quasi-free rotation of $\\mathrm{CH_3}$ adsorbates on the surface allows us to overcome numerical errors for the finite difference calculations of the vibrational spectra for evaluating the partition functions of the system. Our results suggest that the mechanism that deplete the $\\mathrm{CH_3}$ concentration the most is the absorption on a surface radical site. We also evidence the anisotropy of $\\mathrm{CH_3}$ migration along the dimer of the (100)-(2x1):H surface. In a more general perspective, the calculated reaction rates coefficient for methyl reactions and migration presented in this work, together with the data for hydrogen reaction and other main gas surface reactions, bridge the gap between the atomic-scale description and the large-scale modelling of diamond growth.",
+  "authors": [
+   "Emerick Y. Guillaume",
+   "Luc Henrard",
+   "Ken Haenen",
+   "Danny E. P. Vanpoucke"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Emerick Y. Guillaume",
+  "pdf_url": "http://arxiv.org/pdf/2610.34584",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-25",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "neb"
+  ],
+  "title": "Methyl radicals dynamics on (100)--(2x1):H diamond surfaces based on refined variational transition state calculations of gas-surface reaction rate coefficients",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-25"
+ },
+ "2610.35391": {
+  "abstract": "High-fidelity digital twins in continuous biomanufacturing are often bottlenecked by incomplete kinetic models, while standard data-driven algorithms (e.g., SINDy, PINNs) lack interpretability or impose rigid physical assumptions. This paper introduces a hybrid closed-loop architecture for autonomous kinetic state-space discovery driven by a Large Language Model (LLM) agent. The framework employs a sequential \"isolation-peeling\" methodology across orthogonal operational regimes. This algorithmic peeling mathematically decouples entangled multiplicative (inhibitory) and additive (catalytic) biological rate law. Grounded in a Two-Level Retrieval-Augmented Generation (RAG) library, the framework utilizes Moving Horizon Estimation (MHE) and logarithmic decomposition to decouple complex cell growth kinetics into orthogonal multiplicative (inhibitory) and additive (regulatory) residual channels. When statistical degeneracy occurs an Active Design of Experiments (DoE) controller dynamically triggers targeted perturbations to decorrelate competing model hypotheses. Evaluated on a continuous stirred-tank reactor exhibiting unmodeled Haldane inhibition, Luong product toxicity, and secondary metabolite autocatalysis, the framework autonomously expanded the state space and recovered ground-truth parameters with under 6% error without a priori kinetic knowledge.",
+  "authors": [
+   "Erdal Aydin",
+   "Yaman Arkun"
+  ],
+  "categories": [
+   "math.OC",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Erdal Aydin",
+  "pdf_url": "http://arxiv.org/pdf/2610.35391",
+  "primary_category": "math.OC",
+  "published": "2026-10-26",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven Agents",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.35547": {
+  "abstract": "Reversible solid-state thermal switches with large thermal contrasts remain rare, yet are essential for advanced thermal management. Using universal machine-learned interatomic potentials (uMLIPs) and density functional theory (DFT), we screen 57 transition metal dichalcogenides (TMDCs), spanning the 1T and 2H phases with Li and Mg intercalation. Among the candidates, Li$_a$ZrS$_2$ combines exceptional thermal conductivity switching with low heat capacity. Lithiation to Li$_{0.125}$ZrS$_2$ reduces the cross-plane thermal conductivity from approximately 3.7 to 0.05 W m$^{-1}$ K$^{-1}$. The switching behaviour exceeds that of previously reported solid-state electrochemical thermal switches. Device-level modelling further demonstrates the potential for waste-heat recovery, with a pulsed system capturing 86\\% of the energy recovered by an ideal switch. We attribute the switching behaviour to substantial softening of the Zr--Zr framework, with the mean force constant decreasing from approximately 4.2 to 1.2 eV $\\mathrm{\\mathring{A}}^{-2}$, alongside enhanced scattering of heat-carrying acoustic phonons. These findings establish electrochemical intercalation as a promising route to engineering thermal transport in layered materials.",
+  "authors": [
+   "Harry Mclean",
+   "Steven Paul Hepplestone"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Harry Mclean",
+  "pdf_url": "http://arxiv.org/pdf/2610.35547",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-26",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "High-efficiency solid-state electrochemical thermal switching through phonon engineering of 2D materials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.35560": {
+  "abstract": "Multi-fidelity training, which combines abundant low-fidelity data with scarce high-fidelity labels, is increasingly common in atomistic modeling, but its effect on predictive uncertainty remains largely unexplored. We investigate this question using deep ensembles of mean-variance MACE models trained on ANI-1x, contrasting high-fidelity training from scratch with low-fidelity pretraining followed by fine-tuning. We characterize aleatoric, epistemic, and total uncertainty throughout training and under two distribution shifts: unseen molecular systems and higher-energy configurations. We find that pretraining reduces prediction error and improves uncertainty-based ranking across all test sets, but does not yield well-calibrated predictive variances; calibration deteriorates more severely under energy extrapolation. Training-dynamics analysis localizes most of this calibration degradation to high-fidelity optimization, during which the learned aleatoric variance becomes overconfident on held-out data. Moreover, multi-fidelity fine-tuning produces a more effective uncertainty-based acquisition function than high-fidelity training from scratch. These findings show that uncertainty ranking and calibration capture distinct properties and must be assessed separately in multi-fidelity atomistic models, especially under extrapolation.",
+  "authors": [
+   "Matteo Tolloso",
+   "Davide Bacciu",
+   "Luigi Bonati"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Matteo Tolloso",
+  "pdf_url": "http://arxiv.org/pdf/2610.35560",
+  "primary_category": "cs.LG",
+  "published": "2026-10-26",
+  "tags": [
+   "mace"
+  ],
+  "title": "Multi-Fidelity Training Reshapes Uncertainty Decomposition in Atomistic Models",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.35653": {
+  "abstract": "Adapting a pre-trained machine-learning interatomic potential for non-equilibrium defect dynamics and plasticity requires improving defect accuracy without degrading the near-equilibrium elastic and vibrational response. Here we achieve this balance for the aluminium MACE potential QP17 by integrating conditional readout uncertainty, iterative full-parameter updates and protocol-compatible relative-energy anchoring. Sensitivities over 144 linear readout weights guide acquisition, with within-batch covariance updates and evolving neural representations. After four active-learning rounds (32 acquired configurations and 400 gradient updates), force-uncertainty acquisition reduces mean development force error from 22.43 to 21.52 meV/Angstrom, outperforming random sampling (22.70), geometry-diversity selection (22.46) and uniform training across all 104 candidate labels (22.71) under the same update budget. All three force-uncertainty runs satisfy bulk-mechanical retention criteria: historical relative-energy error decreases from 0.375 to 0.207 meV/atom, while harmonic phonon root-mean-square drift remains below 0.05 THz. Matched objective ablations reveal that relative-energy anchoring suppresses harmonic drift. Out-of-sample evaluations across planar faults, twin boundaries and grain boundaries demonstrate transferable gains in defect energies and deviatoric stresses, even though virial stresses are never fitted. A closed-loop molecular dynamics and density functional theory (MD-DFT) pilot confirms that automated acceptance gating intercepts updates that violate historical elastic-group energy or vibrational tolerances. Together, these components establish a retention-constrained fine-tuning protocol for improving plastic-deformation observables while preserving the tested bulk mechanical response.",
+  "authors": [
+   "Yue Wu",
+   "Yuan Tian",
+   "Deng Pan",
+   "Mingwei Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yue Wu",
+  "pdf_url": "http://arxiv.org/pdf/2610.35653",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-26",
+  "tags": [
+   "active-learning",
+   "density-functional-theory",
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-26"
  }
 }
