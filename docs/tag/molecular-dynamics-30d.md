@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div></td>
+<td>Antonio Mirarchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>

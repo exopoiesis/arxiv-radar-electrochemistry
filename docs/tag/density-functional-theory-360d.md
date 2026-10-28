@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">822 papers</span>
+  <span class="paper-count">827 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36659.html">Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Pritam Das et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36659">2610.36659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36860.html">HorizON: A Multi-Horizon Deep Operator Network for Property Prediction of Organic Battery Stacks</a></div></td>
+<td>Subhash V. S. Ganti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36860">2610.36860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="implicit-solvation-360d.html">implicit-solvation</a></div></td>
+<td>Stanislav K. Ignatov</td>
+<td><a href="http://arxiv.org/abs/2610.37483">2610.37483</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -32,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35653.html">Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yue Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.35653">2610.35653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36115.html">Coulomb- and exchange-driven redistribution of spectral correlations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Zanya Gonzalez Tellez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36115">2610.36115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-25</td>

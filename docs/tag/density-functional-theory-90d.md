@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36659.html">Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers</a></div><div class="paper-tags"><a href="dft-u-90d.html">dft-u</a></div></td>
+<td>Pritam Das et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36659">2610.36659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36860.html">HorizON: A Multi-Horizon Deep Operator Network for Property Prediction of Organic Battery Stacks</a></div></td>
+<td>Subhash V. S. Ganti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36860">2610.36860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="implicit-solvation-90d.html">implicit-solvation</a></div></td>
+<td>Stanislav K. Ignatov</td>
+<td><a href="http://arxiv.org/abs/2610.37483">2610.37483</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>J. W. González et al.</td>
@@ -32,6 +56,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35653.html">Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yue Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.35653">2610.35653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36115.html">Coulomb- and exchange-driven redistribution of spectral correlations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
+<td>Zanya Gonzalez Tellez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36115">2610.36115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-25</td>
@@ -1118,35 +1148,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28441.html">Transport Evidence of Magnetic Polarization in the Altermagnetic Candidate MnTe</a></div></td>
 <td>Younes Ghorbani et al.</td>
 <td><a href="http://arxiv.org/abs/2607.28441">2607.28441</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26422.html">Physics-informed Machine Learning Prediction of Hubbard Interaction Parameters</a></div></td>
-<td>Jiyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26422">2607.26422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26667.html">Computational Study of Water Adsorption and Dissociative Mechanisms Impacting g-C3N4&#x27;s Optical and Electronic Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Amil Aligayev et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26667">2607.26667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26793.html">High-dimensional theory of the glass transition revisited: hopping and local defects</a></div></td>
-<td>Harukuni Ikeda et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26793">2607.26793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27095.html">No band gap, no problem: Defects in InAs using a band-avoiding occupation-constrained density functional theory</a></div></td>
-<td>Peter A. Schultz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27095">2607.27095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27331.html">Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
-<td>Ying Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27331">2607.27331</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36659.html">Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a></div></td>
+<td>Pritam Das et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36659">2610.36659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36860.html">HorizON: A Multi-Horizon Deep Operator Network for Property Prediction of Organic Battery Stacks</a></div></td>
+<td>Subhash V. S. Ganti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36860">2610.36860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="implicit-solvation-7d.html">implicit-solvation</a></div></td>
+<td>Stanislav K. Ignatov</td>
+<td><a href="http://arxiv.org/abs/2610.37483">2610.37483</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -32,6 +56,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35653.html">Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="mace-7d.html">mace</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Yue Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.35653">2610.35653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36115.html">Coulomb- and exchange-driven redistribution of spectral correlations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
+<td>Zanya Gonzalez Tellez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36115">2610.36115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-25</td>
@@ -104,29 +134,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30513.html">Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Junhan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30513">2610.30513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27808.html">Atomic identification via the Prandtl-Tomlinson stick-slip mechanism</a></div></td>
-<td>Sophia E. Schweiss et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27808">2610.27808</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28152.html">Enhancement of Li and Na Storage in Janus HfSSe Monolayers by Co-Induced Electron-Deficient Chalcogen Sites: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a></div></td>
-<td>Md. Muktadir Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28152">2610.28152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="corrosion-7d.html">corrosion</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>K. Starkey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28493">2610.28493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28967.html">Strain-Induced Interfacial Bond Evolution and Facet-dependent Strain Response of Electronic Properties in Oxidized Silicon Nanowires</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yasir Mahmood et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28967">2610.28967</a></td>
 </tr>
 </tbody></table>

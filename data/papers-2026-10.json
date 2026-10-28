@@ -4090,5 +4090,211 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-10-26"
+ },
+ "2610.36115": {
+  "abstract": "Electronic correlations reorganize not only the energies of individual electronic states but also the collective structure of the spectrum. Here, first-principles density functional theory calculations combined with random-matrix spectral statistics are used to examine this reorganization in gamma-Ce within a static spin-polarized DFT+U+SOC description. We distinguish the effects of the Coulomb interaction U from those of the exchange interaction J by analyzing nearest-neighbor spacings, reduced spacing ratios, band velocities, and band curvatures across the Ce-4f manifold. Increasing U does not produce a monotonic transition between Poisson- and Wigner-Dyson-like statistics; instead, the region of strongest level repulsion migrates across the 4f manifold as the interaction increases. Exchange produces a qualitatively different response. At fixed U, strongly repulsive and strongly clustered spectral regions coexist within the same 4f manifold even while the total spin moment and 4f occupation remain nearly unchanged. The clustering persists after resolving the spectrum into its dominant j = 5/2 and j = 7/2 components and differs strongly between calculations having the same numerical value of U-J. Within the present DFT+U+SOC description, the spectral response therefore depends on the separate Coulomb and exchange interactions and cannot be represented completely by a single effective U-J parameter. These results show that energy- and character-resolved spectral statistics expose correlation-driven electronic reorganization that is hidden by conventional integrated observables.",
+  "authors": [
+   "Zanya Gonzalez Tellez",
+   "Miguel Angel Ocaña Bribiesca"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "22 pages and 7 figures",
+  "first_author": "Zanya Gonzalez Tellez",
+  "pdf_url": "http://arxiv.org/pdf/2610.36115",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-10-26",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Coulomb- and exchange-driven redistribution of spectral correlations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.36619": {
+  "abstract": "Zr cladding alloys in nuclear reactors are exposed to high neutron fluxes, making irradiation-induced defects and solute segregation central to understanding their in-service behaviour. Dislocation cores involve short-range chemistry and long-range elastic fields, which are difficult to describe simultaneously using conventional atomistic methods. Using a hybrid quantum mechanics/machine learning (QM/ML) framework, this part of work examines prismatic <a> loops in hcp α-Zr. All three loop variants are considered, including faulted and perfect, interstitial- and vacancy-type, and first- and second-order prismatic configurations. Nine possible dislocation line segments are characterised in terms of core geometry, solute binding, glide barriers and faulted-to-perfect transition pathways using QM/ML and newly implemented QM/ML-NEB calculations. Shockley and half-Shockley partials, together with basal and prismatic fault ribbons, are found to govern core stabilisation. Fe and H preferentially bind to faulted segments, whereas Sn and Nb favour perfect segments. Solutes can also drive partial motion, recombination and local unfaulting. These results establish a comprehensive picture of <a> loop microstructure, solute trapping and transition mechanisms in α-Zr.",
+  "authors": [
+   "Junting Zhang",
+   "Andrew P. Horsfield",
+   "Mark R. Wenman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "main text 33 pages,12 figures",
+  "first_author": "Junting Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.36619",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-27",
+  "tags": [
+   "neb",
+   "vacancies"
+  ],
+  "title": "Comprehensive QM/ML Study of Dislocation Loop Line Segments in α-Zr Part I: <a> Loop Core Geometries, Solute Binding, and Transition Barriers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.36659": {
+  "abstract": "Anion redox in Li-rich layered oxides places holes on oxygen next to an antiferromagnetic Mn(IV) d3 lattice, a strongly correlated open-shell problem for which projection-based wavefunction-in-DFT embedding offers a route to correlated and quantum solvers, but whose errors are known mainly for closed-shell molecules. We develop a spin-unrestricted projection-based embedding, exact at the DFT-in-DFT level to the microhartree scale for closed-shell, broken-symmetry and high-spin references with point charges, and apply DMRG-in-DFT to point-charge clusters of delithiated Li(2-x)MnO3, varying the environment functional (0-100% exact exchange), geometry, active region, active-space spin, virtual space, cluster size and magnetic reference. In every setting the lowest SCF state places the hole on an oxygen pair, with no O-O bond. How the hole is shared depends on the functional together with the geometry: hybrids give a full, uncoupled hole at the DFT+U geometry but a partial, weakly covalent hole at their own geometry, a change of up to 0.5 e on one oxygen. Where spin spreads across the active/environment boundary, the integer spin projection of the active space becomes a choice worth up to 0.26 e, and at most 0.09 e once the two Mn neighbors are included. An extended state search found missed lower states for two functionals, changing a pair-oxygen spin by up to 0.45 e. Across all 82 runs the embedded mean field gives the same hole (median DMRG change 0.02-0.04 e); correlation mainly adds O-O covalency. State control and geometry consistency, not the solver, dominate the uncertainty, and total energies are not converged at 30-40 orbitals. For quantum solvers, the embedded Hamiltonian must be spin-unrestricted: a shared-orbital form reverses the hole, while sample-based quantum diagonalization reproduces exact diagonalization, as accurately as, but not better than, classical selected CI.",
+  "authors": [
+   "Pritam Das",
+   "Satadeep Bhattacharjee",
+   "Pil-Ryung Cha"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el",
+   "physics.chem-ph"
+  ],
+  "comment": "49 pages, 8 figures",
+  "first_author": "Pritam Das",
+  "pdf_url": "http://arxiv.org/pdf/2610.36659",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-27",
+  "tags": [
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.36860": {
+  "abstract": "Transition-metal-based batteries rely on critical elements such as lithium, cobalt, and nickel. Their extraction creates environmental and supply-chain challenges. Organic electrode materials (OEMs) reduce this reliance and provide broad molecular tunability. However, OEM-based batteries still show limited long-term cycling stability. Their design also requires the joint optimization of coupled metrics such as voltage, specific capacity, capacity retention, and energy density. These metrics depend on the full battery stack and on the interactions among its components rather than on the active material alone. In our previous work, we developed a data-fusion multi-task framework for average discharge voltage and first-cycle specific capacity. Both targets are single-valued. Here, we extend that framework to multi-horizon prediction by predicting a property at every cycle of a discharge trajectory rather than at a single cycle. Our multi-fidelity and Multi-horizon Deep Operator Network learns DFT redox potentials and cycle-dependent specific-capacity trajectories within one model. We train it on complete battery-stack representations and usage conditions, so it learns battery-stack interactions rather than cathode-only effects. This framework supports long-term property prediction, inverse design, and process optimization for organic battery systems.",
+  "authors": [
+   "Subhash V. S. Ganti",
+   "Lukas Woelfel",
+   "Arla Diengdoh",
+   "Tzvetan Mihaylov",
+   "Thomas Nevolianis",
+   "Jan Meyer",
+   "Christopher Kuenneth"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Subhash V. S. Ganti",
+  "pdf_url": "http://arxiv.org/pdf/2610.36860",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-27",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "HorizON: A Multi-Horizon Deep Operator Network for Property Prediction of Organic Battery Stacks",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37095": {
+  "abstract": "Opening a band gap in metallic two-dimensional carbon allotropes is an important step toward their use in electronic and optoelectronic devices, and full hydrogenation has proven to be an effective route to achieve it. Here, we propose irida-graphane, the fully hydrogenated derivative of the irida-graphene, a monolayer composed of three-, six-, and eight-membered rings, and investigate its structural, mechanical, electronic, and optical properties using density functional theory (DFT) at the PBE and HSE06 levels combined with phonon and \\textit{ab initio} molecular dynamics (AIMD) simulations. All carbon atoms adopt $sp^3$ hybridization, with the hydrogen atoms of the three- and six-membered rings bonded to opposite sides of a buckled carbon framework, and the lattice parameter contracts by 4.3% with respect to irida-graphene. The hydrogenation energy of $-0.53$ eV/H indicates that the hydrogenation of irida-graphene from molecular hydrogen is exothermic. The absence of imaginary phonon frequencies confirms the dynamical stability of irida-graphane, and AIMD simulations show that its structure remains intact at temperatures up to 2000 K. Irida-graphane is mechanically isotropic, with an in-plane stiffness of approximately 156 N/m, a Poisson's ratio of approximately 0.1, and critical strains of approximately 20%. Hydrogenation transforms the metallic parent structure into a semiconductor with an indirect band gap of 4.68 eV (PBE) and 6.0 eV (HSE06). Irida-graphane is transparent in the visible range, with reflectivity below 0.3%, and absorbs strongly in the deep ultraviolet, with absorption coefficients of the order of $10^{5} - 10^{6}$ cm$^{-1}$. These results suggest irida-graphane as a candidate wide-gap material for ultraviolet optoelectronics and transparent coatings.",
+  "authors": [
+   "Djardiel S. Gomes",
+   "Isaac M. Félix",
+   "Marcelo L. Pereira Junior"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Djardiel S. Gomes",
+  "pdf_url": "http://arxiv.org/pdf/2610.37095",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-27",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37152": {
+  "abstract": "Vertically-aligned MoS$_2$ films paired with a Cu top electrode have been used as electrochemical metallization cell memristor devices. The memristive switching has been attributed to the formation of conductive filaments, yet their exact structure has remained elusive. Here we carry out a multi-scale computational study of Cu intercalation, clustering, and field-driven dynamics to eventually model the filament formation under operating conditions. We use density-functional theory results to fine-tune a machine learning force field, and the most important physical phenomena are further distilled into multi-particle kinetic Monte Carlo simulations. By exhaustive enumeration of Cu intercalated structures, we find the most stable structure at MoS$_2$Cu$_{0.11}$ composition, with Cu atoms forming a dice lattice between the MoS$_2$ layers. These structures are shown to exhibit metallic character and can thus form conductive filaments under memristor operation. The simulated switching speed and threshold voltage agree well with the available experimental data. Our results give fundamental insights on the device operation mechanism and guidelines for maximizing switching speed and endurance.",
+  "authors": [
+   "Touko Lehenkari",
+   "Hannu-Pekka Komsa"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Touko Lehenkari",
+  "pdf_url": "http://arxiv.org/pdf/2610.37152",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-10-27",
+  "tags": [],
+  "title": "Cu intercalation and field-driven filament formation in vertically aligned MoS$_2$ memristors",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37483": {
+  "abstract": "StudDFT is a quantum chemistry program for Hartree--Fock (HF), density functional theory (DFT), and second-order Møller--Plesset (MP2) calculations of small and medium-sized molecules. It is intended primarily for teaching and student research, but its accuracy suffices for routine research calculations. Version 1.30.2 implements the RHF/UHF, RKS/UKS, and RMP2/UMP2/PUMP2 schemes in Gaussian basis sets, including effective core potentials (ECP); LDA, GGA (BLYP, BP86, BPW91, PBE), meta-GGA (r$^2$SCAN), global hybrid (B3LYP, PBE0) and range-separated hybrid ($ω$B97, $ω$B97X, $ω$B97X-D) functionals; analytical gradients and Hessians; geometry optimization, transition-state and reaction-path (IRC) searches, potential energy surface scans, harmonic frequencies and IR intensities, thermochemistry, counterpoise corrections, D3(BJ) dispersion, polarizable continuum solvation, density fitting (RI-J/RI-JK), linear-response TDDFT, and fractional-occupation smearing. The program has been verified against ORCA and PySCF on 50 molecules (30 for optimizations): the mean absolute deviations of the single-point energies do not exceed 7 $μ$Ha for HF, MP2, and the LDA, GGA, and global hybrid functionals except PBE and PBE0, whose systematic shifts of several tens of $μ$Ha are traced mainly to the value of $μ$ in the PBE exchange; those of the optimized interatomic distances and harmonic frequencies do not exceed 1.2$\\times$10$^{-4}$ Å and 1.2 cm$^{-1}$. Corrections made since the first public version (0.82), mainly affecting vibrational frequencies, are documented with their effect on the verification results. Unlike large multi-language packages, StudDFT is a monolithic Fortran code with OpenMP parallelization, which simplifies its use in courses. Binaries for Windows and Linux, the documentation, and all test inputs and outputs are freely available.",
+  "authors": [
+   "Stanislav K. Ignatov"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Stanislav K. Ignatov",
+  "pdf_url": "http://arxiv.org/pdf/2610.37483",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-27",
+  "tags": [
+   "density-functional-theory",
+   "implicit-solvation"
+  ],
+  "title": "StudDFT: A quantum chemistry program for educational and research purposes",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37606": {
+  "abstract": "The behavior of biomolecular complexes is governed by chemically specific interactions and often involves rare events that atomistic molecular dynamics struggle to capture within accessible timescales. Here we introduce AMARO v2.0, a coarse-grained neural network potential that retains all heavy atoms and treats solvent implicitly. Hydrogen-aware bead types and total-charge conditioning provide a shared representation for proteins, drug-like molecules, and their complexes, including ternary protein-protein-ligand systems. The model preserves folded proteins and captures key features of protein conformational free-energy landscapes. Across 262 complexes spanning 11 targets, the learned potential retains most ligand poses, although quaternary structure reorientation is observed for the HIF2A ternary complex. In targeted case studies, AMARO v2.0 distinguishes the two protonation states of trypsin-benzamidine and reaches the crystal binding pose in 3.3-fold more trajectories than all-atom molecular mechanics at a fixed estimated GPU-time budget. The same framework also recovers a reference binding pose in TYK2 and supports binding free-energy estimation for both trypsin-benzamidine and TYK2-EJM31, although the resulting values are more energetically favorable than the experimental references. SHP2 and CDK8 systems expose remaining limitations in binding-pose recovery and site specificity, respectively. Together, these results support AMARO v2.0 as a shared heavy-atom potential for biomolecular complex dynamics.",
+  "authors": [
+   "Antonio Mirarchi",
+   "Stephen E. Farr",
+   "Adrià Peréz",
+   "Gianni De Fabritiis"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Antonio Mirarchi",
+  "pdf_url": "http://arxiv.org/pdf/2610.37606",
+  "primary_category": "q-bio.BM",
+  "published": "2026-10-27",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "A unified coarse-grained neural network potential for the dynamics of biomolecular complexes",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-27"
  }
 }

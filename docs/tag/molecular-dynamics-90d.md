@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div></td>
+<td>Antonio Mirarchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>J. W. González et al.</td>
@@ -818,17 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.28548.html">Quantum Computing Enabled ab initio Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a></div></td>
 <td>Susanta Das et al.</td>
 <td><a href="http://arxiv.org/abs/2607.28548">2607.28548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26667.html">Computational Study of Water Adsorption and Dissociative Mechanisms Impacting g-C3N4&#x27;s Optical and Electronic Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Amil Aligayev et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26667">2607.26667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27375.html">Evolution of the Irradiation Induced Defect Landscape through Dislocation Vacancy Loop Interactions in Tungsten</a></div><div class="paper-tags"><a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Soumya Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27375">2607.27375</a></td>
 </tr>
 </tbody></table>

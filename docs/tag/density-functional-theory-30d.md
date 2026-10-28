@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36659.html">Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers</a></div><div class="paper-tags"><a href="dft-u-30d.html">dft-u</a></div></td>
+<td>Pritam Das et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36659">2610.36659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36860.html">HorizON: A Multi-Horizon Deep Operator Network for Property Prediction of Organic Battery Stacks</a></div></td>
+<td>Subhash V. S. Ganti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36860">2610.36860</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="implicit-solvation-30d.html">implicit-solvation</a></div></td>
+<td>Stanislav K. Ignatov</td>
+<td><a href="http://arxiv.org/abs/2610.37483">2610.37483</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -32,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35653.html">Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Yue Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.35653">2610.35653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36115.html">Coulomb- and exchange-driven redistribution of spectral correlations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-u-30d.html">dft-u</a></div></td>
+<td>Zanya Gonzalez Tellez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36115">2610.36115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-25</td>
@@ -398,23 +428,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37827.html">Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning</a></div></td>
 <td>Pawel Dabrowski et al.</td>
 <td><a href="http://arxiv.org/abs/2609.37827">2609.37827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="phase-transitions-30d.html">phase-transitions</a></div></td>
-<td>Thi Hai Yen Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33116">2609.33116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33617.html">Accelerating Quantum Simulations of Materials Through Parameter and Ansatz Transfer Strategies</a></div></td>
-<td>Saurabh Shivpuje et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33617">2609.33617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Chuntian Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
 </tr>
 </tbody></table>

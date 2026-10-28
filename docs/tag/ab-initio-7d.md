@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>J. W. González et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19168">2610.19168</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36115.html">Coulomb- and exchange-driven redistribution of spectral correlations</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
+<td>Zanya Gonzalez Tellez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36115">2610.36115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-25</td>
@@ -62,23 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30371.html">Emergent altermagnetism in (LaVO$_3$)$_n$/(LaNiO$_3$)$_m$ superlattices from interfacial charge transfer and octahedral tilts</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="dft-u-7d.html">dft-u</a></div></td>
 <td>Gustavo H. Cassemiro et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30371">2610.30371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28152.html">Enhancement of Li and Na Storage in Janus HfSSe Monolayers by Co-Induced Electron-Deficient Chalcogen Sites: A First-Principles Study</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Md. Muktadir Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28152">2610.28152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="corrosion-7d.html">corrosion</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>K. Starkey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28493">2610.28493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28967.html">Strain-Induced Interfacial Bond Evolution and Facet-dependent Strain Response of Electronic Properties in Oxidized Silicon Nanowires</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yasir Mahmood et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28967">2610.28967</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>J. W. González et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19168">2610.19168</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36115.html">Coulomb- and exchange-driven redistribution of spectral correlations</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="dft-u-30d.html">dft-u</a></div></td>
+<td>Zanya Gonzalez Tellez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36115">2610.36115</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-25</td>
@@ -242,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34869.html">Chemical site bases and average-atom potentials for the atomic cluster expansion</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Lorenzo Piersante et al.</td>
 <td><a href="http://arxiv.org/abs/2609.34869">2609.34869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Chuntian Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">576 papers</span>
+  <span class="paper-count">577 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Djardiel S. Gomes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div></td>
+<td>Antonio Mirarchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
@@ -3464,11 +3476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01389.html">Raman Spectroscopy Insights into the Reorientational Dynamics of Polyanions in Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
 <td>Jianghai Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01389">2511.01389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04701.html">Influence of carbon nanocone structure on ultra-efficient water flow</a></div></td>
-<td>Bruno H. S. Mendonça et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04701">2511.04701</a></td>
 </tr>
 </tbody></table>
