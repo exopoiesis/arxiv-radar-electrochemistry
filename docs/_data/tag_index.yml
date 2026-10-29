@@ -4,31 +4,31 @@
   total: 1525
   group: methods
 - name: molecular-dynamics
-  count: 54
+  count: 53
   total: 1020
   group: methods
 - name: ab-initio
-  count: 40
+  count: 39
   total: 882
   group: methods
 - name: vacancies
-  count: 22
+  count: 21
   total: 356
   group: defects
-- name: mace
-  count: 17
-  total: 247
-  group: ml-methods
 - name: adsorption
   count: 16
   total: 399
   group: surfaces
+- name: mace
+  count: 16
+  total: 247
+  group: ml-methods
 - name: mlip
-  count: 14
+  count: 13
   total: 252
   group: ml-methods
 - name: aimd
-  count: 13
+  count: 12
   total: 228
   group: methods
 - name: ion-transport
@@ -87,10 +87,6 @@
   count: 2
   total: 15
   group: materials
-- name: proton-transport
-  count: 2
-  total: 37
-  group: transport
 - name: pyrite
   count: 2
   total: 14
@@ -158,6 +154,10 @@
 - name: proton-diffusion
   count: 1
   total: 17
+  group: transport
+- name: proton-transport
+  count: 1
+  total: 37
   group: transport
 - name: serpentinization
   count: 1

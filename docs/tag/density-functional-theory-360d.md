@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">827 papers</span>
+  <span class="paper-count">826 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4970,11 +4970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01392.html">Pd/Cu single atom alloys for catalysis: from single crystalline to nanostructured model systems for highly selective butanol dehydrogenation</a></div></td>
 <td>Philipp Haugg et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01392">2511.01392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09543.html">Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Karnik Ram et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09543">2505.09543</a></td>
 </tr>
 </tbody></table>

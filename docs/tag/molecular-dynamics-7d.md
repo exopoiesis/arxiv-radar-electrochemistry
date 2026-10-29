@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,23 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31830.html">Unifying Low-Frequency Raman and Infrared Signatures across Perovskites</a></div></td>
 <td>Ethan Berger et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31830">2610.31830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30030.html">Methane and ethane adsorption on calcite surfaces: effects of surface morphology from molecular dynamics and 3D-RISM</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="surface-science-7d.html">surface-science</a></div></td>
-<td>Felipe Silva Carvalho et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30030">2610.30030</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30094.html">Stockmayer Fluid with a Shifted Dipole. III. Ion Solvation</a></div><div class="paper-tags"><a href="ion-pairing-7d.html">ion-pairing</a> · <a href="ion-water-interactions-7d.html">ion-water-interactions</a> · <a href="solvation-thermodynamics-7d.html">solvation-thermodynamics</a></div></td>
-<td>Ananya Venkatachalam et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30094">2610.30094</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30513.html">Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
-<td>Junhan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30513">2610.30513</a></td>
 </tr>
 </tbody></table>

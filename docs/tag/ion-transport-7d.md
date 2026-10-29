@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ion-transport — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32905.html">Combining Simulations and Spectroscopy to Design Protective Coatings on Sulfide Solid Electrolytes</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="impedance-spectroscopy-7d.html">impedance-spectroscopy</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Zhiyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32905">2610.32905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29653.html">Construction of highly coarse-grained molecular models for aqueous electrolytes</a></div></td>
-<td>Michael A. Seaton et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29653">2610.29653</a></td>
 </tr>
 </tbody></table>

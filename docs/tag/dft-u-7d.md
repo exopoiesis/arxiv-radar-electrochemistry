@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft-u — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <a href="dft-u-360d.html">360d</a> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36115.html">Coulomb- and exchange-driven redistribution of spectral correlations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Zanya Gonzalez Tellez et al.</td>
 <td><a href="http://arxiv.org/abs/2610.36115">2610.36115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30371.html">Emergent altermagnetism in (LaVO$_3$)$_n$/(LaNiO$_3$)$_m$ superlattices from interfacial charge transfer and octahedral tilts</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Gustavo H. Cassemiro et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30371">2610.30371</a></td>
 </tr>
 </tbody></table>
