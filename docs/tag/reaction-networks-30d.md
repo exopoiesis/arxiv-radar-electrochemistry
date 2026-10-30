@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38236.html">Generative discovery of chemical reaction networks</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Yunhong Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38236">2610.38236</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18825.html">Joint Neural Posterior Estimation and Model Selection for Chemical Reaction Networks</a></div></td>
 <td>J. Arturo Esquivel et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01636.html">Autocatalysis and Boundary Stability in Chemical Reaction Systems</a></div><div class="paper-tags"><a href="autocatalysis-30d.html">autocatalysis</a></div></td>
 <td>Matthew D. Johnston et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01636">2610.01636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>J. Bulíř et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
 </tr>
 </tbody></table>

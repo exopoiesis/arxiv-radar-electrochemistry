@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39623.html">Origin and photoluminescence of a shallow hydrogen-related donor in silicon</a></div></td>
+<td>Miaomiao Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39623">2610.39623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39687.html">Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jeheon Woo</td>
+<td><a href="http://arxiv.org/abs/2610.39687">2610.39687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39713.html">I$_4$ complex acting as near-infrared emitter with a quantum memory in silicon</a></div></td>
+<td>Miaomiao Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39713">2610.39713</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40338.html">Differentiable Electronic Grand Canonical Learning for Electrochemistry</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="electrochemical-interfaces-7d.html">electrochemical-interfaces</a> · <a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Phillip E. Pope et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40338">2610.40338</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40445.html">ML-COHP: predicting bond descriptors using latent space of a universal interatomic potentials</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="mace-7d.html">mace</a></div></td>
+<td>Daniil S. Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40445">2610.40445</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38236.html">Generative discovery of chemical reaction networks</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
+<td>Yunhong Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38236">2610.38236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38534.html">Hydration Free Energies from Local Electronic Structures</a></div></td>
+<td>Kasper F. Schaltz et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38534">2610.38534</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36659.html">Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a></div></td>
@@ -98,23 +140,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32938.html">Vacancy-enhanced Li solid-solution anodes for solid-state batteries: computational screening enabling high critical current density</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Arseniy S. Burov et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32938">2610.32938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31084.html">Nitrogen vacancy cluster-mediated ferroelectric domain growth in wurtzite AlN</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Zijian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31084">2610.31084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31591.html">Screening strongly correlated materials in solid oxide cells with quantum simulation</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Ouns El Harzli et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31591">2610.31591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31727.html">Nonadiabatic vibrational dynamics of CO on Pt(111) studied with first-principles many-body perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="adsorption-7d.html">adsorption</a></div></td>
-<td>Raúl Bombín et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31727">2610.31727</a></td>
 </tr>
 </tbody></table>

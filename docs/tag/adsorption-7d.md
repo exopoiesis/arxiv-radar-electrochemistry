@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40445.html">ML-COHP: predicting bond descriptors using latent space of a universal interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
+<td>Daniil S. Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40445">2610.40445</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34354.html">Transition Metal-Anchored Newly Synthesized Aza-Triphenylene Monolayer for Efficient Hydrogen Evolution Reaction: Insights from DFT</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="aimd-7d.html">aimd</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="hydrogen-evolution-7d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="neb-7d.html">neb</a></div></td>
 <td>Soumendra Kumar Das et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32905.html">Combining Simulations and Spectroscopy to Design Protective Coatings on Sulfide Solid Electrolytes</a></div><div class="paper-tags"><a href="adsorption-energy-7d.html">adsorption-energy</a> · <a href="impedance-spectroscopy-7d.html">impedance-spectroscopy</a> · <a href="ion-transport-7d.html">ion-transport</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Zhiyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32905">2610.32905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31727.html">Nonadiabatic vibrational dynamics of CO on Pt(111) studied with first-principles many-body perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Raúl Bombín et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31727">2610.31727</a></td>
 </tr>
 </tbody></table>

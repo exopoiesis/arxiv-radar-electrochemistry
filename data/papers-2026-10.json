@@ -4296,5 +4296,388 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-10-27"
+ },
+ "2610.37839": {
+  "abstract": "We present an end-to-end resource estimation of Shor's algorithm on superconducting cat qubits, from its mathematical description to the allocation and scheduling of physical qubits on a chip layout. We review modern versions of Shor's algorithm for RSA, ECDLP and FFDLP, and make their logical circuits and trade-offs explicit. We compile the dominant subroutines down to physical-qubit operations on two architectures: one based on repetition cat codes and one on LDPC cat codes. We design a parity-Cnot gate for cat qubits, extend a multi-target Cnot gate to the LDPC-cat architecture, and adapt an active injection procedure to cat qubits. Building on these primitives, we adapt to cat qubits the adder from Gidney's 2025 resource estimate for factoring RSA-2048. We combine our adder compilation and a coarser estimate for the phaseup with the factory designs and lookup compilation from the FeMoco resource estimation of Kroell et al. Together, these lead to chip layouts and schedules for factoring RSA-2048.   Assuming a 1$μ$s error-correction cycle time, a 10$μ$s reaction time, circuit-level phase-flip noise with probability $p_Z = 5 \\times 10^{-4}$ and no bit-flips, factoring RSA-2048, the configuration we compile in full, requires about 23 000 cat qubits and 3.14 days. Reusing the compiled operations, solving ECDLP on secp256k1 requires at most 30 000 cat qubits and 1 hour, and FFDLP-512, which we propose as an intermediate benchmark, about 6 700 cat qubits and 21 minutes. Trading space for time, RSA-2048 runs in 1.25 hours on about 611 000 cat qubits. The no-bit-flip requirement (a bit-flip time of about 100 years) can be relaxed to a bit-flip time of about one hour by adding a concatenation layer with a distance-3 bit-flip code, in which case RSA-2048 needs about 45 000 cat qubits.",
+  "authors": [
+   "Axel Pappalardo",
+   "Dahmun Goudarzi",
+   "Victor Hertz",
+   "Hugo Jacinto",
+   "Larissa Kroell",
+   "André Schrottenloher",
+   "Peter Shanahan",
+   "Élie Gouzien",
+   "Rémi de la Vieuville",
+   "Vivien Londe"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "128 pages, 56 figures, 40 Tables",
+  "first_author": "Axel Pappalardo",
+  "pdf_url": "http://arxiv.org/pdf/2610.37839",
+  "primary_category": "quant-ph",
+  "published": "2026-10-27",
+  "tags": [],
+  "title": "Shor's algorithm compiled on cat qubits: 22 593 qubits for RSA-2048 in 3.14 days",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37840": {
+  "abstract": "We provide a detailed resource estimate of the state-of-the-art sum-of-squares block encoding algorithm for electronic structure Hamiltonians of Low et al. on superconducting cat qubits. To achieve this, we present compilations with closed-form costs of the dominant subroutines such as skew-tree Qrom, a Swap network and a Phaseup for both a repetition-cat and an LDPC-cat architecture. Our compilation represents algorithmic qubits in the $X$ basis, taking advantage of the asymmetric cost of $X$ and $Z$ access that the concatenation of cat qubits with phase-flip classical code brings. Additionally, we provide a protocol for $\\vert i \\rangle$-state distillation and a two-level Toffoli-like $\\vert \\text{C}_X\\text{C}_X X \\rangle$ magic state distillation protocol, including three factory layouts. To minimize the cost of Clifford corrections induced by magic state injections we tailor injection gadgets to each subroutine. Combining our compilation work with the adder compilation from the companion work Pappalardo et al., we provide global layouts for the block encoding in both architectures which we use to obtain resource estimates for ground-state energy estimation for the benchmarks of FeMoco-54 and FeMoco-76. Assuming a cycle time of 1$μ$s, a reaction time of 10$\\mathrmμ$s, a phase estimation precision of 1 mHa and circuit-level phase-flip noise with probability $p_Z = 5 \\times 10^{-4}$ with negligible bit-flip error, FeMoco-54 requires fewer than $7\\,500$ cat qubits with an expected runtime of under one day for a single phase estimation run using an LDPC-cat architecture. Relaxing the bit-flip requirement to $p_X = 10^{-11}$ with an additional layer of elevator codes raises this to an estimated $13\\,000$ cat qubits.",
+  "authors": [
+   "Larissa Kroell",
+   "Hugo Jacinto",
+   "Victor Hertz",
+   "Axel Pappalardo",
+   "Adel Ben Moussa",
+   "Manuel Rispler",
+   "Peter Shanahan",
+   "Élie Gouzien",
+   "Christophe Vuillot",
+   "Vivien Londe"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "81 pages, 54 figures, 14 tables",
+  "first_author": "Larissa Kroell",
+  "pdf_url": "http://arxiv.org/pdf/2610.37840",
+  "primary_category": "quant-ph",
+  "published": "2026-10-27",
+  "tags": [],
+  "title": "Ground-state energy estimation compiled on cat qubits: 7 164 qubits for FeMoco-54 in 23.5 hours",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37847": {
+  "abstract": "Givens rotations with angles stored in quantum registers account for much of the cost of published quantum phase estimation algorithms based on double-factorized tensor hypercontraction and spectral amplification. These rotations create superpositions and cannot be verified directly by the basis-state evaluators used to optimize classical reversible circuits. We give an exact verification method that separates out a fixed Clifford change of basis and tracks basis states and phases in the remaining circuit. Integer conditions establish correctness of the full coherent action, including measurement-based uncomputation and restoration of the phase-gradient resource state. Under our interpretation of Low et al.'s angle grid and rotation convention, simplifying the adders lowers the rotation cost relative to the published accounting; fusing the two additions into one masked addition gives an additional saving. We verify both implementations exhaustively at every precision used in the published walks and prove the fused circuit correct for all widths. For benchmarks including FeMoco and other iron-sulfur clusters, replacing only the rotation term lowers total phase-estimation Toffoli counts by 9.5-14.3% under the published error budget, with the walk operator unchanged.",
+  "authors": [
+   "Lizhong Fu",
+   "Honghui Shang"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "14 pages, 4 figures, 6 tables",
+  "first_author": "Lizhong Fu",
+  "pdf_url": "http://arxiv.org/pdf/2610.37847",
+  "primary_category": "quant-ph",
+  "published": "2026-10-27",
+  "tags": [],
+  "title": "Exact verification of Givens rotation circuits for efficient quantum phase estimation of iron-sulfur clusters",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.38236": {
+  "abstract": "Chemical kinetics determines molecular stability, reaction selectivity and the evolution of reacting mixtures, but discovering the underlying reaction networks remains challenging. Here we introduce ReactNexus, a generative framework for kinetic-guided network exploration starting solely from reactant graphs. Generative models propose transition states and predict the full reaction trajectories connecting reactants and products, while calculations using a machine-learned interatomic potential verify connectivity and evaluate electronic barriers. On an in-distribution benchmark of 10,000 generated candidates, 80.8% connect to the input reactant after density functional theory (DFT) optimization and intrinsic reaction coordinate verification. The resulting networks uncover lower-barrier cooperative pathways and competition between catalyst release and catalyst-bound branches. In the examined carbocation cascades, coverage of known product precursors saturates after limited expansion and distinct entries converge onto shared intermediates, indicating a compact accessible reaction space. Network-derived candidate structures further assist mass-spectral interpretation of a complex nucleophilic aromatic substitution reaction. Together, these results establish a generative approach to reaction-network discovery and mechanistic analysis without predefined products or reaction templates.",
+  "authors": [
+   "Yunhong Han",
+   "Gaopeng Ren",
+   "Yan Liu",
+   "Ronghua Zhang",
+   "Huangjiang Huang",
+   "Ruiqi Zhang",
+   "Zhaoxi Yu",
+   "Chuncheng Liu",
+   "Zhao Li",
+   "Xiaohan Lin",
+   "Jiaxu Wang",
+   "Yuxuan Qin",
+   "Meijie Wang",
+   "Guoshun Mei",
+   "Doudou Wang",
+   "Taoyong Cui",
+   "Haojun Jia",
+   "Chenru Duan",
+   "Qiyuan Zhao"
+  ],
+  "categories": [
+   "q-bio.MN",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yunhong Han",
+  "pdf_url": "http://arxiv.org/pdf/2610.38236",
+  "primary_category": "q-bio.MN",
+  "published": "2026-10-28",
+  "tags": [
+   "density-functional-theory",
+   "mlip",
+   "reaction-networks"
+  ],
+  "title": "Generative discovery of chemical reaction networks",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.38534": {
+  "abstract": "Free energies of solvation are crucial to our understanding of chemical reactions, particularly when these take place in water. However, computing changes in free energies associated with the process of immersing arbitrary molecules in an aqueous solution both accurately and efficiently with the use of one universal method remains challenging. By means of atomic decompositions of total (bulk) energies from Kohn-Sham density functional theory in a basis of spatially localized molecular orbitals, the present study enables the computation of hydration free energies from local electronic-structure objects derived in the condensed phase. Specifically, our protocol computes an enthalpy of hydration as the sum of the decomposed change in internal energy of a solute upon solvation and a newly developed term that accounts for the response of the environment, which may then be combined with a standard expression for the corresponding change in entropy. In applications to eight neutral solutes in water, internal energies are all found to converge rapidly and in a smooth manner upon an increase in the size of the solvated cluster, and the corresponding enthalpies and free energies of hydration are likewise found to agree with experimental references within statistical uncertainty.",
+  "authors": [
+   "Kasper F. Schaltz",
+   "Jonas Greiner",
+   "Janus J. Eriksen"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "19+9 pages, 3 figures. SI as an ancillary file",
+  "first_author": "Kasper F. Schaltz",
+  "pdf_url": "http://arxiv.org/pdf/2610.38534",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-28",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Hydration Free Energies from Local Electronic Structures",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.38565": {
+  "abstract": "1,3,5-Trioxane, a polyoxymethylene (POM) molecule relevant to prebiotic chemistry and astrophysics, exhibits a dense rovibrational spectrum that challenges high-resolution spectroscopic characterization. Here, we report an extensive study of its $ν$ 5 CO symmetric stretching mode (960-1000 cm -1 ) by combining broadband high-resolution FTIR spectroscopy (0.001 cm -1 resolution, >2000 transitions) with SI-traceable sub-Doppler saturated absorption measurements using frequency-stabilized CO 2 lasers and a frequency-comb-referenced quantum cascade laser. The latter achieve lineposition uncertainties as low as 40 kHz, revealing inaccuracies in the FTIR frequency scale. A frequency-scale correction is determined by maximizing the global consistency of the complete spectroscopic data set. A global least-squares Hamiltonian fit combining the calibrated FTIR data, the SI-traceable sub-Doppler measurements and previously reported millimeter-wave rotational transitions yields a refined spectroscopic model. The resulting analysis significantly improves the precision of the rotational, quartic, and sextic constants for both the ground and $ν$ 5 excited vibrational states. This work extends mid-infrared frequency metrology to the largest molecule studied to date (12 atoms), providing a dense set of reference transitions for frequency calibration around 970 cm -1 . The resulting spectroscopic parameters reach relative uncertainties as low as 3.7 x 10 -10 for the band origin, making them valuable for molecular databases used in astrophysics and atmospheric physics, as well as for precision measurements in fundamental physics. Additionally, the observed line shapes indicate the absence of significant intramolecular vibrational energy redistribution (IVR) within the investigated energy range, while a few discrepancies in the Hamiltonian fit suggest the onset of weak perturbations, demonstrating the sensitivity of the present approach to probe subtle intramolecular couplings in complex polyatomic spectra.  Q P (31,10) 28 967 426 394.",
+  "authors": [
+   "Pierre Asselin",
+   "Dang-Bao-An Tran",
+   "Alexander Shelkovnikov",
+   "Sean Tokunaga",
+   "Mathieu Manceau",
+   "Beno{î}t Darqui{é}"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "physics.ins-det",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Pierre Asselin",
+  "pdf_url": "http://arxiv.org/pdf/2610.38565",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-10-28",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Extending the limits of rotationally resolved mid-IR spectroscopy: an accurate model of trioxane derived from combining Fourier transform and sub-Doppler measurements",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.38937": {
+  "abstract": "Friction and wear of diamond are controlled by its surface chemistry, which determines whether covalent bonds form across the sliding interface. First-principles simulations have explored the role of surface orientation and passivation, but are limited to a few hundred atoms and tens of picoseconds. To bridge this gap, we develop a reactive machine learning interatomic potential for the C/H/N/O/Si chemical space, covering diamond, silicon nitride, silicon oxide, their surfaces, interfaces, and environmental molecules. The potential is trained on a large dataset of diverse structures and is tested on multiple physical properties, including ab initio reaction barriers on diamond surfaces, and structural/mechanical properties of amorphous Si$_3$N$_4$ and SiO$_2$. We then simulate sliding of diamond-Si$_3$N$_4$ interfaces with four surface orientations, clean and H/OH-passivated terminations, and normal loads from 0.1 to 23 GPa. We identify two different regimes: one where sliding is localized at the interface, and shear stress is proportional to the interfacial bond density, and another where shear is distributed inside the softer material, and adhesion due to full interfacial bonding dominates. These results show how passivation, surface orientation and load together determine interfacial bonding and friction, with implications for the environmental sensitivity of diamond wear. More broadly, the potential enables reactive simulations of diamond, silicon nitride and silica with near-ab initio accuracy at length and time scales beyond first-principles methods, providing a useful tool for future studies of wear at plowing asperities, chemical-mechanical polishing, and properties of amorphous ceramic films.",
+  "authors": [
+   "Enrico Pedretti",
+   "Maria Clelia Righi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 5 figures",
+  "first_author": "Enrico Pedretti",
+  "pdf_url": "http://arxiv.org/pdf/2610.38937",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-28",
+  "tags": [
+   "ab-initio",
+   "corrosion",
+   "mlip"
+  ],
+  "title": "Development and application of a machine learning potential for diamond surfaces and their sliding interfaces with silicon nitride and silica: effect of passivation, orientation and load",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.39513": {
+  "abstract": "Accurately predicting the transport properties of liquid electrolytes is critical for next-generation battery design and requires force fields that are both quantum-mechanically accurate and fast enough for long-timescale simulation. Recent large-scale pretrained machine learning interatomic potentials (MLIPs) approach density-functional-theory accuracy, but remain too slow to access the necessary timescales to converge transport properties. We provide a knowledge distillation procedure to transfer the accuracy of a large-scale \"teacher\" MLIP into fast, system-specific \"students\", without any additional ab initio data. Our distilled models run ~40x faster, reproduce teacher-predicted structural observables, and produce stable 20 ns trajectories in days, rather than the months the teacher would require. Across a diverse set of sodium- and lithium-ion electrolytes, student-predicted self-diffusivities, ionic conductivities, and shear viscosities track experiment and outperform classical force-field predictions, establishing distillation as a practical route to accurate, long-timescale simulations necessary for high-throughput electrolyte screening.",
+  "authors": [
+   "Ishan Amin",
+   "Yue Jian",
+   "Nitesh Kumar",
+   "Christine Zhang",
+   "Jianwei Lai",
+   "Casey S. Mezerkor",
+   "Aaron M. Melemed",
+   "Jonathan R. Thurston",
+   "Neil P. Dasgupta",
+   "J. David Bazak",
+   "Ethan J. Crumlin",
+   "Samuel Blau",
+   "Aditi S. Krishnapriyan"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Ishan Amin",
+  "pdf_url": "http://arxiv.org/pdf/2610.39513",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "ab-initio",
+   "mlip"
+  ],
+  "title": "Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39623": {
+  "abstract": "Paramagnetic color centers in silicon are being investigated recently for use in quantum technologies. While the origin of most of the prominent photoluminescence (PL) lines are well understood, that is not the case for those connected to hydrogen, even though it is almost always present in silicon, e.g., shallow hydrogen-related donors (SHDs), but their atomic structure remains elusive. Recent experiments suggested connection between the SHDs and the so-called X and the B$_i$ (or X$_i$) PL-lines. An SHD, termed the MT2 center, was tentatively assigned to a bistable, negative-U defect, arising due to the interaction of hydrogen with the self-interstitial complex I$_4$. Using high-level density functional theory calculations, we investigate the interaction of hydrogen with self-interstitial complexes In. A shallow effective-mass-theory donor arises when hydrogen attacks a Si-Si bond in I$_n$, inserting itself as a bond-center interstitial (I$_n$H$_{BC}$) in an exothermic reaction. We demonstrate this in the case of a single self-interstitial and of a complex of four. The latter I$_\\mathrm{4}$H$_\\mathrm{BC}$ complex shows electronic, spin and PL properties remarkably close to MT2. We find that hydrogen in the presence of I$_4$ follows the same behavior as in pristine silicon, i.e., it is a negative-U bistable defect, only detectable under illumination. In the I$_4$H$_{BC}$ complex, H can hop via photo-assisted mechanism between equivalent BC sites of the I$_4$ complex, leading to a motional averaged tetragonal symmetry as experimentally observed for MT2. The zero-phonon line is distinct from the X-line (attributed to the bare I$_4$ complex), and falls well into the range of the X$_i$ lines. Our results identify the I$_4$H complex as a prototype for a class of SHDs, inferring that similar SHDs may arise, with the X$_i$ lines as their PL fingerprints, when H attacks I$_n$ clusters.",
+  "authors": [
+   "Miaomiao Han",
+   "Peter Deak",
+   "Bing Huang",
+   "Adam Gali"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Miaomiao Han",
+  "pdf_url": "http://arxiv.org/pdf/2610.39623",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-29",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Origin and photoluminescence of a shallow hydrogen-related donor in silicon",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39687": {
+  "abstract": "We introduce machine learning models that accurately predict the electron density, the central variable of density functional theory. They are built on Transformer-inspired architectures, which require little computation per parameter and can therefore be enlarged at low cost. The proposed models, SwinUNETR-V2 and its attention-free counterpart NeXtUNETR, achieve state-of-the-art accuracy on QM9, with normalized mean absolute errors in the density averaging 0.075% and 0.046%, respectively. The predicted densities are accurate enough to bypass the self-consistent iteration: a single Kohn-Sham step reproduces the self-consistent electronic structure. For NeXtUNETR, the median errors are 0.036 meV in the total energy, 0.65 meV/angstrom in the forces and 1.8 meV in the HOMO-LUMO gap. The forces not only recover the self-consistent minima in geometry optimization but also successfully drive ab initio molecular dynamics. Fine-tuned on small datasets, both networks also transfer accurately to systems containing elements absent from QM9 or larger than its molecules.",
+  "authors": [
+   "Jeheon Woo"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "36 pages, 4 figures, 2 tables; Extended Data (4 figures, 2 tables) and Supplementary Information included",
+  "first_author": "Jeheon Woo",
+  "pdf_url": "http://arxiv.org/pdf/2610.39687",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.39713": {
+  "abstract": "Silicon color centers emitting in the near infrared offer a route to spin--photon interfaces compatible with mature complementary metal--oxide--semiconductor fabrication. A key unresolved candidate is the X-line at 1039.7 meV in the photoluminescence (PL) spectrum, long attributed to a complex of four self-interstitials (I$_4$), yet whose microscopic structure and spin properties have remained controversial and uncharacterized at a predictive level. Using hybrid-functional (HSE06) density functional theory, we unambiguously establish the bare I$_4$ complex as the origin of the X-line: our calculations quantitatively reproduce the zero-phonon line, the complete phonon sideband structure---identifying the prominent secondary peaks as one- and two-phonon replicas of strongly coupled quasi-local modes---and the EPR hyperfine constants. The charge transition level is found at VBM$+$0.08~eV, conclusively ruling out the previously proposed association with the B3 EPR center and its correlated deep donor level. Most significantly, we identify a metastable spin-1 triplet excited state separated from the singlet by $\\sim$1.6~meV, consistent with the NL51 EPR signal. The $D_{2d}$ symmetry of the defect suppresses intersystem crossing and phosphorescence by first-order spin--orbit coupling, implying an exceptionally long spin--lattice relaxation time. Combined with a spectrally resolvable zero-field splitting and near-infrared emission, the triplet state of the I$_4$ complex constitutes a viable spin quantum memory intrinsic to silicon.",
+  "authors": [
+   "Miaomiao Han",
+   "Song Li",
+   "Gergő Thiering",
+   "Thomas Frauenheim",
+   "Peter Deák",
+   "Bing Huang",
+   "Adam Gali"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Miaomiao Han",
+  "pdf_url": "http://arxiv.org/pdf/2610.39713",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-29",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "I$_4$ complex acting as near-infrared emitter with a quantum memory in silicon",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40338": {
+  "abstract": "Electronic grand-canonical density functional theory captures how structure and electronic charge respond to electrode potential and, together with statistical mechanics, how these responses give rise to emergent phenomena. However, its computational cost limits the system sizes and sampling times accessible to first- principles simulations. Here, we introduce a differentiable architecture that represents the grand potential and obtains forces and electronic charge as its derivatives, exactly satisfying the mixed-derivative constraints required for thermodynamic consistency, and implement it within the equivariant MACE framework as GC- MACE. We demonstrate more accurate joint learning across multiple electrochemical interfaces and improved transferability to thicker water films relative to previous models, while enabling constant-potential simulations at substantially larger length and time scales than accessible to ab initio molecular dynamics. With broad training data, the framework offers a route to thermodynamically consistent foundation interatomic potentials for the electronic grand canonical ensemble",
+  "authors": [
+   "Phillip E. Pope",
+   "Timothy C. Berkelbach",
+   "Venkat Kapil"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Phillip E. Pope",
+  "pdf_url": "http://arxiv.org/pdf/2610.40338",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "density-functional-theory",
+   "electrochemical-interfaces",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Differentiable Electronic Grand Canonical Learning for Electrochemistry",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40445": {
+  "abstract": "The integrated crystal orbital Hamilton population (ICOHP) is the standard measure of bond strength in a DFT calculation, but every structure needs its own DFT single point and LOBSTER projection, which takes days for a cell of a hundred atoms, such as a grain boundary or a catalytic nanoparticle. We predict ICOHP from the frozen descriptors of a MACE foundation model. A symmetric pair head reads the scalar and bond-projected vector channels of the two atoms and corrects a pair baseline built from the element embeddings of the same model. We tested the model on the high-entropy diboride (Hf,Zr,Ti,Nb,Ta)B$_2$, Pt clusters on defective graphene and Pt/Pd nanoparticles with adsorbed O$_2$. The error on bonds stronger than 0.5 eV is 1.6-4.1%, about half that of the Gaussian-process model of Ferreira et al. trained on the same data. Trained only on high-temperature HEB$_2$ snapshots, the model reproduces the LOBSTER ICOHP of relaxed grain boundary cells to 0.06 eV in about a second, against 5-51 hours of LOBSTER. The vector channels halve the error compared to the scalar ones, and the baseline keeps the model usable with two training structures. With geometries from a fine-tuned MACE potential, the model gives the bonding of Pt/Pd particles over a continuous O$_2$ coverage, and DFT on these particles shows that O$_2$ costs a Pt-rich shell several times more metal--metal bonding than a Pd shell.",
+  "authors": [
+   "Daniil S. Alekseev",
+   "Ilya V. Chepkasov",
+   "Alexander G. Kvashnin"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daniil S. Alekseev",
+  "pdf_url": "http://arxiv.org/pdf/2610.40445",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "adsorption",
+   "density-functional-theory",
+   "mace"
+  ],
+  "title": "ML-COHP: predicting bond descriptors using latent space of a universal interatomic potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-10-29"
  }
 }

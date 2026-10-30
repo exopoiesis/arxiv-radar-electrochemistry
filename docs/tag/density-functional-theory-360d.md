@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">826 papers</span>
+  <span class="paper-count">831 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39623.html">Origin and photoluminescence of a shallow hydrogen-related donor in silicon</a></div></td>
+<td>Miaomiao Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39623">2610.39623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39687.html">Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jeheon Woo</td>
+<td><a href="http://arxiv.org/abs/2610.39687">2610.39687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39713.html">I$_4$ complex acting as near-infrared emitter with a quantum memory in silicon</a></div></td>
+<td>Miaomiao Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39713">2610.39713</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40338.html">Differentiable Electronic Grand Canonical Learning for Electrochemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="electrochemical-interfaces-360d.html">electrochemical-interfaces</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Phillip E. Pope et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40338">2610.40338</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40445.html">ML-COHP: predicting bond descriptors using latent space of a universal interatomic potentials</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="mace-360d.html">mace</a></div></td>
+<td>Daniil S. Alekseev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40445">2610.40445</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38236.html">Generative discovery of chemical reaction networks</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
+<td>Yunhong Han et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38236">2610.38236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38534.html">Hydration Free Energies from Local Electronic Structures</a></div></td>
+<td>Kasper F. Schaltz et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38534">2610.38534</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36659.html">Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers</a></div><div class="paper-tags"><a href="dft-u-360d.html">dft-u</a></div></td>
@@ -4958,17 +5000,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02159.html">Equivalence of charged and neutral density functional formulations for correcting the many-body self-interaction of polarons</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Stefano Falletta et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02159">2511.02159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01134.html">Outstanding figure of merit at high temperature for DFT-based predicted double perovskite oxides, Ba2GaXO6 (X = V, Nb, Ta)</a></div></td>
-<td>S. S. Saif et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01134">2511.01134</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01392.html">Pd/Cu single atom alloys for catalysis: from single crystalline to nanostructured model systems for highly selective butanol dehydrogenation</a></div></td>
-<td>Philipp Haugg et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01392">2511.01392</a></td>
 </tr>
 </tbody></table>
