@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-stability — 360d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <a href="phase-stability-30d.html">30d</a> <a href="phase-stability-90d.html">90d</a> <strong>360d</strong> <a href="phase-stability-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -488,11 +488,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03240.html">Mysterious Role of Cap Configuration in Single-Walled Carbon Nanotube Catalytic Growth</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Tianliang Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03240">2511.03240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02159.html">Equivalence of charged and neutral density functional formulations for correcting the many-body self-interaction of polarons</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Stefano Falletta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02159">2511.02159</a></td>
 </tr>
 </tbody></table>

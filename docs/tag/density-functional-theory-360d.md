@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">831 papers</span>
+  <span class="paper-count">830 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4994,11 +4994,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03582.html">Emergence of Ferromagnetism from Planar Defects in EuSn2As2 Antiferromagnet</a></div></td>
 <td>A. Yu. Levakhova et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03582">2511.03582</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02159.html">Equivalence of charged and neutral density functional formulations for correcting the many-body self-interaction of polarons</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Stefano Falletta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02159">2511.02159</a></td>
 </tr>
 </tbody></table>
