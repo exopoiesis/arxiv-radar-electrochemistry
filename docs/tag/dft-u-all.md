@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft-u — all</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <a href="dft-u-90d.html">90d</a> <a href="dft-u-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,29 +578,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02535.html">The Origin of Enhanced Conductivity and Structure Change in Defective Li4Ti5O12 or Blue-LTO : a study combined theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
 <td>Yute Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02535">2410.02535</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12526.html">CoF3: a g-wave Altermagnet</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Meysam Bagheri Tagani</td>
-<td><a href="http://arxiv.org/abs/2409.12526">2409.12526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12270.html">Electronic and magnetic properties of (NdNiO$_3$)/(La$_{2/3}$Sr$_{1/3}$MnO$_3$) superlattices: a DFT+U perspective</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Henrique M. M. Cardoso et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12270">2409.12270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06145.html">Performance of Exchange-Correlation Approximations to Density-Functional Theory for Rare-earth Oxides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="ion-transport-all.html">ion-transport</a></div></td>
-<td>Mary Kathleen Caucci et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06145">2409.06145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05565.html">Exploring the role of nonlocal Coulomb interactions in perovskite transition metal oxides</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Indukuru Ramesh Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05565">2407.05565</a></td>
 </tr>
 </tbody></table>

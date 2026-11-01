@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">255 papers</span>
+  <span class="paper-count">248 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1502,47 +1502,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06354.html">From GAP to ACE to MACE</a></div><div class="paper-tags"><a href="mace-all.html">mace</a></div></td>
 <td>Noam Bernstein</td>
 <td><a href="http://arxiv.org/abs/2410.06354">2410.06354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16712.html">Atomic insight into Li$^+$ ion transport in amorphous electrolytes Li$_x$AlO$_y$Cl$_{3+x-2y}$ (0.5 $\leq$ x $\leq$ 1.5, 0.25 $\leq$ y $\leq$ 0.75)</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="ion-transport-all.html">ion-transport</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yang Qifan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16712">2409.16712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06982.html">Comparison of intermediate-range order in GeO$_2$ glass: molecular dynamics using machine-learning interatomic potential vs.\ reverse Monte Carlo fitting to experimental data</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kenta Matsutani et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06982">2409.06982</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13489.html">Probing Elastic Isotropy in Entropy Stabilized Transition Metal Oxides: Experimental Estimation of Single Crystal Elastic Constants from Polycrystalline Materials</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Lalith Kumar Bhaskar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13489">2409.13489</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11808.html">Accelerating the Training and Improving the Reliability of Machine-Learned Interatomic Potentials for Strongly Anharmonic Materials through Active Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="active-learning-all.html">active-learning</a> · <a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kisung Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11808">2409.11808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06242.html">Investigating Ionic Diffusivity in Amorphous Solid Electrolytes using Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Aqshat Seth et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06242">2409.06242</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05590.html">Transferability of datasets between Machine-Learning Interaction Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mace-all.html">mace</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Samuel P. Niblett et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05590">2409.05590</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08174.html">Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials</a></div><div class="paper-tags"><a href="mace-all.html">mace</a></div></td>
-<td>Philipp Pracht et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08174">2408.08174</a></td>
 </tr>
 </tbody></table>

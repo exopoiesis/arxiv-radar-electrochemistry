@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>explicit-solvation — all</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="explicit-solvation-7d.html">7d</a> <a href="explicit-solvation-30d.html">30d</a> <a href="explicit-solvation-90d.html">90d</a> <a href="explicit-solvation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08624.html">Data-Driven Discovery of the Origins of UV Absorption in Alpha-3C Protein</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Germaine Neza Hozana et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08624">2410.08624</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11538.html">Structure and dynamics of the magnetite(001)/water interface from molecular dynamics simulations based on a neural network potential</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Salvatore Romano et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11538">2408.11538</a></td>
 </tr>
 </tbody></table>

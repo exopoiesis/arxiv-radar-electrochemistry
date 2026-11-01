@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>aimd — all</h1>
-  <span class="paper-count">230 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <a href="aimd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,59 +1340,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.15350.html">Li$_{14}$Mn$_{2}$S$_{9}$ and Li$_{10}$Si$_{2}$S$_{9}$ as a pair of all-electrochem-active electrode and solid-state electrolyte with chemical compatibility and low interface resistance</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Qifan Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.15350">2410.15350</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01267.html">Displacive Jahn--Teller transition in NaNiO$_2$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Liam Agostino Vincenzo Nagle-Cocco et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01267">2408.01267</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16712.html">Atomic insight into Li$^+$ ion transport in amorphous electrolytes Li$_x$AlO$_y$Cl$_{3+x-2y}$ (0.5 $\leq$ x $\leq$ 1.5, 0.25 $\leq$ y $\leq$ 0.75)</a></div><div class="paper-tags"><a href="ion-transport-all.html">ion-transport</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yang Qifan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16712">2409.16712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11808.html">Accelerating the Training and Improving the Reliability of Machine-Learned Interatomic Potentials for Strongly Anharmonic Materials through Active Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="active-learning-all.html">active-learning</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kisung Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11808">2409.11808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09690.html">First Principles Insight into Antiperovskite c-Na3HS Solid State Electrolyte</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-stability-all.html">phase-stability</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Sananya Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09690">2409.09690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05986.html">Group-IV Pentaoctite: A New 2D Material Family</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Vanessa D. Kegler et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05986">2409.05986</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07659.html">Tuned ionic mobility by Ultrafast-laser pulses in Black Silicon</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Christelle Inès K. Mebou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07659">2409.07659</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15338.html">Revealing the molecular structures of a-Al2O3(0001)-water interface by machine learning based computational vibrational spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Xianglong Du et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15338">2407.15338</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06242.html">Investigating Ionic Diffusivity in Amorphous Solid Electrolytes using Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Aqshat Seth et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06242">2409.06242</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04219.html">Nano-size nature of the $α$-FAPbI$_3$ by means of large-scale ab initio simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Virginia Carnevali et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04219">2409.04219</a></td>
 </tr>
 </tbody></table>

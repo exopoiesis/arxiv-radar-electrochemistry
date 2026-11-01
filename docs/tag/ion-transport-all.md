@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>ion-transport — all</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <a href="ion-transport-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,17 +908,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06433.html">Generative AI for Discovering Porous Oxide Materials for Next-Generation Energy Storage</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="m3gnet-all.html">m3gnet</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
 <td>Joy Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06433">2410.06433</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16712.html">Atomic insight into Li$^+$ ion transport in amorphous electrolytes Li$_x$AlO$_y$Cl$_{3+x-2y}$ (0.5 $\leq$ x $\leq$ 1.5, 0.25 $\leq$ y $\leq$ 0.75)</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yang Qifan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16712">2409.16712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06145.html">Performance of Exchange-Correlation Approximations to Density-Functional Theory for Rare-earth Oxides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="dft-u-all.html">dft-u</a></div></td>
-<td>Mary Kathleen Caucci et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06145">2409.06145</a></td>
 </tr>
 </tbody></table>

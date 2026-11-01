@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>vacancies — all</h1>
-  <span class="paper-count">356 papers</span>
+  <span class="paper-count">346 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2090,65 +2090,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02535.html">The Origin of Enhanced Conductivity and Structure Change in Defective Li4Ti5O12 or Blue-LTO : a study combined theoretical and experimental perspectives</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="dft-u-all.html">dft-u</a></div></td>
 <td>Yute Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02535">2410.02535</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01320.html">Unsupervised identification of crystal defects from atomistic potential descriptors</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lukáš Kývala et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01320">2405.01320</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15856.html">High-dose long-time defect evolution in tungsten studied by atomistically informed Object Kinetic Monte Carlo simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jintong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15856">2409.15856</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12284.html">Best of Both Worlds: Enforcing Detailed Balance in Machine Learning Models of Transition Rates</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Anjana Anu Talapatra et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12284">2409.12284</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11102.html">Electron-beam-induced adatom-vacancy-complexes in mono- and bilayer phosphorene</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Carsten Speckmann et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11102">2409.11102</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09690.html">First Principles Insight into Antiperovskite c-Na3HS Solid State Electrolyte</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Sananya Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09690">2409.09690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09793.html">Assessing carrier mobility, dopability, and defect tolerance in the chalcogenide perovskite BaZrS$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="chalcogenides-all.html">chalcogenides</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
-<td>Zhenkun Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09793">2405.09793</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05538.html">Probing Optoelectronic Properties of Stable Vacancy-Ordered Double Perovskites: Insights from Many-Body Perturbation Theory</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Surajit Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05538">2409.05538</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11538.html">Structure and dynamics of the magnetite(001)/water interface from molecular dynamics simulations based on a neural network potential</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="explicit-solvation-all.html">explicit-solvation</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Salvatore Romano et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11538">2408.11538</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02749.html">Doping-Induced Enhancement of Hydrogen Evolution at MoS2 Electrodes</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="hydrogen-evolution-all.html">hydrogen-evolution</a></div></td>
-<td>Sander Ø. Hanslin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02749">2409.02749</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08947.html">Effect of helium bubbles on the mobility of edge dislocations in copper</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Minh Tam Hoang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08947">2405.08947</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption-energy — all</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <a href="adsorption-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -614,23 +614,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.00673.html">First-Principles Investigation of Grain Boundary Effects on Fluorine-Induced Initial Corrosion of NiCr Alloys</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="corrosion-all.html">corrosion</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
 <td>Hamdy Arkoub et al.</td>
 <td><a href="http://arxiv.org/abs/2411.00673">2411.00673</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19640.html">Theoretical design of nanocatalysts based on (Fe$_2$O$_3$)$_n$ clusters for hydrogen production from ammonia</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Sapajan Ibragimov et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19640">2409.19640</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14116.html">Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="formate-all.html">formate</a> · <a href="isotope-geochemistry-all.html">isotope-geochemistry</a></div></td>
-<td>Lecheng Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14116">2409.14116</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03857.html">Factors influencing quantum evaporation of helium from polar semiconductors from first principles</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Lakshay Dheer et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03857">2409.03857</a></td>
 </tr>
 </tbody></table>

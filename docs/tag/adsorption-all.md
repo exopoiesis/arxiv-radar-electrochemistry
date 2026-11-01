@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>adsorption — all</h1>
-  <span class="paper-count">400 papers</span>
+  <span class="paper-count">395 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <a href="adsorption-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2384,35 +2384,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01187.html">Enhanced room temperature ferromagnetism in nanostructured MoS2 flakes by hydrogen post-treatment: Combined experimental and first-principles-based studies</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
 <td>Sharmistha Dey et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01187">2409.01187</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19640.html">Theoretical design of nanocatalysts based on (Fe$_2$O$_3$)$_n$ clusters for hydrogen production from ammonia</a></div><div class="paper-tags"><a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Sapajan Ibragimov et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19640">2409.19640</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07910.html">Controllable magnetic anisotropy and ferroelasticity in superconducting FeSe monolayer with surface fluorine adsorption</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Yueqiao Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07910">2409.07910</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08074.html">Unraveling the Interface Chemistry between HCN and Cosmic Silicates by the Interplay of Infrared Spectroscopy and Quantum Chemical Modeling</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="origin-of-life-all.html">origin-of-life</a></div></td>
-<td>Niccolò Bancone et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08074">2409.08074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08079.html">Low-Energy Magnetic States of Tb Adatom on Graphene</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Monirul Shaikh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08079">2409.08079</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03857.html">Factors influencing quantum evaporation of helium from polar semiconductors from first principles</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="adsorption-energy-all.html">adsorption-energy</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Lakshay Dheer et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03857">2409.03857</a></td>
 </tr>
 </tbody></table>

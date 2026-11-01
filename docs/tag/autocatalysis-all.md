@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>autocatalysis — all</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <a href="autocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -404,11 +404,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05294.html">Cumulative, Adaptive, Open-ended Change through Self-Other Reorganization: Reply to comment on &#x27;An evolutionary process without variation and selection&#x27;</a></div></td>
 <td>Liane Gabora et al.</td>
 <td><a href="http://arxiv.org/abs/2410.05294">2410.05294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00928.html">An evolutionary process without variation and selection</a></div></td>
-<td>Liane Gabora et al.</td>
-<td><a href="http://arxiv.org/abs/2410.00928">2410.00928</a></td>
 </tr>
 </tbody></table>

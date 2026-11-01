@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>origin-of-life — all</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <a href="origin-of-life-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,29 +782,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08778.html">Theory for sequence selection via phase separation and oligomerization</a></div></td>
 <td>Ivar S. Haugerud et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08778">2410.08778</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11070.html">Self-oxidation of the atmospheres of rocky planets with implications for the origin of life</a></div></td>
-<td>Anders Johansen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11070">2409.11070</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09540.html">Minor planets, asteroids, comets and interplanetary dust within 30 au</a></div></td>
-<td>Quanzhi Ye</td>
-<td><a href="http://arxiv.org/abs/2409.09540">2409.09540</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08074.html">Unraveling the Interface Chemistry between HCN and Cosmic Silicates by the Interplay of Infrared Spectroscopy and Quantum Chemical Modeling</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a> · <a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Niccolò Bancone et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08074">2409.08074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04217.html">The Spatial Distribution of $\rm CH_4$ and $\rm CO_2$ Ice around Protostars IRAS 16253-2429 and IRAS 23385+6053</a></div></td>
-<td>Lei Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04217">2409.04217</a></td>
 </tr>
 </tbody></table>

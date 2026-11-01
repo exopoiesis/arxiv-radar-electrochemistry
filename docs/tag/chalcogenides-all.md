@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chalcogenides — all</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <a href="chalcogenides-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,23 +674,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06218.html">Linear and nonlinear optical response based on many-body GW-Bethe-Salpeter and Kadanoff-Baym approaches for two-dimensional layered semiconductors</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
 <td>Dmitry Skachkov et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06218">2410.06218</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17796.html">Interplay between surface Dirac and Rashba states specific for topologically nontrivial van der Waals superlattices</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>I. A. Shvets et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17796">2409.17796</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09793.html">Assessing carrier mobility, dopability, and defect tolerance in the chalcogenide perovskite BaZrS$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="phase-stability-all.html">phase-stability</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Zhenkun Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09793">2405.09793</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17337.html">Raman Spectroscopic Study on Bi2Rh3Se2: Two-dimensional-Ising Charge Density Wave and Quantum Fluctuations</a></div><div class="paper-tags"><a href="phase-transitions-all.html">phase-transitions</a></div></td>
-<td>Fei Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17337">2407.17337</a></td>
 </tr>
 </tbody></table>

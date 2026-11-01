@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3601 papers across 26 months.
+**Total corpus:** 3520 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,21 +18,18 @@
     <li><a href=#sulfidation-phase-stability-and-corrosion>Sulfidation, Phase Stability, and Corrosion</a> (50)</li>
     <li><a href=#aqueous-chemistry-and-solvation>Aqueous Chemistry and Solvation</a> (50)</li>
     <li><a href=#origin-of-life-and-prebiotic-mineral-catalysis>Origin of Life and Prebiotic Mineral Catalysis</a> (50)</li>
-    <li><a href=#adsorption-and-ion-transport>Adsorption and Ion Transport</a> (24)</li>
-    <li><a href=#viaauthor-whitelistaimd-proton-transfer-in-water>via:author-whitelist:AIMD, proton transfer in water</a> (3)</li>
-    <li><a href=#viaauthor-whitelistgap-mace-ace>via:author-whitelist:GAP, MACE, ACE</a> (19)</li>
-    <li><a href=#viaauthor-whitelistm3gnet-chgnet>via:author-whitelist:M3GNet, CHGNet</a> (6)</li>
-    <li><a href=#viaauthor-whitelistgrotthuss-mechanism-aimd>via:author-whitelist:Grotthuss mechanism, AIMD</a> (4)</li>
-    <li><a href=#sulfidation-and-phase-stability>Sulfidation and Phase Stability</a> (44)</li>
-    <li><a href=#viaauthor-whitelistvdw-ml-force-fields>via:author-whitelist:vdW, ML force fields</a> (10)</li>
-    <li><a href=#viaauthor-whitelistneural-network-potentials>via:author-whitelist:neural network potentials</a> (14)</li>
-    <li><a href=#atomistic-modeling-of-sulfides>Atomistic Modeling of Sulfides</a> (50)</li>
     <li><a href=#viaauthor-whitelistorigin-of-life-biochemistry-autotrophy>via:author-whitelist:origin of life biochemistry, autotrophy</a> (4)</li>
     <li><a href=#viaauthor-whitelistjdftx-electrochemistry-dft-solvation>via:author-whitelist:JDFTx, electrochemistry-DFT, solvation</a> (2)</li>
+    <li><a href=#viaauthor-whitelistneural-network-potentials>via:author-whitelist:neural network potentials</a> (13)</li>
+    <li><a href=#sulfidation-and-phase-stability>Sulfidation and Phase Stability</a> (42)</li>
     <li><a href=#viaauthor-whitelistaimd-proton-transfer>via:author-whitelist:AIMD, proton transfer</a> (3)</li>
     <li><a href=#fe-ni-s-mineral-surfaces>Fe-Ni-S Mineral Surfaces</a> (9)</li>
+    <li><a href=#viaauthor-whitelistvdw-ml-force-fields>via:author-whitelist:vdW, ML force fields</a> (9)</li>
+    <li><a href=#viaauthor-whitelistgap-mace-ace>via:author-whitelist:GAP, MACE, ACE</a> (17)</li>
     <li><a href=#viaauthor-whitelistdft-water-defects>via:author-whitelist:DFT water, defects</a> (10)</li>
+    <li><a href=#adsorption-and-ion-transport>Adsorption and Ion Transport</a> (23)</li>
     <li><a href=#viaauthor-whitelistace-potentials>via:author-whitelist:ACE potentials</a> (13)</li>
+    <li><a href=#atomistic-modeling-of-sulfides>Atomistic Modeling of Sulfides</a> (50)</li>
     <li><a href=#viaauthor-whitelistenviron-quantum-espresso-solvation>via:author-whitelist:ENVIRON, Quantum-ESPRESSO solvation</a> (3)</li>
     <li><a href=#viaauthor-whitelistmetadynamics-aimd>via:author-whitelist:metadynamics, AIMD</a> (6)</li>
     <li><a href=#viaauthor-whitelistmlips-water-free-energy>via:author-whitelist:MLIPs, water, free energy</a> (11)</li>
@@ -41,6 +38,7 @@
     <li><a href=#machine-learned-potentials-for-sulfides>Machine-Learned Potentials for Sulfides</a> (13)</li>
     <li><a href=#viaauthor-whitelistprebiotic-synthesis-rna-world>via:author-whitelist:prebiotic synthesis, RNA world</a> (2)</li>
     <li><a href=#viaauthor-whitelistdft-catalysis-gpaw>via:author-whitelist:DFT catalysis, GPAW</a> (4)</li>
+    <li><a href=#viaauthor-whitelistm3gnet-chgnet>via:author-whitelist:M3GNet, CHGNet</a> (5)</li>
     <li><a href=#viaauthor-whitelistcatalysis-dft-kinetic-monte-carlo>via:author-whitelist:catalysis DFT, kinetic Monte Carlo</a> (6)</li>
     <li><a href=#viaauthor-whitelistiron-oxide--sulfide-geochemistry>via:author-whitelist:iron oxide / sulfide geochemistry</a> (2)</li>
     <li><a href=#viaauthor-whitelistproton-transport-ms-evb>via:author-whitelist:proton transport, MS-EVB</a> (2)</li>
@@ -48,8 +46,10 @@
     <li><a href=#viaauthor-whitelistprebiotic-photochemistry-atmospheric-chem>via:author-whitelist:prebiotic photochemistry, atmospheric chem</a> (3)</li>
     <li><a href=#viaauthor-whitelistiron-sulfide-mineral-surfaces>via:author-whitelist:iron sulfide, mineral surfaces</a> (4)</li>
     <li><a href=#viaauthor-whitelistreaxff-electrochemistry-co2rr>via:author-whitelist:ReaxFF, electrochemistry, CO2RR</a> (2)</li>
+    <li><a href=#viaauthor-whitelistaimd-proton-transfer-in-water>via:author-whitelist:AIMD, proton transfer in water</a> (2)</li>
     <li><a href=#viaauthor-whitelistvent-geochemistry-ph-gradients>via:author-whitelist:vent geochemistry, pH gradients</a> (2)</li>
     <li><a href=#viaauthor-whitelistelectrocatalysis-dft>via:author-whitelist:electrocatalysis DFT</a> (2)</li>
+    <li><a href=#viaauthor-whitelistgrotthuss-mechanism-aimd>via:author-whitelist:Grotthuss mechanism, AIMD</a> (3)</li>
     <li><a href=#viaauthor-whitelistprebiotic-chemistry>via:author-whitelist:prebiotic chemistry</a> (1)</li>
     <li><a href=#viaauthor-whitelistprebiotic-co2-fixation-autocatalysis>via:author-whitelist:prebiotic CO2 fixation, autocatalysis</a> (1)</li>
   </ol>
@@ -682,94 +682,43 @@
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
-## Adsorption and Ion Transport
+## via:author-whitelist:origin of life biochemistry, autotrophy
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
-|**2026-03-23**|**Invariant ionic conductance in an atomically thin polar nanopore**|Shengping Zhang et al.|[2603.21827](http://arxiv.org/abs/2603.21827)|[md](abstracts/2603.21827.md)|
-|**2026-03-18**|**Substrate-controlled nucleation and growth kinetics in ultrathin Bi$_2$Te$_3$ films**|Damian Brzozowski et al.|[2603.17868](http://arxiv.org/abs/2603.17868)|[md](abstracts/2603.17868.md)|
-|**2026-03-06**|**Real-time exciton dynamics in two-dimensional materials under ultrashort laser pulses**|Dmitry Tumakov et al.|[2603.06446](http://arxiv.org/abs/2603.06446)|[md](abstracts/2603.06446.md)|
-|**2026-02-20**|**The Plastic Origin of van der Waals material GaGeTe**|Qiao Wang et al.|[2511.16474](http://arxiv.org/abs/2511.16474)|[md](abstracts/2511.16474.md)|
-|**2026-01-18**|**Successful growth of low carrier density $α$-In$_2$Se$_3$ single crystals using Se-flux in a modified Bridgman furnace**|Soumi Mondal et al.|[2601.12588](http://arxiv.org/abs/2601.12588)|[md](abstracts/2601.12588.md)|
-|**2026-01-08**|**Goldene monolayer as a highly effective catalyst for polysulfide anchoring and conversion: A theoretical study**|Nicolas F. Martins et al.|[2601.04952](http://arxiv.org/abs/2601.04952)|[md](abstracts/2601.04952.md)|
-|**2026-01-07**|**Li+/H+ exchange in solid-state oxide Li-ion conductors**|Zhuohan Li et al.|[2509.13477](http://arxiv.org/abs/2509.13477)|[md](abstracts/2509.13477.md)|
-|**2025-10-31**|**Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications**|David Rovira et al.|[2510.27546](http://arxiv.org/abs/2510.27546)|[md](abstracts/2510.27546.md)|
-|**2025-10-23**|**Highly Rectifying Cubic Copper Iron Sulfides p-n Junction Diode Fabricated by Anodic Oxidation**|Yoshimine Kato et al.|[2510.20326](http://arxiv.org/abs/2510.20326)|[md](abstracts/2510.20326.md)|
-|**2025-10-01**|**Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT**|Ahmad Ali et al.|[2510.00955](http://arxiv.org/abs/2510.00955)|[md](abstracts/2510.00955.md)|
-|**2025-09-25**|**Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation**|H. Laltlanmawii et al.|[2509.20845](http://arxiv.org/abs/2509.20845)|[md](abstracts/2509.20845.md)|
-|**2025-08-13**|**Raman and IR Signatures of Mo3S4 and Mo3S13 Molybdenum Sulphide Molecular Catalysts for Solar Hydrogen Evolution**|Pardis Adams et al.|[2505.01772](http://arxiv.org/abs/2505.01772)|[md](abstracts/2505.01772.md)|
-|**2025-08-12**|**Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting**|Karthik R et al.|[2508.09317](http://arxiv.org/abs/2508.09317)|[md](abstracts/2508.09317.md)|
-|**2025-06-30**|**Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study**|Selva Chandrasekaran Selvaraj et al.|[2506.11199](http://arxiv.org/abs/2506.11199)|[md](abstracts/2506.11199.md)|
-|**2025-06-02**|**Machine-learning-driven modelling of amorphous and polycrystalline BaZrS$_{3}$**|Laura-Bianca Paşca et al.|[2506.01517](http://arxiv.org/abs/2506.01517)|[md](abstracts/2506.01517.md)|
-|**2025-05-23**|**The Source of Hydrogen in Earth's Building Blocks**|Thomas J Barrett et al.|[2406.13637](http://arxiv.org/abs/2406.13637)|[md](abstracts/2406.13637.md)|
-|**2025-04-22**|**The effects of transport processes on the bulk composition of the first generation of planetesimals interior to the water iceline**|Mark Oosterloo et al.|[2504.15982](http://arxiv.org/abs/2504.15982)|[md](abstracts/2504.15982.md)|
-|**2025-04-07**|**Exploring the defect landscape and dopability of chalcogenide perovskite BaZrS3**|Rushik Desai et al.|[2501.16561](http://arxiv.org/abs/2501.16561)|[md](abstracts/2501.16561.md)|
-|**2025-03-25**|**Non-stoichiometry in SnS: How it affects thin-film morphology and electrical properties**|Taichi Nogami et al.|[2411.07530](http://arxiv.org/abs/2411.07530)|[md](abstracts/2411.07530.md)|
-|**2025-03-11**|**Dissolution kinetics of iron sulfide minerals in alkaline solutions**|Zhanzhao Li et al.|[2503.08763](http://arxiv.org/abs/2503.08763)|[md](abstracts/2503.08763.md)|
-|**2025-01-17**|**Phase and sulfur vacancy engineering in cadmium sulfide for boosting hydrogen production from catalytic plastic waste photoconversion**|Thanh Tam Nguyen et al.|[2501.10015](http://arxiv.org/abs/2501.10015)|[md](abstracts/2501.10015.md)|
-|**2024-12-07**|**Recent advances in hydrogen production using sulfide-based photocatalysts**|Suresh Chandra Baral et al.|[2412.05658](http://arxiv.org/abs/2412.05658)|[md](abstracts/2412.05658.md)|
-|**2024-11-06**|**Single-domain imaging in topological insulator Bi2Te3 thin films**|David H. Yi et al.|[2410.21735](http://arxiv.org/abs/2410.21735)|[md](abstracts/2410.21735.md)|
-|**2024-09-12**|**Assessing carrier mobility, dopability, and defect tolerance in the chalcogenide perovskite BaZrS$_3$**|Zhenkun Yuan et al.|[2405.09793](http://arxiv.org/abs/2405.09793)|[md](abstracts/2405.09793.md)|
+|**2026-05-07**|**Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent**|Natalia Mrnjavac et al.|[2510.08410](http://arxiv.org/abs/2510.08410)|[md](abstracts/2510.08410.md)|
+|**2025-10-09**|**GTP before ATP: The energy currency at the origin of genes**|Natalia Mrnjavac et al.|[2403.08744](http://arxiv.org/abs/2403.08744)|[md](abstracts/2403.08744.md)|
+|**2025-06-09**|**Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy**|Yu Liu et al.|[2506.08073](http://arxiv.org/abs/2506.08073)|[md](abstracts/2506.08073.md)|
+|**2024-10-03**|**Insights into Chemical and Structural Order at Planar Defects in a Functional Oxide Using Multislice Electron Ptychography**|Menglin Zhu et al.|[2403.04904](http://arxiv.org/abs/2403.04904)|[md](abstracts/2403.04904.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
-## via:author-whitelist:AIMD, proton transfer in water
+## via:author-whitelist:JDFTx, electrochemistry-DFT, solvation
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
-|**2026-04-20**|**Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations**|Peter Eastman et al.|[2601.16331](http://arxiv.org/abs/2601.16331)|[md](abstracts/2601.16331.md)|
-|**2025-08-26**|**Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations**|Joseph Kelly et al.|[2503.22583](http://arxiv.org/abs/2503.22583)|[md](abstracts/2503.22583.md)|
-|**2024-09-14**|**Nutmeg and SPICE: Models and Data for Biomolecular Machine Learning**|Peter Eastman et al.|[2406.13112](http://arxiv.org/abs/2406.13112)|[md](abstracts/2406.13112.md)|
+|**2026-04-01**|**Development of machine-learned interatomic potentials to predict structure, transport, and reactivity in platinum-based fuel cells**|Kamron Fazel et al.|[2505.01963](http://arxiv.org/abs/2505.01963)|[md](abstracts/2505.01963.md)|
+|**2024-10-08**|**Bridging electronic and classical density-functional theory using universal machine-learned functional approximations**|Michelle M. Kelley et al.|[2405.20270](http://arxiv.org/abs/2405.20270)|[md](abstracts/2405.20270.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
-## via:author-whitelist:GAP, MACE, ACE
+## via:author-whitelist:neural network potentials
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
 |**2026-04-20**|**Roadmap on Advancements of the FHI-aims Software Package**|Joseph W. Abbott et al.|[2505.00125](http://arxiv.org/abs/2505.00125)|[md](abstracts/2505.00125.md)|
-|**2026-04-16**|**Atomic-scale order enables high thermal boundary conductance at $β$-Ga$_2$O$_3$/4H-SiC interfaces**|Hongao Yang et al.|[2604.15394](http://arxiv.org/abs/2604.15394)|[md](abstracts/2604.15394.md)|
-|**2026-03-16**|**Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials**|William J. Baldwin et al.|[2603.14700](http://arxiv.org/abs/2603.14700)|[md](abstracts/2603.14700.md)|
-|**2026-03-04**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et al.|[2505.08762](http://arxiv.org/abs/2505.08762)|[md](abstracts/2505.08762.md)|
-|**2026-03-04**|**False Metallization in Short-Ranged Machine Learned Interatomic Potentials**|Isaac J. Parker et al.|[2603.04228](http://arxiv.org/abs/2603.04228)|[md](abstracts/2603.04228.md)|
-|**2026-02-24**|**Regularity Priors for the Linear Atomic Cluster Expansion**|James P. Darby et al.|[2601.15072](http://arxiv.org/abs/2601.15072)|[md](abstracts/2601.15072.md)|
-|**2026-02-23**|**MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry**|Ilyes Batatia et al.|[2602.19411](http://arxiv.org/abs/2602.19411)|[md](abstracts/2602.19411.md)|
-|**2026-02-10**|**Computing solvation free energies of small molecules with experimental accuracy**|J. Harry Moore et al.|[2405.18171](http://arxiv.org/abs/2405.18171)|[md](abstracts/2405.18171.md)|
-|**2026-01-28**|**Better without U: Impact of Selective Hubbard U Correction on Foundational MLIPs**|Thomas Warford et al.|[2601.21056](http://arxiv.org/abs/2601.21056)|[md](abstracts/2601.21056.md)|
-|**2025-10-29**|**Cross Learning between Electronic Structure Theories for Unifying Molecular, Surface, and Inorganic Crystal Foundation Force Fields**|Ilyes Batatia et al.|[2510.25380](http://arxiv.org/abs/2510.25380)|[md](abstracts/2510.25380.md)|
-|**2025-10-22**|**How Accurate Are DFT Forces? Unexpectedly Large Uncertainties in Molecular Datasets**|Domantas Kuryla et al.|[2510.19774](http://arxiv.org/abs/2510.19774)|[md](abstracts/2510.19774.md)|
-|**2025-09-15**|**Bond-Network Entropy Governs Heat Transport in Coordination-Disordered Solids**|Kamil Iwanowski et al.|[2412.12753](http://arxiv.org/abs/2412.12753)|[md](abstracts/2412.12753.md)|
-|**2025-08-18**|**Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water**|Niamh O'Neill et al.|[2508.13391](http://arxiv.org/abs/2508.13391)|[md](abstracts/2508.13391.md)|
-|**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et al.|[2504.10700](http://arxiv.org/abs/2504.10700)|[md](abstracts/2504.10700.md)|
-|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
-|**2025-02-07**|**Many-Body Coarse-Grained Molecular Dynamics with the Atomic Cluster Expansion**|Yangshuai Wang et al.|[2502.04661](http://arxiv.org/abs/2502.04661)|[md](abstracts/2502.04661.md)|
-|**2024-10-24**|**Random Spin Committee Approach For Smooth Interatomic Potentials**|Vlad Cărare et al.|[2410.16252](http://arxiv.org/abs/2410.16252)|[md](abstracts/2410.16252.md)|
-|**2024-09-09**|**Transferability of datasets between Machine-Learning Interaction Potentials**|Samuel P. Niblett et al.|[2409.05590](http://arxiv.org/abs/2409.05590)|[md](abstracts/2409.05590.md)|
-|**2024-09-06**|**Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials**|Philipp Pracht et al.|[2408.08174](http://arxiv.org/abs/2408.08174)|[md](abstracts/2408.08174.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:M3GNet, CHGNet
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-03-26**|**Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure**|S. Chattopadhyay et al.|[2603.25271](http://arxiv.org/abs/2603.25271)|[md](abstracts/2603.25271.md)|
-|**2025-11-11**|**A Fast, Accurate, and Reactive Equivariant Foundation Potential**|Tsz Wai Ko et al.|[2511.07249](http://arxiv.org/abs/2511.07249)|[md](abstracts/2511.07249.md)|
-|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
-|**2025-03-06**|**A Foundational Potential Energy Surface Dataset for Materials**|Aaron D. Kaplan et al.|[2503.04070](http://arxiv.org/abs/2503.04070)|[md](abstracts/2503.04070.md)|
-|**2025-03-05**|**Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry**|Tsz Wai Ko et al.|[2503.03837](http://arxiv.org/abs/2503.03837)|[md](abstracts/2503.03837.md)|
-|**2024-09-02**|**Data-Efficient Construction of High-Fidelity Graph Deep Learning Interatomic Potentials**|Tsz Wai Ko et al.|[2409.00957](http://arxiv.org/abs/2409.00957)|[md](abstracts/2409.00957.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:Grotthuss mechanism, AIMD
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-04-27**|**Enhancing molecular dynamics with equivariant machine-learned densities**|Mihail Bogojeski et al.|[2604.24563](http://arxiv.org/abs/2604.24563)|[md](abstracts/2604.24563.md)|
-|**2026-04-15**|**MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals**|Adam Lahouari et al.|[2604.13897](http://arxiv.org/abs/2604.13897)|[md](abstracts/2604.13897.md)|
-|**2025-12-19**|**Automated Machine Learning Pipeline: Large Language Models-Assisted Automated Dataset Generation for Training Machine-Learned Interatomic Potentials**|Adam Lahouari et al.|[2509.21647](http://arxiv.org/abs/2509.21647)|[md](abstracts/2509.21647.md)|
-|**2024-09-05**|**On the design space between molecular mechanics and machine learning force fields**|Yuanqing Wang et al.|[2409.01931](http://arxiv.org/abs/2409.01931)|[md](abstracts/2409.01931.md)|
+|**2025-12-10**|**Molecular Dynamics Simulations of $γ$-Belite(010)-Water Interfaces with High-Dimensional Neural Network Potentials**|Bernadeta Prus et al.|[2512.09702](http://arxiv.org/abs/2512.09702)|[md](abstracts/2512.09702.md)|
+|**2025-11-24**|**A Combined Theoretical and Experimental Study of Oxygen Vacancies in Co$_3$O$_4$ for Liquid-Phase Oxidation Catalysis**|Amir Omranpour et al.|[2511.19060](http://arxiv.org/abs/2511.19060)|[md](abstracts/2511.19060.md)|
+|**2025-10-30**|**Atomistic Simulations of Oxide-Water Interfaces using Machine Learning Potentials**|Jan Elsner et al.|[2510.26467](http://arxiv.org/abs/2510.26467)|[md](abstracts/2510.26467.md)|
+|**2025-09-24**|**Computation of the heat capacity of water from first principles**|Motoyuki Shiga et al.|[2509.19765](http://arxiv.org/abs/2509.19765)|[md](abstracts/2509.19765.md)|
+|**2025-08-30**|**Insights into the Structure and Dynamics of Water at Co$_3$O$_4$(001) Using a High-Dimensional Neural Network Potential**|Amir Omranpour et al.|[2509.00322](http://arxiv.org/abs/2509.00322)|[md](abstracts/2509.00322.md)|
+|**2025-06-25**|**Impact of the damping function in dispersion-corrected density functional theory on the properties of liquid water**|K. Nikolas Lausch et al.|[2506.20371](http://arxiv.org/abs/2506.20371)|[md](abstracts/2506.20371.md)|
+|**2025-03-17**|**Iterative charge equilibration for fourth-generation high-dimensional neural network potentials**|Emir Kocer et al.|[2502.07907](http://arxiv.org/abs/2502.07907)|[md](abstracts/2502.07907.md)|
+|**2025-03-07**|**Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis**|Alea Miako Tokita et al.|[2503.05370](http://arxiv.org/abs/2503.05370)|[md](abstracts/2503.05370.md)|
+|**2025-01-29**|**Accuracy of Charge Densities in Electronic Structure Calculations**|Moritz Gubler et al.|[2410.17866](http://arxiv.org/abs/2410.17866)|[md](abstracts/2410.17866.md)|
+|**2024-11-01**|**Machine Learning Potentials for Heterogeneous Catalysis**|Amir Omranpour et al.|[2411.00720](http://arxiv.org/abs/2411.00720)|[md](abstracts/2411.00720.md)|
+|**2024-10-14**|**Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water**|Nore Stolte et al.|[2410.10698](http://arxiv.org/abs/2410.10698)|[md](abstracts/2410.10698.md)|
+|**2024-10-04**|**Machine learning potentials for redox chemistry in solution**|Emir Kocer et al.|[2410.03299](http://arxiv.org/abs/2410.03299)|[md](abstracts/2410.03299.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
@@ -819,8 +768,32 @@
 |**2024-12-07**|**Recent advances in hydrogen production using sulfide-based photocatalysts**|Suresh Chandra Baral et al.|[2412.05658](http://arxiv.org/abs/2412.05658)|[md](abstracts/2412.05658.md)|
 |**2024-10-14**|**Sulfur Vacancies Limit the Open-circuit Voltage of Sb2S3 Solar Cells**|Xinwei Wang et al.|[2410.10560](http://arxiv.org/abs/2410.10560)|[md](abstracts/2410.10560.md)|
 |**2024-10-14**|**Sulfur in the Giant Planets, their Moons, and Extrasolar Gas Giant Planets**|Katharina Lodders et al.|[2410.11138](http://arxiv.org/abs/2410.11138)|[md](abstracts/2410.11138.md)|
-|**2024-09-26**|**Kekulé distortions in graphene on cadmium sulfide**|Yonatan Betancur-Ocampo et al.|[2409.18322](http://arxiv.org/abs/2409.18322)|[md](abstracts/2409.18322.md)|
-|**2024-09-05**|**Emergence of Superconductivity at 20 K in Th$_3$P$_4$-type In$_{3-x}$S$_4$ Synthesized by Diamond Anvil Cell with Boron-doped Diamond Electrodes**|Ryo Matsumoto et al.|[2409.03409](http://arxiv.org/abs/2409.03409)|[md](abstracts/2409.03409.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
+## via:author-whitelist:AIMD, proton transfer
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-11-18**|**Resolving the Nature of the Lowest-Frequency Raman Mode of Liquid Water**|Florian Pabst et al.|[2511.14940](http://arxiv.org/abs/2511.14940)|[md](abstracts/2511.14940.md)|
+|**2024-11-20**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et al.|[2411.12545](http://arxiv.org/abs/2411.12545)|[md](abstracts/2411.12545.md)|
+|**2024-10-14**|**Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water**|Nore Stolte et al.|[2410.10698](http://arxiv.org/abs/2410.10698)|[md](abstracts/2410.10698.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
+## Fe-Ni-S Mineral Surfaces
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-12-16**|**Fully Compensated Ferrimagnetic Properties of (Cr,Fe)S Compound with a Pyrrhotite-type Structure**|Weida Yin et al.|[2512.14129](http://arxiv.org/abs/2512.14129)|[md](abstracts/2512.14129.md)|
+|**2025-12-01**|**Silver Alloyed Wide Bandgap (Ag,Cu)(In,Ga)S2 Thin Film Solar Cells With 15.5% Efficiency**|Yucheng Hu et al.|[2512.01459](http://arxiv.org/abs/2512.01459)|[md](abstracts/2512.01459.md)|
+|**2025-10-21**|**Chemical States and Local Structure in Cu-Deficient CuInSe2 Thin Films: Insights into Engineering and Bandgap Narrowing**|Ahmed Yousef Mohamed et al.|[2510.18331](http://arxiv.org/abs/2510.18331)|[md](abstracts/2510.18331.md)|
+|**2025-10-14**|**Electronic structure and exchange interactions in altermagnetic MnGeP$_2$ in the quasiparticle-self-consistent $GW$ approach**|Ilteris K. Turan et al.|[2505.02934](http://arxiv.org/abs/2505.02934)|[md](abstracts/2505.02934.md)|
+|**2025-08-18**|**Coherent phonon motions and ordered vacancy compound mediated quantum path interference in Cu-poor CuIn$_{x}$Ga$_{(1-x)}$Se$_2$ (CIGS) with attosecond transient absorption**|Hugo Laurell et al.|[2506.05621](http://arxiv.org/abs/2506.05621)|[md](abstracts/2506.05621.md)|
+|**2025-06-18**|**Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion**|Yue-Fei Hou et al.|[2502.05422](http://arxiv.org/abs/2502.05422)|[md](abstracts/2502.05422.md)|
+|**2025-04-02**|**One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges**|Mikel Iraola et al.|[2504.02063](http://arxiv.org/abs/2504.02063)|[md](abstracts/2504.02063.md)|
+|**2024-12-07**|**Recent advances in hydrogen production using sulfide-based photocatalysts**|Suresh Chandra Baral et al.|[2412.05658](http://arxiv.org/abs/2412.05658)|[md](abstracts/2412.05658.md)|
+|**2024-10-14**|**Sulfur in the Giant Planets, their Moons, and Extrasolar Gas Giant Planets**|Katharina Lodders et al.|[2410.11138](http://arxiv.org/abs/2410.11138)|[md](abstracts/2410.11138.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
@@ -837,28 +810,97 @@
 |**2025-11-26**|**AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions**|Stephen G. Dale et al.|[2511.20976](http://arxiv.org/abs/2511.20976)|[md](abstracts/2511.20976.md)|
 |**2025-10-23**|**aims-PAX: Parallel Active eXploration for the automated construction of Machine Learning Force Fields**|Tobias Henkes et al.|[2508.12888](http://arxiv.org/abs/2508.12888)|[md](abstracts/2508.12888.md)|
 |**2024-10-17**|**Analyzing Atomic Interactions in Molecules as Learned by Neural Networks**|Malte Esders et al.|[2410.13833](http://arxiv.org/abs/2410.13833)|[md](abstracts/2410.13833.md)|
-|**2024-09-10**|**A Journey with THeSeuSS: Automated Python Tool for Modeling IR and Raman Vibrational Spectra of Molecules and Solids**|Ariadni Boziki et al.|[2409.06597](http://arxiv.org/abs/2409.06597)|[md](abstracts/2409.06597.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
-## via:author-whitelist:neural network potentials
+## via:author-whitelist:GAP, MACE, ACE
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
 |**2026-04-20**|**Roadmap on Advancements of the FHI-aims Software Package**|Joseph W. Abbott et al.|[2505.00125](http://arxiv.org/abs/2505.00125)|[md](abstracts/2505.00125.md)|
-|**2025-12-10**|**Molecular Dynamics Simulations of $γ$-Belite(010)-Water Interfaces with High-Dimensional Neural Network Potentials**|Bernadeta Prus et al.|[2512.09702](http://arxiv.org/abs/2512.09702)|[md](abstracts/2512.09702.md)|
-|**2025-11-24**|**A Combined Theoretical and Experimental Study of Oxygen Vacancies in Co$_3$O$_4$ for Liquid-Phase Oxidation Catalysis**|Amir Omranpour et al.|[2511.19060](http://arxiv.org/abs/2511.19060)|[md](abstracts/2511.19060.md)|
-|**2025-10-30**|**Atomistic Simulations of Oxide-Water Interfaces using Machine Learning Potentials**|Jan Elsner et al.|[2510.26467](http://arxiv.org/abs/2510.26467)|[md](abstracts/2510.26467.md)|
-|**2025-09-24**|**Computation of the heat capacity of water from first principles**|Motoyuki Shiga et al.|[2509.19765](http://arxiv.org/abs/2509.19765)|[md](abstracts/2509.19765.md)|
-|**2025-08-30**|**Insights into the Structure and Dynamics of Water at Co$_3$O$_4$(001) Using a High-Dimensional Neural Network Potential**|Amir Omranpour et al.|[2509.00322](http://arxiv.org/abs/2509.00322)|[md](abstracts/2509.00322.md)|
-|**2025-06-25**|**Impact of the damping function in dispersion-corrected density functional theory on the properties of liquid water**|K. Nikolas Lausch et al.|[2506.20371](http://arxiv.org/abs/2506.20371)|[md](abstracts/2506.20371.md)|
-|**2025-03-17**|**Iterative charge equilibration for fourth-generation high-dimensional neural network potentials**|Emir Kocer et al.|[2502.07907](http://arxiv.org/abs/2502.07907)|[md](abstracts/2502.07907.md)|
-|**2025-03-07**|**Free energy profiles for chemical reactions in solution from high-dimensional neural network potentials: The case of the Strecker synthesis**|Alea Miako Tokita et al.|[2503.05370](http://arxiv.org/abs/2503.05370)|[md](abstracts/2503.05370.md)|
-|**2025-01-29**|**Accuracy of Charge Densities in Electronic Structure Calculations**|Moritz Gubler et al.|[2410.17866](http://arxiv.org/abs/2410.17866)|[md](abstracts/2410.17866.md)|
-|**2024-11-01**|**Machine Learning Potentials for Heterogeneous Catalysis**|Amir Omranpour et al.|[2411.00720](http://arxiv.org/abs/2411.00720)|[md](abstracts/2411.00720.md)|
-|**2024-10-14**|**Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water**|Nore Stolte et al.|[2410.10698](http://arxiv.org/abs/2410.10698)|[md](abstracts/2410.10698.md)|
-|**2024-10-04**|**Machine learning potentials for redox chemistry in solution**|Emir Kocer et al.|[2410.03299](http://arxiv.org/abs/2410.03299)|[md](abstracts/2410.03299.md)|
-|**2024-09-17**|**A High-Dimensional Neural Network Potential for Co$_3$O$_4$**|Amir Omranpour et al.|[2409.11037](http://arxiv.org/abs/2409.11037)|[md](abstracts/2409.11037.md)|
+|**2026-04-16**|**Atomic-scale order enables high thermal boundary conductance at $β$-Ga$_2$O$_3$/4H-SiC interfaces**|Hongao Yang et al.|[2604.15394](http://arxiv.org/abs/2604.15394)|[md](abstracts/2604.15394.md)|
+|**2026-03-16**|**Design Space of Self--Consistent Electrostatic Machine Learning Interatomic Potentials**|William J. Baldwin et al.|[2603.14700](http://arxiv.org/abs/2603.14700)|[md](abstracts/2603.14700.md)|
+|**2026-03-04**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et al.|[2505.08762](http://arxiv.org/abs/2505.08762)|[md](abstracts/2505.08762.md)|
+|**2026-03-04**|**False Metallization in Short-Ranged Machine Learned Interatomic Potentials**|Isaac J. Parker et al.|[2603.04228](http://arxiv.org/abs/2603.04228)|[md](abstracts/2603.04228.md)|
+|**2026-02-24**|**Regularity Priors for the Linear Atomic Cluster Expansion**|James P. Darby et al.|[2601.15072](http://arxiv.org/abs/2601.15072)|[md](abstracts/2601.15072.md)|
+|**2026-02-23**|**MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry**|Ilyes Batatia et al.|[2602.19411](http://arxiv.org/abs/2602.19411)|[md](abstracts/2602.19411.md)|
+|**2026-02-10**|**Computing solvation free energies of small molecules with experimental accuracy**|J. Harry Moore et al.|[2405.18171](http://arxiv.org/abs/2405.18171)|[md](abstracts/2405.18171.md)|
+|**2026-01-28**|**Better without U: Impact of Selective Hubbard U Correction on Foundational MLIPs**|Thomas Warford et al.|[2601.21056](http://arxiv.org/abs/2601.21056)|[md](abstracts/2601.21056.md)|
+|**2025-10-29**|**Cross Learning between Electronic Structure Theories for Unifying Molecular, Surface, and Inorganic Crystal Foundation Force Fields**|Ilyes Batatia et al.|[2510.25380](http://arxiv.org/abs/2510.25380)|[md](abstracts/2510.25380.md)|
+|**2025-10-22**|**How Accurate Are DFT Forces? Unexpectedly Large Uncertainties in Molecular Datasets**|Domantas Kuryla et al.|[2510.19774](http://arxiv.org/abs/2510.19774)|[md](abstracts/2510.19774.md)|
+|**2025-09-15**|**Bond-Network Entropy Governs Heat Transport in Coordination-Disordered Solids**|Kamil Iwanowski et al.|[2412.12753](http://arxiv.org/abs/2412.12753)|[md](abstracts/2412.12753.md)|
+|**2025-08-18**|**Towards Routine Condensed Phase Simulations with Delta-Learned Coupled Cluster Accuracy: Application to Liquid Water**|Niamh O'Neill et al.|[2508.13391](http://arxiv.org/abs/2508.13391)|[md](abstracts/2508.13391.md)|
+|**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et al.|[2504.10700](http://arxiv.org/abs/2504.10700)|[md](abstracts/2504.10700.md)|
+|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
+|**2025-02-07**|**Many-Body Coarse-Grained Molecular Dynamics with the Atomic Cluster Expansion**|Yangshuai Wang et al.|[2502.04661](http://arxiv.org/abs/2502.04661)|[md](abstracts/2502.04661.md)|
+|**2024-10-24**|**Random Spin Committee Approach For Smooth Interatomic Potentials**|Vlad Cărare et al.|[2410.16252](http://arxiv.org/abs/2410.16252)|[md](abstracts/2410.16252.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
+## via:author-whitelist:DFT water, defects
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-05-05**|**Spin Dynamics from Atomistic Quantum Simulations**|Enrico Drigo et al.|[2605.04294](http://arxiv.org/abs/2605.04294)|[md](abstracts/2605.04294.md)|
+|**2026-02-28**|**Elucidating the Inter-system Crossing of the Nitrogen-Vacancy Center up to Megabar Pressures**|Benchen Huang et al.|[2511.20750](http://arxiv.org/abs/2511.20750)|[md](abstracts/2511.20750.md)|
+|**2025-12-11**|**Understanding Surface-Induced Decoherence of NV Centers in Diamond**|Jonah Nagura et al.|[2512.10726](http://arxiv.org/abs/2512.10726)|[md](abstracts/2512.10726.md)|
+|**2025-12-03**|**Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials**|Soumajit Dutta et al.|[2512.04242](http://arxiv.org/abs/2512.04242)|[md](abstracts/2512.04242.md)|
+|**2025-10-24**|**Defects at Play: Shaping the Photophysics and Photochemistry of Ice**|Marta Monti et al.|[2506.16568](http://arxiv.org/abs/2506.16568)|[md](abstracts/2506.16568.md)|
+|**2025-07-01**|**Probing aqueous interfaces with spin defects**|Alfonso Castillo et al.|[2507.01220](http://arxiv.org/abs/2507.01220)|[md](abstracts/2507.01220.md)|
+|**2025-06-24**|**High-throughput spin-bath characterization of spin-defects in semiconductors**|Abigail N. Poteshman et al.|[2506.19259](http://arxiv.org/abs/2506.19259)|[md](abstracts/2506.19259.md)|
+|**2025-03-10**|**Computational study of indium oxide photoelectrodes**|Matthew Bousquet et al.|[2503.07795](http://arxiv.org/abs/2503.07795)|[md](abstracts/2503.07795.md)|
+|**2025-01-27**|**Strongly correlated states of transition metal spin defects: the case of an iron impurity in aluminum nitride**|Leon Otis et al.|[2501.16280](http://arxiv.org/abs/2501.16280)|[md](abstracts/2501.16280.md)|
+|**2024-11-27**|**GPU-Accelerated Solution of the Bethe-Salpeter Equation for Large and Heterogeneous Systems**|Victor Wen-zhe Yu et al.|[2409.15116](http://arxiv.org/abs/2409.15116)|[md](abstracts/2409.15116.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
+## Adsorption and Ion Transport
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-03-23**|**Invariant ionic conductance in an atomically thin polar nanopore**|Shengping Zhang et al.|[2603.21827](http://arxiv.org/abs/2603.21827)|[md](abstracts/2603.21827.md)|
+|**2026-03-18**|**Substrate-controlled nucleation and growth kinetics in ultrathin Bi$_2$Te$_3$ films**|Damian Brzozowski et al.|[2603.17868](http://arxiv.org/abs/2603.17868)|[md](abstracts/2603.17868.md)|
+|**2026-03-06**|**Real-time exciton dynamics in two-dimensional materials under ultrashort laser pulses**|Dmitry Tumakov et al.|[2603.06446](http://arxiv.org/abs/2603.06446)|[md](abstracts/2603.06446.md)|
+|**2026-02-20**|**The Plastic Origin of van der Waals material GaGeTe**|Qiao Wang et al.|[2511.16474](http://arxiv.org/abs/2511.16474)|[md](abstracts/2511.16474.md)|
+|**2026-01-18**|**Successful growth of low carrier density $α$-In$_2$Se$_3$ single crystals using Se-flux in a modified Bridgman furnace**|Soumi Mondal et al.|[2601.12588](http://arxiv.org/abs/2601.12588)|[md](abstracts/2601.12588.md)|
+|**2026-01-08**|**Goldene monolayer as a highly effective catalyst for polysulfide anchoring and conversion: A theoretical study**|Nicolas F. Martins et al.|[2601.04952](http://arxiv.org/abs/2601.04952)|[md](abstracts/2601.04952.md)|
+|**2026-01-07**|**Li+/H+ exchange in solid-state oxide Li-ion conductors**|Zhuohan Li et al.|[2509.13477](http://arxiv.org/abs/2509.13477)|[md](abstracts/2509.13477.md)|
+|**2025-10-31**|**Molecular ink-based synthesis of Bi(SzSe1-z)(IxBr1-x) solid solutions as tuneable materials for sustainable energy applications**|David Rovira et al.|[2510.27546](http://arxiv.org/abs/2510.27546)|[md](abstracts/2510.27546.md)|
+|**2025-10-23**|**Highly Rectifying Cubic Copper Iron Sulfides p-n Junction Diode Fabricated by Anodic Oxidation**|Yoshimine Kato et al.|[2510.20326](http://arxiv.org/abs/2510.20326)|[md](abstracts/2510.20326.md)|
+|**2025-10-01**|**Exploring Chalcogen Influence on Sc2BeX4 (X = S, Se) for Green Energy Applications Using DFT**|Ahmad Ali et al.|[2510.00955](http://arxiv.org/abs/2510.00955)|[md](abstracts/2510.00955.md)|
+|**2025-09-25**|**Cu2XSiS4 (X = Ge, Sn, and Pb) materials for solar-cell applications: A DFT+SCAPS-1D simulation**|H. Laltlanmawii et al.|[2509.20845](http://arxiv.org/abs/2509.20845)|[md](abstracts/2509.20845.md)|
+|**2025-08-13**|**Raman and IR Signatures of Mo3S4 and Mo3S13 Molybdenum Sulphide Molecular Catalysts for Solar Hydrogen Evolution**|Pardis Adams et al.|[2505.01772](http://arxiv.org/abs/2505.01772)|[md](abstracts/2505.01772.md)|
+|**2025-08-12**|**Controlled Growth of Bronze Telluride for Scalable Thermoelectric Energy Harvesting**|Karthik R et al.|[2508.09317](http://arxiv.org/abs/2508.09317)|[md](abstracts/2508.09317.md)|
+|**2025-06-30**|**Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study**|Selva Chandrasekaran Selvaraj et al.|[2506.11199](http://arxiv.org/abs/2506.11199)|[md](abstracts/2506.11199.md)|
+|**2025-06-02**|**Machine-learning-driven modelling of amorphous and polycrystalline BaZrS$_{3}$**|Laura-Bianca Paşca et al.|[2506.01517](http://arxiv.org/abs/2506.01517)|[md](abstracts/2506.01517.md)|
+|**2025-05-23**|**The Source of Hydrogen in Earth's Building Blocks**|Thomas J Barrett et al.|[2406.13637](http://arxiv.org/abs/2406.13637)|[md](abstracts/2406.13637.md)|
+|**2025-04-22**|**The effects of transport processes on the bulk composition of the first generation of planetesimals interior to the water iceline**|Mark Oosterloo et al.|[2504.15982](http://arxiv.org/abs/2504.15982)|[md](abstracts/2504.15982.md)|
+|**2025-04-07**|**Exploring the defect landscape and dopability of chalcogenide perovskite BaZrS3**|Rushik Desai et al.|[2501.16561](http://arxiv.org/abs/2501.16561)|[md](abstracts/2501.16561.md)|
+|**2025-03-25**|**Non-stoichiometry in SnS: How it affects thin-film morphology and electrical properties**|Taichi Nogami et al.|[2411.07530](http://arxiv.org/abs/2411.07530)|[md](abstracts/2411.07530.md)|
+|**2025-03-11**|**Dissolution kinetics of iron sulfide minerals in alkaline solutions**|Zhanzhao Li et al.|[2503.08763](http://arxiv.org/abs/2503.08763)|[md](abstracts/2503.08763.md)|
+|**2025-01-17**|**Phase and sulfur vacancy engineering in cadmium sulfide for boosting hydrogen production from catalytic plastic waste photoconversion**|Thanh Tam Nguyen et al.|[2501.10015](http://arxiv.org/abs/2501.10015)|[md](abstracts/2501.10015.md)|
+|**2024-12-07**|**Recent advances in hydrogen production using sulfide-based photocatalysts**|Suresh Chandra Baral et al.|[2412.05658](http://arxiv.org/abs/2412.05658)|[md](abstracts/2412.05658.md)|
+|**2024-11-06**|**Single-domain imaging in topological insulator Bi2Te3 thin films**|David H. Yi et al.|[2410.21735](http://arxiv.org/abs/2410.21735)|[md](abstracts/2410.21735.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
+## via:author-whitelist:ACE potentials
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-05-01**|**AI-Driven Expansion and Application of the Alexandria Database**|Théo Cavignac et al.|[2512.09169](http://arxiv.org/abs/2512.09169)|[md](abstracts/2512.09169.md)|
+|**2026-03-18**|**Hydrogen uptake and hydride formation in Al$_x$CoCrFeNi high-entropy alloys: First-principles, universal-potential, and experimental study**|Fritz Körmann et al.|[2603.17479](http://arxiv.org/abs/2603.17479)|[md](abstracts/2603.17479.md)|
+|**2026-02-26**|**Exploring the extremes: atomic basis for multi-elemental materials science under complex thermodynamic conditions**|Anton Bochkarev et al.|[2602.23489](http://arxiv.org/abs/2602.23489)|[md](abstracts/2602.23489.md)|
+|**2026-01-19**|**Water Phase Diagram from a General-Purpose Atomic Cluster Expansion Potential**|Eslam Ibrahim et al.|[2601.12947](http://arxiv.org/abs/2601.12947)|[md](abstracts/2601.12947.md)|
+|**2026-01-03**|**Graph atomic cluster expansion for foundational machine learning interatomic potentials**|Yury Lysogorskiy et al.|[2508.17936](http://arxiv.org/abs/2508.17936)|[md](abstracts/2508.17936.md)|
+|**2025-12-08**|**Conservative adaptive-precision interatomic potentials**|David Immel et al.|[2512.07693](http://arxiv.org/abs/2512.07693)|[md](abstracts/2512.07693.md)|
+|**2025-07-25**|**Data-efficient machine-learning of complex Fe-Mo intermetallics using domain knowledge of chemistry and crystallography**|Mariano Forti et al.|[2507.19660](http://arxiv.org/abs/2507.19660)|[md](abstracts/2507.19660.md)|
+|**2025-05-23**|**Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium**|Anna Grünebohm et al.|[2505.17991](http://arxiv.org/abs/2505.17991)|[md](abstracts/2505.17991.md)|
+|**2025-05-19**|**Nanoindentation simulations for copper and tungsten with adaptive-precision potentials**|David Immel et al.|[2505.12958](http://arxiv.org/abs/2505.12958)|[md](abstracts/2505.12958.md)|
+|**2025-03-31**|**Core structure of dislocations in ordered ferromagnetic FeCo**|Aleksei Egorov et al.|[2402.10056](http://arxiv.org/abs/2402.10056)|[md](abstracts/2402.10056.md)|
+|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
+|**2024-11-06**|**Charge-constrained Atomic Cluster Expansion**|Matteo Rinaldi et al.|[2411.04062](http://arxiv.org/abs/2411.04062)|[md](abstracts/2411.04062.md)|
+|**2024-11-05**|**Adaptive-precision potentials for large-scale atomistic simulations**|David Immel et al.|[2411.03002](http://arxiv.org/abs/2411.03002)|[md](abstracts/2411.03002.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
@@ -916,89 +958,6 @@
 |**2025-03-12**|**Ultrafast Optical Control of Multi-Valley States in 2D SnS**|Arqum Hashmi et al.|[2503.09092](http://arxiv.org/abs/2503.09092)|[md](abstracts/2503.09092.md)|
 |**2025-03-01**|**Post-Transition Metal Sn-Based Chalcogenide Perovskites: A Promising Lead-Free and Transition Metal Alternative for Stable, High-Performance Photovoltaics**|Surajit Adhikari et al.|[2409.16657](http://arxiv.org/abs/2409.16657)|[md](abstracts/2409.16657.md)|
 |**2025-02-27**|**Electronic Structure, mass fluctuation, and Localized Bond Properties of two-dimensional double-layer transition metal chalcogenide MX$_2$ (M = Mo, W; X = S, Se, Te) Calculated Based on Density Functional Theory and BBC model**|Yaorui Tan et al.|[2412.00792](http://arxiv.org/abs/2412.00792)|[md](abstracts/2412.00792.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:origin of life biochemistry, autotrophy
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-05-07**|**Intermediate stages in the origin of metabolism at a phosphorylating hydrothermal vent**|Natalia Mrnjavac et al.|[2510.08410](http://arxiv.org/abs/2510.08410)|[md](abstracts/2510.08410.md)|
-|**2025-10-09**|**GTP before ATP: The energy currency at the origin of genes**|Natalia Mrnjavac et al.|[2403.08744](http://arxiv.org/abs/2403.08744)|[md](abstracts/2403.08744.md)|
-|**2025-06-09**|**Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy**|Yu Liu et al.|[2506.08073](http://arxiv.org/abs/2506.08073)|[md](abstracts/2506.08073.md)|
-|**2024-10-03**|**Insights into Chemical and Structural Order at Planar Defects in a Functional Oxide Using Multislice Electron Ptychography**|Menglin Zhu et al.|[2403.04904](http://arxiv.org/abs/2403.04904)|[md](abstracts/2403.04904.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:JDFTx, electrochemistry-DFT, solvation
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-04-01**|**Development of machine-learned interatomic potentials to predict structure, transport, and reactivity in platinum-based fuel cells**|Kamron Fazel et al.|[2505.01963](http://arxiv.org/abs/2505.01963)|[md](abstracts/2505.01963.md)|
-|**2024-10-08**|**Bridging electronic and classical density-functional theory using universal machine-learned functional approximations**|Michelle M. Kelley et al.|[2405.20270](http://arxiv.org/abs/2405.20270)|[md](abstracts/2405.20270.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:AIMD, proton transfer
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-11-18**|**Resolving the Nature of the Lowest-Frequency Raman Mode of Liquid Water**|Florian Pabst et al.|[2511.14940](http://arxiv.org/abs/2511.14940)|[md](abstracts/2511.14940.md)|
-|**2024-11-20**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et al.|[2411.12545](http://arxiv.org/abs/2411.12545)|[md](abstracts/2411.12545.md)|
-|**2024-10-14**|**Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water**|Nore Stolte et al.|[2410.10698](http://arxiv.org/abs/2410.10698)|[md](abstracts/2410.10698.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## Fe-Ni-S Mineral Surfaces
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-12-16**|**Fully Compensated Ferrimagnetic Properties of (Cr,Fe)S Compound with a Pyrrhotite-type Structure**|Weida Yin et al.|[2512.14129](http://arxiv.org/abs/2512.14129)|[md](abstracts/2512.14129.md)|
-|**2025-12-01**|**Silver Alloyed Wide Bandgap (Ag,Cu)(In,Ga)S2 Thin Film Solar Cells With 15.5% Efficiency**|Yucheng Hu et al.|[2512.01459](http://arxiv.org/abs/2512.01459)|[md](abstracts/2512.01459.md)|
-|**2025-10-21**|**Chemical States and Local Structure in Cu-Deficient CuInSe2 Thin Films: Insights into Engineering and Bandgap Narrowing**|Ahmed Yousef Mohamed et al.|[2510.18331](http://arxiv.org/abs/2510.18331)|[md](abstracts/2510.18331.md)|
-|**2025-10-14**|**Electronic structure and exchange interactions in altermagnetic MnGeP$_2$ in the quasiparticle-self-consistent $GW$ approach**|Ilteris K. Turan et al.|[2505.02934](http://arxiv.org/abs/2505.02934)|[md](abstracts/2505.02934.md)|
-|**2025-08-18**|**Coherent phonon motions and ordered vacancy compound mediated quantum path interference in Cu-poor CuIn$_{x}$Ga$_{(1-x)}$Se$_2$ (CIGS) with attosecond transient absorption**|Hugo Laurell et al.|[2506.05621](http://arxiv.org/abs/2506.05621)|[md](abstracts/2506.05621.md)|
-|**2025-06-18**|**Nonmagnetic ground state of marcasite FeTe$_{2}$: The competition between crystal field splitting and on-site Coulomb repulsion**|Yue-Fei Hou et al.|[2502.05422](http://arxiv.org/abs/2502.05422)|[md](abstracts/2502.05422.md)|
-|**2025-04-02**|**One-dimensional conduction channels in the correlated Mott NiS2 arising from obstructed Wannier charges**|Mikel Iraola et al.|[2504.02063](http://arxiv.org/abs/2504.02063)|[md](abstracts/2504.02063.md)|
-|**2024-12-07**|**Recent advances in hydrogen production using sulfide-based photocatalysts**|Suresh Chandra Baral et al.|[2412.05658](http://arxiv.org/abs/2412.05658)|[md](abstracts/2412.05658.md)|
-|**2024-10-14**|**Sulfur in the Giant Planets, their Moons, and Extrasolar Gas Giant Planets**|Katharina Lodders et al.|[2410.11138](http://arxiv.org/abs/2410.11138)|[md](abstracts/2410.11138.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:DFT water, defects
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-05-05**|**Spin Dynamics from Atomistic Quantum Simulations**|Enrico Drigo et al.|[2605.04294](http://arxiv.org/abs/2605.04294)|[md](abstracts/2605.04294.md)|
-|**2026-02-28**|**Elucidating the Inter-system Crossing of the Nitrogen-Vacancy Center up to Megabar Pressures**|Benchen Huang et al.|[2511.20750](http://arxiv.org/abs/2511.20750)|[md](abstracts/2511.20750.md)|
-|**2025-12-11**|**Understanding Surface-Induced Decoherence of NV Centers in Diamond**|Jonah Nagura et al.|[2512.10726](http://arxiv.org/abs/2512.10726)|[md](abstracts/2512.10726.md)|
-|**2025-12-03**|**Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials**|Soumajit Dutta et al.|[2512.04242](http://arxiv.org/abs/2512.04242)|[md](abstracts/2512.04242.md)|
-|**2025-10-24**|**Defects at Play: Shaping the Photophysics and Photochemistry of Ice**|Marta Monti et al.|[2506.16568](http://arxiv.org/abs/2506.16568)|[md](abstracts/2506.16568.md)|
-|**2025-07-01**|**Probing aqueous interfaces with spin defects**|Alfonso Castillo et al.|[2507.01220](http://arxiv.org/abs/2507.01220)|[md](abstracts/2507.01220.md)|
-|**2025-06-24**|**High-throughput spin-bath characterization of spin-defects in semiconductors**|Abigail N. Poteshman et al.|[2506.19259](http://arxiv.org/abs/2506.19259)|[md](abstracts/2506.19259.md)|
-|**2025-03-10**|**Computational study of indium oxide photoelectrodes**|Matthew Bousquet et al.|[2503.07795](http://arxiv.org/abs/2503.07795)|[md](abstracts/2503.07795.md)|
-|**2025-01-27**|**Strongly correlated states of transition metal spin defects: the case of an iron impurity in aluminum nitride**|Leon Otis et al.|[2501.16280](http://arxiv.org/abs/2501.16280)|[md](abstracts/2501.16280.md)|
-|**2024-11-27**|**GPU-Accelerated Solution of the Bethe-Salpeter Equation for Large and Heterogeneous Systems**|Victor Wen-zhe Yu et al.|[2409.15116](http://arxiv.org/abs/2409.15116)|[md](abstracts/2409.15116.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:ACE potentials
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-05-01**|**AI-Driven Expansion and Application of the Alexandria Database**|Théo Cavignac et al.|[2512.09169](http://arxiv.org/abs/2512.09169)|[md](abstracts/2512.09169.md)|
-|**2026-03-18**|**Hydrogen uptake and hydride formation in Al$_x$CoCrFeNi high-entropy alloys: First-principles, universal-potential, and experimental study**|Fritz Körmann et al.|[2603.17479](http://arxiv.org/abs/2603.17479)|[md](abstracts/2603.17479.md)|
-|**2026-02-26**|**Exploring the extremes: atomic basis for multi-elemental materials science under complex thermodynamic conditions**|Anton Bochkarev et al.|[2602.23489](http://arxiv.org/abs/2602.23489)|[md](abstracts/2602.23489.md)|
-|**2026-01-19**|**Water Phase Diagram from a General-Purpose Atomic Cluster Expansion Potential**|Eslam Ibrahim et al.|[2601.12947](http://arxiv.org/abs/2601.12947)|[md](abstracts/2601.12947.md)|
-|**2026-01-03**|**Graph atomic cluster expansion for foundational machine learning interatomic potentials**|Yury Lysogorskiy et al.|[2508.17936](http://arxiv.org/abs/2508.17936)|[md](abstracts/2508.17936.md)|
-|**2025-12-08**|**Conservative adaptive-precision interatomic potentials**|David Immel et al.|[2512.07693](http://arxiv.org/abs/2512.07693)|[md](abstracts/2512.07693.md)|
-|**2025-07-25**|**Data-efficient machine-learning of complex Fe-Mo intermetallics using domain knowledge of chemistry and crystallography**|Mariano Forti et al.|[2507.19660](http://arxiv.org/abs/2507.19660)|[md](abstracts/2507.19660.md)|
-|**2025-05-23**|**Efficient local atomic cluster expansion for BaTiO$_3$ close to equilibrium**|Anna Grünebohm et al.|[2505.17991](http://arxiv.org/abs/2505.17991)|[md](abstracts/2505.17991.md)|
-|**2025-05-19**|**Nanoindentation simulations for copper and tungsten with adaptive-precision potentials**|David Immel et al.|[2505.12958](http://arxiv.org/abs/2505.12958)|[md](abstracts/2505.12958.md)|
-|**2025-03-31**|**Core structure of dislocations in ordered ferromagnetic FeCo**|Aleksei Egorov et al.|[2402.10056](http://arxiv.org/abs/2402.10056)|[md](abstracts/2402.10056.md)|
-|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
-|**2024-11-06**|**Charge-constrained Atomic Cluster Expansion**|Matteo Rinaldi et al.|[2411.04062](http://arxiv.org/abs/2411.04062)|[md](abstracts/2411.04062.md)|
-|**2024-11-05**|**Adaptive-precision potentials for large-scale atomistic simulations**|David Immel et al.|[2411.03002](http://arxiv.org/abs/2411.03002)|[md](abstracts/2411.03002.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
@@ -1123,6 +1082,18 @@
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
+## via:author-whitelist:M3GNet, CHGNet
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-03-26**|**Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure**|S. Chattopadhyay et al.|[2603.25271](http://arxiv.org/abs/2603.25271)|[md](abstracts/2603.25271.md)|
+|**2025-11-11**|**A Fast, Accurate, and Reactive Equivariant Foundation Potential**|Tsz Wai Ko et al.|[2511.07249](http://arxiv.org/abs/2511.07249)|[md](abstracts/2511.07249.md)|
+|**2025-03-12**|**A practical guide to machine learning interatomic potentials -- Status and future**|Ryan Jacobs et al.|[2503.09814](http://arxiv.org/abs/2503.09814)|[md](abstracts/2503.09814.md)|
+|**2025-03-06**|**A Foundational Potential Energy Surface Dataset for Materials**|Aaron D. Kaplan et al.|[2503.04070](http://arxiv.org/abs/2503.04070)|[md](abstracts/2503.04070.md)|
+|**2025-03-05**|**Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry**|Tsz Wai Ko et al.|[2503.03837](http://arxiv.org/abs/2503.03837)|[md](abstracts/2503.03837.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
 ## via:author-whitelist:catalysis DFT, kinetic Monte Carlo
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -1192,6 +1163,15 @@
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
+## via:author-whitelist:AIMD, proton transfer in water
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-04-20**|**Accuracy and Efficiency Benchmarks of Pretrained Machine Learning Potentials for Molecular Simulations**|Peter Eastman et al.|[2601.16331](http://arxiv.org/abs/2601.16331)|[md](abstracts/2601.16331.md)|
+|**2025-08-26**|**Two-dimensional electronic spectroscopy in the condensed phase using equivariant transformer accelerated molecular dynamics simulations**|Joseph Kelly et al.|[2503.22583](http://arxiv.org/abs/2503.22583)|[md](abstracts/2503.22583.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
 ## via:author-whitelist:vent geochemistry, pH gradients
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -1207,6 +1187,16 @@
 |---|---|---|---|---|
 |**2025-10-28**|**Low-N Protein Activity Optimization with FolDE**|Jacob B. Roberts et al.|[2510.24053](http://arxiv.org/abs/2510.24053)|[md](abstracts/2510.24053.md)|
 |**2025-08-17**|**Investigating the Kinematics of Molecular Gas in Cometary Globule L1616**|Puja Porel et al.|[2508.12246](http://arxiv.org/abs/2508.12246)|[md](abstracts/2508.12246.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
+## via:author-whitelist:Grotthuss mechanism, AIMD
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-04-27**|**Enhancing molecular dynamics with equivariant machine-learned densities**|Mihail Bogojeski et al.|[2604.24563](http://arxiv.org/abs/2604.24563)|[md](abstracts/2604.24563.md)|
+|**2026-04-15**|**MolCryst-MLIPs: A Machine-Learned Interatomic Potentials Database for Molecular Crystals**|Adam Lahouari et al.|[2604.13897](http://arxiv.org/abs/2604.13897)|[md](abstracts/2604.13897.md)|
+|**2025-12-19**|**Automated Machine Learning Pipeline: Large Language Models-Assisted Automated Dataset Generation for Training Machine-Learned Interatomic Potentials**|Adam Lahouari et al.|[2509.21647](http://arxiv.org/abs/2509.21647)|[md](abstracts/2509.21647.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 

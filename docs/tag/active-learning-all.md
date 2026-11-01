@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">66 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -410,17 +410,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10698.html">Random sampling versus active learning algorithms for machine learning potentials of quantum liquid water</a></div></td>
 <td>Nore Stolte et al.</td>
 <td><a href="http://arxiv.org/abs/2410.10698">2410.10698</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11808.html">Accelerating the Training and Improving the Reliability of Machine-Learned Interatomic Potentials for Strongly Anharmonic Materials through Active Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kisung Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11808">2409.11808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14928.html">Targeting the partition function of chemically disordered materials with a generative approach based on inverse variational autoencoders</a></div></td>
-<td>Maciej J. Karcz et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14928">2408.14928</a></td>
 </tr>
 </tbody></table>

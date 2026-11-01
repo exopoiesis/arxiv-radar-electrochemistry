@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mace — all</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1496,17 +1496,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06354.html">From GAP to ACE to MACE</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
 <td>Noam Bernstein</td>
 <td><a href="http://arxiv.org/abs/2410.06354">2410.06354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05590.html">Transferability of datasets between Machine-Learning Interaction Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Samuel P. Niblett et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05590">2409.05590</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08174.html">Efficient Composite Infrared Spectroscopy: Combining the Doubly-Harmonic Approximation with Machine Learning Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
-<td>Philipp Pracht et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08174">2408.08174</a></td>
 </tr>
 </tbody></table>

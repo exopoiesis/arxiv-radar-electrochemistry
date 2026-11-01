@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electric-double-layer — all</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="electric-double-layer-7d.html">7d</a> <a href="electric-double-layer-30d.html">30d</a> <a href="electric-double-layer-90d.html">90d</a> <a href="electric-double-layer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,11 +338,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08978.html">Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing</a></div></td>
 <td>Nithil Harris Manimaran et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08978">2410.08978</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10008.html">Integrating Experiment with Theory to Determine the Structure of Electrode-Electrolyte Interfaces</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lalith Krishna Samanth Bonagiri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10008">2409.10008</a></td>
 </tr>
 </tbody></table>

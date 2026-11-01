@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transitions — all</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <a href="phase-transitions-90d.html">90d</a> <a href="phase-transitions-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,23 +806,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08876.html">Covariant Jacobi-Legendre expansion for total energy calculations within the projector-augmented-wave formalism</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="neb-all.html">neb</a></div></td>
 <td>Bruno Focassio et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08876">2408.08876</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13390.html">Hydrogen under Pressure as a Benchmark for Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Thomas Bischoff et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13390">2409.13390</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07659.html">Tuned ionic mobility by Ultrafast-laser pulses in Black Silicon</a></div><div class="paper-tags"><a href="aimd-all.html">aimd</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Christelle Inès K. Mebou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07659">2409.07659</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17337.html">Raman Spectroscopic Study on Bi2Rh3Se2: Two-dimensional-Ising Charge Density Wave and Quantum Fluctuations</a></div><div class="paper-tags"><a href="chalcogenides-all.html">chalcogenides</a></div></td>
-<td>Fei Jiao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17337">2407.17337</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-stability — all</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="phase-stability-7d.html">7d</a> <a href="phase-stability-30d.html">30d</a> <a href="phase-stability-90d.html">90d</a> <a href="phase-stability-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,29 +842,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06433.html">Generative AI for Discovering Porous Oxide Materials for Next-Generation Energy Storage</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="ion-transport-all.html">ion-transport</a> · <a href="m3gnet-all.html">m3gnet</a></div></td>
 <td>Joy Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06433">2410.06433</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13066.html">Strain Effects in SrHfO$_{3}$ Films Grown by Hybrid Molecular Beam Epitaxy</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Patrick T. Gemperline et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13066">2409.13066</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10780.html">Revealing the Origin and Nature of the Buried Metal-Substrate Interface Layer in Ta/Sapphire Superconducting Films</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
-<td>Aswin kumar Anbalagan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10780">2409.10780</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09690.html">First Principles Insight into Antiperovskite c-Na3HS Solid State Electrolyte</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="aimd-all.html">aimd</a> · <a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Sananya Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09690">2409.09690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09793.html">Assessing carrier mobility, dopability, and defect tolerance in the chalcogenide perovskite BaZrS$_3$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="chalcogenides-all.html">chalcogenides</a> · <a href="vacancies-all.html">vacancies</a></div></td>
-<td>Zhenkun Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09793">2405.09793</a></td>
 </tr>
 </tbody></table>
