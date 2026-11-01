@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">577 papers</span>
+  <span class="paper-count">573 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3452,29 +3452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05602.html">Gas Mixture Diffusion and Distribution in the Porous ZIF-90 Framework</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Ashok Yacham et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05602">2511.05602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00362.html">Cooperative Ion Conduction Enabled by Site Percolation in Random Substitutional Crystals</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Rikuya Ishikawa et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00362">2505.00362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20423.html">Shape-Determined Kinetic Pathways in 2D Solid-Solid Phase Transitions</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Ruijian Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20423">2506.20423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03382.html">Development of a magnetic interatomic potential for cubic anti-ferromagnets: the case of NiO</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Ievgeniia Korniienko et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03382">2511.03382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03615.html">pH-Responsive Glyphosate Adsorption on Hydroxylated Carbon Nanotubes: From Electronic Structure to Molecular Dynamics</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
-<td>H. T. Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03615">2511.03615</a></td>
 </tr>
 </tbody></table>

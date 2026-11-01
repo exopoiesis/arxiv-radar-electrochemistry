@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">830 papers</span>
+  <span class="paper-count">826 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4970,29 +4970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04606.html">Peculiarities in the infrared emission of PAH-C$_{60}$ adducts</a></div></td>
 <td>R. Barzaga et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04606">2511.04606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22137.html">calcQPI: A versatile tool to simulate quasiparticle interference</a></div></td>
-<td>Peter Wahl et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22137">2507.22137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03240.html">Mysterious Role of Cap Configuration in Single-Walled Carbon Nanotube Catalytic Growth</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Tianliang Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03240">2511.03240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03382.html">Development of a magnetic interatomic potential for cubic anti-ferromagnets: the case of NiO</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ievgeniia Korniienko et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03382">2511.03382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03582.html">Emergence of Ferromagnetism from Planar Defects in EuSn2As2 Antiferromagnet</a></div></td>
-<td>A. Yu. Levakhova et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03582">2511.03582</a></td>
 </tr>
 </tbody></table>

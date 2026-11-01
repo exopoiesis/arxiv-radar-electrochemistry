@@ -4,11 +4,11 @@
   total: 1532
   group: methods
 - name: molecular-dynamics
-  count: 54
+  count: 48
   total: 1022
   group: methods
 - name: ab-initio
-  count: 42
+  count: 39
   total: 886
   group: methods
 - name: vacancies
@@ -20,7 +20,7 @@
   total: 400
   group: surfaces
 - name: mace
-  count: 17
+  count: 16
   total: 249
   group: ml-methods
 - name: mlip
@@ -28,11 +28,11 @@
   total: 255
   group: ml-methods
 - name: aimd
-  count: 14
+  count: 11
   total: 230
   group: methods
 - name: ion-transport
-  count: 9
+  count: 8
   total: 151
   group: transport
 - name: neb
@@ -51,22 +51,22 @@
   count: 5
   total: 142
   group: thermodynamics
-- name: reaction-networks
-  count: 5
-  total: 63
-  group: networks
-- name: autocatalysis
-  count: 4
-  total: 66
-  group: networks
 - name: corrosion
   count: 4
   total: 63
   group: chemistry
+- name: reaction-networks
+  count: 4
+  total: 63
+  group: networks
 - name: adsorption-energy
   count: 3
   total: 103
   group: descriptors
+- name: autocatalysis
+  count: 3
+  total: 66
+  group: networks
 - name: electric-double-layer
   count: 2
   total: 55
@@ -87,10 +87,6 @@
   count: 2
   total: 15
   group: materials
-- name: pyrite
-  count: 2
-  total: 14
-  group: minerals
 - name: surface-science
   count: 2
   total: 14
@@ -119,10 +115,6 @@
   count: 1
   total: 8
   group: devices
-- name: grotthuss
-  count: 1
-  total: 26
-  group: transport
 - name: hydrogen-evolution
   count: 1
   total: 55
@@ -159,6 +151,10 @@
   count: 1
   total: 37
   group: transport
+- name: pyrite
+  count: 1
+  total: 14
+  group: minerals
 - name: serpentinization
   count: 1
   total: 12
@@ -215,6 +211,10 @@
   count: 0
   total: 0
   group: minerals
+- name: grotthuss
+  count: 0
+  total: 26
+  group: transport
 - name: hydration-shell
   count: 0
   total: 18
