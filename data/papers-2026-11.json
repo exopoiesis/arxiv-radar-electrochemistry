@@ -1,0 +1,450 @@
+{
+ "2611.01830": {
+  "abstract": "Understanding and controlling the optical, thermal and mechanical properties of K$_2$PtCl$_6$-type double perovskites is essential for the design of lead-free, high-performance thermoelectric and optoelectronic materials. In this study, we investigate Cs$_2$SnI$_6$ using temperature-dependent near-resonance Raman scattering, complemented by density functional theory-based phonon calculations. The appearance of Raman-forbidden phonon modes in the Raman response at cryogenic temperatures provides strong evidence for local symmetry breaking that does not develop into a global structural phase transition. Through detailed analysis of phonon intensities, energies, and spectral lineshapes, we characterize the temperature evolution of the symmetry-broken structural response of Cs$_2$SnI$_6$. Below 200 K, multi-phonon scattering is strongly enhanced, and symmetry-forbidden Raman modes emerge. The temperature dependence of phonon intensities follows a phenomenological Arrhenius behavior, revealing an activation energy of 15-20 meV. These results establish temperature-dependent Raman spectroscopy as a sensitive probe of local structural distortions and anharmonic structural dynamics in Cs$_2$SnI$_6$, providing a robust experimental basis for discussing the microscopic origins of symmetry breaking and electron-phonon coupling in halide double perovskites.",
+  "authors": [
+   "Tomke E. Glier",
+   "Nicholas J. Weadock",
+   "Julian A. Vigil",
+   "Cole Shank",
+   "Xixi Qin",
+   "Gabriel J. Graf",
+   "Hemamala I. Karunadasa",
+   "Volker Blum",
+   "Michael F. Toney",
+   "Dmitry Reznik"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Tomke E. Glier",
+  "pdf_url": "http://arxiv.org/pdf/2611.01830",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-01",
+  "tags": [
+   "density-functional-theory",
+   "phase-transitions"
+  ],
+  "title": "Temperature-Dependent Raman Signatures of Local Symmetry Breaking in Vacancy Double Perovskite Cs$_2$SnI$_6$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.02226": {
+  "abstract": "Water electrolysis is a promising technology for sustainable hydrogen (H$_2$) production. However, gas bubble formation significantly degrades the electrochemical surface area ($A_{\\rm EC}$) and the electrocatalytic activity of microstructured electrodes in water electrolyzer cells. Existing theoretical models fail to connect computational fluid dynamics (CFD) and electrochemistry to analyze how bubble dynamics affect the performance of gas-evolving microstructured electrodes. This work develops a multiphysics-based theoretical model that couples two-phase CFD with Butler-Volmer and Faradaic kinetics, incorporating exchange current density, cell current, gravitational acceleration, surface tension, and fluid properties such as density and viscosity. The model quantifies essential electrochemical parameters, such as the enhancement in $A_{\\rm EC}$ and the overpotential ($η$), which deviate by less than 7\\% and 15\\%, respectively, from the experimental results. Evaluations of the fabricated microstructured electrodes using polarization curves, cyclic voltammetry, electrochemical impedance spectroscopy, and linear polarization resistance techniques demonstrate reduced $η$ by 2.49--21.39\\% and 9.55--24.32\\% for oxygen (O$_2$) and H$_2$ evolution, respectively. Furthermore, the model reveals the interplay between enhanced geometric surface area and bubble-transport limitations, facilitating the optimization and analysis of structural parameters. These findings establish a physics-informed roadmap for designing optimal, robust, and industry-scalable microstructured electrodes for efficient H$_2$ generation via water electrolysis.",
+  "authors": [
+   "Auronno Ovid Hussain",
+   "Adith Saha Dipro",
+   "Muhammad Anisuzzaman Talukder"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Auronno Ovid Hussain",
+  "pdf_url": "http://arxiv.org/pdf/2611.02226",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-01",
+  "tags": [
+   "electrocatalysis",
+   "impedance-spectroscopy"
+  ],
+  "title": "Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.02277": {
+  "abstract": "Molecular properties depend on chemical structure at different ranges, from local polar groups governing solvation to extended substructures shaping bioactivity, yet graph neural networks usually fix one propagation scale for every atom. We present PRISM (Per-atom Routing over Intermediate States of Message Passing), in which each atom's encoded features produce a bounded scalar that positions a unimodal distribution over retained message-passing states and matching circular-fingerprint radii. Because one coordinate translates the whole profile, allocated depth responds to the routing scalar in closed form: at fixed temperature it is nondecreasing, its sensitivity scales with the profile variance, and it saturates in the clipped regions. Beyond providing closed-form analyzability, this constrained one-parameter profile matches or significantly outperforms parameter-matched, unconstrained node-wise gates and Jumping Knowledge attention. Under scaffold partitions with equal tuning budgets against eight graph, fingerprint, and geometric baselines, PRISM trained from scratch without three-dimensional coordinates achieves the lowest mean error on aqueous solubility and hydration free energy and strong accuracy on BACE and BBBP. As a general layer-combination rule, PRISM transfers directly to GCN, GIN, and GAT backbones, reducing hydration free energy error by up to 29% relative to last-layer readout. Applied to a pre-trained GIN, it improves on last-layer readout on four of six endpoints and gives the lowest lipophilicity error overall. In trained models, allocated depth differs systematically between atom types in a task-dependent way, and permuting profiles among a molecule's atoms raises prediction error on several endpoints, so the rule acts as a learned counterpart of atom typing.",
+  "authors": [
+   "Regina Qianru Zhang",
+   "Honggang Wen",
+   "Zongru Li",
+   "Jinsong Ouyang",
+   "Zhiqin Chu",
+   "Pietro Liò",
+   "Xiaofeng Liu",
+   "Siu-Ming Yiu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Regina Qianru Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.02277",
+  "primary_category": "cs.LG",
+  "published": "2026-11-01",
+  "tags": [
+   "solvation-thermodynamics"
+  ],
+  "title": "Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.02315": {
+  "abstract": "We present a fully GPU-native framework for machine learning/molecular mechanics (ML/MM) enhanced sampling simulations with electrostatic embedding, demonstrated on an enzymatic reaction. The framework combines a JAX port of the pretrained MACE-POLAR-1-M model, an electrostatic embedding scheme compatible with the MACE-POLAR architecture, and integration with JAX-MD and PLUMED-JAX for end-to-end compiled enhanced sampling. The implementation is developed using GPT-6.1-Sol within Codex, with reasoning effort set to high. Using replica exchange umbrella sampling, we calculate the free energy profile of nucleophilic substitution in haloalkane dehalogenase in approximately 200 H100 GPU hours, treating the entire protein and reactants with MACE-POLAR-1-M-JAX and most of the solvent with molecular mechanics.",
+  "authors": [
+   "Venkat Kapil"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "11 pages, 3 figures, 2 tables",
+  "first_author": "Venkat Kapil",
+  "pdf_url": "http://arxiv.org/pdf/2611.02315",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-02",
+  "tags": [
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "GPU infrastructure for ML/MM with electrostatic embedding for enzyme chemistry",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02317": {
+  "abstract": "HfO$_2$ heterostructures with La$_{0.67}$Sr$_{0.33}$MnO$_3$ (LSMO) epitaxial electrodes have attracted interest as ferroelectric systems with electrode-dependent defect chemistry. However, the formation and stability of defects under LSMO-constrained chemical conditions remain poorly understood. In this work, we use density functional theory calculations to systematically investigate oxygen vacancies and La-, Sr-, and Mn-related interstitial and substitutional defects in HfO$_2$ under chemical environments constrained by the LSMO electrode. We find that LSMO stability substantially narrows the accessible O chemical potential range relative to bulk HfO$_2$, altering the predicted defect formation energies. While La and Sr substitutional defects are governed primarily by preferred ionic valence states, oxygen vacancies and Mn substitutional defects exhibit charge states sensitive to the local atomic environment. In addition, defect-complex calculations in orthorhombic HfO$_2$ reveal negative binding energies, indicating favorable defect association. The La- and Mn-related defect complexes exhibit thermodynamic competition, with their relative stability depending on the Fermi level and oxygen chemical potential. Lastly, extending the analysis to Hf$_{0.5}$Zr$_{0.5}$O$_2$ and ZrO$_2$ reveals common oxygen-vacancy trends, while the stability of LSMO-derived defects depends more strongly on the host material and crystal phase. These results provide a thermodynamic basis for understanding how electrode-constrained chemical environments and host structures influence defect formation, charge compensation, and defect-complex stability in HfO$_2$-based materials.",
+  "authors": [
+   "Sehyeok Jeon",
+   "Aloysius Soon",
+   "Yongjin Shin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Sehyeok Jeon",
+  "pdf_url": "http://arxiv.org/pdf/2611.02317",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-02",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02379": {
+  "abstract": "On a uniform grid with equal weights, Fourier modes that remain distinct on the grid are exactly orthogonal. When the nodes are perturbed, density compensation readjusts the weights. We ask how much of the resulting error reweighting can remove, measuring it by the Frobenius norm of the Gram defect, whose square is proportional to the mean-square error of density-compensated adjoint reconstruction. The answer is governed by aliasing. The grid cannot distinguish certain frequency differences, so a weight correction must treat each such alias class as a single number, while a node displacement affects every frequency difference in the class separately. To first order, reweighting removes the class average but not the spread. The irreducible error is a sum of covariance matrices, one for each class of colliding frequency differences. If no differences collide, every small node perturbation can be repaired exactly with positive weights. With collisions, a repair that works to first order can fail at second order. At the two-dimensional DFT, row and column shears are each exactly repairable, but their combination is not, and we compute the obstruction. In one dimension, oversampling protects a band of low-frequency node motions, and under random jitter optimal reweighting asymptotically removes a fraction $1-κ^2(2-κ)^2$ of the expected squared first-order error at oversampling ratio $κ\\in[1,2]$. At critical sampling, node and weight perturbations are orthogonal: no reweighting helps, Voronoi weights can never reduce the error, and for the one-dimensional DFT the remaining error is a log-Vandermonde energy with the circular $H^{1/2}$ energy as its continuum limit.",
+  "authors": [
+   "Erli Wind-Andersen"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": "30 pages, 4 figures. Code reproducing all results: https://github.com/circlespie/alias-geometry-fourier-sampling",
+  "first_author": "Erli Wind-Andersen",
+  "pdf_url": "http://arxiv.org/pdf/2611.02379",
+  "primary_category": "math.NA",
+  "published": "2026-11-02",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Alias Geometry and Density Compensation in Perturbed Fourier Sampling",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02403": {
+  "abstract": "We develop a machine-learned neuroevolution potential (NEP) for the Mo-S-Al-O system, targeting MoS$_2$ heteroepitaxy on c-plane sapphire, $α$-Al$_2$O$_3$(0001). The potential is trained on 63,611 PBE+D3 structures distilled from about 1.1 million curated density-functional-theory (DFT) configurations, using an energy-difference loss function that directly targets interfacial and orientation-dependent energies. On held-out data, the energy and force errors are 29 meV/atom and 0.23 eV/$\\mathring{A}$. Validated against DFT on a suite of physical properties, the NEP reproduces the lattice constants within 0.3 %, the elastic constants within 17 %, the phonon dispersions with mean deviations below 2.5%, and the surface energies within 1.3 %. At the MoS$_2$/sapphire interface, it reproduces the adhesion energy minimum within 0.8 %, the interfacial energy within 2.2 % and the most stable orientation of the monolayer. It preserves the DFT-predicted energetic ordering of edges, point defects (Spearman $ρ$ = 0.995) and mirror-twin boundaries ($ρ$ = 1.0), and reproduces tilt grain-boundary energies within 8 % ($ρ$ = 0.98) and stacking-fault energy barriers within 14 %. The resulting potential enables future studies of the atomic-scale mechanisms of defect formation in two-dimensional heteroepitaxy.",
+  "authors": [
+   "Emir Bilgili",
+   "Nicholas Taormina",
+   "Simon R. Phillpot",
+   "Youping Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "29 pages, 9 figures, 4 tables; supplementary material (starts on pg. 30): 38 pages, 23 figures, 11 tables",
+  "first_author": "Emir Bilgili",
+  "pdf_url": "http://arxiv.org/pdf/2611.02403",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-02",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Machine-Learned Interatomic Potential for the Mo-S-Al-O System",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02571": {
+  "abstract": "More databases can make a materials campaign worse. Through an organizational lens, we trace each source's contribution. One band-gap campaign ranks seven anion families from archived measured gaps, one vote per source. In the first half of its budget, all seven pooled rank worse (rank agreement 0.737; 1 = measured order) than the best pool of three (0.851). As a stability check, choosing the pool on half the runs and testing on the rest kept the gap. Splitting Materials Project afterwards points to its transition-metal oxides and fluorides. Two databases from one pipeline add nothing over one, but pooling gives their shared ordering two votes. New calculations repay their cost early only when two or three campaigns reuse them. Flat language-model agent teams trailed a random-pick baseline (mean 0.876, sd 0.096, 20 searches). An adaptive Al-Mg-Si team, mostly interatomic potentials, was scored on unseen HSE06 calculations. In its first quarter of compute it found 49% of the ten lowest-formation-energy compounds, against at most 40% for fixed teams and 73% for MACE-MP-0 alone. Merging members whose orderings agreed carried most of its gain. This suggests pooling a few sources that fit the measurements, counting each pipeline once and charging for computation.",
+  "authors": [
+   "Kinston Ackölf",
+   "Taylor D. Sparks"
+  ],
+  "categories": [
+   "cs.MA",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "75 pages including Supporting Information. Code and data: https://doi.org/10.5281/zenodo.23413476",
+  "first_author": "Kinston Ackölf",
+  "pdf_url": "http://arxiv.org/pdf/2611.02571",
+  "primary_category": "cs.MA",
+  "published": "2026-11-02",
+  "tags": [
+   "mace"
+  ],
+  "title": "Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02617": {
+  "abstract": "Amorphous solid electrolytes often outperform their crystalline counterparts, but how disorder shapes ionic transport under strong electric fields is poorly understood. We use molecular dynamics with a machine-learned interatomic potential and a machine-learned Born-effective-charge model to measure Li mobility in amorphous Li$_3$PO$_4$ and in a crystal with Li vacancies, from the linear to the strongly nonlinear regime. The amorphous phase shows a much stronger field enhancement, and we trace this to a collective dipole effect. The migrating ion carries the same charge in both phases. Alone it would not make the amorphous phase respond more strongly. What makes the difference is the environment. In the amorphous network the surrounding atoms move with the hop. Their motion makes the work the field performs vary widely between hops. Since hopping rates grow exponentially with the work, the most strongly assisted hops can dominate the drift. Disorder thus enhances field-driven transport through the environment rather than the carrier itself, a mechanism that may operate in disordered ion conductors in general.",
+  "authors": [
+   "Haruka Doyu",
+   "Anh Khoa Augustin Lu",
+   "Satoshi Watanabe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 pages, 4 figures, and 13 pages of Supplemental Material",
+  "first_author": "Haruka Doyu",
+  "pdf_url": "http://arxiv.org/pdf/2611.02617",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-02",
+  "tags": [
+   "ion-transport",
+   "mlip",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Collective dipole effects amplify field-driven ion transport in amorphous Li$_3$PO$_4$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02796": {
+  "abstract": "Rare-earth nickelates are among the most active oxide electrocatalysts for the oxygen evolution reaction (OER), owing to their tunable Ni-O covalency, near-unity eg occupancy, and sensitivity to A-site chemistry, oxygen stoichiometry, and epitaxial strain. Here, we use epitaxial A-site high-entropy (La0.2Pr0.2Nd0.2Sm0.2Eu0.2)NiO3 thin films to reveal how epitaxial strain influences defect formation, Ni valence, electronic structure, and OER activity in a chemically disordered rare-earth (RE) sublattice. Tensile strain promotes Ruddlesden-Popper fault formation, interrupts the corner-sharing NiO6 network, and lowers the average Ni oxidation state. Although the occupied density of states near the Fermi level remains largely unchanged, O K-edge X-ray absorption spectroscopy reveals increased low-energy unoccupied states under tensile strain. First-principles calculations suggest that tensile strain shifts RE 4f-derived states toward the Fermi level, enhancing RE 4f-O 2p-Ni 3d hybridization. These coupled structural and electronic changes lead to earlier OER onset, stronger pre-catalytic Ni redox features, and higher activity than compressively strained films and representative single-A-site nickelates. The high-entropy nickelate also shows enhanced resistance to OER-induced structural degradation compared with LaNiO3. These results suggest that A-site configurational disorder and epitaxial strain can jointly tune defect formation and rare-earth-derived electronic states, providing a route for improving perovskite oxide electrocatalysts.",
+  "authors": [
+   "Min-Ju Choi",
+   "Le Wang",
+   "Krishna Prasad Koirala",
+   "Hyoju Park",
+   "Mark E. Bowden",
+   "Elizabeth Helen Krenkel",
+   "Aiping Chen",
+   "Jueli Shi",
+   "Conan Weiland",
+   "Iradwikanari Waluyo",
+   "Adrian Hunt",
+   "Peter V. Sushko",
+   "Yingge Du"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Min-Ju Choi",
+  "pdf_url": "http://arxiv.org/pdf/2611.02796",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-02",
+  "tags": [
+   "ab-initio",
+   "electrocatalysis",
+   "oxygen-evolution"
+  ],
+  "title": "High-Entropy A-Site Disorder Enhances Oxygen Evolution Reaction Activity and Stability in Nickelate Thin Films",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02924": {
+  "abstract": "An early period of cometary bombardment has long been speculated to provide an important source of prebiotic feedstock molecules, required for the origins of life on Earth. In support of this interpretation, comets boast a rich diversity of volatile organic molecules, with many thought to be limiting for prebiotic chemistry. Modelling studies suggest, however, that a significant proportion of these molecules will be destroyed during hypervelocity impact. Here, we revisit the ability of comets to deliver prebiotic feedstock molecules in the high concentrations required for prebiotic chemistry, leveraging recent advances in cometary impact simulations, comet-atmosphere interactions, and dynamical modelling of short-period comets' origin and evolution. Taken together, the rapid decline in Earth's cometary impact bombardment and the efficient destruction of fragile cometary organics indicate that the successful delivery of prebiotic feedstock molecules was an exceedingly rare event. Our results therefore challenge the long-held assumption that cometary impacts played an important role in the origins of life on Earth.",
+  "authors": [
+   "Richard J. Anslow",
+   "Catriona H. McDonald",
+   "Amy Bonsor",
+   "Paul B. Rimmer",
+   "Auriol S. P. Rae"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": null,
+  "first_author": "Richard J. Anslow",
+  "pdf_url": "http://arxiv.org/pdf/2611.02924",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-11-02",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Cometary impacts an unlikely pathway towards the origins of life on Earth",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.02945": {
+  "abstract": "Conductive metal-organic frameworks (MOFs) are commonly constructed from planar aromatic ligands, whose geometries favor conventional π-stacking arrangements. However, intrinsically twisted ligands offer an alternative geometric approach to directing aromatic packing and constructing unconventional framework architectures. Here, we employ intrinsically twisted, butterfly-shaped dibenzo[g,p]chrysene-2,3,6,7,10,11,14,15-octaol (DBC) ligands to construct a series of lanthanide MOFs. Single-crystal X-ray diffraction reveals an interpenetrated three-dimensional framework in which π-π interactions between the aromatic fragments generate axially extended tubular π-stacked pathways, alongside one-dimensional channels rich in hydrogen-bonding sites. Lanthanide substitution preserves the overall tubular framework topology while modulating aromatic stacking distances and local pore environments. PrDBC single crystals exhibit mixed electron-proton transport, with electron and proton conductivities reaching 1.62 x 10-3 and 4.37 x 10-4 S cm-1, respectively, at 338 K and 30% relative humidity. This work highlights molecular curvature as a structural design strategy for constructing three-dimensional conductive MOFs that integrate tubular aromatic stacks with tunable pore environments for mixed electron-proton transport.",
+  "authors": [
+   "Weishan Li",
+   "Jia-Xiang Zhang",
+   "Tongyang Zhao",
+   "Hao Chen",
+   "Tianyang Chen",
+   "Ze-Fan Yao",
+   "Jin-Hu Dou"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Weishan Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.02945",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-02",
+  "tags": [
+   "proton-transport"
+  ],
+  "title": "Molecular Curvature Enables Tubular π-Stacked Pathways in Three-Dimensional Conductive Metal-Organic Frameworks",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03126": {
+  "abstract": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated experiences, limiting ability expansion and yielding diminishing returns. To address these challenges, we introduce CUA-Master, a nested double-loop recursive improvement framework. At the system level, an outer world-data-model flywheel continuously incorporates open-world corpus and leverages evolving model weaknesses to guide subsequent data construction and optimization iterations. At the data level, an inner flywheel couples open-world seeding and autocatalytic propagation. The former mines authentic workflows as seed tasks from instructional videos, and employs visual-semantic dual-path trajectory reconstruction; The latter transforms these seeds into reusable primitives for controllable synthesis of diverse, complex, and verifiable tasks. To enable efficient and reliable trajectory collection, we further introduce a feedback-guided snapshot-rollback retry mechanism in various real environments. Extensive experiments demonstrate that CUA-Master-27B achieves competitive performance across GUI-only and GUI-CLI hybrid benchmarks, scoring 80.2 on OSWorld Verified, 36.9 on OSWorld 2.0, 43.9 on WeaveBench, and 25.0 on Agents' Last Exam. Our framework also substantially improves the quality and efficiency of data synthesis, and exhibits continuous gains across recursive iterations.",
+  "authors": [
+   "Xinlei Yu",
+   "Gen Li",
+   "Ji Zhao",
+   "Zhangquan Chen",
+   "Congcong Wang",
+   "Shuai Dong",
+   "Zelin Peng",
+   "Yuqi Xu",
+   "Hongrui Wu",
+   "Kaiwen Tuo",
+   "Cheng Yang",
+   "Kaituo Feng",
+   "Yifan Wu",
+   "Jiayi Zhang",
+   "Dongming Wu",
+   "Wenqi Shao",
+   "Jiaqi Wang",
+   "Xiangyu Yue"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Xinlei Yu",
+  "pdf_url": "http://arxiv.org/pdf/2611.03126",
+  "primary_category": "cs.AI",
+  "published": "2026-11-02",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03154": {
+  "abstract": "Machine learning supports materials design, atomistic simulation and experimental characterization, yet models and workflows remain fragmented. We present PaddleMaterials, an open-source framework integrating heterogeneous materials-learning tasks while preserving task-specific representations and scientific semantics. It unifies data processing, training, evaluation, pretrained-model management and workflows across six task classes: property prediction, structure generation, machine-learning interatomic potentials, electronic-structure fields, spectrum elucidation and microscopy image processing. Task interfaces record physical quantities, units, aggregation conventions and references, making cross-task composition verifiable. A shared compiler backend enables switching from dynamic-graph to compiled execution through one setting, using graph optimization, operator fusion and hardware-targeted code generation without changing model definitions. Across 65 model instances in 11 groups, compiled execution accelerated every instance in eight groups, with group median speedups of 11%-224% and group maximum speedups of 11%-336%. Case studies on LiMnO2 and toluene link structure generation or spectrum elucidation, interatomic-potential relaxation, property prediction and electron-density prediction, using same-geometry density functional theory (DFT) calculations as references. For LiMnO2, predicted formation energies for generated and relaxed structures differed from same-geometry PBE+U references by at most 7 meV per atom, while the computational cost of model steps was less than one-twentieth of a DFT single-point calculation. PaddleMaterials extends unified materials workflows beyond conventional property, potential and structure-generation tasks while supporting verifiable cross-task operations and compiled execution.",
+  "authors": [
+   "Xuwei Liu",
+   "Zhimin Zhang",
+   "Xiaoguang Hu",
+   "Zhongwei Liu",
+   "Yuanhui Sun",
+   "Jun Huo",
+   "Hua Wu",
+   "Haifeng Wang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Xuwei Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.03154",
+  "primary_category": "cs.LG",
+  "published": "2026-11-02",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "PaddleMaterials: An End-to-End Deep Learning Toolkit for Materials Science",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03365": {
+  "abstract": "Natural optical activity arises from the spatial dispersion of the optical response and is described by the rank-two gyration pseudotensor. Its dependence on mechanical stress and strain, quantified by the piezogyration and elastogyration tensors, respectively, has been investigated experimentally for decades. However, a systematic first-principles description of these effects remains largely unexplored. Here we present a first-principles methodology to compute the full piezogyration and elastogyration tensors, and apply it to a set of representative ternary chalcopyrite crystals. The gyration of the unstrained crystal turns out to be a poor predictor of the magnitude of the elastogyration response, which we find to be a property inherited from their parent zinc-blende structures. The elastic compliance tensor further shapes the piezogyration response, with particularly pronounced effects in AgGaS$_2$, a well-known achiral yet optically active crystal. Finally, we explore strain-induced chirality through the trace of the gyration tensor, the only pseudoscalar contribution to the natural optical activity that is linear in the tensor components and encodes information about chirality.",
+  "authors": [
+   "Asier Zabalo",
+   "Fernando Gómez-Ortiz",
+   "Aldo H. Romero",
+   "Eric Bousquet"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Asier Zabalo",
+  "pdf_url": "http://arxiv.org/pdf/2611.03365",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-02",
+  "tags": [
+   "ab-initio",
+   "chalcopyrite"
+  ],
+  "title": "Piezogyration and elastogyration in ternary chalcopyrites from first principles",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.03409": {
+  "abstract": "To design platforms for multi-operator mobility markets coordinating their operations or infrastructure to support them, models are needed to understand the behavior of these operators and travelers in a shared network. Assignment games can prove useful, but operationalizing them requires adopting a more generalized aggregate assignment game framework that allows for identification and estimation. We extend such a framework to aggregate network assignment games, proposing a path-based formulation and a PURC-based formulation along with solution algorithms. An inverse optimization model is proposed for the link-based formulation. It is solved by a quadratic program that separates into a buyer block, which retains the node potentials and imposes every observed zero-flow cell, and a seller block. This estimator, introduced in the literature for uncapacitated route choice, is extended here to a capacitated two-sided market, with rationing prices supported on observed binding links and operator supply scales estimated by group. Computational tests with a toy network demonstrate the economic value of these models. A large-scale Long Island Rail Road network example (897 nodes, 671 census tracts, 123 LIRR stations, 8,320 directed links) is calibrated to 2026 fares, timetabled seat supply and National Transit Database operating costs. With 10-50% of links sampled, the misspecified inverse model fits oracle link flows with R^2>=96%. Held-out link error falls from 29% to 19%, correlations with the true rationing prices rise from 49% to 75%, and social optimal gross surplus is recovered within 6%. Deadweight loss is overestimated by 10-17%. Ablation tests show that ignoring the inactive cells more than doubles the held-out error and, at 30-50% sampling, roughly halves the correlation of the pricing wedge, while ignoring the rationing prices degrades every metric.",
+  "authors": [
+   "Joseph Y. J. Chow"
+  ],
+  "categories": [
+   "cs.GT",
+   "econ.TH"
+  ],
+  "comment": null,
+  "first_author": "Joseph Y. J. Chow",
+  "pdf_url": "http://arxiv.org/pdf/2611.03409",
+  "primary_category": "cs.GT",
+  "published": "2026-11-02",
+  "tags": [
+   "flow-cells"
+  ],
+  "title": "On inverse aggregate network assignment games",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-02"
+ }
+}

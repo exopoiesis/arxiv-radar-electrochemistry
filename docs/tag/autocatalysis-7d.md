@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35391.html">Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven Agents</a></div></td>
-<td>Erdal Aydin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35391">2610.35391</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03126.html">CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements</a></div></td>
+<td>Xinlei Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03126">2611.03126</a></td>
 </tr>
 </tbody></table>

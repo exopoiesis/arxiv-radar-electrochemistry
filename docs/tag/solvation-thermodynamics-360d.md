@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>solvation-thermodynamics — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="solvation-thermodynamics-7d.html">7d</a> <a href="solvation-thermodynamics-30d.html">30d</a> <a href="solvation-thermodynamics-90d.html">90d</a> <strong>360d</strong> <a href="solvation-thermodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div></td>
+<td>Regina Qianru Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30094.html">Stockmayer Fluid with a Shifted Dipole. III. Ion Solvation</a></div><div class="paper-tags"><a href="ion-pairing-360d.html">ion-pairing</a> · <a href="ion-water-interactions-360d.html">ion-water-interactions</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
