@@ -446,5 +446,201 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-11-02"
+ },
+ "2611.03822": {
+  "abstract": "Strong electron correlations and topology offer complementary routes to controlling electrical conduction, as correlations can make electrons heavy (e.g. Kondo lattices) whereas topology can make them behave as massless particles (e.g. Dirac or Weyl systems), and having both in one material is rare. In Kondo lattice systems, Kondo hybridization between localized 4$f$ and conduction electrons strongly enhances the quasiparticle mass, where in Weyl-Kondo systems these Kondo-renormalized bands form Weyl states, and simultaneous signs of both Kondo and Weyl states in one material have not been observed in transport. Here we report signs of both in the kagome metal \\ce{Yb_yCo3Ge_{3-x}Sn_x} by combining magnetotransport, heat capacity, magnetization, angle-resolved and X-ray photoemission spectroscopy, and DFT+U calculations to reveal Yb-dependent Kondo scattering developing into lattice coherence, with extrapolated Sommerfeld coefficient of approximately 2 ~Jmol$_{\\mathrm{Yb}}^{-1}$K$^{-2}$. Transverse magnetoresistance (MR) follows single-ion Kondo scaling, whereas longitudinal transport contains an additional negative response proportional to B$^2$ and remains unsaturated up to 32 T, consistent with a chiral anomaly. These findings support a picture of Kondo and Weyl-like conduction arising from distinct electronic states without external Fermi-level tuning, suggesting a possible route to combining correlated and topological functionality in a bulk material.",
+  "authors": [
+   "M. P. Dubbelman",
+   "R. Meduri",
+   "T. M. Kyrk",
+   "Z. Cheng",
+   "P. Maderson",
+   "D. Pizzirani",
+   "A. Das",
+   "V. N. Vreede",
+   "X. Liu",
+   "N. Witt",
+   "S. Grytsiuk",
+   "C. M. Polley",
+   "M. Rösner",
+   "A. Grubišić-Čabo",
+   "S. Bhattacharyya",
+   "R. E. Baumbach",
+   "M. E. Kamminga",
+   "S. Wiedmann",
+   "J. Y. Chan",
+   "M. N. Ali"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 4 figures",
+  "first_author": "M. P. Dubbelman",
+  "pdf_url": "http://arxiv.org/pdf/2611.03822",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-11-02",
+  "tags": [
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Coexisting Kondo and Weyl-like transport in kagome heavy-fermion metal, Yb$_y$Co$_3$G$e_{3-x}$Sn$_x$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.04121": {
+  "abstract": "Carbonic acid (H2CO3) is connected with the dissolved CO2 and bicarbonate (HCO3-) equilibria in aqueous solutions. Its two elementary reactions in water, acid dissociation and dehydration to CO2, are difficult to resolve because both are coupled to proton transfer through hydrogen-bonded networks. In this work, we combine 0.5 ns of unbiased PBE-D3 molecular dynamics of 1 molar solution of H2CO3 with metadynamics on the O - H coordination (H2CO3 = HCO3- + H+) and the C - O distance of the leaving hydroxyl (H2CO3 <=> CO2 + H2O). These unbiased trajectories show frequent cis-cis <=> cis-trans interconversion through long-lived bicarbonate (well separated from solvated proton, H3O+, and also mediated by a short-lived three-water [H2O...H3O+...H2O] ring that acts as a solvent-shared ion pair (SSIP); only 16-23% of deprotonation events reach a solvent-separated ion pair (SShIP). Resolving ion-pairs as SSIP for proper reaction leads to an improved estimate of pKa1 from 1.1 to 2.4, toward the experimental 3.45-3.59 (measured at supposedly infinite dilution). Further, metadynamics simulations provide a dehydration barrier of 17.8 (1D) and 15.3 kcal/mol (2D), suggesting that the final product CO2 + H2O is 2.8 kcal/mol below H2CO3. Our two-dimensional free energy surface also shows that C--O cleavage proceeds through the CO2 + OH- which further goes down by 9.9 kcal/mol to product CO2 + H2O.",
+  "authors": [
+   "Prabhat Prakash",
+   "Karnamohit Ranka",
+   "Frances A. Houle",
+   "William A. Goddard"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Prabhat Prakash",
+  "pdf_url": "http://arxiv.org/pdf/2611.04121",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-03",
+  "tags": [
+   "grotthuss",
+   "ion-pairing",
+   "molecular-dynamics"
+  ],
+  "title": "Bicarbonate/carbonic acid equilibria in aqueous solutions: Conformational Dynamics, Ion-Pair Speciation, and Free Energy Landscapes from Ab Initio Molecular Dynamics and Metadynamics",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04558": {
+  "abstract": "Proton transfer is responsible for the anomalous high conductivity in acidic or basic aqueous solutions. Yet, the contribution of the proton transfer mechanism to the conductivity of concentrated aqueous solutions is unknown. In this work, we compute the transport properties of KOH(aq) systems with different concentrations, using Molecular Dynamics simulations with a Machine Learning Interatomic Potential (MLIP), which includes proton transfer. We quantify the contribution of the proton transfer mechanism to the diffusivities of hydroxide ions and water molecules, and the ionic conductivity and transport numbers of the electrolytes. The contribution is substantial at lower concentrations, but diminishes at very high concentrations.",
+  "authors": [
+   "Øystein Gullbrekken",
+   "Sondre Kvalvåg Schnell"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Øystein Gullbrekken",
+  "pdf_url": "http://arxiv.org/pdf/2611.04558",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-03",
+  "tags": [
+   "grotthuss",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes",
+  "topics": [
+   "Aqueous Chemistry and Solvation",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04652": {
+  "abstract": "Intrinsic electron localization in amorphous silica (a-SiO2) contributes to charge trapping and defect generation in silica-based electronic materials - a phenomenon that degrades logic-device performance but can be exploited for memory applications. However, the structural distribution of one- and two-electron traps remains incompletely characterized, largely because the disordered covalent network of a-SiO2 spans a vast configurational space. To address this, we perform statistical sampling to select a representative 200-model subset of defect-free bulk a-SiO2 structures from a structurally converged parent set of 2512 models, generated via classical melt-quench molecular dynamics simulations. We then characterize the intrinsic one- and two-electron traps in this subset using HSE06 density functional theory calculations. Analysis of neutral precursor sites shows that trapping propensity is not determined by a universal O-Si-O angle or Si-O bond length; it is controlled by the accessibility of the relaxed trap geometry, requiring both local strain and medium-range network flexibility. Single electrons predominantly form edge-centred polarons on distorted SiO4 tetrahedra, with occupied states 3.1-4.3 eV below the conduction band minimum. Injection of a second electron drives stronger lattice relaxation, most commonly Si-O bond elongation leading to rupture, thereby forming threefold-coordinated-Si (Si3) bipolarons and, in some cases, Si-Si-bonded bipolaron configurations. The calculated bipolaron energy ranges are consistent with optical absorption features at 3.7, 4.7, and 6.4 eV associated with intrinsic electron localization.",
+  "authors": [
+   "Robin Delhomme",
+   "Jonathon Cottom",
+   "Emilia Olsson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Robin Delhomme",
+  "pdf_url": "http://arxiv.org/pdf/2611.04652",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-03",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Statistically Robust Characterization of Polaron and Bipolaron Intrinsic Traps in Amorphous Silica Reveals the Role of Network Flexibility in Electron Localisation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04718": {
+  "abstract": "We develop a numerical framework to efficiently simulate the cyclic voltammetry models based on discontinuous Galerkin (DG) spatial discretization combined with linearly implicit Euler time integration. The method is applied to two electrochemical mechanisms: a heterogeneous electron-transfer (ET) reaction and an electron-transfer reaction coupled with a catalytic chemical step (EC'). The governing time-dependent reaction-diffusion equations are expressed in dimensionless form and discretized in space using locally defined orthonormal Legendre polynomial basis functions. This discretization leads to a system of ordinary differential equations that is subsequently advanced in time using the linearly implicit Euler method. The resulting solver, denoted $\\text{DG}_{\\text{Impl}}$, is evaluated through numerical experiments and compared with MATLAB's $pdepe$ solver in terms of accuracy and computational efficiency. The numerical results demonstrate the convergence of $\\text{DG}_{\\text{Impl}}$ with respect to spatial and temporal discretizations and show that the method accurately reproduces the voltammetric responses of both ET and EC' mechanisms. For a prescribed relative error, $\\text{DG}_{\\text{Impl}}$ requires less computational time than $pdepe$ in the numerical experiments considered. These results demonstrate the effectiveness of the proposed DG formulation for the forward simulation of cyclic voltammetry models and provide a numerical foundation for subsequent adjoint-based parameter-estimation and inverse-problem formulations.",
+  "authors": [
+   "Assionvi Hove Kouevi",
+   "Debora Campos de Faria",
+   "Can Evren Yarman",
+   "Gabriel J. Lord"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Assionvi Hove Kouevi",
+  "pdf_url": "http://arxiv.org/pdf/2611.04718",
+  "primary_category": "math.NA",
+  "published": "2026-11-03",
+  "tags": [],
+  "title": "A Discontinuous Galerkin Framework for Efficient Simulation of Cyclic Voltammetry Models",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.04918": {
+  "abstract": "Multiple-input multiple-output (MIMO) systems rely on spatial degrees of freedom, but fixed antenna geometries cannot adapt to propagation environments. Movable antenna (MA) systems address this by adapting antenna positions to the channel. In discrete MA architectures, active antennas are selected from candidate positions, requiring channel state information (CSI) at those positions. With limited radio-frequency (RF) chains, CSI is acquired through successive pilot rounds, or antenna scanning, whose overhead can offset reconfiguration gains. This paper studies discrete MA geometry optimization when only a fraction of candidate positions is scanned. We show that a geometry-aware (GA) steering-vector codebook, constructed from the actual antenna coordinates, reconstructs channels more accurately than a conventional discrete Fourier transform (DFT) codebook when the optimized array departs from a uniform grid. We then show that the scanning fraction required to approach full-scan sum-rate performance depends on the CSI acquisition method: least-squares (LS) estimation degrades sharply under sparse scanning, while codebook-based acquisition remains robust. We also propose an adaptive scanning procedure that probes candidates in batches and stops automatically using the acquired pilots, avoiding a preset scanning budget. Finally, we quantify sum-rate losses as users move from their initial positions and evaluate recovery through re-scanning and geometry re-selection, relative to fixed-aperture operation with outdated or fresh CSI. Numerical results show that adaptive scanning achieves about 99.5% of the full-scan sum rate while scanning only 11% of candidate positions.",
+  "authors": [
+   "Amna Irshad",
+   "Luca Antonelli",
+   "Vitaly Petrov",
+   "Luca Sanguinetti",
+   "Emil Bjornson"
+  ],
+  "categories": [
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Amna Irshad",
+  "pdf_url": "http://arxiv.org/pdf/2611.04918",
+  "primary_category": "eess.SP",
+  "published": "2026-11-03",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Joint Channel Scanning and Geometry-Aware Codebook Design for Movable Antenna Arrays",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05339": {
+  "abstract": "Pauling's electrostatic valence rule assigns to each bond of a cation of charge $z$ with $n$ anion neighbors the strength $z/n$. Bond-valence theory replaces the equal split of valence among bonds by $s=\\exp[(R_0-d)/B]$ in the bond length $d$ and takes the sum rule, that the valences at each atom add to its formal charge, as its first axiom. Here the bond valence is defined in the electron density. Atomic basins of a first-principles density are bounded by faces, one per bond critical point, and the electric flux of that density through a face is a charge associated with the bond. The fluxes leaving a cation sum to its basin charge by Gauss's law, so on this surface the sum rule is a theorem. Across 3680 oxides, halides, chalcogenides and pnictides the flux follows the bond-valence law site by site, with a median deviation of ten percent. The softness $B$ varies nearly an order of magnitude from stiff sulfides to softer arsenides. In all cases it is set by the electrostatic flux at atomic basin faces. $R_0$ then follows from the bond lengths and their differences. Anion valences equal those of bonded cations to within 5\\% for most of the oxide, fluoride, sulfide and nitride sites. Transferability of $(R_0,B)$ between compounds fails in 96 of 106 families, suggesting that the softness is a local site property defined by the basin charge rather than a transferable constant of a given cation--anion pair. Eliminating $B$ by the sum rule gives $s=(z/n)^{(R_0-d)/(R_0-d_B)}$, Pauling's strength raised to a distance exponent at the softness-weighted mean bond length $d_B$. Thus, bond-valence theory is Pauling's rule with a distance exponent, and the electron density supplies the surface on which the two are equivalent.",
+  "authors": [
+   "M. L. Whittaker"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "M. L. Whittaker",
+  "pdf_url": "http://arxiv.org/pdf/2611.05339",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-03",
+  "tags": [
+   "ab-initio",
+   "chalcogenides"
+  ],
+  "title": "Bond-valence theory is a general electrostatic valence rule",
+  "topics": [
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-03"
  }
 }
