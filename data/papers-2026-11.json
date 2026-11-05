@@ -642,5 +642,121 @@
    "Sulfidation, Phase Stability, and Corrosion"
   ],
   "updated": "2026-11-03"
+ },
+ "2611.05654": {
+  "abstract": "First-principles defect calculations can now be performed autonomously by AI agents, enabled by established computational methods and open-source Python toolkits. However, reliable and repeatable defect calculations require clear scientific and technical guidance that helps agents resolve ambiguities and avoid errors in calculation setup, execution, postprocessing, and analysis. Here, we present DefectSkills, a set of structured prompts that provides human-in-the-loop guidance to AI agents performing first-principles calculations of point defects in semiconductors and insulators using the Vienna Ab initio Simulation Package (VASP). The prompts encode human expertise and guide agents through unit-cell relaxation, electronic-structure and dielectric calculations, phase-stability and chemical-potential analysis, charged-defect supercell generation and calculations, finite-size corrections, formation-energy calculations and thermodynamic analysis, and data backup. By packaging this expertise as reusable agent skills, DefectSkills supports consistent workflow execution across agentic AI systems and reproducible defect calculations.",
+  "authors": [
+   "Zhenkun Yuan",
+   "Yizhi Zhu",
+   "Geoffroy Hautier"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhenkun Yuan",
+  "pdf_url": "http://arxiv.org/pdf/2611.05654",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-03",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-03"
+ },
+ "2611.05946": {
+  "abstract": "The rapid growth of machine-learning interatomic potentials (MLIP), particularly the foundational models for materials chemistry, such as MACE, has significantly strengthened our capabilities in studying the complex dynamics of materials through statistical sampling. Here, by performing molecular dynamics with a fine-tuned MACE model, that are further combined with essential dynamics analysis, a tool that is commonly applied in (bio)molecular simulations, we examine the temperature-dependent ion dynamics in a prototypical inorganic solid superionic conductor, namely argyrodite Li$_{6}$PS$_{5}$Cl. Our analyses show clear localised phonon-like dynamics for Li$^+$ ions below 500 K with trajectories lying in a low-dimensional manifold that is highly nonlinear, which is opposite to the case in the high-temperature ($\\sim$800 K) end. Between 500-700 K, the system exhibit strong competition in the dynamics between the Li$^+$ and framework ions, that are reflected in both the eigenspectrum and the projected low-dimensional embeddings characterising these dynamics not showing a simple monotonic dependency upon rising temperatures, and is further supported by investigations employing Langevin dynamics that systematically examine how damping the framework motions affects the dynamics of the Li$^+$ ions, thanks to the computational efficiency provided by MLIP. This work thus contributes towards the broader theoretical and data-driven framework for studying the lattice dynamics of solids.",
+  "authors": [
+   "Jack Yang",
+   "Lei Ao",
+   "Sean Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 11 figures",
+  "first_author": "Jack Yang",
+  "pdf_url": "http://arxiv.org/pdf/2611.05946",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-04",
+  "tags": [
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06033": {
+  "abstract": "Understanding how self-sustaining chemical reaction networks can emerge from simple molecules is an important question in chemical approaches to the origin of life. Reflexively autocatalytic and food-generated (RAF) sets provide a mathematical framework for investigating this question. This line of research goes back to the early work of Kauffman on autocatalytic reaction networks and was subsequently developed through the probabilistic framework of Mossel and Steel. Further contributions by Hordijk, Steel, and collaborators extended the theory to more heterogeneous forms of catalysis, including reaction-dependent probabilities or power-law distributions of catalytic activity. We introduce a stochastic model that combines heterogeneous molecular catalytic activity with reaction-dependent molecule-reaction compatibility. By assigning random catalytic weights to molecules and incorporating compatibility through an explicit formulation of catalysis probabilities, our model provides a concrete and flexible setting that captures both sources of heterogeneity while remaining mathematically tractable.   We establish novel and general criteria for RAF formation and nonformation. We further demonstrate that classical phase-transition criteria need not remain valid in the presence of reaction-dependent catalysis. For heavy-tailed catalytic weights, we identify and rigorously quantify an additional phase transition. In models with finite-mean catalytic weights, RAF formation and nonformation are governed by a catalytic intensity parameter. For infinite-mean weights, however, we show that RAFs may emerge with probability tending to one even when the catalytic intensity parameter tends to zero.",
+  "authors": [
+   "Jinsu Kim",
+   "Ercan Sönmez"
+  ],
+  "categories": [
+   "q-bio.MN",
+   "math.PR"
+  ],
+  "comment": "25 pages",
+  "first_author": "Jinsu Kim",
+  "pdf_url": "http://arxiv.org/pdf/2611.06033",
+  "primary_category": "q-bio.MN",
+  "published": "2026-11-04",
+  "tags": [
+   "autocatalysis",
+   "origin-of-life",
+   "phase-transitions",
+   "reaction-networks"
+  ],
+  "title": "Can a self-sustaining chemical network emerge due to just a few catalysts?",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.06683": {
+  "abstract": "Prompt-gamma (PG) imaging is a promising approach for in vivo verification in proton therapy, but existing methods are primarily limited to reconstructing the PG emission profile, which provides only indirect information on proton transport. In this work, we introduce Prompt-Gamma Time Imaging (PGTI), an iterative reconstruction method based on the PG Timing (PGT) technique that jointly estimates the PG emission distribution and the proton velocity profile from Time-Of-Flight (TOF) measurements acquired with multiple detector modules. Unlike the PG distribution, the proton velocity is directly related to the stopping power and therefore provides access to both the tissue composition traversed by the beam and a first-order estimation of the delivered dose. The method was validated using experimental data acquired with the eight-module TIARA prototype previously developed by our collaboration. The anthropomorphic RANDO head phantom was irradiated with 100 MeV protons in two anatomical configurations representative of treatment planning and delivery, providing the first demonstration of PGTI under realistic conditions. In this example, the reconstructed material sequence agreed with the reference CT; despite ten bins presenting a misclassified material, the reconstructed proton range only differed from the expected value by approximately 1 mm. These results validate both the proposed PGTI framework and the use of the TIARA detector system in a pseudo-clinical environment, extending PG imaging beyond conventional range verification.",
+  "authors": [
+   "Pavel Kavrigin",
+   "Alicia Garnier",
+   "Adélie André",
+   "Chaima Abid",
+   "Yannick Boursier",
+   "Mathieu Dupont",
+   "Giuseppe Fanciulli",
+   "Laurent Gallin Martel",
+   "Marie-Laure Gallin Martel",
+   "Christophe Hoarau",
+   "Christian Morel",
+   "Jean-François Muraz",
+   "Maxime Pinson",
+   "Dimitrios Psarras",
+   "Nicola Toschi",
+   "Daniel Maneval",
+   "Sara Marcatili"
+  ],
+  "categories": [
+   "physics.med-ph"
+  ],
+  "comment": null,
+  "first_author": "Pavel Kavrigin",
+  "pdf_url": "http://arxiv.org/pdf/2611.06683",
+  "primary_category": "physics.med-ph",
+  "published": "2026-11-04",
+  "tags": [
+   "proton-transport"
+  ],
+  "title": "Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-04"
  }
 }

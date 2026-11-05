@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.05339">2611.05339</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05654.html">DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators</a></div></td>
+<td>Zhenkun Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05654">2611.05654</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02796.html">High-Entropy A-Site Disorder Enhances Oxygen Evolution Reaction Activity and Stability in Nickelate Thin Films</a></div><div class="paper-tags"><a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
 <td>Min-Ju Choi et al.</td>
@@ -230,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Miroslav Lebeda et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Tanjuma Shikder Jhumu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
 </tr>
 </tbody></table>

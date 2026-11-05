@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mace — all</h1>
-  <span class="paper-count">249 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jack Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05946">2611.05946</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02315.html">GPU infrastructure for ML/MM with electrostatic embedding for enzyme chemistry</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

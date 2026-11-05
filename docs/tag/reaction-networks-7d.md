@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38236.html">Generative discovery of chemical reaction networks</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Yunhong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38236">2610.38236</a></td>
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="autocatalysis-7d.html">autocatalysis</a> · <a href="origin-of-life-7d.html">origin-of-life</a> · <a href="phase-transitions-7d.html">phase-transitions</a></div></td>
+<td>Jinsu Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06033">2611.06033</a></td>
 </tr>
 </tbody></table>

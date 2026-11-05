@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2611.05339">2611.05339</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05654.html">DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators</a></div></td>
+<td>Zhenkun Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05654">2611.05654</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02796.html">High-Entropy A-Site Disorder Enhances Oxygen Evolution Reaction Activity and Stability in Nickelate Thin Films</a></div><div class="paper-tags"><a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="oxygen-evolution-7d.html">oxygen-evolution</a></div></td>
 <td>Min-Ju Choi et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40338.html">Differentiable Electronic Grand Canonical Learning for Electrochemistry</a></div><div class="paper-tags"><a href="aimd-7d.html">aimd</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="electrochemical-interfaces-7d.html">electrochemical-interfaces</a> · <a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Phillip E. Pope et al.</td>
 <td><a href="http://arxiv.org/abs/2610.40338">2610.40338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38937.html">Development and application of a machine learning potential for diamond surfaces and their sliding interfaces with silicon nitride and silica: effect of passivation, orientation and load</a></div><div class="paper-tags"><a href="corrosion-7d.html">corrosion</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Enrico Pedretti et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38937">2610.38937</a></td>
 </tr>
 </tbody></table>

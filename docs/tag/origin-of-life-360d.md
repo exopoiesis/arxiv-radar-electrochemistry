@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a> · <a href="phase-transitions-360d.html">phase-transitions</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
+<td>Jinsu Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06033">2611.06033</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02924.html">Cometary impacts an unlikely pathway towards the origins of life on Earth</a></div></td>
 <td>Richard J. Anslow et al.</td>
@@ -446,11 +452,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09636.html">Prebiotic Chemistry Insights for Dragonfly: Thermodynamics of Amino Acid Synthesis in Selk Crater on Titan</a></div></td>
 <td>Ishaan Madan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09636">2511.09636</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08624.html">Abiogenesis on Different Star Types; a Dissipative Photochemical Perspective</a></div></td>
-<td>Andrés Ledesma et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08624">2511.08624</a></td>
 </tr>
 </tbody></table>

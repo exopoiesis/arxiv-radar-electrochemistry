@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="autocatalysis-90d.html">autocatalysis</a> · <a href="origin-of-life-90d.html">origin-of-life</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
+<td>Jinsu Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06033">2611.06033</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01830.html">Temperature-Dependent Raman Signatures of Local Symmetry Breaking in Vacancy Double Perovskite Cs$_2$SnI$_6$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Jack Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05946">2611.05946</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04121.html">Bicarbonate/carbonic acid equilibria in aqueous solutions: Conformational Dynamics, Ion-Pair Speciation, and Free Energy Landscapes from Ab Initio Molecular Dynamics and Metadynamics</a></div><div class="paper-tags"><a href="grotthuss-90d.html">grotthuss</a> · <a href="ion-pairing-90d.html">ion-pairing</a></div></td>
 <td>Prabhat Prakash et al.</td>
@@ -830,11 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07081.html">Local lattice dynamics of hcp zinc from EXAFS and machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Vitalijs Dimitrijevs et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07081">2608.07081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05603.html">Interface Engineering of Helium Confinement in Argon-Preplated MCM-41 Nanopores</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
-<td>Rahul Soni et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05603">2608.05603</a></td>
 </tr>
 </tbody></table>

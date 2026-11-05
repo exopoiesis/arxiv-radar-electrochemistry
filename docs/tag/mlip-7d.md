@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jack Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05946">2611.05946</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04558.html">Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="grotthuss-7d.html">grotthuss</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -32,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39513.html">Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Ishan Amin et al.</td>
 <td><a href="http://arxiv.org/abs/2610.39513">2610.39513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38236.html">Generative discovery of chemical reaction networks</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Yunhong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38236">2610.38236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38937.html">Development and application of a machine learning potential for diamond surfaces and their sliding interfaces with silicon nitride and silica: effect of passivation, orientation and load</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="corrosion-7d.html">corrosion</a></div></td>
-<td>Enrico Pedretti et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38937">2610.38937</a></td>
 </tr>
 </tbody></table>

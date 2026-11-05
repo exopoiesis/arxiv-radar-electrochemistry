@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-11-04._
+_Updated 2026-11-05._
 
-**3543** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3547** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,24 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jack Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05946">2611.05946</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a> · <a href="tag/origin-of-life-30d.html">origin-of-life</a> · <a href="tag/phase-transitions-30d.html">phase-transitions</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Jinsu Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06033">2611.06033</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.06683.html">Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy</a></div><div class="paper-tags"><a href="tag/proton-transport-30d.html">proton-transport</a></div></td>
+<td>Pavel Kavrigin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06683">2611.06683</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04121.html">Bicarbonate/carbonic acid equilibria in aqueous solutions: Conformational Dynamics, Ion-Pair Speciation, and Free Energy Landscapes from Ab Initio Molecular Dynamics and Metadynamics</a></div><div class="paper-tags"><a href="tag/grotthuss-30d.html">grotthuss</a> · <a href="tag/ion-pairing-30d.html">ion-pairing</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -51,6 +69,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05339.html">Bond-valence theory is a general electrostatic valence rule</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chalcogenides-30d.html">chalcogenides</a></div></td>
 <td>M. L. Whittaker</td>
 <td><a href="http://arxiv.org/abs/2611.05339">2611.05339</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05654.html">DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Zhenkun Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05654">2611.05654</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-02</td>
@@ -171,29 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.39687.html">Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jeheon Woo</td>
 <td><a href="http://arxiv.org/abs/2610.39687">2610.39687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.39713.html">I$_4$ complex acting as near-infrared emitter with a quantum memory in silicon</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Miaomiao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2610.39713">2610.39713</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40338.html">Differentiable Electronic Grand Canonical Learning for Electrochemistry</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/electrochemical-interfaces-30d.html">electrochemical-interfaces</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Phillip E. Pope et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40338">2610.40338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40445.html">ML-COHP: predicting bond descriptors using latent space of a universal interatomic potentials</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a></div></td>
-<td>Daniil S. Alekseev et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40445">2610.40445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.38236.html">Generative discovery of chemical reaction networks</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
-<td>Yunhong Han et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38236">2610.38236</a></td>
 </tr>
 </tbody></table>

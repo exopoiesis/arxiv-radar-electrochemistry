@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05339.html">Bond-valence theory is a general electrostatic valence rule</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
 <td>M. L. Whittaker</td>
 <td><a href="http://arxiv.org/abs/2611.05339">2611.05339</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05654.html">DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators</a></div></td>
+<td>Zhenkun Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05654">2611.05654</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-02</td>
