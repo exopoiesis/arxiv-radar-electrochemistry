@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">571 papers</span>
+  <span class="paper-count">570 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a></div></td>
@@ -3428,17 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08350.html">Revealing the Hidden Third Dimension of Point Defects in Two-Dimensional MXenes</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Grace Guinan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08350">2511.08350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09370.html">Two-dimensional Indium Oxide at the Epitaxial Graphene/SiC Interface: Synthesis, Structure, Properties, and Devices</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Furkan Turker et al.</td>
-<td><a href="http://arxiv.org/abs/2504.09370">2504.09370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06800.html">Polarization-Magnetization Coupling in Visible Light Ferroelectric Double Perovskites</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
-<td>Sathiyamoorthy Buvaneswaran et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06800">2511.06800</a></td>
 </tr>
 </tbody></table>

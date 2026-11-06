@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-11-05._
+_Updated 2026-11-06._
 
-**3547** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3550** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07719.html">Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
+<td>Yuxuan Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07719">2611.07719</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -33,6 +45,12 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.06683.html">Experimental Assessment of Prompt Gamma Time Imaging in Complex Anatomy</a></div><div class="paper-tags"><a href="tag/proton-transport-30d.html">proton-transport</a></div></td>
 <td>Pavel Kavrigin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06683">2611.06683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07172.html">Formamide formation on forsterite and Mg(OH)$_2\cdot$H$_2$O</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/grotthuss-30d.html">grotthuss</a></div></td>
+<td>Dario Campisi</td>
+<td><a href="http://arxiv.org/abs/2611.07172">2611.07172</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-03</td>
@@ -177,23 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="tag/solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
 <td>Regina Qianru Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.39513.html">Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Ishan Amin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.39513">2610.39513</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.39623.html">Origin and photoluminescence of a shallow hydrogen-related donor in silicon</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Miaomiao Han et al.</td>
-<td><a href="http://arxiv.org/abs/2610.39623">2610.39623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.39687.html">Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/aimd-30d.html">aimd</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jeheon Woo</td>
-<td><a href="http://arxiv.org/abs/2610.39687">2610.39687</a></td>
 </tr>
 </tbody></table>

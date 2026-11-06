@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07172.html">Formamide formation on forsterite and Mg(OH)$_2\cdot$H$_2$O</a></div><div class="paper-tags"><a href="grotthuss-30d.html">grotthuss</a></div></td>
+<td>Dario Campisi</td>
+<td><a href="http://arxiv.org/abs/2611.07172">2611.07172</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04652.html">Statistically Robust Characterization of Polaron and Bipolaron Intrinsic Traps in Amorphous Silica Reveals the Role of Network Flexibility in Electron Localisation</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Robin Delhomme et al.</td>
@@ -440,17 +452,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10725.html">Resolving the interfacial mechanical landscape of monolayer NbSe2 grown by confined epitaxy</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
 <td>Ye Wang</td>
 <td><a href="http://arxiv.org/abs/2610.10725">2610.10725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Minseok Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08762.html">Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators</a></div></td>
-<td>Shivshankar Jokare et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08762">2610.08762</a></td>
 </tr>
 </tbody></table>

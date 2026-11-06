@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">827 papers</span>
+  <span class="paper-count">824 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07172.html">Formamide formation on forsterite and Mg(OH)$_2\cdot$H$_2$O</a></div><div class="paper-tags"><a href="grotthuss-360d.html">grotthuss</a></div></td>
+<td>Dario Campisi</td>
+<td><a href="http://arxiv.org/abs/2611.07172">2611.07172</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04652.html">Statistically Robust Characterization of Polaron and Bipolaron Intrinsic Traps in Amorphous Silica Reveals the Role of Network Flexibility in Electron Localisation</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -4946,35 +4958,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19807.html">Intrinsic defect intolerance in the ultra-pure metal PtSn$_4$</a></div></td>
 <td>Samikshya Sahu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19807">2509.19807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09370.html">Two-dimensional Indium Oxide at the Epitaxial Graphene/SiC Interface: Synthesis, Structure, Properties, and Devices</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Furkan Turker et al.</td>
-<td><a href="http://arxiv.org/abs/2504.09370">2504.09370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06166.html">Bridging the Synthesizability Gap in Perovskites by Combining Computations, Literature Data, and PU Learning</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Rushik Desai et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06166">2510.06166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07188.html">A Strain-Engineered 0D/1D Heterojunction of InVO4/Cu-TbFeO3 for High- Selectivity CO2 Photoreduction</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Muneeb ur Rahman</td>
-<td><a href="http://arxiv.org/abs/2511.07188">2511.07188</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07194.html">Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX$_3$ (X = Cl, Br, I)</a></div></td>
-<td>Kristoffer Eggestad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07194">2511.07194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07284.html">Oxygen vacancies in vanadium dioxide: A DFT$+V$ study</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Oskar Leibnitz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07284">2511.07284</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Jack Yang et al.</td>
@@ -302,11 +308,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09705.html">Interfacial Water Responds Linearly to Charge yet Is Charge-Asymmetric</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="electric-double-layer-30d.html">electric-double-layer</a></div></td>
 <td>Yair Litman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09705">2610.09705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Minseok Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
 </tr>
 </tbody></table>

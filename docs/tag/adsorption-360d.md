@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07719.html">Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry</a></div><div class="paper-tags"><a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
+<td>Yuxuan Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07719">2611.07719</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40445.html">ML-COHP: predicting bond descriptors using latent space of a universal interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a></div></td>
 <td>Daniil S. Alekseev et al.</td>
@@ -1292,11 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09869.html">Potential-Programmed Operando Ensembles Govern Nitrate Electroreduction</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
 <td>Xue-Chun Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09869">2511.09869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07188.html">A Strain-Engineered 0D/1D Heterojunction of InVO4/Cu-TbFeO3 for High- Selectivity CO2 Photoreduction</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Muneeb ur Rahman</td>
-<td><a href="http://arxiv.org/abs/2511.07188">2511.07188</a></td>
 </tr>
 </tbody></table>

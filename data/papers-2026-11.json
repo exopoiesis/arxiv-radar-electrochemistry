@@ -758,5 +758,80 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-11-04"
+ },
+ "2611.07172": {
+  "abstract": "Context. Formamide formation in the Universe has been the subject of debate due to its importance as a precursor to amino acids and RNA. Current studies focus on the gas-phase and icy grain formation routes. However, formamide formation on bare silicate surfaces or hydrated Mg-bearing molecular models remains largely unexplored in environments relevant to protoplanetary disks. Aims. This study presents a quantum-chemical investigation of formamide formation on an Mg center and a silicate surface. $Mg(OH)_2\\cdot H_2O$ and the bare (010) forsterite ($Mg_2SiO_4$) surface, used as an analog of a bare dust-grain surface, may promote formamide formation via $NH_2$ addition to $H_2CO$. Methods. I employed density functional theory (DFT) to study the addition of $NH_2$ to $H_2CO$ with an isolated $Mg(OH)_2\\cdot H_2O$ molecular model and on the forsterite (010) surface. First, I benchmarked various theoretical methodologies. I then examined the ability of $Mg(OH)_2\\cdot H_2O$ and the forsterite (010) surface to promote formamide formation. Finally, for the case with an entrance barrier, I computed unimolecular rate constants and half-lives to assess its kinetic behavior. Results. $Mg(OH)_2\\cdot H_2O$ promotes proton transfer within the $NH_2$-$CH_2O$ intermediate via the O-H group coordinated with Mg following $NH_2$ addition to $H_2CO$, whereas on the forsterite, a barrier-less addition pathway is found when $NH_2$ is initially physisorbed close to the formaldehyde center, followed by proton transfer leading to formamide formation. Conclusions. The Mg-bearing model systems considered here can promote rapid proton transfer following $NH_2$ addition to $H_2CO$. For the $Mg(OH)_2\\cdot H_2O$ model, the reaction step from the pre-reactive complex is predicted to occur on nanosecond timescales at temperatures approaching 300 K. The present work provides kinetic data for astrochemical models.",
+  "authors": [
+   "Dario Campisi"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "physics.chem-ph"
+  ],
+  "comment": "18 pages, 10 figures. Accepted for publication in Astronomy & Astrophysics",
+  "first_author": "Dario Campisi",
+  "pdf_url": "http://arxiv.org/pdf/2611.07172",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-04",
+  "tags": [
+   "density-functional-theory",
+   "grotthuss"
+  ],
+  "title": "Formamide formation on forsterite and Mg(OH)$_2\\cdot$H$_2$O",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.07623": {
+  "abstract": "The molecular dynamics and glass-forming behavior of 4-cyano-3-fluorophenyl 4-butylbenzoate (4CFPB) liquid crystal was investigated by broadband dielectric spectroscopy in anodic aluminum oxide cylindrical nanopores of 35 and 73 nm diameter. The primary $α$-relaxation was analyzed using the Vogel-Fulcher-Tammann (VFT) and Mauro-Yue-Ellison-Gupta-Allan (MYEGA) models. Confinement reduces the glass transition temperature from 217 K in bulk to 208-210 K, while preserving the super-Arrhenius character of the $α$-relaxation and a fragility index of approximately 60. Unlike in previously studied 6 and 8 nm pores, the secondary $β$-relaxation remains detectable, with possible intramolecular contributions examined by density functional theory calculations. Next to the pore-size-dependent changes in molecular dynamics and glass transition temperature, cold crystallization is not observed. These findings highlight the distinct effects of geometrical confinement on molecular relaxation, glass formation, and crystallization kinetics.",
+  "authors": [
+   "Aleksandra Deptuch",
+   "Eugeniusz Rajewski",
+   "Ewa Juszyńska-Gałązka"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Aleksandra Deptuch",
+  "pdf_url": "http://arxiv.org/pdf/2611.07623",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-05",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07719": {
+  "abstract": "Graph data provide a natural representation of the interconnected structures and interactions underlying many chemical and materials systems. Graph neural networks (GNNs) can learn complex relationships from such data, yet translating these representations into interpretable descriptors and scientific insights remains challenging. Here we introduce graph symbolic distillation (GSD), a framework for decoding graph data into interpretable symbolic formulas. GSD identifies task-relevant message-passing architectures and distills their learned transformations while preserving graph connectivity and aggregation operations. Across three case studies spanning bulk materials, molecules, and surfaces, GSD not only recovers expert-defined descriptors from elementary node and edge features, but also reveals relationships emerging from their organization in complex graphs: extremal local geometric descriptors for band gap variations in $γ$-CsPbI$_3$, a local polarity--size relationship underlying hydration free energy, and site-specific electronic--connectivity coupling in multidentate adsorption. GSD thus provides a general route from graph data to interpretable descriptors and new, testable scientific insights.",
+  "authors": [
+   "Yuxuan Yao",
+   "Harald Oberhofer",
+   "Karsten Reuter",
+   "Wenbin Xu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuxuan Yao",
+  "pdf_url": "http://arxiv.org/pdf/2611.07719",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-05",
+  "tags": [
+   "adsorption",
+   "solvation-thermodynamics"
+  ],
+  "title": "Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-11-05"
  }
 }

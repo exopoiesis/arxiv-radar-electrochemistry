@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -824,17 +830,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08000.html">Local coordination and migration-network topology shape Li-ion transport and delithiation in the low-energy $\varepsilon$-LiMnO$_2$ polymorph</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="neb-90d.html">neb</a></div></td>
 <td>Fukuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08000">2608.08000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06895.html">Local Structure Dictates Ionic Transport and Mechanical Properties in Glassy Solid Electrolytes for Lithium Batteries</a></div><div class="paper-tags"><a href="ion-transport-90d.html">ion-transport</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Yong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06895">2608.06895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07081.html">Local lattice dynamics of hcp zinc from EXAFS and machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="chgnet-90d.html">chgnet</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Vitalijs Dimitrijevs et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07081">2608.07081</a></td>
 </tr>
 </tbody></table>

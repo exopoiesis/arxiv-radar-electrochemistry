@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07172.html">Formamide formation on forsterite and Mg(OH)$_2\cdot$H$_2$O</a></div><div class="paper-tags"><a href="grotthuss-90d.html">grotthuss</a></div></td>
+<td>Dario Campisi</td>
+<td><a href="http://arxiv.org/abs/2611.07172">2611.07172</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04652.html">Statistically Robust Characterization of Polaron and Bipolaron Intrinsic Traps in Amorphous Silica Reveals the Role of Network Flexibility in Electron Localisation</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -1166,11 +1178,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07997.html">Predicting large-supercell defect formation energies from machine-learning charge density models trained on small supercells</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Junjie Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07997">2608.07997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06759.html">Optical Anisotropy and Phase Matching in Non-Centrosymmetric Perovskite Oxides from DFT+U and DFT+U+V Functionals</a></div></td>
-<td>Mohamed S. M. M. Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06759">2608.06759</a></td>
 </tr>
 </tbody></table>

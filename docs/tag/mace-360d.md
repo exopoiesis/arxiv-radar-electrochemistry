@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1070,11 +1070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02447.html">Hydrogen liquid-liquid transition from first principles and machine learning</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Giacomo Tenti et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02447">2502.02447</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13088.html">Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Tomoya Shiota et al.</td>
-<td><a href="http://arxiv.org/abs/2412.13088">2412.13088</a></td>
 </tr>
 </tbody></table>
