@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>origin-of-life — 360d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="origin-of-life-7d.html">7d</a> <a href="origin-of-life-30d.html">30d</a> <a href="origin-of-life-90d.html">90d</a> <strong>360d</strong> <a href="origin-of-life-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,11 +446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14941.html">Stability conditions of chemical networks in a linear framework</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
 <td>Armand Despons et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14941">2507.14941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09636.html">Prebiotic Chemistry Insights for Dragonfly: Thermodynamics of Amino Acid Synthesis in Selk Crater on Titan</a></div></td>
-<td>Ishaan Madan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09636">2511.09636</a></td>
 </tr>
 </tbody></table>

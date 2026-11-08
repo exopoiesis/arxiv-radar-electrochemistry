@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">568 papers</span>
+  <span class="paper-count">564 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3398,29 +3398,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10295.html">Analytical Nuclear Gradients for the Multiconfigurational Self-Consistent Field Method Coupled with the Polarizable Fluctuating Charges Model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Francesco Mazza et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10295">2511.10295</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08890.html">Mobile chemical cage: Revealing the origin of anomalous lithium diffusion in liquid $Li_{17}Pb_{83}$ alloy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a></div></td>
-<td>Sensen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08890">2511.08890</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09308.html">Dynamic structure factor of a monatomic cubic crystal</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Arsene Yerle et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09308">2511.09308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09413.html">A scalable kinetic Monte Carlo platform enabling comprehensive simulations of charge transport dynamics in polymer-based memristive systems</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
-<td>Gerliz M. Gutiérrez-Finol et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09413">2511.09413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09521.html">Role of Wadsley Defects and Cation Disorder to Enhance MoNb12O33 Diffusion</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>CJ Sturgill et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09521">2511.09521</a></td>
 </tr>
 </tbody></table>

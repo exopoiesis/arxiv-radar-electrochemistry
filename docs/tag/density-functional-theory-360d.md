@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">823 papers</span>
+  <span class="paper-count">820 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4934,23 +4934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11146.html">Tunable electronic band structure in WSSe van der Waals Alloys</a></div></td>
 <td>Meryem Bouaziz et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11146">2511.11146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09436.html">First-Principles Investigation of Surface-Induced Effects on the Properties of Divacancy Qubits in 3C-SiC</a></div></td>
-<td>Rosario G. Viglione et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09436">2511.09436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09521.html">Role of Wadsley Defects and Cation Disorder to Enhance MoNb12O33 Diffusion</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>CJ Sturgill et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09521">2511.09521</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09774.html">Solvaformer: an SE(3)-equivariant graph transformer for small molecule solubility prediction</a></div><div class="paper-tags"><a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
-<td>Jonathan Broadbent et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09774">2511.09774</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>solvation-thermodynamics — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="solvation-thermodynamics-7d.html">7d</a> <a href="solvation-thermodynamics-30d.html">30d</a> <a href="solvation-thermodynamics-90d.html">90d</a> <strong>360d</strong> <a href="solvation-thermodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.13579.html">Machine-Learned Electrostatic Potentials for Accurate Hydration Free Energy Calculations</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Mathias Hilfiker et al.</td>
 <td><a href="http://arxiv.org/abs/2512.13579">2512.13579</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09774.html">Solvaformer: an SE(3)-equivariant graph transformer for small molecule solubility prediction</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Jonathan Broadbent et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09774">2511.09774</a></td>
 </tr>
 </tbody></table>
