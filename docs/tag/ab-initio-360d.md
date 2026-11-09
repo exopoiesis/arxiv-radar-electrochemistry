@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">472 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,17 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11889.html">Effects of Yttrium Doping on Oxygen Conductivity in Ba(Fe, Co, Zr, Y)O_{3-δ} Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Chiyoung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11889">2511.11889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09976.html">Electric Field-Induced Phase Transitions and Hysteresis in Ferroelectric HfO2 Captured with Machine Learning Potential</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Po-Yen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09976">2511.09976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10295.html">Analytical Nuclear Gradients for the Multiconfigurational Self-Consistent Field Method Coupled with the Polarizable Fluctuating Charges Model</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Francesco Mazza et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10295">2511.10295</a></td>
 </tr>
 </tbody></table>

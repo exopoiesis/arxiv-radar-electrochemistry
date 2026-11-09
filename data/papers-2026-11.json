@@ -833,5 +833,208 @@
    "Aqueous Chemistry and Solvation"
   ],
   "updated": "2026-11-05"
+ },
+ "2611.08678": {
+  "abstract": "Machine-learned interatomic potentials are misspecified, so Bayesian posterior variances understate their errors. For linear atomic cluster expansion (ACE) potentials we derive calibrated uncertainties from one misspecification-robust parameter covariance, the delete-one-configuration jackknife. Scaled by one conformal quantile from a held-out part of the training set, it gives per-atom force uncertainties close to their target coverage on held-out silicon data and on cracks left out of the fit; screw dislocations left out are under-covered by the smaller of the two models. With one scale fitted to the forces of a held-out test split, the same parameter distribution is propagated to 21 properties of silicon, from elastic constants to defect and surface energies, by implicit differentiation through each relaxation and by committees, and is tested against density functional theory (DFT) without tuning on any property. For a smaller and a larger model the intervals cover most properties, and the larger model's are about 4 times tighter. The Bayesian posterior with one calibrated scale has the wrong shape: it covers fewer properties and has far lower joint evidence. Pointwise optimal parameter sets (POPS), once their hypercube is numerically defined, performs comparably on the properties, but its per-atom force regions are not calibrated to a target (0.95 and 0.84 at a nominal 0.90). Where the jackknife fails is relaxed point defects, whose training cells are all hot snapshots: a bias that every configuration shares is invisible to a jackknife, but it can be measured from the training labels, and as a discrepancy term, devised after the property results were seen, it brings the coverage close to nominal.",
+  "authors": [
+   "James R. Kermode"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 9 figures, 15 tables",
+  "first_author": "James R. Kermode",
+  "pdf_url": "http://arxiv.org/pdf/2611.08678",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-05",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08851": {
+  "abstract": "Precise control of molecular heteroepitaxy offers a route to multilayer architectures with well-defined interfaces. However, the role of intramolecular flexibility in epitaxial matching remains insufficiently understood. Here, we investigate the heteroepitaxy of intact 1,3,5-tris(4-carboxyphenyl)benzene (BTB) on a molecular $δ$-layer composed of fully deprotonated BTB molecules on Ag(111). Combining scanning tunneling microscopy, low-energy electron microscopy and diffraction, X-ray photoelectron spectroscopy, and density functional theory, we identify the key interactions controlling molecular packing and epitaxial growth. We show that intermolecular bonding motifs are preserved on the molecular template, but their lattice parameters and molecular conformations change as compared to a silver surface. Individual molecules exhibit distinct appearances in scanning tunneling microscopy, consistent with site-dependent conformational variations identified by theory. Our calculations reveal that the competition between molecule-substrate interactions and conformational energy produces different compromise geometries, resulting in conformational frustration at the epitaxial interface. Crucially, constraining BTB into a planar geometry changes the preferred lateral adsorption positions, demonstrating that molecular flexibility directly modifies the energetic preferences for epitaxial registry. Comparison with more rigid molecular overlayers further supports this interpretation. Our findings reveal that molecular flexibility contributes to epitaxial matching by allowing unfavorable molecule-substrate interactions to be compensated by energetically favorable conformations while preserving the intermolecular network.",
+  "authors": [
+   "Jakub Planer",
+   "Pavel Procházka",
+   "Tomáš Krajňák",
+   "Veronika Stará",
+   "Daniela Hrubá",
+   "Zdeněk Endstrasser",
+   "Tomáš Skála",
+   "Jan Čechal"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Jakub Planer",
+  "pdf_url": "http://arxiv.org/pdf/2611.08851",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "adsorption",
+   "density-functional-theory"
+  ],
+  "title": "Conformationally frustrated epitaxy at heteromolecular interface",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.08874": {
+  "abstract": "Few molecular processes are more fundamental to chemistry than the autoionization of water, whose equilibrium constant, $K_w \\approx 10^{-14}$, underlies acid-base equilibria and the chemistry of life. Yet the molecular origins of the free energy cost of forming and separating ions remain incompletely understood. Efforts to explain it have been limited by the difficulty of modeling water reactivity in sufficient detail. Here we combine machine learning interatomic potentials (MLIPs) with spectral adaptive biasing force enhanced sampling to connect proton transfer and water wire configurations to the underlying free energy landscape. We identify competing influences of long-range electrostatics, system size, temperature, and nuclear quantum motion on the predicted ionization thermodynamics. The free energy surface extends from neutral water to ions separated beyond the solvent-separated ion pair (SSIP). It reveals a transition state in which a proton is shared between the second and third molecules of a three-membered water wire. The contact ion pair is unstable and the SSIP only weakly metastable, so determining pK$_w$ requires sampling longer wires. Long-range electrostatics raise the free energy at ion separations beyond $3\\,\\mathrm{\\mathring{A}}$. Models with comparable force errors give substantially different free energy profiles in this region. Increasing system size lowers the calculated pK$_w$, while nuclear quantum effects bring it closer to experiment and reproduce the higher pK$_w$ of D$_2$O relative to H$_2$O. These results establish a baseline for interpreting thermodynamic results from MLIP simulations in which charged and polar groups react and diffuse in finite cells. Our analysis also explains how cancellation among competing effects can yield ionization constants close to experiment even when simulations omit several physical contributions.",
+  "authors": [
+   "Samuel Varner",
+   "Yinan Xu",
+   "Yezhi Jin",
+   "Gustavo R. Pérez-Lemus",
+   "Pablo F. Zubieta Rico",
+   "Zhiying Yi",
+   "Joan M. Montes de Oca",
+   "Paul F. Nealey",
+   "Seth B. Darling",
+   "Zhen-Gang Wang",
+   "Juan J. de Pablo"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "Main text has 15 pages and 5 figures. Supporting information has 21 pages, 10 figures, and 3 tables",
+  "first_author": "Samuel Varner",
+  "pdf_url": "http://arxiv.org/pdf/2611.08874",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-06",
+  "tags": [
+   "grotthuss",
+   "ion-pairing",
+   "mlip",
+   "neb"
+  ],
+  "title": "Fortuitous Cancellation of Competing Effects in the Free Energy of Water Autoionization: Long-Range Electrostatics, System Size, and Nuclear Quantum Effects",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.08986": {
+  "abstract": "Manganese selenide grows both as rock-salt $α$-MnSe, a type-II antiferromagnet, and as metastable wurtzite w-MnSe, whose magnetic order has not been measured. We compute the neutral Mn and Se vacancies and the two antisites of both polymorphs with density functional theory plus a linear-response Hubbard $U$, between the Se-rich limit bounded by MnSe$_2$ and the Mn-rich limit set by the measured formation enthalpy. In $α$-MnSe the Mn vacancy is lowest over most of the window (0.92 eV under Se-rich conditions), consistent with its p-type conduction. In w-MnSe, the Se antisite is lowest under Se-rich conditions, narrowly in the A-type order and clearly in the stripe order, and the Se vacancy is lowest under Mn-rich conditions. The Se vacancy has nearly the same formation energy in both polymorphs, whereas defects that change the number of Mn atoms differ by 0.4-1.1 eV, although DFT+$U$ places wurtzite below rock salt, contrary to experiment. A spin-degenerate stripe order lies 14 meV per formula unit below the altermagnetic A-type order of w-MnSe, and the formation energies shift between these orders by up to 0.24 eV, most for the Mn vacancy. Three of the four defects leave an uncompensated moment of 3-5 $μ_\\mathrm{B}$. In the A-type order, band unfolding shows that the sign-reversing splitting of the most strongly split band, about 230 meV and 3 eV below the valence-band maximum, keeps its peak height within the 8% scatter of the analysis at 3% defects, while points on its shoulders move by up to about 70 meV. Band-edge states are not resolved.",
+  "authors": [
+   "Tomás Rojas Solorzano",
+   "Dale Igram"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "36 pages, 4 figures, 17 tables, including Supplementary Material",
+  "first_author": "Tomás Rojas Solorzano",
+  "pdf_url": "http://arxiv.org/pdf/2611.08986",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09153": {
+  "abstract": "Machine learning from local atomic environments offers an efficient route to electronic structure, but evaluating global electronic properties in large systems remains computationally demanding. Here we combine real space charge density learning with stochastic propagation using Kohn-Sham Hamiltonians constructed from the predicted densities. The framework avoids target system self-consistent iterations and explicit diagonalization, while hierarchical blocking enables dense grid inference within limited GPU memory. We demonstrate density of states calculations for one million Si atoms and optical and transport calculations for over one hundred thousand atoms, without training separate models for each property. This framework extends the practical scale of electronic structure calculations within Kohn-Sham DFT, opening opportunities to investigate how atomic structure governs electronic, optical and transport properties at length scales relevant to real materials and devices.",
+  "authors": [
+   "Yu Cheng",
+   "Zhichang Fu",
+   "Yechen Chen",
+   "Yonggang Li",
+   "Weiqing Zhou",
+   "Shengjun Yuan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yu Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2611.09153",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "From local learning to global electronic properties in large-scale systems",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09325": {
+  "abstract": "Standard uncertainty quantification methods for machine learning interatomic potentials often fail to quantify the effects of model misspecification despite its prominence as a source of error. To combat this, misspecification-aware uncertainty schemes have been gaining attention, pointwise optimal parameter set regression (POPS-Regression) among them. However, no guarantees on the physicality of the posterior distribution are given and uncertainty estimates can be conservative compared to the true error. To combat this, we present a model misspecification aware scheme that builds on POPS-Regression by allowing users to specify physical priors that are enforced across the obtained ensemble of models. This allows the user to incorporate misspecification-aware uncertainties without compromising on physical properties. The scheme is applicable to any physical quantity that can be represented by a convex set of parameters and so is robust for a wide variety of static properties which can help inform dynamical simulations. Here, we demonstrate the scheme for phononic vibrations and elastic properties. The scheme is also applied to both linear and message-passing neural network potentials by exploiting the linearity available in both architectures; for neural network potentials we approximate the readout layer as a linear model based on fixed non-linear features. The versatility of the method provides an alternative to hand-crafted or active learning approaches to data-set construction to correct physical failures by adding data thus reducing the computational overhead for designing potentials for specific applications.",
+  "authors": [
+   "George I. Simmons",
+   "Thomas D. Swinburne",
+   "Thomas Hudson",
+   "James R. Kermode"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "George I. Simmons",
+  "pdf_url": "http://arxiv.org/pdf/2611.09325",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "active-learning"
+  ],
+  "title": "Physics Informed Priors for Machine Learning Interatomic Potentials with Uncertainty Quantification",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09494": {
+  "abstract": "Magnetic ions intercalated into the van der Waals gaps of layered transition metal dichalcogenides provide a system where local moments interact strongly with a metallic host. How the order of the intercalant sublattice affects their magnetism is important but rarely addressed, although disorder is hard to avoid, in particular in thin films and heterostructures. Here this question is examined in single crystals of Ni$_x$NbS$_2$ with $0.10 \\leq x \\leq 0.57$, whose composition and Ni order were determined by energy-dispersive x-ray spectroscopy and synchrotron x-ray diffraction. Anisotropic magnetic susceptibility measurements reveal three regimes. Long-range antiferromagnetic order appears only for $0.25 \\leq x \\leq 0.33$, where the Ni ions form the $2 \\times 2$ and $\\sqrt{3} \\times \\sqrt{3}$ R$30^\\circ$ superstructures, and $T_\\mathrm{N}$ reaches 96 K at $x = 1/3$. In this range the effective moment, $\\approx 2.5 μ_\\mathrm{B}$ per Ni, agrees with DFT+$U$ calculations, in which the Ni spin is partly delocalized onto the surrounding S ligands. For $x \\leq 0.18$ the dilute, randomly distributed Ni ions remain paramagnetic down to 2 K with a reduced moment. For $x \\geq 0.37$, where Ni-Ni contacts are unavoidable, long-range order gives way to a short-range ordered state below 10-15 K with a further reduced moment. As calculations for ordered Ni arrangements find the Ni state nearly independent of $x$, even at $x = 1/2$, the reduction of the moment is attributed to a disorder-enabled reduction of the charge transfer from Ni to the NbS$_2$ layers. The magnetism of Ni$_x$NbS$_2$ is thus governed by the (dis)order of the Ni sublattice rather than by the Ni concentration alone.",
+  "authors": [
+   "Gaurav Pransu",
+   "Naveen Singh Dhami",
+   "Wojciech Sas",
+   "Yuki Utsumi Boucher",
+   "Bruno Gudac",
+   "Ana Smontara",
+   "Davor Tolj",
+   "Victor Balédent",
+   "Mario Novak",
+   "Neven Barišić",
+   "Ivo Batistić",
+   "Mirta Herak",
+   "Petar Popčević"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages, 7 figures, 2 tables",
+  "first_author": "Gaurav Pransu",
+  "pdf_url": "http://arxiv.org/pdf/2611.09494",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Interplay of Ni Order and Local Moments in Intercalated NixNbS2",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-06"
  }
 }

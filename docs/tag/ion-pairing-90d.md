@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ion-pairing — 90d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="ion-pairing-7d.html">7d</a> <a href="ion-pairing-30d.html">30d</a> <strong>90d</strong> <a href="ion-pairing-360d.html">360d</a> <a href="ion-pairing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08874.html">Fortuitous Cancellation of Competing Effects in the Free Energy of Water Autoionization: Long-Range Electrostatics, System Size, and Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="grotthuss-90d.html">grotthuss</a> · <a href="mlip-90d.html">mlip</a> · <a href="neb-90d.html">neb</a></div></td>
+<td>Samuel Varner et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08874">2611.08874</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04121.html">Bicarbonate/carbonic acid equilibria in aqueous solutions: Conformational Dynamics, Ion-Pair Speciation, and Free Energy Landscapes from Ab Initio Molecular Dynamics and Metadynamics</a></div><div class="paper-tags"><a href="grotthuss-90d.html">grotthuss</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>

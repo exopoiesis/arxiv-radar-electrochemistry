@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
+<td>Jakub Planer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08851">2611.08851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08986.html">Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order</a></div><div class="paper-tags"><a href="phase-stability-7d.html">phase-stability</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Tomás Rojas Solorzano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08986">2611.08986</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09153.html">From local learning to global electronic properties in large-scale systems</a></div></td>
+<td>Yu Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09153">2611.09153</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09494.html">Interplay of Ni Order and Local Moments in Intercalated NixNbS2</a></div></td>
+<td>Gaurav Pransu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09494">2611.09494</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Aleksandra Deptuch et al.</td>
 <td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08678.html">Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines</a></div></td>
+<td>James R. Kermode</td>
+<td><a href="http://arxiv.org/abs/2611.08678">2611.08678</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>
@@ -68,11 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03822.html">Coexisting Kondo and Weyl-like transport in kagome heavy-fermion metal, Yb$_y$Co$_3$G$e_{3-x}$Sn$_x$</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a></div></td>
 <td>M. P. Dubbelman et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03822">2611.03822</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01830.html">Temperature-Dependent Raman Signatures of Local Symmetry Breaking in Vacancy Double Perovskite Cs$_2$SnI$_6$</a></div><div class="paper-tags"><a href="phase-transitions-7d.html">phase-transitions</a></div></td>
-<td>Tomke E. Glier et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01830">2611.01830</a></td>
 </tr>
 </tbody></table>

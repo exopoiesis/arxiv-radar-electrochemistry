@@ -16,10 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
+<td>Jakub Planer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08851">2611.08851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08986.html">Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order</a></div><div class="paper-tags"><a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Tomás Rojas Solorzano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08986">2611.08986</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09153.html">From local learning to global electronic properties in large-scale systems</a></div></td>
+<td>Yu Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09153">2611.09153</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09494.html">Interplay of Ni Order and Local Moments in Intercalated NixNbS2</a></div></td>
+<td>Gaurav Pransu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09494">2611.09494</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Aleksandra Deptuch et al.</td>
 <td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08678.html">Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines</a></div></td>
+<td>James R. Kermode</td>
+<td><a href="http://arxiv.org/abs/2611.08678">2611.08678</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>
@@ -392,35 +422,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Danilo de Araújo Moura et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-u-30d.html">dft-u</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Himanshu Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13410.html">The Stone-Wales trefoil: a new topological defect in graphene</a></div><div class="paper-tags"><a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>M. V. Kondrin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13410">2610.13410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="formate-30d.html">formate</a> · <a href="microkinetics-30d.html">microkinetics</a> · <a href="reaction-networks-30d.html">reaction-networks</a></div></td>
-<td>Karsten Walz Jensen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="neb-30d.html">neb</a></div></td>
-<td>Natalia Goncharova et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14392.html">Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a></div></td>
-<td>Evgeny Moerman et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14392">2610.14392</a></td>
 </tr>
 </tbody></table>

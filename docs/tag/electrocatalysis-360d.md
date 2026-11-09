@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05938.html">Adsorption energies are necessary but not sufficient to identify good catalysts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
 <td>Shahana Chatterjee et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05938">2512.05938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09869.html">Potential-Programmed Operando Ensembles Govern Nitrate Electroreduction</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Xue-Chun Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09869">2511.09869</a></td>
 </tr>
 </tbody></table>

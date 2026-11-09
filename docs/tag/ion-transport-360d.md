@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,11 +578,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21404.html">Revealing Fast Ionic Conduction in Solid Electrolytes through Machine Learning Accelerated Raman Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Manuel Grumet et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21404">2511.21404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10355.html">Phase field modelling of cracking and capacity fade in core-shell cathode particles for lithium-ion batteries</a></div></td>
-<td>Y. Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10355">2511.10355</a></td>
 </tr>
 </tbody></table>

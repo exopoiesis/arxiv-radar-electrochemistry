@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Jakub Planer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08851">2611.08851</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07719.html">Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry</a></div><div class="paper-tags"><a href="solvation-thermodynamics-360d.html">solvation-thermodynamics</a></div></td>
 <td>Yuxuan Yao et al.</td>
@@ -1292,11 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12697.html">Unraveling the Surface Stability and Chemical Reactivity of Aza-Triphenylene Monolayer under O$_2$ and H$_2$O Exposure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Soumendra Kumar Das et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12697">2511.12697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09869.html">Potential-Programmed Operando Ensembles Govern Nitrate Electroreduction</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Xue-Chun Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09869">2511.09869</a></td>
 </tr>
 </tbody></table>

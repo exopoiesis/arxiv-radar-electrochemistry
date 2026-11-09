@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>grotthuss — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="grotthuss-7d.html">7d</a> <a href="grotthuss-30d.html">30d</a> <a href="grotthuss-90d.html">90d</a> <a href="grotthuss-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08874.html">Fortuitous Cancellation of Competing Effects in the Free Energy of Water Autoionization: Long-Range Electrostatics, System Size, and Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="ion-pairing-all.html">ion-pairing</a> · <a href="mlip-all.html">mlip</a> · <a href="neb-all.html">neb</a></div></td>
+<td>Samuel Varner et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08874">2611.08874</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07172.html">Formamide formation on forsterite and Mg(OH)$_2\cdot$H$_2$O</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
