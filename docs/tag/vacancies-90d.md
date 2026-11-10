@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>vacancies — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <strong>90d</strong> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11765.html">Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Donggeun Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11765">2611.11765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12233.html">X-ray parametric down-conversion probes radiation-induced dynamics in hybrid perovskite MAPbBr3</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>S. Sofer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12233">2611.12233</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="neb-90d.html">neb</a></div></td>
+<td>Arsalan Hashemi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12399.html">Quantum Embedding from Molecular to Crystalline Environments at the Cost of a Gas-Phase Calculation</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Manas Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12399">2611.12399</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08986.html">Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
@@ -302,11 +326,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12967.html">Elastic properties of cubic silicon carbide with Si vacancies</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Carlos P. Herrero et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12967">2608.12967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11388.html">Many-Body Destabilization of Intermediate Oxygen-Hole States</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Anirudh Adavi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11388">2608.11388</a></td>
 </tr>
 </tbody></table>

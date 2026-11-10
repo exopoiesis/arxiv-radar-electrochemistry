@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">474 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="neb-360d.html">neb</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Arsalan Hashemi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12573.html">Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yaideny Rodriguez Linares et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12573">2611.12573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11084.html">Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Ankit Khandelwal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11084">2611.11084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11253.html">Effect of Correlation on the Pressure-Induced Insulator to Metal Transition in Complex Spin-Orbit Coupled Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Vineeta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11253">2611.11253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11256.html">Engineering ferroelectric nanocapacitors through interfacial phonon bias</a></div></td>
+<td>Iñigo Robredo-Magro et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11256">2611.11256</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05339.html">Bond-valence theory is a general electrostatic valence rule</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
@@ -2828,11 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11976.html">Ionic Interdiffusion at Cathode-Solid-Electrolyte Interface: A Machine Learning-Assisted Multiscale Investigation and Mitigation Strategies</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Musawenkosi K. Ncube et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11976">2511.11976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11889.html">Effects of Yttrium Doping on Oxygen Conductivity in Ba(Fe, Co, Zr, Y)O_{3-δ} Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Chiyoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11889">2511.11889</a></td>
 </tr>
 </tbody></table>

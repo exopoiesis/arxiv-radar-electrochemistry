@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11765.html">Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Donggeun Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11765">2611.11765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12233.html">X-ray parametric down-conversion probes radiation-induced dynamics in hybrid perovskite MAPbBr3</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>S. Sofer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12233">2611.12233</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="neb-7d.html">neb</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Arsalan Hashemi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12399.html">Quantum Embedding from Molecular to Crystalline Environments at the Cost of a Gas-Phase Calculation</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Manas Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12399">2611.12399</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11253.html">Effect of Correlation on the Pressure-Induced Insulator to Metal Transition in Complex Spin-Orbit Coupled Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Vineeta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11253">2611.11253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10480.html">Dopant Cluster Engineering for Tunable Room-Temperature Ferromagnetism in 2D Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
+<td> Shivangee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10480">2611.10480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11019.html">Toward universal excited-state machine-learned potentials: a local excitation Hamiltonian for size consistency and transferability</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a></div></td>
+<td>Pascal Friederich</td>
+<td><a href="http://arxiv.org/abs/2611.11019">2611.11019</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
@@ -68,35 +110,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04918.html">Joint Channel Scanning and Geometry-Aware Codebook Design for Movable Antenna Arrays</a></div></td>
 <td>Amna Irshad et al.</td>
 <td><a href="http://arxiv.org/abs/2611.04918">2611.04918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02317.html">Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Sehyeok Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02317">2611.02317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02379.html">Alias Geometry and Density Compensation in Perturbed Fourier Sampling</a></div></td>
-<td>Erli Wind-Andersen</td>
-<td><a href="http://arxiv.org/abs/2611.02379">2611.02379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02403.html">Machine-Learned Interatomic Potential for the Mo-S-Al-O System</a></div></td>
-<td>Emir Bilgili et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02403">2611.02403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03154.html">PaddleMaterials: An End-to-End Deep Learning Toolkit for Materials Science</a></div></td>
-<td>Xuwei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03154">2611.03154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03822.html">Coexisting Kondo and Weyl-like transport in kagome heavy-fermion metal, Yb$_y$Co$_3$G$e_{3-x}$Sn$_x$</a></div><div class="paper-tags"><a href="dft-u-7d.html">dft-u</a></div></td>
-<td>M. P. Dubbelman et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03822">2611.03822</a></td>
 </tr>
 </tbody></table>

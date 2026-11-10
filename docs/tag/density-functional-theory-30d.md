@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11765.html">Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Donggeun Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11765">2611.11765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12233.html">X-ray parametric down-conversion probes radiation-induced dynamics in hybrid perovskite MAPbBr3</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
+<td>S. Sofer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12233">2611.12233</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="neb-30d.html">neb</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Arsalan Hashemi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12399.html">Quantum Embedding from Molecular to Crystalline Environments at the Cost of a Gas-Phase Calculation</a></div><div class="paper-tags"><a href="vacancies-30d.html">vacancies</a></div></td>
+<td>Manas Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12399">2611.12399</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11253.html">Effect of Correlation on the Pressure-Induced Insulator to Metal Transition in Complex Spin-Orbit Coupled Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Vineeta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11253">2611.11253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10480.html">Dopant Cluster Engineering for Tunable Room-Temperature Ferromagnetism in 2D Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="dft-u-30d.html">dft-u</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td> Shivangee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10480">2611.10480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11019.html">Toward universal excited-state machine-learned potentials: a local excitation Hamiltonian for size consistency and transferability</a></div><div class="paper-tags"><a href="mace-30d.html">mace</a></div></td>
+<td>Pascal Friederich</td>
+<td><a href="http://arxiv.org/abs/2611.11019">2611.11019</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a></div></td>
@@ -404,23 +446,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="dft-u-30d.html">dft-u</a></div></td>
 <td>Vladislav Korostelev et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14992.html">EpNet-Si: Atomic Form Factors Learned from Band Structures</a></div></td>
-<td>Qiang Zhu</td>
-<td><a href="http://arxiv.org/abs/2610.14992">2610.14992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15089.html">Role of defect trapping in the enhanced corrosion resistance of Ni-Mo alloys with yttrium and yttrium oxide additions</a></div><div class="paper-tags"><a href="corrosion-30d.html">corrosion</a> · <a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Jia-Hong Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15089">2610.15089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="chalcogenides-30d.html">chalcogenides</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Danilo de Araújo Moura et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
 </tr>
 </tbody></table>

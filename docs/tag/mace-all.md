@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mace — all</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">253 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <a href="mace-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11019.html">Toward universal excited-state machine-learned potentials: a local excitation Hamiltonian for size consistency and transferability</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a></div></td>
+<td>Pascal Friederich</td>
+<td><a href="http://arxiv.org/abs/2611.11019">2611.11019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10263.html">DAC-MACE: Context-Conditioned Expert Routing for Compact Scene Coordinate Regression in Camera Relocalization</a></div></td>
+<td>Dingying Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10263">2611.10263</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
@@ -32,6 +44,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02571.html">Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off</a></div></td>
 <td>Kinston Ackölf et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02571">2611.02571</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09990.html">Peer Memory Changes Who LLM Agents Consult Without a Detected Gain in Answer Accuracy</a></div></td>
+<td>Jeffrey Chu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09990">2611.09990</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-29</td>

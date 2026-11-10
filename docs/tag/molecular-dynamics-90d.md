@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11765.html">Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Donggeun Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11765">2611.11765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12573.html">Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="aimd-90d.html">aimd</a></div></td>
+<td>Yaideny Rodriguez Linares et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12573">2611.12573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11084.html">Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="grotthuss-90d.html">grotthuss</a></div></td>
+<td>Ankit Khandelwal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11084">2611.11084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11702.html">Hydrogen Thermodiffusion in Tungsten: Trapped Hydrogen Distorts Heat of Transport Estimation from Total Concentration Profiles</a></div><div class="paper-tags"><a href="neb-90d.html">neb</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a></div></td>
+<td>Ville Jantunen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11702">2611.11702</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
@@ -812,11 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12572.html">Memory-dependent electronic friction for nonadiabatic dynamics at metal surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Xuexun Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12572">2608.12572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
-<td>Abhishek Raghav et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
 </tr>
 </tbody></table>

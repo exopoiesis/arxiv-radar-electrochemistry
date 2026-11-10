@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>density-functional-theory — all</h1>
-  <span class="paper-count">1511 papers</span>
+  <span class="paper-count">1518 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11765.html">Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Donggeun Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11765">2611.11765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12233.html">X-ray parametric down-conversion probes radiation-induced dynamics in hybrid perovskite MAPbBr3</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
+<td>S. Sofer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12233">2611.12233</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="neb-all.html">neb</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Arsalan Hashemi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12399.html">Quantum Embedding from Molecular to Crystalline Environments at the Cost of a Gas-Phase Calculation</a></div><div class="paper-tags"><a href="vacancies-all.html">vacancies</a></div></td>
+<td>Manas Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12399">2611.12399</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11253.html">Effect of Correlation on the Pressure-Induced Insulator to Metal Transition in Complex Spin-Orbit Coupled Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Vineeta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11253">2611.11253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10480.html">Dopant Cluster Engineering for Tunable Room-Temperature Ferromagnetism in 2D Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="dft-u-all.html">dft-u</a> · <a href="phase-stability-all.html">phase-stability</a></div></td>
+<td> Shivangee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10480">2611.10480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11019.html">Toward universal excited-state machine-learned potentials: a local excitation Hamiltonian for size consistency and transferability</a></div><div class="paper-tags"><a href="mace-all.html">mace</a></div></td>
+<td>Pascal Friederich</td>
+<td><a href="http://arxiv.org/abs/2611.11019">2611.11019</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="adsorption-all.html">adsorption</a></div></td>

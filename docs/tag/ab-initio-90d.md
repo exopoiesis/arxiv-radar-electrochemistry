@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="neb-90d.html">neb</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Arsalan Hashemi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12573.html">Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="aimd-90d.html">aimd</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Yaideny Rodriguez Linares et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12573">2611.12573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11084.html">Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms</a></div><div class="paper-tags"><a href="aimd-90d.html">aimd</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Ankit Khandelwal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11084">2611.11084</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11253.html">Effect of Correlation on the Pressure-Induced Insulator to Metal Transition in Complex Spin-Orbit Coupled Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Vineeta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11253">2611.11253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11256.html">Engineering ferroelectric nanocapacitors through interfacial phonon bias</a></div></td>
+<td>Iñigo Robredo-Magro et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11256">2611.11256</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05339.html">Bond-valence theory is a general electrostatic valence rule</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
@@ -680,23 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12572.html">Memory-dependent electronic friction for nonadiabatic dynamics at metal surfaces</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xuexun Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12572">2608.12572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10910.html">Oxygen K-edge X-ray Absorption Spectroscopy Database for NMC811 Layered Cathode Materials</a></div></td>
-<td>Jian He et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10910">2608.10910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="dft-u-90d.html">dft-u</a></div></td>
-<td>Enrico Di Lucente et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11301.html">Quetzalcoatlite as a Disorder-Free Platform for Chiral Magnetism and Frustration</a></div></td>
-<td>Aleksandar Razpopov et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11301">2608.11301</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>neb — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <a href="neb-30d.html">30d</a> <strong>90d</strong> <a href="neb-360d.html">360d</a> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Arsalan Hashemi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11702.html">Hydrogen Thermodiffusion in Tungsten: Trapped Hydrogen Distorts Heat of Transport Estimation from Total Concentration Profiles</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="proton-diffusion-90d.html">proton-diffusion</a></div></td>
+<td>Ville Jantunen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11702">2611.11702</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08874.html">Fortuitous Cancellation of Competing Effects in the Free Energy of Water Autoionization: Long-Range Electrostatics, System Size, and Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="grotthuss-90d.html">grotthuss</a> · <a href="ion-pairing-90d.html">ion-pairing</a> · <a href="mlip-90d.html">mlip</a></div></td>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10480.html">Dopant Cluster Engineering for Tunable Room-Temperature Ferromagnetism in 2D Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="phase-stability-90d.html">phase-stability</a></div></td>
+<td> Shivangee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10480">2611.10480</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03822.html">Coexisting Kondo and Weyl-like transport in kagome heavy-fermion metal, Yb$_y$Co$_3$G$e_{3-x}$Sn$_x$</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>M. P. Dubbelman et al.</td>
@@ -80,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15765.html">Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Subhadeep Bandyopadhyay et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15765">2608.15765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
-<td>Enrico Di Lucente et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
 </tr>
 </tbody></table>

@@ -1036,5 +1036,421 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-11-06"
+ },
+ "2611.09990": {
+  "abstract": "Multi-agent LLM systems often reuse the same agents across tasks, creating an opportunity to draw on past interactions when deciding whom to consult. We study this form of memory with PeerMem, which saves MACE's LinUCB state and reuses it when the same agents return. Using six agents, a fixed set of 80 HotpotQA questions, and 12 paired lineages per model, we compare cold, warm, and shuffled initialization in an answer-exchange protocol with reference-answer feedback. Under stable evidence access, warm memory lowers pooled hindsight regret and increases consultation of other evidence holders on Qwen3-32B and Gemma-4-31B-it, while final token F1 differences remain uncertain. Qwen interaction traces further show that warm agents more often encounter peer answers that score above their own prior answers. We extend the evaluation to Qwen3.5-9B using freshly learned memory to compare warm and cold initialization under reassigned and paired stable roles. The primary changed-minus-stable final-F1 interaction is -1.38 points, with a 95% interval of [-3.50,+0.73]. Together, these experiments trace the effects of peer memory through consultation, answer revision, and final task performance.",
+  "authors": [
+   "Jeffrey Chu",
+   "Anjali Joseph",
+   "Rivan Mandot",
+   "Feker Demere",
+   "Vincent Li"
+  ],
+  "categories": [
+   "cs.MA",
+   "cs.CL"
+  ],
+  "comment": "27 pages, 5 figures. Accepted at the NeurIPS 2026 Workshop on Personalized, Aligned, Long-Term Memory for AI Systems (PALM)",
+  "first_author": "Jeffrey Chu",
+  "pdf_url": "http://arxiv.org/pdf/2611.09990",
+  "primary_category": "cs.MA",
+  "published": "2026-11-02",
+  "tags": [
+   "mace"
+  ],
+  "title": "Peer Memory Changes Who LLM Agents Consult Without a Detected Gain in Answer Accuracy",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-02"
+ },
+ "2611.10024": {
+  "abstract": "Whether a precursor-substrate-reactant combination yields an atomic layer deposition (ALD) process is still settled by trial-and-error experiments. Here we introduce AJIN (ALD Joint Interpretable Network), a machine-learning framework that learns this decision from experimental outcomes. We compiled 560 experimentally observed ALD and area-selective ALD outcomes spanning 76 precursors, 27 substrates, 20 reactants and 25-620 degrees Celsius. Following the ALD cycle, AJIN predicts adsorption from graph-neural-network embeddings of the precursor and substrate with temperature, and deposition by adding the reactant. The best model (CHGNet-MLP) reaches balanced accuracies of 79.2% for adsorption and 84.8% for deposition and transfers partially to unseen precursors. SHAP and ablation analyses show that substrate chemistry governs adsorption, whereas precursor, substrate and reactant all contribute to deposition. Tested against our laboratory's ALD experiments, AJIN correctly predicted 83% of new-substrate cases and 71% of new precursor-substrate adsorption cases, providing an experimentally grounded tool for prioritizing ALD and area-selective ALD chemistries.",
+  "authors": [
+   "Bonwook Gu",
+   "Trinh Ngoc Le",
+   "Zunair Masroor",
+   "Minhyeok Lee",
+   "Han-Bo-Ram Lee"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Bonwook Gu",
+  "pdf_url": "http://arxiv.org/pdf/2611.10024",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-05",
+  "tags": [
+   "adsorption",
+   "chgnet"
+  ],
+  "title": "Experimentally Grounded Machine Learning of PrecursorSurface-Reactant Chemistry in Atomic Layer Deposition",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.10263": {
+  "abstract": "A camera becomes an absolute pose sensor when its images can be relocalized against a prebuilt map of the scene. On mobile robots and augmented-reality devices, that map must be small and quick to build. Scene coordinate regression (SCR) stores the scene in a compact network that predicts a 3D coordinate for every pixel, and mixture-of-experts (MoE) variants extend its capacity to larger outdoor scenes. In existing MoE-based SCR, however, the router assigns each pixel to an expert from the same local descriptor that the experts regress from, so repeated facades and windows at different locations receive similar routing inputs. We present DAC-MACE, which conditions soft expert routing on recalibrated and contextualized features. A residual context adapter (RCA) reweights the channels and locations of frozen encoder features, a global context encoder (GCE) mixes them with multi-scale self-attention, and an image-level pooled descriptor is added to the router input. A dual-threshold RANSAC--Levenberg--Marquardt estimator recovers the pose. On Cambridge Landmarks, DAC-MACE attains a mean per-scene median translation error of 13.0 cm over three seeds, the lowest among the RGB-only SCR methods compared (GLACE 13.6 cm, MACE 14.4 cm), and reduces the error on the largest scene from 24 to 19 cm relative to MACE. In a cumulative study, the MoE head, GCE, RCA, and the dual-threshold estimator lower the mean error from 17.0 cm to 14.4, 14.0, 13.6, and 13.0 cm. On 7-Scenes, adding GCE to a single ACE head raises Recall@(5 cm, 5$^\\circ$) from 86.56% to 87.60%.",
+  "authors": [
+   "Dingying Fan",
+   "Mingkai Liu",
+   "Haohua Que",
+   "Haojia Gao",
+   "Xianliang Huang",
+   "Qian Zhang",
+   "Xueqian Wang",
+   "Fei Qiao"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "10 pages, 6 figures. Submitted to IEEE Sensors Journal",
+  "first_author": "Dingying Fan",
+  "pdf_url": "http://arxiv.org/pdf/2611.10263",
+  "primary_category": "cs.CV",
+  "published": "2026-11-06",
+  "tags": [
+   "mace"
+  ],
+  "title": "DAC-MACE: Context-Conditioned Expert Routing for Compact Scene Coordinate Regression in Camera Relocalization",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.10480": {
+  "abstract": "Two-dimensional transition metal dichalcogenides (2D-TMDs) offer a promising platform for realizing dilute magnetic semiconductors. However, simultaneously achieving large magnetic anisotropy energy (MAE) and high Curie temperature (T$_\\text{c}$) remains a major challenge. In this work, we employ DFT+U to systematically investigate the thermodynamic stability and magnetic properties of 2D-MoSe$_2$ and 2D-WSe$_2$ doped with transition metal atoms. We found that the paired dopant configurations are more stable than previously attributed isolated dopants. Despite their nearly identical crystal structures, 2D-MoSe$_2$ and 2D-WSe$_2$ show contrasting properties upon doping. All paired dopants in 2D-MoSe$_2$ exhibit long-range ferromagnetic coupling (FMC) primarily due to carrier-mediated exchange interactions, whereas those in 2D-WSe$_2$ show weak exchange coupling. Interestingly, 2Mn$_\\text{2W}$ shows a transition from less stable antiferromagnetic coupling (AFMC) in the short range to highly stable FMC in the long-range. The combined effect of spin-orbit coupling, exchange interactions, and orbital hybridization gives rise to a large MAE with maximum in-plane values of $-$3.5 meV for 2V$_\\text{2Mo}$ and $-$3.2 meV for 2Mn$_\\text{2W}$. Monte Carlo simulations estimate T$_\\text{c}$ $\\simeq$ 440 K for 2Fe$_\\text{2Mo}$ and ensure its high-temperature stability in 2D-MoSe$_2$. Our results establish dopant clustering as an effective route to engineer high-temperature ferromagnetism in 2D-TMDs and highlight their potential for nano-spintronic applications.",
+  "authors": [
+   " Shivangee",
+   "Sachin Grewal",
+   "Akash Singh"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": " Shivangee",
+  "pdf_url": "http://arxiv.org/pdf/2611.10480",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-07",
+  "tags": [
+   "density-functional-theory",
+   "dft-u",
+   "phase-stability"
+  ],
+  "title": "Dopant Cluster Engineering for Tunable Room-Temperature Ferromagnetism in 2D Transition Metal Dichalcogenides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.10725": {
+  "abstract": "Enantiomeric excess ($\\mathrm{ee}$) is the primary observable used to quantify chiral amplification across prebiotic chemistry, asymmetric autocatalysis, and multiphase crystallization. Because $\\mathrm{ee} = Δ/ M$ is the ratio of net chiral excess $Δ= L - D$ to total chiral mass $M = L + D$, identical increases in $\\mathrm{ee}$ can arise either by generating net chiral excess through parity-breaking reactions or by depleting total chiral mass through symmetric phase or oligomer partitioning. Here we establish a pathwise conservation law and a model-free three-channel attribution identity for $\\mathbb{Z}_2$-symmetric reaction networks. In any closed network without autocatalytic feedback or epimerization, net chiral excess is conserved along every stochastic trajectory ($Δ(t) = Δ(0)$), locking liquid-phase amplification to cumulative mass loss ($\\mathrm{ee}_f = \\mathrm{ee}_0 M_0 / M_f$). Re-analyzing seven experimental systems shows that standalone phase removal (Channel R) loses $91.7\\%$--$98.9\\%$ of chiral solute into racemic sediment in closed batches and washes out under open racemic inflow. Coupling eutectic partitioning (Channel R) with solid/solution racemization recycling (Channel B) converts the precipitated solid into homochiral product ($96.5\\%$ recoverable homochiral crystal mass at $96.5\\%$ total and $100.0\\%$ solid $\\mathrm{ee}$), whereas coupling evaporative concentration with liquid-phase autocatalysis crosses the open-flow bifurcation threshold against continuous racemic dilution ($81.9\\%$ homochiral yield at $92.9\\%$ active chiral $\\mathrm{ee}$). We further establish non-crossing parity invariants for dual-monomer networks, derive a closed-form wet--dry amplification law, and resolve a one-dimensional identifiability ridge in chiral mineral adsorption via antipodal crystal-pair protocols.",
+  "authors": [
+   "Zeyu Jia",
+   "Anlin Gong",
+   "Bingmei Wu"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "36 pages, 18 figures (7 main + 11 supplementary), 11 tables; includes combined Supplementary Material and 13 ancillary Python reproducibility scripts in anc/",
+  "first_author": "Zeyu Jia",
+  "pdf_url": "http://arxiv.org/pdf/2611.10725",
+  "primary_category": "q-bio.BM",
+  "published": "2026-11-07",
+  "tags": [
+   "adsorption",
+   "autocatalysis",
+   "origin-of-life",
+   "reaction-networks"
+  ],
+  "title": "Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.11019": {
+  "abstract": "Universal machine-learned interatomic potentials could make excited-state simulations across chemical space routine, but excitation energies, unlike ground-state energies, are not sums of atomic contributions. The excited states of noninteracting molecules are the union of their states, which pooled multistate readouts reproduce at best for the lowest state. We introduce LEH-MACE, whose excitation energies are the eigenvalues of a local excitation Hamiltonian assembled from atom-centred blocks, so this union holds exactly. We generated TD-DFT energies and forces for about 300,000 equilibrium, thermal, and excited-state geometries of over 100,000 molecules. LEH-MACE's advantage over direct readouts grew with the distance from the training data and was largest above $S_1$, with about half their $S_2$ and $S_3$ errors for long conjugated oligomers. For molecule pairs, only LEH-MACE kept its single-molecule accuracy, while a softmin readout remained superior for $S_1$ dynamics of larger chromophores. Exact size consistency is thus one step toward such potentials.",
+  "authors": [
+   "Pascal Friederich"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "24 pages, 6 figures, 3 tables, Supplementary Information (19 pages) included. Dataset: https://doi.org/10.5281/zenodo.24042143. Code and trained models: https://github.com/aimat-lab/LEH, https://doi.org/10.5281/zenodo.24044613",
+  "first_author": "Pascal Friederich",
+  "pdf_url": "http://arxiv.org/pdf/2611.11019",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-07",
+  "tags": [
+   "density-functional-theory",
+   "mace"
+  ],
+  "title": "Toward universal excited-state machine-learned potentials: a local excitation Hamiltonian for size consistency and transferability",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.11084": {
+  "abstract": "Ab initio molecular dynamics (AIMD) requires the calculation of highly accurate electronic-structure energies and nuclear forces at every time step, which can quickly become computationally expensive. Sample-based quantum diagonalization offers a route to such calculations on quantum hardware, but its use in AIMD simulations has so far been limited to active spaces of about 20 qubits. In these spaces, exact diagonalization is tractable, and the quantum circuits are typically built from standard coupled-cluster amplitudes. Here, we introduce SqDRIFT-AIMD, which combines randomized sample-based Krylov quantum diagonalization (SqDRIFT) with analytical nuclear gradients. With SqDRIFT-AIMD, we obtain more accurate ground-state energies than the conventional coupled-cluster singles and doubles (CCSD) driven AIMD simulation for the $40$-qubit active space. We apply SqDRIFT-AIMD to study the dynamics of proton transfer in the Zundel cation, using circuits executed on IBM Heron r3 quantum processors. SqDRIFT energies fall below CCSD across the $40$-qubit double-well PES and stay within a few m$E_\\text{h}$ of CCSD at 52 qubits. The $40$-qubit SqDRIFT-AIMD trajectory tracks the SHCI-driven proton transfer to within $1.33$ mÅ and exhibits excellent total energy conservation, with a standard deviation of only $0.245$ m$E_\\text{h}$. These results extend quantum-centric AIMD to active spaces beyond the reach of exact diagonalization.",
+  "authors": [
+   "Ankit Khandelwal",
+   "Nirmal M R",
+   "Aaryav Mishra",
+   "Debasmita Bhoumik",
+   "Dhinakaran Vinayagamurthy",
+   "M Girish Chandra"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Ankit Khandelwal",
+  "pdf_url": "http://arxiv.org/pdf/2611.11084",
+  "primary_category": "quant-ph",
+  "published": "2026-11-08",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "grotthuss",
+   "molecular-dynamics"
+  ],
+  "title": "Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-08"
+ },
+ "2611.11253": {
+  "abstract": "We study the effect of electron correlation ($U$) and hydrostatic pressure on the electronic properties of double perovskites La$_2$CoIr$_{1-x}$Ti$_x$O$_6$ for $x$ = 0, 0.5, and 1, using first-principles electronic structure calculations within density functional theory (DFT). At ambient pressure, we systematically vary the electron correlation, i.e., on-site Coulomb interaction to study its effect on band gap and structural parameters. Increasing the value of $U$ enhances the band gap of all three compositions while producing only a slight variation in structural parameters. The effect of hydrostatic pressure is also studied for the same compositions. The estimated band gap values at ambient pressure closes at approximately 39, 42, and 53 GPa for $x$ = 0 (for $U_\\mathrm{Co}$ = 5 eV and $U_\\mathrm{Ir}$ = 2 eV), 0.5 (for $U_\\mathrm{Co}$ = 5 eV and $U_\\mathrm{Ir}$ = 2 eV), and 1 (for $U_\\mathrm{Co}$ = 4 eV), respectively, indicating pressure-induced insulator-to-metal transitions. These results show that electron correlation stabilises the insulating state, whereas hydrostatic pressure favours the metallic state by closing the band gap. These findings highlight the tunability of correlated oxides through electron correlations and pressure, offering insights for materials design.",
+  "authors": [
+   "Vineeta Yadav",
+   "Sromona Nandi",
+   "Rudra Sekhar Manna"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": "6 pages, 3 figures",
+  "first_author": "Vineeta Yadav",
+  "pdf_url": "http://arxiv.org/pdf/2611.11253",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-08",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Effect of Correlation on the Pressure-Induced Insulator to Metal Transition in Complex Spin-Orbit Coupled Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-08"
+ },
+ "2611.11256": {
+  "abstract": "As ferroelectric devices approach the nanometer scale, their behavior becomes increasingly sensitive to boundary conditions. In perovskite oxide nanocapacitors, epitaxial strain and electrostatic screening are well-established control parameters. Then, while expected to contribute to the epitaxial stabilization of ferroelectric ultrathin films, the lattice-dynamical state of the electrodes has not been isolated as an independent tuning knob. Here we call this poorly explored coupling interfacial phonon bias, whereby the electrodes' phonon energy landscape reshapes that of the adjacent ferroelectric across their shared interface. Using first-principles-accurate machine-learned interatomic potentials and molecular-dynamics simulations, we examine this mechanism in symmetric BiFeO${}_3$ nanocapacitors in contact with a metallic perovskite oxide. By independently controlling the orientatio and amplitude of the electrodes' octahedral-tilt landscape, while keeping conventional elastic and electric boundary conditions fixed, we show that the electrodes' phonon energy landscape can modify the stability of competing BiFeO${}_3$ phases. In particular, this allows us to shift the ferroelectric transition temperature and even induce antiferroelectric-like switching at ambient conditions. We thus showcase interfacial phonon bias as a complementary and powerful strategy to modify and optimize the properties of ultrathin epitaxial films.",
+  "authors": [
+   "Iñigo Robredo-Magro",
+   "Urmimala Dey",
+   "Suehyun park",
+   "Karam Cho",
+   "Raseong Kim",
+   "Jorge Íñiguez-González"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "7 pages, 5 figures",
+  "first_author": "Iñigo Robredo-Magro",
+  "pdf_url": "http://arxiv.org/pdf/2611.11256",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-08",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Engineering ferroelectric nanocapacitors through interfacial phonon bias",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-08"
+ },
+ "2611.11702": {
+  "abstract": "We investigate hydrogen diffusion in tungsten under thermal gradients in the presence of trapping sites using multiscale simulations. Using molecular dynamics simulations, we find that the heat of transport, which quantifies the coupling between temperature gradients and hydrogen transport, for hydrogen in tungsten is positive (thermophobic) at lower temperatures but changes sign near $1000$ K. We investigate the origin of the heat of transport and find that harmonic transition state theory with elastic thermal-expansion corrections is insufficient to explain the observed behaviour, consistent with either a breakdown of local thermodynamic equilibrium or non-negligible anharmonic contributions.   We further extend previous studies of hydrogen thermodiffusion by including the effect of trapping sites in both simulations and analytical models. We show that when trapped hydrogen accounts for a significant fraction of the total hydrogen concentration, the heat of transport inferred from measurements of the total concentration is dominated by the temperature dependence of the trapped hydrogen population and no longer reflects the gradient in the mobile hydrogen concentration. Consequently, experimentally measured heats of transport cannot in general be used directly in continuum-scale models that explicitly account for trapping and detrapping. In such models, the heat of transport should be based on mobile hydrogen concentrations only to avoid incorporating trapping effects twice.",
+  "authors": [
+   "Ville Jantunen",
+   "Daniel R. Mason",
+   "Sanjeet Kaur"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ville Jantunen",
+  "pdf_url": "http://arxiv.org/pdf/2611.11702",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-08",
+  "tags": [
+   "molecular-dynamics",
+   "neb",
+   "proton-diffusion"
+  ],
+  "title": "Hydrogen Thermodiffusion in Tungsten: Trapped Hydrogen Distorts Heat of Transport Estimation from Total Concentration Profiles",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-08"
+ },
+ "2611.11765": {
+  "abstract": "Iodine-vacancy migration and association are important factors in the structural stability of halide perovskites. Although neighboring vacancies have been suggested to form energetically favorable pairs, their stability and reconfiguration under finite-temperature lattice deformation remain unclear. Here, we combine machine-learning molecular dynamics (MLMD) and density functional theory (DFT) to investigate neighboring iodine vacancies in tilted CsPbI3 under isotropic and biaxial strain. The MLMD trajectories reveal a nonmonotonic dependence of short-time hopping fractions on strain, with strong isotropic compression favoring point-like separation and tension promoting pair-preserving relay hopping. Notably, biaxial compression produces distinct orientation-dependent responses: vacancy pairs initially aligned with the compressed plane preferentially undergo separation, whereas those perpendicular to the plane predominantly exhibit relay hopping. Complementary static calculations using DFT and the SevenNet-0 potential yield repulsive interactions for all configurations examined. These findings highlight the importance of finite-temperature dynamics and strain-dependent local geometry in understanding vacancy-pair stability and reconfiguration in halide perovskites.",
+  "authors": [
+   "Donggeun Kang",
+   "Seongju Lee",
+   "Yonggoon Jeon"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, including supplementary information",
+  "first_author": "Donggeun Kang",
+  "pdf_url": "http://arxiv.org/pdf/2611.11765",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-09",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12233": {
+  "abstract": "We report minute-timescale time-resolved measurements of X-ray parametric down-conversion (PDC) of X-rays into ultraviolet photons in a MAPbBr3 single crystal under continuous irradiation. Despite the known radiation sensitivity of hybrid perovskites and the high photon flux required to detect the intrinsically weak PDC signal, the nonlinear response remains measurable throughout the irradiation sequence. Both PDC and Bragg diffraction exhibit a slow decay consistent with diffusion-driven damage dynamics on timescales reported for bromide-vacancy and proton migration. However, despite their similar decay rates, the PDC and Bragg signals evolve toward markedly different steady states, while an additional fast decay component is observed in the Bragg response but absent in the PDC signal. Density functional theory calculations identify N 2s states of the methylammonium cation as the most likely contributors to the measured PDC response and show that their Fourier component is only weakly affected by bromide-vacancy formation. These results establish nonlinear X-ray diffraction as a channel-selective probe of radiation-induced dynamics and demonstrate that radiation damage can couple differently to nonlinear and linear X-ray responses.",
+  "authors": [
+   "S. Sofer",
+   "O. Sefi",
+   "G. J. Man",
+   "H. N. Barad",
+   "N. P. Jasti",
+   "D. Cahen",
+   "S. Shwartz"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "22 pages 5 figures 1 table",
+  "first_author": "S. Sofer",
+  "pdf_url": "http://arxiv.org/pdf/2611.12233",
+  "primary_category": "physics.optics",
+  "published": "2026-11-09",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "X-ray parametric down-conversion probes radiation-induced dynamics in hybrid perovskite MAPbBr3",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12267": {
+  "abstract": "The layered van der Waals semiconductor CrSBr combines intrinsic magnetic order with semiconducting and optical properties, making it a promising material for multifunctional electronic and photonic applications. Understanding how defects and structural transformations affect its properties under experimentally relevant conditions, however, remains challenging for first-principles simulations due to the relevant length and time scales. Here, we develop and benchmark machine-learning interatomic potentials (MLIPs) for the Cr-S-Br system, enabling large-scale atomistic simulations of CrSBr with accuracy approaching that of density functional theory (DFT). The charge-aware variant qNEP achieves near-DFT accuracy in predicting lattice constants, formation enthalpies, vacancy energetics, and the anisotropic pressure response of o-CrSBr. Nudged elastic band calculations reveal that pre-existing S vacancies lower the Cr Frenkel-pair migration barrier by up to 1.1 eV, providing an atomistic mechanism for beam-induced Cr redistribution and structural transformations. Displacement threshold calculations further show that Br is the most susceptible species to electron-beam-induced displacement, identifying the relative ease of removing different atomic species. Together, these results establish a validated computational framework for investigating atomic-scale disorder and structural transformations in CrSBr, providing a basis for defect engineering in materials for future magneto-optoelectronic applications.",
+  "authors": [
+   "Arsalan Hashemi",
+   "Daniil Kruklinskii",
+   "Xiaoya Chang",
+   "Tapio Ala-Nissila",
+   "Mikko Karttunen",
+   "Arkady V. Krasheninnikov",
+   "Mahdi Ghorbani-Asl"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Arsalan Hashemi",
+  "pdf_url": "http://arxiv.org/pdf/2611.12267",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-09",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "neb",
+   "vacancies"
+  ],
+  "title": "Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12399": {
+  "abstract": "We present a direct-space formulation and implementation of quantum density functional theory (DFT) embedding for molecular active subsystems embedded in frozen environments (hosts) of arbitrary dimensionality, from finite molecular hosts to extended systems. The host is computed once without the embedded molecule (the guest) and is represented only by its electron density fitted in an atom-centered auxiliary Gaussian basis together with its nuclear charges with the periodic electrostatics separated into an explicit near-field and a continuous fast-multipole far-field operator. The method allows the removal of host atoms from this representation to create vacancies or other voids without requiring a supercell creation. Analytic nuclear gradients are also implemented, enabling structural relaxation of the active subsystem. We demonstrate the versatility of the approach through applications to adsorbates on periodic surfaces and molecules embedded in bulk solvent environments. For CO on MgO(001), we show that DFT-in-DFT converges rapidly and reproduces the periodic interaction energy within 0.44 kJ/mol while reducing the cost by a factor of 27. Real-time time-dependent embedded DFT (RT-TDDFET) of methylenecyclopropene in periodic water is showcased to produce a ~0.6 eV solvatochromic blue shift, while strong-field propagation of CO2 on hexagonal boron nitride (hBN) yields substrate-induced effects at the cost of a gas-phase propagation. Coupling the embedding scheme to excited-state correlated wave function theory methods such as CC2 yields a solvent shift within 0.01 eV of supermolecular CC2 references, while reducing the computational cost by over 500 times.",
+  "authors": [
+   "Manas Sharma",
+   "Marek Sierka"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Manas Sharma",
+  "pdf_url": "http://arxiv.org/pdf/2611.12399",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-09",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Quantum Embedding from Molecular to Crystalline Environments at the Cost of a Gas-Phase Calculation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12573": {
+  "abstract": "Exploratory ab initio molecular dynamics is used to construct machine-learning interatomic potentials for NO interactions with highly oriented pyrolytic graphite at 33\\% bridge-site oxygen coverage. Representative configurations sampled across surface temperatures and incidence energies provide reference energies and forces for training and validation. The selected potential enables relaxation of 300 adsorption configurations and construction of spatial and angular interaction maps. These maps reveal increasingly restricted attractive regions during vertical approach and reduced short-range repulsion upon molecular reorientation. The resulting adsorption geometries and interaction landscapes guide further first-principles sampling toward refining potentials for NO oxidation dynamics.",
+  "authors": [
+   "Yaideny Rodriguez Linares",
+   "Gilberto A. Alou Angulo",
+   "Samuel Del Fré",
+   "Maurice Monnerville",
+   "Alejandro Rivero Santamaría"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yaideny Rodriguez Linares",
+  "pdf_url": "http://arxiv.org/pdf/2611.12573",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-09",
+  "tags": [
+   "ab-initio",
+   "adsorption",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-09"
  }
 }

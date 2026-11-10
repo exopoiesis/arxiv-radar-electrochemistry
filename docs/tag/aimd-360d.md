@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>aimd — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="aimd-7d.html">7d</a> <a href="aimd-30d.html">30d</a> <a href="aimd-90d.html">90d</a> <strong>360d</strong> <a href="aimd-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12573.html">Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yaideny Rodriguez Linares et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12573">2611.12573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11084.html">Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="grotthuss-360d.html">grotthuss</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Ankit Khandelwal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11084">2611.11084</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39687.html">Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -698,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11976.html">Ionic Interdiffusion at Cathode-Solid-Electrolyte Interface: A Machine Learning-Assisted Multiscale Investigation and Mitigation Strategies</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="corrosion-360d.html">corrosion</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Musawenkosi K. Ncube et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11976">2511.11976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11889.html">Effects of Yttrium Doping on Oxygen Conductivity in Ba(Fe, Co, Zr, Y)O_{3-δ} Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Chiyoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11889">2511.11889</a></td>
 </tr>
 </tbody></table>

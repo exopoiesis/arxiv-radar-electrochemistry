@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10725.html">Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="autocatalysis-7d.html">autocatalysis</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
+<td>Zeyu Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10725">2611.10725</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="autocatalysis-7d.html">autocatalysis</a> · <a href="phase-transitions-7d.html">phase-transitions</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
 <td>Jinsu Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06033">2611.06033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02924.html">Cometary impacts an unlikely pathway towards the origins of life on Earth</a></div></td>
-<td>Richard J. Anslow et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02924">2611.02924</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10725.html">Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="autocatalysis-360d.html">autocatalysis</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
+<td>Zeyu Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10725">2611.10725</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a> · <a href="phase-transitions-360d.html">phase-transitions</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
 <td>Jinsu Kim et al.</td>
@@ -440,11 +446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16714.html">Habitable from the start: How initial planetary formation conditions may create habitable worlds</a></div></td>
 <td>Benjamin J. Farcy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16714">2511.16714</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14941.html">Stability conditions of chemical networks in a linear framework</a></div><div class="paper-tags"><a href="autocatalysis-360d.html">autocatalysis</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Armand Despons et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14941">2507.14941</a></td>
 </tr>
 </tbody></table>

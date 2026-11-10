@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>adsorption — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <strong>30d</strong> <a href="adsorption-90d.html">90d</a> <a href="adsorption-360d.html">360d</a> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12573.html">Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yaideny Rodriguez Linares et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12573">2611.12573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10725.html">Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification</a></div><div class="paper-tags"><a href="autocatalysis-30d.html">autocatalysis</a> · <a href="origin-of-life-30d.html">origin-of-life</a> · <a href="reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Zeyu Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10725">2611.10725</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -26,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07719.html">Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry</a></div><div class="paper-tags"><a href="solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
 <td>Yuxuan Yao et al.</td>
 <td><a href="http://arxiv.org/abs/2611.07719">2611.07719</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10024.html">Experimentally Grounded Machine Learning of PrecursorSurface-Reactant Chemistry in Atomic Layer Deposition</a></div><div class="paper-tags"><a href="chgnet-30d.html">chgnet</a></div></td>
+<td>Bonwook Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10024">2611.10024</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-29</td>

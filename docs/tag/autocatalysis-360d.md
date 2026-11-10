@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>autocatalysis — 360d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10725.html">Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="origin-of-life-360d.html">origin-of-life</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
+<td>Zeyu Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10725">2611.10725</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="origin-of-life-360d.html">origin-of-life</a> · <a href="phase-transitions-360d.html">phase-transitions</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
@@ -290,17 +296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14431.html">BiRNe: Symbolic bifurcation analysis of reaction networks with Python</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
 <td>Richard Golnik et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14431">2511.14431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14941.html">Stability conditions of chemical networks in a linear framework</a></div><div class="paper-tags"><a href="origin-of-life-360d.html">origin-of-life</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Armand Despons et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14941">2507.14941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11073.html">General multi-scale estimates for Lyapunov data of Perron-Frobenius matrices. The case of diluted autocatalytic chemical reaction networks</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
-<td>Jeremie Unterberger</td>
-<td><a href="http://arxiv.org/abs/2511.11073">2511.11073</a></td>
 </tr>
 </tbody></table>
