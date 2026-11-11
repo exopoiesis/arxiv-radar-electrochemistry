@@ -1452,5 +1452,172 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-11-09"
+ },
+ "2611.12926": {
+  "abstract": "We present marineGeochemFoam, an open-source reactive transport modeling framework for simulating early diagenesis, sediment burial, submarine groundwater discharge, and biogeochemical cycling in marine sediments and groundwater-seawater transition zones. The code is implemented in the widely used numerical toolbox OpenFOAM and extends the capabilities of the existing diagenetic models by supporting, among other features, i) coupled reactive transport of dissolved solute and solid species, (ii) a flexible native reaction package, supporting arbitrary reaction networks with n-th order and Monod-type kinetics, and (iii) coupling with an external geochemical code, PHREEEQC, providing access to a wide range of thermodynamically based geochemical processes. We benchmarked different features of the code across various examples with increasing complexity. Successively, the code was applied to two case studies reproducing field observations from the Hanko groundwater discharge site, Finland, and the Santa Barbara Basin, California. Beyond diagenetic applications, the code also serves as a general-purpose reactive transport simulator.",
+  "authors": [
+   "Navid Ahmadi",
+   "Evgenii Kortunov",
+   "Karim Norouzi Moghanjoghi",
+   "Joonas J. Virtasalo",
+   "Muhammad Muniruzzaman"
+  ],
+  "categories": [
+   "physics.geo-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": "32 pages, 8 figures, 2 tables, supporting information",
+  "first_author": "Navid Ahmadi",
+  "pdf_url": "http://arxiv.org/pdf/2611.12926",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-11-01",
+  "tags": [
+   "reaction-networks"
+  ],
+  "title": "marineGeochemFoam: A multipurpose framework for simulating reactive transport and biogeochemical cycling in marine sediments and at seawater-groundwater interfaces",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.13038": {
+  "abstract": "Co-free Fe-Ni-Cr-Mn high-entropy alloys (HEAs) are candidates for nuclear structural applications. We used molecular dynamics with the EAM-21 potential, stiffened at short range, to study five HEAs that have been irradiated experimentally: Fe37Ni34Cr16Mn13 (ES1), Fe35Ni35Cr15Mn15 (P35), Fe46Ni22Cr15Mn17 (Y3), Fe27Ni28Cr18Mn27 (Kumar) and Fe30Ni30Cr10Mn30 (C30). They were compared with pure Ni, Fe60Ni40, the Fe70Ni10Cr20 model alloy of 316L, and Fe50Ni34Cr16, which is ES1 with Mn replaced by Fe. We calculated stacking fault energies, threshold displacement energies, point-defect formation and migration energies, and 1015 displacement cascades from 5 to 40 keV at 300 and 823 K. The stacking fault energy follows the Ni content: 19-44 mJ/m^2 in the alloys and 113 mJ/m^2 in Ni. Compared with the Mn-free alloys, the HEAs have lower threshold displacement energies (48-56 against 64-74 eV) and lower dumbbell formation energies, and Mn is the element most transported by interstitials. All the concentrated alloys leave about the same number of Frenkel pairs, 56-72 at 40 keV, half the number in Ni. At 40 keV, 54-58% of the interstitials are in clusters in the HEAs, against 67-71% in Fe60Ni40, Fe70Ni10Cr20 and Fe50Ni34Cr16 and 82% in Ni. At the same cluster size, clusters of 4-12 interstitials are faulted about half as often in the HEAs, and this does not follow the stacking fault energy. The surviving interstitials are enriched in Mn in the HEAs and in Ni in the Mn-free alloys, and depleted in Cr. The results support direct loop formation in cascades in Fe60Ni40 and Fe70Ni10Cr20 and less of it in ES1.",
+  "authors": [
+   "Ayobami Daramola",
+   "Giovanni Bonny",
+   "Gilles Adjanor",
+   "Christophe Domain",
+   "Ghiath Monnet",
+   "Anna Fraczkiewicz",
+   "Duc Nguyen-Manh"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.atm-clus"
+  ],
+  "comment": null,
+  "first_author": "Ayobami Daramola",
+  "pdf_url": "http://arxiv.org/pdf/2611.13038",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-09",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Point defects and primary radiation damage in Co-free Fe-Ni-Cr-Mn high-entropy alloys from molecular dynamics",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13143": {
+  "abstract": "Coding agents built on large language models, run in automated improvement loops, can discover more efficient algorithms. We present AIOA, a framework that brings this approach to the numerical algorithms of atomistic simulation: an agent improves an algorithm against a pre-specified metric in a loop guarded by verifiers it cannot alter. Applied to ASE, a widely used atomistic simulation library, AIOA targets two facets of an algorithm: its implementation, rewritten to run faster with unchanged results, and the method itself, redesigned to converge with fewer force evaluations. Agents made six kernels 22-24 times faster on average in Python with NumPy and SciPy. On unseen problems, optimizers from the best configuration needed 3.1-3.4 times fewer force evaluations than L-BFGS for structure relaxation and 4.6-17 times fewer than standard climbing-image nudged elastic band calculations for reaction paths. The agents' optimizers also contain two algorithmic components we did not find in the literature.",
+  "authors": [
+   "Jeheon Woo"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI"
+  ],
+  "comment": "29 pages, 5 figures, 1 table; Supplementary Information included",
+  "first_author": "Jeheon Woo",
+  "pdf_url": "http://arxiv.org/pdf/2611.13143",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-09",
+  "tags": [
+   "neb"
+  ],
+  "title": "Autonomous Optimization of Numerical Algorithms by an AI Agent: Application to Atomistic Simulation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13611": {
+  "abstract": "Mixed-anion lithium oxychlorides exhibit high Li conductivity, but the relationship between oxygen content, structural framework, and Li-ion transport remains unclear. Here, crystal structure prediction and molecular dynamics simulations with machine-learning interatomic potentials are used to examine $\\mathrm{Li}_yM\\mathrm{O}_x\\mathrm{Cl}_{6-2x}$ ($M$ = Nb and Ta [Group 5] and $M$ = Ti, Zr, and Hf [Group 4]). Increasing oxygen content changes isolated chloride-rich polyhedra into one-dimensional chains and subsequently more highly connected two- and three-dimensional frameworks. In the Group 5 series, fast Li diffusion occurs over $x \\approx 0.67$--1.5, where the Li sites form a three-dimensional percolating network. Potential of mean force maps and nudged elastic band calculations reveal that fast Li-ion transport requires a low-dimensional framework supporting long-range migration through undercoordinated Li sites with low barriers, together with similar energies across Li sites. Finally, we perform fine-grid compositional search, which identifies $\\mathrm{LiNbO}_{0.67}\\mathrm{Cl}_{4.67}$, $\\mathrm{LiTaO}_{0.75}\\mathrm{Cl}_{4.5}$, $\\mathrm{LiNbO}_{1.5}\\mathrm{Cl}_3$, and $\\mathrm{LiTaO}_{1.5}\\mathrm{Cl}_3$ as stable candidates with predicted room-temperature self-diffusivities of up to $\\sim 10^{-6}\\,\\mathrm{cm}^2/\\mathrm{s}$. These findings establish how oxygen content controls framework and Li-ion transport, guiding the design of lithium oxyhalide electrolytes.",
+  "authors": [
+   "Jiho Lee",
+   "Seungwoo Hwang",
+   "Seungwu Han",
+   "Jisu Jung",
+   "Youngho Kang",
+   "Sungwoo Kang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "The Supplementary Information is provided as an ancillary file (Anc/Supplementary_Information.pdf)",
+  "first_author": "Jiho Lee",
+  "pdf_url": "http://arxiv.org/pdf/2611.13611",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-10",
+  "tags": [
+   "ion-transport",
+   "molecular-dynamics",
+   "neb"
+  ],
+  "title": "How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.13736": {
+  "abstract": "Intrinsic color centers are investigated in bulk hexagonal diamond as potential emitters for fiber-based quantum communication. Hybrid density functional theory and constrained-occupation delta SCF calculations identify five carbon-vacancy and divacancy configurations with stable optical excited states. A comparison of their radiative and nonradiative properties within a three-point configuration-coordinate model identifies the positively charged axial divacancy, VVa1+, as the most promising candidate. It exhibits the highest calculated zero-phonon-line (ZPL) emission rate of 43.9 MHz and ZPL quantum efficiency of 11.8% among the five candidates. Its weak structural relaxation yields a Huang-Rhys factor of 0.395, while a multimode photoluminescence calculation gives a Debye-Waller factor of 69.37%, indicating a dominant zero-phonon contribution. The predicted ZPL at 0.603 eV (2057.3 nm) also has the smallest photon-energy separation from the 1310 and 1550 nm telecom targets among the candidates. These results identify VVa1+ as a promising intrinsic color center for fiber-based quantum communication, with quantum frequency upconversion offering a route from its strong infrared ZPL to the telecom O and C bands.",
+  "authors": [
+   "Xuanxuan Zhang",
+   "Chen-Min Dai",
+   "Cong Li",
+   "Chunlan Ma",
+   "Zenghua Cai"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "8 pages,5 figures",
+  "first_author": "Xuanxuan Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.13736",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-10",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "An infrared divacancy color center in bulk hexagonal diamond for quantum communication",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.13898": {
+  "abstract": "Machine-learning force fields enable atomistic simulations at near-reference accuracy and substantially reduced computational cost, but their development remains fragmented across software frameworks with incompatible data formats, configuration schemes, dependencies, and execution procedures. Orchestr.AI addresses this limitation through a unified workflow that coordinates different MLIP software frameworks, referred to as engines, for data preparation, model training, fine-tuning, evaluation, and deployment. A common YAML interface defines each experiment, while engine-specific environment profiles preserve compatible software stacks and avoid dependency conflicts. The platform currently supports five MLIP model architectures, namely SchNet, PaiNN, NequIP, Allegro, and MACE, through their corresponding software implementations, providing automated configuration mapping and standardized dataset handling across these frameworks. Benchmarks on the rMD17 and 3BPA datasets show that Orchestr.AI reproduces the expected performance trends while enabling controlled cross-engine comparisons. Repeated executions with fixed configurations and engine profiles produce highly consistent results, demonstrating practical workflow reproducibility. Beyond training, Orchestr.AI provides modular architectural interfaces that connect trained models to ASE-based simulations, batch inference, epistemic uncertainty estimation, calibration, and active-learning workflows. The platform therefore provides a reproducible and extensible infrastructure for developing, comparing, and deploying machine-learning interatomic potentials, which we validate here through cross-engine accuracy and repeatability benchmarks.",
+  "authors": [
+   "Zain Ul Abideen",
+   "Mario Fernández-Pendás",
+   "Muhammad Usman",
+   "Camilo Rodríguez Quintero",
+   "Masuma Suleymanova",
+   "Ignacio Arganda-Carreras",
+   "Ivan Infante"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "26 Pages, 6 Figures, 3 Tables",
+  "first_author": "Zain Ul Abideen",
+  "pdf_url": "http://arxiv.org/pdf/2611.13898",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-10",
+  "tags": [
+   "active-learning",
+   "mace",
+   "mlip"
+  ],
+  "title": "Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-10"
  }
 }
