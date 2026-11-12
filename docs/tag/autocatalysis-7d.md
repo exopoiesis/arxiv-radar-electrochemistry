@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>autocatalysis — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <a href="autocatalysis-360d.html">360d</a> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10725.html">Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a> · <a href="origin-of-life-7d.html">origin-of-life</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
 <td>Zeyu Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2611.10725">2611.10725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="origin-of-life-7d.html">origin-of-life</a> · <a href="phase-transitions-7d.html">phase-transitions</a> · <a href="reaction-networks-7d.html">reaction-networks</a></div></td>
-<td>Jinsu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06033">2611.06033</a></td>
 </tr>
 </tbody></table>

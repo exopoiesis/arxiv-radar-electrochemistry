@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>density-functional-theory — 30d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <strong>30d</strong> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,35 +422,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18137.html">Local-resolvent formulation and assessment of linear-scaling Kohn-Sham calculations</a></div></td>
 <td>Albert Linda</td>
 <td><a href="http://arxiv.org/abs/2610.18137">2610.18137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16467.html">Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Markus E. Gruner et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16467">2610.16467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="phase-stability-30d.html">phase-stability</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Kazutaka Nishiguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16850.html">Trust-Limited Machine-Learning-Accelerated Nudged Elastic Band Calculations for Small-Polaron Hopping in Rutile TiO2</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-u-30d.html">dft-u</a> · <a href="neb-30d.html">neb</a></div></td>
-<td>Ashish Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16850">2610.16850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17226.html">Solvating machine-learning interatomic potentials for solution-phase chemistry</a></div><div class="paper-tags"><a href="implicit-solvation-30d.html">implicit-solvation</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Anton Z. Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17226">2610.17226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="dft-u-30d.html">dft-u</a></div></td>
-<td>Vladislav Korostelev et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
 </tr>
 </tbody></table>

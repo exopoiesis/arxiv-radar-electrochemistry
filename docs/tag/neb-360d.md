@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>neb — 360d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="neb-7d.html">7d</a> <a href="neb-30d.html">30d</a> <a href="neb-90d.html">90d</a> <strong>360d</strong> <a href="neb-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,11 +428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17810.html">Unbiased molecular dynamics for the direct determination of catalytic reaction times : paving the way beyond transition state theory</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Thomas Pigeon et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17810">2511.17810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12697.html">Unraveling the Surface Stability and Chemical Reactivity of Aza-Triphenylene Monolayer under O$_2$ and H$_2$O Exposure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
-<td>Soumendra Kumar Das et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12697">2511.12697</a></td>
 </tr>
 </tbody></table>
