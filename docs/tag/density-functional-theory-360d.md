@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">832 papers</span>
+  <span class="paper-count">834 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16528.html">Edge-scaling softening of a universal machine-learned potential: point-defect formation energies in a coronene graphene quantum dot</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Andrii Tuzhykov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16528">2611.16528</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15060.html">Defective $α$-In$_2$Se$_3$ from first principles</a></div><div class="paper-tags"><a href="phase-stability-360d.html">phase-stability</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Jorge Vega Bazantes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15060">2611.15060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15297.html">Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Manish Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15297">2611.15297</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15478.html">Defect Topology Governs the Optical Response of Doped Amorphous Silicon</a></div></td>
+<td>Ridwan Hussein et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15478">2611.15478</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15664.html">Brute-force molecular dynamics simulation of aging in amorphous Ge$_2$Sb$_2$Te$_5$</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Elisa Petroni et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15664">2611.15664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16085.html">Tunable Long-Range Magnetic Exchange in Adatom-Decorated Transition Metal Dichalcogenide Monolayers: An ab initio Embedding Model Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-u-360d.html">dft-u</a></div></td>
+<td>Xiaohang Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16085">2611.16085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13736.html">An infrared divacancy color center in bulk hexagonal diamond for quantum communication</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
@@ -4982,29 +5018,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14029.html">Twin-boundary-induced nonrelativistic spin splitting</a></div></td>
 <td>Kristoffer Eggestad et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14029">2511.14029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16520.html">Chemical and Conformational Control of the Spectroscopic Properties of Multi-Layer and Multi-Defect Carbon Dots</a></div></td>
-<td>Arshad Mehmood et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16520">2508.16520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13172.html">Bilayer B80 Structure: High Stability and Experimental Support for Existence</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
-<td>Yi-Sha Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13172">2511.13172</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13346.html">Projection-based DMRG-in-DFT embedding corrected by non-additive exchange-correlation</a></div></td>
-<td>Enzo Monino et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13346">2511.13346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13682.html">Molecular Engineering for Enhanced Second-Order Nonlinear Response in Spontaneously-Oriented Evaporated Organic Films</a></div></td>
-<td>Pierre-Luc Thériault et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13682">2511.13682</a></td>
 </tr>
 </tbody></table>

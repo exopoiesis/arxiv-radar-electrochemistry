@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14666.html">Hydrolyzed Hazes on Water-rich Exoplanets: Composition and Prebiotic Chemistry</a></div></td>
+<td>Cara Pesciotta et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14666">2611.14666</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10725.html">Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="autocatalysis-90d.html">autocatalysis</a> · <a href="reaction-networks-90d.html">reaction-networks</a></div></td>
 <td>Zeyu Jia et al.</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22348.html">The first major transition: Origin of life from a multilevel selection perspective</a></div></td>
 <td>Eugene V Koonin</td>
 <td><a href="http://arxiv.org/abs/2608.22348">2608.22348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14381.html">The Galactic Centre G+0.633-0.0604 Molecular Cloud: A New Gold Mine for Astrochemistry</a></div></td>
-<td>D. San Andrés et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14381">2608.14381</a></td>
 </tr>
 </tbody></table>

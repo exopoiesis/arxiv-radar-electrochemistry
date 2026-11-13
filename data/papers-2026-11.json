@@ -1619,5 +1619,444 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-11-10"
+ },
+ "2611.14666": {
+  "abstract": "Although photochemical hazes complicate the spectroscopic analysis of sub-Neptunes, the very presence of hazes can teach us about the habitability of these planets. Aside from affecting a planet's atmospheric and surface dynamics, hazes offer a source of organics potentially including prebiotic molecules like amino acids, nucleobases, and sugars. These organics are particularly compelling for temperate, water-rich planets where hazes may react with liquid water in condensate clouds or surface reservoirs. Hydrolysis reactions drive molecular reorganization and oxygenation, increasing the chemical complexity of the prebiotic inventory. This water-based evolution of hazes in their environment is largely unexplored and will have consequences for their chemical and optical behavior. In this work, we examine the chemical evolution of temperate water-rich exoplanet haze analogs in liquid water. High-resolution mass spectrometry finds thousands of CHNO molecules with bonding behaviors and chemical complexities distinct from the unaltered haze analogs. The oxygen weight percent increases significantly in the soluble fraction and moderately in the insoluble fraction after hydrolysis, with different carbon bonding structures demonstrating the redistribution of functional groups. The hydrolyzed samples exhibit a broader distribution in H/C and O/C ratios, and the molecular formulas suggest complex carbohydrate chemistry that challenges current theories of prebiotic organic delivery.",
+  "authors": [
+   "Cara Pesciotta",
+   "Sarah M. Hörst",
+   "Michael J. Radke",
+   "Sarah E. Moran",
+   "B. P. Blakley",
+   "Chao He",
+   "Véronique Vuitton",
+   "Laurène Flandinet",
+   "Kathy Dubuc"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "25 pages, 7 figures, accepted in PSJ",
+  "first_author": "Cara Pesciotta",
+  "pdf_url": "http://arxiv.org/pdf/2611.14666",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-11-10",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Hydrolyzed Hazes on Water-rich Exoplanets: Composition and Prebiotic Chemistry",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.15060": {
+  "abstract": "$α$-In$_2$Se$_3$ is a two-dimensional van der Waals material with promising applications involving ferroelectricity. However, the presence of native defects can significantly influence its structural and electronic properties. In this work, we employ density functional theory with a state-of-the-art meta-generalized gradient approximation (meta-GGA) exchange-correlation functional to investigate the electronic structure of bulk $α$-In$_2$Se$_3$ and the formation of neutral point defects, including vacancies and antisites, under Se-rich and In-rich growth conditions. Our calculations reproduce the experimental structural parameters of the pristine material and reveal that the Se vacancy in the middle layer exhibits an unexpectedly low formation energy under both chemical environments. Structural analysis shows that the neighboring tetrahedrally coordinated In atom undergoes a substantial local relaxation along the three-fold axis, which preserves its $C_{3v}$ site symmetry even as its coordination is reduced from four to three, providing a microscopic explanation for the remarkable stability of this defect.",
+  "authors": [
+   "Jorge Vega Bazantes",
+   "Timo Lebeda",
+   "Zhiqiang Mao",
+   "Jianwei Sun"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jorge Vega Bazantes",
+  "pdf_url": "http://arxiv.org/pdf/2611.15060",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "density-functional-theory",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Defective $α$-In$_2$Se$_3$ from first principles",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15297": {
+  "abstract": "The function of oxide materials, from solid-oxide fuel cells to solar thermochemical fuel production, depends on their oxygen vacancies. Their formation energetics have been mapped systematically for ternary perovskites, but reported values for the binary oxides, their conceptual and thermochemical building blocks, remain scattered across studies with differing computational methods. Here we report a systematic r$^2$SCAN density functional theory survey of neutral oxygen vacancy formation energies across 39 binary main-group metal oxide polymorphs spanning groups 1, 2, 13, 14, and 15, using the ShakeNBreak method to locate reconstructed defect ground states. The formation energies span 8 eV and decrease down each group and, for most multivalent cations, with increasing oxidation state. Both trends follow the reducibility of the cation. An interpretable crystal feature model is fit to these energies; its inputs are properties of the pristine bulk, with the reduction potential alternatively taken from tabulated thermochemistry. Retaining only its two dominant descriptors, the crystal reduction potential and the band gap, the model reproduces the formation energies with a held-out mean absolute error of 0.31 eV, lower than that of its four-descriptor parent model for transition-metal perovskites. The bond-breaking and stability terms of the full Born-Haber fit prove statistically null for the binary oxides, and the largest residuals identify the hosts where electron accommodation departs from the cation-reduction picture that the descriptors encode. The dataset provides a benchmark for machine-learning interatomic potentials, and the model estimates vacancy formation energies of main-group oxides from bulk properties alone.",
+  "authors": [
+   "Manish Kumar",
+   "Bridget S. Ferris",
+   "Avital Isakov",
+   "Robert B. Wexler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Main text: 17 pages, 3 figures. Supporting Information (appended): 45 pages, 13 figures, 9 tables. Submitted to the Journal of the American Chemical Society",
+  "first_author": "Manish Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2611.15297",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15451": {
+  "abstract": "Over the last decade we have built Alexandria, an open database of about 15 million density-functional calculations of crystals. It includes PBE, PBEsol, SCAN and TB-mBJ results, structures relaxed at pressures up to 150 GPa, dielectric tensors and about 145,000 electron-phonon calculations, together with more than 400 million structures relaxed with machine-learned potentials. On these data we trained a generative model for crystal structures, a universal interatomic potential and graph neural networks for more than ten properties, from band gaps to superconducting critical temperatures. From the convex hull we computed a reaction graph of the 17.4 billion reactions between its 193,416 stable compounds. Here we give all of this to a general-purpose language-model agent. Working unattended, the agent screens the database for a solar absorber, drops a candidate whose synthesis releases too little energy, and writes a synthesis plan with precursors, crucible and atmosphere. Asked about the well-studied Ba-Zr-S system, it finds an unreported sulfide and designs the experiment that would confirm or rule it out. Asked for an air-stable alternative, it designs one and tests it against new structures from the generative model. With web search alone, the same agent proposes what the literature already discusses. Put together, the data, the models and the reaction graph let a general agent do what none of them does alone: go from a question in plain words to an experiment that a laboratory can run and test.",
+  "authors": [
+   "Paulo R. Pires",
+   "Théo Cavignac",
+   "Tiago F. T. Cerqueira",
+   "Hai-Chen Wang",
+   "Silvana Botti",
+   "Miguel A. L. Marques"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Paulo R. Pires",
+  "pdf_url": "http://arxiv.org/pdf/2611.15451",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "mlip"
+  ],
+  "title": "Materials research with a general-purpose agent",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15478": {
+  "abstract": "The influence of defect topology and chemical doping on the optical response of amorphous silicon (a-Si) remains unresolved. In this study, hybrid-functional density functional theory and linear-response calculations are employed to examine four structurally distinct continuous random networks with substitutional boron and phosphorus doping. The calculated optical properties reproduce key experimental trends and demonstrate that dopant sensitivity is determined not only by defect concentration, but also by the character and spatial organization of defects. A configuration with fully extended 4-fold coordination shows the strongest dielectric perturbation to doping, while dopant effects in networks with pre-existing defect states are more varied. For most networks, the dielectric response is more strongly perturbed by boron than phosphorus. Notably, a network having both 3- and 5-fold defects with a total defect fraction of 7.4% reverses the typical boron-dominant response of other cases, becoming more sensitive to phosphorus. Tauc and optical sum-rule analyses further indicate that network topology defines the broader optical landscape, whereas doping primarily affects states near the gap and redistributes spectral weight. These findings establish defect topology as a microscopic control parameter that links amorphous structure, dopant activity, and optical response in amorphous silicon.",
+  "authors": [
+   "Ridwan Hussein",
+   "Chinonso Ugwumadu",
+   "Louise A. M. Rosset",
+   "Roxanne M. Tutchton"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ridwan Hussein",
+  "pdf_url": "http://arxiv.org/pdf/2611.15478",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Defect Topology Governs the Optical Response of Doped Amorphous Silicon",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15603": {
+  "abstract": "Neural scaling laws enable the prediction of returns from larger training datasets, but machine-learned interatomic potential (MLIP) datasets are heterogeneous and expensive to generate, and equal numbers of structures need not contain equal amounts of useful information. We study data scaling under fixed model configurations for M3GNet, MACE, and PET trained on subsets of a combined MatPES-MP-ALOE training pool. Across training structure subsets from 10,000 to 640,000, together with the full 1.16-million-structure training set, we compare uniform random sampling, three chemistry- and structure-informed stratification policies, iterative DIRECT, and furthest-point sampling using embeddings from three pretrained MLIPs. Models are evaluated using cohesive-energy, force, stress, and aggregate losses on both a held-out test set from the parent distribution and the distribution shifted MP-r$^2$SCAN test set. We observe power-law scaling improvements with increasing data, but the fitted scaling exponent, apparent error floor, and relative sample efficiency depend on the model architecture, target quantity, data sampling policy, and test set distribution. Sampling-policy rankings can reverse across test distributions: chemical stratification can improve cross-dataset performance while degrading in-distribution performance, whereas the embedding-space diversity policies frequently under-perform random sampling. Relative loss is strongly associated with test-to-train chemical-space divergence. These results show that structure count is a necessary but insufficient scaling variable for MLIPs. For training MLIPs, the return on additional first-principles calculations depends not only on how many additional structures are included, but also on how their chemical and configurational content aligns with the model's intended use.",
+  "authors": [
+   "Theo Keane",
+   "Anthony Onwuli",
+   "Richard Tomsett",
+   "Robert M. Forrest",
+   "Jonathan J. Bean"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "physics.chem-ph"
+  ],
+  "comment": "To appear in AI4Mat@NeurIPS 2026",
+  "first_author": "Theo Keane",
+  "pdf_url": "http://arxiv.org/pdf/2611.15603",
+  "primary_category": "cs.LG",
+  "published": "2026-11-11",
+  "tags": [
+   "ab-initio",
+   "m3gnet",
+   "mace",
+   "mlip"
+  ],
+  "title": "Are Scaling Laws of Universal MLIPs Universal?",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15664": {
+  "abstract": "Chalcogenide alloys such as the prototypical Ge$_2$Sb$_2$Te$_5$ compound are used in phase change electronic memories due to their ability to undergo a fast and reversible transition between the amorphous and crystalline phases upon heating. The amorphous phase is subject to aging that leads to an increase in the electrical resistance, which is detrimental to the operation of the devices. Using a machine learning interatomic potential, we have investigated the structural relaxations responsible for aging in amorphous Ge$_2$Sb$_2$Te$_5$ in molecular dynamics simulations at temperatures slightly below the glass transition. The aging simulation, lasting about 100 ns, follows an equilibration of 24 ns at 400 K. During aging we observed an enhancement of the Peierls distortion in axial bonds which is a typical feature of these alloys that we relate to the widening of the electronic band gap computed within Density Functional Theory in smaller aged amorphous models. We also observed a marked reduction of the atomic mobility with an increase of the bond lifetimes during aging. However, we do not see a reduction in homopolar bonds, which are expected to be absent in the ideal aged glass and which should be removed on a much longer time scale.",
+  "authors": [
+   "Elisa Petroni",
+   "Dario Baratella",
+   "Omar Abou El Kheir",
+   "Andrea Redaelli",
+   "Marco Bernasconi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Elisa Petroni",
+  "pdf_url": "http://arxiv.org/pdf/2611.15664",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Brute-force molecular dynamics simulation of aging in amorphous Ge$_2$Sb$_2$Te$_5$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15767": {
+  "abstract": "Negative thermal expansion (NTE) in framework materials arises from complex lattice dynamics that are challenging to capture using conventional theoretical approaches. Here, we establish a hierarchical computational strategy for investigating NTE in ZrV2O7, integrating the quasiharmonic approximation (QHA), temperature-dependent effective potentials (TDEP), and machine-learning-accelerated ab initio molecular dynamics (ML-MD). Quasi-harmonic lattice-dynamical calculations identify low-frequency phonon modes with negative Grüneisen parameters as inexpensive screening descriptors, while TDEP incorporates finite-temperature anharmonicity and ML-MD further reveals temperature-dependent structural distortions that drive the lattice contraction. The observations are further corroborated with X-ray diffraction (XRD) measurements. The concurrent increase in transverse displacement (uT) provides microscopic evidence for a quasi-rigid-unit-mode (QRUM) mechanism underlying the NTE behaviour at elevated temperatures. This is consistent with previous reports on other framework materials, including ZrW2O7, where collective polyhedral rotations and transverse atomic motions have been linked to NTE. Overall, our results demonstrate how relatively inexpensive lattice-dynamical descriptors can identify potential NTE materials, while higher-level anharmonic simulations can then resolve the underlying structural mechanisms at the atomic scale.",
+  "authors": [
+   "J. Bustamante",
+   "A. Miliute",
+   "N. Jaykhedkar",
+   "A. A. Naik",
+   "J. Grandel",
+   "F. Emmerling",
+   "T. M. Stawski",
+   "J. George"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "J. Bustamante",
+  "pdf_url": "http://arxiv.org/pdf/2611.15767",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "ab-initio",
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "A Hierarchical Harmonic-to-Anharmonic Framework for ab initio Screening and Mechanistic Analysis of Negative Thermal Expansion in ZrV2O7",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15939": {
+  "abstract": "Modern machine learning potentials (MLPs) enable large-scale atomistic simulations at unprecedented accuracy. The incorporation of explicit physical interactions such as long-range electrostatics has continuously broadened their applicability to increasingly complex systems in chemistry and materials science. Extending MLPs to electrochemistry and electrocatalysis, however, is still challenging as it requires the consideration of electrode potentials and electric fields in the atomic interactions. Such approaches have emerged only recently, and although the field is evolving rapidly, further conceptual advances are still needed for carrying out reliable simulations at finite temperature under applied potential. In this review, we provide a comprehensive overview about recent progress in the atomistic simulation of electrified interfaces using MLPs. Current developments fall into three different categories. The first comprises linear response models that describe polarisation, polarisability, and Born effective charges, extending conventional MLPs to finite electric fields. The second includes methods that directly learn a field-dependent potential energy surface. The third consists of a series of hybrid approaches combining classical models with machine learning. Although still under active development, these methods represent a major step toward more realistic simulations approaching the quality of electronic structure calculations. Finally, we discuss open challenges and possible future directions for advancing MLP-based simulations aiming for a bottom-up understanding of atomistic processes at electrified interfaces.",
+  "authors": [
+   "Marialore Sulpizi",
+   "Jörg Behler"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 2 figures",
+  "first_author": "Marialore Sulpizi",
+  "pdf_url": "http://arxiv.org/pdf/2611.15939",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-11",
+  "tags": [
+   "electrocatalysis"
+  ],
+  "title": "Atomistic simulations of electrochemical systems with machine learning potentials",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.16085": {
+  "abstract": "Engineering magnetic interactions in two-dimensional materials offers a promising route toward programmable magnetic phases and reconfigurable spintronic functionalities. Here, we investigate magnetic adatoms on metallic monolayer transition-metal dichalcogenides (TMDs) as a platform for tunable indirect exchange, focusing on Fe adatoms on monolayer TaS$_2$. In the intermediate-distance regime, DFT+U calculations reveal atomic-scale oscillations in the exchange coupling between two Fe adatoms and show that biaxial strain tunes the coupling. We develop a first-principles embedding model that reproduces the DFT-calculated pair exchange and establishes a substantial RKKY contribution to the exchange; controlled comparisons further identify RKKY-mediated coupling as the primary origin of the exchange's strain tunability. These results point to combining adatom arrangement with strain as a means of engineering reconfigurable magnetic interactions in metallic monolayer TMDs.",
+  "authors": [
+   "Xiaohang Jia",
+   "Ryan Weiss",
+   "Yusong Bai",
+   "Brenda Rubenstein"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 7 figures, plus 7 pages of Supplemental Material",
+  "first_author": "Xiaohang Jia",
+  "pdf_url": "http://arxiv.org/pdf/2611.16085",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Tunable Long-Range Magnetic Exchange in Adatom-Decorated Transition Metal Dichalcogenide Monolayers: An ab initio Embedding Model Study",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.16266": {
+  "abstract": "PbTiO$_3$ is a typical ferroelectric polarization induced negative thermal expansion (NTE) material at a wide range of temperature. The elegant TiO$_6$ octahedron is used to study the polarization and NTE, whereas lacking its quantitative characterization. In this work, we propose a concise projection of vibrational amplitude to describe anisotropic distortion of atoms with temperature based on $ab$ $initio$ molecular dynamics simulations. We find that the huge negative mode Grüneisen coefficient is mainly from the different vibrational modes of the TiO$_6$ octahedral rotation at two boundary symmetry points in tetragonal phase along $c$ direction. The potential energy surface as a function of amplitude suggests the $c$-axis compression facilitates the TiO$_6$ octahedral rotation. We show that the vibrational mode of TiO$_6$ octahedral rotation around negative-expansion axis can promote spontaneous polarization reduction with increasing temperature, making transformation of PbTiO$_3$ from tetragonal to cubic phase occur, via the projected amplitude, potential energy surface, and forces of individual atoms.",
+  "authors": [
+   "Zhikai Gao",
+   "Yuanji Xu",
+   "Fuyang Tian"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zhikai Gao",
+  "pdf_url": "http://arxiv.org/pdf/2611.16266",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-12",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Studying temperature-induced decrease of spontaneous polarization in PbTiO$_3$ from vibrational amplitude",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16528": {
+  "abstract": "Universal machine-learning interatomic potentials (MLIPs) are increasingly used as computationally efficient surrogates for density functional theory (DFT) in high-throughput nanomaterials screening. Systematic softening has been reported for several universal MLIPs when high-energy and far-from-equilibrium configurations are underrepresented in training data. We examine how this behavior appears at under-coordinated edge sites in graphene quantum dots (GQDs), where a vacancy can have pronounced molecular-radical character. Using coronene (C$_{24}$H$_{12}$), a hexagonal GQD with $D_{6h}$ symmetry and three carbon classes, we benchmark SevenNet (7net-omni-i12) against spin-polarized PBE DFT (GPAW) for monovacancy, divacancy, and Stone-Wales defects. Beyond the full site- and bond-resolved landscapes, we perform a controlled matched-reconstruction comparison in which 28 vacancy and divacancy configurations are scored by both engines using self-consistent chemical-potential reservoirs. In this dataset, SevenNet underestimates all 28 vacancy and divacancy formation energies, and the mean deficit increases with under-coordination within each defect family: 0.30-0.74 eV for monovacancies and 0.65-1.11 eV for divacancies as the number of broken edge C-H bonds increases. By contrast, the mean Stone-Wales energies differ by only 0.013 eV. SevenNet also preserves the ordering of three hydrogen-dependent reconstruction basins and reproduces $D_{6h}$-equivalent sites to within a few meV. The within-class symmetry spread therefore provides a practical diagnostic of basin-sensitive relaxations. Within the present coronene benchmark, these results support MLIP-based structure screening and preliminary ranking, while absolute vacancy energies and multi-basin edge configurations still require DFT validation.",
+  "authors": [
+   "Andrii Tuzhykov",
+   "Vladimir Soloviev",
+   "Arnold Kiv",
+   "Andrii Bielinskyi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "14 pages, 4 figures, 1 table. Presented at ADT-ISMDDC-2026 (ICST-ODESA-2026), Odesa, Ukraine, September 22-24, 2026. To appear in CEUR Workshop Proceedings",
+  "first_author": "Andrii Tuzhykov",
+  "pdf_url": "http://arxiv.org/pdf/2611.16528",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-12",
+  "tags": [
+   "density-functional-theory",
+   "mlip",
+   "vacancies"
+  ],
+  "title": "Edge-scaling softening of a universal machine-learned potential: point-defect formation energies in a coronene graphene quantum dot",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16605": {
+  "abstract": "In Born-Oppenheimer (BO) dynamics, auxiliary variables such as electron densities, induced polarization and electrode charges follow stationarity conditions, yet their time derivatives, such as currents, are physical observables. Using Mass-Zero constrained dynamics, we interpret these derivatives as explicit dynamical variables and derive the invariant measure giving their equilibrium statistical properties. We illustrate the framework in constant-potential molecular dynamics, where the electrode-charge velocities reproduce BO current fluctuations and the frequency-dependent admittance.",
+  "authors": [
+   "Paula Sierra",
+   "Benjamin Rotenberg",
+   "Sara Bonella"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Paula Sierra",
+  "pdf_url": "http://arxiv.org/pdf/2611.16605",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-12",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Dynamics and Statistical Mechanics of Born-Oppenheimer Auxiliary Velocities",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17111": {
+  "abstract": "Pore-space evolution and fluid displacement influence how rocks transmit and store fluids, affecting geological carbon storage, underground hydrogen storage and groundwater contaminant transport. A single time-resolved micro-CT experiment may produce tens to hundreds of three-dimensional images, and segmentation is required to quantify physical properties and run image-based simulations. Traditional methods such as thresholding perform poorly on noisy, low-contrast images and need manual adjustment per image; 3D deep learning networks segment each image without temporal information, so their errors vary between images and could be mistaken for physical change. Here we introduce a transformer-based 4D segmentation framework combining spatial and temporal information. It uses sequential images to resolve ambiguous phase assignments and separate physical change from segmentation error. The method is tested on images of mineral dissolution: it measures pore-volume growth and rock boundaries more accurately than an equivalent 3D model that ignores temporal information. It also captures the increase in permeability verified against reference segmentations and flow simulations. The advantage transfers to another dissolution sample without retraining. On two other datasets of fluid displacement, it reduces spurious changes in predicted rock and porosity fluctuations and accurately identifies filling events. Spatiotemporal segmentation turns sequences of hundreds of three-dimensional images into more reliable quantitative measurements of pore-space evolution and fluid displacement without per-image parameter adjustment to support the analysis of time-resolved CT imaging.",
+  "authors": [
+   "Zhuangzhuang Ma",
+   "Rukuan Chai",
+   "Qianqian Ma",
+   "Yanghua Wang",
+   "Branko Bijeljic",
+   "Martin J. Blunt"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.CV"
+  ],
+  "comment": "48 pages, 9 figures, 18 tables, including Supplementary Information",
+  "first_author": "Zhuangzhuang Ma",
+  "pdf_url": "http://arxiv.org/pdf/2611.17111",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-12",
+  "tags": [
+   "dissolution-kinetics"
+  ],
+  "title": "Spatiotemporal learning improves quantification of pore-space evolution and fluid displacement",
+  "topics": [
+   "Mineral Surfaces and Geochemistry"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17283": {
+  "abstract": "Ceramic materials that maintain structural integrity and resist thermal-shock under extreme conditions are critical for many applications. Here we show that spark plasma sintered composites containing equal weight fractions of hexagonal silicon carbide (6H-SiC) and boron nitride (h-BN) exhibit exceptional stability under extreme high-temperature oxidizing conditions and unusually stable temperature-independent thermal conductivity across a broad temperature range. Under high-velocity oxygen-fuel torch exposure in air, it withstands prolonged heating and thermal-cycling at surface temperatures reaching >1500 °C, whereas pure 6H-SiC and h-BN rapidly fractures or erodes. Microstructural evaluation shows the formation of a multi-phase surface silica layer that further protects the material from oxidation. Finite-element analysis heat-flux map shows that intrinsic porosity mitigates thermal stress, while ReaxFF molecular dynamics simulations reveal thermally driven interfacial reconstruction and the formation of a Si-N/C-B-rich bonding network, enhancing the interfacial cohesion at elevated temperatures. This lightweight, easily machinable ceramic composite will be a promising structural material in extreme environment applications.",
+  "authors": [
+   "Abhijit Biswas",
+   "Eugenio Garcia-Granados",
+   "Saman Zare",
+   "Mozhdeh Mirakhory",
+   "JungHun Park",
+   "Shuvodeep De",
+   "Jessica Reyes",
+   "Hunter B. Schonfeld",
+   "Noah A. Burke",
+   "William Riffe",
+   "Michael S. Lafferty",
+   "Sudaice Kazibwe",
+   "Maryam Amiri",
+   "Shreyasi Chattopadhyay",
+   "Mingrui Xu",
+   "Gelu Costin",
+   "Tanguy Terlier",
+   "Jianhua Li",
+   "Ching-Wu Chu",
+   "Liangzi Deng",
+   "Bharat K. Jasthi",
+   "Manoj Tripathi",
+   "Venkataramana Gadhamshetty",
+   "Gi-Dong Sim",
+   "Kathy Lu",
+   "Adri C. T. van Duin",
+   "Patrick E. Hopkins",
+   "Sanjay Sampath",
+   "Pulickel M. Ajayan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "76 Pages, 4 Main Figures, 30 SI Figures, 8 Tables, Authors version, Comments are welcome",
+  "first_author": "Abhijit Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2611.17283",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-12",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "SiC-BN composites with extreme thermal and environmental stability",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-12"
  }
 }

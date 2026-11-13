@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15603.html">Are Scaling Laws of Universal MLIPs Universal?</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="m3gnet-90d.html">m3gnet</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Theo Keane et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15603">2611.15603</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13898.html">Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Zain Ul Abideen et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15189.html">Broadband phonon-velocity suppression and a finite anisotropic crossover in twisted bilayer SnSe</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
 <td>Peng Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15189">2608.15189</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14899.html">Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynamics Trajectories</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="aimd-90d.html">aimd</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14899">2608.14899</a></td>
 </tr>
 </tbody></table>

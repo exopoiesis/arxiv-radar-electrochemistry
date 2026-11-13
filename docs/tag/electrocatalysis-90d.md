@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02796.html">High-Entropy A-Site Disorder Enhances Oxygen Evolution Reaction Activity and Stability in Nickelate Thin Films</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
 <td>Min-Ju Choi et al.</td>
@@ -50,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08363.html">A thermally grown SiO2 diffusion barrier enabling high-temperature investigation of Ag-Au-Pd-Pt thin films</a></div><div class="paper-tags"><a href="phase-stability-90d.html">phase-stability</a></div></td>
 <td>Elaheh Akbarnejad et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08363">2609.08363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="microkinetics-90d.html">microkinetics</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
-<td>Songbo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
 </tr>
 </tbody></table>

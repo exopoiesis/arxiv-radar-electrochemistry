@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vacancies — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <strong>30d</strong> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16528.html">Edge-scaling softening of a universal machine-learned potential: point-defect formation energies in a coronene graphene quantum dot</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Andrii Tuzhykov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16528">2611.16528</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15060.html">Defective $α$-In$_2$Se$_3$ from first principles</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
+<td>Jorge Vega Bazantes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15060">2611.15060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15297.html">Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Manish Kumar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15297">2611.15297</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13736.html">An infrared divacancy color center in bulk hexagonal diamond for quantum communication</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -146,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Xiaoya He et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22394">2610.22394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18020.html">Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Yuchen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18020">2610.18020</a></td>
 </tr>
 </tbody></table>
