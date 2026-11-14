@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,29 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11019.html">Toward universal excited-state machine-learned potentials: a local excitation Hamiltonian for size consistency and transferability</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a></div></td>
 <td>Pascal Friederich</td>
 <td><a href="http://arxiv.org/abs/2611.11019">2611.11019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="adsorption-7d.html">adsorption</a></div></td>
-<td>Jakub Planer et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08851">2611.08851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08986.html">Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order</a></div><div class="paper-tags"><a href="phase-stability-7d.html">phase-stability</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Tomás Rojas Solorzano et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08986">2611.08986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09153.html">From local learning to global electronic properties in large-scale systems</a></div></td>
-<td>Yu Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09153">2611.09153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09494.html">Interplay of Ni Order and Local Moments in Intercalated NixNbS2</a></div></td>
-<td>Gaurav Pransu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09494">2611.09494</a></td>
 </tr>
 </tbody></table>

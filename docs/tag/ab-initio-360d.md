@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2828,17 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16059.html">Extending SLUSCHI for Automated Diffusion Calculations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Qi-Jun Hong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16059">2511.16059</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14904.html">5d-mediated indirect exchange and effective spin Hamiltonians in Ce triangular-lattice delafossites</a></div></td>
-<td>Leonid V. Pourovskii</td>
-<td><a href="http://arxiv.org/abs/2511.14904">2511.14904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14940.html">Resolving the Nature of the Lowest-Frequency Raman Mode of Liquid Water</a></div></td>
-<td>Florian Pabst et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14940">2511.14940</a></td>
 </tr>
 </tbody></table>
