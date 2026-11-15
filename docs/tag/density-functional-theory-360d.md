@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">833 papers</span>
+  <span class="paper-count">832 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5006,11 +5006,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12448.html">Prediction of the aqueous redox properties of functionalized quinones using a new QM/MM variational formulation</a></div></td>
 <td>Maxime Labat et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12448">2506.12448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19882.html">Design Rules for Optimizing Quaternary Mixed-Metal Chalcohalides</a></div><div class="paper-tags"><a href="chalcogenides-360d.html">chalcogenides</a></div></td>
-<td>Pascal Henkel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19882">2505.19882</a></td>
 </tr>
 </tbody></table>

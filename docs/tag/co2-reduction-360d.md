@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>co2-reduction — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="co2-reduction-7d.html">7d</a> <a href="co2-reduction-30d.html">30d</a> <a href="co2-reduction-90d.html">90d</a> <strong>360d</strong> <a href="co2-reduction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08183.html">Boosting high-current alkaline water electrolysis and carbon dioxide reduction with novel CuNiFe-based anodes</a></div></td>
 <td>Nusrat Rashid et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08183">2602.08183</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15042.html">Integrating Atomic Scale Catalyst Design with Transport Engineering for Stable and Efficient CO2 Electrolysis to CO in a Membrane Electrode Assembly</a></div></td>
-<td>Zahra Teimouri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15042">2511.15042</a></td>
 </tr>
 </tbody></table>
