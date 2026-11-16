@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18490.html">Fine-tuned atomistic foundation model for accurate sodium-carbon chemistry in Na-ion batteries</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Andres Felipe Usuga et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18490">2611.18490</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15603.html">Are Scaling Laws of Universal MLIPs Universal?</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="m3gnet-360d.html">m3gnet</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Theo Keane et al.</td>
@@ -1076,11 +1082,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18817.html">Conceptual Design of the Muonium-to-Antimuonium Conversion Experiment (MACE)</a></div></td>
 <td>Ai-Yu Bai et al.</td>
 <td><a href="http://arxiv.org/abs/2410.18817">2410.18817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19081.html">Efficient and Accurate Spatial Mixing of Machine Learned Interatomic Potentials for Materials Science</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Fraser Birks et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19081">2502.19081</a></td>
 </tr>
 </tbody></table>

@@ -2058,5 +2058,207 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-11-12"
+ },
+ "2611.17521": {
+  "abstract": "Van der Waals magnets provide a versatile platform for exploring magnetic phenomena that emerge from reduced dimensionality, including layer-dependent magnetic ordering. Here, we use scanning nitrogen-vacancy (NV) centers in diamond magnetometry to measure the magnetization of a trilayer of the A-type antiferromagnet CrPS$_4$, resolving its zero-field bistability between the up-down-up ($\\uparrow\\downarrow\\uparrow$) and down-up-down ($\\downarrow\\uparrow\\downarrow$) layer magnetization configurations. The coercive field decreases approximately linearly with temperature, consistent with the Néel--Arrhenius model. Density Functional Theory calculations capture the temperature dependence of the magnetization and determine the coercive field in the coherent-rotation case. The measured coercive fields are lower, identifying thermally activated domain nucleation as the reversal mechanism. Spatial magnetic imaging supports this picture, revealing independently switching regions likely pinned by structural inhomogeneities. Our results highlight the power of scanning NV magnetometry for the quantitative investigation of magnetization reversal in two-dimensional magnets, unraveling the magnetic phenomenology that emerges in low-dimensional systems.",
+  "authors": [
+   "Fabian A. Gerritsma",
+   "Roland W. Mulder",
+   "Balázs Nagyfalusi",
+   "Pieter C. J. A. van Zweeden",
+   "Samer Kurdi",
+   "Francisco Machado",
+   "Jaime Ferrer",
+   "Samuel Mañas-Valero",
+   "Toeno van der Sar"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "13 pages, 4 figures",
+  "first_author": "Fabian A. Gerritsma",
+  "pdf_url": "http://arxiv.org/pdf/2611.17521",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-11-12",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Thermally Activated Magnetic Switching in Antiferromagnetic Van der Waals Trilayers Resolved by Single-Spin Diamond Magnetometry",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17627": {
+  "abstract": "We present a machine-learning (ML) charge density model, DeltaChargeNet, integrated with the full-potential tight-binding muffin-tin orbital (FP-TB-MTO) method for electronic structure and quantum transport simulations of materials and devices. The ML model predicts electron density from atomic structures with low linear-scaling cost, while FP-TB-MTO provides an accurate tight-binding representation of the system Hamiltonian. To achieve high-fidelity ML density for complex devices with interfaces and disorder, we train an equivariant graph convolutional network to predict $Δρ$-the difference between DFT and atomic superposition densities-under a charge neutrality constraint required for inhomogeneous systems. A secondary ML residual charge model compensates for errors in the primary $Δρ$ model. The predicted density is then used within the full-relativistic FP-TB-MTO framework combined with the non-equilibrium Green's function method. We validate our method on bulk HgCdTe disordered alloys (including vacancy defects) and Au/HgCdTe/Au disordered devices. The maximum band energy error is below 10 meV for bulk HgCdTe. For devices, the charge neutrality constraint suppresses long-wavelength charge bias that would otherwise distort the electrostatic potential by 0.68-1.88 eV near the device center, while residual compensation corrects the remaining 0.16-0.46 eV potential mismatch, essential for reproducing the correct potential barrier profile. Together, these corrections reproduce the layer-resolved potential, including interface steps and bulk-like plateaus, within 0.1 eV of fully self-consistent DFT. Finally, we demonstrate quantum transport in a 11220-atom infrared detector. By combining first-principles accuracy with linear-scaling inference, DeltaChargeNet enables large-scale device simulations without the full DFT self-consistent field loop.",
+  "authors": [
+   "Qingyun Zhang",
+   "Yang Hu",
+   "Aixia Zhang",
+   "Zehua Sun",
+   "Jiawei Yan",
+   "Xiaohao Zhou",
+   "Wei Lu",
+   "Youqi Ke"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 8 figures",
+  "first_author": "Qingyun Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.17627",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-13",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Machine-learning charge density for electronic materials and devices simulation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.17679": {
+  "abstract": "Ion transport in solids has conventionally been understood from equilibrium diffusion, yet ions in batteries are driven by electric fields. Does field-driven ion transport follow equilibrium behavior? We examined this question in bulk Li2O and at its grain boundaries (GBs) using electric-field molecular dynamics combining a machine learning interatomic potential with a Bader charge prediction model. Although Li diffusion in cubic Li2O is isotropic at zero field, an electric field renders it orientation dependent because Li hops along a limited set of crystallographic pathways that the field biases unequally. At GBs, this anisotropy becomes a qualitative difference: a GB that strongly traps Li vacancies but exhibits a strong field response releases them under a field, whereas a weakly responsive GB retains them despite weaker vacancy trapping. These results show that field-driven GB transport is governed not by static thermodynamics alone but by the angle between the electric field and the diffusion pathways of the constituent grains.",
+  "authors": [
+   "Youjeong Choi",
+   "Po-yen Chem",
+   "Tasuku Sugiura",
+   "Teruyasu Mizoguchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "39 pages, 16 figures",
+  "first_author": "Youjeong Choi",
+  "pdf_url": "http://arxiv.org/pdf/2611.17679",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-13",
+  "tags": [
+   "ion-transport",
+   "mlip",
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Electric Fields Turn Vacancy-trapping Grain Boundaries into Li-Ion Pathways in Li2O",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.17931": {
+  "abstract": "In mineral exploration, verifying geological hypotheses relies on designing a variety of geochemical experiments. While large language model (LLM) agents increasingly automate downstream geoscientific data analysis, a crucial upstream capability remains largely unexplored: automated geochemical experimental design, i.e., deciding which experiments to conduct before committing to costly laboratory work. Evaluating this capability of LLM agents is difficult for two reasons. First, geochemical experiments exhibit high methodological diversity and subjectivity: to test the same hypothesis, different geologists may choose different minerals and instruments, so no single protocol can serve as the reference answer. Second, open-ended experimental plans resist representation as structured labels, which makes objective scoring difficult. To address these challenges, we introduce MineralExp, a benchmark that reformulates geochemical experimental design as a hypothesis-based experiment selection problem, i.e., a multi-label classification problem. We abstract concrete instrument names and procedural details into a shared taxonomy of 19 experimental types across five mineral-system processes: Source, Transport, Deposition, Modification, and Preservation. This taxonomy yields deterministic multi-label targets while accommodating diverse experimental protocols. Constructed from published ore-deposit literature and verified by domain experts, MineralExp comprises 277 cases and 1,572 reference experimental plans. Given a geological hypothesis and initial context, an LLM agent selects the relevant tasks and generates concrete experimental plans, which are scored by multi-label classification metrics and an LLM-as-a-Judge metric. The experimental results show that current agents generally achieve high recall but low precision, tending to propose more experiments than are necessary to test the hypothesis.",
+  "authors": [
+   "Bing Wang",
+   "Mingyang Wang",
+   "Yuanhang Mi",
+   "Yue Xu",
+   "Kaibo Su",
+   "Li'ang Xiao",
+   "Chunguo Wu",
+   "Changchun Li",
+   "Ximing Li",
+   "Kun-Feng Qiu",
+   "Bo Yang"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.CE"
+  ],
+  "comment": "16 pages, 6 figures",
+  "first_author": "Bing Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.17931",
+  "primary_category": "cs.CL",
+  "published": "2026-11-13",
+  "tags": [],
+  "title": "MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration",
+  "topics": [
+   "Mineral Surfaces and Geochemistry"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.18041": {
+  "abstract": "One of the defining characteristics of most energy materials, used as e.g.~battery electrodes, photovoltaics, or photocatalysts, is their ability conduct charges such as electrons and holes. The exact mechanism of this conductivity depends on the material, but is often dominated by the existence of mobile small polarons, i.e.~electrons or holes strongly localised through the polarisation of their environment. Computationally, small polarons can be treated with reasonably accuracy through the use of self-interaction corrected or hybrid density functional theory (DFT) together with local geometry optimisation. Similar approaches can be employed to determine the energy barriers to movement of the polarons through hopping. Unfortunately, realistic energy materials tend have very large numbers of symmetry inequivalent polaronic configurations and correspondingly large numbers of hopping barriers, making them hard to tackle explicitly.   In this work we therefore extend the computational reach of DFT calculations with machine-learned (ML) surrogate models, which then feed into a kinetic model to quantitatively estimate the conductivity of a battery anode material (Li$_4$Ti$_5$O$_12$ or LTO) at realistic, defected conditions. We calculate the conductivity at room temperature to be 6.7 $\\times$ 10$^{-3}$ S/cm which lies well in the experimental range. To this end, we only needed a total of 154 polaron barrier calculations, out of 3649 symmetry inequivalent ones, achieving an over 20-fold increase of computational efficiency. Overall, our work demonstrates how DFT-trained ML surrogates can be used to quantitatively and efficiently sample the dynamics of small polarons in energy materials.",
+  "authors": [
+   "Tavinder Singh",
+   "Harald Oberhofer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Tavinder Singh",
+  "pdf_url": "http://arxiv.org/pdf/2611.18041",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-13",
+  "tags": [
+   "density-functional-theory",
+   "microkinetics"
+  ],
+  "title": "A Machine-learning-aided Workflow for Sampling Small Polaron Dynamics in Energy Materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.18430": {
+  "abstract": "Graph neural networks (GNNs) show promise for predicting materials properties, but interpretability remains a challenge, particularly understanding whether attributed feature importance reflects physical reality or statistical artifacts. Here, we present a methods validation study that deliberately overfits a physics-aware GNN ensemble to probe the robustness of feature-ranking approaches. Using the CoMoFeNiCu high-entropy alloy system with three stoichiometries, we train GNNs to predict decomposition enthalpies from DFT-calculated structures while explicitly constraining output weights to encode feature importance. By design, our dataset is limited (approximately 900 binary and 4,500 ternary decomposition pathways) to control compositional complexity and enable precise interrogation of local chemistry effects. We validate that feature rankings capture meaningful local-environment information through a series of atomic swap perturbations: perturbing individual atomic sites and re-ranking features reveals spatial decay consistent with the GNN's interaction cutoff, confirming that weights encode neighbor-shell effects rather than global stoichiometric artifacts alone. Results demonstrate that feature attribution methods can remain physically interpretable even under overfitting, provided validation is rigorous. This work establishes a foundation for trustworthy interpretability in materials GNNs and sets the stage for scaling to multiple chemistries and testing generalization across compositional spaces.",
+  "authors": [
+   "Miguel Tenorio",
+   "James Chapman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Miguel Tenorio",
+  "pdf_url": "http://arxiv.org/pdf/2611.18430",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-13",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Validating Graph Neural Network Feature Attribution Through Local Perturbations: A Study on CoMoFeNiCu Decomposition Enthalpy",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.18490": {
+  "abstract": "Atomistic foundation models have emerged as a promising route to DFT-level accuracy for materials simulation with complex chemical environments. However, their reliability across competing bonding regimes and, more importantly, how complex bonding affects predictions of material properties remain unclear. Among materials with competing bonding regimes, sodium storage in hard carbon poses a substantial challenge. Hard carbon features diverse local structural motifs, including defective and curved graphitic regions, amorphous regions, and closed/open pores. Motivated by its importance for Na-ion batteries, we systematically evaluate existing pretrained foundation models based on the MACE architecture across different local Na/C motifs. We find that the pretrained models fail to accurately capture Na-Na and Na-C interactions for metallic Na clusters on graphene. To recover a DFT-level energetic description, we employ targeted fine-tuning, showing that it can describe the energetic stability of local motifs and achieve sufficient transferability to unseen Na/C environments. With the developed fine-tuned model, we establish a correlation between closed-pore radius in hard carbon and plateau voltage, showing that the small pores contribute at larger voltages than large ones, suggesting thus how the developed fine-tuned foundation model can link atomistic information with materials design for complex bonding environments.",
+  "authors": [
+   "Andres Felipe Usuga",
+   "Ihor Radchenko",
+   "Yuxin Tang",
+   "Oleksandr I. Malyi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "20 pages, 5 figures",
+  "first_author": "Andres Felipe Usuga",
+  "pdf_url": "http://arxiv.org/pdf/2611.18490",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-13",
+  "tags": [
+   "density-functional-theory",
+   "mace"
+  ],
+  "title": "Fine-tuned atomistic foundation model for accurate sodium-carbon chemistry in Na-ion batteries",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-13"
  }
 }

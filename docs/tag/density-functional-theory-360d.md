@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">832 papers</span>
+  <span class="paper-count">835 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17627.html">Machine-learning charge density for electronic materials and devices simulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Qingyun Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17627">2611.17627</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18041.html">A Machine-learning-aided Workflow for Sampling Small Polaron Dynamics in Energy Materials</a></div><div class="paper-tags"><a href="microkinetics-360d.html">microkinetics</a></div></td>
+<td>Tavinder Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18041">2611.18041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18430.html">Validating Graph Neural Network Feature Attribution Through Local Perturbations: A Study on CoMoFeNiCu Decomposition Enthalpy</a></div></td>
+<td>Miguel Tenorio et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18430">2611.18430</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18490.html">Fine-tuned atomistic foundation model for accurate sodium-carbon chemistry in Na-ion batteries</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a></div></td>
+<td>Andres Felipe Usuga et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18490">2611.18490</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16528.html">Edge-scaling softening of a universal machine-learned potential: point-defect formation energies in a coronene graphene quantum dot</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Andrii Tuzhykov et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16528">2611.16528</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17521.html">Thermally Activated Magnetic Switching in Antiferromagnetic Van der Waals Trilayers Resolved by Single-Spin Diamond Magnetometry</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
+<td>Fabian A. Gerritsma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17521">2611.17521</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -4994,17 +5024,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17810.html">Unbiased molecular dynamics for the direct determination of catalytic reaction times : paving the way beyond transition state theory</a></div><div class="paper-tags"><a href="neb-360d.html">neb</a></div></td>
 <td>Thomas Pigeon et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17810">2511.17810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19445.html">LOCAL: A Locality-based Active Learning Framework for Predicting the Stability of Dual-Atom Catalysts</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Yue Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19445">2503.19445</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12448.html">Prediction of the aqueous redox properties of functionalized quinones using a new QM/MM variational formulation</a></div></td>
-<td>Maxime Labat et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12448">2506.12448</a></td>
 </tr>
 </tbody></table>

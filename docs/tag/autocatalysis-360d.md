@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>autocatalysis — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18110.html">Hawking-radiation-ignited autocatalytic formation of primordial black holes</a></div></td>
 <td>Alexander Yakimenko</td>
 <td><a href="http://arxiv.org/abs/2511.18110">2511.18110</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05675.html">Division Strategies Determine Growth and Viability of Growing-Dividing Autocatalytic Systems</a></div></td>
-<td>Parth Pratim Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05675">2510.05675</a></td>
 </tr>
 </tbody></table>
