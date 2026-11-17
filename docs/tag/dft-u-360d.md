@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20035.html">U-HamGNN: a universal model for magnetic Hamiltonians conditioned on spin and Hubbard U</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
+<td>Hongyu Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20035">2611.20035</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16085.html">Tunable Long-Range Magnetic Exchange in Adatom-Decorated Transition Metal Dichalcogenide Monolayers: An ab initio Embedding Model Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Xiaohang Jia et al.</td>
@@ -314,11 +320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.12712.html">Plasma engineered Hydroxyl Defects in NiO a DFTSupported-Spectroscopic Analysis of Oxygen Hole States and Implications for Water Oxidation</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Harol Moreno Fernandez et al.</td>
 <td><a href="http://arxiv.org/abs/2512.12712">2512.12712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17403.html">Momentum-Resolved Electronic Structure and Orbital Hybridization in the Layered Antiferromagnet CrPS$_4$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Lasse Sternemann et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17403">2511.17403</a></td>
 </tr>
 </tbody></table>

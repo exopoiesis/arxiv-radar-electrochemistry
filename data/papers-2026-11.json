@@ -2260,5 +2260,494 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-11-13"
+ },
+ "2611.19045": {
+  "abstract": "Predicting failure after shock loading requires understanding how the structures created during compression evolve as the material unloads. In diamond, both crystal plasticity and localized amorphization have been reported to accommodate shock-induced shear. However, it remains unresolved how the resulting defect structures organize in three dimensions during compression and how this organization influences where tensile damage localizes during release. Here we couple phase-contrast-enhanced radiography at an X-ray free-electron laser with simulations to address this question in single-crystal diamond. By combining radiographs at multiple pump-probe delays with hydrodynamic calculations, we show that linear features first become visible behind the plastic wavefront while material near the front remains highly compressed. By rotating the viewing direction about the shock axis, we find that the projected feature angles favor finite $\\{111\\}$ sheets elongated along in-plane directions close to $\\langle112\\rangle$. Molecular dynamics simulations show that an interconnected network of amorphous bands and stacking faults forms during compression, preferentially on $\\{111\\}$ variants with larger in-plane shear traction. Projections of this network qualitatively reproduce the observed loss of feature visibility with rotation. During simulated release, tension opens local cracks within these pre-existing amorphous bands. These results support a pathway in which the crystallographically organized defect network formed during compression provides preferred sites for tensile damage during release. This pathway may also operate in other strongly covalent solids.",
+  "authors": [
+   "Zipeng Xu",
+   "Kento Katagiri",
+   "Tatiana Pikuz",
+   "Wanghui Li",
+   "Anirudh Hari",
+   "Dorian P. Luccioni",
+   "Sophie E. Parsons",
+   "Yuichi Inubushi",
+   "Kohei Miyanishi",
+   "Hirotaka Nakamura",
+   "Tadashi Togashi",
+   "Makina Yabashi",
+   "Toshinori Yabuuchi",
+   "Norimasa Ozaki",
+   "Leora E. Dresselhaus-Marais"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "32 pages and 9 figures in main text; Supplemental Material: 15 pages, 5 figures, 1 table",
+  "first_author": "Zipeng Xu",
+  "pdf_url": "http://arxiv.org/pdf/2611.19045",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-14",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Emergence of Anisotropic Defect Networks in Shocked Diamond",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-14"
+ },
+ "2611.19658": {
+  "abstract": "Molecular dynamics (MD) simulations can capture the nanoscale physics of fracture at the atomistic level, but their computational cost prohibits predictions at the length scales and time scales needed for many applications. Machine learning approaches, on the other hand, have been proposed as heuristic surrogates for material fracture, yet they cannot guarantee the physical consistency of the predicted response. To address this shortcoming, we propose the mesoscale neural operator (MNO): a data-driven nonlocal constitutive model that is learned directly from MD loading and displacement data. After training, it can be used in continuum fracture simulations on much larger domains and grid sizes. The key idea of the MNO is to exploit the built-in characteristic length of a nonlocal model, called the horizon, to travel across scales. Physical consistency across scales is obtained by building two structural ingredients into the MNO: a normalized kernel that renders the strain energy density invariant under horizon rescaling, and a rescaled critical bond stretch that keeps the energy release rate consistent across scales. Through tests on synthetic data, we show that the MNO and its learning workflow indeed discover the nonlocal continuum multiscale model in the form of the nonlocal kernel and the nonlinear constitutive relation. We then apply the framework to coarse-grained MD data and find that in a test problem, the learned model matches the MD strain energy density and critical energy release rate within 3%. It also predicts the peak transmitted forces within 6% in out-of-distribution tension tests. As a further demonstration, the model is applied to a plate with 4000 times the area of the training specimens and containing an initial defect. In this problem, the model reproduces the main features of dynamic brittle fracture, including branch and cascading branch networks.",
+  "authors": [
+   "Yue Yu",
+   "Jihong Wang",
+   "Stewart Silling",
+   "Ziwei Yang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yue Yu",
+  "pdf_url": "http://arxiv.org/pdf/2611.19658",
+  "primary_category": "cs.LG",
+  "published": "2026-11-14",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Mesoscale Neural Operators: Learning Nonlinear Constitutive Laws from Molecular Dynamics for Scalable Fracture Predictions",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-14"
+ },
+ "2611.19793": {
+  "abstract": "Machine-learning interatomic potentials (MLIPs) now approach density functional theory (DFT) accuracy at a fraction of its cost, but the practical benefit is limited by software fragmentation: each state-of-the-art architecture is released as a separate codebase, with its own data format, configuration system, training loop and molecular-dynamics interface. Comparing two architectures on the same dataset, or moving a trained model into a production simulation, therefore requires substantial re-engineering. We introduce IANN (InterAtomic Neural Network), an open-source PyTorch framework that reimplements equivariant graph neural networks - PaiNN, NequIP, MACE, Allegro, EquiformerV2, EquiformerV3 and UMA - behind a unified data object, a unified trainer and a single deployment route, so that the architecture is a one-word change in a configuration dictionary. Forces, stresses and virials are obtained for every architecture from one analytic differentiation of the energy with respect to the edge vectors of the atomic graph, exact under periodic boundary conditions. Distributed training is configured automatically from the SLURM, PBS or MPI environment, so the same script runs unchanged from a workstation to a multi-node GPU allocation. Self-describing checkpoints serve directly as ASE calculators, as ensembles reporting uncertainties, or as TorchScript models run inside LAMMPS through bundled C++ pair styles with single- and multi-GPU inference. Trained on a common dataset of millions of structures, the architectures can be compared under identical conditions. We further release PaiNN foundation models trained on 41.9 million curated DFT structures from MPtrj, Alexandria, OMat24, MatPES, OC20, OC22, OC25, MPr2SCAN and MatPESr2SCAN, spanning the PBE, RPBE and r2SCAN functionals. Additionally, IANN provides an agent interface to facilitate integration with autonomous agents.",
+  "authors": [
+   "Changzhi Ai",
+   "Xueping Qin",
+   "Dimosthenis Sokaras",
+   "Frank Abild-Pedersen",
+   "Johannes Voss"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "31 pages, 7 figures, 4 tables; Supplementary Information included (49 figures, 11 tables). IANN is MIT-licensed. Code: https://github.com/changzhiai/IANN - Documentation: https://iann.readthedocs.io - Curated DFT databases: https://huggingface.co/datasets/changzhiai/dft-databases - Foundation models: https://huggingface.co/changzhiai/iann-foundation-models",
+  "first_author": "Changzhi Ai",
+  "pdf_url": "http://arxiv.org/pdf/2611.19793",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-15",
+  "tags": [
+   "density-functional-theory",
+   "mace"
+  ],
+  "title": "IANN: A Unified Framework for Equivariant InterAtomic Neural Networks with User-Friendly Implementation",
+  "topics": [
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-15"
+ },
+ "2611.19888": {
+  "abstract": "Magnetic d-electron oxides usually have a long-range-ordered ground state and an above-ground-state disordered para phase. The historical Slater-Mott controversy still reverberating to date pertains to understanding the origin of the insulating vs metallic nature of these two phases. Slater suggested that the insulating character evolved from the long-range order (LRO) antiferromagnetic (AFM) cell-doubling, leading to energy band repulsion and thus to forming a band gap. The reliance on LRO to explain gapping suggests that the absence of LRO in the spin-disordered para-phase would deprive the system from band repulsion, thus predicting a metallic paramagnetic (PM) phase. This, however, conflicts with numerous current observations. The alternative Mott-Peierls-Hubbard view abandons the mean-field-like band structure view emphasizing instead the local interelectronic repulsion U as a strong correlation signature of gapping both at the presence or absence of LRO. However, U is not an easily measured or calculated quantity in periodic systems, a situation often leading in practice to treating U as an adjustable parameter. The current work uses a parameter-free mean-field-like approach (Density Functional Theory, DFT), allowing energy-lowering symmetry breaking. This is done by considering local magnetic motifs as building blocks of the macroscopic AFM or PM phases. It is found that even when such motifs are isolated electronically from each other (i.e. vanishing LRO) by embedding them in quantum barriers (such as magnetic NiO6 octahedra surrounded locally by wide-gap MgO) they exhibit an intrinsic band gap. Thus, the origin of the band gaps in AFM or PM phases need not be LRO or strong correlation and can be understood within the mean-field-like band structure approach with symmetry breaking.",
+  "authors": [
+   "Xiuwen Zhang",
+   "Jia-Xin Xiong",
+   "Alex Zunger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph",
+   "quant-ph"
+  ],
+  "comment": "12 pages, 5 figures",
+  "first_author": "Xiuwen Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.19888",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-15",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Metallic or insulating magnetic phases of transition-metal oxides in light of the Slater vs Mott controversy",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-15"
+ },
+ "2611.20035": {
+  "abstract": "The electronic structure of a magnetic crystal depends jointly on its spin configuration and the on-site Hubbard correction U, requiring a separate DFT+U calculation for each combination. We introduce U-HamGNN, an equivariant network that takes these two inputs directly and predicts spin-resolved Hamiltonians across diverse crystal chemistries. A spectral-hybrid optimizer that weights each update direction by how consistently the gradient points along it reaches 8% lower Hamiltonian error than Muon and 26% lower than AdamW in a ten-epoch benchmark. The predicted bands reproduce U-dependent gap opening and altermagnetic spin splitting within the trained window and beyond it; exchange couplings and magnetic-order calls derived from the Hamiltonian agree with DFT+U on a calibration set. This universal model provides a new tool for magnetic research.",
+  "authors": [
+   "Hongyu Yu",
+   "Yinze Hu",
+   "Yizhou Chen",
+   "Yang Cheng",
+   "Yingwei Chen",
+   "Xingao Gong",
+   "Yang Zhong",
+   "Hongjun Xiang"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": "25 pages, 5 figures",
+  "first_author": "Hongyu Yu",
+  "pdf_url": "http://arxiv.org/pdf/2611.20035",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-15",
+  "tags": [
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "U-HamGNN: a universal model for magnetic Hamiltonians conditioned on spin and Hubbard U",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-15"
+ },
+ "2611.20123": {
+  "abstract": "Magnetically intercalated transition metal dichalcogenides are layered materials with highly tunable magnetic orders and unconventional transport properties. Here we report a surface-bulk magnetic dichotomy in $\\mathrm{M}_{1/3}\\mathrm{T}\\mathrm{X}_{2}$, in which the surface and bulk favor distinct magnetic orders. In $\\mathrm{Fe}_{1/3}\\mathrm{Nb}\\mathrm{S}_{2}$, angle-resolved photoemission spectroscopy (ARPES) results are reproduced by an A-type antiferromagnetic electronic structure, while neutron scattering and bulk DFT+$U$ calculations identify stripe order as the bulk ground state. DFT+$U$ slab calculations resolve this contradiction by showing that relaxation of an Fe-terminated surface reverses the magnetic preference from stripe to A-type order. The same dichotomy recovers the $K$-centered Fermi-surface pockets that are observed in $\\mathrm{Co}_{1/3}\\mathrm{Nb}\\mathrm{S}_{2}$ and $\\mathrm{Co}_{1/3}\\mathrm{Ta}\\mathrm{S}_{2}$ but absent from previous bulk calculations. Notably, the surface-stabilized magnetic phase of $\\mathrm{Fe}_{1/3}\\mathrm{Nb}\\mathrm{S}_{2}$ carries nonrelativistic spin splitting and can exhibit altermagnetic character. These results caution against the general association of ARPES signals with bulk magnetic states in these systems, and suggest surface-bulk magnetic dichotomy as a promising route to realize magnetic phases, including altermagnetism, that are not energetically favored in the bulk.",
+  "authors": [
+   "Ke Liao",
+   "Wenxin Li",
+   "Kelly Dai",
+   "Ariel Mazor",
+   "Shan Wu",
+   "Yu He",
+   "Tianyu Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Ke Liao",
+  "pdf_url": "http://arxiv.org/pdf/2611.20123",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-15",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Surface-bulk magnetic dichotomy in intercalated transition metal dichalcogenides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-15"
+ },
+ "2611.20260": {
+  "abstract": "Electronic transport in polyanionic battery cathodes proceeds through small-polaron hopping between transition-metal sites and is commonly assumed to be tightly coupled to the motion of charge-compensating mobile ions. Using olivine Li$_x$MnPO$_4$ as a prototypical platform, we use first-principles molecular dynamics with extended Hubbard functionals to follow, in real time and at finite temperature, the adiabatic evolution of Mn oxidation states and atomic sublattices. We find that polaron hopping and cation migration are dynamically decoupled: Mn$^{2+}$/Mn$^{3+}$ valence exchanges occur frequently while the intercalated ions remain confined to their sites, and hopping is gated by the local oxygen framework. Freezing the six oxygen atoms of an individual MnO$_6$ octahedron excludes that site from the hopping network, while increasing the fictitious oxygen mass slows down electronic transport. Each valence exchange coincides with a concerted breathing of the donor and acceptor octahedra ($ΔV \\simeq 2$ $Å^3$), with their volume asymmetry crossing zero at the transition, consistent with the Holstein-Marcus coincidence condition. The hopping rate yields an activation energy of $E_a = 0.20 \\pm 0.03$ eV, closely matching the elastic energy scale of the two coordination cages ($λ_V/4 \\approx 0.20$ eV). These results identify the oxygen coordination cage, not the mobile cation sublattice, as the dynamical gate for small-polaron transport: a site can accept the electron only if its cage can breathe, and the barrier is governed by cage elasticity. Selective constraints and mass scaling applied to first-principles dynamics provide a general route to link electronic and lattice degrees of freedom in redox-active materials, opening the door to framework engineering in intercalation and mixed ionic-electronic conductors.",
+  "authors": [
+   "Cristiano Malica",
+   "Nicola Marzari"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Cristiano Malica",
+  "pdf_url": "http://arxiv.org/pdf/2611.20260",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-15",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics"
+  ],
+  "title": "Oxygens breathe, electrons jump",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-15"
+ },
+ "2611.20429": {
+  "abstract": "FiuMD is a GPU molecular dynamics engine that advances many independent biomolecular simulations as a single batch, even when the systems differ in size, topology, force-field parameters, periodic box, timestep, or thermostat parameters. All systems are concatenated into global tensors, so the classical interaction terms and a shared TorchMD-Net neural network potential are evaluated for the whole batch at once, while each system keeps its own integration and thermostat. FiuMD started as a fork of TorchMD and reworks its system representation, force evaluation, and integration to handle such heterogeneous batches. We test it with coarse-grained C$α$ models of chignolin, Trp-cage, BBL, and $λ$-repressor. In double precision, forces within a heterogeneous batch agree with isolated FiuMD and TorchMD evaluations to within the precision of repeated evaluations, with a maximum relative difference of $7\\times10^{-16}$ across 60 systems. Over 1000 steps without a thermostat, batched trajectories deviate by at most $2.5\\times10^{-11}$ Angstrom from isolated ones, even when periodic images lie within the neural network cutoff. With a different target temperature for each system of the ensemble, the mean and width of each system's kinetic temperature match the values expected from its own thermostat. We show that when individual simulations are too small to fill the GPU, batching can improve throughput several-fold over TorchMD. On a single GPU, batching four different protein systems achieves a 4.6-7.8-fold speedup per step compared with sequential TorchMD simulations. Compared with sequential homogeneous FiuMD batches, heterogeneous batching provides up to a 4-fold speedup for smaller batches while maintaining comparable performance for larger ones.",
+  "authors": [
+   "Hugo D. Hernández R.",
+   "Paola B. Torres",
+   "Lara Negri",
+   "Rocío L. Cecchini",
+   "Nicolás A. García"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "13 pages, 7 figures, 4 tables",
+  "first_author": "Hugo D. Hernández R.",
+  "pdf_url": "http://arxiv.org/pdf/2611.20429",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-16",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "FiuMD: Heterogeneous Batching for Coarse-Grained Molecular Dynamics with Neural Network Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.20591": {
+  "abstract": "GPRidge, a Gaussian-process (GP) library for accelerating calculations of minimum energy paths and first-order saddle points with compiled-language and Python bindings, is presented. An evaluation controller uses GP predictions to iteratively adjust the Cartesian coordinates of the atoms. The fitted GP energy surface and measured energies and forces pass from the path calculation to local refinement of the saddle point. New evaluations improve the surrogate and check the candidate geometry. For the molecular calculations, acceptance requires measured-force convergence and an independent Hessian with only one negative eigenvalue. A second negative eigenvalue triggers an escape and renewed refinement. The controller supports a joint inverse-distance GP for molecules and local GP residuals on periodic systems. Applications to the 24 Baker-Chan and 20 Birkholz-Schlegel molecular reactions using the Universal Model for Atoms (UMA-S-1.1), and to 72 Pt heptamer and island rearrangements on Pt(111) using a Morse potential, are presented. On matched Baker-Chan reactions, GPRidge uses 7.8- and 7.0-fold fewer energy-and-force evaluations than climbing-image nudged elastic band (CI-NEB) and off-path climbing-image nudged elastic band (OCI-NEB), respectively, reducing validation-inclusive CI-NEB time by 41%. All 20 Birkholz-Schlegel saddle points pass the independent index-one check, compared with 17 for the classical dimer method started from the same path maxima; on those 17 reactions, the GP dimer stage uses 6.4-fold fewer evaluations. All 72 Pt(111) paths meet the OptBench force criterion, with median evaluation counts of 30 and 23 for the heptamer and island problems, against 778 and 443 for CI-NEB.",
+  "authors": [
+   "Rohit Goswami",
+   "Maxim Masterov",
+   "Satish Kamath",
+   "Alejandro Pena-Torres",
+   "Andreas Lynge Vishart",
+   "Thomas Bligaard",
+   "Hannes Jonsson"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "Supporting Information included as an appendix. Prepared for submission to the Journal of Chemical Information and Modeling. Reproducibility archive, including the GPRidge 0.5.0 source snapshot and run records: https://doi.org/10.5281/zenodo.23776354",
+  "first_author": "Rohit Goswami",
+  "pdf_url": "http://arxiv.org/pdf/2611.20591",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-16",
+  "tags": [
+   "neb"
+  ],
+  "title": "GPRidge: Gaussian-process Accelerated Calculations of Minimum Energy Paths and First-order Saddle Points",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.20614": {
+  "abstract": "Earth-abundant ABO3-type perovskite oxides provide a versatile platform for understanding how anion chemistry and defects govern electrocatalytic behavior. Here, we use epitaxial LaFeO3-xNy thin films to reveal how dilute N incorporation (<0.8% N/O) couples to defect formation, structural reconstruction, and water oxidation. Nitrogen-plasma-assisted pulsed laser deposition introduces N and is accompanied by reduced oxygen content, localized Fe-metal exsolution, and pronounced lattice expansion, while preserving predominantly Fe3+ in the bulk of the film. Ab initio calculations identify a plausible charge-balanced extended defect configuration involving coupled oxygen and Fe vacancies with substitutional N incorporation, reproducing the experimentally observed lattice expansion while preserving the bulk-average Fe oxidation state. The resulting electronic-state redistribution is accompanied by substantially modified electrical transport and nearly two orders of magnitude higher initial oxygen evolution reaction (OER) activity than undoped LaFeO3. Under OER conditions, however, the highly active as-grown state is metastable: near-surface N depletion and Fe0 oxidation/removal accompany rapid initial activity decay toward a quasi-steady state. pH-dependent kinetics and post-OER anion redistribution are consistent with possible lattice-oxygen participation. These results establish relationships among dilute anion incorporation, coupled defect reconstruction, electronic properties, and electrochemical behavior in perovskite oxides.",
+  "authors": [
+   "Le Wang",
+   "Shan Lin",
+   "Min-Ju Choi",
+   "Krishna P. Koirala",
+   "Mark E. Bowden",
+   "Jeffrey A. Dhas",
+   "Zihua Zhu",
+   "George E. Sterbinsky",
+   "Tiffany C. Kaspar",
+   "Chongmin Wang",
+   "Scott A. Chambers",
+   "Ho Nyung Lee",
+   "Peter V. Sushko",
+   "Yingge Du"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Le Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.20614",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-16",
+  "tags": [
+   "ab-initio",
+   "electrocatalysis",
+   "oxygen-evolution",
+   "vacancies"
+  ],
+  "title": "Nitrogen Defect Coupling in Epitaxial LaFeO3 From Structural Reconstruction to Water Oxidation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.20706": {
+  "abstract": "Dissociative water adsorption is a key step in heterogeneous and electrochemical catalysis, but on finite Ni nanosystems the OH$^*$ and H$^*$ fragments can occupy many combinations of surface sites, making exhaustive density functional theory (DFT) screening impractical. We introduce a graph neural network (GNN) framework with an adsorbate-free representation: candidate O- and H-binding sites are defined by sets of Ni atoms (\\textit{anchors}), and each site pair is encoded as a graph constructed solely from these anchors and their local Ni environment. Using only MACE-relaxed bare Ni geometries as input, separate GNNs predict the DFT-reference adsorption energies of OH$^*$+H$^*$ configurations and whether the proposed binding sites would be retained upon DFT relaxation, eliminating the need to construct or relax adsorbates during screening. Trained across Ni nanoclusters and Ni(111)/Ni(100) surfaces, the energy model achieves a mean absolute error of 0.031 eV on the internal validation set and demonstrates transferability to unseen Ni$_{55}$, Ni$_{91}$, and Ni$_{130}$ clusters and larger surface cells, particularly for relative-energy ranking, although quantitative accuracy varies across systems. These independent tests also support the retention classifier's use as a conservative filter for selecting configurations likely to preserve their proposed binding sites. Application to Ni nanoparticles containing up to $\\sim$3000 atoms identifies favorable co-adsorption motifs and shows that lower O-site coordination generally stabilizes the dissociated state, whereas H-site coordination has a weaker influence. The framework thus offers an efficient route to screening adsorption energetics, with potential extensions to other metals and adsorbate combinations.",
+  "authors": [
+   "Marta Monti",
+   "Alec Noppe",
+   "Olivier Lugier",
+   "Maria B. Brands",
+   "Bernd Ensing"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Marta Monti",
+  "pdf_url": "http://arxiv.org/pdf/2611.20706",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-16",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory",
+   "mace",
+   "water-adsorption"
+  ],
+  "title": "Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.20723": {
+  "abstract": "Oxirane (ethylene oxide, \\ce{C2H4O}) is a prototypical system for investigating photoinduced bond cleavage and ring-opening dynamics. Previous time-dependent density functional theory studies identified the initial HOMO $\\rightarrow$ LUMO (\\ce{S1}) excitation as nonreactive and attributed ring opening to higher-energy excitations. Subsequent constrained density functional theory simulations, however, reported ring opening following an \\ce{S2} $\\rightarrow$ \\ce{S1} transition. Here, we investigate photochemistry of oxirane using time-dependent $GW$ molecular dynamics (TD$GW$-MD), a many-body approach based on extended quasiparticle theory [\\textit{J. Chem. Phys.} \\textbf{160}, 184102 (2024)]. Our simulations reveal ring opening initiated by asymmetric \\ce{C-O} bond cleavage following direct HOMO $\\rightarrow$ LUMO (\\ce{S1}) excitation. Following the selected surface hop, separate conditional trajectories on the broken-symmetry open-shell singlet and triplet potential energy surfaces lead to distinct products. The singlet trajectory yields acetaldehyde via intramolecular hydrogen transfer, while the triplet trajectory produces formaldehyde and methylene via \\ce{C-C} bond fragmentation. These products are consistent with those identified in previous photolysis experiments. Our results demonstrate that direct excitation to the lowest singlet excited state can initiate ring opening within the present TD$GW$-MD framework. They further reveal distinct subsequent reaction pathways under the selected spin conditions. This study highlights the potential of TD$GW$-MD for elucidating photoinduced reaction mechanisms from a many-body perspective.",
+  "authors": [
+   "Aaditya Manjanath",
+   "Ryoji Sahara",
+   "Thi Nu Pham",
+   "Yoshiyuki Kawazoe",
+   "Kaoru Ohno"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Aaditya Manjanath",
+  "pdf_url": "http://arxiv.org/pdf/2611.20723",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-16",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Oxirane Ring-Opening Dynamics Mediated By The First Singlet Excitation Using Time-Dependent \\textit{GW} Molecular Dynamics",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21026": {
+  "abstract": "Machine-learning interatomic potentials (MLIPs) of electrified interfaces need the bias as input, but it is unclear whether a scalar electrode charge suffices and whether short-range models capture the non-local response. We add charge and field conditioning to short- and long-range MLIPs. State-of-the-art field-conditioned short-range models overpolarize thick water films nearly twofold and miss work-function shifts at stepped Pt. Our long-range model captures both, needs only the electrode charge at metals as input, and reproduces ab initio simulations of the Pt(111)--water interface.",
+  "authors": [
+   "Lucas B. T. de Kam",
+   "Patrick Rinke",
+   "Christopher J. Stein",
+   "Philip Loche"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Lucas B. T. de Kam",
+  "pdf_url": "http://arxiv.org/pdf/2611.21026",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-16",
+  "tags": [
+   "ab-initio",
+   "explicit-solvation"
+  ],
+  "title": "Bias Conditioning and Long-Range Electrostatics for Consistent Machine-Learning Potentials of Electrified Interfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21047": {
+  "abstract": "The coronae of active galactic nuclei (AGN) are promising sites of proton acceleration to hundreds of TeV, potentially accounting for the neutrino excess from NGC 1068 reported by IceCube. We show that photohadronic proton-to-neutron conversion provides an important proton escape channel, as neutrons can leave the corona well before decaying. In magnetized turbulent coronae, neutron escape can reduce the characteristic neutrino energy by up to a factor of four and the integrated neutrino luminosity by approximately 30% at a fixed non-thermal proton energy density. More strikingly, proton-to-neutron conversion offers an escape route roughly two orders of magnitude faster than proton diffusion, requiring a correspondingly larger proton injection rate to sustain the non-thermal population. The effect is considerably weaker when proton escape is already ballistic, as expected in magnetic-reconnection scenarios. Therefore, neutron escape is essential for quantitatively connecting neutrino emission from AGN coronae to the efficiency of proton injection into the acceleration process.",
+  "authors": [
+   "Antonio Ambrosone",
+   "Damiano F. G. Fiorillo"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": "39 pages, 7 figures in the main text, 7 figures in the appendixes. To be submitted to JCAP. Comments are welcome",
+  "first_author": "Antonio Ambrosone",
+  "pdf_url": "http://arxiv.org/pdf/2611.21047",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-11-16",
+  "tags": [
+   "proton-diffusion",
+   "proton-transport"
+  ],
+  "title": "The imprint of neutron escape on non-thermal protons in AGN coronae",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21147": {
+  "abstract": "Monte Carlo/molecular dynamics (MCMD) simulations are widely used to study the properties of materials at the mesoscale. Simulations with hundreds of thousands of atoms usually rely on empirical potentials because MCMD with machine-learning interatomic potentials is impractical at this scale in existing implementations. Here, we introduce a hybrid MPI/OpenMP scheme for MCMD with Atomic Cluster Expansion (ACE) potentials in LAMMPS. Monte Carlo moves are evaluated from local energy changes and carried out in parallel over MPI ranks, while molecular dynamics is parallelized over OpenMP threads. At a fixed number of CPUs, the wall time of the Monte Carlo moves decreases by a factor equal to the number of MPI ranks. Larger simulation cells also reduce the statistical errors of free energy calculations because thermal fluctuations decrease with system size. We demonstrate the scheme by calculating free energies of the HCP and BCC phases in the strongly anharmonic Hf--Ti system and by simulating zirconium segregation in a nanocrystalline copper sample of 670,000 atoms. For Cu--Zr, an ACE potential and an empirical potential predict similar grain boundary compositions but different amounts of zirconium dissolved in the grains. The scheme makes MCMD simulations with machine-learning interatomic potentials practical at the length scales of microstructure.",
+  "authors": [
+   "Lorenzo Piersante",
+   "Anirudh Raju Natarajan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Lorenzo Piersante",
+  "pdf_url": "http://arxiv.org/pdf/2611.21147",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-16",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Large-scale Monte Carlo/Molecular Dynamics simulations with Atomic Cluster Expansion potentials in LAMMPS",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21433": {
+  "abstract": "JWST observations have revealed evidence for NH$_4^+$ in the ices of the Chamaeleon I dark molecular cloud, with HCOO$^-$ and OCN$^-$ likely counter ions. Laboratory experiments have demonstrated that ammonium formate and ammonium cyanate can form through acid-base reactions involving NH$_3$ at cryogenic temperatures. The formation of these two ammonium salts are simulated to investigate their formation in dark-cloud ices and assess their sensitivity to uncertainties in the chemical reaction network, including the recently considered HOCO-mediated pathway for CO$_2$ formation, as well as variations in the cosmic-ray ionization rate, cloud collapse timescale and density, and elemental depletion. Our modeling framework consists of microscopic kinetic Monte Carlo (KMC) simulations of grain-surface chemistry augmented by UCLCHEM gas-phase and physical cloud evolution simulations. The microscopic KMC method provides for explicit simulation of the location, movement and reaction of ice species, making it particularly well-suited to model acid-base chemistry of NH$_4^+$-salt formation, occurring within the ice mantle over extended timescales. The simulations produce the canonical ice-evolution sequence, with an initially H$_2$O-rich ice followed by a layer dominated by CO and CO$_2$. Salt production is dominated by NH$_4^+$HCOO$^-$, which is found to form predominantly during the H$_2$O-rich stage as its production is limited by the availability of NH$_3$. NH$_4^+$OCN$^-$ is found to form later at the interface between the H$_2$O- and CO-rich ice when the formation of its precursor acid HNCO is enabled. Despite the variations explored, the total NH$_4^+$ abundance, particularly relative to H$_2$O, remains remarkably robust and consistent with the observed abundance. Depending on the variation, a redistribution between counterions HCOO$^-$ and OCN$^-$ is observed.",
+  "authors": [
+   "Joseph Salaris",
+   "Robin Toonen",
+   "Rens Waters",
+   "Herma Cuppen"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "16 pages, 11 figures",
+  "first_author": "Joseph Salaris",
+  "pdf_url": "http://arxiv.org/pdf/2611.21433",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-16",
+  "tags": [
+   "formate",
+   "reaction-networks"
+  ],
+  "title": "Kinetic Monte Carlo modeling of ammonium formate NH$_4^+$HCOO$^-$ and ammonium cyanate NH$_4^+$OCN$^-$ in interstellar ices",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21489": {
+  "abstract": "Predicting metastable states with universal machine-learned interatomic potentials requires that they preserve the minima and saddles of the reference potential-energy surface. Here we identify local topology hallucination, in which distinct model minima relax into the same reference basin. This failure arises from mode-selective curvature-sign errors shared by MACE, CHGNet and M3GNet. Curvature signs predicted by two of the three models agreed with density-functional calculations in 55 of 57 positive but only 5 of 56 negative cases. In LiGe$_2$S, two MACE minima connected by a verified saddle relaxed into one density-functional basin. Reference relaxation likewise returned nine of ten selected model minima to their reference basins. A directional test with two displaced reference calculations rejected 9 of 12 prospectively tested model instabilities. Model agreement alone therefore cannot establish that predicted minima are distinct metastable states.",
+  "authors": [
+   "Xiaoqing Liu",
+   "Yangshuai Wang",
+   "Lei Shen"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": "23 pages, 5 figures, 3 tables (includes Supplementary Information)",
+  "first_author": "Xiaoqing Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.21489",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-16",
+  "tags": [
+   "chgnet",
+   "m3gnet",
+   "mace"
+  ],
+  "title": "Local topology hallucinations in universal machine-learned interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-16"
  }
 }

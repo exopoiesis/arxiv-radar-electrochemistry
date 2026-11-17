@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reaction-networks — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <strong>30d</strong> <a href="reaction-networks-90d.html">90d</a> <a href="reaction-networks-360d.html">360d</a> <a href="reaction-networks-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21433.html">Kinetic Monte Carlo modeling of ammonium formate NH$_4^+$HCOO$^-$ and ammonium cyanate NH$_4^+$OCN$^-$ in interstellar ices</a></div><div class="paper-tags"><a href="formate-30d.html">formate</a></div></td>
+<td>Joseph Salaris et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21433">2611.21433</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10725.html">Symmetry-Induced Conservation Laws, Three-Channel Attribution, and Solid-Phase Recycling in Prebiotic Enantiomeric Excess Amplification</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="autocatalysis-30d.html">autocatalysis</a> · <a href="origin-of-life-30d.html">origin-of-life</a></div></td>
