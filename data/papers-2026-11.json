@@ -2749,5 +2749,323 @@
    "Machine-Learned Potentials for Sulfides and Minerals"
   ],
   "updated": "2026-11-16"
+ },
+ "2611.21770": {
+  "abstract": "Our ability to understand the highest energy processes and environments in astronomy is directly tied to our ability to probe their physical processes at the smallest scales. Despite transformative progress in high-angular resolution instruments across the radio through optical, angular resolution within the X-rays has plateaued around $\\sim0.1-1''$, and therefore our window into the innermost regions of the high energy Universe lies primarily within spectral, timing, and/or polarimetric studies rather than direct imaging. This represents a significant barrier to gaining a robust understanding of key science questions, including the mechanisms of accretion and jet launching, the accretion activity and angular momentum losses of binary active galactic nuclei (AGN) leading to gravitational wave events, and the space weather events that may influence atmospheric evolution and prebiotic chemistry on potentially habitable exoplanets. The Accretion Explorer Interferometer (AEI) is a mission concept for X-ray imaging that could achieve up to $μ$as resolution, $\\sim5-6$ orders of magnitude better than current instrumentation. Here we present the scientific discovery space enabled by such an advance, and highlight areas of uncertainty and open questions that are critical to investigate for future development of this concept.",
+  "authors": [
+   "Jenna M. Cann",
+   "Kimberly A. Weaver",
+   "Ryan W. Pfeifle",
+   "Jeffrey D. McKaig",
+   "Teresa Monsue",
+   "Laura D. Vega",
+   "Ronald Gamble",
+   "Miranda McCarthy",
+   "Kyla Mullaney",
+   "Kelly E. Whalen",
+   "Erini Lambrides",
+   "Atul Mohan",
+   "Isabella Carlton",
+   "Emma Kleiner",
+   "Kaylee DeGennaro",
+   "Mainak Singha",
+   "Andrea Astorga Bedoya",
+   "Neshini Sathishkumar"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.GA"
+  ],
+  "comment": "submitted to JATIS",
+  "first_author": "Jenna M. Cann",
+  "pdf_url": "http://arxiv.org/pdf/2611.21770",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-11-16",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "A Science Traceability Matrix for Micro-arcsecond Resolution X-ray Imaging",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21900": {
+  "abstract": "We perform molecular dynamics simulations of molten Lithium Fluoride, comparing the classical Buckingham and Born-Huggins-Mayer potentials with machine-learnt interatomic potentials - the MACE-MP-0b3 (small) foundation model potential, and a fine-tuned version thereof. We find that the MACE-MP-0b3, out-of-the-box, is able to accurately reproduce the experimental shear viscosity across the liquid state comparable with polarisable potentials despite not itself being polarisable. Previous viscosities computed using classical potentials are under-predicted, which has previously been attributed to a suppressed melting temperature. Prompted by this we compare the melting points of these potentials. We find that the machine-learnt potentials address the significant underestimation of the melting point of the classical potentials, though the refined potential and the foundation model differ significantly between themselves. We probe the microscopic structure and dynamics of each model to further elucidate the considerable change in viscosity between classical and machine-learnt potentials. We find that, despite their lower melting temperature, classical potentials produce considerably stiffer, higher frequency, single-particle and collective charge-transport dynamics on account of their fixed charges. However, in the long-wavelength limit, the many-body machine-learnt potentials feature more elastic collective motion that governs the diffusion of momentum and is therefore responsible for the enhanced shear viscosity.",
+  "authors": [
+   "Harvey L. Devereux",
+   "Margaret-Ann Withington",
+   "Alin M. Elena",
+   "Cillian Cockrell",
+   "Kostya Trachenko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Harvey L. Devereux",
+  "pdf_url": "http://arxiv.org/pdf/2611.21900",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-16",
+  "tags": [
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Dynamics and transport in LiF using classical and machine learned interatomic potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.22272": {
+  "abstract": "Transition states govern chemical reaction rates and outcomes, yet locating them remains a central challenge in computational chemistry. Double-ended search methods find transition states given reactant and product structures, but generally rely on discretized path representations developed for density functional theory, where potential energy surface evaluations are expensive. Machine learned interatomic potentials (MLIPs) dramatically reduce this cost and leverage automatic differentiation to access higher-order derivatives efficiently. We introduce Popcornn, a framework to find transition states by optimizing continuous neural network paths atop an MLIP with a parallelized adaptive numerical integrator. This combination eliminates path discretization artifacts, reduces hyperparameter sensitivity, and enables non-local optimization to overcome local features using second-order potential-energy-surface information. Popcornn consistently recovers more correct transition states than standard methods such as nudged elastic band and growing string, across MLIPs on thousands of organic reactions, establishing it as a robust, automation-ready method for high-throughput transition state search. Popcornn's infrastructure is flexible in path objective, integration strategy, and optimization algorithm, making it a practical tool and platform for investigating open questions in MLIP-based path optimization.",
+  "authors": [
+   "Kareem Hegazy",
+   "Eric C-Y Yuan",
+   "Anup Kumar",
+   "Dmitriy Morozov",
+   "Daniel Barter",
+   "Michael W Mahoney",
+   "Teresa Head-Gordon",
+   "Samuel M Blau"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Kareem Hegazy",
+  "pdf_url": "http://arxiv.org/pdf/2611.22272",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-17",
+  "tags": [
+   "density-functional-theory",
+   "mlip",
+   "neb"
+  ],
+  "title": "Neural Network Path Optimization for Finding Transition States on a Machine Learned Potential",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22313": {
+  "abstract": "Odd-period supercells such as $3 \\times 3 \\times 5$ are often used for equimolar five-component compositions in computational studies of high-entropy perovskite oxides (HEPOs). However, such cells are known to constrain octahedral tilting because they cannot accommodate all standard tilt patterns (Glazer tilt systems). How strongly this constraint affects HEPOs, whose octahedra respond to local cation environments, remains unclear. Here we show that supercell periodicity systematically biases computed octahedral tilting and energetics. Using a machine-learning interatomic potential, we compared odd-period and tilt-commensurate cells for 13 HEPOs. Odd-period cells yielded smaller and less coherent tilts and higher energies, even after configurational averaging. In ~1,700-atom cells, tilt differences persisted in all compositions and energy differences in most. The bias extended to defects, with lower oxygen vacancy formation energies in odd-period cells for strongly tilted compositions. Based on these findings, a simple design rule for equimolar supercells is proposed to lift this constraint.",
+  "authors": [
+   "Hanzo Tsubota",
+   "Wai Kian Tan",
+   "Hiroyuki Muto",
+   "Atsunori Matsuda",
+   "Tom Ichibha",
+   "Kenta Hongo",
+   "Ryo Maezono",
+   "Liangzhi Kou",
+   "Go Kawamura"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "35 pages, 5 figures; Supplementary Information included (10 pages, 5 figures, 4 tables)",
+  "first_author": "Hanzo Tsubota",
+  "pdf_url": "http://arxiv.org/pdf/2611.22313",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "mlip",
+   "vacancies"
+  ],
+  "title": "Supercell periodicity biases octahedral tilting and energetics in high-entropy perovskite oxides",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22489": {
+  "abstract": "We present a generalized nudged elastic band (NEB) implementation within potential-based constrained density-functional theory (cDFT) for calculating transition pathways that simultaneously optimize atomic, lattice, and magnetic degrees of freedom. Unlike standard fixed-cell NEB calculations restricted to atomic displacements, our framework consistently couples atomic forces, stresses, and spin torques. The method supports fixed- and variable-cell approaches for collinear and non- collinear magnetic configurations, by incorporating magnetic torques and generalized cell coordinates within the NEB optimization. To validate the methodology, we present benchmark calculations for representative magnetostructural systems. Specifically, we investigate the bcc-to-hcp transformation in Fe and the antiferromagnetic-to-ferromagnetic transition in FeRh using the variable-cell formalism. Furthermore, we examine spin-reversal processes in two-dimensional CrI3 to analyze the influence of spin-orbit coupling on transition paths and their associated energy barriers.",
+  "authors": [
+   "Samare Rostami",
+   "Xavier Gonze"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Samare Rostami",
+  "pdf_url": "http://arxiv.org/pdf/2611.22489",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "neb"
+  ],
+  "title": "Combined magnetic and structural transition state in first-principles calculations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22626": {
+  "abstract": "Foundation interatomic potentials enable simulations across diverse materials, but task-specific inaccuracies can require additional first-principles data. Obtaining these data is challenging when the relevant local environments arise in large simulation cells. Here we introduce the Prior-guided Adaptive Refinement Scheme (PARS), which identifies weakly supported environments during molecular dynamics by comparing their frozen representations with prototypes of pretraining environments, without requiring initial task labels or model ensembles. Selected environments are reconstructed as compact periodic cells for first-principles labelling and iterative refinement. Applications to phase stability, surface migration and vacancy clustering show improvements in target properties, including an 81% reduction in the mean absolute error of Ti vacancy-cluster energies per vacancy relative to the pretrained model. For Si/Ge, a foundation potential refined using 800 labelled cells containing 10-128 atoms is subsequently distilled into a compact potential without additional first-principles training labels. In simulations containing approximately 362,880 atoms, the distilled model predicts an interfacial thermal resistance consistent with that of a potential trained directly on density-functional theory data. These results demonstrate a route for adapting foundation potentials to target applications through local reference calculations.",
+  "authors": [
+   "Yunlong Wang",
+   "Jianzhen Ma",
+   "Yusu Zhang",
+   "Jiahang Li",
+   "Qinqiu Cheng",
+   "Junjie Yuan",
+   "Wenrui Yan",
+   "Yucheng Zhang",
+   "Chen Yu",
+   "Weibin Chu",
+   "Hongxia Hao",
+   "Jielan Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Supplementary Information included",
+  "first_author": "Yunlong Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.22626",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "ab-initio",
+   "molecular-dynamics",
+   "phase-stability",
+   "vacancies"
+  ],
+  "title": "Prior-guided adaptive local refinement of foundation interatomic potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22644": {
+  "abstract": "In this work, we study the sublattice nano-magnetic behavior of CoTb/Co/CoTb sandwiched between semi-infinite cobalt leads. To perform the analysis, we use the Ising spin-based effective field theory (EFT), which enables us to determine the relevant magnetic exchange parameters for elemental cobalt JCo-Co and terbium JTb-Tb. The exchange interaction parameters are determined by fitting the magnetization calculated using the Ising effective-field theory to the experimentally measured temperature-dependent magnetization curves. This fitting procedure yields the exchange constants for Co and Tb, along with their respective Curie temperatures. We use the magnetic exchange parameter obtained using Ising EFT-based method is then seeded on to mean field theory (MFT) to calculate the sublattice magnetizations of CoTb/Co/CoTb arranged between semi-infinite cobalt leads. The sublattice magnetizations for every atomic layer and corresponding lattice sites in the layered ferrimagnetic nanostructures are computed separately. This allows us to analyze spin-site-specific parameters, magnetic moments, magnetization, and ferrimagnetic compensation behavior for varying eutectic compositions, particularly for \\(c \\leq 0.5\\). The results give enhanced insight into magnetic phenomena at the local level and their general relevance in the ultra-thin layered ferrimagnetic structure dynamics confined between semi-infinite cobalt electrodes. These results are needed for the understanding of magnon transport phenomena and consequent magnetic amplification effects and are crucial to the development of spintronic technologies. Most importantly, to date, no first-principles or density functional theory research exists for sublattice magnetization in such multilayered systems. The versatile approach established in this work can also be applied to other nanostructured magnetic systems",
+  "authors": [
+   "Sushita Sharma",
+   "Vinod Ashokan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Sushita Sharma",
+  "pdf_url": "http://arxiv.org/pdf/2611.22644",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Computational Modeling of Sublattice Magnetization in CoTb/Co/CoTb Magnetic Multilayer Nanojunctions Between Cobalt Leads",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22664": {
+  "abstract": "VQkit is a Python-based computational toolkit developed to streamline the pre- and post-processing of density functional theory calculations performed using Vienna Ab initio Simulation Package (VASP) and Quantum ESPRESSO (QE). The framework employs a unified representation of lattice vectors, atomic coordinates, chemical species, and positional constraints, enabling cross-code structure conversion, geometry manipulation, crystallographic reconstruction, and code-specific input generation. Its pre-processing capabilities include symmetry-dependent reciprocal-space path generation, atomic constraints, and automated preparation of simulation inputs. The post-processing framework provides calculation convergence inspection, extraction of total energies and Fermi levels, electronic band-structure and density-of-states analysis, orbital-resolved electronic-structure processing, charge-density analysis, and evaluation of application-specific materials properties. The computational implementation is evaluated through elastic-property benchmarks for HfC, ZrC, ZrO2, Ti, and diamond, showing close agreement between VQkit and VASPKIT for VASP-based calculations, with differences observed in the corresponding QE results. By integrating cross-code interoperability, automated simulation preparation, standardized post-processing, and quantitative property evaluation within a common computational environment, VQkit reduces workflow fragmentation and facilitates consistent pre- and post-processing of first-principles calculations.",
+  "authors": [
+   "Rajkamal Anand",
+   "Seunghwan Kwon",
+   "Gun Jin Yun"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 5 figures",
+  "first_author": "Rajkamal Anand",
+  "pdf_url": "http://arxiv.org/pdf/2611.22664",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "VQkit: A Unified and Extensible Framework for VASP and Quantum ESPRESSO Pre- and Post-Processing",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22786": {
+  "abstract": "We provide a unified modeling framework for thermalization and non-equilibrium spectroscopy in overdamped polar environments. This framework extends dynamical density functional theory to describe the coupled quantum-classical evolution of a molecular electronic subsystem and an overdamped polar solvent represented by a reaction-field coordinate. The nonadiabatic dynamics is formulated in terms of an operator-valued distribution obeying a quantum-classical Ehrenfest--Smoluchowski equation which exhibits nonlinear classical diffusion and non-increasing free energy, thereby retaining detailed balance. In contrast, a quantum-classical Liouville--Smoluchowski model with quantum-classical linear diffusion develops unstable long-time behavior and fails to reach a stationary thermal state. The method is applied to a two-level model of a polar dye in three different solvents: chloroform, dichloromethane, and dimethyl sulfoxide, each differing in polarity and dielectric relaxation time. Absorption and time-resolved emission spectra are obtained from dipole-dipole correlation functions, capturing the solvent-induced spectral broadening, the dynamic Stokes shift, and the time evolution of the emission bandwidth. The calculated solvent spectral response agrees well with the experimental relaxation trends of the three solvents.",
+  "authors": [
+   "Paul Bergold",
+   "Irene Burghardt",
+   "Francesco Di Maiolo",
+   "Cesare Tronci"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "math-ph",
+   "quant-ph"
+  ],
+  "comment": "First version: 40 pages, 7 figures",
+  "first_author": "Paul Bergold",
+  "pdf_url": "http://arxiv.org/pdf/2611.22786",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-17",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Quantum-classical dynamical density functional theory for solvation dynamics",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22840": {
+  "abstract": "Mechanically induced self-propagating reaction (MSR) represents a promising but rather underexplored phenomenon within mechanochemistry, a solvent-free alternative to classical solution-based chemistry. In contrast to the gradual mechanochemical reactions, MSRs are sub-second combustive-like processes bringing about substantial benefits such as faster product formation, time efficiency, and lower energy consumption. Despite the fact that the mechanochemical field is in the research spotlight, MSR investigation remains on the periphery. This review aims to catalyze a renaissance in MSR fundamentals investigation by reviewing the current state-of-the-art. This is done via systematically reviewing the reaction systems that were reported to react via a MSR in the past twenty years, such as metal-metalloid ones (carbides, borides, silicides, and carbonitrides), metal chalcogenides, metal oxides, and other specific types of reactions. A couple of case studies are briefly reviewed for each system, and the comprehensive table follows afterward. The review also revisits the factors impacting the MSR course from milling conditions and reagent's properties point of view, showing either a direct or inverse relationship with MSR ignition time. The recent development in the in situ monitoring of mechanochemical reactions allowed to obtain some mechanistic insights into the MSR process, which are summarized in the last chapter.",
+  "authors": [
+   "Imelda Octa Tampubolon",
+   "Matej Baláž"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "23 pages, 25 figures",
+  "first_author": "Imelda Octa Tampubolon",
+  "pdf_url": "http://arxiv.org/pdf/2611.22840",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "chalcogenides"
+  ],
+  "title": "Mechanically induced self-propagating reactions within the realm of mechanochemistry: Fundamentals, overview, in situ monitoring and perspectives",
+  "topics": [
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.23002": {
+  "abstract": "Indentation is widely used to infer the mechanical state of biological materials like the actomyosin cortex. It reduces a single force-indentation curve to an apparent modulus. The cortex, however, is a pre-tensioned, heterogeneous fibre network. We show that this inference is ambiguous. The same amount of weakening can leave the indentation force unchanged or lower it tenfold, depending on where it lies relative to the probe. The force reflects how the probe couples to the tensioned, load-bearing structure, not the amount of weakening. We combine molecular dynamics simulations of a pressure-loaded, crosslinked fibre network indented by a rigid sphere with a continuum membrane solution. We represent the simulated force-depth response by a two-term fit, $F\\propto aδ+bδ^{3/2}$, with $a$ reflecting the global tension, and $b$ the stiffening with depth. At a fixed fraction of weakened bonds, diffuse weakening lowers the force by a factor of about 1.5. A weak cluster beneath the probe lowers it 8-12-fold, because the slack cluster decouples the probe from the tension. When the clusters are displaced from the contact, the force returns to within 15% of the healthy value. Two opposite effects cancel. The clusters soften the whole layer, which lowers its tension and the force. But they also channel the load through the intact network beneath the probe, which stiffens it locally and raises the force. The shape of the curve retains what the force level hides. The coefficient $a$ reflects the softened layer when clusters beside the probe keep the force near the healthy value. The local exponent $α=\\mathrm{d}\\ln F/\\mathrm{d}\\lnδ$ increases with depth in every configuration except when a cluster lies beneath the probe, where the two-term form no longer applies. Detecting localised weakening requires spatial sampling and analysis of the curve shape, not a single fitted modulus.",
+  "authors": [
+   "Shubham Agarwal",
+   "Olivier Noël",
+   "Martin H. Müser"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 Pages, 73 references, 10 main figures",
+  "first_author": "Shubham Agarwal",
+  "pdf_url": "http://arxiv.org/pdf/2611.23002",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-17",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Indentation of pre-tensioned cortex-like fibre networks: tension, local stretching and the signature of defect architecture",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-17"
  }
 }

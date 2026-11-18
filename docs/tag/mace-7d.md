@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2611.21489">2611.21489</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21900.html">Dynamics and transport in LiF using classical and machine learned interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Harvey L. Devereux et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21900">2611.21900</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19793.html">IANN: A Unified Framework for Equivariant InterAtomic Neural Networks with User-Friendly Implementation</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
 <td>Changzhi Ai et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15603.html">Are Scaling Laws of Universal MLIPs Universal?</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="m3gnet-7d.html">m3gnet</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Theo Keane et al.</td>
 <td><a href="http://arxiv.org/abs/2611.15603">2611.15603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13898.html">Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Zain Ul Abideen et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13898">2611.13898</a></td>
 </tr>
 </tbody></table>

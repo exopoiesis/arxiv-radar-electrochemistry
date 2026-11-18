@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">839 papers</span>
+  <span class="paper-count">842 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22272.html">Neural Network Path Optimization for Finding Transition States on a Machine Learned Potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="neb-360d.html">neb</a></div></td>
+<td>Kareem Hegazy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22272">2611.22272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22644.html">Computational Modeling of Sublattice Magnetization in CoTb/Co/CoTb Magnetic Multilayer Nanojunctions Between Cobalt Leads</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Sushita Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22644">2611.22644</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22664.html">VQkit: A Unified and Extensible Framework for VASP and Quantum ESPRESSO Pre- and Post-Processing</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Rajkamal Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22664">2611.22664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22786.html">Quantum-classical dynamical density functional theory for solvation dynamics</a></div></td>
+<td>Paul Bergold et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22786">2611.22786</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="mace-360d.html">mace</a> · <a href="water-adsorption-360d.html">water-adsorption</a></div></td>
@@ -5042,11 +5066,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18398.html">Predicting the Thermal Behavior of Semiconductor Defects with Equivariant Neural Networks</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xiangzhou Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18398">2511.18398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.23116.html">Importance of bond exchange in MnC structural stability and half-metallic ferromagnetism: a comprehensive density functional benchmark study</a></div></td>
-<td>Abdesalem Houari et al.</td>
-<td><a href="http://arxiv.org/abs/2503.23116">2503.23116</a></td>
 </tr>
 </tbody></table>

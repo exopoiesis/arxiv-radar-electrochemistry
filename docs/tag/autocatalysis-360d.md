@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>autocatalysis — 360d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="autocatalysis-7d.html">7d</a> <a href="autocatalysis-30d.html">30d</a> <a href="autocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="autocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26526.html">On the Similarity between Epidemiologic Strains, Minimal Self-Replicable Siphons, and autocatalytic cores in (Chemical) Reaction Networks: Towards a Unifying Framework</a></div><div class="paper-tags"><a href="reaction-networks-360d.html">reaction-networks</a></div></td>
 <td>Florin Avram et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26526">2510.26526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18110.html">Hawking-radiation-ignited autocatalytic formation of primordial black holes</a></div></td>
-<td>Alexander Yakimenko</td>
-<td><a href="http://arxiv.org/abs/2511.18110">2511.18110</a></td>
 </tr>
 </tbody></table>

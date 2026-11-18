@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21770.html">A Science Traceability Matrix for Micro-arcsecond Resolution X-ray Imaging</a></div></td>
+<td>Jenna M. Cann et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21770">2611.21770</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14666.html">Hydrolyzed Hazes on Water-rich Exoplanets: Composition and Prebiotic Chemistry</a></div></td>
 <td>Cara Pesciotta et al.</td>
@@ -440,11 +446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00498.html">Ubiquity of Methanol and its related Chemical Segregation in Orion Starless Cores: the ALMASOP Sample</a></div></td>
 <td>Shih-Ying Hsu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00498">2512.00498</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17975.html">A Thermodynamic Model for the Emergence of Natural Selection in Prebiotic Reaction Networks</a></div></td>
-<td>T. M. Prosser</td>
-<td><a href="http://arxiv.org/abs/2504.17975">2504.17975</a></td>
 </tr>
 </tbody></table>
