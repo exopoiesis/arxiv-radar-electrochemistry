@@ -3067,5 +3067,303 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-11-17"
+ },
+ "2611.23342": {
+  "abstract": "The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration. Real-world materials databases may contain measurement errors, failed calculations, missing or duplicate records, and hidden violations of physicochemical constraints. Such problems are difficult to identify because corrupted samples may remain statistically plausible rather than appearing as explicit outliers. In this paper, we propose a confidence-based materials data quality assessment framework that integrates domain knowledge with graph-structured learning. Data quality is formulated as a continuous confidence estimation problem rather than a binary anomaly identification task, enabling sample-level assessment and historical-reference-based batch comparison. A nine-dimensional feature-quality prior and duplicate-aware sample initialization are calibrated using materials domain rules and statistical evidence. Confidence is further refined through sample-feature bipartite graph propagation and weakly supervised graph attention, while a Memory-GAT module provides historical reference scoring. Experiments on 23 ODDS benchmark datasets show that the generic module achieves an average AUC-ROC of 0.866. In five repeated mixed-contamination experiments on mp\\_20, rule calibration improves HistGradientBoostingRegressor test $R^2$ from $0.538\\pm0.008$ to $0.616\\pm0.014$. Graph refinement increases average precision from $0.943\\pm0.004$ to 0.953\\pm0.004$, while the rule-calibrated configuration has the highest mean test $R^2$ among the evaluated screening configurations. Five repeated MACE subset experiments further show an increase in $R^2$ from $0.590\\pm0.053$ to $0.880\\pm0.027$ after rule-based screening.",
+  "authors": [
+   "Sihan Liaing",
+   "Ji Zhang",
+   "Kehan Wang",
+   "Zihao Gao",
+   "Wei Ma",
+   "Yangang Wang",
+   "Zongguo Wang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Sihan Liaing",
+  "pdf_url": "http://arxiv.org/pdf/2611.23342",
+  "primary_category": "cs.LG",
+  "published": "2026-11-17",
+  "tags": [
+   "mace"
+  ],
+  "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.23535": {
+  "abstract": "Pretrained universal machine-learning force fields can reduce the cost of finite-temperature molecular dynamics relative to density functional theory. However, most benchmarks test only static properties and do not assess whether these models reproduce the correct phase-transition sequence. Here, we benchmark ten open-source universal machine-learning force fields for zirconia (ZrO$_2$) using phonon dispersion calculations and variable-cell isothermal-isobaric molecular dynamics. Zirconia is a useful test because it has three thermodynamically stable crystalline phases prior to melting, following the sequence monoclinic-tetragonal-cubic. Four models reproduce this sequence: 7net-l3i5, MatterSim-v1.0.0-1M, MACE-mpa, and MACE-D3. Models with orthorhombic-tetragonal energy errors above about 10 meV/atom (7net-0, CHGNet, and MACE) instead produce an orthorhombic intermediate and predict monoclinic-orthorhombic-tetragonal-cubic-liquid upon heating. ORB-based models fail to sustain stable variable-cell dynamics because their phonon frequencies are compressed by 30-60% relative to the density functional theory reference. Across all ten models, two ground-state diagnostics predict finite-temperature behavior. Relative polymorph energetics should agree with the matched density functional theory reference within about 6 meV/atom, and the phonon spectrum should not show systematic softening. These diagnostics are practical screening metrics for assessing pretrained force fields for phase-transition predictions.",
+  "authors": [
+   "Rajan Khadka",
+   "Axel van de Walle",
+   "Patrick Tepesch"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 13 figures, 1 supplementary table, 7 supplementary figures. Supplementary Material included",
+  "first_author": "Rajan Khadka",
+  "pdf_url": "http://arxiv.org/pdf/2611.23535",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "chgnet",
+   "density-functional-theory",
+   "mace",
+   "molecular-dynamics"
+  ],
+  "title": "Application of Pretrained Universal Machine Learning Force-Fields for Phase Transitions Prediction in ZrO2",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.23873": {
+  "abstract": "Universal machine learning interatomic potentials (uMLIPs) make atomistic simulations possible at scales beyond the reach of density functional theory (DFT). Matlantis PFP is a uMLIP that treats a variety of domains, including crystals, molecules, and surfaces, with a single model. PFP v8 incorporated a training dataset computed with the r2SCAN functional, chosen for its good agreement with experiment, but the elements and domains covered by that dataset were limited. Here we present Matlantis PFP v9, in which the training data computed with the r2SCAN functional are extended to the lanthanides from Pr to Lu and to the elements from Po to Cm, for a total of 96 elements, and to additional domains such as clusters and adsorption structures. The formation energies of crystals containing the newly supported elements reproduce experimental standard enthalpies of formation with the same level of accuracy as crystals composed only of previously supported elements, and the adsorption energies of molecules on transition-metal surfaces have an overall error against experiment comparable to that of DFT-PBE, although chemisorbed species are overbound. On the same type of GPU (A100), the inference speed and the maximum system size exceed those of SevenNet-Omni, a public uMLIP trained on r2SCAN data: forces are evaluated three to four times faster, and five to ten times as many atoms can be handled. As a result, PFP-R2SCAN is now applicable to systems containing rare-earth and actinide elements and to adsorption on surfaces.",
+  "authors": [
+   "Daiki Shintani",
+   "Shigeru Iwase",
+   "Jun Oshiki",
+   "Kohei Shinohara",
+   "Nontawat Charoenphakdee",
+   "Makoto Hiramatsu",
+   "Yuta Tsuboi",
+   "Yusuke Asano",
+   "Hirotaka Akita",
+   "Yong-Bin Zhuang",
+   "So Takamoto",
+   "Chikashi Shinagawa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Daiki Shintani",
+  "pdf_url": "http://arxiv.org/pdf/2611.23873",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24088": {
+  "abstract": "Modern equivariant machine-learned interatomic potentials (MLIPs) have dramatically improved the accuracy of and the scales accessible to atomistic simulation, yet the thermodynamic sampling methods needed to turn those potentials into finite-temperature phase stability predictions have not kept pace computationally. We present the GPU-native, massively parallel nested sampling framework JAXRENS, implemented on top of JAX, which removes the practical bottlenecks preventing atomistic nested sampling from being combined with state-of-the-art MLIPs. The framework provides distributed multi-GPU execution, vectorised ensembles of walkers, and direct interoperability with modern force fields. We demonstrate the highly beneficial scaling of JAXRENS on hardware accelerators, and apply it to the simulation of the ZnS phase diagram based on a MACE foundation model, a procedure previously computationally inaccessible. Despite requiring in the order of 10^10 model evaluations, the final converged simulation completed within six days on four GPUs, marking an important step towards routine, first-principles-quality predictions of finite-temperature phase stability using machine-learned interatomic potentials.",
+  "authors": [
+   "Nico Unglert",
+   "Alessandro Serafini",
+   "Jesús Carrete",
+   "Georg K. H. Madsen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Nico Unglert",
+  "pdf_url": "http://arxiv.org/pdf/2611.24088",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "phase-stability"
+  ],
+  "title": "A GPU-Native Nested Sampling Framework for Finite-Temperature Materials Modelling with Machine-Learned Interatomic Potentials",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24097": {
+  "abstract": "Grain boundaries in perovskites exhibit a rich variety of electronic, polar and magnetic properties, yet identifying their atomic structures and compositions remains challenging. Here, we combine the Grand Canonical Monte Carlo (GCMC) method with a universal machine-learning interatomic potential to explore the coupled compositional and structural phase space of $Σ$5(310)[001] SrTiO$_3$ grain boundaries. The resulting chemical potential phase diagram identifies ten stable structures belonging to four motif families: large Sr kite, small Sr kite, incomplete Sr large kite, and Ti-rich structures. Extending the GCMC method to the Sigma5(210)[001] and Sigma17(410)[001] grain boundaries reveals how grain boundary plane and inclination angle influence the competition between small- and large-kite motifs. Density functional theory calculations of the predicted Sigma5(310)[001] grain boundaries show that the composition and atomic structure strongly govern the spatial distribution of conduction and valence band edge states, interfacial band alignment, and carrier localization. Four distinct electronic regimes emerge: localized electron-doped, delocalized electron-doped, insulating, and hole-attracting states. Our electrostatics analysis reveals the coexistence of the short-range electric fields at the reconstructed GB core associated with local atomic density and bonding, and the longer-range fields outside the core arising from the space charge. These fields can also couple to local polar distortions and generate composition-dependent polarization patterns. These results establish an efficient framework for exploring oxide perovskite grain boundary structures and reveal how stoichiometry and atomic reconstruction couple to electronic structure, electrostatics, and local polarization, providing a route toward predictive grain boundary engineering in functional perovskites.",
+  "authors": [
+   "Xing He",
+   "Kairi Masuda",
+   "Aaron M. Schankler",
+   "Songsong Zhou",
+   "Andrew M. Rappe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Xing He",
+  "pdf_url": "http://arxiv.org/pdf/2611.24097",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "density-functional-theory",
+   "mlip"
+  ],
+  "title": "Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24148": {
+  "abstract": "Photopolymerization of acrylated epoxidized soybean oil (AESO) is a convenient model of a self-organizing process in a soft, bio-based material: ultraviolet light starts a free-radical chain reaction, the growing network releases heat, and the mobility of molecular groups changes on several time scales at once. We follow this process from two sides. Experimentally, the real and imaginary parts of the dielectric permittivity of an AESO:VDM (1:0.5) mixture with 3 mol% of the photoinitiator DMPA were recorded at 500-5000 Hz under an intermittent on/off illumination protocol, and the resulting time series were analysed with a sliding-window Shannon entropy and the Grassberger-Procaccia correlation integral. Both measures show that short light pulses at the start of curing trigger strongly correlated, collective relaxation, which fades as the network forms, leaving only localized reorientations active. We describe these reorientations as orientational defects and quantify their energetics with the MACE-OFF23 machine learning interatomic potential, using relaxed dihedral scans of five rotational modes ($α$, $α/β$, $β$, $γ$, $δ$) of an AESO fragment. Compared with density functional theory (DFT) reference profiles, MACE reproduces the shape of all five profiles (Pearson $r=0.95$-$0.98$) and the hierarchy of barriers - from 2.9 eV for the constrained main-chain rotation, through 0.54-0.81 eV for the acrylate rotations, to 0.16-0.18 eV for the methyl and 0.06 eV for the hydroxyl rotation - while underestimating the barrier heights by 3-20%. A simple Arrhenius estimate shows that the acrylate rotations are the modes closest to the frequency window of the dielectric measurement.",
+  "authors": [
+   "Arnold Kiv",
+   "Volodymyr Soloviev",
+   "Andrii Tuzhykov",
+   "Andrii Bielinskyi",
+   "Taras Kavetskyy",
+   "Nataliia Hoivanovych",
+   "Ondrej Šauša",
+   "Jaroslav Rusnák",
+   "Helena Švajdlenková",
+   "Jolita Ostrauskaite",
+   "Mykola Slusarenko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 5 figures, 2 tables. Preprint of a chapter published in the NATO Science for Peace and Security Series B: Physics and Biophysics (Springer, 2025)",
+  "first_author": "Arnold Kiv",
+  "pdf_url": "http://arxiv.org/pdf/2611.24148",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "density-functional-theory",
+   "mace",
+   "mlip"
+  ],
+  "title": "Machine learning interatomic potentials and orientational defects in polymers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24508": {
+  "abstract": "The solid-state formation pathways of thioformaldehyde (H$_2$CS) and methanethiol (CH$_3$SH) in dense molecular clouds remain poorly constrained. We investigate carbon-initiated reactions in hydrogen sulfide (H$_2$S) ice in the presence of atomic or molecular hydrogen. We co-deposited H$_2$S, ground-state atomic carbon, and H or H$_2$ at 10 K under ultra-high vacuum. We monitored the reaction products using reflection absorption infrared spectroscopy (RAIRS) and characterized their thermal desorption using temperature-programmed desorption (TPD) with quadrupole mass spectrometry. Gas-phase ab initio calculations were used to assess pathways to CH$_3$SH formation. Atomic carbon reacted with H$_2$S at 10 K to form H$_2$CS, detected as both monomers and H$_2$CS-derived oligomers. With atomic H, successive H addition to H$_2$CS leads to CH$_3$SH. With molecular H$_2$, CH$_3$SH also forms efficiently. The results support an alternative pathway in which C reacts with H$_2$ to form CH$_2$, which abstracts H from H$_2$S. The resulting CH$_3$ and SH radicals can then recombine to form CH$_3$SH. The infrared bands and TPD fragmentation patterns support the formation of H$_2$CS and CH$_3$SH in the ice at 10 K. These findings expand the set of viable solid-state pathways to sulfur-bearing molecules and constrain models of sulfur chemistry in prestellar environments.",
+  "authors": [
+   "F. Kruczkiewicz",
+   "J. C. Santos",
+   "G. Fedoseev",
+   "S. Ioppolo",
+   "C. M. R. Rocha",
+   "K. -J. Chuang"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": "Accepted for publication in Astronomy & Astrophysics. 13 pages, 7 figures, including Appendix A",
+  "first_author": "F. Kruczkiewicz",
+  "pdf_url": "http://arxiv.org/pdf/2611.24508",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-18",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Solid-state formation of H$_2$CS and CH$_3$SH in molecular clouds: Carbon-initiated reactions with atomic and molecular hydrogen",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24641": {
+  "abstract": "Multimodal language models for materials science rely on effective mechanisms for incorporating three-dimensional structural representations. MatterChat addresses this challenge using a large bridge module between a pretrained structural encoder and the LLM, together with a separate contrastive alignment stage. We instead ask whether this bridge can adaptively select and combine representations from multiple structural encoders according to the target property. We find that supervised and generative material encoders provide complementary information for property prediction. We found that, for Zatom-1, this information is not concentrated in the final layer. Instead, the most informative representations occur at different depths depending on the target property. This motivates Task-Conditioned Attention Fusion (TCAF), a lightweight attention-based bridge that uses task-conditioned latent queries to combine CHGNet features with intermediate Zatom-1 representations. The bridge is trained directly on downstream prediction tasks, allowing representation selection and material-language alignment to be learned jointly without separate contrastive pretraining. Across classification and regression tasks, TCAF outperforms MatterChat, with up to 47.8% lower RMSE, while using substantially fewer trainable parameters and halving the overall training time. Further experiments incorporating UMA-S demonstrate TCAF's flexibility across encoder combinations, with the three-encoder configuration achieving the highest macro-average classification accuracy of 89.61%.",
+  "authors": [
+   "Huu Binh Ta",
+   "Alex Morehead",
+   "N. Benjamin Erichson",
+   "Ferdinando Fioretto",
+   "Sandeep Madireddy"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "Accepted at the AI4Mat Workshop at NeurIPS 2026",
+  "first_author": "Huu Binh Ta",
+  "pdf_url": "http://arxiv.org/pdf/2611.24641",
+  "primary_category": "cs.LG",
+  "published": "2026-11-18",
+  "tags": [
+   "chgnet"
+  ],
+  "title": "Choosing the Right Representations: Task-Aware Fusion for Multimodal Materials Language Models",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24754": {
+  "abstract": "Atomic-scale defects in two-dimensional semiconductors are quasi-isolated quantum systems with promise for emerging technologies. Although their potential as spin qubits, quantum sensors and single-photon emitters has been demonstrated experimentally, creating them deterministically and identifying them chemically remains challenging, which limits control over their electronic states. In this work we assemble sulfur vacancies in monolayer WS$_{2}$ into complexes of different sizes and geometries using the tip of a scanning tunneling microscope. We study their electronic properties by a combination of scanning tunneling spectroscopy and density functional theory, revealing the intricate influences of geometry, underlying point group symmetries and spin-orbit coupling on hybridized states. Among the realized sulfur vacancy complexes, we characterize two configurations that are candidates for bright single photon emitters. Our findings demonstrate an atomic-scale method for engineering quantum states within the band gap of two-dimensional semiconductors.",
+  "authors": [
+   "Daniel Jansen",
+   "Guangyao Miao",
+   "Jan-Heinrich Keienburg",
+   "Jeison Fischer",
+   "Thomas Michely",
+   "Hannu-Pekka Komsa",
+   "Wouter Jolie"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daniel Jansen",
+  "pdf_url": "http://arxiv.org/pdf/2611.24754",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$_{2}$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24759": {
+  "abstract": "Porous materials offer a vast design space for CO$_2$ capture, whose exploration hinges on efficient and accurate first-principles predictions of the thermodynamics governing adsorption. However, simulating isotherms and heats of adsorption using grand canonical molecular simulations is extremely computationally expensive when combined with accurate ab initio treatments of the molecular interactions, limiting screening to low-pressure uptake encoded in the Henry constant. Identifying and designing the best CO$_2$ capture materials requires a strategy that can efficiently calculate their adsorption properties using ab initio potential energy surfaces such as those now available from foundational machine-learned interatomic potentials (MLIPs). Here we develop a neural classical density functional (cDFT) framework for carbon capture processes that allows direct calculation of adsorption isotherms from low to high loading limits of metal-organic frameworks (MOFs) without grand canonical simulations. We demonstrate the success of our approach by calculating the ab initio adsorption isotherms for over 5,000 experimentally reported MOFs. From our screening, we show how these materials can be characterized using four isotherm shapes, arising from their pore size and binding sites, which the Henry constant cannot distinguish. We show that these shapes, rather than the binding strength alone, decide which MOFs suit which process: small pores with strong binding sites for vacuum and temperature swings at low pressure, large pores with weakly binding walls for pressure swings. Finally, we identify the most promising candidates by weighing their working capacity against the energy needed for regeneration.",
+  "authors": [
+   "Anna T. Bui",
+   "Grant M. Rotskoff",
+   "Thomas E. Markland"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "Main: 12 pages, 6 figures. SI: 19 pages, 13 figures",
+  "first_author": "Anna T. Bui",
+  "pdf_url": "http://arxiv.org/pdf/2611.24759",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "ab-initio",
+   "adsorption"
+  ],
+  "title": "Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
  }
 }
