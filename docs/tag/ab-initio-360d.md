@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">477 papers</span>
+  <span class="paper-count">476 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a></div></td>
 <td>Anna T. Bui et al.</td>
 <td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Arina A. Svinukhova et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25284.html">Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave</a></div></td>
+<td>Tobias Dannegger et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25284">2611.25284</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-17</td>
@@ -2858,23 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20863.html">Bridging Atomistic and Mesoscale Lithium Transport via Machine-Learned Force Fields and Markov State Models</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Muhammad Nawaz Qaisrani et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20863">2511.20863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19060.html">A Combined Theoretical and Experimental Study of Oxygen Vacancies in Co$_3$O$_4$ for Liquid-Phase Oxidation Catalysis</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19060">2511.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19338.html">Electrochemical Interfaces at Constant Potential: Data-Efficient Transfer Learning for Machine-Learning-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="constant-potential-360d.html">constant-potential</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Michele Giovanni Bianchi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19338">2511.19338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19668.html">Quantum Coherence of Rare-Earth Ions in Heterogeneous Photonic Interfaces</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Henry C. Hammer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19668">2511.19668</a></td>
 </tr>
 </tbody></table>

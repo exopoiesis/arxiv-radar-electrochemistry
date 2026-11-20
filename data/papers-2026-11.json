@@ -3365,5 +3365,169 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-11-18"
+ },
+ "2611.25127": {
+  "abstract": "Search for optimal compositions among high-entropy ceramics are challenging due to large composition space, which are unable to test either experimentally or by \\textit{ab initio} calculations. Here we present a high-throughput screening for equimolar and non-equimolar high-entropy carbides (HEC) among group IVB and VB transition metals (Ti, Zr, Hf, V, Nb and Ta). Large Atomistic Model MACE, and deep learning based interatomic potential DeePMD trained on \\textit{ab initio}-based dataset of structures are used to effectively screen over the thousands of potential non-equimolar compositions among high-entropy carbides of Ti, Zr, Hf, V, Nb and Ta transition metals. A set of both equimolar and non-equimolar HECs are predicted to be stable in order to further synthesize those compositions based on the predictions.",
+  "authors": [
+   "Arina A. Svinukhova",
+   "Faisal Baber",
+   "Michel M. Lukanov",
+   "Viktor S. Baidyshev",
+   "Daria Terentieva",
+   "Alexander Ya. Pak",
+   "Alexander G. Kvashnin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Arina A. Svinukhova",
+  "pdf_url": "http://arxiv.org/pdf/2611.25127",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "ab-initio",
+   "mace",
+   "mlip"
+  ],
+  "title": "Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.25284": {
+  "abstract": "Hematite is an insulating iron oxide with both a collinear antiferromagnetic and a weakly ferromagnetic phase with intriguing properties, such as long-range spin transport distances, that make it promising for spintronics applications. It has also been identified as a candidate for g-wave altermagnetism. Here, we present the results of fully relativistic ab initio calculations of the magnon properties of hematite, with a focus on altermagnetic effects. We quantitatively evaluate both the anisotropic and altermagnetic magnon band splitting as well as the magnon lifetimes. We show that dipolar interactions lead to a sizeable non-altermagnetic splitting and a hybridisation between opposite-chirality magnons resulting in a strong reduction of the spin expectation value of magnons close to the Γ point and around nodal planes, even in the collinear out-of-plane phase. Both the frequencies and the lifetimes have a large altermagnetic splitting in the $k_z = 0$ plane, which is characteristic of hematite and not generally expected for g-wave altermagnets. We compare our results to the prototypical, hexagonal g-wave altermagnet manganese telluride, which has four symmetry-protected nodal planes, whereas the fourth nodal surface in hematite is not completely fixed by symmetry. We derive implicit analytical expressions for this surface and discuss how it arises from a combination of rotational and translational symmetry, which leads to a transition to i-wave symmetry at the Brillouin zone boundary. The example of hematite reveals the trigonal altermagnets as a special case where the splitting function exhibits both bulk (g-wave) and planar (i-wave) components, and shows that the point symmetries alone are not sufficient to capture the full symmetry-determined behaviour of the splitting function.",
+  "authors": [
+   "Tobias Dannegger",
+   "Julian A. Beisch",
+   "Levente Rózsa",
+   "László Szunyogh",
+   "Ulrich Nowak"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 7 figures",
+  "first_author": "Tobias Dannegger",
+  "pdf_url": "http://arxiv.org/pdf/2611.25284",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.25375": {
+  "abstract": "Lithium-metal batteries promise high energy density, but common electrolytes trade ionic conductivity against the share of current carried by lithium ions and against how strongly solvent binds those ions. We show that simultaneously weakening both interactions of the lithium ion, with solvent and with anion, relaxes this trade-off. Thus, a weakly coordinating perfluorinated alkoxyaluminate salt in liquefied fluoromethane conducts 39.2 mS cm$^{-1}$ at 25 $^\\circ$C while maintaining a lithium-ion transference number of 0.71. Molecular dynamics simulations further reveal that the anion prevents persistent ion aggregation and lowers the salt's dissociation penalty. Consistent with these properties, nickel-rich cathode/lithium-metal anode full cells charge at 10C at room temperature and at 2C at $-40$ $^\\circ$C. We advance coordination strength as a design axis for future energy storage devices.",
+  "authors": [
+   "Alex Liu",
+   "Ganesh Raghavendran",
+   "Eric S. Yang",
+   "Kevin J. Anderton",
+   "Vibhu Vardhan Singh",
+   "Aiden Larson",
+   "Kun Ryu",
+   "Kent J. Griffith",
+   "Joshua S. Figueroa",
+   "Ying Shirley Meng",
+   "Tod A. Pascal"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 4 figures. Submitted to Science. Under review",
+  "first_author": "Alex Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.25375",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-19",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-19"
+ },
+ "2611.25646": {
+  "abstract": "Fast and accurate prediction of adsorption energies is critical for high-throughput computational catalyst screening, existing methods compromise either on evaluation speed (full-graph machine learning potentials) or geometric sensitivity (coordination-based models like the alpha-scheme). Here, we present AdsNet, an equivariant graph neural network that directly predicts adsorption energies in a single forward pass, which operates on a local graph restricted only to adsorbate atoms and its immediate surface neighbors within a cutoff radius. This local graph formulation decouples computational complexity from total system size while encoding continuous geometric features (interatomic distances and directional vectors) enabling sensitivity to subtle variations in local bonding environments. AdsNet adopts a message-passing architecture with scalar and vector node features over multiple interaction layers. Trained on AdsTraj, a dataset of 33,920 density functional theory (DFT) calculated structures spanning 26 transition metals and 6 adsorbates (H*, C*, O*, CO*, OH*, HOCO*), the model achieves an adsorption energy root-mean-square error (RMSE) of 0.032 eV and a force RMSE of 0.047 eV/A. Analytic forces obtained via automatic differentiation enable structure relaxation through a projected gradient descent algorithm with adaptive line search, eliminating entire geometry optimizations. Additionally, AdsNet uniquely decomposes predicted adsorption energies into contributions from individual atoms within the local adsorbate graph - an interpretability feature unattainable with conventional machine-learning potentials. AdsNet thus establishes an accurate, highly efficient, and interpretable framework for large-scale adsorption energy prediction and local interface relaxation across various material surfaces.",
+  "authors": [
+   "Changzhi Ai",
+   "Frank Abild-Pedersen",
+   "Johannes Voss"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "24 pages, 6 figures, 1 table; includes Supplementary Information (4 pages, 2 tables). AdsNet is MIT-licensed. Code: https://github.com/changzhiai/AdsNet - Documentation: https://adsnet.readthedocs.io - Dataset (AdsTraj): https://huggingface.co/datasets/changzhiai/AdsTraj - Model weights: https://huggingface.co/changzhiai/adsnet-models",
+  "first_author": "Changzhi Ai",
+  "pdf_url": "http://arxiv.org/pdf/2611.25646",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-19",
+  "tags": [
+   "adsorption",
+   "adsorption-energy",
+   "density-functional-theory"
+  ],
+  "title": "AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Electrochemical Interfaces and Solvation",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-19"
+ },
+ "2611.25784": {
+  "abstract": "We establish quantitative approximations for the empirical measures of finite-state mean-field particle systems in a general framework. The scales of the empirical drift and covariance distinguish the ODE and critical diffusion regimes and determine the corresponding time rescaling.   In the ODE regime, we obtain quantitative central limit approximations in the $1$-Wasserstein distance and a Bernstein-type concentration inequality. The concentration bound has no dimensional prefactor. Its explicit time dependence also identifies growing intervals on which the ODE approximation remains accurate. In the critical regime, we prove a quantitative nonlinear diffusion approximation in the $1$-Wasserstein distance. We apply our quantitative approximation results to noisy voter systems, Moran models with mutations and selections, heat-bath Glauber dynamics for the $p$-spin Curie--Weiss model, and autocatalytic reactions with mutations.",
+  "authors": [
+   "Arnab Ganguly",
+   "Yangrui Xiang"
+  ],
+  "categories": [
+   "math.PR"
+  ],
+  "comment": null,
+  "first_author": "Arnab Ganguly",
+  "pdf_url": "http://arxiv.org/pdf/2611.25784",
+  "primary_category": "math.PR",
+  "published": "2026-11-19",
+  "tags": [
+   "autocatalysis"
+  ],
+  "title": "Quantitative approximations for finite-state mean-field configuration models",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-19"
+ },
+ "2611.26208": {
+  "abstract": "We develop a theoretical framework for magneto-electrokinetic transport in dilute electrolytes under unidirectional flow and streaming current conditions. Unlike standard magnetohydrodynamics in liquid metals, where charge carriers are electrons and conductivity is typically uniform, electrolytes exhibit spatially varying ion densities and additional forces such as osmotic pressure. In steady state, the coupled Navier--Stokes, Nernst--Planck, and Poisson equations become analytically tractable. We derive a Boltzmann-like expression for ion distributions that incorporates both the electrostatic potential and a novel hydrodynamic potential arising from the magnetic field. This potential depends explicitly on the flow profile and is not screened close to the bounding walls. Applying the theory to Poiseuille flow, we derive expressions for the induced Hall potential and demonstrate its near-linear dependence on flow velocity and magnetic field strength, while remaining largely independent of salt concentration. To validate this one-dimensional framework, we analyze the two-dimensional spatial transients near the channel entrance. We demonstrate a separation of length scales: the Hall electric field and space charge adjust to the magnetic field almost instantaneously, whereas the macroscopic salt concentration wake develops over a much longer Graetz length dictated by the Péclet number. We also examine a similar flow with counterions only and no added salt, determining the resulting potential and ion distributions. This work offers new theoretical tools for understanding ion transport in microfluidic and electrochemical systems.",
+  "authors": [
+   "Yoav Tsori"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": "12 pages, 7 figures",
+  "first_author": "Yoav Tsori",
+  "pdf_url": "http://arxiv.org/pdf/2611.26208",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-19",
+  "tags": [
+   "ion-transport"
+  ],
+  "title": "Theory of magneto-electrokinetics in unidirectional electrolyte flow: Hydrodynamic potential and Hall effect",
+  "topics": [
+   "Ion Transport, Gradients, and Membranes"
+  ],
+  "updated": "2026-11-19"
  }
 }

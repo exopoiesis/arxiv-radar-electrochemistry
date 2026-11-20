@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.24148">2611.24148</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mace-30d.html">mace</a></div></td>
+<td>Arina A. Svinukhova et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22272.html">Neural Network Path Optimization for Finding Transition States on a Machine Learned Potential</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="neb-30d.html">neb</a></div></td>
 <td>Kareem Hegazy et al.</td>
@@ -128,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32905.html">Combining Simulations and Spectroscopy to Design Protective Coatings on Sulfide Solid Electrolytes</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="impedance-spectroscopy-30d.html">impedance-spectroscopy</a> · <a href="ion-transport-30d.html">ion-transport</a></div></td>
 <td>Zhiyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32905">2610.32905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="corrosion-30d.html">corrosion</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>K. Starkey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28493">2610.28493</a></td>
 </tr>
 </tbody></table>

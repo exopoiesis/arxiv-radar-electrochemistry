@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a></div></td>
 <td>Anna T. Bui et al.</td>
 <td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Arina A. Svinukhova et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25284.html">Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave</a></div></td>
+<td>Tobias Dannegger et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25284">2611.25284</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-17</td>
@@ -698,11 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21973.html">Nudged Elastic Band Method in the CRYSTAL code. Theory and Applications</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="neb-90d.html">neb</a> · <a href="phase-transitions-90d.html">phase-transitions</a></div></td>
 <td>Andreha Gelli et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21973">2608.21973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21333.html">Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs</a></div><div class="paper-tags"><a href="chalcogenides-90d.html">chalcogenides</a></div></td>
-<td>Zafar Sadik Mehrub et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21333">2608.21333</a></td>
 </tr>
 </tbody></table>

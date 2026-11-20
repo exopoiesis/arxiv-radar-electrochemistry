@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25375.html">Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff</a></div></td>
+<td>Alex Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25375">2611.25375</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22626.html">Prior-guided adaptive local refinement of foundation interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-stability-7d.html">phase-stability</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
@@ -80,23 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17679.html">Electric Fields Turn Vacancy-trapping Grain Boundaries into Li-Ion Pathways in Li2O</a></div><div class="paper-tags"><a href="ion-transport-7d.html">ion-transport</a> · <a href="mlip-7d.html">mlip</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Youjeong Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17679">2611.17679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16266.html">Studying temperature-induced decrease of spontaneous polarization in PbTiO$_3$ from vibrational amplitude</a></div></td>
-<td>Zhikai Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2611.16266">2611.16266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16605.html">Dynamics and Statistical Mechanics of Born-Oppenheimer Auxiliary Velocities</a></div></td>
-<td>Paula Sierra et al.</td>
-<td><a href="http://arxiv.org/abs/2611.16605">2611.16605</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div></td>
-<td>Abhijit Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
 </tr>
 </tbody></table>

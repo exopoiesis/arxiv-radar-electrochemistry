@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.24148">2611.24148</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Arina A. Svinukhova et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23342.html">Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning</a></div></td>
 <td>Sihan Liaing et al.</td>
@@ -1112,11 +1118,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20487.html">MLIPAudit: A benchmarking tool for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Leon Wehrhan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20487">2511.20487</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00578.html">Learning Potential Energy Surfaces of Hydrogen Atom Transfer Reactions in Peptides</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Marlen Neubert et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00578">2508.00578</a></td>
 </tr>
 </tbody></table>

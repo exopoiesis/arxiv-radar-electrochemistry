@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20976.html">AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions</a></div></td>
 <td>Stephen G. Dale et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20976">2511.20976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00578.html">Learning Potential Energy Surfaces of Hydrogen Atom Transfer Reactions in Peptides</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mace-360d.html">mace</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Marlen Neubert et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00578">2508.00578</a></td>
 </tr>
 </tbody></table>

@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-11-19._
+_Updated 2026-11-20._
 
-**3638** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3644** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25375.html">Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Alex Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25375">2611.25375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Changzhi Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25784.html">Quantitative approximations for finite-state mean-field configuration models</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
+<td>Arnab Ganguly et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25784">2611.25784</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.26208.html">Theory of magneto-electrokinetics in unidirectional electrolyte flow: Hydrodynamic potential and Hall effect</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
+<td>Yoav Tsori</td>
+<td><a href="http://arxiv.org/abs/2611.26208">2611.26208</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
@@ -63,6 +87,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/adsorption-30d.html">adsorption</a></div></td>
 <td>Anna T. Bui et al.</td>
 <td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Arina A. Svinukhova et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25284.html">Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Tobias Dannegger et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25284">2611.25284</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-17</td>
@@ -159,41 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20723.html">Oxirane Ring-Opening Dynamics Mediated By The First Singlet Excitation Using Time-Dependent \textit{GW} Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Aaditya Manjanath et al.</td>
 <td><a href="http://arxiv.org/abs/2611.20723">2611.20723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21026.html">Bias Conditioning and Long-Range Electrostatics for Consistent Machine-Learning Potentials of Electrified Interfaces</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/explicit-solvation-30d.html">explicit-solvation</a></div></td>
-<td>Lucas B. T. de Kam et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21026">2611.21026</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21047.html">The imprint of neutron escape on non-thermal protons in AGN coronae</a></div><div class="paper-tags"><a href="tag/proton-diffusion-30d.html">proton-diffusion</a> · <a href="tag/proton-transport-30d.html">proton-transport</a></div></td>
-<td>Antonio Ambrosone et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21047">2611.21047</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21147.html">Large-scale Monte Carlo/Molecular Dynamics simulations with Atomic Cluster Expansion potentials in LAMMPS</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Lorenzo Piersante et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21147">2611.21147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21433.html">Kinetic Monte Carlo modeling of ammonium formate NH$_4^+$HCOO$^-$ and ammonium cyanate NH$_4^+$OCN$^-$ in interstellar ices</a></div><div class="paper-tags"><a href="tag/formate-30d.html">formate</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a></div></td>
-<td>Joseph Salaris et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21433">2611.21433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21489.html">Local topology hallucinations in universal machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="tag/chgnet-30d.html">chgnet</a> · <a href="tag/m3gnet-30d.html">m3gnet</a> · <a href="tag/mace-30d.html">mace</a></div></td>
-<td>Xiaoqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21489">2611.21489</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21770.html">A Science Traceability Matrix for Micro-arcsecond Resolution X-ray Imaging</a></div><div class="paper-tags"><a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
-<td>Jenna M. Cann et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21770">2611.21770</a></td>
 </tr>
 </tbody></table>

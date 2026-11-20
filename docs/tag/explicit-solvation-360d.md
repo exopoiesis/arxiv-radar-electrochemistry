@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>explicit-solvation — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="explicit-solvation-7d.html">7d</a> <a href="explicit-solvation-30d.html">30d</a> <a href="explicit-solvation-90d.html">90d</a> <strong>360d</strong> <a href="explicit-solvation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01543.html">Predictive quantum vibrational spectra through active learning 4G-NNPs</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Md Omar Faruque et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01543">2511.01543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19338.html">Electrochemical Interfaces at Constant Potential: Data-Efficient Transfer Learning for Machine-Learning-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="constant-potential-360d.html">constant-potential</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Michele Giovanni Bianchi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19338">2511.19338</a></td>
 </tr>
 </tbody></table>
