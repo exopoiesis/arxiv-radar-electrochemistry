@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption-energy — 360d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="adsorption-energy-7d.html">7d</a> <a href="adsorption-energy-30d.html">30d</a> <a href="adsorption-energy-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,11 +350,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04674.html">FAUST XXIX. OCS line emission: a new method for measuring the luminosity of embedded protostars in binary systems</a></div></td>
 <td>Guillaume Saury et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04674">2512.04674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16263.html">Prediction of atomic H adsorption energies in metalloid doped MSSe (M = Mo/W) Janus layers: A combined DFT and machine learning study</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>G. Tejaswini et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16263">2511.16263</a></td>
 </tr>
 </tbody></table>

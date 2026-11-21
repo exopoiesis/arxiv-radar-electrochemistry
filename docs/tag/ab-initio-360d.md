@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">476 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2846,29 +2846,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21404.html">Revealing Fast Ionic Conduction in Solid Electrolytes through Machine Learning Accelerated Raman Calculations</a></div><div class="paper-tags"><a href="ion-transport-360d.html">ion-transport</a></div></td>
 <td>Manuel Grumet et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21404">2511.21404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18526.html">Ab initio modeling of resonant inelastic x-ray scattering from Ca2RuO4</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>D. A. Kukusta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18526">2511.18526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19862.html">Water induced bandgap engineering in nanoribbons of hexagonal boron nitride</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="water-adsorption-360d.html">water-adsorption</a></div></td>
-<td>Chen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19862">2511.19862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20197.html">High-pressure melting and elastic behavior of vanadium and niobium based on ab initio and machine learning molecular dynamics</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20197">2511.20197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20863.html">Bridging Atomistic and Mesoscale Lithium Transport via Machine-Learned Force Fields and Markov State Models</a></div><div class="paper-tags"><a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Muhammad Nawaz Qaisrani et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20863">2511.20863</a></td>
 </tr>
 </tbody></table>

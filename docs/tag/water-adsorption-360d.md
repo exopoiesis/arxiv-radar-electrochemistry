@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>water-adsorption — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="water-adsorption-7d.html">7d</a> <a href="water-adsorption-30d.html">30d</a> <a href="water-adsorption-90d.html">90d</a> <strong>360d</strong> <a href="water-adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.10186.html">Comprehensive Molecular-level Understanding of MgO Hydration through Computational Chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a> · <a href="explicit-solvation-360d.html">explicit-solvation</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Taichi Inagaki et al.</td>
 <td><a href="http://arxiv.org/abs/2601.10186">2601.10186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19862.html">Water induced bandgap engineering in nanoribbons of hexagonal boron nitride</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="adsorption-360d.html">adsorption</a></div></td>
-<td>Chen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19862">2511.19862</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>adsorption — 360d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="adsorption-7d.html">7d</a> <a href="adsorption-30d.html">30d</a> <a href="adsorption-90d.html">90d</a> <strong>360d</strong> <a href="adsorption-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,17 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22540.html">Anomalous double-layer restructuring in water-in-salt electrolytes at graphitic interfaces governs capacitance</a></div><div class="paper-tags"><a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="ion-pairing-360d.html">ion-pairing</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hannah O. Wood et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22540">2511.22540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16263.html">Prediction of atomic H adsorption energies in metalloid doped MSSe (M = Mo/W) Janus layers: A combined DFT and machine learning study</a></div><div class="paper-tags"><a href="adsorption-energy-360d.html">adsorption-energy</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>G. Tejaswini et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16263">2511.16263</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19862.html">Water induced bandgap engineering in nanoribbons of hexagonal boron nitride</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="water-adsorption-360d.html">water-adsorption</a></div></td>
-<td>Chen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19862">2511.19862</a></td>
 </tr>
 </tbody></table>

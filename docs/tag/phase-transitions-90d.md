@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transitions — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="phase-transitions-7d.html">7d</a> <a href="phase-transitions-30d.html">30d</a> <strong>90d</strong> <a href="phase-transitions-360d.html">360d</a> <a href="phase-transitions-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00724.html">Phase Switchable Photocatalytic Water Splitting via a Paraelectric-Ferroelectric Transition in Zr2Ge2S6 Monolayer: A Comprehensive Theoretical Insights</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="hydrogen-evolution-90d.html">hydrogen-evolution</a> · <a href="oxygen-evolution-90d.html">oxygen-evolution</a></div></td>
 <td>Jubair Hossan Abir et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00724">2609.00724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21973.html">Nudged Elastic Band Method in the CRYSTAL code. Theory and Applications</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="grotthuss-90d.html">grotthuss</a> · <a href="neb-90d.html">neb</a></div></td>
-<td>Andreha Gelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21973">2608.21973</a></td>
 </tr>
 </tbody></table>
