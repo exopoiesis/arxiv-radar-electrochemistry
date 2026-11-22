@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>proton-diffusion — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="proton-diffusion-7d.html">7d</a> <a href="proton-diffusion-30d.html">30d</a> <a href="proton-diffusion-90d.html">90d</a> <strong>360d</strong> <a href="proton-diffusion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18069.html">Hydrogen diffusion in TiCr$_2$H$_x$ Laves phases: A combined ab initio and machine-learning-potential study</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="neb-360d.html">neb</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
 <td>Pranav Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18069">2511.18069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21410.html">Lattice-Distortion-Mediated Proton Pairing and Trapping in Solid State Oxides</a></div><div class="paper-tags"><a href="proton-transport-360d.html">proton-transport</a></div></td>
-<td>Hang Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21410">2511.21410</a></td>
 </tr>
 </tbody></table>

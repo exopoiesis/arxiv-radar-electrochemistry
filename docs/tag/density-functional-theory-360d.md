@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">839 papers</span>
+  <span class="paper-count">837 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -5036,17 +5036,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22725.html">Mechanisms for the Formation of Active Sites in Single-Atom Alloys</a></div></td>
 <td>Ioannis Karageorgiou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22725">2511.22725</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21464.html">Fast machine learned $α$-Fe-H interatomic potential for hydrogen embrittlement</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Eetu Makkonen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21464">2511.21464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21965.html">Demonstration of the ODMR activity of the telecom range ClV center in SiC: a wavefunction theory analysis</a></div><div class="paper-tags"><a href="vacancies-360d.html">vacancies</a></div></td>
-<td>Zsolt Benedek et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21965">2511.21965</a></td>
 </tr>
 </tbody></table>

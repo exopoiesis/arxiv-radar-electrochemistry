@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chalcogenides — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="chalcogenides-7d.html">7d</a> <a href="chalcogenides-30d.html">30d</a> <a href="chalcogenides-90d.html">90d</a> <strong>360d</strong> <a href="chalcogenides-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02168.html">Evaluation of carbon incorporation in sulfide thin films grown by hybrid pulsed laser deposition</a></div></td>
 <td>Claire Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02168">2512.02168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21138.html">All-Optical Varifocal Switching in a Polarization-Insensitive Si--GST Metalens</a></div><div class="paper-tags"><a href="phase-transitions-360d.html">phase-transitions</a></div></td>
-<td>Dipika Rani Nath et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21138">2511.21138</a></td>
 </tr>
 </tbody></table>

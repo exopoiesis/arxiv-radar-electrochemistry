@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>proton-transport — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="proton-transport-7d.html">7d</a> <a href="proton-transport-30d.html">30d</a> <a href="proton-transport-90d.html">90d</a> <strong>360d</strong> <a href="proton-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10588.html">Why a chloroplast needs its own genome tethered to the thylakoid membrane -- Co-location for Redox Regulation</a></div></td>
 <td>John F. Allen</td>
 <td><a href="http://arxiv.org/abs/2512.10588">2512.10588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21410.html">Lattice-Distortion-Mediated Proton Pairing and Trapping in Solid State Oxides</a></div><div class="paper-tags"><a href="proton-diffusion-360d.html">proton-diffusion</a></div></td>
-<td>Hang Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21410">2511.21410</a></td>
 </tr>
 </tbody></table>
