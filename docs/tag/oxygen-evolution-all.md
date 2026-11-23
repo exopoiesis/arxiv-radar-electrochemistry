@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>oxygen-evolution — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="oxygen-evolution-7d.html">7d</a> <a href="oxygen-evolution-30d.html">30d</a> <a href="oxygen-evolution-90d.html">90d</a> <a href="oxygen-evolution-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="electrocatalysis-all.html">electrocatalysis</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20614.html">Nitrogen Defect Coupling in Epitaxial LaFeO3 From Structural Reconstruction to Water Oxidation</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="vacancies-all.html">vacancies</a></div></td>

@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27955.html">Molecular structure breaks universality in screening behavior of electrolyte solutions</a></div></td>
+<td>Anna T. Bui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27955">2611.27955</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="adsorption-30d.html">adsorption</a> · <a href="adsorption-energy-30d.html">adsorption-energy</a></div></td>
 <td>Changzhi Ai et al.</td>
@@ -428,17 +440,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33469.html">Charge state and hydration of vacancies in silicon and silicon carbide in contact with water: A grand-canonical first-principles stability map</a></div><div class="paper-tags"><a href="corrosion-30d.html">corrosion</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
 <td>Abhirup Patra</td>
 <td><a href="http://arxiv.org/abs/2610.33469">2610.33469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32903.html">Rationalizing charge transfer: a single-molecule case study across three distinct surfaces</a></div></td>
-<td>Benjamin Lowe et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32903">2610.32903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32938.html">Vacancy-enhanced Li solid-solution anodes for solid-state batteries: computational screening enabling high critical current density</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vacancies-30d.html">vacancies</a></div></td>
-<td>Arseniy S. Burov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32938">2610.32938</a></td>
 </tr>
 </tbody></table>

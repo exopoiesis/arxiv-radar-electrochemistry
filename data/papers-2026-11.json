@@ -3529,5 +3529,109 @@
    "Ion Transport, Gradients, and Membranes"
   ],
   "updated": "2026-11-19"
+ },
+ "2611.27037": {
+  "abstract": "Hybrid density functional theory calculations were used to investigate the stability, electronic properties, and catalytic activity of transition-metal impurities substituting Zn sites (M\\(_{\\rm Zn}\\)) in the MOF-5 metal-organic framework [Zn\\(_4\\)O(BDC)\\(_3\\), BDC = 1,4-benzenedicarboxylate], with M = Sc, Ti, V, Cr, Mn, Fe, Co, Ni, and Cu. Most substitutions introduce \\(3d\\) states within the MOF-5 band gap and induce localized magnetic moments. Partially occupied \\(3d\\) states promote orbital hybridization and charge transfer with oxygenated intermediates, activating the dopant sites toward oxygen electrocatalysis. The oxygen reduction and evolution reaction (ORR and OER) activities were evaluated using the computational hydrogen electrode model. Mn\\(_{\\rm Zn}\\) and Fe\\(_{\\rm Zn}\\) exhibit calculated ORR overpotentials of 0.57~V, while Mn\\(_{\\rm Zn}\\) and Co\\(_{\\rm Zn}\\) yield OER overpotentials of 0.42 and 0.51~V, respectively, approaching those of benchmark precious-metal electrocatalysts. These findings identify Mn substitution as a promising strategy for achieving bifunctional ORR/OER activity in MOF-5 and establish a link between dopant electronic structure and catalytic performance to guide the design of MOF-based electrocatalysts.",
+  "authors": [
+   "Pedro H. Souza",
+   "Walter Orellana"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pedro H. Souza",
+  "pdf_url": "http://arxiv.org/pdf/2611.27037",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-20",
+  "tags": [
+   "density-functional-theory",
+   "electrocatalysis",
+   "oxygen-evolution"
+  ],
+  "title": "Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-20"
+ },
+ "2611.27103": {
+  "abstract": "Transition metal chalcogenide M6X6 nanowires (M = Mo or W; X = S, Se, or Te) are promising one-dimensional (1D) building blocks for nanowire bundles and arrays, but how elemental composition controls their intrinsic axial heat transport remains unclear. Here we develop a multicomponent neuroevolution potential (NEP) from first-principles reference data and use homogeneous nonequilibrium molecular dynamics (HNEMD) simulations to quantify the thermal conductivity of six MX6 nanowires. The Mo6X6 series show a nonmonotonic composition dependence, whereas the thermal conductivity of the W6X6 series decreases monotonically with increasing chalcogen mass. Frequency-resolved thermal conductivity and phonon mean-free path analyses show that axial heat conduction is dominated by low-frequency phonons. Vibrational density of states and spectral energy density analyses further reveal that the contrasting trends arise from a competition between metal-chalcogen vibrational matching and phonon softening induced by heavier chalcogen atoms. A phenomenological model incorporating the combined atomic mass and the relative mass difference between the metal and chalcogen atoms reproduces these trends. These results link elemental composition, phonon characteristics and axial thermal conductivity in M6X6 nanowires, providing an atomistic basis for selecting heat-conducting units in nanowire bundles and arrays.",
+  "authors": [
+   "Wenwu Jiang",
+   "Hekai Bu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Wenwu Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2611.27103",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-20",
+  "tags": [
+   "ab-initio",
+   "chalcogenides",
+   "molecular-dynamics"
+  ],
+  "title": "Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Sulfide Electrocatalysts"
+  ],
+  "updated": "2026-11-20"
+ },
+ "2611.27583": {
+  "abstract": "Fe-Cr alloys harden at irradiation doses where transmission electron microscopy (TEM) shows no defects, implicating defects too small to be resolved. Their obstacle strength is unknown, so hardening models ignore them and fit measured hardening to visible defects alone. Here, molecular dynamics drives an edge dislocation through relaxed 1-3 nm vacancy and mixed Fe-Cr interstitial clusters in Fe-3Cr, Fe-5Cr and Fe-10Cr at 300 K. Vacancy clusters relax into platelets whose strength rises with size to about 350 MPa at 2.9 nm, following strong-obstacle scaling independently of Cr content, and always survive dislocation passage. Interstitial clusters relax into $\\frac{1}{2}\\langle 111 \\rangle$, mixed or $\\langle 100 \\rangle$ loops. They are mostly weaker than platelets of the same size, their strength varies up to fivefold with the local Cr arrangement, and most are absorbed. Only $\\langle 100 \\rangle$ loops in Fe-5Cr and Fe-10Cr often survive. During pinning, Cr collects at the junction between these loops and the dislocation; atom tracking for one loop shows that more than half comes from the loop itself. Surviving loops are not stronger than absorbed ones: strength and survival are thus distinct. Computed dispersed-barrier strengths ($α\\approx$ 0.02-0.25) are upper bounds that lie below the $α$ values obtained in earlier studies by fitting hardening to TEM-visible loops. These earlier values are therefore inflated by TEM-invisible defects. Wherever small vacancy clusters form, they are more effective obstacles than interstitial clusters of the same size. These defect-specific strengths and fates provide a physical basis for models of low-dose hardening.",
+  "authors": [
+   "Layatmika Sahoo",
+   "Suchandrima Das"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "23 pages, 9 figures, supplementary material included. Submitted to Journal of Nuclear Materials",
+  "first_author": "Layatmika Sahoo",
+  "pdf_url": "http://arxiv.org/pdf/2611.27583",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-20",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-20"
+ },
+ "2611.27955": {
+  "abstract": "Electrostatic screening is one of the most fundamental phenomena in electrolyte solutions. While dilute electrolytes are described by the universal Debye--Hückel theory, recent experiments have reported an apparently universal scaling law for screening lengths in concentrated electrolytes, fueling ongoing debate over anomalous underscreening. Yet, liquid state theory has been unable to determine whether molecular details of the solvent, the ions, or both should preserve or break such universality. Using machine-learned classical density functional theory, we compute numerically exact decay lengths across a hierarchy of electrolyte models of increasing molecular complexity. We find that molecular details qualitatively reshape screening: solvent attraction generates a new monotonic decay mode, solvent polarity produces re-entrant behavior, and ionic structure alone can drastically alter screening-length exponents. Consequently, no single scaling law describes screening universally across these molecularly distinct electrolytes. Our results challenge equilibrium interpretations of experimentally observed universality in concentrated electrolytes.",
+  "authors": [
+   "Anna T. Bui",
+   "Connie J. Fairchild",
+   "Dominic P. W. Thomas",
+   "Stephen J. Cox"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "Main: 11 pages, 4 figures. SI: 12 pages, 1 figure",
+  "first_author": "Anna T. Bui",
+  "pdf_url": "http://arxiv.org/pdf/2611.27955",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-20",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Molecular structure breaks universality in screening behavior of electrolyte solutions",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-11-20"
  }
 }

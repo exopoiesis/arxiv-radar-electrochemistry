@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>density-functional-theory — 360d</h1>
-  <span class="paper-count">837 papers</span>
+  <span class="paper-count">835 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <strong>360d</strong> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="oxygen-evolution-360d.html">oxygen-evolution</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27955.html">Molecular structure breaks universality in screening behavior of electrolyte solutions</a></div></td>
+<td>Anna T. Bui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27955">2611.27955</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="adsorption-energy-360d.html">adsorption-energy</a></div></td>
@@ -5012,29 +5024,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23181.html">Electronic Structure and Dynamical Correlations in Antiferromagnetic BiFeO$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Yihan Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.23181">2511.23181</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18786.html">Machine learning interatomic potential for predicting the thermal properties of uranium nitride</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Beihan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18786">2507.18786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21152.html">From Static Pathways to Dynamic Mechanisms: A Committor-Based Data-Driven Approach to Chemical Reactions</a></div><div class="paper-tags"><a href="mace-360d.html">mace</a> · <a href="neb-360d.html">neb</a></div></td>
-<td>Radu A. Talmazan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21152">2511.21152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22260.html">Classical density functional treatment of polydisperse polarisable clusters</a></div></td>
-<td>Clifford E. Woodward et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22260">2511.22260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22725.html">Mechanisms for the Formation of Active Sites in Single-Atom Alloys</a></div></td>
-<td>Ioannis Karageorgiou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22725">2511.22725</a></td>
 </tr>
 </tbody></table>

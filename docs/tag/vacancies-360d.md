@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vacancies — 360d</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <a href="vacancies-30d.html">30d</a> <a href="vacancies-90d.html">90d</a> <strong>360d</strong> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27583.html">Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Layatmika Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27583">2611.27583</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24754.html">Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
@@ -1220,17 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00301.html">Dual instability of superconductivity from oxygen defects in La$_3$Ni$_2$O$_{7+δ}$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
 <td>Peiheng Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00301">2512.00301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15341.html">The effect of multi-occupancy traps on the diffusion and retention of multiple hydrogen isotopes in irradiated tungsten and vanadium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sanjeet Kaur et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15341">2508.15341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04103.html">Nano-capattery: Taming electron traffic for a 367% leap in biohydrogen surge through suppressing competing pathways in photo photo-fermentative system</a></div><div class="paper-tags"><a href="redox-cycles-360d.html">redox-cycles</a></div></td>
-<td>Muhammad Shahzaib</td>
-<td><a href="http://arxiv.org/abs/2512.04103">2512.04103</a></td>
 </tr>
 </tbody></table>

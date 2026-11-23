@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27103.html">Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="chalcogenides-7d.html">chalcogenides</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Wenwu Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27103">2611.27103</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24088.html">A GPU-Native Nested Sampling Framework for Finite-Temperature Materials Modelling with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="phase-stability-7d.html">phase-stability</a></div></td>
 <td>Nico Unglert et al.</td>
@@ -74,11 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21026.html">Bias Conditioning and Long-Range Electrostatics for Consistent Machine-Learning Potentials of Electrified Interfaces</a></div><div class="paper-tags"><a href="explicit-solvation-7d.html">explicit-solvation</a></div></td>
 <td>Lucas B. T. de Kam et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21026">2611.21026</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20260.html">Oxygens breathe, electrons jump</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Cristiano Malica et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20260">2611.20260</a></td>
 </tr>
 </tbody></table>

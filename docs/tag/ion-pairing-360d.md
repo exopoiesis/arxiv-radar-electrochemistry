@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-pairing — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="ion-pairing-7d.html">7d</a> <a href="ion-pairing-30d.html">30d</a> <a href="ion-pairing-90d.html">90d</a> <strong>360d</strong> <a href="ion-pairing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03382.html">Structural and Dynamical Crossovers in Dense Electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Daehyeok Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03382">2512.03382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22540.html">Anomalous double-layer restructuring in water-in-salt electrolytes at graphitic interfaces governs capacitance</a></div><div class="paper-tags"><a href="adsorption-360d.html">adsorption</a> · <a href="electric-double-layer-360d.html">electric-double-layer</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hannah O. Wood et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22540">2511.22540</a></td>
 </tr>
 </tbody></table>

@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-11-22._
+_Updated 2026-11-23._
 
-**3644** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3648** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,30 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27103.html">Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chalcogenides-30d.html">chalcogenides</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Wenwu Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27103">2611.27103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27583.html">Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Layatmika Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27583">2611.27583</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27955.html">Molecular structure breaks universality in screening behavior of electrolyte solutions</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Anna T. Bui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27955">2611.27955</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25375.html">Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -171,29 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20429.html">FiuMD: Heterogeneous Batching for Coarse-Grained Molecular Dynamics with Neural Network Potentials</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Hugo D. Hernández R. et al.</td>
 <td><a href="http://arxiv.org/abs/2611.20429">2611.20429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20591.html">GPRidge: Gaussian-process Accelerated Calculations of Minimum Energy Paths and First-order Saddle Points</a></div><div class="paper-tags"><a href="tag/neb-30d.html">neb</a></div></td>
-<td>Rohit Goswami et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20591">2611.20591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20614.html">Nitrogen Defect Coupling in Epitaxial LaFeO3 From Structural Reconstruction to Water Oxidation</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/electrocatalysis-30d.html">electrocatalysis</a> · <a href="tag/oxygen-evolution-30d.html">oxygen-evolution</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
-<td>Le Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20614">2611.20614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/water-adsorption-30d.html">water-adsorption</a></div></td>
-<td>Marta Monti et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20706">2611.20706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20723.html">Oxirane Ring-Opening Dynamics Mediated By The First Singlet Excitation Using Time-Dependent \textit{GW} Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Aaditya Manjanath et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20723">2611.20723</a></td>
 </tr>
 </tbody></table>
