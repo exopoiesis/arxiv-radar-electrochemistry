@@ -3633,5 +3633,450 @@
    "Aqueous Chemistry and Solvation"
   ],
   "updated": "2026-11-20"
+ },
+ "2611.28186": {
+  "abstract": "Saturn's moon Titan is the only world beyond Earth where abundant organic molecules and liquid water are expected to interact. Crucially, these interactions yield prebiotic molecules central to terrestrial biochemistry. Characterizing this prebiotic chemistry is one of the main science goals of NASA's upcoming Dragonfly mission. Here we synthesize the current state of knowledge on the habitability and prebiotic potential of Titan's three aqueous settings: its interior hydrosphere, its putative cryovolcanic flows, and its impact-melt pools. For each setting, we identify the enabling factors and the principal bottlenecks that limit prebiotic complexification. Titan's interior is likely pervaded by liquid water in contact with organic material delivered from the surface and released from the core, though the longevity of its liquid water has recently been called into question. Cryovolcanic regions transiently expose surface organics to ammonia-bearing aqueous melts but are constrained by short freezing timescales. Impact-melt pools, by contrast, are warm and long-lived environments whose prebiotic chemistry is limited by the scarcity of ammonia. Dragonfly will return ground-truth data not only for Titan's habitability, but also for organic-rich aqueous environments across the Solar System and beyond. The years before its arrival are the last in which predictive work can still shape Dragonfly's investigations.",
+  "authors": [
+   "Diogo Gonçalves",
+   "Lígia F. Coelho",
+   "Catarina Miranda",
+   "Zita Martins"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "45 pages, 3 figures, 1 table. Manuscript published in Front. Astron. Space Sci",
+  "first_author": "Diogo Gonçalves",
+  "pdf_url": "http://arxiv.org/pdf/2611.28186",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-11-20",
+  "tags": [
+   "origin-of-life"
+  ],
+  "title": "Updated View on Titan's Habitability: Interior and Surface Aqueous Environments",
+  "topics": [
+   "Origin of Life and Prebiotic Mineral Catalysis"
+  ],
+  "updated": "2026-11-20"
+ },
+ "2611.28279": {
+  "abstract": "We present an ab initio investigation of the {ScSe2} monolayer using density functional theory (DFT), as employed in the CP2K code, to assess its structural stability and electronic properties. The electronic behavior of both phases is governed by the local coordination environment of scandium and the associated lifting of degeneracy of its $3d$ orbitals. The valence bands (VBs) are dominated by {Se}$-4p$ states in both phases, while the states near the Fermi level distinguish the metallic 1T phase from the semiconducting 2H phase. Optical response calculations reveal markedly different spectral signatures for the two polymorphs. Two findings emerge from this study: a polymorphism-driven metal-to-semiconductor transition without any change in chemical composition and distinct optical responses relevant to phase-selective optoelectronic devices.",
+  "authors": [
+   "Takwa Ben Othman",
+   "Mohsen Jemaï",
+   "Said Ridene"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 10 figures",
+  "first_author": "Takwa Ben Othman",
+  "pdf_url": "http://arxiv.org/pdf/2611.28279",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-20",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-20"
+ },
+ "2611.28306": {
+  "abstract": "Serverless platforms are easy to operate but pay a recurring price in cold starts: when a function is called after sitting idle, its execution environment must be rebuilt before the request can run, and latency suffers. The usual fix keeps idle environments alive for a fixed window, but a single value rarely fits a changing workload: too high wastes idle capacity, too low causes avoidable cold starts. We argue the keep-alive window should not be a fixed deployment constant; instead we treat it as a per-function runtime parameter, adjusted online from what the system observes, kept separate from how many replicas to run. We build an external retention controller for OpenFaaS/faasd that needs no platform changes, driven by two simple agents: a reactive AIMD (Additive-Increase Multiplicative-Decrease) rule and a UCB1 multi-armed bandit. Against fixed-timeout baselines and a predictive histogram keep-alive, on steady, bursty, and trace-derived workloads (Huawei Serverless 2023), the bandit cuts the aggregate cold-start rate from 63% under immediate scale-to-zero to 3%, holds P95 tail latency at the level of the longest-retention fixed baseline, and uses about 13% less accumulated warm time than that baseline, while also beating the predictive baseline. No fixed timeout is best on every metric, whereas the adaptive agents reach a favorable operating point without manual tuning; on the bursty workload at a converged horizon the bandit's advantage is statistically significant. On a multi-node Kubernetes cluster under the platform's own Horizontal Pod Autoscaler, the controller coexists with an autoscaler it does not control: the replica count follows load identically across policies, and retention independently governs warm time.",
+  "authors": [
+   "Sanjeet Raj Pandey",
+   "Axel Küpper"
+  ],
+  "categories": [
+   "cs.DC"
+  ],
+  "comment": null,
+  "first_author": "Sanjeet Raj Pandey",
+  "pdf_url": "http://arxiv.org/pdf/2611.28306",
+  "primary_category": "cs.DC",
+  "published": "2026-11-20",
+  "tags": [
+   "aimd",
+   "molecular-dynamics"
+  ],
+  "title": "Adaptive Warm-State Retention for Serverless Cold-Start Mitigation: Treating Keep-Alive Time as an Online Control Parameter",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-20"
+ },
+ "2611.28452": {
+  "abstract": "Li-rich battery cathodes (LixMyOz, where x > y) have sparked significant attention for their high energy densities, but their practical application is currently limited by structural instabilities associated with high-valent redox. Recent work has demonstrated reversible high-potential (de)lithiation with low voltage hysteresis in Li4FeSbO6 (LFSO), but the stabilization mechanism for this unique charging behavior is not fully understood, limiting our ability to apply insights from LFSO to more earth-abundant cathodes. In this paper, we present a covalent Sb-O bonding network in LFSO which is facilitated by the p-block orbital character of Sb. Using ab initio computational modeling, we identify this bonding state and indicate its contributions to crystal stability; we also identify a signature for this bonding network using theoretical and experimental element-specific X-ray spectroscopy. Substituting Sb with other p-block elements preserves this stabilizing bond, pointing to a family of new cathode chemistries beyond LFSO. This work establishes a design principle for development of sustainable energy-dense batteries: p-block elements like Sb possess specific orbital-mediated oxygen bonding which contributes to stability of high-valent layered oxide cathodes.",
+  "authors": [
+   "Amelia Zhao",
+   "Edward Mu",
+   "Jessica Luu",
+   "John Vinson",
+   "Brian Moritz",
+   "Eder G. Lomeli",
+   "Thomas P. Devereaux"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Amelia Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2611.28452",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-21",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "A Covalent Bonding Network Using p-Block Elements to Stabilize Lithium-Rich Cathode Materials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-21"
+ },
+ "2611.28501": {
+  "abstract": "Predicting the combined effects of ionic packing and long-range electrostatics at complex interfaces is technologically important, but remains challenging without atomistic simulations. Here we present a machine-learned classical density functional for ionic fluids that combines a symmetry-adapted neural free energy for short-range correlations with explicit long-range electrostatics. Trained on three-dimensional equilibrium densities and bulk correlations of the full-Coulomb restricted primitive model, a single functional transfers to charge-patterned particles and atomically structured electrodes. Around anisotropic charged solutes, it reproduces the ionic structure and mean forces from molecular dynamics, including reversals of the bare electrostatic force. At metal electrodes, self-consistent coupling to metal atoms captures the redistribution of ionic and electrode charge and the loading-dependent capacitance enhancement produced by steps and bumps. Combined with mobilities determined independently from bulk molecular dynamics, the same functional describes the main features of charging dynamics and resolves geometry-dependent spatial relaxation. This framework can be extended to more complex ionic fluids, enabling efficient exploration of how composition and geometry control structure and response.",
+  "authors": [
+   "Bingqing Cheng"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Bingqing Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2611.28501",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-21",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "An equivariant classical density functional for ionic fluids at complex interfaces",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-21"
+ },
+ "2611.28573": {
+  "abstract": "In plant phenotyping, crop disease diagnosis has traditionally relied on expert assessment of visible symptoms and on models tailored to specific crops or diseases, and both are difficult to scale across field conditions. Recent methods provide frozen vision-language models with source-grounded knowledge bases that summarize the typical symptoms of each disease but describe little of how symptoms vary across individual cases. We introduce MACE (Memory-Augmented Crop-Disease Evaluation), a training-free method that supplements the knowledge base with a memory of symptom descriptions paired with known disease labels. MACE matches a description of the query image against this memory and retrieves only text descriptions and disease labels, so the query is the only image that the diagnosis model sees. Across ten crops, MACE with Claude Sonnet 5.5 improved accuracy over the knowledge-base baseline from 42.8% to 62.2% in distribution and from 50.7% to 57.0% on held-out image collections. Retrieved disease labels accounted for most of the gain, and adding the corresponding text descriptions improved in-distribution accuracy by about six percentage points.",
+  "authors": [
+   "Tirtho Roy",
+   "Shreyan Ganguly",
+   "Muhammad Arbab Arshad",
+   "Nikhil Bhattacharya",
+   "Soumik Sarkar"
+  ],
+  "categories": [
+   "cs.MA",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": "7 pages, 6 figures, 3 tables. Project page: https://mace-bench.github.io/",
+  "first_author": "Tirtho Roy",
+  "pdf_url": "http://arxiv.org/pdf/2611.28573",
+  "primary_category": "cs.MA",
+  "published": "2026-11-21",
+  "tags": [
+   "mace"
+  ],
+  "title": "MACE: Memory-Augmented Crop-Disease Evaluation of Frozen Vision-Language Models",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-21"
+ },
+ "2611.28754": {
+  "abstract": "Here, the electron-beam-induced structural evolution and patterning behavior of chitosan-functionalized GO films, specifically those using chemically vs electrochemically exfoliated GO, are investigated. Experimental results (supported by DFT calculations) revealed that electron irradiation drives controllable microstructure formation in GO by selectively triggering ablation and densification pathways, which are dictated by the GOs synthesis route and initial oxidation state. Furthermore, a comprehensive characterization study was conducted to compare the optostructural properties of the present system prior and subsequent to electron-beam irradiation. Moreover, a systematic study of the films mechanical properties across both micro- and macroscopic scales was also performed to elucidate the underlying mechanisms responsible for the observed phenomena. The results demonstrate that the integration of mask-free electron-beam patterning, multiscale characterization, and DFT modeling establishes a previously unexplored synthesis-structure-irradiation relationship in GO films, providing fundamental insights into irradiation-induced microstructure evolution and opening new avenues for the design of GO-based micro- and nanostructured materials.",
+  "authors": [
+   "A. Sahakyan",
+   "Ghada E. Khedr",
+   "A. A. Hovhannisyan",
+   "G. Gevorgyan",
+   "K. Margaryan",
+   "G. Shakhatuni",
+   "M. Aleksanyan",
+   "Mohamed Aly Saad Aly",
+   "N. Nwaji",
+   "H. Gharagulyan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "A. Sahakyan",
+  "pdf_url": "http://arxiv.org/pdf/2611.28754",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-21",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Synthesis Method-dependent Resist-like Behavior of Liquid Crystalline Graphene Oxide Films Under Electron Beam Irradiation",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-21"
+ },
+ "2611.29132": {
+  "abstract": "Predicting a material's behavior from its atomic structure is a longstanding goal of the physical sciences. The electronic and phonon densities of states (eDOS and phDOS) govern key electronic, optical, vibrational, and thermodynamic properties, yet their calculation using density functional theory (DFT) is costly: about 60% of Materials Project entries lack eDOS and over 80% lack phDOS. Existing crystal-to-spectrum models rely on pooled structural representations and pointwise regression, which blur spectral features and violate total-state conservation. Here we introduce DeepDOSReasoner, a physics-grounded framework that decodes spectra through atom-to-energy source attention and refines the normalized DOS through learned continuity-equation transport, enforcing nonnegativity and total-state conservation by construction. DeepDOSReasoner achieves the highest prediction accuracy across all evaluated metrics for both eDOS and phDOS, recovers element-resolved contributions without supervision, and most reliably identifies rare valence-band (VB) gaps. In a prospective screen of 8,106 uncharted materials validated by new DFT calculations, its predictions remain the most accurate among the methods evaluated, with 25 of its top 50 candidates confirmed as VB-gap materials. Three case studies spanning substituted compounds, photovoltaic chalcogenides, and a high-entropy alloy demonstrate transfer across materials classes. Ablations confirm that both stages are necessary, while the model retains comparable accuracy when trained on only 25% of the data. Predicting spectra in milliseconds enables exhaustive screening; we release predictions filling the missing eDOS for 91,405 and phDOS for 127,768 Materials Project entries. DeepDOSReasoner provides a blueprint for integrating machine learning with physical reasoning toward high-throughput spectral screening and autonomous materials discovery.",
+  "authors": [
+   "Yingheng Wang",
+   "Francesco Ricci",
+   "Zhilong Wang",
+   "Tao Yu",
+   "Junwen Bai",
+   "Xiangyun Lei",
+   "Shufeng Kong",
+   "Fengqi You",
+   "John M. Gregoire",
+   "Carla P. Gomes"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "Code and data are available on the project page: https://yingheng-wang.com/DeepDOSReasoner/",
+  "first_author": "Yingheng Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.29132",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-22",
+  "tags": [
+   "chalcogenides",
+   "density-functional-theory"
+  ],
+  "title": "DeepDOSReasoner: Physics-Grounded Reasoning for Density-of-States Prediction and Materials Discovery",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-22"
+ },
+ "2611.29144": {
+  "abstract": "We study a reduced nonlinear reaction--diffusion model for homogeneous redox catalysis under a low-scan-rate, frozen-potential approximation motivated by cyclic voltammetry. The reduced system contains two concentration fields coupled through the same nonlinear reaction term and therefore satisfies, exactly within the reduced model, \\[ (a-q)_τ=(a-q)_{yy}. \\] This identity yields an exact reconstruction of the substrate concentration from the electroactive concentration and provides the organizing principle for the structure-preserving approximations developed below. Formulation I applies the homotopy perturbation method (HPM) to the catalyst field using a constant-coefficient Green-function hierarchy and reconstructs the substrate field from the exact heat equation. Formulation II linearizes the nonlinear reaction about a space- and time-dependent reference profile while preserving the same difference structure and the physical far-field state. The methods are evaluated using fourth-order method-of-lines discretizations, direct Green/heat-kernel formulas for the electrode current, and an independently refined nonlinear PDE benchmark. For the baseline problem, the published substrate approximation has maximum error \\(1.69\\times10^{-1}\\), whereas the \\(N=3\\) errors are reduced to \\(2.09\\times10^{-5}\\) for Formulation I and \\(3.61\\times10^{-6}\\) for Formulation II. At \\(N=1\\), Formulation II improves the errors in the catalyst, substrate, and current by factors of approximately \\(18.2\\), \\(46.9\\), and \\(42.1\\), respectively, relative to Formulation I. The results show that preserving the exact coupled structure substantially improves accuracy and yields an efficient low-order analytical framework for nonlinear electrochemical reaction--diffusion problems.",
+  "authors": [
+   "Guangming Yao",
+   "Michael Shaw",
+   "Nazia Nimmy",
+   "Adriana Silva"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Guangming Yao",
+  "pdf_url": "http://arxiv.org/pdf/2611.29144",
+  "primary_category": "math.NA",
+  "published": "2026-11-22",
+  "tags": [],
+  "title": "Structure-Preserving Analysis of a Nonlinear Reaction--Diffusion Model for Homogeneous Redox Catalysis",
+  "topics": [
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-22"
+ },
+ "2611.29349": {
+  "abstract": "The GW method is the one of the main workhorses of the materials science community to accurately calculate the electronic bandgap of materials, as it overcomes the gap underestimation problem from Density Functional Theory (DFT). Despite its accuracy, its computational cost becomes prohibitive when calculations have more than 10-100 atoms, which makes more difficult its use for defects, surfaces and moiré systems that demand large supercells. To overcome this problem, we developed a Graph Neural Network trained with smaller GW calculations which can make accurate predictions on large supercells at a small fraction of the computational cost.   Our model uses as features the projection of DFT wavefunctions into localized atomic orbitals, while graph nodes represent the atomic positions and edges represent atom to atom distances, which captures the system geometry. We explore how to do \"small AI\", providing a workflow of how to create a personal and convenient dataset of GW calculations to train the model that can be applied to different materials so that the final user does not need to rely on massive datasets. We define what must be included in the training dataset to capture the physics of our objective simulation, and perform a Bayesian optimization of hyperparameters. In the case of monolayer MoS$_2$ with a sulfur vacancy our GNN models achieve high accuracy (MAE ranging 10 to 50 meV) with a simplified workflow applicable to other materials, accelerating accurate large electronic structure calculations.",
+  "authors": [
+   "Rafael R. Del Grande",
+   "David A. Strubbe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rafael R. Del Grande",
+  "pdf_url": "http://arxiv.org/pdf/2611.29349",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-22",
+  "tags": [
+   "density-functional-theory",
+   "vacancies"
+  ],
+  "title": "Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-22"
+ },
+ "2611.30066": {
+  "abstract": "In AI-guided materials discovery, machine-learning models increasingly decide which candidate materials should receive expensive first-principles or experimental evaluation. Standard reliability metrics such as uncertainty, calibration, novelty, and ranking accuracy evaluate properties of the predictions, but success on these metrics does not necessarily imply a better downstream screening decision. We study this mismatch for foundation machine-learned interatomic potentials (MACE-MP, CHGNet, Orb V3) used to rank candidate crystal structures before DFT verification. We evaluate three representative reliability interventions (novelty detection, sparse DFT calibration, and chemistry-level ranking audits) using a deployment objective that measures how much DFT can be avoided while maintaining a required recall of near-hull candidates. Across all three, a reliability signal can succeed on its immediate target without improving the final screening decision: novelty detects distribution shift but weakly ranks failure severity; calibration can improve pooled ranking metrics while leaving screening unchanged or degrading it; and sparse audits identify MLIP-chemistry combinations with poor ranking reliability without yielding a robustly beneficial routing policy. A two-oracle analysis further shows that the source of failure depends on the screening decision itself: under formation-energy screening, even perfect knowledge of average ranking reliability can select the wrong model, whereas in the evaluated hull-aligned variant the oracle target becomes decision-aligned but finite-budget audits still fail to realize the value. Reliability should be evaluated relative to the decision it supports: the relevant question is not whether a model is uncertain or inaccurate, but whether acquiring and acting on additional information will improve the final discovery decision enough to justify its cost.",
+  "authors": [
+   "Harry Sevi",
+   "Joonatan E. M. Laulainen"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "5-page main text plus supplementary appendices; 1 figure, 3 tables in the main text. Accepted at the AI4Mat Workshop (AI for Accelerated Materials Design), NeurIPS 2026, Findings & Open Challenges track",
+  "first_author": "Harry Sevi",
+  "pdf_url": "http://arxiv.org/pdf/2611.30066",
+  "primary_category": "cs.LG",
+  "published": "2026-11-23",
+  "tags": [
+   "ab-initio",
+   "chgnet",
+   "density-functional-theory",
+   "mace",
+   "mlip"
+  ],
+  "title": "Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
+ },
+ "2611.30088": {
+  "abstract": "Photoemission spectroscopy (PES) studies of Sr$_3$Ni$_2$O$_5$Cl$_2$ (Sr3252), a candidate ambient-pressure bilayer nickelate superconductor, have been performed to investigate the electronic structure. Valence band spectra, which are compared with DFT and DFT+U calculations, reveal dominant Ni 3$d$ $t_{2g}$-derived states located around 0.6 eV binding energy with a shoulder around 0.2 eV that can be attributed to states with a dominant Ni 3$d_{3z2-r2}$ character. The overall valence band shape is better reproduced by the simulated spectrum of DFT+U (= 3 eV), providing an experimental estimation of the strength of electron correlation. High-resolution PES near the Fermi level ($E_F$) exhibits marked temperature dependence, which cannot be fully understood by a broadening due to coupling of a photo-hole to phonons alone and suggests change in electronic structure. The results provide fundamental electronic structure information of Sr3252, which is useful to further explore the superconductivity of Sr3252.",
+  "authors": [
+   "Ryota Goban",
+   "Daiki Ootsuki",
+   "Kenichi Ozawa",
+   "Akira Yasui",
+   "Masayuki Ochi",
+   "Kazuhiko Kuroki",
+   "Ryo Matsumoto",
+   "Kensei Terashima",
+   "Yoshihiko Takano",
+   "Yuji Muraoka",
+   "Takayoshi Yokoya"
+  ],
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.str-el"
+  ],
+  "comment": "13 pages, 4 figures",
+  "first_author": "Ryota Goban",
+  "pdf_url": "http://arxiv.org/pdf/2611.30088",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-11-23",
+  "tags": [
+   "adsorption-energy",
+   "density-functional-theory",
+   "dft-u"
+  ],
+  "title": "Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E_F$ of a candidate of ambient-pressure nickelate superconductors Sr$_3$Ni$_2$O$_5$Cl$_2$",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
+ },
+ "2611.30160": {
+  "abstract": "Surface acoustic waves (SAWs) are widely used to probe near-surface material properties and microstructure, but their potential to drive permanent structural modification remains largely unexplored. Large-scale molecular dynamics simulations reveal the mechanisms of defect generation and evolution induced by nonlinear Rayleigh waves in Pt. Strong crystallographic dependence of the nonlinear evolution is observed. SAWs on Pt(111) undergo rapid nonlinear sharpening and shock formation, with localized elastic energy and increasing near-surface stresses, whereas much weaker sharpening on Pt(001) allows dissipation to compete effectively with shock formation. For sufficiently strong SAWs on Pt(111), Shockley partial dislocations are emitted from the surface when the resolved shear stress approaches the theoretical shear strength. The highly localized and rapidly changing stress field at the shock front activates multiple slip systems and promotes crossslip and reactions between Shockley partials, producing complex dislocation structures with sessile stair-rod segments. Subsequent SAW interactions activate dislocation sources on slip systems where the stress is insufficient for homogeneous nucleation, leading, in one case, to sequential emission of Shockley partials and formation of a subsurface twinned domain. Repeated SAW passages progressively reduce dislocation density, demonstrating SAW-driven nonthermal annealing. Dislocation interactions with the free surface generate atomic-scale steps, terraces, and other under-coordinated configurations, providing a microscopic pathway for permanent surface modification that may contribute to the acoustically enhanced catalytic activity observed on Pt surfaces. These results establish nonlinear SAWs as drivers of nonthermal defect generation, restructuring, and annealing, opening opportunities for acoustic processing of near-surface microstructure.",
+  "authors": [
+   "Yuan Xu",
+   "Maxim V. Shugaev",
+   "Leonid V. Zhigilei"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "57 pages, including supplementary material; 22 figures in the main text and 4 supplementary figures",
+  "first_author": "Yuan Xu",
+  "pdf_url": "http://arxiv.org/pdf/2611.30160",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-23",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
+ },
+ "2611.30330": {
+  "abstract": "Boron (B) microalloying can effectively refine microstructures of as-cast TiAl alloys and regulate their mechanical properties. Yet, how dilute B exists in TiAl and interacts with defects and how these interactions govern high-temperature deformation remain elusive. Here, we systematically elucidate defect-mediated B redistribution in TiAl alloys and its consequences for their deformation using hybrid grand-canonical Monte Carlo/molecular dynamics simulations augmented with a newly developed high-fidelity machine-learning potential. As a typical product of B microalloying, borides are markedly stiffer than the TiAl matrix and act as brittle reinforcing phases, while borides/matrix interfacial adhesion depends on surface termination and stacking sequence. In the bulk, interstitial B tends to be trapped at Ti-rich octahedral sites by high migration barriers but can kinetically evolve into substitutional dopants upon approaching Al vacancies. Increased tensile stress and vacancy concentration further promote B enrichment in the bulk. B is enriched at semi-coherent $γ/α_2$ boundaries and preferentially partitions into the $α_2$ phase. In polycrystalline TiAl, B accumulates primarily in disordered regions, raising the average flow stress by 9.4% at 1 at.% B and 900 K. This strengthening is accompanied by reduced shear strain accumulation. Simulated microstructural evolution and stacking-fault energetics indicate that B impedes dislocation glide via local pinning and suppresses deformation twinning, thereby increasing resistance to plastic deformation. By linking solute redistribution to defect interactions and deformation, these findings establish an atomistic framework for understanding and designing high-performance alloys based on interstitial solutes.",
+  "authors": [
+   "Xiang Meng",
+   "Shuhei Shinzato",
+   "Zhiqiang Zhao",
+   "Linfeng Yu",
+   "Jian Guo",
+   "Liangli Chu",
+   "Kepeng Ouyang",
+   "Shigenobu Ogata",
+   "Zhuhua Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiang Meng",
+  "pdf_url": "http://arxiv.org/pdf/2611.30330",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-23",
+  "tags": [
+   "molecular-dynamics",
+   "vacancies"
+  ],
+  "title": "Atomistic insight into defect-mediated boron redistribution and high-temperature strengthening in TiAl alloys",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
+ },
+ "2611.30348": {
+  "abstract": "Metal-halide perovskites are promising photovoltaic absorbers whose optoelectronic properties are highly tunable. Epitaxial strain offers a route to stabilize desirable phases, tune band gaps, and reduce energetic disorder, but rational strain engineering requires predictive models. Static, zero-temperature \"strained-bulk\" density functional theory (DFT) calculations, successful for oxide perovskites, neglect the dynamic disorder and anharmonicity that govern halide perovskites at ambient temperature. Here, we show that molecular dynamics (MD) based on machine-learned force fields trained on-the-fly on DFT reproduces the structural and optoelectronic response of methylammonium (MA) lead iodide (MAPbI$_3$) to epitaxial strain at 300 K. We simulate bulk and free-standing slab models across experimentally accessible biaxial strains by locking the in-plane lattice vectors in nanosecond-long simulations. We predict a tetragonal-to-cubic transition at $\\sim$0.5% tensile strain, marked by $c/a = 1$ and the loss of the $a^0a^0c^-$ tilting pattern, in agreement with experiments on epitaxial MAPbI$_3$ films on KCl. MA cations retain preferential orientations in the strain-induced cubic phase, unlike in its temperature-induced counterpart. Bulk and slab models yield consistent trends, with surface effects decaying within a few octahedral layers. Band gaps computed as ensemble averages over MD snapshots blue-shift under tensile strain, consistent with experiment, whereas static calculations on averaged structures predict a red shift. Our study positions MD with constrained lattice vectors as a method for predicting finite-temperature strain phase diagrams and guiding the epitaxial design of perovskite absorbers.",
+  "authors": [
+   "Daan Holleman",
+   "Luuk Klein Nagelvoort",
+   "Monica Morales-Masis",
+   "Linn Leppert"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daan Holleman",
+  "pdf_url": "http://arxiv.org/pdf/2611.30348",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-23",
+  "tags": [
+   "density-functional-theory",
+   "molecular-dynamics"
+  ],
+  "title": "Strain-Induced Tetragonal-to-Cubic Transition in MAPbI$_3$ from Machine-Learned Molecular Dynamics",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
+ },
+ "2611.30681": {
+  "abstract": "Epitaxial thin films of complex transition metal oxides constitute an ideal platform for realizing correlated topological phases through strain engineering of crystal symmetry and band topology. Here, we investigate the electronic transport properties and the band structure of the 5$d^1$ paramagnetic metal SrTaO$_3$ thin film under epitaxial compressive strain. The film exhibits a large non-saturating quasi-quadratic magnetoresistance (MR) and a nonlinear Hall effect characteristic of two-band transport, together with the field induced re-entrant metallic behavior. The violation of Kohler's scaling further corroborates the scattering from multiple bands. Semiclassical two-band analysis yields carrier densities and mobilities of the order $\\sim 10^{21}~\\mathrm{cm^{-3}}$ and $\\sim 10^{4}~\\mathrm{cm^2 V^{-1} s^{-1}}$, respectively. The observed large mobility and unsaturated MR, indicates the presence of a non-trivial band structure. Consistent with this, results from density functional theory calculations and tight binding model studies reveal that the stable structure has an octahedral rotation $a^0a^0c^+$, where the non-symmorphic symmetry ensures the presence of topological nodal lines yielding finite Berry curvature in the vicinity of the Fermi level. Besides the nodal line, trivial electron and hole pockets exist near the Fermi level, contributing to electron transport. These findings establish that epitaxial strain drives SrTaO$_3$ into a nontrivial topological semimetal, a phase inaccessible in the bulk counterpart.",
+  "authors": [
+   "Aditya Mehta",
+   "Soumyakanta Panda",
+   "Pratik Sahu",
+   "Amit Chauhan",
+   "Dibyajyoti Sahoo",
+   "Shwetha G Bhat",
+   "Rohit Soni",
+   "Goutam Tripathy",
+   "Niharika Mohapatra",
+   "B. R. K. Nanda",
+   "D. Samal"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Aditya Mehta",
+  "pdf_url": "http://arxiv.org/pdf/2611.30681",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-11-23",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$_3$ thin films",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
  }
 }

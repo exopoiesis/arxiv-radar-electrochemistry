@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ion-transport — 360d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="ion-transport-7d.html">7d</a> <a href="ion-transport-30d.html">30d</a> <a href="ion-transport-90d.html">90d</a> <strong>360d</strong> <a href="ion-transport-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,11 +584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03642.html">Evaluation of Foundational Machine Learned Interatomic Potentials for Migration Barrier Predictions</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="m3gnet-360d.html">m3gnet</a> · <a href="mace-360d.html">mace</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Achinthya Krishna Bheemaguli et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03642">2512.03642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07115.html">Path Entropy-driven Design of Solid-State Electrolytes</a></div></td>
-<td>Qiye Guan et al.</td>
-<td><a href="http://arxiv.org/abs/2412.07115">2412.07115</a></td>
 </tr>
 </tbody></table>

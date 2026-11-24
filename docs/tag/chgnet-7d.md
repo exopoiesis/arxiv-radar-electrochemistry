@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Harry Sevi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30066">2611.30066</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24641.html">Choosing the Right Representations: Task-Aware Fusion for Multimodal Materials Language Models</a></div></td>
 <td>Huu Binh Ta et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23535.html">Application of Pretrained Universal Machine Learning Force-Fields for Phase Transitions Prediction in ZrO2</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Rajan Khadka et al.</td>
 <td><a href="http://arxiv.org/abs/2611.23535">2611.23535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21489.html">Local topology hallucinations in universal machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="m3gnet-7d.html">m3gnet</a> · <a href="mace-7d.html">mace</a></div></td>
-<td>Xiaoqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.21489">2611.21489</a></td>
 </tr>
 </tbody></table>

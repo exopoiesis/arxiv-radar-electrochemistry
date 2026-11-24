@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mace — 360d</h1>
-  <span class="paper-count">181 papers</span>
+  <span class="paper-count">182 papers</span>
   <nav class="window-nav"><a href="mace-7d.html">7d</a> <a href="mace-30d.html">30d</a> <a href="mace-90d.html">90d</a> <strong>360d</strong> <a href="mace-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chgnet-360d.html">chgnet</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Harry Sevi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30066">2611.30066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28573.html">MACE: Memory-Augmented Crop-Disease Evaluation of Frozen Vision-Language Models</a></div></td>
+<td>Tirtho Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28573">2611.28573</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24088.html">A GPU-Native Nested Sampling Framework for Finite-Temperature Materials Modelling with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-stability-360d.html">phase-stability</a></div></td>
@@ -1094,11 +1106,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03642.html">Evaluation of Foundational Machine Learned Interatomic Potentials for Migration Barrier Predictions</a></div><div class="paper-tags"><a href="chgnet-360d.html">chgnet</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="ion-transport-360d.html">ion-transport</a> · <a href="m3gnet-360d.html">m3gnet</a> · <a href="neb-360d.html">neb</a></div></td>
 <td>Achinthya Krishna Bheemaguli et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03642">2512.03642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22885.html">Evaluating Mechanical Property Prediction across Material Classes using Molecular Dynamics Simulations with Universal Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Konstantin Stracke et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22885">2511.22885</a></td>
 </tr>
 </tbody></table>

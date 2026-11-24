@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft-u — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="dft-u-7d.html">7d</a> <a href="dft-u-30d.html">30d</a> <strong>90d</strong> <a href="dft-u-360d.html">360d</a> <a href="dft-u-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30088.html">Valence band, electron correlation, and possible temperature dependent change in the electronic structure near $E_F$ of a candidate of ambient-pressure nickelate superconductors Sr$_3$Ni$_2$O$_5$Cl$_2$</a></div><div class="paper-tags"><a href="adsorption-energy-90d.html">adsorption-energy</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
+<td>Ryota Goban et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30088">2611.30088</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20035.html">U-HamGNN: a universal model for magnetic Hamiltonians conditioned on spin and Hubbard U</a></div><div class="paper-tags"><a href="density-functional-theory-90d.html">density-functional-theory</a></div></td>
