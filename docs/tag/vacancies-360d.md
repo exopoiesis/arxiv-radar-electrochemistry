@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="reaction-networks-360d.html">reaction-networks</a></div></td>
+<td>Barsha Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30330.html">Atomistic insight into defect-mediated boron redistribution and high-temperature strengthening in TiAl alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xiang Meng et al.</td>
@@ -1232,11 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00988.html">Second-Order Jahn-Teller Distortions and Dynamic Lattice Polarizability as the Origin of Broadband Emission in Bi3+-Doped Cs2SnCl6</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="aimd-360d.html">aimd</a> · <a href="density-functional-theory-360d.html">density-functional-theory</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Shruti Prasad et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00988">2512.00988</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00301.html">Dual instability of superconductivity from oxygen defects in La$_3$Ni$_2$O$_{7+δ}$</a></div><div class="paper-tags"><a href="density-functional-theory-360d.html">density-functional-theory</a></div></td>
-<td>Peiheng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00301">2512.00301</a></td>
 </tr>
 </tbody></table>

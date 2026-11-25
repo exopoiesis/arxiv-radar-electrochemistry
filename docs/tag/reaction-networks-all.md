@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reaction-networks — all</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="reaction-networks-7d.html">7d</a> <a href="reaction-networks-30d.html">30d</a> <a href="reaction-networks-90d.html">90d</a> <a href="reaction-networks-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="density-functional-theory-all.html">density-functional-theory</a> · <a href="vacancies-all.html">vacancies</a></div></td>
+<td>Barsha Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21433.html">Kinetic Monte Carlo modeling of ammonium formate NH$_4^+$HCOO$^-$ and ammonium cyanate NH$_4^+$OCN$^-$ in interstellar ices</a></div><div class="paper-tags"><a href="formate-all.html">formate</a></div></td>

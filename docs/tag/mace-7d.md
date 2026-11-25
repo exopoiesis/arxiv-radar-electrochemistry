@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31865.html">Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jaekyun Yoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31865">2611.31865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32761.html">Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Amrendra Kumar Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32761">2611.32761</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="chgnet-7d.html">chgnet</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Harry Sevi et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Arina A. Svinukhova et al.</td>
 <td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23342.html">Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning</a></div></td>
-<td>Sihan Liaing et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23342">2611.23342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23535.html">Application of Pretrained Universal Machine Learning Force-Fields for Phase Transitions Prediction in ZrO2</a></div><div class="paper-tags"><a href="chgnet-7d.html">chgnet</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Rajan Khadka et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23535">2611.23535</a></td>
 </tr>
 </tbody></table>

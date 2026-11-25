@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>density-functional-theory — 90d</h1>
-  <span class="paper-count">209 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="density-functional-theory-7d.html">7d</a> <a href="density-functional-theory-30d.html">30d</a> <strong>90d</strong> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32133.html">OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Mikołaj Martyka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32133">2611.32133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32265.html">First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter</a></div></td>
+<td>Rashmi Ranjan Routaray et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32265">2611.32265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32611.html">Modulations of the photoswitching performances of azobenzene-based molecular devices by the π-conjugated spacers</a></div></td>
+<td>Laurette-Apolline Jerro et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32611">2611.32611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32761.html">Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials</a></div><div class="paper-tags"><a href="mace-90d.html">mace</a></div></td>
+<td>Amrendra Kumar Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32761">2611.32761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="reaction-networks-90d.html">reaction-networks</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
+<td>Barsha Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="chgnet-90d.html">chgnet</a> · <a href="mace-90d.html">mace</a> · <a href="mlip-90d.html">mlip</a></div></td>
@@ -38,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30681.html">Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$_3$ thin films</a></div></td>
 <td>Aditya Mehta et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30681">2611.30681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31432.html">Current-Dependent Meta-GGA and Local Hybrid Functionals for Relativistic NMR Shifts</a></div></td>
+<td>Yannick J. Franzke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31432">2611.31432</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-22</td>
@@ -1256,17 +1298,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27533.html">Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Manasa Kaniselvan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27533">2608.27533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="adsorption-90d.html">adsorption</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="surface-defects-90d.html">surface-defects</a> · <a href="vacancies-90d.html">vacancies</a></div></td>
-<td>Reza Khakpour et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26314.html">Dispersive Forward Tree Search for Optimal Control: Coverage, Complexity, and Computation</a></div></td>
-<td>Shashank A. Deshpande et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26314">2608.26314</a></td>
 </tr>
 </tbody></table>

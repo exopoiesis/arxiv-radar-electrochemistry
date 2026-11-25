@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="chgnet-7d.html">chgnet</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a> · <a href="mlip-7d.html">mlip</a></div></td>
@@ -68,23 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25284.html">Altermagnetic magnon splitting in hematite: from bulk g-wave to planar i-wave</a></div></td>
 <td>Tobias Dannegger et al.</td>
 <td><a href="http://arxiv.org/abs/2611.25284">2611.25284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22626.html">Prior-guided adaptive local refinement of foundation interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="phase-stability-7d.html">phase-stability</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Yunlong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22626">2611.22626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22644.html">Computational Modeling of Sublattice Magnetization in CoTb/Co/CoTb Magnetic Multilayer Nanojunctions Between Cobalt Leads</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Sushita Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22644">2611.22644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22664.html">VQkit: A Unified and Extensible Framework for VASP and Quantum ESPRESSO Pre- and Post-Processing</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
-<td>Rajkamal Anand et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22664">2611.22664</a></td>
 </tr>
 </tbody></table>

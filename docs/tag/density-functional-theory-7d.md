@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32133.html">OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>Mikołaj Martyka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32133">2611.32133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32265.html">First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter</a></div></td>
+<td>Rashmi Ranjan Routaray et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32265">2611.32265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32611.html">Modulations of the photoswitching performances of azobenzene-based molecular devices by the π-conjugated spacers</a></div></td>
+<td>Laurette-Apolline Jerro et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32611">2611.32611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32761.html">Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a></div></td>
+<td>Amrendra Kumar Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32761">2611.32761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="reaction-networks-7d.html">reaction-networks</a> · <a href="vacancies-7d.html">vacancies</a></div></td>
+<td>Barsha Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="chgnet-7d.html">chgnet</a> · <a href="mace-7d.html">mace</a> · <a href="mlip-7d.html">mlip</a></div></td>
@@ -38,6 +74,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30681.html">Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$_3$ thin films</a></div></td>
 <td>Aditya Mehta et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30681">2611.30681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31432.html">Current-Dependent Meta-GGA and Local Hybrid Functionals for Relativistic NMR Shifts</a></div></td>
+<td>Yannick J. Franzke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31432">2611.31432</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-22</td>
@@ -104,35 +146,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24754.html">Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
 <td>Daniel Jansen et al.</td>
 <td><a href="http://arxiv.org/abs/2611.24754">2611.24754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22272.html">Neural Network Path Optimization for Finding Transition States on a Machine Learned Potential</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="neb-7d.html">neb</a></div></td>
-<td>Kareem Hegazy et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22272">2611.22272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22644.html">Computational Modeling of Sublattice Magnetization in CoTb/Co/CoTb Magnetic Multilayer Nanojunctions Between Cobalt Leads</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Sushita Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22644">2611.22644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22664.html">VQkit: A Unified and Extensible Framework for VASP and Quantum ESPRESSO Pre- and Post-Processing</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Rajkamal Anand et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22664">2611.22664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22786.html">Quantum-classical dynamical density functional theory for solvation dynamics</a></div></td>
-<td>Paul Bergold et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22786">2611.22786</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23535.html">Application of Pretrained Universal Machine Learning Force-Fields for Phase Transitions Prediction in ZrO2</a></div><div class="paper-tags"><a href="chgnet-7d.html">chgnet</a> · <a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Rajan Khadka et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23535">2611.23535</a></td>
 </tr>
 </tbody></table>

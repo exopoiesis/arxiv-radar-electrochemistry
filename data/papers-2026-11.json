@@ -4078,5 +4078,339 @@
    "Atomistic Modeling of Sulfides and Minerals"
   ],
   "updated": "2026-11-23"
+ },
+ "2611.31404": {
+  "abstract": "In wetting and multiphase systems, three-phase contact lines form where liquid, solid, and gas phases meet, creating effectively one-dimensional boundaries with distinct molecular environments. Despite their ubiquity in droplets, liquid menisci, capillary bridges, porous materials, and confined multiphase systems, molecular adsorption at these lower-dimensional boundaries has remained largely unexplored. Here, we use molecular dynamics simulations to show that the contact line on a hydrophobic substrate is not merely the geometric intersection of two interfaces but a distinct thermodynamic adsorption environment with a substantially stronger affinity for amphiphilic molecules than either neighboring interface. The investigated amphiphiles of different molecular structures exhibit a common scaling relation between line and surface adsorption in the dilute regime, while their behavior becomes molecule-specific at higher concentrations. Furthermore, contact-line affinity increases exponentially with alkyl-chain length, leading to crowding at progressively lower concentrations and making contact lines extraordinarily sensitive to trace amphiphilic impurities. Because line, surface, and bulk populations scale differently with system size, contact-line adsorption becomes increasingly important at small length scales, where it can substantially alter molecular partitioning. Contact-line enrichment is predicted to reduce the line tension by an amount comparable to its intrinsic magnitude, with potentially substantial consequences for heterogeneous nucleation. Our results establish molecular adsorption as a fundamental property of three-phase contact lines with implications for wetting and multiphase systems across length scales.",
+  "authors": [
+   "Fabio Staniscia",
+   "Matej Kanduč"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Fabio Staniscia",
+  "pdf_url": "http://arxiv.org/pdf/2611.31404",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-23",
+  "tags": [
+   "adsorption",
+   "molecular-dynamics"
+  ],
+  "title": "Three-phase contact lines as distinct molecular adsorption environments",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
+ },
+ "2611.31432": {
+  "abstract": "NMR chemical shifts are key for the characterization of novel compounds. Especially for molecules with heavy elements, the experimental data is often corroborated with computational studies in density functional theory (DFT). However, modern meta-generalized gradient approximations (meta-GGAs) and local hybrid functionals are not widely supported in relativistic calculations with quantum chemistry program suites. So far, their current-dependent generalization in the spirit of Dobson, Becke, and Tao was not presented at all. This generalization ensures gauge invariance and does not introduce artifacts--unlike the more popular field-dependent generalization of the kinetic-energy density. In non-relativistic and scalar-relativistic calculations, the first was shown to be superior but the current density only arises due to the magnetic field perturbation. In contrast, spin--orbit coupling also induces current densities in the preceding ground-state calculation and the DFT framework needs to be generalized to a current density functional theory (CDFT) for consistency with the current-dependent response equations. Herein, we present the two-component relativistic generalization of the current-dependent kinetic-energy density of a Kramers-restricted Kohn--Sham reference for meta-GGAs and local hybrid functionals in NMR calculations. The extension is invariant under a position-dependent phase and a position-dependent spin rotation of the spinors, or a local U(1)$\\times$SU(2) transformation. Relativistic effects are considered with exact two-component theory using a superposition of atomic potentials to include the two-electron picture-change correction (SAP-X2C).",
+  "authors": [
+   "Yannick J. Franzke",
+   "Christof Holzer"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "19 pages, 2 figures",
+  "first_author": "Yannick J. Franzke",
+  "pdf_url": "http://arxiv.org/pdf/2611.31432",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-23",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Current-Dependent Meta-GGA and Local Hybrid Functionals for Relativistic NMR Shifts",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-23"
+ },
+ "2611.31865": {
+  "abstract": "Equivariant machine-learned interatomic potentials (MLIPs) achieve near-quantum-chemical accuracy, but their computational cost and GPU memory footprint restrict molecular dynamics (MD) at extended length and time scales. Even when the tensor product (TP) is accelerated, both bottlenecks remain governed by evaluating and storing per-edge radial weights in the NequIP convolution. We introduce JET-MLIPs (Joint-Kernel Equivariant Convolution with Tabulated Radial Weights for MLIP simulation), a GPU backend applicable to pretrained NequIP-family potentials without retraining. JET-MLIPs replaces the radial multilayer perceptron (MLP) with a piecewise cubic Hermite table and fuses table lookup, spherical harmonics, TP and neighbor aggregation into a single kernel, eliminating per-edge radial-weight and MLP-intermediate storage during force evaluation. Across 15 released potentials from SevenNet, MACE, NequIP-OAM, Nequix and EquFlash on a 5632-atom liquid electrolyte, LAMMPS MD attains 1.5-5.9$\\times$ step-time speed-ups and 2.4-24$\\times$ peak memory reductions relative to each family's existing TP-accelerated backend on a single H200 GPU while preserving single-precision (fp32) accuracy and dynamical stability. These reductions enable multi-nanosecond transport-property simulations of roughly $10^4$-atom systems on a single GPU and broaden access to large-scale equivariant MLIP MD on widely available GPUs.",
+  "authors": [
+   "Jaekyun Yoo",
+   "Suyeon Ju"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.PF"
+  ],
+  "comment": "47 pages including references, 6 Figures and 4 Tables in main manuscript",
+  "first_author": "Jaekyun Yoo",
+  "pdf_url": "http://arxiv.org/pdf/2611.31865",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-24",
+  "tags": [
+   "mace",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32059": {
+  "abstract": "Atomically dispersed catalysts exhibit molecule-solid crossover character when localized metal orbitals hybridize with support-derived bands, a regime not fully captured by either a d-band-center description or a frontier-orbital picture. We establish an electronic-to-geometric framework for oxygen reduction across fourteen metals. N-to-P substitution in M-N4 sites raises theoretical onset potentials in 13 systems, with Rh-N3P reaching 0.88 V, comparable to the Pt(111) benchmark. Scaling relations reduce *OOH, *O, and *OH thermodynamics to $Δ$G*OH. M-N4 follows a dyz-dominated frontier-orbital picture, whereas M-N3P requires a weighted frontier d-state representation built from adsorption-relevant orbitals and their occupancies. The resulting $ε$WFDS correlates with $Δ$G*OH at $R^2$ = 0.92, compared with 0.83 for the d-band center and 0.64 for the frontier-orbital. The identified roles of orbital occupancy and local coordination suggest an interpretable geometric descriptor, $ζ$M-N3P = nd/rM-P, that predicts $Δ$G*OH at $R^2$ = 0.96. The ORR volcano analysis identifies strong-binding systems and motivates axial oxygen coordination. This design raises onset potentials by 0.70-2.46 V, and the M-N3PO descriptor predicts $Δ$G*OH at $R^2$ = 0.91. By bridging frontier-orbital and d-band-center descriptions, the framework provides a physically grounded electronic representation and a geometry-based screening route compatible with machine-learned interatomic potentials.",
+  "authors": [
+   "Yuqi Li",
+   "Zewen Wu",
+   "Longling Pang",
+   "Zhidan Li",
+   "Xianghua Kong"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yuqi Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.32059",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-24",
+  "tags": [
+   "adsorption"
+  ],
+  "title": "From Weighted Frontier d-States to Geometric Descriptors for Atomically Dispersed Catalysts at the Molecule-Solid Crossover",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32133": {
+  "abstract": "Computational photochemistry supports the design and understanding of new materials. However, the high cost of excited-state quantum-mechanical (QM) calculations makes screening large molecular libraries prohibitively expensive. To address this limitation, we introduce OMNI-P3x, a universal machine-learned interatomic potential (MLIP) for singlet ground- and excited-state simulations of neutral and charged organic molecules. Trained on both ground- and excited-state conformations, it performs complete computational photochemistry workflows with accuracy approaching TD-DFT. We demonstrate its practical applicability by screening a combinatorial library of 234,375 flavylium derivatives, where the pretrained model performs ground-state geometry optimization and predicts absorption properties without additional QM calculations. Following fine-tuning, we further screen 162,960 xanthene-based dyes, identifying new candidates for red, near-infrared and short-wavelength infrared emission. Furthermore, state-dependent neural charges, learned without reference atomic charges, provide an interpretable picture of intramolecular charge redistribution upon excitation.",
+  "authors": [
+   "Mikołaj Martyka",
+   "Joanna Jankowska",
+   "Pavlo O. Dral"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "10 figures and a graphical abstract",
+  "first_author": "Mikołaj Martyka",
+  "pdf_url": "http://arxiv.org/pdf/2611.32133",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-24",
+  "tags": [
+   "density-functional-theory",
+   "mlip"
+  ],
+  "title": "OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows",
+  "topics": [
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32265": {
+  "abstract": "In correlated two-dimensional magnets the balance between competing electronic and magnetic phases is often set by the strength of the on-site Coulomb interaction, so that the predicted ground state can hinge on a parameter that is not uniquely defined. Monolayer CrS$_2$ lies squarely in this regime, hosting several energetically close polymorphs whose character ranges from non-magnetic semiconducting to magnetically ordered metallic. We therefore investigate, using DFT$+U$ within the generalized gradient approximation, the structural, magnetic, and electronic properties of the 1H, 1T, 1T$'$, and 1T$''$ polymorphs of monolayer CrS$_2$ under varying Hubbard interactions ($U=0$--$8$~eV) and biaxial strain ($-10\\%$ to $+10\\%$). The 1T-derived structures remain metallic and magnetic throughout, with $U$ acting mainly as a spectral renormalization. The 1H phase behaves differently, passing from a non-magnetic semiconductor through an antiferromagnetic semiconducting regime before metallizing, so that the gap closes as $U$ increases while the local Cr moment grows monotonically. Biaxial tensile strain at fixed $U$ induces a similar sequence of transitions. Along both tuning pathways, the two inequivalent nearest-neighbor Cr--Cr exchange channels progressively separate and cross, with the parallel-spin channel becoming dominant, accompanied by a breathing-type bond disproportionation. Independent calculations with a localized-orbital implementation reproduce the overall evolution but yield shifted critical values of $U$ and of strain, demonstrating the robustness of the phase diagram while highlighting the implementation dependence of the transition thresholds.",
+  "authors": [
+   "Rashmi Ranjan Routaray",
+   "Ali Ghojavand",
+   "Eric Bousquet"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rashmi Ranjan Routaray",
+  "pdf_url": "http://arxiv.org/pdf/2611.32265",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-24",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32568": {
+  "abstract": "Improvements in molecular property prediction are usually attributed to the model, although part of the gain may come from the molecular representation. New models are commonly benchmarked against a random forest (RF) trained on a molecular fingerprint, a comparison that changes the model and the representation at the same time. We separate the two contributions with a two-by-two factorial design in which the RF and a second model (CatBoost or the tabular foundation models TabPFN and TabFM) are each trained on a fingerprint and on RDKit descriptors, and each effect is tested with a paired scaffold bootstrap. Seven small MoleculeNet datasets (3 regression, 4 classification) are evaluated on the published split of a recent graph transformer (DGT), on 10 additional scaffold splits and on external datasets. For solubility and lipophilicity, the representation effect exceeds the model effect in every main factorial design, in all three evaluations. For hydration free energy, the result depends on the starting fingerprint: from ECFP4 the representation effect is larger, and from MACCS neither effect is significantly larger. On the classification datasets, only one main factorial design has a significant difference between the two effects. Although the model effect is smaller on solubility and lipophilicity, TabFM outperforms the RF on all 7 datasets when both use RDKit descriptors. With RDKit descriptors in place of a fingerprint, the RF baseline reported for DGT surpasses the transformer's published solubility score. We recommend that model comparisons evaluate classical baselines on more than one representation and report the representation and model effects separately.",
+  "authors": [
+   "Nora A. M. A. Talkhan",
+   "Ibrahim Abdelbaky",
+   "Fatma A. Omara"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted at the 2026 7th International Conference on Computing and Informatics (ICCI), Cairo, Egypt. 7 pages plus a 6-page supplement",
+  "first_author": "Nora A. M. A. Talkhan",
+  "pdf_url": "http://arxiv.org/pdf/2611.32568",
+  "primary_category": "cs.LG",
+  "published": "2026-11-24",
+  "tags": [
+   "solvation-thermodynamics"
+  ],
+  "title": "Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation",
+  "topics": [
+   "Aqueous Chemistry and Solvation"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32611": {
+  "abstract": "The nature of the π-conjugated spacer is a key element to tune the electrical conductance and optical switching properties of metal-spacer-azobenzene-metal molecular devices. We report that the azobenzene-based molecular junctions with a thiophene or a phenylthiophene spacer exhibit a high cis/trans conductance ratio (ca. 1,000), while those with a bithiophene spacer have a lower conductance switching ratio (ca. 500) at the stated conditions (light wavelength and intensity) and for one batch of samples (out of two). Similarly, the two former molecular junctions have quite similar trans-to-cis isomerization kinetics, while the latter has a lower switching rate. The energy level of the highest occupied molecular orbital, which controls the electron transfer in the molecular junction, is weakly influenced by the nature of the spacer, nor by the conformation of the azobenzene moieties. The large increase in the conductance of the molecular junction with azobenzene in the cis-state is explained by an increase in the electronic coupling energy between the molecule and the top electrode. Theoretical studies by Density Functional Theory and Non Equilibrium Green's Functions are qualitatively consistent with the experiments. We find a consistent structure-property trend, showing that the higher molecule/electrode coupling energy for the cis-state is explained by the top benzene ring of the azobenzene lying flat with respect to the top electrode for the thiophene, phenylthiophene and bithiophene spacers. On the contrary, we observe that a spacer with a carbon-carbon triple bond (acetylene thiophene) induces a large irreproducibility and unpredictability of the results.",
+  "authors": [
+   "Laurette-Apolline Jerro",
+   "Imen Hnid",
+   "Imane Arbouch",
+   "Ali Yassin",
+   "David Guérin",
+   "Alexis Elias",
+   "Colin van Dyck",
+   "Lionel Sanguinet",
+   "Jérôme Cornil",
+   "Stéphane Lenfant",
+   "Philippe Blanchard",
+   "Dominique Vuillaume"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Laurette-Apolline Jerro",
+  "pdf_url": "http://arxiv.org/pdf/2611.32611",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-11-24",
+  "tags": [
+   "density-functional-theory"
+  ],
+  "title": "Modulations of the photoswitching performances of azobenzene-based molecular devices by the π-conjugated spacers",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Redox and Autocatalytic Electrochemical Networks"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32659": {
+  "abstract": "Spontaneous formation of an oxide film, which may be passive, is found in many metals such as Al and Ti. We report direct computational observation of oxide film formation on the three major light structural metals, Al, Mg, and Ti, with molecular dynamics (MD) using a universal neural network potential (NNP). O2 molecules were supplied during MD simulations to replenish O consumed by the metal. Al and Ti formed a 1-2 nm thick film within a few ps of the simulation with O2 gas pressure of 102-103 atm. The film thicknesses of all metal oxides continued to increase proportionally to the logarithm of simulation time, consistent with Cabrera-Mott theory. Al and Ti oxides grow at the surface, while Mg oxide grows into the Mg metal. Al, Mg, and Ti are approximately 4.4, 4.3, and 5.2-fold coordinated, respectively, in the oxide.",
+  "authors": [
+   "Yoyo Hinuma",
+   "Taisuke Hasegawa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yoyo Hinuma",
+  "pdf_url": "http://arxiv.org/pdf/2611.32659",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-24",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Comparative Molecular Dynamics Study of Initial Oxide Film Growth on Al, Mg, and Ti Using a Universal Neural Network Potential",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals",
+   "Sulfidation, Phase Stability, and Corrosion"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32723": {
+  "abstract": "Heterostructure interfaces created by stacking two-dimensional (2D) materials outline an appealing route towards achieving advanced electronic and magnetic functionalities at the nanoscale. Non-van der Waals (non-vdW) sandwich-like heterostructures (HSs) are build out of non-vdW 2D materials derived from non-layered crystals and establish a new frontier enabling strong interfacial coupling. Employing ab initio density functional theory (DFT), we investigate two classes of such trilayer HSs: purely non-vdW assemblies and hybrid vdW/non-vdW/vdW stacks. We show that non-vdW sandwiches undergo pronounced geometric reconstruction forming chemically bonded interfaces with large absolute binding energies up to an order of magnitude larger than those of conventional vdW HSs. These strong interactions drive extensive electronic hybridization, band gap renormalization, and tunable interlayer magnetic coupling. In contrast, vdW encapsulation largely protects the intrinsic atomic and electronic structure of the non-vdW sheet from the environment , while enabling charge transfer doping of the vdW layers. Our results thus establish sandwich HSs a versatile interface design platform, spanning interaction regimes from weakly perturbed encapsulation to strongly interacting chemically bonded systems with emergent electronic and magnetic behavior.",
+  "authors": [
+   "Anastasiia Nihei",
+   "Rico Friedrich"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "13 pages, 10 figues",
+  "first_author": "Anastasiia Nihei",
+  "pdf_url": "http://arxiv.org/pdf/2611.32723",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-24",
+  "tags": [
+   "ab-initio",
+   "density-functional-theory"
+  ],
+  "title": "Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures",
+  "topics": [
+   "Electrochemical Interfaces and Solvation"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32761": {
+  "abstract": "Heat flow across the core-mantle boundary (CMB) depends on the lattice thermal conductivity ($κ_{\\mathrm{latt}}$) of lowermost-mantle minerals, yet calculated CMB values for MgO differ severalfold, and high-temperature estimates of the conductivity increase across the bridgmanite-post-perovskite transition range from about 20 to 50%. Direct solutions of the linearized phonon Boltzmann transport equation (LBTE) require thousands of density functional theory (DFT) force evaluations per thermodynamic state. Here we replace these evaluations with phase-specific, fine-tuned MACE potentials for MgO, MgSiO3 bridgmanite (Pv), and MgSiO3 post-perovskite (PPv). The potentials reproduce DFT energies, forces, stresses, pressure-volume relations, and compressed-state phonons for all three phases. For MgO at 0 GPa, replacing MACE forces with DFT forces in otherwise identical transport calculations changes $κ_{\\mathrm{latt}}$ by 0.2% at 300 K and 1.9% at 2000 K. PPv is 44-55% more conductive than Pv at the same pressure and temperature and strongly anisotropic, with $κ_{[100]}/κ_{[010]}$ ranging from 1.7 to 2.1. The quasi-harmonic phase boundary has a Clapeyron slope of $(7.4 \\pm 0.1)$ MPa/K and intersects a model geotherm at 116.2 GPa and 2660 K, where the transition raises the silicate conductivity by 47%, to 8.6 W/(m K). Heating in the basal thermal boundary layer lowers the MgO and PPv conductivities to 37.3 and 6.7 W/(m K) at the CMB, where Hashin-Shtrikman bounds of 9.5-11.4 W/(m K) for an Fe-free aggregate of 80 vol% silicate and 20 vol% MgO encompass the 10 W/(m K) used in earlier heat-flow estimates. The density-temperature parameterizations provide an intrinsic end-member reference for lower-mantle thermal models.",
+  "authors": [
+   "Amrendra Kumar Tiwari",
+   "Sandro Jahn"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Amrendra Kumar Tiwari",
+  "pdf_url": "http://arxiv.org/pdf/2611.32761",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-24",
+  "tags": [
+   "density-functional-theory",
+   "mace"
+  ],
+  "title": "Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals",
+   "Machine-Learned Potentials for Sulfides and Minerals"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.32850": {
+  "abstract": "DNA defects arise frequently, either as a result of damage, protein binding or the action of molecular enzymes such as an RNA polymerase. Here we combine geometry, atomistic simulations and an analysis of real DNA structures to provide a quantitative characterisation of DNA defects and their dynamics. The composite order parameter describing defects geometrically is a backbone-to-base polar vector, together with a quaternion capturing 3D base orientation in a single strand. There are three types of defects: flips of the polar vector, stacking defects of bases, and composite defects encompassing both. All types of defects feature in realistic structures for DNA and have functional relevance. Additionally, biased molecular dynamics simulations of DNA with an imposed elastic deformation form flip or stacking defects whose abundance and dynamics strongly depend on sequence and type of deformation. Our results provide a link between geometry and biochemistry, and could also be applied, for instance, to identify defects in RNA molecules and nucleosome arrays.",
+  "authors": [
+   "A. Fassino",
+   "E. Carlon",
+   "D. Marenduzzo"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "12 pages, 7 figures",
+  "first_author": "A. Fassino",
+  "pdf_url": "http://arxiv.org/pdf/2611.32850",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-24",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Geometry and topology of DNA defects",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.33060": {
+  "abstract": "Native vacancy populations in transition-metal nitride coatings reflect vacancy formation, association, and depth-dependent stability. Using density functional theory (DFT), we compare these effects in rocksalt TiN and CrN in bulk and at (001) surfaces, within phase-stability-constrained chemical potential ranges. In TiN, $V_\\mathrm{N}$ is favoured under N-poor and $V_\\mathrm{Ti}$ under N-rich conditions; in CrN, $V_\\mathrm{N}$ remains preferred throughout its stability range. Association energies are referenced to corresponding isolated vacancies where positive values mean association lowers the energy and negative values favour separation. Mean bulk association energies for mixed metal-nitrogen pairs are $+0.132$ eV in TiN and $+1.053$ eV in CrN. At (001) surfaces, $V_\\mathrm{N}$ in TiN prefers the surface and $V_\\mathrm{Ti}$ the first subsurface layer. In CrN, $V_\\mathrm{N}$ has similar formation energies at the surface and first subsurface layer, with a slight preference for the latter; $V_\\mathrm{Cr}$ slightly prefers the second subsurface layer. Surface cluster energies are referenced to separated vacancies at their preferred depths. The compact $2V_\\mathrm{Ti}+2V_\\mathrm{N}$ cluster in TiN has favourable association in bulk ($+0.217$ eV per vacancy) but unfavourable association at the surface ($-0.346$ eV per vacancy). By contrast, $2V_\\mathrm{Cr}+2V_\\mathrm{N}$ in CrN remains stabilised, with its association energy decreasing from $+1.188$ to $+0.431$ eV per vacancy. CrN's stronger association occurs without larger structural distortions and is accompanied by distinct Cr-centred magnetic responses.",
+  "authors": [
+   "Barsha Bhattacharjee",
+   "Emilia Olsson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Barsha Bhattacharjee",
+  "pdf_url": "http://arxiv.org/pdf/2611.33060",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-24",
+  "tags": [
+   "density-functional-theory",
+   "reaction-networks",
+   "vacancies"
+  ],
+  "title": "Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects",
+  "topics": [
+   "Atomistic Modeling of Sulfides and Minerals"
+  ],
+  "updated": "2026-11-24"
  }
 }

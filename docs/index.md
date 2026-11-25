@@ -5,9 +5,9 @@ title: "Electrochemistry &amp; Mineral Surfaces arXiv Radar"
 
 # Electrochemistry &amp; Mineral Surfaces arXiv Radar
 
-_Updated 2026-11-24._
+_Updated 2026-11-25._
 
-**3664** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3677** relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemistry, aqueous interfaces, ion transport, and prebiotic mineral catalysis.
 
@@ -16,6 +16,72 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.31865.html">Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion</a></div><div class="paper-tags"><a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jaekyun Yoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31865">2611.31865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32059.html">From Weighted Frontier d-States to Geometric Descriptors for Atomically Dispersed Catalysts at the Molecule-Solid Crossover</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a></div></td>
+<td>Yuqi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32059">2611.32059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32133.html">OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Mikołaj Martyka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32133">2611.32133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32265.html">First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Rashmi Ranjan Routaray et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32265">2611.32265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32568.html">Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation</a></div><div class="paper-tags"><a href="tag/solvation-thermodynamics-30d.html">solvation-thermodynamics</a></div></td>
+<td>Nora A. M. A. Talkhan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32568">2611.32568</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32611.html">Modulations of the photoswitching performances of azobenzene-based molecular devices by the π-conjugated spacers</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Laurette-Apolline Jerro et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32611">2611.32611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32659.html">Comparative Molecular Dynamics Study of Initial Oxide Film Growth on Al, Mg, and Ti Using a Universal Neural Network Potential</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yoyo Hinuma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32659">2611.32659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32761.html">Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a></div></td>
+<td>Amrendra Kumar Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32761">2611.32761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32850.html">Geometry and topology of DNA defects</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>A. Fassino et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32850">2611.32850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/reaction-networks-30d.html">reaction-networks</a> · <a href="tag/vacancies-30d.html">vacancies</a></div></td>
+<td>Barsha Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/chgnet-30d.html">chgnet</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
@@ -51,6 +117,18 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.30681.html">Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$_3$ thin films</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Aditya Mehta et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30681">2611.30681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.31404.html">Three-phase contact lines as distinct molecular adsorption environments</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Fabio Staniscia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31404">2611.31404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.31432.html">Current-Dependent Meta-GGA and Local Hybrid Functionals for Relativistic NMR Shifts</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
+<td>Yannick J. Franzke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31432">2611.31432</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-22</td>
@@ -117,83 +195,5 @@ Curated arXiv papers on electrochemistry, sulfide / mineral surfaces, geochemist
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27955.html">Molecular structure breaks universality in screening behavior of electrolyte solutions</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Anna T. Bui et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27955">2611.27955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.28186.html">Updated View on Titan&#x27;s Habitability: Interior and Surface Aqueous Environments</a></div><div class="paper-tags"><a href="tag/origin-of-life-30d.html">origin-of-life</a></div></td>
-<td>Diogo Gonçalves et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28186">2611.28186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.28279.html">First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Takwa Ben Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28279">2611.28279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.28306.html">Adaptive Warm-State Retention for Serverless Cold-Start Mitigation: Treating Keep-Alive Time as an Online Control Parameter</a></div><div class="paper-tags"><a href="tag/aimd-30d.html">aimd</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sanjeet Raj Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28306">2611.28306</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25375.html">Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alex Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25375">2611.25375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Changzhi Ai et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25784.html">Quantitative approximations for finite-state mean-field configuration models</a></div><div class="paper-tags"><a href="tag/autocatalysis-30d.html">autocatalysis</a></div></td>
-<td>Arnab Ganguly et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25784">2611.25784</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.26208.html">Theory of magneto-electrokinetics in unidirectional electrolyte flow: Hydrodynamic potential and Hall effect</a></div><div class="paper-tags"><a href="tag/ion-transport-30d.html">ion-transport</a></div></td>
-<td>Yoav Tsori</td>
-<td><a href="http://arxiv.org/abs/2611.26208">2611.26208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div><div class="paper-tags"><a href="tag/adsorption-30d.html">adsorption</a> · <a href="tag/adsorption-energy-30d.html">adsorption-energy</a> · <a href="tag/density-functional-theory-30d.html">density-functional-theory</a></div></td>
-<td>Daiki Shintani et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23873">2611.23873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.24088.html">A GPU-Native Nested Sampling Framework for Finite-Temperature Materials Modelling with Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/phase-stability-30d.html">phase-stability</a></div></td>
-<td>Nico Unglert et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24088">2611.24088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.24097.html">Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Xing He et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24097">2611.24097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.24148.html">Machine learning interatomic potentials and orientational defects in polymers</a></div><div class="paper-tags"><a href="tag/density-functional-theory-30d.html">density-functional-theory</a> · <a href="tag/mace-30d.html">mace</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Arnold Kiv et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24148">2611.24148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.24508.html">Solid-state formation of H$_2$CS and CH$_3$SH in molecular clouds: Carbon-initiated reactions with atomic and molecular hydrogen</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
-<td>F. Kruczkiewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24508">2611.24508</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.24641.html">Choosing the Right Representations: Task-Aware Fusion for Multimodal Materials Language Models</a></div><div class="paper-tags"><a href="tag/chgnet-30d.html">chgnet</a></div></td>
-<td>Huu Binh Ta et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24641">2611.24641</a></td>
 </tr>
 </tbody></table>

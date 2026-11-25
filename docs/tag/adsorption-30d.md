@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32059.html">From Weighted Frontier d-States to Geometric Descriptors for Atomically Dispersed Catalysts at the Molecule-Solid Crossover</a></div></td>
+<td>Yuqi Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32059">2611.32059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31404.html">Three-phase contact lines as distinct molecular adsorption environments</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Fabio Staniscia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31404">2611.31404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="adsorption-energy-30d.html">adsorption-energy</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a></div></td>
 <td>Changzhi Ai et al.</td>
@@ -74,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40445.html">ML-COHP: predicting bond descriptors using latent space of a universal interatomic potentials</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="mace-30d.html">mace</a></div></td>
 <td>Daniil S. Alekseev et al.</td>
 <td><a href="http://arxiv.org/abs/2610.40445">2610.40445</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34354.html">Transition Metal-Anchored Newly Synthesized Aza-Triphenylene Monolayer for Efficient Hydrogen Evolution Reaction: Insights from DFT</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="aimd-30d.html">aimd</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="hydrogen-evolution-30d.html">hydrogen-evolution</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="neb-30d.html">neb</a></div></td>
-<td>Soumendra Kumar Das et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34354">2610.34354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34584.html">Methyl radicals dynamics on (100)--(2x1):H diamond surfaces based on refined variational transition state calculations of gas-surface reaction rate coefficients</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="neb-30d.html">neb</a></div></td>
-<td>Emerick Y. Guillaume et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34584">2610.34584</a></td>
 </tr>
 </tbody></table>

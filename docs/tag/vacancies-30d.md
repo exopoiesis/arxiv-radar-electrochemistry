@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="reaction-networks-30d.html">reaction-networks</a></div></td>
+<td>Barsha Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30330.html">Atomistic insight into defect-mediated boron redistribution and high-temperature strengthening in TiAl alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Xiang Meng et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36619.html">Comprehensive QM/ML Study of Dislocation Loop Line Segments in α-Zr Part I: &lt;a&gt; Loop Core Geometries, Solute Binding, and Transition Barriers</a></div><div class="paper-tags"><a href="neb-30d.html">neb</a></div></td>
 <td>Junting Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.36619">2610.36619</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34551.html">A thermodynamic correction layer for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="phase-stability-30d.html">phase-stability</a></div></td>
-<td>Sarath Menon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34551">2610.34551</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31865.html">Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion</a></div><div class="paper-tags"><a href="mace-7d.html">mace</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jaekyun Yoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31865">2611.31865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32133.html">OMNI-P3x universal neural network potential for large-scale computational photochemistry workflows</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a></div></td>
+<td>Mikołaj Martyka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32133">2611.32133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="chgnet-7d.html">chgnet</a> · <a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="mace-7d.html">mace</a></div></td>
 <td>Harry Sevi et al.</td>
@@ -38,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mace-7d.html">mace</a></div></td>
 <td>Arina A. Svinukhova et al.</td>
 <td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22272.html">Neural Network Path Optimization for Finding Transition States on a Machine Learned Potential</a></div><div class="paper-tags"><a href="density-functional-theory-7d.html">density-functional-theory</a> · <a href="neb-7d.html">neb</a></div></td>
-<td>Kareem Hegazy et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22272">2611.22272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22313.html">Supercell periodicity biases octahedral tilting and energetics in high-entropy perovskite oxides</a></div><div class="paper-tags"><a href="vacancies-7d.html">vacancies</a></div></td>
-<td>Hanzo Tsubota et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22313">2611.22313</a></td>
 </tr>
 </tbody></table>
