@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>impedance-spectroscopy — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="impedance-spectroscopy-7d.html">7d</a> <a href="impedance-spectroscopy-30d.html">30d</a> <a href="impedance-spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="impedance-spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01294.html">Experimental Methods, Health Indicators, and Diagnostic Strategies for Retired Lithium-ion Batteries: A Comprehensive Review</a></div></td>
 <td>Song Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01294">2512.01294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01125.html">Quantum magnetic imaging of current density in lithium-ion batteries</a></div></td>
-<td>W. Evans et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01125">2512.01125</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>solvation-thermodynamics — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="solvation-thermodynamics-7d.html">7d</a> <a href="solvation-thermodynamics-30d.html">30d</a> <strong>90d</strong> <a href="solvation-thermodynamics-360d.html">360d</a> <a href="solvation-thermodynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32568.html">Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation</a></div></td>
 <td>Nora A. M. A. Talkhan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32568">2611.32568</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33408.html">Computing hydration free energies and crystalline solubility of drug-like molecules with MACE</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="density-functional-theory-90d.html">density-functional-theory</a> · <a href="mace-90d.html">mace</a></div></td>
+<td>J. Harry Moore et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33408">2611.33408</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-05</td>
