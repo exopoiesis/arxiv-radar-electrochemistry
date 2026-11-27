@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>corrosion — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="corrosion-7d.html">7d</a> <a href="corrosion-30d.html">30d</a> <a href="corrosion-90d.html">90d</a> <strong>360d</strong> <a href="corrosion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17392.html">Comparative analysis of electrodeposited Pt, Ru and Pt-Ru overlays for high-temperature oxidation protection</a></div></td>
 <td>Majid Hosseinzadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2512.17392">2512.17392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01459.html">Silver Alloyed Wide Bandgap (Ag,Cu)(In,Ga)S2 Thin Film Solar Cells With 15.5% Efficiency</a></div><div class="paper-tags"><a href="chalcopyrite-360d.html">chalcopyrite</a></div></td>
-<td>Yucheng Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01459">2512.01459</a></td>
 </tr>
 </tbody></table>

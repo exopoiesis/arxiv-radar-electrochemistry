@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vacancies — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="vacancies-7d.html">7d</a> <strong>30d</strong> <a href="vacancies-90d.html">90d</a> <a href="vacancies-360d.html">360d</a> <a href="vacancies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02617.html">Collective dipole effects amplify field-driven ion transport in amorphous Li$_3$PO$_4$</a></div><div class="paper-tags"><a href="ion-transport-30d.html">ion-transport</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Haruka Doyu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02617">2611.02617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36619.html">Comprehensive QM/ML Study of Dislocation Loop Line Segments in α-Zr Part I: &lt;a&gt; Loop Core Geometries, Solute Binding, and Transition Barriers</a></div><div class="paper-tags"><a href="neb-30d.html">neb</a></div></td>
-<td>Junting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36619">2610.36619</a></td>
 </tr>
 </tbody></table>
