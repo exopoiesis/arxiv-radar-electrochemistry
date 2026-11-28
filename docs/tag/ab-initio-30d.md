@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40338.html">Differentiable Electronic Grand Canonical Learning for Electrochemistry</a></div><div class="paper-tags"><a href="aimd-30d.html">aimd</a> · <a href="density-functional-theory-30d.html">density-functional-theory</a> · <a href="electrochemical-interfaces-30d.html">electrochemical-interfaces</a> · <a href="mace-30d.html">mace</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Phillip E. Pope et al.</td>
 <td><a href="http://arxiv.org/abs/2610.40338">2610.40338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38937.html">Development and application of a machine learning potential for diamond surfaces and their sliding interfaces with silicon nitride and silica: effect of passivation, orientation and load</a></div><div class="paper-tags"><a href="corrosion-30d.html">corrosion</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Enrico Pedretti et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38937">2610.38937</a></td>
 </tr>
 </tbody></table>

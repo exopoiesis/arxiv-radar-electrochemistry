@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>density-functional-theory — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="density-functional-theory-30d.html">30d</a> <a href="density-functional-theory-90d.html">90d</a> <a href="density-functional-theory-360d.html">360d</a> <a href="density-functional-theory-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,23 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28754.html">Synthesis Method-dependent Resist-like Behavior of Liquid Crystalline Graphene Oxide Films Under Electron Beam Irradiation</a></div></td>
 <td>A. Sahakyan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28754">2611.28754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="oxygen-evolution-7d.html">oxygen-evolution</a></div></td>
-<td>Pedro H. Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27955.html">Molecular structure breaks universality in screening behavior of electrolyte solutions</a></div></td>
-<td>Anna T. Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27955">2611.27955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28279.html">First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Takwa Ben Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28279">2611.28279</a></td>
 </tr>
 </tbody></table>
